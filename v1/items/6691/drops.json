@@ -1,0 +1,132 @@
+{
+  "data": [
+    {
+      "id": "6691-6618",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.2"
+      },
+      "meta": {
+        "item_name": "Saradomin brew (1 dose)",
+        "monster_name": "Crazy archaeologist"
+      }
+    },
+    {
+      "id": "6691-6503",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Saradomin brew (1 dose)",
+        "monster_name": "Callisto"
+      }
+    },
+    {
+      "id": "6691-2054",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Saradomin brew (1 dose)",
+        "monster_name": "Chaos Elemental"
+      }
+    },
+    {
+      "id": "6691-6619",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.2"
+      },
+      "meta": {
+        "item_name": "Saradomin brew (1 dose)",
+        "monster_name": "Chaos Fanatic"
+      }
+    },
+    {
+      "id": "6691-6504",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Saradomin brew (1 dose)",
+        "monster_name": "Venenatis"
+      }
+    },
+    {
+      "id": "6691-6611",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Saradomin brew (1 dose)",
+        "monster_name": "Vet'ion (Normal)"
+      }
+    },
+    {
+      "id": "6691-6615",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.2"
+      },
+      "meta": {
+        "item_name": "Saradomin brew (1 dose)",
+        "monster_name": "Scorpia"
+      }
+    },
+    {
+      "id": "6691-6612",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Saradomin brew (1 dose)",
+        "monster_name": "Vet'ion (Reborn)"
+      }
+    }
+  ]
+}

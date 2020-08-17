@@ -1,0 +1,804 @@
+{
+  "data": [
+    {
+      "id": "207-8610",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 2,
+        "rarity": "0.00452161331162959"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Wyrm (Idle)"
+      }
+    },
+    {
+      "id": "205-8610",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 2,
+        "rarity": "0.00575648900222776"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Wyrm (Idle)"
+      }
+    },
+    {
+      "id": "203-8610",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 2,
+        "rarity": "0.00740143143683988"
+      },
+      "meta": {
+        "item_name": "Grimy tarromin",
+        "monster_name": "Wyrm (Idle)"
+      }
+    },
+    {
+      "id": "201-8610",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 2,
+        "rarity": "0.0098690378674983"
+      },
+      "meta": {
+        "item_name": "Grimy marrentill",
+        "monster_name": "Wyrm (Idle)"
+      }
+    },
+    {
+      "id": "995-8610",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 950,
+        "quantity_max": 1450,
+        "rarity": "0.105263157894737"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Wyrm (Idle)"
+      }
+    },
+    {
+      "id": "199-8610",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 2,
+        "rarity": "0.0131578947368421"
+      },
+      "meta": {
+        "item_name": "Grimy guam leaf",
+        "monster_name": "Wyrm (Idle)"
+      }
+    },
+    {
+      "id": "2722-8610",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00390625"
+      },
+      "meta": {
+        "item_name": "Clue scroll (hard)",
+        "monster_name": "Wyrm (Idle)"
+      }
+    },
+    {
+      "id": "23083-8610",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0124750499001996"
+      },
+      "meta": {
+        "item_name": "Brimstone key",
+        "monster_name": "Wyrm (Idle)"
+      }
+    },
+    {
+      "id": "43-8610",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 8,
+        "quantity_max": 12,
+        "rarity": "0.0263157894736842"
+      },
+      "meta": {
+        "item_name": "Adamant arrowtips",
+        "monster_name": "Wyrm (Idle)"
+      }
+    },
+    {
+      "id": "44-8610",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 8,
+        "quantity_max": 12,
+        "rarity": "0.0263157894736842"
+      },
+      "meta": {
+        "item_name": "Rune arrowtips",
+        "monster_name": "Wyrm (Idle)"
+      }
+    },
+    {
+      "id": "7936-8610",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 200,
+        "quantity_max": 300,
+        "rarity": "0.0394736842105263"
+      },
+      "meta": {
+        "item_name": "Pure essence",
+        "monster_name": "Wyrm (Idle)"
+      }
+    },
+    {
+      "id": "365-8610",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0921052631578947"
+      },
+      "meta": {
+        "item_name": "Bass",
+        "monster_name": "Wyrm (Idle)"
+      }
+    },
+    {
+      "id": "565-8610",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 25,
+        "quantity_max": 30,
+        "rarity": "0.0657894736842105"
+      },
+      "meta": {
+        "item_name": "Blood rune (Regular)",
+        "monster_name": "Wyrm (Idle)"
+      }
+    },
+    {
+      "id": "566-8610",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 15,
+        "quantity_max": 20,
+        "rarity": "0.0657894736842105"
+      },
+      "meta": {
+        "item_name": "Soul rune",
+        "monster_name": "Wyrm (Idle)"
+      }
+    },
+    {
+      "id": "22780-8610",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Wyrm bones",
+        "monster_name": "Wyrm (Idle)"
+      }
+    },
+    {
+      "id": "21009-8610",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0001"
+      },
+      "meta": {
+        "item_name": "Dragon sword",
+        "monster_name": "Wyrm (Idle)"
+      }
+    },
+    {
+      "id": "21028-8610",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0001"
+      },
+      "meta": {
+        "item_name": "Dragon harpoon",
+        "monster_name": "Wyrm (Idle)"
+      }
+    },
+    {
+      "id": "22804-8610",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 75,
+        "quantity_max": 150,
+        "rarity": "0.0001"
+      },
+      "meta": {
+        "item_name": "Dragon knife (Unpoisoned)",
+        "monster_name": "Wyrm (Idle)"
+      }
+    },
+    {
+      "id": "20849-8610",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 75,
+        "quantity_max": 150,
+        "rarity": "0.0001"
+      },
+      "meta": {
+        "item_name": "Dragon thrownaxe",
+        "monster_name": "Wyrm (Idle)"
+      }
+    },
+    {
+      "id": "1357-8610",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0263157894736842"
+      },
+      "meta": {
+        "item_name": "Adamant axe",
+        "monster_name": "Wyrm (Idle)"
+      }
+    },
+    {
+      "id": "2495-8610",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0394736842105263"
+      },
+      "meta": {
+        "item_name": "Red d'hide chaps",
+        "monster_name": "Wyrm (Idle)"
+      }
+    },
+    {
+      "id": "1183-8610",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0263157894736842"
+      },
+      "meta": {
+        "item_name": "Adamant sq shield",
+        "monster_name": "Wyrm (Idle)"
+      }
+    },
+    {
+      "id": "1371-8610",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0263157894736842"
+      },
+      "meta": {
+        "item_name": "Adamant battleaxe",
+        "monster_name": "Wyrm (Idle)"
+      }
+    },
+    {
+      "id": "1317-8610",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0263157894736842"
+      },
+      "meta": {
+        "item_name": "Adamant 2h sword",
+        "monster_name": "Wyrm (Idle)"
+      }
+    },
+    {
+      "id": "1399-8610",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0131578947368421"
+      },
+      "meta": {
+        "item_name": "Earth battlestaff",
+        "monster_name": "Wyrm (Idle)"
+      }
+    },
+    {
+      "id": "1147-8610",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0263157894736842"
+      },
+      "meta": {
+        "item_name": "Rune med helm",
+        "monster_name": "Wyrm (Idle)"
+      }
+    },
+    {
+      "id": "1373-8610",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0131578947368421"
+      },
+      "meta": {
+        "item_name": "Rune battleaxe",
+        "monster_name": "Wyrm (Idle)"
+      }
+    },
+    {
+      "id": "1215-8610",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0131578947368421"
+      },
+      "meta": {
+        "item_name": "Dragon dagger (Unpoisoned)",
+        "monster_name": "Wyrm (Idle)"
+      }
+    },
+    {
+      "id": "554-8610",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 200,
+        "quantity_max": null,
+        "rarity": "0.131578947368421"
+      },
+      "meta": {
+        "item_name": "Fire rune (Regular)",
+        "monster_name": "Wyrm (Idle)"
+      }
+    },
+    {
+      "id": "557-8610",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 75,
+        "quantity_max": 150,
+        "rarity": "0.131578947368421"
+      },
+      "meta": {
+        "item_name": "Earth rune (Regular)",
+        "monster_name": "Wyrm (Idle)"
+      }
+    },
+    {
+      "id": "5304-8610",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00033171163202123"
+      },
+      "meta": {
+        "item_name": "Torstol seed",
+        "monster_name": "Wyrm (Idle)"
+      }
+    },
+    {
+      "id": "5303-8610",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000497588355105588"
+      },
+      "meta": {
+        "item_name": "Dwarf weed seed",
+        "monster_name": "Wyrm (Idle)"
+      }
+    },
+    {
+      "id": "22879-8610",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.000663423264042459"
+      },
+      "meta": {
+        "item_name": "Snape grass seed",
+        "monster_name": "Wyrm (Idle)"
+      }
+    },
+    {
+      "id": "5302-8610",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000829279080053074"
+      },
+      "meta": {
+        "item_name": "Lantadyme seed",
+        "monster_name": "Wyrm (Idle)"
+      }
+    },
+    {
+      "id": "5301-8610",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0011609907120743"
+      },
+      "meta": {
+        "item_name": "Cadantine seed",
+        "monster_name": "Wyrm (Idle)"
+      }
+    },
+    {
+      "id": "5300-8610",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00165855816010615"
+      },
+      "meta": {
+        "item_name": "Snapdragon seed",
+        "monster_name": "Wyrm (Idle)"
+      }
+    },
+    {
+      "id": "22873-8610",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00248731469505522"
+      },
+      "meta": {
+        "item_name": "Potato cactus seed",
+        "monster_name": "Wyrm (Idle)"
+      }
+    },
+    {
+      "id": "5299-8610",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00248731469505522"
+      },
+      "meta": {
+        "item_name": "Kwuarm seed",
+        "monster_name": "Wyrm (Idle)"
+      }
+    },
+    {
+      "id": "5280-8610",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0034839968411762"
+      },
+      "meta": {
+        "item_name": "Cactus seed",
+        "monster_name": "Wyrm (Idle)"
+      }
+    },
+    {
+      "id": "5106-8610",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00364821480688783"
+      },
+      "meta": {
+        "item_name": "Poison ivy seed",
+        "monster_name": "Wyrm (Idle)"
+      }
+    },
+    {
+      "id": "5298-8610",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00364821480688783"
+      },
+      "meta": {
+        "item_name": "Avantoe seed",
+        "monster_name": "Wyrm (Idle)"
+      }
+    },
+    {
+      "id": "5281-8610",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00514181115156003"
+      },
+      "meta": {
+        "item_name": "Belladonna seed",
+        "monster_name": "Wyrm (Idle)"
+      }
+    },
+    {
+      "id": "5297-8610",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00530702933725818"
+      },
+      "meta": {
+        "item_name": "Irit seed",
+        "monster_name": "Wyrm (Idle)"
+      }
+    },
+    {
+      "id": "5296-8610",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00779496133699177"
+      },
+      "meta": {
+        "item_name": "Toadflax seed",
+        "monster_name": "Wyrm (Idle)"
+      }
+    },
+    {
+      "id": "217-8610",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 2,
+        "rarity": "0.00123345626780802"
+      },
+      "meta": {
+        "item_name": "Grimy dwarf weed",
+        "monster_name": "Wyrm (Idle)"
+      }
+    },
+    {
+      "id": "2485-8610",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 2,
+        "rarity": "0.00123345626780802"
+      },
+      "meta": {
+        "item_name": "Grimy lantadyme",
+        "monster_name": "Wyrm (Idle)"
+      }
+    },
+    {
+      "id": "215-8610",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 2,
+        "rarity": "0.00164473684210526"
+      },
+      "meta": {
+        "item_name": "Grimy cadantine",
+        "monster_name": "Wyrm (Idle)"
+      }
+    },
+    {
+      "id": "213-8610",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 2,
+        "rarity": "0.00205592105263158"
+      },
+      "meta": {
+        "item_name": "Grimy kwuarm",
+        "monster_name": "Wyrm (Idle)"
+      }
+    },
+    {
+      "id": "211-8610",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 2,
+        "rarity": "0.00246749080859674"
+      },
+      "meta": {
+        "item_name": "Grimy avantoe",
+        "monster_name": "Wyrm (Idle)"
+      }
+    },
+    {
+      "id": "209-8610",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 2,
+        "rarity": "0.00328947368421053"
+      },
+      "meta": {
+        "item_name": "Grimy irit leaf",
+        "monster_name": "Wyrm (Idle)"
+      }
+    }
+  ]
+}

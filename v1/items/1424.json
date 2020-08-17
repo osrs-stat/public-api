@@ -1,0 +1,160 @@
+{
+  "data": {
+    "id": "1424",
+    "type": "item",
+    "attributes": {
+      "uuid": "6f630e43-b12e-4879-be50-551b061f080b",
+      "name": "Steel mace",
+      "members": false,
+      "release_date": "2001-01-04",
+      "examine": "A spiky mace.",
+      "tradeable": false,
+      "ge_tradeable": false,
+      "lowalch": 90,
+      "highalch": 135,
+      "is_equip": true,
+      "is_weapon": true,
+      "icon_base64": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABZ0lEQVR4XuXUQUsCQRgGYPdHBBEES8QiHWIPhigtLS3KKmtsoAVGQUIeEjqYiGhhhh2sm9gx+qlvzU7jzk7X+GagF97bLD5884253P+JhbRawxF33S5eHib4WC6pUfIkUoioALm2TYHiALkyRjuo2Wjg/XVhBohhBEhGaQExSMX3ky6eppmSg2SMCrq5usTnapWU6KVZGYwMYhhRASKYkoW845gFOnBdHBaLOPa8NUjGiJKBjsrlBBJVqzit13EWx7jtdDDp9/H2PFuXDBQGAU5qIS5areTFTYfDnwXOlmFIQNftNu57PczHYzwOBpkfV6t+/cexUCpsIarsYDYaUU9CjYX9vQ2Evp2A1KmopwnyvcylbcS1XZ1TEbFQcDd/TUY9RRSOCbzsdNRThDHsqtirYotsDIZdVTNyzLgqhjFmkdneGHNVAmPMq1IxGkHp3pzHed3T4X+ABu0OC0cZghExCsNDjfkCv5mp4xDjNdEAAAAASUVORK5CYII="
+    },
+    "relationships": {
+      "equip": {
+        "data": {
+          "id": "0c6b6ab1-8e27-4cc6-94a3-2f08b089186e",
+          "type": "equip"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Steel_mace"
+    },
+    "meta": {
+      "incomplete": false
+    }
+  },
+  "included": [
+    {
+      "id": "0c6b6ab1-8e27-4cc6-94a3-2f08b089186e",
+      "type": "equip",
+      "attributes": {
+        "slot": "weapon",
+        "passive_effect": null,
+        "requirements": {
+          "attack_level": 5
+        }
+      },
+      "relationships": {
+        "equip_stat": {
+          "data": {
+            "id": "75fd216b-250e-46ab-b158-f898da5c405d",
+            "type": "equip_stat"
+          }
+        },
+        "attack_stat": {
+          "data": {
+            "id": "0931bc6e-55d4-4267-a6f2-7ec189404dda",
+            "type": "attack_stat"
+          }
+        }
+      }
+    },
+    {
+      "id": "0931bc6e-55d4-4267-a6f2-7ec189404dda",
+      "type": "attack_stat",
+      "attributes": {
+        "attack_speed": 5,
+        "attack_type": "spiked_weapon",
+        "special": null,
+        "stances": [
+          {
+            "name": "pound",
+            "style": "accurate",
+            "boosts": {
+              "accuracy": 3
+            },
+            "experience": {
+              "hitpoints": 1.3333,
+              "attack": 4
+            },
+            "combat_accuracy_stat": "attack_level",
+            "combat_damage_stat": "strength_level",
+            "equip_accuracy_stat": "crush_attack",
+            "equip_damage_stat": "crush_attack",
+            "target_equip_defense_stat": "crush_defense"
+          },
+          {
+            "name": "pummel",
+            "style": "aggressive",
+            "boosts": {
+              "damage": 3
+            },
+            "experience": {
+              "hitpoints": 1.3333,
+              "strength": 4
+            },
+            "combat_accuracy_stat": "attack_level",
+            "combat_damage_stat": "strength_level",
+            "equip_accuracy_stat": "crush_attack",
+            "equip_damage_stat": "crush_attack",
+            "target_equip_defense_stat": "crush_defense"
+          },
+          {
+            "name": "spike",
+            "style": "controlled",
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": {
+              "hitpoints": 1.3333,
+              "attack": 1.3333,
+              "strength": 1.3333,
+              "defense": 1.3333
+            },
+            "combat_accuracy_stat": "attack_level",
+            "combat_damage_stat": "strength_level",
+            "equip_accuracy_stat": "stab_attack",
+            "equip_damage_stat": "stab_attack",
+            "target_equip_defense_stat": "stab_defense"
+          },
+          {
+            "name": "block",
+            "style": "defensive",
+            "boosts": {
+              "defense": 3
+            },
+            "experience": {
+              "hitpoints": 1.3333,
+              "defense": 4
+            },
+            "combat_accuracy_stat": "attack_level",
+            "combat_damage_stat": "strength_level",
+            "equip_accuracy_stat": "crush_attack",
+            "equip_damage_stat": "crush_attack",
+            "target_equip_defense_stat": "crush_defense"
+          }
+        ]
+      }
+    },
+    {
+      "id": "75fd216b-250e-46ab-b158-f898da5c405d",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 7,
+        "slash_attack": -2,
+        "crush_attack": 13,
+        "ranged_attack": 0,
+        "magic_attack": 0,
+        "stab_defense": 0,
+        "slash_defense": 0,
+        "crush_defense": 0,
+        "ranged_defense": 0,
+        "magic_defense": 0,
+        "melee_strength": 11,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 2
+      }
+    }
+  ]
+}

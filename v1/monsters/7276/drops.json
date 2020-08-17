@@ -1,0 +1,580 @@
+{
+  "data": [
+    {
+      "id": "19681-7276",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "catacombs-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00303030303030303"
+      },
+      "meta": {
+        "item_name": "Dark totem middle",
+        "monster_name": "Mutated Bloodveld"
+      }
+    },
+    {
+      "id": "19683-7276",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "catacombs-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00303030303030303"
+      },
+      "meta": {
+        "item_name": "Dark totem top",
+        "monster_name": "Mutated Bloodveld"
+      }
+    },
+    {
+      "id": "1111-7276",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Adamant chainbody",
+        "monster_name": "Mutated Bloodveld"
+      }
+    },
+    {
+      "id": "867-7276",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Adamant knife (Unpoisoned)",
+        "monster_name": "Mutated Bloodveld"
+      }
+    },
+    {
+      "id": "1355-7276",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Mithril axe",
+        "monster_name": "Mutated Bloodveld"
+      }
+    },
+    {
+      "id": "1151-7276",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Black med helm",
+        "monster_name": "Mutated Bloodveld"
+      }
+    },
+    {
+      "id": "1369-7276",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.046875"
+      },
+      "meta": {
+        "item_name": "Mithril battleaxe",
+        "monster_name": "Mutated Bloodveld"
+      }
+    },
+    {
+      "id": "1159-7276",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0625"
+      },
+      "meta": {
+        "item_name": "Mithril full helm",
+        "monster_name": "Mutated Bloodveld"
+      }
+    },
+    {
+      "id": "526-7276",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Bones",
+        "monster_name": "Mutated Bloodveld"
+      }
+    },
+    {
+      "id": "1331-7276",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Adamant scimitar",
+        "monster_name": "Mutated Bloodveld"
+      }
+    },
+    {
+      "id": "2722-7276",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Clue scroll (hard)",
+        "monster_name": "Mutated Bloodveld"
+      }
+    },
+    {
+      "id": "23083-7276",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0131027253668763"
+      },
+      "meta": {
+        "item_name": "Brimstone key",
+        "monster_name": "Mutated Bloodveld"
+      }
+    },
+    {
+      "id": "23962-7276",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0416666666666667"
+      },
+      "meta": {
+        "item_name": "Crystal shard",
+        "monster_name": "Mutated Bloodveld"
+      }
+    },
+    {
+      "id": "13495-7276",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.05"
+      },
+      "meta": {
+        "item_name": "Ensouled bloodveld head (Drop)",
+        "monster_name": "Mutated Bloodveld"
+      }
+    },
+    {
+      "id": "20543-7276",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Reward casket (elite)",
+        "monster_name": "Mutated Bloodveld"
+      }
+    },
+    {
+      "id": "12073-7276",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Clue scroll (elite)",
+        "monster_name": "Mutated Bloodveld"
+      }
+    },
+    {
+      "id": "1698-7276",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Ruby amulet",
+        "monster_name": "Mutated Bloodveld"
+      }
+    },
+    {
+      "id": "2359-7276",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Mithril bar",
+        "monster_name": "Mutated Bloodveld"
+      }
+    },
+    {
+      "id": "2327-7276",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Meat pie (Full)",
+        "monster_name": "Mutated Bloodveld"
+      }
+    },
+    {
+      "id": "444-7276",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0546875"
+      },
+      "meta": {
+        "item_name": "Gold ore",
+        "monster_name": "Mutated Bloodveld"
+      }
+    },
+    {
+      "id": "1777-7276",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Bow string",
+        "monster_name": "Mutated Bloodveld"
+      }
+    },
+    {
+      "id": "566-7276",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 4,
+        "quantity_max": null,
+        "rarity": "0.0546875"
+      },
+      "meta": {
+        "item_name": "Soul rune",
+        "monster_name": "Mutated Bloodveld"
+      }
+    },
+    {
+      "id": "565-7276",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 7,
+        "quantity_max": null,
+        "rarity": "0.078125"
+      },
+      "meta": {
+        "item_name": "Blood rune (Regular)",
+        "monster_name": "Mutated Bloodveld"
+      }
+    },
+    {
+      "id": "565-7276",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 30,
+        "quantity_max": null,
+        "rarity": "0.1015625"
+      },
+      "meta": {
+        "item_name": "Blood rune (Regular)",
+        "monster_name": "Mutated Bloodveld"
+      }
+    },
+    {
+      "id": "554-7276",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 75,
+        "quantity_max": null,
+        "rarity": "0.0703125"
+      },
+      "meta": {
+        "item_name": "Fire rune (Regular)",
+        "monster_name": "Mutated Bloodveld"
+      }
+    },
+    {
+      "id": "556-7276",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 105,
+        "quantity_max": null,
+        "rarity": "0.0546875"
+      },
+      "meta": {
+        "item_name": "Air rune (Regular)",
+        "monster_name": "Mutated Bloodveld"
+      }
+    },
+    {
+      "id": "1373-7276",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Rune battleaxe",
+        "monster_name": "Mutated Bloodveld"
+      }
+    },
+    {
+      "id": "1213-7276",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Rune dagger (Unpoisoned)",
+        "monster_name": "Mutated Bloodveld"
+      }
+    },
+    {
+      "id": "1301-7276",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Adamant longsword",
+        "monster_name": "Mutated Bloodveld"
+      }
+    },
+    {
+      "id": "4125-7276",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Black boots",
+        "monster_name": "Mutated Bloodveld"
+      }
+    },
+    {
+      "id": "1147-7276",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Rune med helm",
+        "monster_name": "Mutated Bloodveld"
+      }
+    },
+    {
+      "id": "19677-7276",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "catacombs-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00454545454545455"
+      },
+      "meta": {
+        "item_name": "Ancient shard",
+        "monster_name": "Mutated Bloodveld"
+      }
+    },
+    {
+      "id": "1121-7276",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Mithril platebody",
+        "monster_name": "Mutated Bloodveld"
+      }
+    },
+    {
+      "id": "19679-7276",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "catacombs-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00303030303030303"
+      },
+      "meta": {
+        "item_name": "Dark totem base",
+        "monster_name": "Mutated Bloodveld"
+      }
+    },
+    {
+      "id": "995-7276",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 350,
+        "quantity_max": null,
+        "rarity": "0.078125"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Mutated Bloodveld"
+      }
+    },
+    {
+      "id": "995-7276",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 11,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Mutated Bloodveld"
+      }
+    }
+  ]
+}

@@ -1,0 +1,436 @@
+{
+  "data": [
+    {
+      "id": "995-3257",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.1796875"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Wizard"
+      }
+    },
+    {
+      "id": "995-3257",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.0703125"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Wizard"
+      }
+    },
+    {
+      "id": "995-3257",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 18,
+        "quantity_max": null,
+        "rarity": "0.0546875"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Wizard"
+      }
+    },
+    {
+      "id": "995-3257",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 30,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Wizard"
+      }
+    },
+    {
+      "id": "557-3257",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 12,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Earth rune (Regular)",
+        "monster_name": "Wizard"
+      }
+    },
+    {
+      "id": "2832-3257",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Key (Treasure Trails) (Medium)",
+        "monster_name": "Wizard"
+      }
+    },
+    {
+      "id": "1448-3257",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Mind talisman",
+        "monster_name": "Wizard"
+      }
+    },
+    {
+      "id": "1444-3257",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Water talisman",
+        "monster_name": "Wizard"
+      }
+    },
+    {
+      "id": "563-3257",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Law rune",
+        "monster_name": "Wizard"
+      }
+    },
+    {
+      "id": "565-3257",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Blood rune (Regular)",
+        "monster_name": "Wizard"
+      }
+    },
+    {
+      "id": "555-3257",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 12,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Water rune (Regular)",
+        "monster_name": "Wizard"
+      }
+    },
+    {
+      "id": "558-3257",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 12,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Mind rune",
+        "monster_name": "Wizard"
+      }
+    },
+    {
+      "id": "554-3257",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 12,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Fire rune (Regular)",
+        "monster_name": "Wizard"
+      }
+    },
+    {
+      "id": "559-3257",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 12,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Body rune",
+        "monster_name": "Wizard"
+      }
+    },
+    {
+      "id": "556-3257",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 12,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Air rune (Regular)",
+        "monster_name": "Wizard"
+      }
+    },
+    {
+      "id": "555-3257",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Water rune (Regular)",
+        "monster_name": "Wizard"
+      }
+    },
+    {
+      "id": "558-3257",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Mind rune",
+        "monster_name": "Wizard"
+      }
+    },
+    {
+      "id": "554-3257",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Fire rune (Regular)",
+        "monster_name": "Wizard"
+      }
+    },
+    {
+      "id": "557-3257",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Earth rune (Regular)",
+        "monster_name": "Wizard"
+      }
+    },
+    {
+      "id": "559-3257",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Body rune",
+        "monster_name": "Wizard"
+      }
+    },
+    {
+      "id": "556-3257",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Air rune (Regular)",
+        "monster_name": "Wizard"
+      }
+    },
+    {
+      "id": "561-3257",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.0625"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Wizard"
+      }
+    },
+    {
+      "id": "562-3257",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.0625"
+      },
+      "meta": {
+        "item_name": "Chaos rune (Regular)",
+        "monster_name": "Wizard"
+      }
+    },
+    {
+      "id": "579-3257",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Blue wizard hat",
+        "monster_name": "Wizard"
+      }
+    },
+    {
+      "id": "577-3257",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0546875"
+      },
+      "meta": {
+        "item_name": "Blue wizard robe",
+        "monster_name": "Wizard"
+      }
+    },
+    {
+      "id": "1379-3257",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0625"
+      },
+      "meta": {
+        "item_name": "Staff",
+        "monster_name": "Wizard"
+      }
+    },
+    {
+      "id": "526-3257",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Bones",
+        "monster_name": "Wizard"
+      }
+    }
+  ]
+}

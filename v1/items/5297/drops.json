@@ -1,0 +1,932 @@
+{
+  "data": [
+    {
+      "id": "5297-8760",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0168055929013176"
+      },
+      "meta": {
+        "item_name": "Irit seed",
+        "monster_name": "Iorwerth Archer (Female)"
+      }
+    },
+    {
+      "id": "5297-10402",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00420139822532939"
+      },
+      "meta": {
+        "item_name": "Irit seed",
+        "monster_name": "Colossal Hydra"
+      }
+    },
+    {
+      "id": "5297-8759",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0168055929013176"
+      },
+      "meta": {
+        "item_name": "Irit seed",
+        "monster_name": "Iorwerth Warrior (Female)"
+      }
+    },
+    {
+      "id": "5297-8713",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00268889486421081"
+      },
+      "meta": {
+        "item_name": "Irit seed",
+        "monster_name": "Sarachnis"
+      }
+    },
+    {
+      "id": "5297-8612",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00158170286130048"
+      },
+      "meta": {
+        "item_name": "Irit seed",
+        "monster_name": "Drake"
+      }
+    },
+    {
+      "id": "5297-8611",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00530702933725818"
+      },
+      "meta": {
+        "item_name": "Irit seed",
+        "monster_name": "Wyrm (Attacking)"
+      }
+    },
+    {
+      "id": "5297-8610",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00530702933725818"
+      },
+      "meta": {
+        "item_name": "Irit seed",
+        "monster_name": "Wyrm (Idle)"
+      }
+    },
+    {
+      "id": "5297-8609",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00420139822532939"
+      },
+      "meta": {
+        "item_name": "Irit seed",
+        "monster_name": "Hydra"
+      }
+    },
+    {
+      "id": "5297-8583",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": 8,
+        "rarity": "0.0375"
+      },
+      "meta": {
+        "item_name": "Irit seed",
+        "monster_name": "Hespori"
+      }
+    },
+    {
+      "id": "5297-7796",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.005696811152989"
+      },
+      "meta": {
+        "item_name": "Irit seed",
+        "monster_name": "Lobstrosity"
+      }
+    },
+    {
+      "id": "5297-7411",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00525174778166174"
+      },
+      "meta": {
+        "item_name": "Irit seed",
+        "monster_name": "Nechryarch"
+      }
+    },
+    {
+      "id": "5297-7409",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00420139822532939"
+      },
+      "meta": {
+        "item_name": "Irit seed",
+        "monster_name": "Night beast"
+      }
+    },
+    {
+      "id": "5297-7405",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0162634770012751"
+      },
+      "meta": {
+        "item_name": "Irit seed",
+        "monster_name": "King kurask"
+      }
+    },
+    {
+      "id": "5297-7403",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0168055929013176"
+      },
+      "meta": {
+        "item_name": "Irit seed",
+        "monster_name": "Repugnant spectre"
+      }
+    },
+    {
+      "id": "5297-7402",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0199566415703146"
+      },
+      "meta": {
+        "item_name": "Irit seed",
+        "monster_name": "Abhorrent spectre"
+      }
+    },
+    {
+      "id": "5297-10400",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00158170286130048"
+      },
+      "meta": {
+        "item_name": "Irit seed",
+        "monster_name": "Guardian Drake"
+      }
+    },
+    {
+      "id": "5297-10398",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00530702933725818"
+      },
+      "meta": {
+        "item_name": "Irit seed",
+        "monster_name": "Shadow Wyrm"
+      }
+    },
+    {
+      "id": "5297-10397",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0189062920139823"
+      },
+      "meta": {
+        "item_name": "Irit seed",
+        "monster_name": "Spiked Turoth"
+      }
+    },
+    {
+      "id": "5297-430",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0189062920139823"
+      },
+      "meta": {
+        "item_name": "Irit seed",
+        "monster_name": "Turoth (Level 83)"
+      }
+    },
+    {
+      "id": "5297-428",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0189062920139823"
+      },
+      "meta": {
+        "item_name": "Irit seed",
+        "monster_name": "Turoth (Level 87)"
+      }
+    },
+    {
+      "id": "5297-427",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0189062920139823"
+      },
+      "meta": {
+        "item_name": "Irit seed",
+        "monster_name": "Turoth (Level 89)"
+      }
+    },
+    {
+      "id": "5297-410",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0162634770012751"
+      },
+      "meta": {
+        "item_name": "Irit seed",
+        "monster_name": "Kurask"
+      }
+    },
+    {
+      "id": "5297-8",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0208621153257735"
+      },
+      "meta": {
+        "item_name": "Irit seed",
+        "monster_name": "Nechryael"
+      }
+    },
+    {
+      "id": "5297-2",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0199566415703146"
+      },
+      "meta": {
+        "item_name": "Irit seed",
+        "monster_name": "Aberrant spectre"
+      }
+    },
+    {
+      "id": "5297-7401",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0189062920139823"
+      },
+      "meta": {
+        "item_name": "Irit seed",
+        "monster_name": "Cave abomination"
+      }
+    },
+    {
+      "id": "5297-7391",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0136545442323205"
+      },
+      "meta": {
+        "item_name": "Irit seed",
+        "monster_name": "Screaming twisted banshee"
+      }
+    },
+    {
+      "id": "5297-7279",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0168055929013176"
+      },
+      "meta": {
+        "item_name": "Irit seed",
+        "monster_name": "Deviant spectre"
+      }
+    },
+    {
+      "id": "5297-7278",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00525174778166174"
+      },
+      "meta": {
+        "item_name": "Irit seed",
+        "monster_name": "Greater Nechryael"
+      }
+    },
+    {
+      "id": "5297-7272",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0136545442323205"
+      },
+      "meta": {
+        "item_name": "Irit seed",
+        "monster_name": "Twisted Banshee"
+      }
+    },
+    {
+      "id": "5297-7266",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00105034955633235"
+      },
+      "meta": {
+        "item_name": "Irit seed",
+        "monster_name": "King Sand Crab (Active)"
+      }
+    },
+    {
+      "id": "5297-7260",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0189062920139823"
+      },
+      "meta": {
+        "item_name": "Irit seed",
+        "monster_name": "Dagannoth (Level 92 (2))"
+      }
+    },
+    {
+      "id": "5297-7259",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0189062920139823"
+      },
+      "meta": {
+        "item_name": "Irit seed",
+        "monster_name": "Dagannoth (Level 74 (2))"
+      }
+    },
+    {
+      "id": "5297-5938",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00105034955633235"
+      },
+      "meta": {
+        "item_name": "Irit seed",
+        "monster_name": "Wallasalki"
+      }
+    },
+    {
+      "id": "5297-4005",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00420139822532939"
+      },
+      "meta": {
+        "item_name": "Irit seed",
+        "monster_name": "Dark beast"
+      }
+    },
+    {
+      "id": "5297-3429",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0168055929013176"
+      },
+      "meta": {
+        "item_name": "Irit seed",
+        "monster_name": "Iorwerth Warrior (Male)"
+      }
+    },
+    {
+      "id": "5297-3428",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0168055929013176"
+      },
+      "meta": {
+        "item_name": "Irit seed",
+        "monster_name": "Iorwerth Archer (Male)"
+      }
+    },
+    {
+      "id": "5297-3185",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00105034955633235"
+      },
+      "meta": {
+        "item_name": "Irit seed",
+        "monster_name": "Dagannoth (Waterbirth Island) (Level 90)"
+      }
+    },
+    {
+      "id": "5297-2916",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00420139822532939"
+      },
+      "meta": {
+        "item_name": "Irit seed",
+        "monster_name": "Waterfiend"
+      }
+    },
+    {
+      "id": "5297-2266",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00735244689432643"
+      },
+      "meta": {
+        "item_name": "Irit seed",
+        "monster_name": "Dagannoth Prime"
+      }
+    },
+    {
+      "id": "5297-2265",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00735244689432643"
+      },
+      "meta": {
+        "item_name": "Irit seed",
+        "monster_name": "Dagannoth Supreme"
+      }
+    },
+    {
+      "id": "5297-2261",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00105034955633235"
+      },
+      "meta": {
+        "item_name": "Irit seed",
+        "monster_name": "Giant Rock Crab"
+      }
+    },
+    {
+      "id": "5297-2259",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00105034955633235"
+      },
+      "meta": {
+        "item_name": "Irit seed",
+        "monster_name": "Dagannoth (Waterbirth Island) (Level 88)"
+      }
+    },
+    {
+      "id": "5297-1866",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0147048937886529"
+      },
+      "meta": {
+        "item_name": "Irit seed",
+        "monster_name": "Tree spirit (Level 159)"
+      }
+    },
+    {
+      "id": "5297-1865",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0147048937886529"
+      },
+      "meta": {
+        "item_name": "Irit seed",
+        "monster_name": "Tree spirit (Level 120)"
+      }
+    },
+    {
+      "id": "5297-1864",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0147048937886529"
+      },
+      "meta": {
+        "item_name": "Irit seed",
+        "monster_name": "Tree spirit (Level 79)"
+      }
+    },
+    {
+      "id": "5297-1863",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0147048937886529"
+      },
+      "meta": {
+        "item_name": "Irit seed",
+        "monster_name": "Tree spirit (Level 49)"
+      }
+    },
+    {
+      "id": "5297-1861",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0147048937886529"
+      },
+      "meta": {
+        "item_name": "Irit seed",
+        "monster_name": "Tree spirit (Level 14)"
+      }
+    },
+    {
+      "id": "5297-1047",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0189062920139823"
+      },
+      "meta": {
+        "item_name": "Irit seed",
+        "monster_name": "Cave horror"
+      }
+    },
+    {
+      "id": "5297-973",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0189062920139823"
+      },
+      "meta": {
+        "item_name": "Irit seed",
+        "monster_name": "Dagannoth (Level 92 (1))"
+      }
+    },
+    {
+      "id": "5297-970",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0189062920139823"
+      },
+      "meta": {
+        "item_name": "Irit seed",
+        "monster_name": "Dagannoth (Level 74 (1))"
+      }
+    },
+    {
+      "id": "5297-801",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00210069911266469"
+      },
+      "meta": {
+        "item_name": "Irit seed",
+        "monster_name": "Locust rider (Ranger (Quest))"
+      }
+    },
+    {
+      "id": "5297-800",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00210069911266469"
+      },
+      "meta": {
+        "item_name": "Irit seed",
+        "monster_name": "Locust rider (Lancer (Quest))"
+      }
+    },
+    {
+      "id": "5297-799",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00210069911266469"
+      },
+      "meta": {
+        "item_name": "Irit seed",
+        "monster_name": "Scarab mage (Level 66 (Quest))"
+      }
+    },
+    {
+      "id": "5297-796",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00210069911266469"
+      },
+      "meta": {
+        "item_name": "Irit seed",
+        "monster_name": "Locust rider (Ranger)"
+      }
+    },
+    {
+      "id": "5297-795",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00210069911266469"
+      },
+      "meta": {
+        "item_name": "Irit seed",
+        "monster_name": "Locust rider (Lancer)"
+      }
+    },
+    {
+      "id": "5297-794",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00210069911266469"
+      },
+      "meta": {
+        "item_name": "Irit seed",
+        "monster_name": "Scarab mage (Level 93)"
+      }
+    },
+    {
+      "id": "5297-492",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00403334229631621"
+      },
+      "meta": {
+        "item_name": "Irit seed",
+        "monster_name": "Cave kraken"
+      }
+    },
+    {
+      "id": "5297-429",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0189062920139823"
+      },
+      "meta": {
+        "item_name": "Irit seed",
+        "monster_name": "Turoth (Level 85)"
+      }
+    }
+  ]
+}

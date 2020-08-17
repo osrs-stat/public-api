@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "1913-421",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.1015625"
+      },
+      "meta": {
+        "item_name": "Dwarven stout",
+        "monster_name": "Rockslug"
+      }
+    },
+    {
+      "id": "1913-6730",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.125"
+      },
+      "meta": {
+        "item_name": "Dwarven stout",
+        "monster_name": "Rock golem (monster) (Level 159)"
+      }
+    },
+    {
+      "id": "1913-7392",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.1015625"
+      },
+      "meta": {
+        "item_name": "Dwarven stout",
+        "monster_name": "Giant rockslug"
+      }
+    },
+    {
+      "id": "1913-6729",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.125"
+      },
+      "meta": {
+        "item_name": "Dwarven stout",
+        "monster_name": "Rock golem (monster) (Level 120)"
+      }
+    }
+  ]
+}

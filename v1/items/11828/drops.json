@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "11828-3163",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000062000124000248"
+      },
+      "meta": {
+        "item_name": "Armadyl chestplate",
+        "monster_name": "Wingman Skree"
+      }
+    },
+    {
+      "id": "11828-3164",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000062000124000248"
+      },
+      "meta": {
+        "item_name": "Armadyl chestplate",
+        "monster_name": "Flockleader Geerin"
+      }
+    },
+    {
+      "id": "11828-3165",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000062000124000248"
+      },
+      "meta": {
+        "item_name": "Armadyl chestplate",
+        "monster_name": "Flight Kilisa"
+      }
+    },
+    {
+      "id": "11828-3162",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0026246719160105"
+      },
+      "meta": {
+        "item_name": "Armadyl chestplate",
+        "monster_name": "Kree'arra"
+      }
+    }
+  ]
+}

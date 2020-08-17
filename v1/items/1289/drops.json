@@ -1,0 +1,196 @@
+{
+  "data": [
+    {
+      "id": "1289-8195",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.0423728813559322"
+      },
+      "meta": {
+        "item_name": "Rune sword",
+        "monster_name": "Bryophyta"
+      }
+    },
+    {
+      "id": "1289-6295",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Rune sword",
+        "monster_name": "Black demon (Hard)"
+      }
+    },
+    {
+      "id": "1289-5908",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.0287769784172662"
+      },
+      "meta": {
+        "item_name": "Rune sword",
+        "monster_name": "Abyssal Sire (Phase 3 (stage 2))"
+      }
+    },
+    {
+      "id": "1289-5891",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.0287769784172662"
+      },
+      "meta": {
+        "item_name": "Rune sword",
+        "monster_name": "Abyssal Sire (Phase 3 (stage 1))"
+      }
+    },
+    {
+      "id": "1289-6615",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Rune sword",
+        "monster_name": "Scorpia"
+      }
+    },
+    {
+      "id": "1289-7242",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Rune sword",
+        "monster_name": "Black demon (Level 184)"
+      }
+    },
+    {
+      "id": "1289-5890",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.0287769784172662"
+      },
+      "meta": {
+        "item_name": "Rune sword",
+        "monster_name": "Abyssal Sire (Phase 2)"
+      }
+    },
+    {
+      "id": "1289-5886",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.0287769784172662"
+      },
+      "meta": {
+        "item_name": "Rune sword",
+        "monster_name": "Abyssal Sire (Phase 1)"
+      }
+    },
+    {
+      "id": "1289-240",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Rune sword",
+        "monster_name": "Black demon (Level 172)"
+      }
+    },
+    {
+      "id": "1289-7806",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Rune sword",
+        "monster_name": "Deranged archaeologist"
+      }
+    },
+    {
+      "id": "1289-7243",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Rune sword",
+        "monster_name": "Black demon (Level 178)"
+      }
+    },
+    {
+      "id": "1289-7874",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Rune sword",
+        "monster_name": "Black demon (Level 188)"
+      }
+    }
+  ]
+}

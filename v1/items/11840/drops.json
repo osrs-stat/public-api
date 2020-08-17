@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "11840-3168",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Dragon boots",
+        "monster_name": "Spiritual mage (Armadyl)"
+      }
+    },
+    {
+      "id": "11840-3161",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Dragon boots",
+        "monster_name": "Spiritual mage (Zamorak)"
+      }
+    },
+    {
+      "id": "11840-2244",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Dragon boots",
+        "monster_name": "Spiritual mage (Bandos)"
+      }
+    },
+    {
+      "id": "11840-2212",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Dragon boots",
+        "monster_name": "Spiritual mage (Saradomin)"
+      }
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "data": [
+    {
+      "id": "13477-2233",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0333333333333333"
+      },
+      "meta": {
+        "item_name": "Ensouled ogre head (Drop)",
+        "monster_name": "Ogre (Level 58)"
+      }
+    },
+    {
+      "id": "11942-2233",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0166666666666667"
+      },
+      "meta": {
+        "item_name": "Ecumenical key",
+        "monster_name": "Ogre (Level 58)"
+      }
+    },
+    {
+      "id": "10976-2233",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0025"
+      },
+      "meta": {
+        "item_name": "Long bone",
+        "monster_name": "Ogre (Level 58)"
+      }
+    },
+    {
+      "id": "10977-2233",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000199501246882793"
+      },
+      "meta": {
+        "item_name": "Curved bone",
+        "monster_name": "Ogre (Level 58)"
+      }
+    },
+    {
+      "id": "7842-2233",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.25"
+      },
+      "meta": {
+        "item_name": "Ogre ribs (Unpolished)",
+        "monster_name": "Ogre (Level 58)"
+      }
+    },
+    {
+      "id": "11941-2233",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Ogre (Level 58)"
+      }
+    },
+    {
+      "id": "532-2233",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Big bones",
+        "monster_name": "Ogre (Level 58)"
+      }
+    }
+  ]
+}

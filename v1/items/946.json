@@ -1,0 +1,31 @@
+{
+  "data": {
+    "id": "946",
+    "type": "item",
+    "attributes": {
+      "uuid": "a8755456-3bed-4d54-8323-608429f4042d",
+      "name": "Knife",
+      "members": false,
+      "release_date": "2001-01-04",
+      "examine": "A dangerous looking knife.",
+      "tradeable": false,
+      "ge_tradeable": false,
+      "lowalch": 2,
+      "highalch": 3,
+      "is_equip": false,
+      "is_weapon": false,
+      "icon_base64": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABOUlEQVR4Xu2YzUpCURSF3cMGvoOP0Lg36AV0UIGQGOJPZmZGhIUjBRHECrS4g6SEBkEvuGXtw7n3XHqAdSAXrPnHt8+5+3ALhf8RUdcoItqq1bRTr8cAlcF4oMNSiQXlYCIBkhQiLBWo22jk+jydsIBEr5vNXJPlMoWhAN20W2lhhwpze9lJCzsfry+sUSGid1ddK+yEB5kAJHrf61lhB6Pavq25dh76fQPCqFbzOdfOaDAwINjBqL6ThGsHQDg7GNX7YsG18zQc2qhwkLEqfjYbrh0/KtgJrzkBSLR8dGD9XK9sPfxuv1h2MpgQKgo7vu3jYjx2Qhg60B4mnwxoD/M37iNIXg0+7p08G49tTZCut4/o+emJgUweR3HYuahWbV9hq5PtIKJnlYo9vCKw4+N+GEQC48KA2QFWAW+46erQWQAAAABJRU5ErkJggg=="
+    },
+    "relationships": {
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Knife"
+    },
+    "meta": {
+      "incomplete": false
+    }
+  },
+  "included": [
+
+  ]
+}

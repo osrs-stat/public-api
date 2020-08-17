@@ -1,0 +1,138 @@
+{
+  "data": {
+    "id": "24000",
+    "type": "item",
+    "attributes": {
+      "uuid": "f4706e29-1c0e-4039-bbde-8a12167efae5",
+      "name": "Crystal grail",
+      "members": true,
+      "release_date": "2019-07-25",
+      "examine": "Smells of victory.",
+      "tradeable": false,
+      "ge_tradeable": false,
+      "lowalch": 12000,
+      "highalch": 18000,
+      "is_equip": true,
+      "is_weapon": true,
+      "icon_base64": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACiUlEQVR4Xu2W32tSYRzG9/4bXY3oKrqIUXeLYEJ0sWANgmhMxGXijLXlD6YnpzZNj7+3k9Op0zT3S3TlSrK2sAjWRRsxgoiK+lOezvuaUxS62jnnoj3wRQ4czvvheZ73fe3rO9H/J4LekV3txdW6CWj0OmgMeoTiAkycXU6w5kIztln4w0Hk8nmEUwnwyceYF2LQOe2wOh1QW2cwqtdKDUUwYTQglckguLyEaDoJIZtmv4FknAFpOSu4eTcDo++f7+9n0/2lYxCB0TSDqCAwNyIixOJKCvFcBrFM6sghjc0El8+LKZ/7CKj7S8cgArODgyfIYy4WYotTCEGESeRzzC3XYgQPFyLIVUqwR3iE1wvSAqkt0yyuFhCFaUXlXAgjsfYUxe1nWC5vwLckSB8X7cYdN4dQeRWRrTUI1RKSLytYrm0h+6qKJ/Uq0iIMjZCLBqR0h4rA4HHgPu9B8kUF6dpzZOvbKO7WsNl4jfK7XeTLm8wxGp/E7rREYAp427vrb38yxTx79icEeOIxrIhuSexOp5pQdDdRgNWdGtbf1llEdGxhXi53OtV9RRB2MMoYVa9aizYXJuxMov2SMap/ibAOWYKPOlxTXASzIT/MARd0N1VKQxH4SgUUPuzAqL6K6v6e0tGJ7kxeR3ROgxCnBm8bx4jqnPIu0Zkav4SxaxeOuqSgS1TifyTNZQZlHBvE2TOnlHRJPDCNRlj0I7DeVmF6YhjDQwP42GgoAUXYzqKFdty7gfdfD/HmcJ/BcXdHMThwWm4ogo29Bna+HMBruYXPv3/g089vOPj1nUXX6pKMfSIYH7kIs3aIxfVg8goDoUP7pFC5e++31sjsTlud91v3dL97ohNJrT/DPQS+zXPy0AAAAABJRU5ErkJggg=="
+    },
+    "relationships": {
+      "equip": {
+        "data": {
+          "id": "a0c09316-f6e4-429c-a669-5da9c4fdc16e",
+          "type": "equip"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Crystal_grail"
+    },
+    "meta": {
+      "incomplete": false
+    }
+  },
+  "included": [
+    {
+      "id": "a0c09316-f6e4-429c-a669-5da9c4fdc16e",
+      "type": "equip",
+      "attributes": {
+        "slot": "weapon",
+        "passive_effect": null,
+        "requirements": null
+      },
+      "relationships": {
+        "equip_stat": {
+          "data": {
+            "id": "f91dba19-fea2-4c2d-8027-f5c9fef95908",
+            "type": "equip_stat"
+          }
+        },
+        "attack_stat": {
+          "data": {
+            "id": "a9f8f0f4-c7dd-44dc-bc1c-6acce1bb00ff",
+            "type": "attack_stat"
+          }
+        }
+      }
+    },
+    {
+      "id": "a9f8f0f4-c7dd-44dc-bc1c-6acce1bb00ff",
+      "type": "attack_stat",
+      "attributes": {
+        "attack_speed": 4,
+        "attack_type": "unarmed",
+        "special": null,
+        "stances": [
+          {
+            "name": "punch",
+            "style": "accurate",
+            "boosts": {
+              "accuracy": 3
+            },
+            "experience": {
+              "hitpoints": 1.3333,
+              "attack": 4
+            },
+            "combat_accuracy_stat": "attack_level",
+            "combat_damage_stat": "strength_level",
+            "equip_accuracy_stat": "crush_attack",
+            "equip_damage_stat": "crush_attack",
+            "target_equip_defense_stat": "crush_defense"
+          },
+          {
+            "name": "kick",
+            "style": "aggressive",
+            "boosts": {
+              "damage": 3
+            },
+            "experience": {
+              "hitpoints": 1.3333,
+              "strength": 4
+            },
+            "combat_accuracy_stat": "attack_level",
+            "combat_damage_stat": "strength_level",
+            "equip_accuracy_stat": "crush_attack",
+            "equip_damage_stat": "crush_attack",
+            "target_equip_defense_stat": "crush_defense"
+          },
+          {
+            "name": "block",
+            "style": "defensive",
+            "boosts": {
+              "defense": 3
+            },
+            "experience": {
+              "hitpoints": 1.3333,
+              "defense": 4
+            },
+            "combat_accuracy_stat": "attack_level",
+            "combat_damage_stat": "strength_level",
+            "equip_accuracy_stat": "crush_attack",
+            "equip_damage_stat": "crush_attack",
+            "target_equip_defense_stat": "crush_defense"
+          }
+        ]
+      }
+    },
+    {
+      "id": "f91dba19-fea2-4c2d-8027-f5c9fef95908",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 0,
+        "slash_attack": 0,
+        "crush_attack": 0,
+        "ranged_attack": 0,
+        "magic_attack": 0,
+        "stab_defense": 0,
+        "slash_defense": 0,
+        "crush_defense": 0,
+        "ranged_defense": 0,
+        "magic_defense": 0,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

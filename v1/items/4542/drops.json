@@ -1,0 +1,20 @@
+{
+  "data": [
+    {
+      "id": "4542-476",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.125"
+      },
+      "meta": {
+        "item_name": "Lantern lens",
+        "monster_name": "Wall beast (Beast)"
+      }
+    }
+  ]
+}

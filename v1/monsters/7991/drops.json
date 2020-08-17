@@ -1,0 +1,484 @@
+{
+  "data": [
+    {
+      "id": "564-7991",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": 15,
+        "rarity": "0.0431034482758621"
+      },
+      "meta": {
+        "item_name": "Cosmic rune",
+        "monster_name": "Ogress Shaman"
+      }
+    },
+    {
+      "id": "532-7991",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Big bones",
+        "monster_name": "Ogress Shaman"
+      }
+    },
+    {
+      "id": "1197-7991",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0603448275862069"
+      },
+      "meta": {
+        "item_name": "Mithril kiteshield",
+        "monster_name": "Ogress Shaman"
+      }
+    },
+    {
+      "id": "995-7991",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.0431034482758621"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Ogress Shaman"
+      }
+    },
+    {
+      "id": "995-7991",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 500,
+        "quantity_max": 1000,
+        "rarity": "0.0775862068965517"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Ogress Shaman"
+      }
+    },
+    {
+      "id": "888-7991",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": 15,
+        "rarity": "0.0603448275862069"
+      },
+      "meta": {
+        "item_name": "Mithril arrow (Unpoisoned)",
+        "monster_name": "Ogress Shaman"
+      }
+    },
+    {
+      "id": "562-7991",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 15,
+        "quantity_max": 30,
+        "rarity": "0.0603448275862069"
+      },
+      "meta": {
+        "item_name": "Chaos rune (Regular)",
+        "monster_name": "Ogress Shaman"
+      }
+    },
+    {
+      "id": "563-7991",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 8,
+        "quantity_max": 15,
+        "rarity": "0.0603448275862069"
+      },
+      "meta": {
+        "item_name": "Law rune",
+        "monster_name": "Ogress Shaman"
+      }
+    },
+    {
+      "id": "561-7991",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 8,
+        "quantity_max": 15,
+        "rarity": "0.0603448275862069"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Ogress Shaman"
+      }
+    },
+    {
+      "id": "560-7991",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 8,
+        "quantity_max": 15,
+        "rarity": "0.0517241379310345"
+      },
+      "meta": {
+        "item_name": "Death rune (Regular)",
+        "monster_name": "Ogress Shaman"
+      }
+    },
+    {
+      "id": "556-7991",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": 20,
+        "rarity": "0.0431034482758621"
+      },
+      "meta": {
+        "item_name": "Air rune (Regular)",
+        "monster_name": "Ogress Shaman"
+      }
+    },
+    {
+      "id": "10977-7991",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000199501246882793"
+      },
+      "meta": {
+        "item_name": "Curved bone",
+        "monster_name": "Ogress Shaman"
+      }
+    },
+    {
+      "id": "21838-7991",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000833333333333333"
+      },
+      "meta": {
+        "item_name": "Shaman mask",
+        "monster_name": "Ogress Shaman"
+      }
+    },
+    {
+      "id": "10976-7991",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0025"
+      },
+      "meta": {
+        "item_name": "Long bone",
+        "monster_name": "Ogress Shaman"
+      }
+    },
+    {
+      "id": "1373-7991",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.01"
+      },
+      "meta": {
+        "item_name": "Rune battleaxe",
+        "monster_name": "Ogress Shaman"
+      }
+    },
+    {
+      "id": "1163-7991",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.01"
+      },
+      "meta": {
+        "item_name": "Rune full helm",
+        "monster_name": "Ogress Shaman"
+      }
+    },
+    {
+      "id": "1147-7991",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.025"
+      },
+      "meta": {
+        "item_name": "Rune med helm",
+        "monster_name": "Ogress Shaman"
+      }
+    },
+    {
+      "id": "13477-7991",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0333333333333333"
+      },
+      "meta": {
+        "item_name": "Ensouled ogre head (Drop)",
+        "monster_name": "Ogress Shaman"
+      }
+    },
+    {
+      "id": "329-7991",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.05"
+      },
+      "meta": {
+        "item_name": "Salmon",
+        "monster_name": "Ogress Shaman"
+      }
+    },
+    {
+      "id": "1623-7991",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0344827586206897"
+      },
+      "meta": {
+        "item_name": "Uncut sapphire",
+        "monster_name": "Ogress Shaman"
+      }
+    },
+    {
+      "id": "1619-7991",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0344827586206897"
+      },
+      "meta": {
+        "item_name": "Uncut ruby",
+        "monster_name": "Ogress Shaman"
+      }
+    },
+    {
+      "id": "1621-7991",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0344827586206897"
+      },
+      "meta": {
+        "item_name": "Uncut emerald",
+        "monster_name": "Ogress Shaman"
+      }
+    },
+    {
+      "id": "1617-7991",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0344827586206897"
+      },
+      "meta": {
+        "item_name": "Uncut diamond",
+        "monster_name": "Ogress Shaman"
+      }
+    },
+    {
+      "id": "225-7991",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0431034482758621"
+      },
+      "meta": {
+        "item_name": "Limpwurt root",
+        "monster_name": "Ogress Shaman"
+      }
+    },
+    {
+      "id": "884-7991",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 20,
+        "quantity_max": 40,
+        "rarity": "0.0431034482758621"
+      },
+      "meta": {
+        "item_name": "Iron arrow (Unpoisoned)",
+        "monster_name": "Ogress Shaman"
+      }
+    },
+    {
+      "id": "886-7991",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": 30,
+        "rarity": "0.0431034482758621"
+      },
+      "meta": {
+        "item_name": "Steel arrow (Unpoisoned)",
+        "monster_name": "Ogress Shaman"
+      }
+    },
+    {
+      "id": "555-7991",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": 20,
+        "rarity": "0.0431034482758621"
+      },
+      "meta": {
+        "item_name": "Water rune (Regular)",
+        "monster_name": "Ogress Shaman"
+      }
+    },
+    {
+      "id": "558-7991",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": 20,
+        "rarity": "0.0431034482758621"
+      },
+      "meta": {
+        "item_name": "Mind rune",
+        "monster_name": "Ogress Shaman"
+      }
+    },
+    {
+      "id": "554-7991",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": 20,
+        "rarity": "0.0431034482758621"
+      },
+      "meta": {
+        "item_name": "Fire rune (Regular)",
+        "monster_name": "Ogress Shaman"
+      }
+    },
+    {
+      "id": "557-7991",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": 20,
+        "rarity": "0.0431034482758621"
+      },
+      "meta": {
+        "item_name": "Earth rune (Regular)",
+        "monster_name": "Ogress Shaman"
+      }
+    }
+  ]
+}

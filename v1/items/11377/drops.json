@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "id": "11377-7275",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.078125"
+      },
+      "meta": {
+        "item_name": "Rune hasta (Unpoisoned)",
+        "monster_name": "Brutal black dragon"
+      }
+    },
+    {
+      "id": "11377-7274",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.078125"
+      },
+      "meta": {
+        "item_name": "Rune hasta (Unpoisoned)",
+        "monster_name": "Brutal red dragon"
+      }
+    }
+  ]
+}

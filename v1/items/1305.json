@@ -1,0 +1,160 @@
+{
+  "data": {
+    "id": "1305",
+    "type": "item",
+    "attributes": {
+      "uuid": "330da080-e787-4181-a3d1-47fd92b09c75",
+      "name": "Dragon longsword",
+      "members": true,
+      "release_date": "2002-02-27",
+      "examine": "A very powerful sword.",
+      "tradeable": false,
+      "ge_tradeable": false,
+      "lowalch": 40000,
+      "highalch": 60000,
+      "is_equip": true,
+      "is_weapon": true,
+      "icon_base64": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABWUlEQVR4Xu2WMUsDQRCFb8ortrAISKr8ArGIBEPAYDCcIRESghGSiKAWFoKFhYWF//y5s+vcridazlzhg4MQAvnue+82KQq1EJrvGIawPSjREijCQ6fE9RfQca9nDUW48zDLdgARnrwdrmvuzIEIL4eurqtqA9Bzx9V1nbvCEojw6u3kdY1KMyDCe9f9qMsIiM+ZZEdgTjzMkT4Q4aNhhncjIAKjBJRqkhE3rajCvHkQeaJ4wAxjYIUTYeRpyitStsKJ45W9mFrhS8bLFZla4fHKXuT0NbDCSePNKzKwwkmHnfxqG1nhxL3kFSlbiXcvrxlG/u0ZWCHsNxusF4vw5XlFylYkhPvdNgBdXVa4GI+/mWl+WiGEx9s9blarAFRNJjgbDnHa72c1qoYCCAMsZ7MaZjQYWFiiUBVDpGGnS3k/FGqSzeQDNhvzfDq1MPFXWgUT0yqY//yST093M4dQl1vBAAAAAElFTkSuQmCC"
+    },
+    "relationships": {
+      "equip": {
+        "data": {
+          "id": "ab331f36-0b35-4dc1-9e83-edd737694199",
+          "type": "equip"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Dragon_longsword"
+    },
+    "meta": {
+      "incomplete": false
+    }
+  },
+  "included": [
+    {
+      "id": "ab331f36-0b35-4dc1-9e83-edd737694199",
+      "type": "equip",
+      "attributes": {
+        "slot": "weapon",
+        "passive_effect": null,
+        "requirements": {
+          "attack_level": 60
+        }
+      },
+      "relationships": {
+        "equip_stat": {
+          "data": {
+            "id": "88538f90-54c0-4f3b-bf9f-43127d203391",
+            "type": "equip_stat"
+          }
+        },
+        "attack_stat": {
+          "data": {
+            "id": "b632f385-7d82-41cd-8ecc-56468c27ad1d",
+            "type": "attack_stat"
+          }
+        }
+      }
+    },
+    {
+      "id": "b632f385-7d82-41cd-8ecc-56468c27ad1d",
+      "type": "attack_stat",
+      "attributes": {
+        "attack_speed": 5,
+        "attack_type": "slash_sword",
+        "special": null,
+        "stances": [
+          {
+            "name": "chop",
+            "style": "accurate",
+            "boosts": {
+              "accuracy": 3
+            },
+            "experience": {
+              "hitpoints": 1.3333,
+              "attack": 4
+            },
+            "combat_accuracy_stat": "attack_level",
+            "combat_damage_stat": "strength_level",
+            "equip_accuracy_stat": "slash_attack",
+            "equip_damage_stat": "slash_attack",
+            "target_equip_defense_stat": "slash_defense"
+          },
+          {
+            "name": "slash",
+            "style": "aggressive",
+            "boosts": {
+              "damage": 3
+            },
+            "experience": {
+              "hitpoints": 1.3333,
+              "strength": 4
+            },
+            "combat_accuracy_stat": "attack_level",
+            "combat_damage_stat": "strength_level",
+            "equip_accuracy_stat": "slash_attack",
+            "equip_damage_stat": "slash_attack",
+            "target_equip_defense_stat": "slash_defense"
+          },
+          {
+            "name": "lunge",
+            "style": "controlled",
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": {
+              "hitpoints": 1.3333,
+              "attack": 1.3333,
+              "strength": 1.3333,
+              "defense": 1.3333
+            },
+            "combat_accuracy_stat": "attack_level",
+            "combat_damage_stat": "strength_level",
+            "equip_accuracy_stat": "stab_attack",
+            "equip_damage_stat": "stab_attack",
+            "target_equip_defense_stat": "stab_defense"
+          },
+          {
+            "name": "block",
+            "style": "defensive",
+            "boosts": {
+              "defense": 3
+            },
+            "experience": {
+              "hitpoints": 1.3333,
+              "defense": 4
+            },
+            "combat_accuracy_stat": "attack_level",
+            "combat_damage_stat": "strength_level",
+            "equip_accuracy_stat": "slash_attack",
+            "equip_damage_stat": "slash_attack",
+            "target_equip_defense_stat": "slash_defense"
+          }
+        ]
+      }
+    },
+    {
+      "id": "88538f90-54c0-4f3b-bf9f-43127d203391",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 58,
+        "slash_attack": 69,
+        "crush_attack": -2,
+        "ranged_attack": 0,
+        "magic_attack": 0,
+        "stab_defense": 0,
+        "slash_defense": 3,
+        "crush_defense": 2,
+        "ranged_defense": 0,
+        "magic_defense": 0,
+        "melee_strength": 71,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "data": {
+    "id": "4308",
+    "type": "item",
+    "attributes": {
+      "uuid": "733ccc46-d22d-43bf-90e6-dc34d9a8a52a",
+      "name": "Ham gloves",
+      "members": true,
+      "release_date": "2005-02-22",
+      "examine": "HAM gloves as worn by the Humans Against Monsters group.",
+      "tradeable": false,
+      "ge_tradeable": false,
+      "lowalch": 30,
+      "highalch": 45,
+      "is_equip": true,
+      "is_weapon": false,
+      "icon_base64": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACJElEQVR4Xu2VsUvDQBTGc2OGDBm6dxAHBxFRBCkIBUWhgooUoSIqReggODg4ODgIDoLgIAgOgiAI/pFPvnd+5vXS2kZssvSDj9ylyb1f3717iaKppoKcZK5cTl7SI3lLT+WjdmbAKoFz8pgeqJ/TQ3lNTxQMxrgCKCcPaVsNqKe0o9mi8ftCvV4mlJP7dD8HZV1ylpzcJXsKRTALSJcI5eQ22VEoGGOYYNYlQXmgm2RbrpOW+irZ0jkhYdZSCfXkFAC+TDbUF8m62maspOL2MAh+njTVvXjtx8xUSdnJYBC8GzdyBqAFClcYoaKd1SnIcbwqu/GidOIVHVsDCltYEMiDvNe68lnrfUONsn+vHS/pvBXP6xgGmDWgCwD5ExI2NHwCaMx5hPEs/zHfh5EhQOEKEw5GpsYEcrr/4RFlUwMgrviNJwg1wXcI5QM52YznFMqCEW5sIOwxAiAY+geCs8nZjLAWeHwZIAvipBHNSDOaVbAQbmwg7DFPA3uHBUMmeIJ4jG2TC9cjFE04QvU/n5MvRkLRDAww9hXcRy1gjvvDgJajuhpgNMDyGR0qX5C2CFmIrBkLhDHus7eEq3E7Q48JA/liHGSA2e7L3oI5MpjVU78YPHT43C/KUh0a2eNnYFCWWE/hiv+gfJoJCijWV5ilgttRTGGKfRAPheInDLsvTiSBwrUmrAyKnwbbfSsAgjwUewqgKsqO1Z+P8uSUr7GpytEXeGh2CHtJZZgAAAAASUVORK5CYII="
+    },
+    "relationships": {
+      "equip": {
+        "data": {
+          "id": "c55d426e-20e8-455f-b324-ac58130a02a1",
+          "type": "equip"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Ham_gloves"
+    },
+    "meta": {
+      "incomplete": false
+    }
+  },
+  "included": [
+    {
+      "id": "c55d426e-20e8-455f-b324-ac58130a02a1",
+      "type": "equip",
+      "attributes": {
+        "slot": "gloves",
+        "passive_effect": null,
+        "requirements": null
+      },
+      "relationships": {
+        "equip_stat": {
+          "data": {
+            "id": "4bb40b70-d3a8-4e97-b5b0-a498b9a9236c",
+            "type": "equip_stat"
+          }
+        }
+      }
+    },
+    {
+      "id": "4bb40b70-d3a8-4e97-b5b0-a498b9a9236c",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 0,
+        "slash_attack": 0,
+        "crush_attack": 0,
+        "ranged_attack": 0,
+        "magic_attack": 0,
+        "stab_defense": 0,
+        "slash_defense": 1,
+        "crush_defense": 2,
+        "ranged_defense": 0,
+        "magic_defense": 0,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

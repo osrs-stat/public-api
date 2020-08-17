@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "id": "22111-8061",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.001"
+      },
+      "meta": {
+        "item_name": "Dragonbone necklace",
+        "monster_name": "Vorkath (Post-quest)"
+      }
+    },
+    {
+      "id": "22111-8060",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.001"
+      },
+      "meta": {
+        "item_name": "Dragonbone necklace",
+        "monster_name": "Vorkath (Dragon Slayer II)"
+      }
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "id": "847-7421",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.02"
+      },
+      "meta": {
+        "item_name": "Willow longbow",
+        "monster_name": "Zamorak ranger (Level 82)"
+      }
+    },
+    {
+      "id": "847-7420",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.02"
+      },
+      "meta": {
+        "item_name": "Willow longbow",
+        "monster_name": "Zamorak ranger (Level 81)"
+      }
+    },
+    {
+      "id": "847-4096",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.125"
+      },
+      "meta": {
+        "item_name": "Willow longbow",
+        "monster_name": "Archer (Burthorpe)"
+      }
+    }
+  ]
+}

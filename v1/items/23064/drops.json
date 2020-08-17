@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "23064-8618",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0005"
+      },
+      "meta": {
+        "item_name": "Jar of chemicals",
+        "monster_name": "Alchemical Hydra (Three heads)"
+      }
+    },
+    {
+      "id": "23064-8615",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0005"
+      },
+      "meta": {
+        "item_name": "Jar of chemicals",
+        "monster_name": "Alchemical Hydra (Five heads)"
+      }
+    },
+    {
+      "id": "23064-8617",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0005"
+      },
+      "meta": {
+        "item_name": "Jar of chemicals",
+        "monster_name": "Alchemical Hydra (Four heads)"
+      }
+    },
+    {
+      "id": "23064-8621",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0005"
+      },
+      "meta": {
+        "item_name": "Jar of chemicals",
+        "monster_name": "Alchemical Hydra (Two heads)"
+      }
+    }
+  ]
+}

@@ -1,0 +1,724 @@
+{
+  "data": [
+    {
+      "id": "440-8565",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 30,
+        "quantity_max": 35,
+        "rarity": "0.04"
+      },
+      "meta": {
+        "item_name": "Iron ore",
+        "monster_name": "Lizardman shaman (Lizardman Temple)"
+      }
+    },
+    {
+      "id": "451-8565",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 3,
+        "quantity_max": 5,
+        "rarity": "0.016"
+      },
+      "meta": {
+        "item_name": "Runite ore",
+        "monster_name": "Lizardman shaman (Lizardman Temple)"
+      }
+    },
+    {
+      "id": "213-8565",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 2,
+        "quantity_max": 3,
+        "rarity": "0.0280898876404494"
+      },
+      "meta": {
+        "item_name": "Grimy kwuarm",
+        "monster_name": "Lizardman shaman (Lizardman Temple)"
+      }
+    },
+    {
+      "id": "215-8565",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 2,
+        "quantity_max": 3,
+        "rarity": "0.0225225225225225"
+      },
+      "meta": {
+        "item_name": "Grimy cadantine",
+        "monster_name": "Lizardman shaman (Lizardman Temple)"
+      }
+    },
+    {
+      "id": "217-8565",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 2,
+        "quantity_max": 3,
+        "rarity": "0.0225225225225225"
+      },
+      "meta": {
+        "item_name": "Grimy dwarf weed",
+        "monster_name": "Lizardman shaman (Lizardman Temple)"
+      }
+    },
+    {
+      "id": "2485-8565",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 2,
+        "quantity_max": 3,
+        "rarity": "0.0168634064080944"
+      },
+      "meta": {
+        "item_name": "Grimy lantadyme",
+        "monster_name": "Lizardman shaman (Lizardman Temple)"
+      }
+    },
+    {
+      "id": "13391-8565",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": 14,
+        "rarity": "0.076"
+      },
+      "meta": {
+        "item_name": "Lizardman fang",
+        "monster_name": "Lizardman shaman (Lizardman Temple)"
+      }
+    },
+    {
+      "id": "7054-8565",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.06"
+      },
+      "meta": {
+        "item_name": "Chilli potato",
+        "monster_name": "Lizardman shaman (Lizardman Temple)"
+      }
+    },
+    {
+      "id": "13392-8565",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.004"
+      },
+      "meta": {
+        "item_name": "Xeric's talisman (Inert)",
+        "monster_name": "Lizardman shaman (Lizardman Temple)"
+      }
+    },
+    {
+      "id": "23083-8565",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0111111111111111"
+      },
+      "meta": {
+        "item_name": "Brimstone key",
+        "monster_name": "Lizardman shaman (Lizardman Temple)"
+      }
+    },
+    {
+      "id": "2722-8565",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.005"
+      },
+      "meta": {
+        "item_name": "Clue scroll (hard)",
+        "monster_name": "Lizardman shaman (Lizardman Temple)"
+      }
+    },
+    {
+      "id": "10976-8565",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0025"
+      },
+      "meta": {
+        "item_name": "Long bone",
+        "monster_name": "Lizardman shaman (Lizardman Temple)"
+      }
+    },
+    {
+      "id": "532-8565",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Big bones",
+        "monster_name": "Lizardman shaman (Lizardman Temple)"
+      }
+    },
+    {
+      "id": "1347-8565",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.032"
+      },
+      "meta": {
+        "item_name": "Rune warhammer",
+        "monster_name": "Lizardman shaman (Lizardman Temple)"
+      }
+    },
+    {
+      "id": "1113-8565",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.024"
+      },
+      "meta": {
+        "item_name": "Rune chainbody",
+        "monster_name": "Lizardman shaman (Lizardman Temple)"
+      }
+    },
+    {
+      "id": "2489-8565",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.02"
+      },
+      "meta": {
+        "item_name": "Red d'hide vambraces",
+        "monster_name": "Lizardman shaman (Lizardman Temple)"
+      }
+    },
+    {
+      "id": "556-8565",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 60,
+        "quantity_max": 80,
+        "rarity": "0.05"
+      },
+      "meta": {
+        "item_name": "Air rune (Regular)",
+        "monster_name": "Lizardman shaman (Lizardman Temple)"
+      }
+    },
+    {
+      "id": "562-8565",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 40,
+        "quantity_max": 60,
+        "rarity": "0.05"
+      },
+      "meta": {
+        "item_name": "Chaos rune (Regular)",
+        "monster_name": "Lizardman shaman (Lizardman Temple)"
+      }
+    },
+    {
+      "id": "560-8565",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 20,
+        "quantity_max": 30,
+        "rarity": "0.05"
+      },
+      "meta": {
+        "item_name": "Death rune (Regular)",
+        "monster_name": "Lizardman shaman (Lizardman Temple)"
+      }
+    },
+    {
+      "id": "554-8565",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 60,
+        "quantity_max": 80,
+        "rarity": "0.05"
+      },
+      "meta": {
+        "item_name": "Fire rune (Regular)",
+        "monster_name": "Lizardman shaman (Lizardman Temple)"
+      }
+    },
+    {
+      "id": "13383-8565",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.08"
+      },
+      "meta": {
+        "item_name": "Xerician fabric",
+        "monster_name": "Lizardman shaman (Lizardman Temple)"
+      }
+    },
+    {
+      "id": "453-8565",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 20,
+        "quantity_max": 25,
+        "rarity": "0.04"
+      },
+      "meta": {
+        "item_name": "Coal",
+        "monster_name": "Lizardman shaman (Lizardman Temple)"
+      }
+    },
+    {
+      "id": "5314-8565",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00143988480921526"
+      },
+      "meta": {
+        "item_name": "Maple seed",
+        "monster_name": "Lizardman shaman (Lizardman Temple)"
+      }
+    },
+    {
+      "id": "21486-8565",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00143988480921526"
+      },
+      "meta": {
+        "item_name": "Teak seed",
+        "monster_name": "Lizardman shaman (Lizardman Temple)"
+      }
+    },
+    {
+      "id": "5315-8565",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00143988480921526"
+      },
+      "meta": {
+        "item_name": "Yew seed",
+        "monster_name": "Lizardman shaman (Lizardman Temple)"
+      }
+    },
+    {
+      "id": "5288-8565",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00111982082866741"
+      },
+      "meta": {
+        "item_name": "Papaya tree seed",
+        "monster_name": "Lizardman shaman (Lizardman Temple)"
+      }
+    },
+    {
+      "id": "5316-8565",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000960153624579933"
+      },
+      "meta": {
+        "item_name": "Magic seed",
+        "monster_name": "Lizardman shaman (Lizardman Temple)"
+      }
+    },
+    {
+      "id": "5289-8565",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0008"
+      },
+      "meta": {
+        "item_name": "Palm tree seed",
+        "monster_name": "Lizardman shaman (Lizardman Temple)"
+      }
+    },
+    {
+      "id": "5317-8565",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00064"
+      },
+      "meta": {
+        "item_name": "Spirit seed",
+        "monster_name": "Lizardman shaman (Lizardman Temple)"
+      }
+    },
+    {
+      "id": "22877-8565",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000479961603071754"
+      },
+      "meta": {
+        "item_name": "Dragonfruit tree seed",
+        "monster_name": "Lizardman shaman (Lizardman Temple)"
+      }
+    },
+    {
+      "id": "22869-8565",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00032"
+      },
+      "meta": {
+        "item_name": "Celastrus seed",
+        "monster_name": "Lizardman shaman (Lizardman Temple)"
+      }
+    },
+    {
+      "id": "22871-8565",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00032"
+      },
+      "meta": {
+        "item_name": "Redwood tree seed",
+        "monster_name": "Lizardman shaman (Lizardman Temple)"
+      }
+    },
+    {
+      "id": "995-8565",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 100,
+        "quantity_max": 6000,
+        "rarity": "0.14"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Lizardman shaman (Lizardman Temple)"
+      }
+    },
+    {
+      "id": "1399-8565",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.034"
+      },
+      "meta": {
+        "item_name": "Earth battlestaff",
+        "monster_name": "Lizardman shaman (Lizardman Temple)"
+      }
+    },
+    {
+      "id": "1147-8565",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.036"
+      },
+      "meta": {
+        "item_name": "Rune med helm",
+        "monster_name": "Lizardman shaman (Lizardman Temple)"
+      }
+    },
+    {
+      "id": "13576-8565",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0002"
+      },
+      "meta": {
+        "item_name": "Dragon warhammer",
+        "monster_name": "Lizardman shaman (Lizardman Temple)"
+      }
+    },
+    {
+      "id": "1407-8565",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.034"
+      },
+      "meta": {
+        "item_name": "Mystic earth staff",
+        "monster_name": "Lizardman shaman (Lizardman Temple)"
+      }
+    },
+    {
+      "id": "12073-8565",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000833333333333333"
+      },
+      "meta": {
+        "item_name": "Clue scroll (elite)",
+        "monster_name": "Lizardman shaman (Lizardman Temple)"
+      }
+    },
+    {
+      "id": "10977-8565",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000199501246882793"
+      },
+      "meta": {
+        "item_name": "Curved bone",
+        "monster_name": "Lizardman shaman (Lizardman Temple)"
+      }
+    },
+    {
+      "id": "5295-8565",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00240009600384015"
+      },
+      "meta": {
+        "item_name": "Ranarr seed",
+        "monster_name": "Lizardman shaman (Lizardman Temple)"
+      }
+    },
+    {
+      "id": "5300-8565",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00223989248516071"
+      },
+      "meta": {
+        "item_name": "Snapdragon seed",
+        "monster_name": "Lizardman shaman (Lizardman Temple)"
+      }
+    },
+    {
+      "id": "5304-8565",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00176056338028169"
+      },
+      "meta": {
+        "item_name": "Torstol seed",
+        "monster_name": "Lizardman shaman (Lizardman Temple)"
+      }
+    },
+    {
+      "id": "5321-8565",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 15,
+        "quantity_max": null,
+        "rarity": "0.0016"
+      },
+      "meta": {
+        "item_name": "Watermelon seed",
+        "monster_name": "Lizardman shaman (Lizardman Temple)"
+      }
+    },
+    {
+      "id": "5313-8565",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0016"
+      },
+      "meta": {
+        "item_name": "Willow seed",
+        "monster_name": "Lizardman shaman (Lizardman Temple)"
+      }
+    },
+    {
+      "id": "21488-8565",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00143988480921526"
+      },
+      "meta": {
+        "item_name": "Mahogany seed",
+        "monster_name": "Lizardman shaman (Lizardman Temple)"
+      }
+    }
+  ]
+}

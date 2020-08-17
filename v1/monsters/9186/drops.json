@@ -1,0 +1,548 @@
+{
+  "data": [
+    {
+      "id": "1213-9186",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Rune dagger (Unpoisoned)",
+        "monster_name": "Guard (Prifddinas) (5)"
+      }
+    },
+    {
+      "id": "1161-9186",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Adamant full helm",
+        "monster_name": "Guard (Prifddinas) (5)"
+      }
+    },
+    {
+      "id": "365-9186",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Bass",
+        "monster_name": "Guard (Prifddinas) (5)"
+      }
+    },
+    {
+      "id": "1197-9186",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Mithril kiteshield",
+        "monster_name": "Guard (Prifddinas) (5)"
+      }
+    },
+    {
+      "id": "1243-9186",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Mithril spear (Unpoisoned)",
+        "monster_name": "Guard (Prifddinas) (5)"
+      }
+    },
+    {
+      "id": "1135-9186",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Green d'hide body",
+        "monster_name": "Guard (Prifddinas) (5)"
+      }
+    },
+    {
+      "id": "217-9186",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00274636747129131"
+      },
+      "meta": {
+        "item_name": "Grimy dwarf weed",
+        "monster_name": "Guard (Prifddinas) (5)"
+      }
+    },
+    {
+      "id": "2485-9186",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00274636747129131"
+      },
+      "meta": {
+        "item_name": "Grimy lantadyme",
+        "monster_name": "Guard (Prifddinas) (5)"
+      }
+    },
+    {
+      "id": "215-9186",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.003662109375"
+      },
+      "meta": {
+        "item_name": "Grimy cadantine",
+        "monster_name": "Guard (Prifddinas) (5)"
+      }
+    },
+    {
+      "id": "995-9186",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 20,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Guard (Prifddinas) (5)"
+      }
+    },
+    {
+      "id": "995-9186",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 44,
+        "quantity_max": null,
+        "rarity": "0.2265625"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Guard (Prifddinas) (5)"
+      }
+    },
+    {
+      "id": "995-9186",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 180,
+        "quantity_max": null,
+        "rarity": "0.078125"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Guard (Prifddinas) (5)"
+      }
+    },
+    {
+      "id": "554-9186",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 37,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Fire rune (Regular)",
+        "monster_name": "Guard (Prifddinas) (5)"
+      }
+    },
+    {
+      "id": "6103-9186",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.1953125"
+      },
+      "meta": {
+        "item_name": "Crystal teleport seed",
+        "monster_name": "Guard (Prifddinas) (5)"
+      }
+    },
+    {
+      "id": "1099-9186",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Green d'hide chaps",
+        "monster_name": "Guard (Prifddinas) (5)"
+      }
+    },
+    {
+      "id": "211-9186",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00549402250351617"
+      },
+      "meta": {
+        "item_name": "Grimy avantoe",
+        "monster_name": "Guard (Prifddinas) (5)"
+      }
+    },
+    {
+      "id": "209-9186",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00732421875"
+      },
+      "meta": {
+        "item_name": "Grimy irit leaf",
+        "monster_name": "Guard (Prifddinas) (5)"
+      }
+    },
+    {
+      "id": "207-9186",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0100676546391753"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Guard (Prifddinas) (5)"
+      }
+    },
+    {
+      "id": "205-9186",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0128171825440227"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Guard (Prifddinas) (5)"
+      }
+    },
+    {
+      "id": "203-9186",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0164797496835888"
+      },
+      "meta": {
+        "item_name": "Grimy tarromin",
+        "monster_name": "Guard (Prifddinas) (5)"
+      }
+    },
+    {
+      "id": "201-9186",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0219740296268517"
+      },
+      "meta": {
+        "item_name": "Grimy marrentill",
+        "monster_name": "Guard (Prifddinas) (5)"
+      }
+    },
+    {
+      "id": "199-9186",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.029296875"
+      },
+      "meta": {
+        "item_name": "Grimy guam leaf",
+        "monster_name": "Guard (Prifddinas) (5)"
+      }
+    },
+    {
+      "id": "2722-9186",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Clue scroll (hard)",
+        "monster_name": "Guard (Prifddinas) (5)"
+      }
+    },
+    {
+      "id": "13480-9186",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.02"
+      },
+      "meta": {
+        "item_name": "Ensouled elf head (Drop)",
+        "monster_name": "Guard (Prifddinas) (5)"
+      }
+    },
+    {
+      "id": "23962-9186",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0416666666666667"
+      },
+      "meta": {
+        "item_name": "Crystal shard",
+        "monster_name": "Guard (Prifddinas) (5)"
+      }
+    },
+    {
+      "id": "23959-9186",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0009765625"
+      },
+      "meta": {
+        "item_name": "Enhanced crystal teleport seed",
+        "monster_name": "Guard (Prifddinas) (5)"
+      }
+    },
+    {
+      "id": "6102-9186",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Teleport crystal (1)",
+        "monster_name": "Guard (Prifddinas) (5)"
+      }
+    },
+    {
+      "id": "449-9186",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Adamantite ore",
+        "monster_name": "Guard (Prifddinas) (5)"
+      }
+    },
+    {
+      "id": "385-9186",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Shark",
+        "monster_name": "Guard (Prifddinas) (5)"
+      }
+    },
+    {
+      "id": "526-9186",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Bones",
+        "monster_name": "Guard (Prifddinas) (5)"
+      }
+    },
+    {
+      "id": "213-9186",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00457763671875"
+      },
+      "meta": {
+        "item_name": "Grimy kwuarm",
+        "monster_name": "Guard (Prifddinas) (5)"
+      }
+    },
+    {
+      "id": "563-9186",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Law rune",
+        "monster_name": "Guard (Prifddinas) (5)"
+      }
+    },
+    {
+      "id": "561-9186",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 12,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Guard (Prifddinas) (5)"
+      }
+    },
+    {
+      "id": "555-9186",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 70,
+        "quantity_max": null,
+        "rarity": "0.0625"
+      },
+      "meta": {
+        "item_name": "Water rune (Regular)",
+        "monster_name": "Guard (Prifddinas) (5)"
+      }
+    }
+  ]
+}

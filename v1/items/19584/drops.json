@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "id": "19584-7144",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 750,
+        "quantity_max": 1250,
+        "rarity": "0.05"
+      },
+      "meta": {
+        "item_name": "Javelin shaft",
+        "monster_name": "Demonic gorilla"
+      }
+    },
+    {
+      "id": "19584-7095",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 100,
+        "quantity_max": 299,
+        "rarity": "0.125"
+      },
+      "meta": {
+        "item_name": "Javelin shaft",
+        "monster_name": "Tortured gorilla (Level 142)"
+      }
+    },
+    {
+      "id": "19584-7150",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 100,
+        "quantity_max": 299,
+        "rarity": "0.125"
+      },
+      "meta": {
+        "item_name": "Javelin shaft",
+        "monster_name": "Tortured gorilla (Level 141)"
+      }
+    }
+  ]
+}

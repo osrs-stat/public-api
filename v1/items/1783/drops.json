@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "1783-963",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 100,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Bucket of sand",
+        "monster_name": "Kalphite Queen (Crawling)"
+      }
+    },
+    {
+      "id": "1783-965",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 100,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Bucket of sand",
+        "monster_name": "Kalphite Queen (Airborne)"
+      }
+    },
+    {
+      "id": "1783-6615",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 25,
+        "quantity_max": null,
+        "rarity": "0.046875"
+      },
+      "meta": {
+        "item_name": "Bucket of sand",
+        "monster_name": "Scorpia"
+      }
+    },
+    {
+      "id": "1783-5935",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.046875"
+      },
+      "meta": {
+        "item_name": "Bucket of sand",
+        "monster_name": "Sand Crab (Active)"
+      }
+    }
+  ]
+}

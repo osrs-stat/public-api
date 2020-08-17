@@ -1,0 +1,644 @@
+{
+  "data": [
+    {
+      "id": "1215-7273",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Dragon dagger (Unpoisoned)",
+        "monster_name": "Brutal blue dragon"
+      }
+    },
+    {
+      "id": "1149-7273",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Dragon med helm",
+        "monster_name": "Brutal blue dragon"
+      }
+    },
+    {
+      "id": "1163-7273",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Rune full helm",
+        "monster_name": "Brutal blue dragon"
+      }
+    },
+    {
+      "id": "1127-7273",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Rune platebody",
+        "monster_name": "Brutal blue dragon"
+      }
+    },
+    {
+      "id": "562-7273",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 18,
+        "quantity_max": null,
+        "rarity": "0.0625"
+      },
+      "meta": {
+        "item_name": "Chaos rune (Regular)",
+        "monster_name": "Brutal blue dragon"
+      }
+    },
+    {
+      "id": "560-7273",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 11,
+        "quantity_max": null,
+        "rarity": "0.0625"
+      },
+      "meta": {
+        "item_name": "Death rune (Regular)",
+        "monster_name": "Brutal blue dragon"
+      }
+    },
+    {
+      "id": "830-7273",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 20,
+        "quantity_max": null,
+        "rarity": "0.0625"
+      },
+      "meta": {
+        "item_name": "Rune javelin (Unpoisoned)",
+        "monster_name": "Brutal blue dragon"
+      }
+    },
+    {
+      "id": "556-7273",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 50,
+        "quantity_max": null,
+        "rarity": "0.0546875"
+      },
+      "meta": {
+        "item_name": "Air rune (Regular)",
+        "monster_name": "Brutal blue dragon"
+      }
+    },
+    {
+      "id": "563-7273",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 15,
+        "quantity_max": null,
+        "rarity": "0.0546875"
+      },
+      "meta": {
+        "item_name": "Law rune",
+        "monster_name": "Brutal blue dragon"
+      }
+    },
+    {
+      "id": "892-7273",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 15,
+        "quantity_max": null,
+        "rarity": "0.0546875"
+      },
+      "meta": {
+        "item_name": "Rune arrow (Unpoisoned)",
+        "monster_name": "Brutal blue dragon"
+      }
+    },
+    {
+      "id": "810-7273",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Adamant dart (Unpoisoned)",
+        "monster_name": "Brutal blue dragon"
+      }
+    },
+    {
+      "id": "868-7273",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Rune knife (Unpoisoned)",
+        "monster_name": "Brutal blue dragon"
+      }
+    },
+    {
+      "id": "805-7273",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Rune thrownaxe",
+        "monster_name": "Brutal blue dragon"
+      }
+    },
+    {
+      "id": "243-7273",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Blue dragon scale",
+        "monster_name": "Brutal blue dragon"
+      }
+    },
+    {
+      "id": "11232-7273",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Dragon dart tip",
+        "monster_name": "Brutal blue dragon"
+      }
+    },
+    {
+      "id": "2722-7273",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Clue scroll (hard)",
+        "monster_name": "Brutal blue dragon"
+      }
+    },
+    {
+      "id": "2011-7273",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.0625"
+      },
+      "meta": {
+        "item_name": "Curry",
+        "monster_name": "Brutal blue dragon"
+      }
+    },
+    {
+      "id": "13510-7273",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.05"
+      },
+      "meta": {
+        "item_name": "Ensouled dragon head (Drop)",
+        "monster_name": "Brutal blue dragon"
+      }
+    },
+    {
+      "id": "19683-7273",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "catacombs-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00392156862745098"
+      },
+      "meta": {
+        "item_name": "Dark totem top",
+        "monster_name": "Brutal blue dragon"
+      }
+    },
+    {
+      "id": "19681-7273",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "catacombs-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00392156862745098"
+      },
+      "meta": {
+        "item_name": "Dark totem middle",
+        "monster_name": "Brutal blue dragon"
+      }
+    },
+    {
+      "id": "19679-7273",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "catacombs-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00392156862745098"
+      },
+      "meta": {
+        "item_name": "Dark totem base",
+        "monster_name": "Brutal blue dragon"
+      }
+    },
+    {
+      "id": "1073-7273",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0546875"
+      },
+      "meta": {
+        "item_name": "Adamant platelegs",
+        "monster_name": "Brutal blue dragon"
+      }
+    },
+    {
+      "id": "1245-7273",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.078125"
+      },
+      "meta": {
+        "item_name": "Adamant spear (Unpoisoned)",
+        "monster_name": "Brutal blue dragon"
+      }
+    },
+    {
+      "id": "11375-7273",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.078125"
+      },
+      "meta": {
+        "item_name": "Adamant hasta (Unpoisoned)",
+        "monster_name": "Brutal blue dragon"
+      }
+    },
+    {
+      "id": "1751-7273",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Blue dragonhide",
+        "monster_name": "Brutal blue dragon"
+      }
+    },
+    {
+      "id": "536-7273",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Dragon bones",
+        "monster_name": "Brutal blue dragon"
+      }
+    },
+    {
+      "id": "1159-7273",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Mithril full helm",
+        "monster_name": "Brutal blue dragon"
+      }
+    },
+    {
+      "id": "1303-7273",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Rune longsword",
+        "monster_name": "Brutal blue dragon"
+      }
+    },
+    {
+      "id": "2499-7273",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Blue d'hide body",
+        "monster_name": "Brutal blue dragon"
+      }
+    },
+    {
+      "id": "2487-7273",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Blue d'hide vambraces",
+        "monster_name": "Brutal blue dragon"
+      }
+    },
+    {
+      "id": "1305-7273",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Dragon longsword",
+        "monster_name": "Brutal blue dragon"
+      }
+    },
+    {
+      "id": "23083-7273",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0151975683890578"
+      },
+      "meta": {
+        "item_name": "Brimstone key",
+        "monster_name": "Brutal blue dragon"
+      }
+    },
+    {
+      "id": "11237-7273",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Dragon arrowtips",
+        "monster_name": "Brutal blue dragon"
+      }
+    },
+    {
+      "id": "451-7273",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Runite ore",
+        "monster_name": "Brutal blue dragon"
+      }
+    },
+    {
+      "id": "19582-7273",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 12,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Dragon javelin heads",
+        "monster_name": "Brutal blue dragon"
+      }
+    },
+    {
+      "id": "19677-7273",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "catacombs-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00588235294117647"
+      },
+      "meta": {
+        "item_name": "Ancient shard",
+        "monster_name": "Brutal blue dragon"
+      }
+    },
+    {
+      "id": "11286-7273",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0001"
+      },
+      "meta": {
+        "item_name": "Draconic visage",
+        "monster_name": "Brutal blue dragon"
+      }
+    },
+    {
+      "id": "12073-7273",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00133333333333333"
+      },
+      "meta": {
+        "item_name": "Clue scroll (elite)",
+        "monster_name": "Brutal blue dragon"
+      }
+    },
+    {
+      "id": "995-7273",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 621,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Brutal blue dragon"
+      }
+    },
+    {
+      "id": "995-7273",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 370,
+        "quantity_max": null,
+        "rarity": "0.0859375"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Brutal blue dragon"
+      }
+    }
+  ]
+}

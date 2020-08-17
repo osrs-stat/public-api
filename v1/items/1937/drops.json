@@ -1,0 +1,100 @@
+{
+  "data": [
+    {
+      "id": "1937-3134",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Jug of water",
+        "monster_name": "Imp (GWD)"
+      }
+    },
+    {
+      "id": "1937-5908",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 250,
+        "quantity_max": 350,
+        "rarity": "0.0143884892086331"
+      },
+      "meta": {
+        "item_name": "Jug of water",
+        "monster_name": "Abyssal Sire (Phase 3 (stage 2))"
+      }
+    },
+    {
+      "id": "1937-5891",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 250,
+        "quantity_max": 350,
+        "rarity": "0.0143884892086331"
+      },
+      "meta": {
+        "item_name": "Jug of water",
+        "monster_name": "Abyssal Sire (Phase 3 (stage 1))"
+      }
+    },
+    {
+      "id": "1937-5890",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 250,
+        "quantity_max": 350,
+        "rarity": "0.0143884892086331"
+      },
+      "meta": {
+        "item_name": "Jug of water",
+        "monster_name": "Abyssal Sire (Phase 2)"
+      }
+    },
+    {
+      "id": "1937-5007",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Jug of water",
+        "monster_name": "Imp (Regular)"
+      }
+    },
+    {
+      "id": "1937-5886",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 250,
+        "quantity_max": 350,
+        "rarity": "0.0143884892086331"
+      },
+      "meta": {
+        "item_name": "Jug of water",
+        "monster_name": "Abyssal Sire (Phase 1)"
+      }
+    }
+  ]
+}

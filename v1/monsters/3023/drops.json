@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "23490-3023",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00565610859728507"
+      },
+      "meta": {
+        "item_name": "Larran's key",
+        "monster_name": "Poison spider (Level 64)"
+      }
+    },
+    {
+      "id": "21257-3023",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00371747211895911"
+      },
+      "meta": {
+        "item_name": "Slayer's enchantment",
+        "monster_name": "Poison spider (Level 64)"
+      }
+    },
+    {
+      "id": "23182-3023",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Clue scroll (beginner)",
+        "monster_name": "Poison spider (Level 64)"
+      }
+    },
+    {
+      "id": "11941-3023",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Poison spider (Level 64)"
+      }
+    }
+  ]
+}

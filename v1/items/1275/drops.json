@@ -1,0 +1,228 @@
+{
+  "data": [
+    {
+      "id": "1275-5862",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Rune pickaxe (Regular)",
+        "monster_name": "Cerberus"
+      }
+    },
+    {
+      "id": "1275-2215",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.047244094488189"
+      },
+      "meta": {
+        "item_name": "Rune pickaxe (Regular)",
+        "monster_name": "General Graardor"
+      }
+    },
+    {
+      "id": "1275-3612",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.002"
+      },
+      "meta": {
+        "item_name": "Rune pickaxe (Regular)",
+        "monster_name": "Possessed pickaxe"
+      }
+    },
+    {
+      "id": "1275-6503",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.09375"
+      },
+      "meta": {
+        "item_name": "Rune pickaxe (Regular)",
+        "monster_name": "Callisto"
+      }
+    },
+    {
+      "id": "1275-6504",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.09375"
+      },
+      "meta": {
+        "item_name": "Rune pickaxe (Regular)",
+        "monster_name": "Venenatis"
+      }
+    },
+    {
+      "id": "1275-6611",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.09375"
+      },
+      "meta": {
+        "item_name": "Rune pickaxe (Regular)",
+        "monster_name": "Vet'ion (Normal)"
+      }
+    },
+    {
+      "id": "1275-6612",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.09375"
+      },
+      "meta": {
+        "item_name": "Rune pickaxe (Regular)",
+        "monster_name": "Vet'ion (Reborn)"
+      }
+    },
+    {
+      "id": "1275-6615",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Rune pickaxe (Regular)",
+        "monster_name": "Scorpia"
+      }
+    },
+    {
+      "id": "1275-6729",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Rune pickaxe (Regular)",
+        "monster_name": "Rock golem (monster) (Level 120)"
+      }
+    },
+    {
+      "id": "1275-6730",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Rune pickaxe (Regular)",
+        "monster_name": "Rock golem (monster) (Level 159)"
+      }
+    },
+    {
+      "id": "1275-7792",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.016260162601626"
+      },
+      "meta": {
+        "item_name": "Rune pickaxe (Regular)",
+        "monster_name": "Long-tailed Wyvern"
+      }
+    },
+    {
+      "id": "1275-7793",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.016260162601626"
+      },
+      "meta": {
+        "item_name": "Rune pickaxe (Regular)",
+        "monster_name": "Taloned Wyvern"
+      }
+    },
+    {
+      "id": "1275-7794",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.016260162601626"
+      },
+      "meta": {
+        "item_name": "Rune pickaxe (Regular)",
+        "monster_name": "Spitting Wyvern"
+      }
+    },
+    {
+      "id": "1275-7795",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0223880597014925"
+      },
+      "meta": {
+        "item_name": "Rune pickaxe (Regular)",
+        "monster_name": "Ancient Wyvern"
+      }
+    }
+  ]
+}

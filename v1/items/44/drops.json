@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "id": "44-8610",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 8,
+        "quantity_max": 12,
+        "rarity": "0.0263157894736842"
+      },
+      "meta": {
+        "item_name": "Rune arrowtips",
+        "monster_name": "Wyrm (Idle)"
+      }
+    },
+    {
+      "id": "44-8611",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 8,
+        "quantity_max": 12,
+        "rarity": "0.0263157894736842"
+      },
+      "meta": {
+        "item_name": "Rune arrowtips",
+        "monster_name": "Wyrm (Attacking)"
+      }
+    },
+    {
+      "id": "44-10398",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 8,
+        "quantity_max": 12,
+        "rarity": "0.0263157894736842"
+      },
+      "meta": {
+        "item_name": "Rune arrowtips",
+        "monster_name": "Shadow Wyrm"
+      }
+    }
+  ]
+}

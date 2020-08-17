@@ -1,0 +1,119 @@
+{
+  "data": {
+    "id": "454",
+    "type": "monster",
+    "attributes": {
+      "uuid": "50f12c07-5ba7-419f-83d1-0250f8f6b52a",
+      "name": "Crawling Hand (Level 12 (2))",
+      "members": true,
+      "release_date": "2005-01-26",
+      "examine": "I'm glad its just the hand I can see...",
+      "combat_level_override": null,
+      "max_hit_override": null,
+      "target_types": [
+        "undead"
+      ],
+      "classification_types": [
+        "crawling hand"
+      ],
+      "poison": false,
+      "immune_poison": false,
+      "immune_venom": false,
+      "slayer_xp": 19.0,
+      "slayer_level": 5,
+      "slayer_masters": [
+        "turael",
+        "mazchna",
+        "vannaka"
+      ],
+      "icon_base64": null
+    },
+    "relationships": {
+      "combat_stat": {
+        "data": {
+          "id": "91b58132-8843-45cf-9aca-5b6d50748dbe",
+          "type": "combat_stat"
+        }
+      },
+      "equip_stat": {
+        "data": {
+          "id": "e0e82c11-4e42-41df-889c-f957ee820125",
+          "type": "equip_stat"
+        }
+      },
+      "attack_stat": {
+        "data": {
+          "id": "b4de820c-7c96-432b-81e4-3984a466139f",
+          "type": "attack_stat"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Crawling_Hand#Level_12_(2)"
+    },
+    "meta": {
+      "incomplete": true
+    }
+  },
+  "included": [
+    {
+      "id": "b4de820c-7c96-432b-81e4-3984a466139f",
+      "type": "attack_stat",
+      "attributes": {
+        "attack_speed": 4,
+        "attack_type": "monster",
+        "special": null,
+        "stances": [
+          {
+            "name": "Monster crush",
+            "style": null,
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": null,
+            "combat_accuracy_stat": "attack_level",
+            "combat_damage_stat": "strength_level",
+            "equip_accuracy_stat": "crush_attack",
+            "equip_damage_stat": "crush_attack",
+            "target_equip_defense_stat": "crush_defense"
+          }
+        ]
+      }
+    },
+    {
+      "id": "91b58132-8843-45cf-9aca-5b6d50748dbe",
+      "type": "monster_combat_stat",
+      "attributes": {
+        "hitpoints_level": 19,
+        "attack_level": 11,
+        "strength_level": 7,
+        "defense_level": 7,
+        "magic_level": 1,
+        "ranged_level": 1,
+        "prayer_level": 0
+      }
+    },
+    {
+      "id": "e0e82c11-4e42-41df-889c-f957ee820125",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 0,
+        "slash_attack": 0,
+        "crush_attack": 0,
+        "ranged_attack": 0,
+        "magic_attack": 0,
+        "stab_defense": 0,
+        "slash_defense": 0,
+        "crush_defense": 0,
+        "ranged_defense": 0,
+        "magic_defense": 0,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

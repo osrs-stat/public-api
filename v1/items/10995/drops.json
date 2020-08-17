@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "id": "10995-6076",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Perfect shell",
+        "monster_name": "Tortoise (With riders)"
+      }
+    },
+    {
+      "id": "10995-6075",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Perfect shell",
+        "monster_name": "Tortoise (No riders)"
+      }
+    }
+  ]
+}

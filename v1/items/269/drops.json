@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "id": "269-2042",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.00806451612903226"
+      },
+      "meta": {
+        "item_name": "Torstol",
+        "monster_name": "Zulrah (Serpentine)"
+      }
+    },
+    {
+      "id": "269-2043",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.00806451612903226"
+      },
+      "meta": {
+        "item_name": "Torstol",
+        "monster_name": "Zulrah (Magma)"
+      }
+    },
+    {
+      "id": "269-2044",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.00806451612903226"
+      },
+      "meta": {
+        "item_name": "Torstol",
+        "monster_name": "Zulrah (Tanzanite)"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "data": {
+    "id": "2351",
+    "type": "item",
+    "attributes": {
+      "uuid": "221fbbce-45cf-4754-b378-b2129f65bfd1",
+      "name": "Iron bar",
+      "members": false,
+      "release_date": "2001-01-04",
+      "examine": "It's a bar of iron.",
+      "tradeable": false,
+      "ge_tradeable": false,
+      "lowalch": 11,
+      "highalch": 16,
+      "is_equip": false,
+      "is_weapon": false,
+      "icon_base64": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAAz0lEQVR4Xu3VPRKDIBCGYbmJlZOSJpewS52fJpP7H4EMOobkww3LyooF78zXWMAzNHZdq9U6bMbFq5Zxl3GMVgm3jsHthOJhnrfrNOUXy8N8z38vjJNjEBZw4spiXo/7BLJ9L0HNmLO1EUCK2QAKGNwWjBBEY3AISGEEID7mHyiFYYLyMBSoKAaHAJwSxmfcaRg+QxiFU8L4fkFcnBLGR4NSOAWMjweicIUxS+EHiJenpoCZCwfl4VQwWA5OHYOlcLtisDVcNQy2QA6BadXoDRmU1xpS8tjjAAAAAElFTkSuQmCC"
+    },
+    "relationships": {
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Iron_bar"
+    },
+    "meta": {
+      "incomplete": false
+    }
+  },
+  "included": [
+
+  ]
+}

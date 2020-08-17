@@ -1,0 +1,644 @@
+{
+  "data": [
+    {
+      "id": "995-494",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10000,
+        "quantity_max": 19999,
+        "rarity": "0.1171875"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Kraken (Kraken)"
+      }
+    },
+    {
+      "id": "1925-494",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Bucket",
+        "monster_name": "Kraken (Kraken)"
+      }
+    },
+    {
+      "id": "311-494",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Harpoon",
+        "monster_name": "Kraken (Kraken)"
+      }
+    },
+    {
+      "id": "403-494",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Edible seaweed",
+        "monster_name": "Kraken (Kraken)"
+      }
+    },
+    {
+      "id": "10925-494",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Sanfew serum (4 dose)",
+        "monster_name": "Kraken (Kraken)"
+      }
+    },
+    {
+      "id": "7114-494",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Pirate boots",
+        "monster_name": "Kraken (Kraken)"
+      }
+    },
+    {
+      "id": "385-494",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.0546875"
+      },
+      "meta": {
+        "item_name": "Shark",
+        "monster_name": "Kraken (Kraken)"
+      }
+    },
+    {
+      "id": "3051-494",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 6,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Grimy snapdragon",
+        "monster_name": "Kraken (Kraken)"
+      }
+    },
+    {
+      "id": "7944-494",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 100,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Raw monkfish",
+        "monster_name": "Kraken (Kraken)"
+      }
+    },
+    {
+      "id": "383-494",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 50,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Raw shark",
+        "monster_name": "Kraken (Kraken)"
+      }
+    },
+    {
+      "id": "2363-494",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Runite bar",
+        "monster_name": "Kraken (Kraken)"
+      }
+    },
+    {
+      "id": "8778-494",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 60,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Oak plank",
+        "monster_name": "Kraken (Kraken)"
+      }
+    },
+    {
+      "id": "1601-494",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 8,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Diamond",
+        "monster_name": "Kraken (Kraken)"
+      }
+    },
+    {
+      "id": "567-494",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 50,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Unpowered orb",
+        "monster_name": "Kraken (Kraken)"
+      }
+    },
+    {
+      "id": "5304-494",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Torstol seed",
+        "monster_name": "Kraken (Kraken)"
+      }
+    },
+    {
+      "id": "5316-494",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Magic seed",
+        "monster_name": "Kraken (Kraken)"
+      }
+    },
+    {
+      "id": "401-494",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 125,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Seaweed",
+        "monster_name": "Kraken (Kraken)"
+      }
+    },
+    {
+      "id": "1391-494",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Battlestaff",
+        "monster_name": "Kraken (Kraken)"
+      }
+    },
+    {
+      "id": "11905-494",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.001953125"
+      },
+      "meta": {
+        "item_name": "Trident of the seas (Charged)",
+        "monster_name": "Kraken (Kraken)"
+      }
+    },
+    {
+      "id": "555-494",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 400,
+        "quantity_max": null,
+        "rarity": "0.078125"
+      },
+      "meta": {
+        "item_name": "Water rune (Regular)",
+        "monster_name": "Kraken (Kraken)"
+      }
+    },
+    {
+      "id": "4695-494",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 100,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Mist rune",
+        "monster_name": "Kraken (Kraken)"
+      }
+    },
+    {
+      "id": "562-494",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 250,
+        "quantity_max": null,
+        "rarity": "0.078125"
+      },
+      "meta": {
+        "item_name": "Chaos rune (Regular)",
+        "monster_name": "Kraken (Kraken)"
+      }
+    },
+    {
+      "id": "560-494",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 150,
+        "quantity_max": null,
+        "rarity": "0.078125"
+      },
+      "meta": {
+        "item_name": "Death rune (Regular)",
+        "monster_name": "Kraken (Kraken)"
+      }
+    },
+    {
+      "id": "565-494",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 60,
+        "quantity_max": null,
+        "rarity": "0.078125"
+      },
+      "meta": {
+        "item_name": "Blood rune (Regular)",
+        "monster_name": "Kraken (Kraken)"
+      }
+    },
+    {
+      "id": "566-494",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 50,
+        "quantity_max": null,
+        "rarity": "0.0546875"
+      },
+      "meta": {
+        "item_name": "Soul rune",
+        "monster_name": "Kraken (Kraken)"
+      }
+    },
+    {
+      "id": "5321-494",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 24,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Watermelon seed",
+        "monster_name": "Kraken (Kraken)"
+      }
+    },
+    {
+      "id": "4093-494",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Mystic robe bottom",
+        "monster_name": "Kraken (Kraken)"
+      }
+    },
+    {
+      "id": "4091-494",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Mystic robe top",
+        "monster_name": "Kraken (Kraken)"
+      }
+    },
+    {
+      "id": "1303-494",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Rune longsword",
+        "monster_name": "Kraken (Kraken)"
+      }
+    },
+    {
+      "id": "1347-494",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Rune warhammer",
+        "monster_name": "Kraken (Kraken)"
+      }
+    },
+    {
+      "id": "1403-494",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Mystic water staff",
+        "monster_name": "Kraken (Kraken)"
+      }
+    },
+    {
+      "id": "12655-494",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000333333333333333"
+      },
+      "meta": {
+        "item_name": "Pet kraken",
+        "monster_name": "Kraken (Kraken)"
+      }
+    },
+    {
+      "id": "12007-494",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.001"
+      },
+      "meta": {
+        "item_name": "Jar of dirt",
+        "monster_name": "Kraken (Kraken)"
+      }
+    },
+    {
+      "id": "12073-494",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.002"
+      },
+      "meta": {
+        "item_name": "Clue scroll (elite)",
+        "monster_name": "Kraken (Kraken)"
+      }
+    },
+    {
+      "id": "23083-494",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0202265372168285"
+      },
+      "meta": {
+        "item_name": "Brimstone key",
+        "monster_name": "Kraken (Kraken)"
+      }
+    },
+    {
+      "id": "12004-494",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0025"
+      },
+      "meta": {
+        "item_name": "Kraken tentacle",
+        "monster_name": "Kraken (Kraken)"
+      }
+    },
+    {
+      "id": "1645-494",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Dragonstone ring",
+        "monster_name": "Kraken (Kraken)"
+      }
+    },
+    {
+      "id": "5952-494",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Antidote++ (4 dose)",
+        "monster_name": "Kraken (Kraken)"
+      }
+    },
+    {
+      "id": "686-494",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.013671875"
+      },
+      "meta": {
+        "item_name": "Rusty sword",
+        "monster_name": "Kraken (Kraken)"
+      }
+    },
+    {
+      "id": "989-494",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Crystal key",
+        "monster_name": "Kraken (Kraken)"
+      }
+    }
+  ]
+}

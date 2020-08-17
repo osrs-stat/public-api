@@ -1,0 +1,117 @@
+{
+  "data": {
+    "id": "4311",
+    "type": "monster",
+    "attributes": {
+      "uuid": "3adf5150-6697-4b0b-acea-d90fac34cb6c",
+      "name": "Sea troll (Level 101)",
+      "members": true,
+      "release_date": "2006-05-02",
+      "examine": "An aquatic troll.",
+      "combat_level_override": null,
+      "max_hit_override": null,
+      "target_types": [
+
+      ],
+      "classification_types": [
+
+      ],
+      "poison": false,
+      "immune_poison": false,
+      "immune_venom": false,
+      "slayer_xp": null,
+      "slayer_level": null,
+      "slayer_masters": [
+
+      ],
+      "icon_base64": null
+    },
+    "relationships": {
+      "combat_stat": {
+        "data": {
+          "id": "4090945c-de0a-43ad-a5a4-aad9e8d84309",
+          "type": "combat_stat"
+        }
+      },
+      "equip_stat": {
+        "data": {
+          "id": "fef9ab93-6fd2-4a0b-9d86-f08a7aeeacc5",
+          "type": "equip_stat"
+        }
+      },
+      "attack_stat": {
+        "data": {
+          "id": "811b85c6-da78-4915-9db2-bdda9bd37f09",
+          "type": "attack_stat"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Sea_troll#Level_101"
+    },
+    "meta": {
+      "incomplete": true
+    }
+  },
+  "included": [
+    {
+      "id": "811b85c6-da78-4915-9db2-bdda9bd37f09",
+      "type": "attack_stat",
+      "attributes": {
+        "attack_speed": 4,
+        "attack_type": "monster",
+        "special": null,
+        "stances": [
+          {
+            "name": "Monster crush",
+            "style": null,
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": null,
+            "combat_accuracy_stat": "attack_level",
+            "combat_damage_stat": "strength_level",
+            "equip_accuracy_stat": "crush_attack",
+            "equip_damage_stat": "crush_attack",
+            "target_equip_defense_stat": "crush_defense"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4090945c-de0a-43ad-a5a4-aad9e8d84309",
+      "type": "monster_combat_stat",
+      "attributes": {
+        "hitpoints_level": 80,
+        "attack_level": 90,
+        "strength_level": 90,
+        "defense_level": 90,
+        "magic_level": 1,
+        "ranged_level": 1,
+        "prayer_level": 0
+      }
+    },
+    {
+      "id": "fef9ab93-6fd2-4a0b-9d86-f08a7aeeacc5",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 0,
+        "slash_attack": 0,
+        "crush_attack": 0,
+        "ranged_attack": 0,
+        "magic_attack": 0,
+        "stab_defense": 0,
+        "slash_defense": 0,
+        "crush_defense": 0,
+        "ranged_defense": 0,
+        "magic_defense": 0,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

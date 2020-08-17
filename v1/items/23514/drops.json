@@ -1,0 +1,180 @@
+{
+  "data": [
+    {
+      "id": "23514-2145",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "forthos-dungeon-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.05"
+      },
+      "meta": {
+        "item_name": "Tattered temple page",
+        "monster_name": "Undead Druid"
+      }
+    },
+    {
+      "id": "23514-251",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.1"
+      },
+      "meta": {
+        "item_name": "Tattered temple page",
+        "monster_name": "Red dragon (5)"
+      }
+    },
+    {
+      "id": "23514-8713",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "forthos-dungeon-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.2"
+      },
+      "meta": {
+        "item_name": "Tattered temple page",
+        "monster_name": "Sarachnis"
+      }
+    },
+    {
+      "id": "23514-250",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.1"
+      },
+      "meta": {
+        "item_name": "Tattered temple page",
+        "monster_name": "Red dragon (4)"
+      }
+    },
+    {
+      "id": "23514-249",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.1"
+      },
+      "meta": {
+        "item_name": "Tattered temple page",
+        "monster_name": "Red dragon (3)"
+      }
+    },
+    {
+      "id": "23514-247",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.1"
+      },
+      "meta": {
+        "item_name": "Tattered temple page",
+        "monster_name": "Red dragon (1)"
+      }
+    },
+    {
+      "id": "23514-248",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.1"
+      },
+      "meta": {
+        "item_name": "Tattered temple page",
+        "monster_name": "Red dragon (2)"
+      }
+    },
+    {
+      "id": "23514-246",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "forthos-dungeon-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.04"
+      },
+      "meta": {
+        "item_name": "Tattered temple page",
+        "monster_name": "Baby red dragon (3)"
+      }
+    },
+    {
+      "id": "23514-245",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "forthos-dungeon-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.04"
+      },
+      "meta": {
+        "item_name": "Tattered temple page",
+        "monster_name": "Baby red dragon (2)"
+      }
+    },
+    {
+      "id": "23514-244",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "forthos-dungeon-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.04"
+      },
+      "meta": {
+        "item_name": "Tattered temple page",
+        "monster_name": "Baby red dragon (1)"
+      }
+    },
+    {
+      "id": "23514-8703",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "forthos-dungeon-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0333333333333333"
+      },
+      "meta": {
+        "item_name": "Tattered temple page",
+        "monster_name": "Temple Spider"
+      }
+    }
+  ]
+}

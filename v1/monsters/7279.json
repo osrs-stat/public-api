@@ -1,0 +1,121 @@
+{
+  "data": {
+    "id": "7279",
+    "type": "monster",
+    "attributes": {
+      "uuid": "798fbdcd-fca2-4ce0-86b0-e0f85d41aa93",
+      "name": "Deviant spectre",
+      "members": true,
+      "release_date": "2016-06-09",
+      "examine": "A very smelly ghost.",
+      "combat_level_override": null,
+      "max_hit_override": null,
+      "target_types": [
+        "undead"
+      ],
+      "classification_types": [
+        "aberrant spectre"
+      ],
+      "poison": false,
+      "immune_poison": false,
+      "immune_venom": false,
+      "slayer_xp": 194.5,
+      "slayer_level": 60,
+      "slayer_masters": [
+        "vannaka",
+        "chaeldar",
+        "konar",
+        "nieve",
+        "duradel"
+      ],
+      "icon_base64": null
+    },
+    "relationships": {
+      "combat_stat": {
+        "data": {
+          "id": "b12abb0b-25f9-4ab9-b961-2b6dc3cddad8",
+          "type": "combat_stat"
+        }
+      },
+      "equip_stat": {
+        "data": {
+          "id": "f05e739e-4f67-4f00-927d-682a767fea44",
+          "type": "equip_stat"
+        }
+      },
+      "attack_stat": {
+        "data": {
+          "id": "8c8f015c-fcdc-41fd-9140-372ba3fb92e7",
+          "type": "attack_stat"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Deviant_spectre"
+    },
+    "meta": {
+      "incomplete": true
+    }
+  },
+  "included": [
+    {
+      "id": "8c8f015c-fcdc-41fd-9140-372ba3fb92e7",
+      "type": "attack_stat",
+      "attributes": {
+        "attack_speed": 4,
+        "attack_type": "monster",
+        "special": null,
+        "stances": [
+          {
+            "name": "Monster magic",
+            "style": null,
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": null,
+            "combat_accuracy_stat": "magic_level",
+            "combat_damage_stat": "magic_level",
+            "equip_accuracy_stat": "magic_attack",
+            "equip_damage_stat": "magic_attack",
+            "target_equip_defense_stat": "magic_defense"
+          }
+        ]
+      }
+    },
+    {
+      "id": "b12abb0b-25f9-4ab9-b961-2b6dc3cddad8",
+      "type": "monster_combat_stat",
+      "attributes": {
+        "hitpoints_level": 190,
+        "attack_level": 1,
+        "strength_level": 1,
+        "defense_level": 90,
+        "magic_level": 205,
+        "ranged_level": 1,
+        "prayer_level": 0
+      }
+    },
+    {
+      "id": "f05e739e-4f67-4f00-927d-682a767fea44",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 0,
+        "slash_attack": 0,
+        "crush_attack": 0,
+        "ranged_attack": 0,
+        "magic_attack": 0,
+        "stab_defense": 80,
+        "slash_defense": 80,
+        "crush_defense": 80,
+        "ranged_defense": 85,
+        "magic_defense": 0,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

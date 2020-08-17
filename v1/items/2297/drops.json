@@ -1,0 +1,84 @@
+{
+  "data": [
+    {
+      "id": "2297-6618",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 8,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Anchovy pizza (Full)",
+        "monster_name": "Crazy archaeologist"
+      }
+    },
+    {
+      "id": "2297-6615",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 8,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Anchovy pizza (Full)",
+        "monster_name": "Scorpia"
+      }
+    },
+    {
+      "id": "2297-6619",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 8,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Anchovy pizza (Full)",
+        "monster_name": "Chaos Fanatic"
+      }
+    },
+    {
+      "id": "2297-7806",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Anchovy pizza (Full)",
+        "monster_name": "Deranged archaeologist"
+      }
+    },
+    {
+      "id": "2297-2054",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.1"
+      },
+      "meta": {
+        "item_name": "Anchovy pizza (Full)",
+        "monster_name": "Chaos Elemental"
+      }
+    }
+  ]
+}

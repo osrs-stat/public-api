@@ -1,0 +1,116 @@
+{
+  "data": [
+    {
+      "id": "5626-3160",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Adamant arrow (Poison++)",
+        "monster_name": "Spiritual ranger (Zamorak)"
+      }
+    },
+    {
+      "id": "5626-2211",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Adamant arrow (Poison++)",
+        "monster_name": "Spiritual ranger (Saradomin)"
+      }
+    },
+    {
+      "id": "5626-2242",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Adamant arrow (Poison++)",
+        "monster_name": "Spiritual ranger (Bandos)"
+      }
+    },
+    {
+      "id": "5626-3129",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 295,
+        "quantity_max": 300,
+        "rarity": "0.062992125984252"
+      },
+      "meta": {
+        "item_name": "Adamant arrow (Poison++)",
+        "monster_name": "K'ril Tsutsaroth"
+      }
+    },
+    {
+      "id": "5626-3167",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Adamant arrow (Poison++)",
+        "monster_name": "Spiritual ranger (Armadyl)"
+      }
+    },
+    {
+      "id": "5626-7118",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.05"
+      },
+      "meta": {
+        "item_name": "Adamant arrow (Poison++)",
+        "monster_name": "Maniacal monkey"
+      }
+    },
+    {
+      "id": "5626-7119",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.05"
+      },
+      "meta": {
+        "item_name": "Adamant arrow (Poison++)",
+        "monster_name": "Maniacal Monkey Archer"
+      }
+    }
+  ]
+}

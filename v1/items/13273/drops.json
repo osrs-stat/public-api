@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "13273-5908",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.01"
+      },
+      "meta": {
+        "item_name": "Unsired",
+        "monster_name": "Abyssal Sire (Phase 3 (stage 2))"
+      }
+    },
+    {
+      "id": "13273-5891",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.01"
+      },
+      "meta": {
+        "item_name": "Unsired",
+        "monster_name": "Abyssal Sire (Phase 3 (stage 1))"
+      }
+    },
+    {
+      "id": "13273-5890",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.01"
+      },
+      "meta": {
+        "item_name": "Unsired",
+        "monster_name": "Abyssal Sire (Phase 2)"
+      }
+    },
+    {
+      "id": "13273-5886",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.01"
+      },
+      "meta": {
+        "item_name": "Unsired",
+        "monster_name": "Abyssal Sire (Phase 1)"
+      }
+    }
+  ]
+}

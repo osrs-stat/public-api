@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "id": "12002-498",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.001953125"
+      },
+      "meta": {
+        "item_name": "Occult necklace",
+        "monster_name": "Smoke devil"
+      }
+    },
+    {
+      "id": "12002-499",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00285714285714286"
+      },
+      "meta": {
+        "item_name": "Occult necklace",
+        "monster_name": "Thermonuclear smoke devil"
+      }
+    },
+    {
+      "id": "12002-7406",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.001953125"
+      },
+      "meta": {
+        "item_name": "Occult necklace",
+        "monster_name": "Nuclear smoke devil"
+      }
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "data": [
+    {
+      "id": "10859-3602",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.1"
+      },
+      "meta": {
+        "item_name": "Tea flask",
+        "monster_name": "Spidine"
+      }
+    },
+    {
+      "id": "10859-3605",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.1"
+      },
+      "meta": {
+        "item_name": "Tea flask",
+        "monster_name": "Newtroost"
+      }
+    },
+    {
+      "id": "10859-3604",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.1"
+      },
+      "meta": {
+        "item_name": "Tea flask",
+        "monster_name": "Jubster"
+      }
+    },
+    {
+      "id": "10859-3603",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.1"
+      },
+      "meta": {
+        "item_name": "Tea flask",
+        "monster_name": "Swordchick"
+      }
+    },
+    {
+      "id": "10859-3600",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.1"
+      },
+      "meta": {
+        "item_name": "Tea flask",
+        "monster_name": "Frogeel"
+      }
+    },
+    {
+      "id": "10859-3601",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.1"
+      },
+      "meta": {
+        "item_name": "Tea flask",
+        "monster_name": "Unicow"
+      }
+    }
+  ]
+}

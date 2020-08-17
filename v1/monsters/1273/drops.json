@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "id": "4184-1273",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Cavern key",
+        "monster_name": "Experiment (Level 51)"
+      }
+    },
+    {
+      "id": "7893-1273",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.25"
+      },
+      "meta": {
+        "item_name": "Experiment bone (Unpolished)",
+        "monster_name": "Experiment (Level 51)"
+      }
+    },
+    {
+      "id": "526-1273",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Bones",
+        "monster_name": "Experiment (Level 51)"
+      }
+    }
+  ]
+}

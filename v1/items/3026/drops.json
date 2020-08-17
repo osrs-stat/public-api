@@ -1,0 +1,84 @@
+{
+  "data": [
+    {
+      "id": "3026-8621",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.0693069306930693"
+      },
+      "meta": {
+        "item_name": "Super restore (3 dose)",
+        "monster_name": "Alchemical Hydra (Two heads)"
+      }
+    },
+    {
+      "id": "3026-8617",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.0693069306930693"
+      },
+      "meta": {
+        "item_name": "Super restore (3 dose)",
+        "monster_name": "Alchemical Hydra (Four heads)"
+      }
+    },
+    {
+      "id": "3026-8618",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.0693069306930693"
+      },
+      "meta": {
+        "item_name": "Super restore (3 dose)",
+        "monster_name": "Alchemical Hydra (Three heads)"
+      }
+    },
+    {
+      "id": "3026-3129",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.062992125984252"
+      },
+      "meta": {
+        "item_name": "Super restore (3 dose)",
+        "monster_name": "K'ril Tsutsaroth"
+      }
+    },
+    {
+      "id": "3026-8615",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.0693069306930693"
+      },
+      "meta": {
+        "item_name": "Super restore (3 dose)",
+        "monster_name": "Alchemical Hydra (Five heads)"
+      }
+    }
+  ]
+}

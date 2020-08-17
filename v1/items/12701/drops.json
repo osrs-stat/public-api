@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "id": "12701-8609",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Super combat potion (1 dose)",
+        "monster_name": "Hydra"
+      }
+    },
+    {
+      "id": "12701-10402",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Super combat potion (1 dose)",
+        "monster_name": "Colossal Hydra"
+      }
+    }
+  ]
+}

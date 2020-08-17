@@ -1,0 +1,20 @@
+{
+  "data": [
+    {
+      "id": "23525-8713",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "forthos-dungeon-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0005"
+      },
+      "meta": {
+        "item_name": "Jar of eyes",
+        "monster_name": "Sarachnis"
+      }
+    }
+  ]
+}

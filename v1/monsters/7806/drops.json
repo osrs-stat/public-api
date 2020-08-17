@@ -1,0 +1,708 @@
+{
+  "data": [
+    {
+      "id": "4698-7806",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 40,
+        "quantity_max": null,
+        "rarity": "0.046875"
+      },
+      "meta": {
+        "item_name": "Mud rune",
+        "monster_name": "Deranged archaeologist"
+      }
+    },
+    {
+      "id": "526-7806",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Bones",
+        "monster_name": "Deranged archaeologist"
+      }
+    },
+    {
+      "id": "22871-7806",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000125"
+      },
+      "meta": {
+        "item_name": "Redwood tree seed",
+        "monster_name": "Deranged archaeologist"
+      }
+    },
+    {
+      "id": "22869-7806",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000125"
+      },
+      "meta": {
+        "item_name": "Celastrus seed",
+        "monster_name": "Deranged archaeologist"
+      }
+    },
+    {
+      "id": "22877-7806",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000187485001199904"
+      },
+      "meta": {
+        "item_name": "Dragonfruit tree seed",
+        "monster_name": "Deranged archaeologist"
+      }
+    },
+    {
+      "id": "5317-7806",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00025"
+      },
+      "meta": {
+        "item_name": "Spirit seed",
+        "monster_name": "Deranged archaeologist"
+      }
+    },
+    {
+      "id": "5289-7806",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0003125"
+      },
+      "meta": {
+        "item_name": "Palm tree seed",
+        "monster_name": "Deranged archaeologist"
+      }
+    },
+    {
+      "id": "5316-7806",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000375060009601536"
+      },
+      "meta": {
+        "item_name": "Magic seed",
+        "monster_name": "Deranged archaeologist"
+      }
+    },
+    {
+      "id": "5288-7806",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000437430011198208"
+      },
+      "meta": {
+        "item_name": "Papaya tree seed",
+        "monster_name": "Deranged archaeologist"
+      }
+    },
+    {
+      "id": "5315-7806",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000562455003599712"
+      },
+      "meta": {
+        "item_name": "Yew seed",
+        "monster_name": "Deranged archaeologist"
+      }
+    },
+    {
+      "id": "21486-7806",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000562455003599712"
+      },
+      "meta": {
+        "item_name": "Teak seed",
+        "monster_name": "Deranged archaeologist"
+      }
+    },
+    {
+      "id": "5314-7806",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000562455003599712"
+      },
+      "meta": {
+        "item_name": "Maple seed",
+        "monster_name": "Deranged archaeologist"
+      }
+    },
+    {
+      "id": "21488-7806",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000562455003599712"
+      },
+      "meta": {
+        "item_name": "Mahogany seed",
+        "monster_name": "Deranged archaeologist"
+      }
+    },
+    {
+      "id": "5313-7806",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000625"
+      },
+      "meta": {
+        "item_name": "Willow seed",
+        "monster_name": "Deranged archaeologist"
+      }
+    },
+    {
+      "id": "5321-7806",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 15,
+        "quantity_max": null,
+        "rarity": "0.000625"
+      },
+      "meta": {
+        "item_name": "Watermelon seed",
+        "monster_name": "Deranged archaeologist"
+      }
+    },
+    {
+      "id": "5304-7806",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000687720070422535"
+      },
+      "meta": {
+        "item_name": "Torstol seed",
+        "monster_name": "Deranged archaeologist"
+      }
+    },
+    {
+      "id": "5300-7806",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000874958002015903"
+      },
+      "meta": {
+        "item_name": "Snapdragon seed",
+        "monster_name": "Deranged archaeologist"
+      }
+    },
+    {
+      "id": "5295-7806",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00093753750150006"
+      },
+      "meta": {
+        "item_name": "Ranarr seed",
+        "monster_name": "Deranged archaeologist"
+      }
+    },
+    {
+      "id": "12073-7806",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.005"
+      },
+      "meta": {
+        "item_name": "Clue scroll (elite)",
+        "monster_name": "Deranged archaeologist"
+      }
+    },
+    {
+      "id": "21568-7806",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00342857142857143"
+      },
+      "meta": {
+        "item_name": "Unidentified rare fossil",
+        "monster_name": "Deranged archaeologist"
+      }
+    },
+    {
+      "id": "21566-7806",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0685714285714286"
+      },
+      "meta": {
+        "item_name": "Unidentified large fossil",
+        "monster_name": "Deranged archaeologist"
+      }
+    },
+    {
+      "id": "21564-7806",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0171428571428571"
+      },
+      "meta": {
+        "item_name": "Unidentified medium fossil",
+        "monster_name": "Deranged archaeologist"
+      }
+    },
+    {
+      "id": "21562-7806",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0342857142857143"
+      },
+      "meta": {
+        "item_name": "Unidentified small fossil",
+        "monster_name": "Deranged archaeologist"
+      }
+    },
+    {
+      "id": "21555-7806",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": 32,
+        "rarity": "0.617142857142857"
+      },
+      "meta": {
+        "item_name": "Numulite",
+        "monster_name": "Deranged archaeologist"
+      }
+    },
+    {
+      "id": "10976-7806",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Long bone",
+        "monster_name": "Deranged archaeologist"
+      }
+    },
+    {
+      "id": "989-7806",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0546875"
+      },
+      "meta": {
+        "item_name": "Crystal key",
+        "monster_name": "Deranged archaeologist"
+      }
+    },
+    {
+      "id": "385-7806",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.0625"
+      },
+      "meta": {
+        "item_name": "Shark",
+        "monster_name": "Deranged archaeologist"
+      }
+    },
+    {
+      "id": "6705-7806",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.0625"
+      },
+      "meta": {
+        "item_name": "Potato with cheese",
+        "monster_name": "Deranged archaeologist"
+      }
+    },
+    {
+      "id": "139-7806",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0625"
+      },
+      "meta": {
+        "item_name": "Prayer potion (3 dose)",
+        "monster_name": "Deranged archaeologist"
+      }
+    },
+    {
+      "id": "2297-7806",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Anchovy pizza (Full)",
+        "monster_name": "Deranged archaeologist"
+      }
+    },
+    {
+      "id": "9194-7806",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 6,
+        "quantity_max": null,
+        "rarity": "0.046875"
+      },
+      "meta": {
+        "item_name": "Onyx bolt tips",
+        "monster_name": "Deranged archaeologist"
+      }
+    },
+    {
+      "id": "1617-7806",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Uncut diamond",
+        "monster_name": "Deranged archaeologist"
+      }
+    },
+    {
+      "id": "444-7806",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.046875"
+      },
+      "meta": {
+        "item_name": "Gold ore",
+        "monster_name": "Deranged archaeologist"
+      }
+    },
+    {
+      "id": "1747-7806",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 8,
+        "quantity_max": null,
+        "rarity": "0.046875"
+      },
+      "meta": {
+        "item_name": "Black dragonhide",
+        "monster_name": "Deranged archaeologist"
+      }
+    },
+    {
+      "id": "9431-7806",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Runite limbs",
+        "monster_name": "Deranged archaeologist"
+      }
+    },
+    {
+      "id": "239-7806",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.0546875"
+      },
+      "meta": {
+        "item_name": "White berries",
+        "monster_name": "Deranged archaeologist"
+      }
+    },
+    {
+      "id": "217-7806",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 4,
+        "quantity_max": null,
+        "rarity": "0.0625"
+      },
+      "meta": {
+        "item_name": "Grimy dwarf weed",
+        "monster_name": "Deranged archaeologist"
+      }
+    },
+    {
+      "id": "2-7806",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 80,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Cannonball",
+        "monster_name": "Deranged archaeologist"
+      }
+    },
+    {
+      "id": "11212-7806",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 60,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Dragon arrow (Unpoisoned)",
+        "monster_name": "Deranged archaeologist"
+      }
+    },
+    {
+      "id": "868-7806",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 25,
+        "quantity_max": null,
+        "rarity": "0.046875"
+      },
+      "meta": {
+        "item_name": "Rune knife (Unpoisoned)",
+        "monster_name": "Deranged archaeologist"
+      }
+    },
+    {
+      "id": "555-7806",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 100,
+        "quantity_max": null,
+        "rarity": "0.046875"
+      },
+      "meta": {
+        "item_name": "Water rune (Regular)",
+        "monster_name": "Deranged archaeologist"
+      }
+    },
+    {
+      "id": "1289-7806",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Rune sword",
+        "monster_name": "Deranged archaeologist"
+      }
+    },
+    {
+      "id": "1319-7806",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Rune 2h sword",
+        "monster_name": "Deranged archaeologist"
+      }
+    },
+    {
+      "id": "2503-7806",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.046875"
+      },
+      "meta": {
+        "item_name": "Black d'hide body",
+        "monster_name": "Deranged archaeologist"
+      }
+    }
+  ]
+}

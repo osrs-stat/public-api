@@ -1,0 +1,436 @@
+{
+  "data": [
+    {
+      "id": "3024-3458",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Super restore (4 dose)",
+        "monster_name": "Kamil (Normal)"
+      }
+    },
+    {
+      "id": "3024-7940",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 3,
+        "quantity_max": 5,
+        "rarity": "0.0375471698113208"
+      },
+      "meta": {
+        "item_name": "Super restore (4 dose)",
+        "monster_name": "Revenant dragon"
+      }
+    },
+    {
+      "id": "3024-7939",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 3,
+        "quantity_max": 5,
+        "rarity": "0.0350943396226415"
+      },
+      "meta": {
+        "item_name": "Super restore (4 dose)",
+        "monster_name": "Revenant knight"
+      }
+    },
+    {
+      "id": "3024-7938",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 3,
+        "quantity_max": 5,
+        "rarity": "0.030188679245283"
+      },
+      "meta": {
+        "item_name": "Super restore (4 dose)",
+        "monster_name": "Revenant dark beast"
+      }
+    },
+    {
+      "id": "3024-7937",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 3,
+        "quantity_max": 5,
+        "rarity": "0.0257289879931389"
+      },
+      "meta": {
+        "item_name": "Super restore (4 dose)",
+        "monster_name": "Revenant ork"
+      }
+    },
+    {
+      "id": "3024-7936",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 3,
+        "quantity_max": 5,
+        "rarity": "0.021342406433653"
+      },
+      "meta": {
+        "item_name": "Super restore (4 dose)",
+        "monster_name": "Revenant demon"
+      }
+    },
+    {
+      "id": "3024-7935",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 3,
+        "quantity_max": 5,
+        "rarity": "0.0194865450046397"
+      },
+      "meta": {
+        "item_name": "Super restore (4 dose)",
+        "monster_name": "Revenant hellhound"
+      }
+    },
+    {
+      "id": "3024-7934",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 3,
+        "quantity_max": 5,
+        "rarity": "0.0176306835756264"
+      },
+      "meta": {
+        "item_name": "Super restore (4 dose)",
+        "monster_name": "Revenant cyclops"
+      }
+    },
+    {
+      "id": "3024-7933",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 3,
+        "quantity_max": 5,
+        "rarity": "0.0103352962384329"
+      },
+      "meta": {
+        "item_name": "Super restore (4 dose)",
+        "monster_name": "Revenant hobgoblin"
+      }
+    },
+    {
+      "id": "3024-7932",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 3,
+        "quantity_max": 5,
+        "rarity": "0.00913351760605696"
+      },
+      "meta": {
+        "item_name": "Super restore (4 dose)",
+        "monster_name": "Revenant pyrefiend"
+      }
+    },
+    {
+      "id": "3024-7931",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 3,
+        "quantity_max": 5,
+        "rarity": "0.00216221781770445"
+      },
+      "meta": {
+        "item_name": "Super restore (4 dose)",
+        "monster_name": "Revenant goblin"
+      }
+    },
+    {
+      "id": "3024-7881",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 3,
+        "quantity_max": 5,
+        "rarity": "0.00123499142367067"
+      },
+      "meta": {
+        "item_name": "Super restore (4 dose)",
+        "monster_name": "Revenant imp"
+      }
+    },
+    {
+      "id": "3024-7795",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.0597014925373134"
+      },
+      "meta": {
+        "item_name": "Super restore (4 dose)",
+        "monster_name": "Ancient Wyvern"
+      }
+    },
+    {
+      "id": "3024-6612",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.078125"
+      },
+      "meta": {
+        "item_name": "Super restore (4 dose)",
+        "monster_name": "Vet'ion (Reborn)"
+      }
+    },
+    {
+      "id": "3024-6611",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.078125"
+      },
+      "meta": {
+        "item_name": "Super restore (4 dose)",
+        "monster_name": "Vet'ion (Normal)"
+      }
+    },
+    {
+      "id": "3024-6504",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.078125"
+      },
+      "meta": {
+        "item_name": "Super restore (4 dose)",
+        "monster_name": "Venenatis"
+      }
+    },
+    {
+      "id": "3024-6503",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.078125"
+      },
+      "meta": {
+        "item_name": "Super restore (4 dose)",
+        "monster_name": "Callisto"
+      }
+    },
+    {
+      "id": "3024-5908",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 4,
+        "quantity_max": null,
+        "rarity": "0.0359712230215827"
+      },
+      "meta": {
+        "item_name": "Super restore (4 dose)",
+        "monster_name": "Abyssal Sire (Phase 3 (stage 2))"
+      }
+    },
+    {
+      "id": "3024-5891",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 4,
+        "quantity_max": null,
+        "rarity": "0.0359712230215827"
+      },
+      "meta": {
+        "item_name": "Super restore (4 dose)",
+        "monster_name": "Abyssal Sire (Phase 3 (stage 1))"
+      }
+    },
+    {
+      "id": "3024-5890",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 4,
+        "quantity_max": null,
+        "rarity": "0.0359712230215827"
+      },
+      "meta": {
+        "item_name": "Super restore (4 dose)",
+        "monster_name": "Abyssal Sire (Phase 2)"
+      }
+    },
+    {
+      "id": "3024-5886",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 4,
+        "quantity_max": null,
+        "rarity": "0.0359712230215827"
+      },
+      "meta": {
+        "item_name": "Super restore (4 dose)",
+        "monster_name": "Abyssal Sire (Phase 1)"
+      }
+    },
+    {
+      "id": "3024-5862",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.046875"
+      },
+      "meta": {
+        "item_name": "Super restore (4 dose)",
+        "monster_name": "Cerberus"
+      }
+    },
+    {
+      "id": "3024-2215",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.062992125984252"
+      },
+      "meta": {
+        "item_name": "Super restore (4 dose)",
+        "monster_name": "General Graardor"
+      }
+    },
+    {
+      "id": "3024-2205",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.047244094488189"
+      },
+      "meta": {
+        "item_name": "Super restore (4 dose)",
+        "monster_name": "Commander Zilyana"
+      }
+    },
+    {
+      "id": "3024-1129",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Super restore (4 dose)",
+        "monster_name": "Kamil (Hard)"
+      }
+    },
+    {
+      "id": "3024-965",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.111111111111111"
+      },
+      "meta": {
+        "item_name": "Super restore (4 dose)",
+        "monster_name": "Kalphite Queen (Airborne)"
+      }
+    },
+    {
+      "id": "3024-963",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.111111111111111"
+      },
+      "meta": {
+        "item_name": "Super restore (4 dose)",
+        "monster_name": "Kalphite Queen (Crawling)"
+      }
+    }
+  ]
+}

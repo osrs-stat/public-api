@@ -1,0 +1,404 @@
+{
+  "data": [
+    {
+      "id": "1267-100",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Iron pickaxe (Regular)",
+        "monster_name": "Rock Crab (Active)"
+      }
+    },
+    {
+      "id": "401-100",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Seaweed",
+        "monster_name": "Rock Crab (Active)"
+      }
+    },
+    {
+      "id": "401-100",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Seaweed",
+        "monster_name": "Rock Crab (Active)"
+      }
+    },
+    {
+      "id": "401-100",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Seaweed",
+        "monster_name": "Rock Crab (Active)"
+      }
+    },
+    {
+      "id": "403-100",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Edible seaweed",
+        "monster_name": "Rock Crab (Active)"
+      }
+    },
+    {
+      "id": "438-100",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Tin ore",
+        "monster_name": "Rock Crab (Active)"
+      }
+    },
+    {
+      "id": "440-100",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Iron ore",
+        "monster_name": "Rock Crab (Active)"
+      }
+    },
+    {
+      "id": "453-100",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Coal",
+        "monster_name": "Rock Crab (Active)"
+      }
+    },
+    {
+      "id": "436-100",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Copper ore",
+        "monster_name": "Rock Crab (Active)"
+      }
+    },
+    {
+      "id": "407-100",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.09375"
+      },
+      "meta": {
+        "item_name": "Oyster",
+        "monster_name": "Rock Crab (Active)"
+      }
+    },
+    {
+      "id": "407-100",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0703125"
+      },
+      "meta": {
+        "item_name": "Oyster",
+        "monster_name": "Rock Crab (Active)"
+      }
+    },
+    {
+      "id": "409-100",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Empty oyster",
+        "monster_name": "Rock Crab (Active)"
+      }
+    },
+    {
+      "id": "409-100",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Empty oyster",
+        "monster_name": "Rock Crab (Active)"
+      }
+    },
+    {
+      "id": "411-100",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Oyster pearl",
+        "monster_name": "Rock Crab (Active)"
+      }
+    },
+    {
+      "id": "313-100",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Rock Crab (Active)"
+      }
+    },
+    {
+      "id": "2677-100",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Clue scroll (easy)",
+        "monster_name": "Rock Crab (Active)"
+      }
+    },
+    {
+      "id": "20543-100",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Reward casket (elite)",
+        "monster_name": "Rock Crab (Active)"
+      }
+    },
+    {
+      "id": "12073-100",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Clue scroll (elite)",
+        "monster_name": "Rock Crab (Active)"
+      }
+    },
+    {
+      "id": "405-100",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Casket",
+        "monster_name": "Rock Crab (Active)"
+      }
+    },
+    {
+      "id": "1969-100",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Spinach roll",
+        "monster_name": "Rock Crab (Active)"
+      }
+    },
+    {
+      "id": "1265-100",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.046875"
+      },
+      "meta": {
+        "item_name": "Bronze pickaxe",
+        "monster_name": "Rock Crab (Active)"
+      }
+    },
+    {
+      "id": "45-100",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Opal bolt tips",
+        "monster_name": "Rock Crab (Active)"
+      }
+    },
+    {
+      "id": "995-100",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 4,
+        "quantity_max": null,
+        "rarity": "0.2265625"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Rock Crab (Active)"
+      }
+    },
+    {
+      "id": "995-100",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 36,
+        "quantity_max": null,
+        "rarity": "0.0625"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Rock Crab (Active)"
+      }
+    },
+    {
+      "id": "995-100",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 8,
+        "quantity_max": null,
+        "rarity": "0.046875"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Rock Crab (Active)"
+      }
+    }
+  ]
+}

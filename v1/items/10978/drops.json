@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "10978-1",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 4,
+        "rarity": "0.2890625"
+      },
+      "meta": {
+        "item_name": "Swamp weed",
+        "monster_name": "Molanisk"
+      }
+    },
+    {
+      "id": "10978-483",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 8,
+        "rarity": "0.125"
+      },
+      "meta": {
+        "item_name": "Swamp weed",
+        "monster_name": "Cave bug (Level 96)"
+      }
+    },
+    {
+      "id": "10978-481",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 8,
+        "rarity": "0.125"
+      },
+      "meta": {
+        "item_name": "Swamp weed",
+        "monster_name": "Cave bug (Level 6)"
+      }
+    },
+    {
+      "id": "10978-1",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": 8,
+        "rarity": "0.078125"
+      },
+      "meta": {
+        "item_name": "Swamp weed",
+        "monster_name": "Molanisk"
+      }
+    }
+  ]
+}

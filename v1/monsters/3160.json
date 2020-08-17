@@ -1,0 +1,121 @@
+{
+  "data": {
+    "id": "3160",
+    "type": "monster",
+    "attributes": {
+      "uuid": "628694a1-3ab3-4fe6-bce0-37bfd784a402",
+      "name": "Spiritual ranger (Zamorak)",
+      "members": true,
+      "release_date": "2013-10-17",
+      "examine": "Defender of Zamorak.",
+      "combat_level_override": null,
+      "max_hit_override": 16,
+      "target_types": [
+
+      ],
+      "classification_types": [
+        "spiritual creatures"
+      ],
+      "poison": false,
+      "immune_poison": false,
+      "immune_venom": false,
+      "slayer_xp": 106.0,
+      "slayer_level": 63,
+      "slayer_masters": [
+        "krystilia",
+        "vannaka",
+        "chaeldar",
+        "nieve",
+        "duradel"
+      ],
+      "icon_base64": null
+    },
+    "relationships": {
+      "combat_stat": {
+        "data": {
+          "id": "3d10f13c-413e-48e9-b7c1-a3ffb15bac16",
+          "type": "combat_stat"
+        }
+      },
+      "equip_stat": {
+        "data": {
+          "id": "7b1aeb59-2296-48e2-a189-e3fd31a9163c",
+          "type": "equip_stat"
+        }
+      },
+      "attack_stat": {
+        "data": {
+          "id": "9cf770c5-510c-4cb3-a2da-a4fa4cfa63d5",
+          "type": "attack_stat"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Spiritual_ranger#Zamorak"
+    },
+    "meta": {
+      "incomplete": true
+    }
+  },
+  "included": [
+    {
+      "id": "9cf770c5-510c-4cb3-a2da-a4fa4cfa63d5",
+      "type": "attack_stat",
+      "attributes": {
+        "attack_speed": 4,
+        "attack_type": "monster",
+        "special": null,
+        "stances": [
+          {
+            "name": "Monster ranged",
+            "style": null,
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": null,
+            "combat_accuracy_stat": "ranged_level",
+            "combat_damage_stat": "ranged_level",
+            "equip_accuracy_stat": "ranged_attack",
+            "equip_damage_stat": "ranged_attack",
+            "target_equip_defense_stat": "ranged_defense"
+          }
+        ]
+      }
+    },
+    {
+      "id": "3d10f13c-413e-48e9-b7c1-a3ffb15bac16",
+      "type": "monster_combat_stat",
+      "attributes": {
+        "hitpoints_level": 120,
+        "attack_level": 1,
+        "strength_level": 1,
+        "defense_level": 80,
+        "magic_level": 1,
+        "ranged_level": 140,
+        "prayer_level": 0
+      }
+    },
+    {
+      "id": "7b1aeb59-2296-48e2-a189-e3fd31a9163c",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 0,
+        "slash_attack": 0,
+        "crush_attack": 0,
+        "ranged_attack": 0,
+        "magic_attack": 0,
+        "stab_defense": 0,
+        "slash_defense": 0,
+        "crush_defense": 0,
+        "ranged_defense": 0,
+        "magic_defense": 0,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

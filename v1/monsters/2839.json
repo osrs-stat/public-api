@@ -1,0 +1,119 @@
+{
+  "data": {
+    "id": "2839",
+    "type": "monster",
+    "attributes": {
+      "uuid": "fc9fd4f8-609b-4583-a88f-06ac97e0ab07",
+      "name": "Black bear",
+      "members": false,
+      "release_date": "2001-01-04",
+      "examine": "Eek! A bear!",
+      "combat_level_override": null,
+      "max_hit_override": null,
+      "target_types": [
+
+      ],
+      "classification_types": [
+        "bear"
+      ],
+      "poison": false,
+      "immune_poison": false,
+      "immune_venom": false,
+      "slayer_xp": 25.0,
+      "slayer_level": 1,
+      "slayer_masters": [
+        "turael",
+        "krystilia",
+        "mazchna"
+      ],
+      "icon_base64": null
+    },
+    "relationships": {
+      "combat_stat": {
+        "data": {
+          "id": "d2ce9b41-c33d-4f8d-bd85-1299584e4a34",
+          "type": "combat_stat"
+        }
+      },
+      "equip_stat": {
+        "data": {
+          "id": "7293b6fe-78fb-488b-a6db-7a336a8b0dd7",
+          "type": "equip_stat"
+        }
+      },
+      "attack_stat": {
+        "data": {
+          "id": "1976c4df-a44d-4ca1-bcdb-e42d5dcf1f58",
+          "type": "attack_stat"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Black_bear"
+    },
+    "meta": {
+      "incomplete": true
+    }
+  },
+  "included": [
+    {
+      "id": "1976c4df-a44d-4ca1-bcdb-e42d5dcf1f58",
+      "type": "attack_stat",
+      "attributes": {
+        "attack_speed": 4,
+        "attack_type": "monster",
+        "special": null,
+        "stances": [
+          {
+            "name": "Monster slash",
+            "style": null,
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": null,
+            "combat_accuracy_stat": "attack_level",
+            "combat_damage_stat": "strength_level",
+            "equip_accuracy_stat": "slash_attack",
+            "equip_damage_stat": "slash_attack",
+            "target_equip_defense_stat": "slash_defense"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d2ce9b41-c33d-4f8d-bd85-1299584e4a34",
+      "type": "monster_combat_stat",
+      "attributes": {
+        "hitpoints_level": 25,
+        "attack_level": 15,
+        "strength_level": 16,
+        "defense_level": 13,
+        "magic_level": 0,
+        "ranged_level": 0,
+        "prayer_level": 0
+      }
+    },
+    {
+      "id": "7293b6fe-78fb-488b-a6db-7a336a8b0dd7",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 0,
+        "slash_attack": 0,
+        "crush_attack": 0,
+        "ranged_attack": 0,
+        "magic_attack": 0,
+        "stab_defense": 0,
+        "slash_defense": 0,
+        "crush_defense": 0,
+        "ranged_defense": 0,
+        "magic_defense": 0,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

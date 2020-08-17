@@ -1,0 +1,532 @@
+{
+  "data": [
+    {
+      "id": "1109-4442",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Mithril chainbody",
+        "monster_name": "Vampyre Juvinate (Level 75)"
+      }
+    },
+    {
+      "id": "1109-4427",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Mithril chainbody",
+        "monster_name": "Vampyre Juvinate (Level 54)"
+      }
+    },
+    {
+      "id": "1109-3694",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Mithril chainbody",
+        "monster_name": "Vampyre Juvinate (Level 54 (Meiyerditch))"
+      }
+    },
+    {
+      "id": "1109-3139",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Mithril chainbody",
+        "monster_name": "Pyrefiend (GWD)"
+      }
+    },
+    {
+      "id": "1109-3138",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Mithril chainbody",
+        "monster_name": "Bloodveld (God Wars)"
+      }
+    },
+    {
+      "id": "1109-3135",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.01953125"
+      },
+      "meta": {
+        "item_name": "Mithril chainbody",
+        "monster_name": "Werewolf (Level 93)"
+      }
+    },
+    {
+      "id": "1109-957",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Mithril chainbody",
+        "monster_name": "Kalphite Soldier"
+      }
+    },
+    {
+      "id": "1109-484",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Mithril chainbody",
+        "monster_name": "Bloodveld (Standard)"
+      }
+    },
+    {
+      "id": "1109-2593",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.01953125"
+      },
+      "meta": {
+        "item_name": "Mithril chainbody",
+        "monster_name": "Werewolf (Level 88)"
+      }
+    },
+    {
+      "id": "1109-464",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Mithril chainbody",
+        "monster_name": "Harpie Bug Swarm"
+      }
+    },
+    {
+      "id": "1109-433",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Mithril chainbody",
+        "monster_name": "Pyrefiend (Regular)"
+      }
+    },
+    {
+      "id": "1109-2005",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Mithril chainbody",
+        "monster_name": "Lesser demon (Level 82)"
+      }
+    },
+    {
+      "id": "1109-9465",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Mithril chainbody",
+        "monster_name": "Infernal pyrelord"
+      }
+    },
+    {
+      "id": "1109-7865",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Mithril chainbody",
+        "monster_name": "Lesser demon (Level 94 (Revenant Caves))"
+      }
+    },
+    {
+      "id": "1109-7397",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Mithril chainbody",
+        "monster_name": "Insatiable Bloodveld"
+      }
+    },
+    {
+      "id": "1109-7394",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Mithril chainbody",
+        "monster_name": "Flaming pyrelord"
+      }
+    },
+    {
+      "id": "1109-7248",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Mithril chainbody",
+        "monster_name": "Lesser demon (Level 94)"
+      }
+    },
+    {
+      "id": "1109-7247",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Mithril chainbody",
+        "monster_name": "Lesser demon (Level 87)"
+      }
+    },
+    {
+      "id": "1109-6795",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Mithril chainbody",
+        "monster_name": "Pyrelord (2)"
+      }
+    },
+    {
+      "id": "1109-6762",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Mithril chainbody",
+        "monster_name": "Pyrelord (1)"
+      }
+    },
+    {
+      "id": "1109-6468",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Mithril chainbody",
+        "monster_name": "Skeleton (Tarn's Lair) (Level 87)"
+      }
+    },
+    {
+      "id": "1109-6467",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Mithril chainbody",
+        "monster_name": "Skeleton (Tarn's Lair) (Level 72)"
+      }
+    },
+    {
+      "id": "1109-6448",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Mithril chainbody",
+        "monster_name": "Skeleton (Tarn's Lair) (Level 40)"
+      }
+    },
+    {
+      "id": "1109-6447",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Mithril chainbody",
+        "monster_name": "Skeleton (Tarn's Lair) (Level 63)"
+      }
+    },
+    {
+      "id": "1109-6446",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Mithril chainbody",
+        "monster_name": "Skeleton (Tarn's Lair) (Level 42 (Hammer))"
+      }
+    },
+    {
+      "id": "1109-6445",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Mithril chainbody",
+        "monster_name": "Skeleton (Tarn's Lair) (Level 59)"
+      }
+    },
+    {
+      "id": "1109-6444",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Mithril chainbody",
+        "monster_name": "Skeleton (Tarn's Lair) (Level 42 (Sword))"
+      }
+    },
+    {
+      "id": "1109-6443",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Mithril chainbody",
+        "monster_name": "Skeleton (Tarn's Lair) (Level 81)"
+      }
+    },
+    {
+      "id": "1109-6442",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Mithril chainbody",
+        "monster_name": "Skeleton (Tarn's Lair) (Level 77)"
+      }
+    },
+    {
+      "id": "1109-5636",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Mithril chainbody",
+        "monster_name": "Vampyre Juvinate (Level 119)"
+      }
+    },
+    {
+      "id": "1109-5635",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Mithril chainbody",
+        "monster_name": "Vampyre Juvinate (Level 90)"
+      }
+    },
+    {
+      "id": "1109-5634",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Mithril chainbody",
+        "monster_name": "Vampyre Juvinate (Level 59)"
+      }
+    },
+    {
+      "id": "1109-4443",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Mithril chainbody",
+        "monster_name": "Vampyre Juvinate (Level 50)"
+      }
+    }
+  ]
+}

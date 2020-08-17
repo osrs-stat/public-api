@@ -1,0 +1,724 @@
+{
+  "data": [
+    {
+      "id": "22557-7935",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0000204918032786885"
+      },
+      "meta": {
+        "item_name": "Amulet of avarice",
+        "monster_name": "Revenant hellhound"
+      }
+    },
+    {
+      "id": "22552-7935",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0000204918032786885"
+      },
+      "meta": {
+        "item_name": "Thammaron's sceptre (Uncharged)",
+        "monster_name": "Revenant hellhound"
+      }
+    },
+    {
+      "id": "22547-7935",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0000204918032786885"
+      },
+      "meta": {
+        "item_name": "Craw's bow (Uncharged)",
+        "monster_name": "Revenant hellhound"
+      }
+    },
+    {
+      "id": "22557-7935",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000040983606557377"
+      },
+      "meta": {
+        "item_name": "Amulet of avarice",
+        "monster_name": "Revenant hellhound"
+      }
+    },
+    {
+      "id": "21820-7935",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 10,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Revenant ether",
+        "monster_name": "Revenant hellhound"
+      }
+    },
+    {
+      "id": "1201-7935",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00974327250231983"
+      },
+      "meta": {
+        "item_name": "Rune kiteshield",
+        "monster_name": "Revenant hellhound"
+      }
+    },
+    {
+      "id": "1347-7935",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00974327250231983"
+      },
+      "meta": {
+        "item_name": "Rune warhammer",
+        "monster_name": "Revenant hellhound"
+      }
+    },
+    {
+      "id": "4087-7935",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00487163625115991"
+      },
+      "meta": {
+        "item_name": "Dragon platelegs",
+        "monster_name": "Revenant hellhound"
+      }
+    },
+    {
+      "id": "4585-7935",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00487163625115991"
+      },
+      "meta": {
+        "item_name": "Dragon plateskirt",
+        "monster_name": "Revenant hellhound"
+      }
+    },
+    {
+      "id": "1215-7935",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00487163625115991"
+      },
+      "meta": {
+        "item_name": "Dragon dagger (Unpoisoned)",
+        "monster_name": "Revenant hellhound"
+      }
+    },
+    {
+      "id": "1305-7935",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00487163625115991"
+      },
+      "meta": {
+        "item_name": "Dragon longsword",
+        "monster_name": "Revenant hellhound"
+      }
+    },
+    {
+      "id": "1149-7935",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00133196721311475"
+      },
+      "meta": {
+        "item_name": "Dragon med helm",
+        "monster_name": "Revenant hellhound"
+      }
+    },
+    {
+      "id": "453-7935",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 50,
+        "quantity_max": 100,
+        "rarity": "0.0292298175069595"
+      },
+      "meta": {
+        "item_name": "Coal",
+        "monster_name": "Revenant hellhound"
+      }
+    },
+    {
+      "id": "2361-7935",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 8,
+        "quantity_max": 12,
+        "rarity": "0.0292298175069595"
+      },
+      "meta": {
+        "item_name": "Adamantite bar",
+        "monster_name": "Revenant hellhound"
+      }
+    },
+    {
+      "id": "451-7935",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 3,
+        "quantity_max": 6,
+        "rarity": "0.0292298175069595"
+      },
+      "meta": {
+        "item_name": "Runite ore",
+        "monster_name": "Revenant hellhound"
+      }
+    },
+    {
+      "id": "2363-7935",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 3,
+        "quantity_max": 5,
+        "rarity": "0.0292298175069595"
+      },
+      "meta": {
+        "item_name": "Runite bar",
+        "monster_name": "Revenant hellhound"
+      }
+    },
+    {
+      "id": "1747-7935",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 10,
+        "quantity_max": 15,
+        "rarity": "0.0292298175069595"
+      },
+      "meta": {
+        "item_name": "Black dragonhide",
+        "monster_name": "Revenant hellhound"
+      }
+    },
+    {
+      "id": "8782-7935",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 15,
+        "quantity_max": 25,
+        "rarity": "0.0243581812557996"
+      },
+      "meta": {
+        "item_name": "Mahogany plank",
+        "monster_name": "Revenant hellhound"
+      }
+    },
+    {
+      "id": "391-7935",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 30,
+        "quantity_max": 50,
+        "rarity": "0.0146149087534797"
+      },
+      "meta": {
+        "item_name": "Manta ray",
+        "monster_name": "Revenant hellhound"
+      }
+    },
+    {
+      "id": "1515-7935",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 60,
+        "quantity_max": 100,
+        "rarity": "0.0146149087534797"
+      },
+      "meta": {
+        "item_name": "Yew logs",
+        "monster_name": "Revenant hellhound"
+      }
+    },
+    {
+      "id": "1513-7935",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 15,
+        "quantity_max": 25,
+        "rarity": "0.00974327250231983"
+      },
+      "meta": {
+        "item_name": "Magic logs",
+        "monster_name": "Revenant hellhound"
+      }
+    },
+    {
+      "id": "1631-7935",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 5,
+        "quantity_max": 7,
+        "rarity": "0.00974327250231983"
+      },
+      "meta": {
+        "item_name": "Uncut dragonstone",
+        "monster_name": "Revenant hellhound"
+      }
+    },
+    {
+      "id": "5316-7935",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": 9,
+        "rarity": "0.00040983606557377"
+      },
+      "meta": {
+        "item_name": "Magic seed",
+        "monster_name": "Revenant hellhound"
+      }
+    },
+    {
+      "id": "11941-7935",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Revenant hellhound"
+      }
+    },
+    {
+      "id": "21804-7935",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000307377049180328"
+      },
+      "meta": {
+        "item_name": "Ancient crystal",
+        "monster_name": "Revenant hellhound"
+      }
+    },
+    {
+      "id": "22299-7935",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000204918032786885"
+      },
+      "meta": {
+        "item_name": "Ancient medallion",
+        "monster_name": "Revenant hellhound"
+      }
+    },
+    {
+      "id": "22302-7935",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000102459016393443"
+      },
+      "meta": {
+        "item_name": "Ancient effigy",
+        "monster_name": "Revenant hellhound"
+      }
+    },
+    {
+      "id": "22305-7935",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000102459016393443"
+      },
+      "meta": {
+        "item_name": "Ancient relic",
+        "monster_name": "Revenant hellhound"
+      }
+    },
+    {
+      "id": "1391-7935",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.0243581812557996"
+      },
+      "meta": {
+        "item_name": "Battlestaff",
+        "monster_name": "Revenant hellhound"
+      }
+    },
+    {
+      "id": "21817-7935",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0730745437673987"
+      },
+      "meta": {
+        "item_name": "Bracelet of ethereum (Uncharged)",
+        "monster_name": "Revenant hellhound"
+      }
+    },
+    {
+      "id": "1163-7935",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00974327250231983"
+      },
+      "meta": {
+        "item_name": "Rune full helm",
+        "monster_name": "Revenant hellhound"
+      }
+    },
+    {
+      "id": "1127-7935",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00974327250231983"
+      },
+      "meta": {
+        "item_name": "Rune platebody",
+        "monster_name": "Revenant hellhound"
+      }
+    },
+    {
+      "id": "1079-7935",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00974327250231983"
+      },
+      "meta": {
+        "item_name": "Rune platelegs",
+        "monster_name": "Revenant hellhound"
+      }
+    },
+    {
+      "id": "21810-7935",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000512295081967213"
+      },
+      "meta": {
+        "item_name": "Ancient totem",
+        "monster_name": "Revenant hellhound"
+      }
+    },
+    {
+      "id": "21807-7935",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000614754098360656"
+      },
+      "meta": {
+        "item_name": "Ancient emblem",
+        "monster_name": "Revenant hellhound"
+      }
+    },
+    {
+      "id": "21802-7935",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0341014537581194"
+      },
+      "meta": {
+        "item_name": "Revenant cave teleport",
+        "monster_name": "Revenant hellhound"
+      }
+    },
+    {
+      "id": "3024-7935",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 3,
+        "quantity_max": 5,
+        "rarity": "0.0194865450046397"
+      },
+      "meta": {
+        "item_name": "Super restore (4 dose)",
+        "monster_name": "Revenant hellhound"
+      }
+    },
+    {
+      "id": "9193-7935",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 40,
+        "quantity_max": 70,
+        "rarity": "0.0194865450046397"
+      },
+      "meta": {
+        "item_name": "Dragonstone bolt tips",
+        "monster_name": "Revenant hellhound"
+      }
+    },
+    {
+      "id": "9194-7935",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": 10,
+        "rarity": "0.0194865450046397"
+      },
+      "meta": {
+        "item_name": "Onyx bolt tips",
+        "monster_name": "Revenant hellhound"
+      }
+    },
+    {
+      "id": "563-7935",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 80,
+        "quantity_max": 120,
+        "rarity": "0.00974327250231983"
+      },
+      "meta": {
+        "item_name": "Law rune",
+        "monster_name": "Revenant hellhound"
+      }
+    },
+    {
+      "id": "560-7935",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 60,
+        "quantity_max": 100,
+        "rarity": "0.0146149087534797"
+      },
+      "meta": {
+        "item_name": "Death rune (Regular)",
+        "monster_name": "Revenant hellhound"
+      }
+    },
+    {
+      "id": "565-7935",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 60,
+        "quantity_max": 100,
+        "rarity": "0.0146149087534797"
+      },
+      "meta": {
+        "item_name": "Blood rune (Regular)",
+        "monster_name": "Revenant hellhound"
+      }
+    },
+    {
+      "id": "21813-7935",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00040983606557377"
+      },
+      "meta": {
+        "item_name": "Ancient statuette",
+        "monster_name": "Revenant hellhound"
+      }
+    },
+    {
+      "id": "23490-7935",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0103092783505155"
+      },
+      "meta": {
+        "item_name": "Larran's key",
+        "monster_name": "Revenant hellhound"
+      }
+    },
+    {
+      "id": "21257-7935",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00390625"
+      },
+      "meta": {
+        "item_name": "Slayer's enchantment",
+        "monster_name": "Revenant hellhound"
+      }
+    }
+  ]
+}

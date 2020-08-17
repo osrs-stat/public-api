@@ -1,0 +1,120 @@
+{
+  "data": {
+    "id": "5295",
+    "type": "monster",
+    "attributes": {
+      "uuid": "ded4ac5d-87f2-451d-a390-720a24035743",
+      "name": "Elf Archer (1)",
+      "members": true,
+      "release_date": "2004-09-20",
+      "examine": "He looks pretty handy with that bow.",
+      "combat_level_override": null,
+      "max_hit_override": 11,
+      "target_types": [
+
+      ],
+      "classification_types": [
+        "elves"
+      ],
+      "poison": false,
+      "immune_poison": false,
+      "immune_venom": false,
+      "slayer_xp": 105.0,
+      "slayer_level": 1,
+      "slayer_masters": [
+        "vannaka",
+        "chaeldar",
+        "nieve",
+        "duradel"
+      ],
+      "icon_base64": null
+    },
+    "relationships": {
+      "combat_stat": {
+        "data": {
+          "id": "23589c42-209b-49d8-971c-55c78217d507",
+          "type": "combat_stat"
+        }
+      },
+      "equip_stat": {
+        "data": {
+          "id": "130f1d54-44ab-4db6-9774-e6bb4e32f424",
+          "type": "equip_stat"
+        }
+      },
+      "attack_stat": {
+        "data": {
+          "id": "a39d89a9-7528-481d-bf97-00de50ae2c5a",
+          "type": "attack_stat"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Elf_Archer#1"
+    },
+    "meta": {
+      "incomplete": true
+    }
+  },
+  "included": [
+    {
+      "id": "a39d89a9-7528-481d-bf97-00de50ae2c5a",
+      "type": "attack_stat",
+      "attributes": {
+        "attack_speed": 4,
+        "attack_type": "monster",
+        "special": null,
+        "stances": [
+          {
+            "name": "Monster ranged",
+            "style": null,
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": null,
+            "combat_accuracy_stat": "ranged_level",
+            "combat_damage_stat": "ranged_level",
+            "equip_accuracy_stat": "ranged_attack",
+            "equip_damage_stat": "ranged_attack",
+            "target_equip_defense_stat": "ranged_defense"
+          }
+        ]
+      }
+    },
+    {
+      "id": "23589c42-209b-49d8-971c-55c78217d507",
+      "type": "monster_combat_stat",
+      "attributes": {
+        "hitpoints_level": 105,
+        "attack_level": 10,
+        "strength_level": 10,
+        "defense_level": 80,
+        "magic_level": 1,
+        "ranged_level": 90,
+        "prayer_level": 0
+      }
+    },
+    {
+      "id": "130f1d54-44ab-4db6-9774-e6bb4e32f424",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 0,
+        "slash_attack": 0,
+        "crush_attack": 0,
+        "ranged_attack": 0,
+        "magic_attack": 0,
+        "stab_defense": 50,
+        "slash_defense": 70,
+        "crush_defense": 70,
+        "ranged_defense": 50,
+        "magic_defense": 60,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "data": {
+    "id": "2361",
+    "type": "item",
+    "attributes": {
+      "uuid": "b4100bf8-9040-47ea-ae04-e5a2e1684de2",
+      "name": "Adamantite bar",
+      "members": false,
+      "release_date": "2001-01-04",
+      "examine": "It's a bar of adamantite.",
+      "tradeable": false,
+      "ge_tradeable": false,
+      "lowalch": 256,
+      "highalch": 384,
+      "is_equip": false,
+      "is_weapon": false,
+      "icon_base64": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAAzklEQVR4Xu3VMRKDIBCFYbkJlYVVmvQewXiGzOT+JyCDjiF5uFlYWbHgn3mNBXxDY9e1Wq3LZly8ahk3PsZolXD7GNxJqDTM9JyWKb9YHuZ7/nthnByDsIATVxYzv+YFdLNWgloxw32IAFLMAVDA4I5ghCAag0MAhxGA0jH/QBwmEZSHoUBFMTgE4JQwPuNsbz9DGIVTwvh+Qak4JYyPBnE4BYwvDUThCmO2wg8QL+emgFkLB+XhVDBYDk4dg3G4UzHYHq4aBtsgl8C0avQG3eW/egl+grkAAAAASUVORK5CYII="
+    },
+    "relationships": {
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Adamantite_bar"
+    },
+    "meta": {
+      "incomplete": false
+    }
+  },
+  "included": [
+
+  ]
+}

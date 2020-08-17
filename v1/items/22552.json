@@ -1,0 +1,169 @@
+{
+  "data": {
+    "id": "22552",
+    "type": "item",
+    "attributes": {
+      "uuid": "2959e67e-0aaa-4971-a01e-bb9408b3a78d",
+      "name": "Thammaron's sceptre (Uncharged)",
+      "members": true,
+      "release_date": "2018-07-26",
+      "examine": "A mighty sceptre used in long forgotten battles.",
+      "tradeable": false,
+      "ge_tradeable": false,
+      "lowalch": 48000,
+      "highalch": 72000,
+      "is_equip": true,
+      "is_weapon": true,
+      "icon_base64": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB/UlEQVR4Xu2Xy2oCMRSGzQN04UIQQRApUqSIiCKKg6JUrKhMxRveUKsWe8MH6LZ003c+9T9pdBy1i3YuLvrDYSTG5Js/5yTR4/mX4xJ0OhyVnLRxW6F5NsMxzaQ58HmQSjoFtQNpbiZvxWMch+4IiodCHOYRLJSgRCxG+WyWelqOasnEweTmMI9gsQSFgkHKJJMMZAZRffZ/c6rNEgkK+P10GQ7TMK8Zlmf3/Yvv4qCt12ya2iyTBLqKROg6GuXle29Ut2BvgQta+yWQdEzQg5alab9vaLNUgnxeLy8bAk4B6kOvGdwyJrPtQNB+JSHB76pV+mzqJhjZF0D3w4GdQB6PevubQoGBUvE4OzVot79BlQQ95XM06nbtBJLO1MplyqXTDIKlQ07tklcGKrFVr2/bbQASnNBFTWMYOKMmRzsmXpRLNC4WqLNxrlIqMfjhUlommTNwBM/dW8v9Ce3YowCLpwrb3EHOwBUsz/5by+rDlmAM5Z4N7siBVfken2S/+ox9LIdBlSAfEMdhpIwAp/r8UdIVlZg/wTggwRuauUpcg1mMR3zncdkVaLPdTybnA/M4m/HZdBYwz/P5OcDI6nldLvnccRFGgnR0ndarlfsw2P7V1QFQLsJA8m8MoHD4qVPbJRhIbEFwn3HdHdxdECqPXIRRsvU0/p3OBeQLheuuB10iMuAAAAAASUVORK5CYII="
+    },
+    "relationships": {
+      "equip": {
+        "data": {
+          "id": "2d868f78-b561-42c4-9eb7-fd7040761b88",
+          "type": "equip"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Thammaron's_sceptre#Uncharged"
+    },
+    "meta": {
+      "incomplete": false
+    }
+  },
+  "included": [
+    {
+      "id": "2d868f78-b561-42c4-9eb7-fd7040761b88",
+      "type": "equip",
+      "attributes": {
+        "slot": "weapon",
+        "passive_effect": null,
+        "requirements": {
+          "magic_level": 60
+        }
+      },
+      "relationships": {
+        "equip_stat": {
+          "data": {
+            "id": "5e00046a-0862-449b-bb69-030e75882dc0",
+            "type": "equip_stat"
+          }
+        },
+        "attack_stat": {
+          "data": {
+            "id": "7755b1fe-0f7e-4cdd-a971-de223bb33845",
+            "type": "attack_stat"
+          }
+        }
+      }
+    },
+    {
+      "id": "7755b1fe-0f7e-4cdd-a971-de223bb33845",
+      "type": "attack_stat",
+      "attributes": {
+        "attack_speed": 4,
+        "attack_type": "staff",
+        "special": null,
+        "stances": [
+          {
+            "name": "bash",
+            "style": "accurate",
+            "boosts": {
+              "accuracy": 3
+            },
+            "experience": {
+              "hitpoints": 1.3333,
+              "attack": 4
+            },
+            "combat_accuracy_stat": "attack_level",
+            "combat_damage_stat": "strength_level",
+            "equip_accuracy_stat": "crush_attack",
+            "equip_damage_stat": "crush_attack",
+            "target_equip_defense_stat": "crush_defense"
+          },
+          {
+            "name": "pound",
+            "style": "aggressive",
+            "boosts": {
+              "damage": 3
+            },
+            "experience": {
+              "hitpoints": 1.3333,
+              "strength": 4
+            },
+            "combat_accuracy_stat": "attack_level",
+            "combat_damage_stat": "strength_level",
+            "equip_accuracy_stat": "crush_attack",
+            "equip_damage_stat": "crush_attack",
+            "target_equip_defense_stat": "crush_defense"
+          },
+          {
+            "name": "focus",
+            "style": "defensive",
+            "boosts": {
+              "defense": 3
+            },
+            "experience": {
+              "hitpoints": 1.3333,
+              "defense": 4
+            },
+            "combat_accuracy_stat": "attack_level",
+            "combat_damage_stat": "strength_level",
+            "equip_accuracy_stat": "crush_attack",
+            "equip_damage_stat": "crush_attack",
+            "target_equip_defense_stat": "crush_defense"
+          },
+          {
+            "name": "spell",
+            "style": "magic",
+            "boosts": null,
+            "experience": {
+              "hitpoints": 1.3333,
+              "magic": 2
+            },
+            "combat_accuracy_stat": "magic_level",
+            "combat_damage_stat": "magic_level",
+            "equip_accuracy_stat": "magic_attack",
+            "equip_damage_stat": "magic_attack",
+            "target_equip_defense_stat": "magic_defense"
+          },
+          {
+            "name": "spell (defensive)",
+            "style": "magic",
+            "boosts": null,
+            "experience": {
+              "hitpoints": 1.3333,
+              "magic": 1.3333,
+              "defense": 1
+            },
+            "combat_accuracy_stat": "magic_level",
+            "combat_damage_stat": "magic_level",
+            "equip_accuracy_stat": "magic_attack",
+            "equip_damage_stat": "magic_attack",
+            "target_equip_defense_stat": "magic_defense"
+          }
+        ]
+      }
+    },
+    {
+      "id": "5e00046a-0862-449b-bb69-030e75882dc0",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 0,
+        "slash_attack": 0,
+        "crush_attack": 0,
+        "ranged_attack": 0,
+        "magic_attack": 20,
+        "stab_defense": 0,
+        "slash_defense": 0,
+        "crush_defense": 0,
+        "ranged_defense": 0,
+        "magic_defense": 20,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

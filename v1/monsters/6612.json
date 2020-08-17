@@ -1,0 +1,138 @@
+{
+  "data": {
+    "id": "6612",
+    "type": "monster",
+    "attributes": {
+      "uuid": "a2e76031-baf8-42db-b4e6-267805656081",
+      "name": "Vet'ion (Reborn)",
+      "members": true,
+      "release_date": "2014-03-13",
+      "examine": "Only the true lord & king of the lands can lift his burden.",
+      "combat_level_override": 454,
+      "max_hit_override": 46,
+      "target_types": [
+        "undead"
+      ],
+      "classification_types": [
+        "skeleton",
+        "boss"
+      ],
+      "poison": false,
+      "immune_poison": false,
+      "immune_venom": false,
+      "slayer_xp": 322.0,
+      "slayer_level": 1,
+      "slayer_masters": [
+        "turael",
+        "krystilia",
+        "mazchna",
+        "konar",
+        "nieve",
+        "duradel"
+      ],
+      "icon_base64": null
+    },
+    "relationships": {
+      "combat_stat": {
+        "data": {
+          "id": "95f62b23-5309-48eb-8ffd-11e914e6f120",
+          "type": "combat_stat"
+        }
+      },
+      "equip_stat": {
+        "data": {
+          "id": "a223d37d-fba0-4487-bd81-4632a62da260",
+          "type": "equip_stat"
+        }
+      },
+      "attack_stat": {
+        "data": {
+          "id": "ec64b9aa-7865-4881-8827-572c8f6fc590",
+          "type": "attack_stat"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Vet'ion#Reborn"
+    },
+    "meta": {
+      "incomplete": true
+    }
+  },
+  "included": [
+    {
+      "id": "ec64b9aa-7865-4881-8827-572c8f6fc590",
+      "type": "attack_stat",
+      "attributes": {
+        "attack_speed": 4,
+        "attack_type": "monster",
+        "special": null,
+        "stances": [
+          {
+            "name": "Monster stab",
+            "style": null,
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": null,
+            "combat_accuracy_stat": "attack_level",
+            "combat_damage_stat": "strength_level",
+            "equip_accuracy_stat": "stab_attack",
+            "equip_damage_stat": "stab_attack",
+            "target_equip_defense_stat": "stab_defense"
+          },
+          {
+            "name": "Monster magic",
+            "style": null,
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": null,
+            "combat_accuracy_stat": "magic_level",
+            "combat_damage_stat": "magic_level",
+            "equip_accuracy_stat": "magic_attack",
+            "equip_damage_stat": "magic_attack",
+            "target_equip_defense_stat": "magic_defense"
+          }
+        ]
+      }
+    },
+    {
+      "id": "95f62b23-5309-48eb-8ffd-11e914e6f120",
+      "type": "monster_combat_stat",
+      "attributes": {
+        "hitpoints_level": 255,
+        "attack_level": 430,
+        "strength_level": 430,
+        "defense_level": 395,
+        "magic_level": 300,
+        "ranged_level": 1,
+        "prayer_level": 0
+      }
+    },
+    {
+      "id": "a223d37d-fba0-4487-bd81-4632a62da260",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 0,
+        "slash_attack": 0,
+        "crush_attack": 0,
+        "ranged_attack": 0,
+        "magic_attack": 0,
+        "stab_defense": 201,
+        "slash_defense": 200,
+        "crush_defense": -10,
+        "ranged_defense": 270,
+        "magic_defense": 250,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

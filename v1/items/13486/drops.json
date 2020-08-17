@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "id": "13486-7401",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Ensouled horror head (Drop)",
+        "monster_name": "Cave abomination"
+      }
+    },
+    {
+      "id": "13486-1047",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0333333333333333"
+      },
+      "meta": {
+        "item_name": "Ensouled horror head (Drop)",
+        "monster_name": "Cave horror"
+      }
+    },
+    {
+      "id": "13486-1042",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.025"
+      },
+      "meta": {
+        "item_name": "Ensouled horror head (Drop)",
+        "monster_name": "Jungle horror"
+      }
+    }
+  ]
+}

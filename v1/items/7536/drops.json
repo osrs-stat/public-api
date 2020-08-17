@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "7536-4822",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0625"
+      },
+      "meta": {
+        "item_name": "Fresh crab claw",
+        "monster_name": "Crab (Level 21)"
+      }
+    },
+    {
+      "id": "7536-4819",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.125"
+      },
+      "meta": {
+        "item_name": "Fresh crab claw",
+        "monster_name": "Crab (Level 23)"
+      }
+    },
+    {
+      "id": "7536-4822",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.125"
+      },
+      "meta": {
+        "item_name": "Fresh crab claw",
+        "monster_name": "Crab (Level 21)"
+      }
+    },
+    {
+      "id": "7536-4819",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0625"
+      },
+      "meta": {
+        "item_name": "Fresh crab claw",
+        "monster_name": "Crab (Level 23)"
+      }
+    }
+  ]
+}

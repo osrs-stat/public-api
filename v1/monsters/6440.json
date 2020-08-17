@@ -1,0 +1,118 @@
+{
+  "data": {
+    "id": "6440",
+    "type": "monster",
+    "attributes": {
+      "uuid": "b6558295-7c28-494c-b407-799c60b0e355",
+      "name": "Giant skeleton (Shadow Dungeon)",
+      "members": true,
+      "release_date": "2005-04-18",
+      "examine": "A giant skeleton.",
+      "combat_level_override": 100,
+      "max_hit_override": null,
+      "target_types": [
+        "undead"
+      ],
+      "classification_types": [
+        "skeleton"
+      ],
+      "poison": false,
+      "immune_poison": false,
+      "immune_venom": false,
+      "slayer_xp": 70.0,
+      "slayer_level": 1,
+      "slayer_masters": [
+        "turael",
+        "mazchna"
+      ],
+      "icon_base64": null
+    },
+    "relationships": {
+      "combat_stat": {
+        "data": {
+          "id": "ba7a064c-80a0-4e37-84a9-98fdd28c7525",
+          "type": "combat_stat"
+        }
+      },
+      "equip_stat": {
+        "data": {
+          "id": "7a11d5b8-19cd-4d6c-a110-f9a86e0074da",
+          "type": "equip_stat"
+        }
+      },
+      "attack_stat": {
+        "data": {
+          "id": "e620305e-1906-4ccf-ac6b-87209f3623fd",
+          "type": "attack_stat"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Giant_skeleton_(Shadow_Dungeon)"
+    },
+    "meta": {
+      "incomplete": true
+    }
+  },
+  "included": [
+    {
+      "id": "e620305e-1906-4ccf-ac6b-87209f3623fd",
+      "type": "attack_stat",
+      "attributes": {
+        "attack_speed": 4,
+        "attack_type": "monster",
+        "special": null,
+        "stances": [
+          {
+            "name": "Monster crush",
+            "style": null,
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": null,
+            "combat_accuracy_stat": "attack_level",
+            "combat_damage_stat": "strength_level",
+            "equip_accuracy_stat": "crush_attack",
+            "equip_damage_stat": "crush_attack",
+            "target_equip_defense_stat": "crush_defense"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ba7a064c-80a0-4e37-84a9-98fdd28c7525",
+      "type": "monster_combat_stat",
+      "attributes": {
+        "hitpoints_level": 70,
+        "attack_level": 70,
+        "strength_level": 70,
+        "defense_level": 70,
+        "magic_level": 1,
+        "ranged_level": 1,
+        "prayer_level": 0
+      }
+    },
+    {
+      "id": "7a11d5b8-19cd-4d6c-a110-f9a86e0074da",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 0,
+        "slash_attack": 0,
+        "crush_attack": 0,
+        "ranged_attack": 0,
+        "magic_attack": 0,
+        "stab_defense": 0,
+        "slash_defense": 0,
+        "crush_defense": 0,
+        "ranged_defense": 0,
+        "magic_defense": 0,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

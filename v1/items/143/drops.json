@@ -1,0 +1,84 @@
+{
+  "data": [
+    {
+      "id": "143-6604",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Prayer potion (1 dose)",
+        "monster_name": "Mammoth"
+      }
+    },
+    {
+      "id": "143-7095",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Prayer potion (1 dose)",
+        "monster_name": "Tortured gorilla (Level 142)"
+      }
+    },
+    {
+      "id": "143-7118",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.1"
+      },
+      "meta": {
+        "item_name": "Prayer potion (1 dose)",
+        "monster_name": "Maniacal monkey"
+      }
+    },
+    {
+      "id": "143-7119",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.1"
+      },
+      "meta": {
+        "item_name": "Prayer potion (1 dose)",
+        "monster_name": "Maniacal Monkey Archer"
+      }
+    },
+    {
+      "id": "143-7150",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Prayer potion (1 dose)",
+        "monster_name": "Tortured gorilla (Level 141)"
+      }
+    }
+  ]
+}

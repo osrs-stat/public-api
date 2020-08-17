@@ -1,0 +1,75 @@
+{
+  "data": {
+    "id": "2487",
+    "type": "item",
+    "attributes": {
+      "uuid": "261462ad-11a8-47a3-96ba-bab7db7d3577",
+      "name": "Blue d'hide vambraces",
+      "members": true,
+      "release_date": "2004-03-22",
+      "examine": "Vambraces made from 100% real dragonhide.",
+      "tradeable": false,
+      "ge_tradeable": false,
+      "lowalch": 1200,
+      "highalch": 1800,
+      "is_equip": true,
+      "is_weapon": false,
+      "icon_base64": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB5ElEQVR4Xu2UX0sCQRTFdz6Aj4IIwSIh4oNIKJIYiRIklA8+mMgSshW9BBG9BNFnnzgzndnrsODmvy3YA4ed3dWd39577gZBoUJHldKJc5fSYdjSlcqpLpUqeYMp3WqNdbM5NK7VOrpabQqwo0vps86NbrevHRiO9fq5qVoO1VK6250aSzAcYVbtAGAytPLBFqjXmxlLMBhrGJCNxiDl/1tJmbdkPsrlEw9OOSAfDGYFYVZtBzBlHoC3Qy6YDUwUwBhegvT7c2cJJ6sIs4pbgK1PEcAIBzBUTLaNMIPBwlnCpUED7hdgyuVBghGOrWRruKEEuriMHFgaMO4vl296Pn/JAmWBmAeC0bKdaVDYjB4O79dAeP9u8WrWgLqdxpug7HdGhtOfIlk92b40IHg0it212exZtMu6HYbGPsmPbIX8YPpTJCHlwwlFGALREkDapxBKgGQwJZh/DnMjgvkVQl4mk0j8LrPslKEC/oTI6fGvwxYmCCSY7wwVSVNSJX9COD3+tdXqw5hQkN+WLWEoG9a06eFYcx1F7w4Iawm1Z9kvclpQ6eRbonQcfxogjPVBoVAlAsmJwfl6LnbOSlYlUwOQ8dWTfnj8cu2RG+8hK1mlHNARK7FJ6xA5w1j9CYhChf6rvgHmXHSaOtZa5AAAAABJRU5ErkJggg=="
+    },
+    "relationships": {
+      "equip": {
+        "data": {
+          "id": "ca542b3d-1687-4fac-b4d0-a80a5d16797e",
+          "type": "equip"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Blue_d'hide_vambraces"
+    },
+    "meta": {
+      "incomplete": false
+    }
+  },
+  "included": [
+    {
+      "id": "ca542b3d-1687-4fac-b4d0-a80a5d16797e",
+      "type": "equip",
+      "attributes": {
+        "slot": "gloves",
+        "passive_effect": null,
+        "requirements": {
+          "ranged_level": 50
+        }
+      },
+      "relationships": {
+        "equip_stat": {
+          "data": {
+            "id": "49de47b1-f97c-4847-91c4-406dd2a2a972",
+            "type": "equip_stat"
+          }
+        }
+      }
+    },
+    {
+      "id": "49de47b1-f97c-4847-91c4-406dd2a2a972",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 0,
+        "slash_attack": 0,
+        "crush_attack": 0,
+        "ranged_attack": 9,
+        "magic_attack": -10,
+        "stab_defense": 4,
+        "slash_defense": 3,
+        "crush_defense": 5,
+        "ranged_defense": 0,
+        "magic_defense": 4,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

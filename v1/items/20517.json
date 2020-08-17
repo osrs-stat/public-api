@@ -1,0 +1,75 @@
+{
+  "data": {
+    "id": "20517",
+    "type": "item",
+    "attributes": {
+      "uuid": "67173aa6-0e08-4573-9be0-1afe5dd52da8",
+      "name": "Elder chaos top",
+      "members": true,
+      "release_date": "2016-07-21",
+      "examine": "The robes worn by the dangerous elder druids.",
+      "tradeable": false,
+      "ge_tradeable": false,
+      "lowalch": 320,
+      "highalch": 480,
+      "is_equip": true,
+      "is_weapon": false,
+      "icon_base64": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACj0lEQVR4Xu2WIW8bQRCF76DBAYNIUaVIVkFhVBJWVFRQUhISUlBSUCmgoKAgIFJBpUoFlcr6U7f7ef20b+ecs2tfDaKMNIpzuzfzzdvZsbvu8VifWj+5tQBvhkV6PXTp1aJLV9lPCFeS3CwX6dPZkN7nv3y+zv4u+9sMBpzAgPyPYAWEhF/Oh3SbHaiPZ4v0YeMCxIF50XXr/VW12axfA5AUJb4+G9LnDdBDUAJBNRS7nA+qbwBIdp//d5UiFHt0fBSAWsCh2AxQfbozABIC5M8iFCoBgtNf6iup9HK1OgaqXwO4SsD4swgFECA6PsAENRuQFAGAz98vlluhpJJuoj5HqJhlT+vTN1MDIAH+yECsOShQ3kvsjVBHqlSASAoQCfXsZwZyleIo4C979ZxnGgdHAem4UICgRe4+/VotG5W8x9jnE1tr9NQsQFRJIgIqye8MJJX86KRSnTtFUdY4OvroKCAdlfrAgUjkTlIdjWZOSVziEIP5dCBQhdFVVnUCYt0HH6oAcrFxBwJW4+BgIPWN1FFfeNWunl/tNnGJpaF54NUvV1ZOMlWN0zvqm3i1USwq5MMT6BprL6vXVYFIVL+L+vTn+XJ9bPFrBWXoE7+RwPvwJFar9qTVW0EQXWWCtN9FJVm8hQLyfYwHH57s+4fmrt9dCvJwVS2QH5uANa88nm7iHr+TSjVx2FEVlY+H2nYgVY9rXimeoHS8O1QqQFKIIApMVa6S9kcgPzIppAL1DAcK+B0/3AqQvwy9eoGk7ZfjdA/hNDTFeSyPN26DxgrQ+OWyRqURchcQ6+07NRew29cam9oQ1+oFUL+pYWvV8R23qTWzqQ3jtdoX7p5o/E61qbWDTcmjx31P9mSntr8aVzk5alHoEAAAAABJRU5ErkJggg=="
+    },
+    "relationships": {
+      "equip": {
+        "data": {
+          "id": "b8591748-6e10-438c-ac80-070ae3805a4d",
+          "type": "equip"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Elder_chaos_top"
+    },
+    "meta": {
+      "incomplete": false
+    }
+  },
+  "included": [
+    {
+      "id": "b8591748-6e10-438c-ac80-070ae3805a4d",
+      "type": "equip",
+      "attributes": {
+        "slot": "body",
+        "passive_effect": null,
+        "requirements": {
+          "magic_level": 40
+        }
+      },
+      "relationships": {
+        "equip_stat": {
+          "data": {
+            "id": "22581a93-e0f0-4d1f-bfcd-f1dc126b98e4",
+            "type": "equip_stat"
+          }
+        }
+      }
+    },
+    {
+      "id": "22581a93-e0f0-4d1f-bfcd-f1dc126b98e4",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 0,
+        "slash_attack": 0,
+        "crush_attack": 0,
+        "ranged_attack": 0,
+        "magic_attack": 10,
+        "stab_defense": 0,
+        "slash_defense": 0,
+        "crush_defense": 0,
+        "ranged_defense": 0,
+        "magic_defense": 8,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

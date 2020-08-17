@@ -1,0 +1,756 @@
+{
+  "data": [
+    {
+      "id": "892-7404",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 12,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Rune arrow (Unpoisoned)",
+        "monster_name": "Choke devil"
+      }
+    },
+    {
+      "id": "892-7406",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 24,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Rune arrow (Unpoisoned)",
+        "monster_name": "Nuclear smoke devil"
+      }
+    },
+    {
+      "id": "892-7795",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 25,
+        "quantity_max": 50,
+        "rarity": "0.0223880597014925"
+      },
+      "meta": {
+        "item_name": "Rune arrow (Unpoisoned)",
+        "monster_name": "Ancient Wyvern"
+      }
+    },
+    {
+      "id": "892-7864",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": 14,
+        "rarity": "0.0421052631578947"
+      },
+      "meta": {
+        "item_name": "Rune arrow (Unpoisoned)",
+        "monster_name": "Ankou (Level 98)"
+      }
+    },
+    {
+      "id": "892-8031",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 30,
+        "quantity_max": 40,
+        "rarity": "0.062992125984252"
+      },
+      "meta": {
+        "item_name": "Rune arrow (Unpoisoned)",
+        "monster_name": "Rune dragon"
+      }
+    },
+    {
+      "id": "892-8612",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 35,
+        "quantity_max": 65,
+        "rarity": "0.117647058823529"
+      },
+      "meta": {
+        "item_name": "Rune arrow (Unpoisoned)",
+        "monster_name": "Drake"
+      }
+    },
+    {
+      "id": "892-9756",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 4,
+        "quantity_max": 10,
+        "rarity": "0.043010752688172"
+      },
+      "meta": {
+        "item_name": "Rune arrow (Unpoisoned)",
+        "monster_name": "Vyrewatch Sentinel"
+      }
+    },
+    {
+      "id": "892-10400",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 35,
+        "quantity_max": 65,
+        "rarity": "0.117647058823529"
+      },
+      "meta": {
+        "item_name": "Rune arrow (Unpoisoned)",
+        "monster_name": "Guardian Drake"
+      }
+    },
+    {
+      "id": "892-7275",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 75,
+        "quantity_max": null,
+        "rarity": "0.0546875"
+      },
+      "meta": {
+        "item_name": "Rune arrow (Unpoisoned)",
+        "monster_name": "Brutal black dragon"
+      }
+    },
+    {
+      "id": "892-7274",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 25,
+        "quantity_max": null,
+        "rarity": "0.0546875"
+      },
+      "meta": {
+        "item_name": "Rune arrow (Unpoisoned)",
+        "monster_name": "Brutal red dragon"
+      }
+    },
+    {
+      "id": "892-7273",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 15,
+        "quantity_max": null,
+        "rarity": "0.0546875"
+      },
+      "meta": {
+        "item_name": "Rune arrow (Unpoisoned)",
+        "monster_name": "Brutal blue dragon"
+      }
+    },
+    {
+      "id": "892-7257",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": 14,
+        "rarity": "0.0421052631578947"
+      },
+      "meta": {
+        "item_name": "Rune arrow (Unpoisoned)",
+        "monster_name": "Ankou (Level 95)"
+      }
+    },
+    {
+      "id": "892-7252",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 12,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Rune arrow (Unpoisoned)",
+        "monster_name": "Fire giant (Level 104)"
+      }
+    },
+    {
+      "id": "892-7251",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 12,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Rune arrow (Unpoisoned)",
+        "monster_name": "Fire giant (Level 109)"
+      }
+    },
+    {
+      "id": "892-7249",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 12,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Rune arrow (Unpoisoned)",
+        "monster_name": "Dust devil (Level 110)"
+      }
+    },
+    {
+      "id": "892-5566",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Rune arrow (Unpoisoned)",
+        "monster_name": "Ferocious barbarian spirit"
+      }
+    },
+    {
+      "id": "892-3167",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Rune arrow (Unpoisoned)",
+        "monster_name": "Spiritual ranger (Armadyl)"
+      }
+    },
+    {
+      "id": "892-3162",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 100,
+        "quantity_max": 105,
+        "rarity": "0.062992125984252"
+      },
+      "meta": {
+        "item_name": "Rune arrow (Unpoisoned)",
+        "monster_name": "Kree'arra"
+      }
+    },
+    {
+      "id": "892-3160",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Rune arrow (Unpoisoned)",
+        "monster_name": "Spiritual ranger (Zamorak)"
+      }
+    },
+    {
+      "id": "892-2919",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 8,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Rune arrow (Unpoisoned)",
+        "monster_name": "Mithril dragon"
+      }
+    },
+    {
+      "id": "892-2516",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": 14,
+        "rarity": "0.0421052631578947"
+      },
+      "meta": {
+        "item_name": "Rune arrow (Unpoisoned)",
+        "monster_name": "Ankou (Level 86)"
+      }
+    },
+    {
+      "id": "892-2515",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": 14,
+        "rarity": "0.0421052631578947"
+      },
+      "meta": {
+        "item_name": "Rune arrow (Unpoisoned)",
+        "monster_name": "Ankou (Level 82)"
+      }
+    },
+    {
+      "id": "892-2514",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": 14,
+        "rarity": "0.0421052631578947"
+      },
+      "meta": {
+        "item_name": "Rune arrow (Unpoisoned)",
+        "monster_name": "Ankou (Level 75)"
+      }
+    },
+    {
+      "id": "892-2242",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Rune arrow (Unpoisoned)",
+        "monster_name": "Spiritual ranger (Bandos)"
+      }
+    },
+    {
+      "id": "892-2211",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Rune arrow (Unpoisoned)",
+        "monster_name": "Spiritual ranger (Saradomin)"
+      }
+    },
+    {
+      "id": "892-2075",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 12,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Rune arrow (Unpoisoned)",
+        "monster_name": "Fire giant (Level 86)"
+      }
+    },
+    {
+      "id": "892-2054",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 150,
+        "quantity_max": null,
+        "rarity": "0.078125"
+      },
+      "meta": {
+        "item_name": "Rune arrow (Unpoisoned)",
+        "monster_name": "Chaos Elemental"
+      }
+    },
+    {
+      "id": "892-965",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 250,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Rune arrow (Unpoisoned)",
+        "monster_name": "Kalphite Queen (Airborne)"
+      }
+    },
+    {
+      "id": "892-963",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 250,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Rune arrow (Unpoisoned)",
+        "monster_name": "Kalphite Queen (Crawling)"
+      }
+    },
+    {
+      "id": "892-801",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 18,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Rune arrow (Unpoisoned)",
+        "monster_name": "Locust rider (Ranger (Quest))"
+      }
+    },
+    {
+      "id": "892-800",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 18,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Rune arrow (Unpoisoned)",
+        "monster_name": "Locust rider (Lancer (Quest))"
+      }
+    },
+    {
+      "id": "892-799",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 18,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Rune arrow (Unpoisoned)",
+        "monster_name": "Scarab mage (Level 66 (Quest))"
+      }
+    },
+    {
+      "id": "892-796",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 18,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Rune arrow (Unpoisoned)",
+        "monster_name": "Locust rider (Ranger)"
+      }
+    },
+    {
+      "id": "892-795",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 18,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Rune arrow (Unpoisoned)",
+        "monster_name": "Locust rider (Lancer)"
+      }
+    },
+    {
+      "id": "892-794",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 18,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Rune arrow (Unpoisoned)",
+        "monster_name": "Scarab mage (Level 93)"
+      }
+    },
+    {
+      "id": "892-499",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 100,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Rune arrow (Unpoisoned)",
+        "monster_name": "Thermonuclear smoke devil"
+      }
+    },
+    {
+      "id": "892-498",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 24,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Rune arrow (Unpoisoned)",
+        "monster_name": "Smoke devil"
+      }
+    },
+    {
+      "id": "892-468",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 36,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Rune arrow (Unpoisoned)",
+        "monster_name": "Skeletal Wyvern (1)"
+      }
+    },
+    {
+      "id": "892-467",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 36,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Rune arrow (Unpoisoned)",
+        "monster_name": "Skeletal Wyvern (4)"
+      }
+    },
+    {
+      "id": "892-466",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 36,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Rune arrow (Unpoisoned)",
+        "monster_name": "Skeletal Wyvern (3)"
+      }
+    },
+    {
+      "id": "892-465",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 36,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Rune arrow (Unpoisoned)",
+        "monster_name": "Skeletal Wyvern (2)"
+      }
+    },
+    {
+      "id": "892-423",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 12,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Rune arrow (Unpoisoned)",
+        "monster_name": "Dust devil (Level 93)"
+      }
+    },
+    {
+      "id": "892-251",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 4,
+        "quantity_max": null,
+        "rarity": "0.0625"
+      },
+      "meta": {
+        "item_name": "Rune arrow (Unpoisoned)",
+        "monster_name": "Red dragon (5)"
+      }
+    },
+    {
+      "id": "892-250",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 4,
+        "quantity_max": null,
+        "rarity": "0.0625"
+      },
+      "meta": {
+        "item_name": "Rune arrow (Unpoisoned)",
+        "monster_name": "Red dragon (4)"
+      }
+    },
+    {
+      "id": "892-249",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 4,
+        "quantity_max": null,
+        "rarity": "0.0625"
+      },
+      "meta": {
+        "item_name": "Rune arrow (Unpoisoned)",
+        "monster_name": "Red dragon (3)"
+      }
+    },
+    {
+      "id": "892-248",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 4,
+        "quantity_max": null,
+        "rarity": "0.0625"
+      },
+      "meta": {
+        "item_name": "Rune arrow (Unpoisoned)",
+        "monster_name": "Red dragon (2)"
+      }
+    },
+    {
+      "id": "892-247",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 4,
+        "quantity_max": null,
+        "rarity": "0.0625"
+      },
+      "meta": {
+        "item_name": "Rune arrow (Unpoisoned)",
+        "monster_name": "Red dragon (1)"
+      }
+    }
+  ]
+}

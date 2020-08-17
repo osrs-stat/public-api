@@ -1,0 +1,170 @@
+{
+  "data": {
+    "id": "20736",
+    "type": "item",
+    "attributes": {
+      "uuid": "1df85957-c1eb-4b60-ba37-07e5cabfb5b5",
+      "name": "Dust battlestaff",
+      "members": true,
+      "release_date": "2016-09-15",
+      "examine": "It's a slightly magical stick.",
+      "tradeable": false,
+      "ge_tradeable": false,
+      "lowalch": 6200,
+      "highalch": 9300,
+      "is_equip": true,
+      "is_weapon": true,
+      "icon_base64": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAByklEQVR4Xu2TS0sCURiGPT+gRQshhGCIaCEtRJrFSFEURkVGiSmUhg2mlNNFnEK7LxLsahCYBbXosqioaBN02UV/oDb9m7fOHEYy3TZnFj5wYM6ZA9/D+33HYqlSpRIEpYsbTGBN6UE66kYs4EKg18FDiomocifio61IhNsRGZY0mXaxUfvnEASjpAjeX1+xEOlCaFCEYKstynRJTWgSrNqZQSkRfH1+4OnuFg+Xl6iz1miLyvR32OG027S9npABKTGhq9MTZJaXkN/ZxtvLM84P8yVDbZAMheA4l8Pm+hqS8Tgeb65R2NvF/LQCqaWl2EaD2qVDMBONIp2Yw8biopYOleKWUGY5jtiYFw2CDfdnZ7g4KmjtEx3suRsuMyX7NBm6pzO0oqoIBQJ8ZJSIvyjDCnNqU2o6jKmwD/U2a1lx/dswmeRkEJ7uNh5J/IYV9w10lolwkdHnpc/t4pkKhcksJWR4elibuMrsZ5PIrP4IJWXzyMTGvRCd9qLQ35sGQHCwpSK7rlQc4r+3/xkmk0qEIYnNvF8ThWBspJ93KjoEfd2uknnhKuMfcpsnGTnoMcO8UAiUCb8ZUqEQLMyGzCKjYyoZhqlkzMA3iYthMquUQnMAAAAASUVORK5CYII="
+    },
+    "relationships": {
+      "equip": {
+        "data": {
+          "id": "0a16ba91-b08b-4fa4-ac7d-8bd2b9f226f3",
+          "type": "equip"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Dust_battlestaff"
+    },
+    "meta": {
+      "incomplete": false
+    }
+  },
+  "included": [
+    {
+      "id": "0a16ba91-b08b-4fa4-ac7d-8bd2b9f226f3",
+      "type": "equip",
+      "attributes": {
+        "slot": "weapon",
+        "passive_effect": null,
+        "requirements": {
+          "magic_level": 30,
+          "attack_level": 30
+        }
+      },
+      "relationships": {
+        "equip_stat": {
+          "data": {
+            "id": "0c78f072-4bbb-4073-b220-52967851e18c",
+            "type": "equip_stat"
+          }
+        },
+        "attack_stat": {
+          "data": {
+            "id": "0015cf88-0d28-4cdf-a5de-7aa388859ea5",
+            "type": "attack_stat"
+          }
+        }
+      }
+    },
+    {
+      "id": "0015cf88-0d28-4cdf-a5de-7aa388859ea5",
+      "type": "attack_stat",
+      "attributes": {
+        "attack_speed": 5,
+        "attack_type": "staff",
+        "special": null,
+        "stances": [
+          {
+            "name": "bash",
+            "style": "accurate",
+            "boosts": {
+              "accuracy": 3
+            },
+            "experience": {
+              "hitpoints": 1.3333,
+              "attack": 4
+            },
+            "combat_accuracy_stat": "attack_level",
+            "combat_damage_stat": "strength_level",
+            "equip_accuracy_stat": "crush_attack",
+            "equip_damage_stat": "crush_attack",
+            "target_equip_defense_stat": "crush_defense"
+          },
+          {
+            "name": "pound",
+            "style": "aggressive",
+            "boosts": {
+              "damage": 3
+            },
+            "experience": {
+              "hitpoints": 1.3333,
+              "strength": 4
+            },
+            "combat_accuracy_stat": "attack_level",
+            "combat_damage_stat": "strength_level",
+            "equip_accuracy_stat": "crush_attack",
+            "equip_damage_stat": "crush_attack",
+            "target_equip_defense_stat": "crush_defense"
+          },
+          {
+            "name": "focus",
+            "style": "defensive",
+            "boosts": {
+              "defense": 3
+            },
+            "experience": {
+              "hitpoints": 1.3333,
+              "defense": 4
+            },
+            "combat_accuracy_stat": "attack_level",
+            "combat_damage_stat": "strength_level",
+            "equip_accuracy_stat": "crush_attack",
+            "equip_damage_stat": "crush_attack",
+            "target_equip_defense_stat": "crush_defense"
+          },
+          {
+            "name": "spell",
+            "style": "magic",
+            "boosts": null,
+            "experience": {
+              "hitpoints": 1.3333,
+              "magic": 2
+            },
+            "combat_accuracy_stat": "magic_level",
+            "combat_damage_stat": "magic_level",
+            "equip_accuracy_stat": "magic_attack",
+            "equip_damage_stat": "magic_attack",
+            "target_equip_defense_stat": "magic_defense"
+          },
+          {
+            "name": "spell (defensive)",
+            "style": "magic",
+            "boosts": null,
+            "experience": {
+              "hitpoints": 1.3333,
+              "magic": 1.3333,
+              "defense": 1
+            },
+            "combat_accuracy_stat": "magic_level",
+            "combat_damage_stat": "magic_level",
+            "equip_accuracy_stat": "magic_attack",
+            "equip_damage_stat": "magic_attack",
+            "target_equip_defense_stat": "magic_defense"
+          }
+        ]
+      }
+    },
+    {
+      "id": "0c78f072-4bbb-4073-b220-52967851e18c",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 7,
+        "slash_attack": -1,
+        "crush_attack": 28,
+        "ranged_attack": 0,
+        "magic_attack": 10,
+        "stab_defense": 2,
+        "slash_defense": 3,
+        "crush_defense": 1,
+        "ranged_defense": 0,
+        "magic_defense": 10,
+        "melee_strength": 35,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

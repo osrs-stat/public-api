@@ -1,0 +1,980 @@
+{
+  "data": [
+    {
+      "id": "1617-5886",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 15,
+        "quantity_max": null,
+        "rarity": "0.0359712230215827"
+      },
+      "meta": {
+        "item_name": "Uncut diamond",
+        "monster_name": "Abyssal Sire (Phase 1)"
+      }
+    },
+    {
+      "id": "1513-5886",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 50,
+        "quantity_max": 70,
+        "rarity": "0.0359712230215827"
+      },
+      "meta": {
+        "item_name": "Magic logs",
+        "monster_name": "Abyssal Sire (Phase 1)"
+      }
+    },
+    {
+      "id": "7936-5886",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 600,
+        "quantity_max": null,
+        "rarity": "0.0359712230215827"
+      },
+      "meta": {
+        "item_name": "Pure essence",
+        "monster_name": "Abyssal Sire (Phase 1)"
+      }
+    },
+    {
+      "id": "575-5886",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 47,
+        "quantity_max": 53,
+        "rarity": "0.0359712230215827"
+      },
+      "meta": {
+        "item_name": "Earth orb",
+        "monster_name": "Abyssal Sire (Phase 1)"
+      }
+    },
+    {
+      "id": "453-5886",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 380,
+        "quantity_max": 420,
+        "rarity": "0.0431654676258993"
+      },
+      "meta": {
+        "item_name": "Coal",
+        "monster_name": "Abyssal Sire (Phase 1)"
+      }
+    },
+    {
+      "id": "2485-5886",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 25,
+        "quantity_max": null,
+        "rarity": "0.00719424460431655"
+      },
+      "meta": {
+        "item_name": "Grimy lantadyme",
+        "monster_name": "Abyssal Sire (Phase 1)"
+      }
+    },
+    {
+      "id": "217-5886",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 25,
+        "quantity_max": null,
+        "rarity": "0.00925069380203515"
+      },
+      "meta": {
+        "item_name": "Grimy dwarf weed",
+        "monster_name": "Abyssal Sire (Phase 1)"
+      }
+    },
+    {
+      "id": "215-5886",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 25,
+        "quantity_max": null,
+        "rarity": "0.00925069380203515"
+      },
+      "meta": {
+        "item_name": "Grimy cadantine",
+        "monster_name": "Abyssal Sire (Phase 1)"
+      }
+    },
+    {
+      "id": "213-5886",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 25,
+        "quantity_max": null,
+        "rarity": "0.0102774922918808"
+      },
+      "meta": {
+        "item_name": "Grimy kwuarm",
+        "monster_name": "Abyssal Sire (Phase 1)"
+      }
+    },
+    {
+      "id": "2-5886",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 300,
+        "quantity_max": null,
+        "rarity": "0.0287769784172662"
+      },
+      "meta": {
+        "item_name": "Cannonball",
+        "monster_name": "Abyssal Sire (Phase 1)"
+      }
+    },
+    {
+      "id": "564-5886",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 350,
+        "quantity_max": null,
+        "rarity": "0.0287769784172662"
+      },
+      "meta": {
+        "item_name": "Cosmic rune",
+        "monster_name": "Abyssal Sire (Phase 1)"
+      }
+    },
+    {
+      "id": "566-5886",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 225,
+        "quantity_max": 275,
+        "rarity": "0.0359712230215827"
+      },
+      "meta": {
+        "item_name": "Soul rune",
+        "monster_name": "Abyssal Sire (Phase 1)"
+      }
+    },
+    {
+      "id": "563-5886",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 250,
+        "quantity_max": null,
+        "rarity": "0.0359712230215827"
+      },
+      "meta": {
+        "item_name": "Law rune",
+        "monster_name": "Abyssal Sire (Phase 1)"
+      }
+    },
+    {
+      "id": "560-5886",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 330,
+        "quantity_max": 370,
+        "rarity": "0.0359712230215827"
+      },
+      "meta": {
+        "item_name": "Death rune (Regular)",
+        "monster_name": "Abyssal Sire (Phase 1)"
+      }
+    },
+    {
+      "id": "565-5886",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 190,
+        "quantity_max": 210,
+        "rarity": "0.0359712230215827"
+      },
+      "meta": {
+        "item_name": "Blood rune (Regular)",
+        "monster_name": "Abyssal Sire (Phase 1)"
+      }
+    },
+    {
+      "id": "1397-5886",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 6,
+        "quantity_max": null,
+        "rarity": "0.0143884892086331"
+      },
+      "meta": {
+        "item_name": "Air battlestaff",
+        "monster_name": "Abyssal Sire (Phase 1)"
+      }
+    },
+    {
+      "id": "1405-5886",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.0143884892086331"
+      },
+      "meta": {
+        "item_name": "Mystic air staff",
+        "monster_name": "Abyssal Sire (Phase 1)"
+      }
+    },
+    {
+      "id": "1201-5886",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.0215827338129496"
+      },
+      "meta": {
+        "item_name": "Rune kiteshield",
+        "monster_name": "Abyssal Sire (Phase 1)"
+      }
+    },
+    {
+      "id": "1127-5886",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.0287769784172662"
+      },
+      "meta": {
+        "item_name": "Rune platebody",
+        "monster_name": "Abyssal Sire (Phase 1)"
+      }
+    },
+    {
+      "id": "1289-5886",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.0287769784172662"
+      },
+      "meta": {
+        "item_name": "Rune sword",
+        "monster_name": "Abyssal Sire (Phase 1)"
+      }
+    },
+    {
+      "id": "3054-5886",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.0287769784172662"
+      },
+      "meta": {
+        "item_name": "Mystic lava staff",
+        "monster_name": "Abyssal Sire (Phase 1)"
+      }
+    },
+    {
+      "id": "1163-5886",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.0287769784172662"
+      },
+      "meta": {
+        "item_name": "Rune full helm",
+        "monster_name": "Abyssal Sire (Phase 1)"
+      }
+    },
+    {
+      "id": "1391-5886",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.0431654676258993"
+      },
+      "meta": {
+        "item_name": "Battlestaff",
+        "monster_name": "Abyssal Sire (Phase 1)"
+      }
+    },
+    {
+      "id": "592-5886",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Ashes",
+        "monster_name": "Abyssal Sire (Phase 1)"
+      }
+    },
+    {
+      "id": "1442-5886",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00308324768756423"
+      },
+      "meta": {
+        "item_name": "Fire talisman",
+        "monster_name": "Abyssal Sire (Phase 1)"
+      }
+    },
+    {
+      "id": "1448-5886",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00308324768756423"
+      },
+      "meta": {
+        "item_name": "Mind talisman",
+        "monster_name": "Abyssal Sire (Phase 1)"
+      }
+    },
+    {
+      "id": "1444-5886",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00308324768756423"
+      },
+      "meta": {
+        "item_name": "Water talisman",
+        "monster_name": "Abyssal Sire (Phase 1)"
+      }
+    },
+    {
+      "id": "1454-5886",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00123329907502569"
+      },
+      "meta": {
+        "item_name": "Cosmic talisman",
+        "monster_name": "Abyssal Sire (Phase 1)"
+      }
+    },
+    {
+      "id": "1452-5886",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00092497430626927"
+      },
+      "meta": {
+        "item_name": "Chaos talisman",
+        "monster_name": "Abyssal Sire (Phase 1)"
+      }
+    },
+    {
+      "id": "1462-5886",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00092497430626927"
+      },
+      "meta": {
+        "item_name": "Nature talisman",
+        "monster_name": "Abyssal Sire (Phase 1)"
+      }
+    },
+    {
+      "id": "5295-5886",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.00431671943136718"
+      },
+      "meta": {
+        "item_name": "Ranarr seed",
+        "monster_name": "Abyssal Sire (Phase 1)"
+      }
+    },
+    {
+      "id": "5300-5886",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.00402858360640416"
+      },
+      "meta": {
+        "item_name": "Snapdragon seed",
+        "monster_name": "Abyssal Sire (Phase 1)"
+      }
+    },
+    {
+      "id": "5304-5886",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.00316648089978721"
+      },
+      "meta": {
+        "item_name": "Torstol seed",
+        "monster_name": "Abyssal Sire (Phase 1)"
+      }
+    },
+    {
+      "id": "5321-5886",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 30,
+        "quantity_max": null,
+        "rarity": "0.00287769784172662"
+      },
+      "meta": {
+        "item_name": "Watermelon seed",
+        "monster_name": "Abyssal Sire (Phase 1)"
+      }
+    },
+    {
+      "id": "5313-5886",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.00287769784172662"
+      },
+      "meta": {
+        "item_name": "Willow seed",
+        "monster_name": "Abyssal Sire (Phase 1)"
+      }
+    },
+    {
+      "id": "21488-5886",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.00258972087988357"
+      },
+      "meta": {
+        "item_name": "Mahogany seed",
+        "monster_name": "Abyssal Sire (Phase 1)"
+      }
+    },
+    {
+      "id": "5314-5886",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.00258972087988357"
+      },
+      "meta": {
+        "item_name": "Maple seed",
+        "monster_name": "Abyssal Sire (Phase 1)"
+      }
+    },
+    {
+      "id": "21486-5886",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.00258972087988357"
+      },
+      "meta": {
+        "item_name": "Teak seed",
+        "monster_name": "Abyssal Sire (Phase 1)"
+      }
+    },
+    {
+      "id": "5315-5886",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.00258972087988357"
+      },
+      "meta": {
+        "item_name": "Yew seed",
+        "monster_name": "Abyssal Sire (Phase 1)"
+      }
+    },
+    {
+      "id": "5288-5886",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.00201406623861046"
+      },
+      "meta": {
+        "item_name": "Papaya tree seed",
+        "monster_name": "Abyssal Sire (Phase 1)"
+      }
+    },
+    {
+      "id": "5316-5886",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.00172689500823729"
+      },
+      "meta": {
+        "item_name": "Magic seed",
+        "monster_name": "Abyssal Sire (Phase 1)"
+      }
+    },
+    {
+      "id": "5289-5886",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.00143884892086331"
+      },
+      "meta": {
+        "item_name": "Palm tree seed",
+        "monster_name": "Abyssal Sire (Phase 1)"
+      }
+    },
+    {
+      "id": "5317-5886",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.00115107913669065"
+      },
+      "meta": {
+        "item_name": "Spirit seed",
+        "monster_name": "Abyssal Sire (Phase 1)"
+      }
+    },
+    {
+      "id": "22877-5886",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.000863240293294522"
+      },
+      "meta": {
+        "item_name": "Dragonfruit tree seed",
+        "monster_name": "Abyssal Sire (Phase 1)"
+      }
+    },
+    {
+      "id": "22869-5886",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.000575539568345324"
+      },
+      "meta": {
+        "item_name": "Celastrus seed",
+        "monster_name": "Abyssal Sire (Phase 1)"
+      }
+    },
+    {
+      "id": "22871-5886",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.000575539568345324"
+      },
+      "meta": {
+        "item_name": "Redwood tree seed",
+        "monster_name": "Abyssal Sire (Phase 1)"
+      }
+    },
+    {
+      "id": "5521-5886",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 25,
+        "quantity_max": null,
+        "rarity": "0.0287769784172662"
+      },
+      "meta": {
+        "item_name": "Binding necklace",
+        "monster_name": "Abyssal Sire (Phase 1)"
+      }
+    },
+    {
+      "id": "6687-5886",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 6,
+        "quantity_max": null,
+        "rarity": "0.0143884892086331"
+      },
+      "meta": {
+        "item_name": "Saradomin brew (3 dose)",
+        "monster_name": "Abyssal Sire (Phase 1)"
+      }
+    },
+    {
+      "id": "1937-5886",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 250,
+        "quantity_max": 350,
+        "rarity": "0.0143884892086331"
+      },
+      "meta": {
+        "item_name": "Jug of water",
+        "monster_name": "Abyssal Sire (Phase 1)"
+      }
+    },
+    {
+      "id": "13273-5886",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.01"
+      },
+      "meta": {
+        "item_name": "Unsired",
+        "monster_name": "Abyssal Sire (Phase 1)"
+      }
+    },
+    {
+      "id": "23083-5886",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.025"
+      },
+      "meta": {
+        "item_name": "Brimstone key",
+        "monster_name": "Abyssal Sire (Phase 1)"
+      }
+    },
+    {
+      "id": "12073-5886",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00555555555555556"
+      },
+      "meta": {
+        "item_name": "Clue scroll (elite)",
+        "monster_name": "Abyssal Sire (Phase 1)"
+      }
+    },
+    {
+      "id": "1438-5886",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00308324768756423"
+      },
+      "meta": {
+        "item_name": "Air talisman",
+        "monster_name": "Abyssal Sire (Phase 1)"
+      }
+    },
+    {
+      "id": "1446-5886",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00308324768756423"
+      },
+      "meta": {
+        "item_name": "Body talisman",
+        "monster_name": "Abyssal Sire (Phase 1)"
+      }
+    },
+    {
+      "id": "1440-5886",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00308324768756423"
+      },
+      "meta": {
+        "item_name": "Earth talisman",
+        "monster_name": "Abyssal Sire (Phase 1)"
+      }
+    },
+    {
+      "id": "3024-5886",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 4,
+        "quantity_max": null,
+        "rarity": "0.0359712230215827"
+      },
+      "meta": {
+        "item_name": "Super restore (4 dose)",
+        "monster_name": "Abyssal Sire (Phase 1)"
+      }
+    },
+    {
+      "id": "7054-5886",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.0503597122302158"
+      },
+      "meta": {
+        "item_name": "Chilli potato",
+        "monster_name": "Abyssal Sire (Phase 1)"
+      }
+    },
+    {
+      "id": "2363-5886",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.0143884892086331"
+      },
+      "meta": {
+        "item_name": "Runite bar",
+        "monster_name": "Abyssal Sire (Phase 1)"
+      }
+    },
+    {
+      "id": "9194-5886",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.0215827338129496"
+      },
+      "meta": {
+        "item_name": "Onyx bolt tips",
+        "monster_name": "Abyssal Sire (Phase 1)"
+      }
+    },
+    {
+      "id": "451-5886",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 6,
+        "quantity_max": null,
+        "rarity": "0.0287769784172662"
+      },
+      "meta": {
+        "item_name": "Runite ore",
+        "monster_name": "Abyssal Sire (Phase 1)"
+      }
+    },
+    {
+      "id": "995-5886",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 48000,
+        "quantity_max": 52000,
+        "rarity": "0.079136690647482"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Abyssal Sire (Phase 1)"
+      }
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "data": [
+    {
+      "id": "371-6736",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Raw swordfish",
+        "monster_name": "River troll (Level 120)"
+      }
+    },
+    {
+      "id": "371-6735",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Raw swordfish",
+        "monster_name": "River troll (Level 79)"
+      }
+    },
+    {
+      "id": "371-4501",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 9,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Raw swordfish",
+        "monster_name": "Brine rat"
+      }
+    },
+    {
+      "id": "371-2592",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.15625"
+      },
+      "meta": {
+        "item_name": "Raw swordfish",
+        "monster_name": "Mogre"
+      }
+    },
+    {
+      "id": "371-6737",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Raw swordfish",
+        "monster_name": "River troll (Level 159)"
+      }
+    }
+  ]
+}

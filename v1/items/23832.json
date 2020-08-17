@@ -1,0 +1,31 @@
+{
+  "data": {
+    "id": "23832",
+    "type": "item",
+    "attributes": {
+      "uuid": "ca402f6b-b895-4f47-9274-8177745d10b8",
+      "name": "Corrupted bowstring",
+      "members": true,
+      "release_date": "2019-07-25",
+      "examine": "An enchanted bowstring.",
+      "tradeable": false,
+      "ge_tradeable": false,
+      "lowalch": null,
+      "highalch": null,
+      "is_equip": false,
+      "is_weapon": false,
+      "icon_base64": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAA70lEQVR4Xu2UUQ7CIBBE2yP0o/89gjfw3l5OgzqFHVYKUlgTeckkhpjldReYpsF/Mt95xQAn8cptvb5/d0dKuKzL8oxbu2xbLykpwSKQ6SCUL9JYZoho/IyIQ8q4GIkAXchABMRCYZf43x2Y9zPDUoZi/hU+FitJBf7MyKIsVpJqKSBvF3+1HzGvs5CXOkkMhIKhJK99GnczsRD9WUhfEC/WFTnWUAZjjj+kMRih1h29s03RD7hBd3QRg+6kRSq6I9+U3PDmWiBTIJRX+Ci4WRwI8a4J/DWtCXcPKewOiAuVBhtr4d2y4CLfhGsOzuQB0tIhR1Bwm+AAAAAASUVORK5CYII="
+    },
+    "relationships": {
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Corrupted_bowstring"
+    },
+    "meta": {
+      "incomplete": false
+    }
+  },
+  "included": [
+
+  ]
+}

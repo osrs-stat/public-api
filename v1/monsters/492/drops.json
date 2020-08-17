@@ -1,0 +1,932 @@
+{
+  "data": [
+    {
+      "id": "407-492",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.02"
+      },
+      "meta": {
+        "item_name": "Oyster",
+        "monster_name": "Cave kraken"
+      }
+    },
+    {
+      "id": "1383-492",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.02"
+      },
+      "meta": {
+        "item_name": "Staff of water",
+        "monster_name": "Cave kraken"
+      }
+    },
+    {
+      "id": "1147-492",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0325"
+      },
+      "meta": {
+        "item_name": "Rune med helm",
+        "monster_name": "Cave kraken"
+      }
+    },
+    {
+      "id": "1245-492",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.02"
+      },
+      "meta": {
+        "item_name": "Adamant spear (Unpoisoned)",
+        "monster_name": "Cave kraken"
+      }
+    },
+    {
+      "id": "1347-492",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.02"
+      },
+      "meta": {
+        "item_name": "Rune warhammer",
+        "monster_name": "Cave kraken"
+      }
+    },
+    {
+      "id": "1391-492",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.02"
+      },
+      "meta": {
+        "item_name": "Battlestaff",
+        "monster_name": "Cave kraken"
+      }
+    },
+    {
+      "id": "1395-492",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.02"
+      },
+      "meta": {
+        "item_name": "Water battlestaff",
+        "monster_name": "Cave kraken"
+      }
+    },
+    {
+      "id": "1403-492",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.01"
+      },
+      "meta": {
+        "item_name": "Mystic water staff",
+        "monster_name": "Cave kraken"
+      }
+    },
+    {
+      "id": "11908-492",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.005"
+      },
+      "meta": {
+        "item_name": "Trident of the seas (Uncharged)",
+        "monster_name": "Cave kraken"
+      }
+    },
+    {
+      "id": "4694-492",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 7,
+        "quantity_max": null,
+        "rarity": "0.03"
+      },
+      "meta": {
+        "item_name": "Steam rune",
+        "monster_name": "Cave kraken"
+      }
+    },
+    {
+      "id": "555-492",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 15,
+        "quantity_max": null,
+        "rarity": "0.05"
+      },
+      "meta": {
+        "item_name": "Water rune (Regular)",
+        "monster_name": "Cave kraken"
+      }
+    },
+    {
+      "id": "555-492",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 30,
+        "quantity_max": null,
+        "rarity": "0.05"
+      },
+      "meta": {
+        "item_name": "Water rune (Regular)",
+        "monster_name": "Cave kraken"
+      }
+    },
+    {
+      "id": "555-492",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 75,
+        "quantity_max": null,
+        "rarity": "0.05"
+      },
+      "meta": {
+        "item_name": "Water rune (Regular)",
+        "monster_name": "Cave kraken"
+      }
+    },
+    {
+      "id": "554-492",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 30,
+        "quantity_max": null,
+        "rarity": "0.05"
+      },
+      "meta": {
+        "item_name": "Fire rune (Regular)",
+        "monster_name": "Cave kraken"
+      }
+    },
+    {
+      "id": "560-492",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 30,
+        "quantity_max": null,
+        "rarity": "0.08"
+      },
+      "meta": {
+        "item_name": "Death rune (Regular)",
+        "monster_name": "Cave kraken"
+      }
+    },
+    {
+      "id": "562-492",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 50,
+        "quantity_max": null,
+        "rarity": "0.08"
+      },
+      "meta": {
+        "item_name": "Chaos rune (Regular)",
+        "monster_name": "Cave kraken"
+      }
+    },
+    {
+      "id": "565-492",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.04"
+      },
+      "meta": {
+        "item_name": "Blood rune (Regular)",
+        "monster_name": "Cave kraken"
+      }
+    },
+    {
+      "id": "685-492",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.02"
+      },
+      "meta": {
+        "item_name": "Old boot",
+        "monster_name": "Cave kraken"
+      }
+    },
+    {
+      "id": "1939-492",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 60,
+        "quantity_max": null,
+        "rarity": "0.02"
+      },
+      "meta": {
+        "item_name": "Swamp tar",
+        "monster_name": "Cave kraken"
+      }
+    },
+    {
+      "id": "5304-492",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000252100840336134"
+      },
+      "meta": {
+        "item_name": "Torstol seed",
+        "monster_name": "Cave kraken"
+      }
+    },
+    {
+      "id": "5303-492",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000378167149880247"
+      },
+      "meta": {
+        "item_name": "Dwarf weed seed",
+        "monster_name": "Cave kraken"
+      }
+    },
+    {
+      "id": "22879-492",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.000504201680672269"
+      },
+      "meta": {
+        "item_name": "Snape grass seed",
+        "monster_name": "Cave kraken"
+      }
+    },
+    {
+      "id": "5302-492",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000630252100840336"
+      },
+      "meta": {
+        "item_name": "Lantadyme seed",
+        "monster_name": "Cave kraken"
+      }
+    },
+    {
+      "id": "5301-492",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000882352941176471"
+      },
+      "meta": {
+        "item_name": "Cadantine seed",
+        "monster_name": "Cave kraken"
+      }
+    },
+    {
+      "id": "5300-492",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00126050420168067"
+      },
+      "meta": {
+        "item_name": "Snapdragon seed",
+        "monster_name": "Cave kraken"
+      }
+    },
+    {
+      "id": "22873-492",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00189035916824197"
+      },
+      "meta": {
+        "item_name": "Potato cactus seed",
+        "monster_name": "Cave kraken"
+      }
+    },
+    {
+      "id": "5299-492",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00189035916824197"
+      },
+      "meta": {
+        "item_name": "Kwuarm seed",
+        "monster_name": "Cave kraken"
+      }
+    },
+    {
+      "id": "5280-492",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00264783759929391"
+      },
+      "meta": {
+        "item_name": "Cactus seed",
+        "monster_name": "Cave kraken"
+      }
+    },
+    {
+      "id": "5106-492",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00277264325323475"
+      },
+      "meta": {
+        "item_name": "Poison ivy seed",
+        "monster_name": "Cave kraken"
+      }
+    },
+    {
+      "id": "5298-492",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00277264325323475"
+      },
+      "meta": {
+        "item_name": "Avantoe seed",
+        "monster_name": "Cave kraken"
+      }
+    },
+    {
+      "id": "5281-492",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00390777647518562"
+      },
+      "meta": {
+        "item_name": "Belladonna seed",
+        "monster_name": "Cave kraken"
+      }
+    },
+    {
+      "id": "5297-492",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00403334229631621"
+      },
+      "meta": {
+        "item_name": "Irit seed",
+        "monster_name": "Cave kraken"
+      }
+    },
+    {
+      "id": "5296-492",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00592417061611374"
+      },
+      "meta": {
+        "item_name": "Toadflax seed",
+        "monster_name": "Cave kraken"
+      }
+    },
+    {
+      "id": "217-492",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000703070072650574"
+      },
+      "meta": {
+        "item_name": "Grimy dwarf weed",
+        "monster_name": "Cave kraken"
+      }
+    },
+    {
+      "id": "2485-492",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000703070072650574"
+      },
+      "meta": {
+        "item_name": "Grimy lantadyme",
+        "monster_name": "Cave kraken"
+      }
+    },
+    {
+      "id": "215-492",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0009375"
+      },
+      "meta": {
+        "item_name": "Grimy cadantine",
+        "monster_name": "Cave kraken"
+      }
+    },
+    {
+      "id": "213-492",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.001171875"
+      },
+      "meta": {
+        "item_name": "Grimy kwuarm",
+        "monster_name": "Cave kraken"
+      }
+    },
+    {
+      "id": "211-492",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00140646976090014"
+      },
+      "meta": {
+        "item_name": "Grimy avantoe",
+        "monster_name": "Cave kraken"
+      }
+    },
+    {
+      "id": "209-492",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.001875"
+      },
+      "meta": {
+        "item_name": "Grimy irit leaf",
+        "monster_name": "Cave kraken"
+      }
+    },
+    {
+      "id": "207-492",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00257731958762887"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Cave kraken"
+      }
+    },
+    {
+      "id": "205-492",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00328119873126982"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Cave kraken"
+      }
+    },
+    {
+      "id": "203-492",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00421881591899873"
+      },
+      "meta": {
+        "item_name": "Grimy tarromin",
+        "monster_name": "Cave kraken"
+      }
+    },
+    {
+      "id": "201-492",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00562535158447403"
+      },
+      "meta": {
+        "item_name": "Grimy marrentill",
+        "monster_name": "Cave kraken"
+      }
+    },
+    {
+      "id": "199-492",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0075"
+      },
+      "meta": {
+        "item_name": "Grimy guam leaf",
+        "monster_name": "Cave kraken"
+      }
+    },
+    {
+      "id": "12073-492",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000833333333333333"
+      },
+      "meta": {
+        "item_name": "Clue scroll (elite)",
+        "monster_name": "Cave kraken"
+      }
+    },
+    {
+      "id": "2722-492",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.01"
+      },
+      "meta": {
+        "item_name": "Clue scroll (hard)",
+        "monster_name": "Cave kraken"
+      }
+    },
+    {
+      "id": "23083-492",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0132135306553911"
+      },
+      "meta": {
+        "item_name": "Brimstone key",
+        "monster_name": "Cave kraken"
+      }
+    },
+    {
+      "id": "12004-492",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000833333333333333"
+      },
+      "meta": {
+        "item_name": "Kraken tentacle",
+        "monster_name": "Cave kraken"
+      }
+    },
+    {
+      "id": "1444-492",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.02"
+      },
+      "meta": {
+        "item_name": "Water talisman",
+        "monster_name": "Cave kraken"
+      }
+    },
+    {
+      "id": "227-492",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 50,
+        "quantity_max": null,
+        "rarity": "0.02"
+      },
+      "meta": {
+        "item_name": "Vial of water",
+        "monster_name": "Cave kraken"
+      }
+    },
+    {
+      "id": "5952-492",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03"
+      },
+      "meta": {
+        "item_name": "Antidote++ (4 dose)",
+        "monster_name": "Cave kraken"
+      }
+    },
+    {
+      "id": "385-492",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03"
+      },
+      "meta": {
+        "item_name": "Shark",
+        "monster_name": "Cave kraken"
+      }
+    },
+    {
+      "id": "401-492",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 30,
+        "quantity_max": null,
+        "rarity": "0.03"
+      },
+      "meta": {
+        "item_name": "Seaweed",
+        "monster_name": "Cave kraken"
+      }
+    },
+    {
+      "id": "1925-492",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00416666666666667"
+      },
+      "meta": {
+        "item_name": "Bucket",
+        "monster_name": "Cave kraken"
+      }
+    },
+    {
+      "id": "377-492",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.02"
+      },
+      "meta": {
+        "item_name": "Raw lobster",
+        "monster_name": "Cave kraken"
+      }
+    },
+    {
+      "id": "571-492",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.02"
+      },
+      "meta": {
+        "item_name": "Water orb",
+        "monster_name": "Cave kraken"
+      }
+    },
+    {
+      "id": "373-492",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.03"
+      },
+      "meta": {
+        "item_name": "Swordfish",
+        "monster_name": "Cave kraken"
+      }
+    },
+    {
+      "id": "995-492",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 120,
+        "quantity_max": 300,
+        "rarity": "0.05"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Cave kraken"
+      }
+    }
+  ]
+}

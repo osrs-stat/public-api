@@ -1,0 +1,132 @@
+{
+  "data": [
+    {
+      "id": "3239-3717",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 4,
+        "quantity_max": 8,
+        "rarity": "0.036697247706422"
+      },
+      "meta": {
+        "item_name": "Bark",
+        "monster_name": "Vyrewatch (Level 105)"
+      }
+    },
+    {
+      "id": "3239-3718",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 4,
+        "quantity_max": 8,
+        "rarity": "0.036697247706422"
+      },
+      "meta": {
+        "item_name": "Bark",
+        "monster_name": "Vyrewatch (Level 110)"
+      }
+    },
+    {
+      "id": "3239-3719",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 4,
+        "quantity_max": 8,
+        "rarity": "0.036697247706422"
+      },
+      "meta": {
+        "item_name": "Bark",
+        "monster_name": "Vyrewatch (Level 120)"
+      }
+    },
+    {
+      "id": "3239-3720",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 4,
+        "quantity_max": 8,
+        "rarity": "0.036697247706422"
+      },
+      "meta": {
+        "item_name": "Bark",
+        "monster_name": "Vyrewatch (Level 125)"
+      }
+    },
+    {
+      "id": "3239-8256",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 4,
+        "quantity_max": 8,
+        "rarity": "0.036697247706422"
+      },
+      "meta": {
+        "item_name": "Bark",
+        "monster_name": "Vyrewatch (Level 87)"
+      }
+    },
+    {
+      "id": "3239-8297",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 2,
+        "rarity": "0.0703125"
+      },
+      "meta": {
+        "item_name": "Bark",
+        "monster_name": "Swamp Crab (Normal)"
+      }
+    },
+    {
+      "id": "3239-8298",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 2,
+        "rarity": "0.0703125"
+      },
+      "meta": {
+        "item_name": "Bark",
+        "monster_name": "Swamp Crab (Bloomed)"
+      }
+    },
+    {
+      "id": "3239-9756",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 4,
+        "quantity_max": 8,
+        "rarity": "0.043010752688172"
+      },
+      "meta": {
+        "item_name": "Bark",
+        "monster_name": "Vyrewatch Sentinel"
+      }
+    }
+  ]
+}

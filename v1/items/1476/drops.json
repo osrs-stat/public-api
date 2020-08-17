@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "id": "1476-3134",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "White bead",
+        "monster_name": "Imp (GWD)"
+      }
+    },
+    {
+      "id": "1476-5007",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "White bead",
+        "monster_name": "Imp (Regular)"
+      }
+    }
+  ]
+}

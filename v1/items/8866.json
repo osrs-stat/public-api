@@ -1,0 +1,31 @@
+{
+  "data": {
+    "id": "8866",
+    "type": "item",
+    "attributes": {
+      "uuid": "44536be5-80b5-4cf1-b90e-357224b6e749",
+      "name": "Steel key (H.A.M.)",
+      "members": true,
+      "release_date": "2006-06-21",
+      "examine": "You stole this key from a HAM guard.",
+      "tradeable": false,
+      "ge_tradeable": false,
+      "lowalch": 0,
+      "highalch": 0,
+      "is_equip": false,
+      "is_weapon": false,
+      "icon_base64": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABI0lEQVR4XmNgGAUUAcb/qHjAAMQBrY3VKHiAHIXpkAF0FMIx1eVFKNEFEhMVFQSzDRQU6OUoiMWx0eFIFiMcCROju4PQQwbdQei6aAiwp5/O1nowHgAHgQB6VmeEOwjmKHQdNAewdAJLQ3t2bBp4R6ECxv+H9+/6P7mvYyByGi6AGn2DIJQgUTnoHAUBo44iFqA7CoYHFKCWU0YGeoPPUYMgGhn/b1m/4v+Enrb/5cV5g6WswiynBoWD0B2FropOALXNhOkoujoMe5MlLzttIBM54//d2zZiOCoiLAiLo+jmMMyQcnKwRYk+OocWpoNAYugVcm1lCZI4zQEkStAdhSwHcwydHAQCjP/Xr1j0v725FsNy1JYoXcGAhAR+MKgcQwkAACFAjpWNiG8hAAAAAElFTkSuQmCC"
+    },
+    "relationships": {
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Steel_key_(H.A.M.)"
+    },
+    "meta": {
+      "incomplete": false
+    }
+  },
+  "included": [
+
+  ]
+}

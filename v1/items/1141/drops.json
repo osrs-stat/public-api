@@ -1,0 +1,724 @@
+{
+  "data": [
+    {
+      "id": "1141-476",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.125"
+      },
+      "meta": {
+        "item_name": "Steel med helm",
+        "monster_name": "Wall beast (Beast)"
+      }
+    },
+    {
+      "id": "1141-4131",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Steel med helm",
+        "monster_name": "Twig (Awake)"
+      }
+    },
+    {
+      "id": "1141-4123",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Steel med helm",
+        "monster_name": "Troll spectator"
+      }
+    },
+    {
+      "id": "1141-3851",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Steel med helm",
+        "monster_name": "Moss giant (Level 48)"
+      }
+    },
+    {
+      "id": "1141-2464",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.02"
+      },
+      "meta": {
+        "item_name": "Steel med helm",
+        "monster_name": "Cyclops (Level 76)"
+      }
+    },
+    {
+      "id": "1141-2237",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Steel med helm",
+        "monster_name": "Ork"
+      }
+    },
+    {
+      "id": "1141-2235",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.02"
+      },
+      "meta": {
+        "item_name": "Steel med helm",
+        "monster_name": "Cyclops (Level 81)"
+      }
+    },
+    {
+      "id": "1141-2137",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.02"
+      },
+      "meta": {
+        "item_name": "Steel med helm",
+        "monster_name": "Cyclops (Level 106)"
+      }
+    },
+    {
+      "id": "1141-2097",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.02"
+      },
+      "meta": {
+        "item_name": "Steel med helm",
+        "monster_name": "Cyclops (Level 56)"
+      }
+    },
+    {
+      "id": "1141-2090",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Steel med helm",
+        "monster_name": "Moss giant (Level 42)"
+      }
+    },
+    {
+      "id": "1141-1876",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Steel med helm",
+        "monster_name": "Ice troll female"
+      }
+    },
+    {
+      "id": "1141-1875",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Steel med helm",
+        "monster_name": "Ice troll male"
+      }
+    },
+    {
+      "id": "1141-1874",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Steel med helm",
+        "monster_name": "Ice troll runt"
+      }
+    },
+    {
+      "id": "1141-1829",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Steel med helm",
+        "monster_name": "White Knight (Partisan)"
+      }
+    },
+    {
+      "id": "1141-1829",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Steel med helm",
+        "monster_name": "White Knight (Partisan)"
+      }
+    },
+    {
+      "id": "1141-1829",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Steel med helm",
+        "monster_name": "White Knight (Partisan)"
+      }
+    },
+    {
+      "id": "1141-1829",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Steel med helm",
+        "monster_name": "White Knight (Partisan)"
+      }
+    },
+    {
+      "id": "1141-1800",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Steel med helm",
+        "monster_name": "White Knight (Acolyte)"
+      }
+    },
+    {
+      "id": "1141-1800",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Steel med helm",
+        "monster_name": "White Knight (Acolyte)"
+      }
+    },
+    {
+      "id": "1141-1800",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Steel med helm",
+        "monster_name": "White Knight (Acolyte)"
+      }
+    },
+    {
+      "id": "1141-1800",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Steel med helm",
+        "monster_name": "White Knight (Acolyte)"
+      }
+    },
+    {
+      "id": "1141-1799",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Steel med helm",
+        "monster_name": "White Knight (Proselyte)"
+      }
+    },
+    {
+      "id": "1141-1799",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Steel med helm",
+        "monster_name": "White Knight (Proselyte)"
+      }
+    },
+    {
+      "id": "1141-1799",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Steel med helm",
+        "monster_name": "White Knight (Proselyte)"
+      }
+    },
+    {
+      "id": "1141-1799",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Steel med helm",
+        "monster_name": "White Knight (Proselyte)"
+      }
+    },
+    {
+      "id": "1141-1798",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Steel med helm",
+        "monster_name": "White Knight (Initiate)"
+      }
+    },
+    {
+      "id": "1141-1798",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Steel med helm",
+        "monster_name": "White Knight (Initiate)"
+      }
+    },
+    {
+      "id": "1141-1798",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Steel med helm",
+        "monster_name": "White Knight (Initiate)"
+      }
+    },
+    {
+      "id": "1141-1798",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Steel med helm",
+        "monster_name": "White Knight (Initiate)"
+      }
+    },
+    {
+      "id": "1141-936",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Steel med helm",
+        "monster_name": "Mountain troll (Level 69)"
+      }
+    },
+    {
+      "id": "1141-931",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Steel med helm",
+        "monster_name": "Thrower Troll"
+      }
+    },
+    {
+      "id": "1141-643",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Steel med helm",
+        "monster_name": "Arrg (Normal)"
+      }
+    },
+    {
+      "id": "1141-8736",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Steel med helm",
+        "monster_name": "Moss giant (Level 84)"
+      }
+    },
+    {
+      "id": "1141-6440",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.125"
+      },
+      "meta": {
+        "item_name": "Steel med helm",
+        "monster_name": "Giant skeleton (Shadow Dungeon)"
+      }
+    },
+    {
+      "id": "1141-6331",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Steel med helm",
+        "monster_name": "Arrg (Hard)"
+      }
+    },
+    {
+      "id": "1141-5421",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Steel med helm",
+        "monster_name": "Soldier (Yanille)"
+      }
+    },
+    {
+      "id": "1141-4497",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.046875"
+      },
+      "meta": {
+        "item_name": "Steel med helm",
+        "monster_name": "Skeleton fremennik (Level 60)"
+      }
+    },
+    {
+      "id": "1141-4494",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.046875"
+      },
+      "meta": {
+        "item_name": "Steel med helm",
+        "monster_name": "Skeleton fremennik (Level 50)"
+      }
+    },
+    {
+      "id": "1141-4491",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.046875"
+      },
+      "meta": {
+        "item_name": "Steel med helm",
+        "monster_name": "Skeleton fremennik (Level 40)"
+      }
+    },
+    {
+      "id": "1141-4406",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Steel med helm",
+        "monster_name": "Colonel Radick"
+      }
+    },
+    {
+      "id": "1141-4405",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Steel med helm",
+        "monster_name": "Tower guard"
+      }
+    },
+    {
+      "id": "1141-4143",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Steel med helm",
+        "monster_name": "Mountain troll (Level 71)"
+      }
+    },
+    {
+      "id": "1141-4134",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Steel med helm",
+        "monster_name": "Berry (Sleeping)"
+      }
+    },
+    {
+      "id": "1141-4133",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Steel med helm",
+        "monster_name": "Twig (Sleeping)"
+      }
+    },
+    {
+      "id": "1141-4132",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Steel med helm",
+        "monster_name": "Berry (Awake)"
+      }
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "data": {
+    "id": "809",
+    "type": "item",
+    "attributes": {
+      "uuid": "d78b7a48-6db1-42b9-a427-ee1b526cb0f4",
+      "name": "Mithril dart (Unpoisoned)",
+      "members": true,
+      "release_date": "2003-04-14",
+      "examine": "A deadly throwing dart with a mithril tip.",
+      "tradeable": false,
+      "ge_tradeable": false,
+      "lowalch": 10,
+      "highalch": 15,
+      "is_equip": true,
+      "is_weapon": true,
+      "icon_base64": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABZ0lEQVR4Xu2VsUvDQBSH7403ZOhQCIKQoUhxCFJaAuXEEpcOQWiHILQUERcHwcHBwcFBcPCPft67y7XJ6eDQ3L3BH/woNG35+N67qxD/iRZA/52IAZzPa2QERSCAF1lm6j8NHMCiWO+B/KeBA6jULS87k2nFx45bZAZ2AC+vtpjn13zszGY3fOzQIo/HioMdwMVi11nk6EB052RZzsOOv8gRgOxfArUs780ip+kolh3Ar9MBfpwk+K67mkhUIxHLDuBnA/KmW08llmcCq0TGsAPGCoFQN4XE5bkFWg30a2It+d/qKbC38praVrkFohLQMpwl6IC8pHZUBEJQdxqm1qWxKdm7JeiAUJ8bO65toJ4X28K0Qah0qtp9GErceED+Lx0xh/vGlcbl+jRMQgMJ4UZwGAWYE0YlY8GBfo+1RUCPDZA79pGAKF2gnhf6r4EfQP4nAgfMYjMCooC5ixgBUVjsTzfHhvkGL3QdYSYETgEAAAAASUVORK5CYII="
+    },
+    "relationships": {
+      "equip": {
+        "data": {
+          "id": "b93a11aa-1cd4-413b-a3be-be193749f9fd",
+          "type": "equip"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Mithril_dart#Unpoisoned"
+    },
+    "meta": {
+      "incomplete": false
+    }
+  },
+  "included": [
+    {
+      "id": "b93a11aa-1cd4-413b-a3be-be193749f9fd",
+      "type": "equip",
+      "attributes": {
+        "slot": "weapon",
+        "passive_effect": null,
+        "requirements": {
+          "ranged_level": 20
+        }
+      },
+      "relationships": {
+        "equip_stat": {
+          "data": {
+            "id": "d0b12b87-5cbb-4a68-abd0-b1e9921e76d9",
+            "type": "equip_stat"
+          }
+        },
+        "attack_stat": {
+          "data": {
+            "id": "0dabc5fe-0125-4474-afa7-8cfd7d2af1dd",
+            "type": "attack_stat"
+          }
+        }
+      }
+    },
+    {
+      "id": "0dabc5fe-0125-4474-afa7-8cfd7d2af1dd",
+      "type": "attack_stat",
+      "attributes": {
+        "attack_speed": 3,
+        "attack_type": "thrown_weapon",
+        "special": null,
+        "stances": [
+          {
+            "name": "accurate",
+            "style": null,
+            "boosts": {
+              "accuracy": 3,
+              "damage": 3
+            },
+            "experience": {
+              "hitpoints": 1.3333,
+              "ranged": 2
+            },
+            "combat_accuracy_stat": "ranged_level",
+            "combat_damage_stat": "ranged_level",
+            "equip_accuracy_stat": "ranged_attack",
+            "equip_damage_stat": "ranged_attack",
+            "target_equip_defense_stat": "ranged_defense"
+          },
+          {
+            "name": "rapid",
+            "style": null,
+            "boosts": {
+              "attack_speed": 1
+            },
+            "experience": {
+              "hitpoints": 1.3333,
+              "ranged": 2
+            },
+            "combat_accuracy_stat": "ranged_level",
+            "combat_damage_stat": "ranged_level",
+            "equip_accuracy_stat": "ranged_attack",
+            "equip_damage_stat": "ranged_attack",
+            "target_equip_defense_stat": "ranged_defense"
+          },
+          {
+            "name": "longrange",
+            "style": null,
+            "boosts": {
+              "defense": 3,
+              "attack_range": 2
+            },
+            "experience": {
+              "hitpoints": 1.3333,
+              "ranged": 1.3333,
+              "defense": 1.3333
+            },
+            "combat_accuracy_stat": "ranged_level",
+            "combat_damage_stat": "ranged_level",
+            "equip_accuracy_stat": "ranged_attack",
+            "equip_damage_stat": "ranged_attack",
+            "target_equip_defense_stat": "ranged_defense"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d0b12b87-5cbb-4a68-abd0-b1e9921e76d9",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 0,
+        "slash_attack": 0,
+        "crush_attack": 0,
+        "ranged_attack": 8,
+        "magic_attack": 0,
+        "stab_defense": 0,
+        "slash_defense": 0,
+        "crush_defense": 0,
+        "ranged_defense": 0,
+        "magic_defense": 0,
+        "melee_strength": 0,
+        "ranged_strength": 7,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

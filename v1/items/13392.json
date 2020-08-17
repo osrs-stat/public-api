@@ -1,0 +1,73 @@
+{
+  "data": {
+    "id": "13392",
+    "type": "item",
+    "attributes": {
+      "uuid": "2e6974e9-ba22-4497-83b9-a63ed2c5d7b4",
+      "name": "Xeric's talisman (Inert)",
+      "members": true,
+      "release_date": "2016-01-07",
+      "examine": "A dormant relic of the ancient times of Kourend.",
+      "tradeable": false,
+      "ge_tradeable": false,
+      "lowalch": 140,
+      "highalch": 210,
+      "is_equip": true,
+      "is_weapon": false,
+      "icon_base64": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABsElEQVR4Xu2WQUvDQBCFO0cPHjwIUiiUHKQUCaG0lISUFoOC0EMRoaeCnrwJ/v/D6Nt1spttNWnIbkV88EjYTJkvM7Ob9np/Q8SHfRIRr1fj0vN4UPoEUMRP9zG/PM5Lvz8vSweG0jCb4kbZbVdgKFLVsGGS4bBiGyqfRD6hDIwkMhCuiN92i0qcG9GBDNDPMNCJgNwIIx3rHcidHTfCSAOhSvWxrXU8EFwf21rERXqt3CwJ8W4zU8a9+7QDHQNkYDzO0T9QnX4hkBx2+58Ed2iJtw+JcrMXaCUN9LrNnLcmHo0uLMDDMB6AIFJAcL9/9gVBfLdalfcC2OwT04mI07TPeT5SRvJllvEkjtW9rAuwZxiIeLkYcPr5LxEWIFxlDY7jy1BAkG6NJAeQDSPPg7RLHEXnuirrccVYs+dL24v07KAa4lmSKGOocXXX4eoO7FxVKCREVQAk1ZF1A+K9dTpJcTv4tmUCIyAeYUTVoUaF7F1mV8b9pQcRT6dX5XkjLcQ5ZJ9PGHqPs2NLAyG5tAZAAiCtDDA7tuwtrYFMi4IM8r5MQr3z7JkJDrOv7ivyAUaI8x7oI6o9AAAAAElFTkSuQmCC"
+    },
+    "relationships": {
+      "equip": {
+        "data": {
+          "id": "3bcd88cd-c8d2-48e5-8608-c0bf35a51c34",
+          "type": "equip"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Xeric's_talisman#Inert"
+    },
+    "meta": {
+      "incomplete": false
+    }
+  },
+  "included": [
+    {
+      "id": "3bcd88cd-c8d2-48e5-8608-c0bf35a51c34",
+      "type": "equip",
+      "attributes": {
+        "slot": "amulet",
+        "passive_effect": null,
+        "requirements": null
+      },
+      "relationships": {
+        "equip_stat": {
+          "data": {
+            "id": "0deef521-f58a-46ed-a840-c4c35373645e",
+            "type": "equip_stat"
+          }
+        }
+      }
+    },
+    {
+      "id": "0deef521-f58a-46ed-a840-c4c35373645e",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 0,
+        "slash_attack": 0,
+        "crush_attack": 0,
+        "ranged_attack": 0,
+        "magic_attack": 2,
+        "stab_defense": 0,
+        "slash_defense": 0,
+        "crush_defense": 0,
+        "ranged_defense": 0,
+        "magic_defense": 0,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

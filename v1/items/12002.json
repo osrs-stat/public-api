@@ -1,0 +1,75 @@
+{
+  "data": {
+    "id": "12002",
+    "type": "item",
+    "attributes": {
+      "uuid": "70b1baa6-a6e3-43d9-a1f1-e19c5379b3bd",
+      "name": "Occult necklace",
+      "members": true,
+      "release_date": "2014-04-10",
+      "examine": "A smokey evil embodies this amulet.",
+      "tradeable": false,
+      "ge_tradeable": false,
+      "lowalch": 18000,
+      "highalch": 27000,
+      "is_equip": true,
+      "is_weapon": false,
+      "icon_base64": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABvUlEQVR4Xu2Xa0sCQRSGz9ial1LbgqLoomCyokgg+UFCKoj6EIH//8ecfGccd2dmy91wxi89cPAys/rMe2bXlagUgvNrLwh+apCs15aqj1aDB0T7EBP8uJax0/lcSWEssJjgyVrmods1Cu8t44ZMDHMCiZlC9mg2LaQYQGybEJFOC4W0XLGdoTZztl32jCxZMeytoseVwPxgezQflZJOp/hxhdjeLpdyqZZElFypMK5PxY4pjPrwciv1nA72QrmV/qXFhTFXa4+6qPk3ftoFtq3Wvr54O9U1v21owS1qyzH9Wv985M/fCeKH+FeiUbIRUmPe2wXyEhLcjwY8jEaOkOd2AfsqLXh4MJbpJDTiNnXkezodz+0C6WmPggDSWdReDCEt47ldQN1SoG1ZGVsIKWZlPAoBwbNDVwbVqZwYd4sBZIDgRT3mcY7QVEydO0n76B2j9s1bM+Gv2nJTs9pc1nN9HlIGKKH3+r0jc0c9HlcnvjexjRK6pltHqBf1Q6cDlNAlXRkyEEyqo9DpgFTolM74nC7kc7QrrsT7EcLPwxEdc5Oa8hGvcbrvSQik/1LtCrx/UvQX55U99x/ffAPYm5EmCxd47gAAAABJRU5ErkJggg=="
+    },
+    "relationships": {
+      "equip": {
+        "data": {
+          "id": "5d96a505-35f1-482b-bc59-f0fdf7873ecf",
+          "type": "equip"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Occult_necklace"
+    },
+    "meta": {
+      "incomplete": false
+    }
+  },
+  "included": [
+    {
+      "id": "5d96a505-35f1-482b-bc59-f0fdf7873ecf",
+      "type": "equip",
+      "attributes": {
+        "slot": "amulet",
+        "passive_effect": null,
+        "requirements": {
+          "magic_level": 70
+        }
+      },
+      "relationships": {
+        "equip_stat": {
+          "data": {
+            "id": "39822cc7-6595-4285-bd78-851a408513cb",
+            "type": "equip_stat"
+          }
+        }
+      }
+    },
+    {
+      "id": "39822cc7-6595-4285-bd78-851a408513cb",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 0,
+        "slash_attack": 0,
+        "crush_attack": 0,
+        "ranged_attack": 0,
+        "magic_attack": 12,
+        "stab_defense": 0,
+        "slash_defense": 0,
+        "crush_defense": 0,
+        "ranged_defense": 0,
+        "magic_defense": 0,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_bonus": 10,
+        "prayer_bonus": 2
+      }
+    }
+  ]
+}

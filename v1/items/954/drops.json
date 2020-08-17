@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "954-513",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.3125"
+      },
+      "meta": {
+        "item_name": "Rope",
+        "monster_name": "Mugger"
+      }
+    },
+    {
+      "id": "954-4167",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.359375"
+      },
+      "meta": {
+        "item_name": "Rope",
+        "monster_name": "Outlaw"
+      }
+    },
+    {
+      "id": "954-7119",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.05"
+      },
+      "meta": {
+        "item_name": "Rope",
+        "monster_name": "Maniacal Monkey Archer"
+      }
+    },
+    {
+      "id": "954-7118",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.05"
+      },
+      "meta": {
+        "item_name": "Rope",
+        "monster_name": "Maniacal monkey"
+      }
+    }
+  ]
+}

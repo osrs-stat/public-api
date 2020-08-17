@@ -1,0 +1,160 @@
+{
+  "data": {
+    "id": "1297",
+    "type": "item",
+    "attributes": {
+      "uuid": "e2cd07bf-cc00-4053-ae00-92e09f9eb24a",
+      "name": "Black longsword",
+      "members": false,
+      "release_date": "2001-12-08",
+      "examine": "A razor sharp longsword.",
+      "tradeable": false,
+      "ge_tradeable": false,
+      "lowalch": 384,
+      "highalch": 576,
+      "is_equip": true,
+      "is_weapon": true,
+      "icon_base64": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABD0lEQVR4Xu3WMQuCQBTA8RwdHG44ECfnpr5BW7T6KaJPUFBrtBbUHlHRFkXUEBW1RlG0RNFneeldpqec4z0h/3DocMOP9xzM5f4zDfhBj0MoIewgowKIjynYNjvRmwoSMWFQ9KaC5BgEUByDOJ1kTCpAGYaXYWTFMWFQ9LaC4qBUTSfD8DJMUnJQ9KaC5BhFIP+XU/zjQ8PUawYMBwTmM4qN8dKgXNIF1H5n/jAI340GjqNDtaJDsyGizicTng/rC1OaO6W8iyrq0O8RGI8CEMrKPMR2Y8L7ZcF0Qtn78WCyJ8rKuh0CywWF64UDwkf5dNotg03lfrPYmsIIxRg/DdYrylaEMBFZKOtJLlUYzD6w4UTVBqDMFgAAAABJRU5ErkJggg=="
+    },
+    "relationships": {
+      "equip": {
+        "data": {
+          "id": "7587ab61-3e65-445b-bf1d-9ccc861aab4e",
+          "type": "equip"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Black_longsword"
+    },
+    "meta": {
+      "incomplete": false
+    }
+  },
+  "included": [
+    {
+      "id": "7587ab61-3e65-445b-bf1d-9ccc861aab4e",
+      "type": "equip",
+      "attributes": {
+        "slot": "weapon",
+        "passive_effect": null,
+        "requirements": {
+          "attack_level": 10
+        }
+      },
+      "relationships": {
+        "equip_stat": {
+          "data": {
+            "id": "734cfbe4-9376-4505-85f5-0a6285b631c3",
+            "type": "equip_stat"
+          }
+        },
+        "attack_stat": {
+          "data": {
+            "id": "79b35d64-0594-4ca1-8e38-f30cabdadd88",
+            "type": "attack_stat"
+          }
+        }
+      }
+    },
+    {
+      "id": "79b35d64-0594-4ca1-8e38-f30cabdadd88",
+      "type": "attack_stat",
+      "attributes": {
+        "attack_speed": 5,
+        "attack_type": "slash_sword",
+        "special": null,
+        "stances": [
+          {
+            "name": "chop",
+            "style": "accurate",
+            "boosts": {
+              "accuracy": 3
+            },
+            "experience": {
+              "hitpoints": 1.3333,
+              "attack": 4
+            },
+            "combat_accuracy_stat": "attack_level",
+            "combat_damage_stat": "strength_level",
+            "equip_accuracy_stat": "slash_attack",
+            "equip_damage_stat": "slash_attack",
+            "target_equip_defense_stat": "slash_defense"
+          },
+          {
+            "name": "slash",
+            "style": "aggressive",
+            "boosts": {
+              "damage": 3
+            },
+            "experience": {
+              "hitpoints": 1.3333,
+              "strength": 4
+            },
+            "combat_accuracy_stat": "attack_level",
+            "combat_damage_stat": "strength_level",
+            "equip_accuracy_stat": "slash_attack",
+            "equip_damage_stat": "slash_attack",
+            "target_equip_defense_stat": "slash_defense"
+          },
+          {
+            "name": "lunge",
+            "style": "controlled",
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": {
+              "hitpoints": 1.3333,
+              "attack": 1.3333,
+              "strength": 1.3333,
+              "defense": 1.3333
+            },
+            "combat_accuracy_stat": "attack_level",
+            "combat_damage_stat": "strength_level",
+            "equip_accuracy_stat": "stab_attack",
+            "equip_damage_stat": "stab_attack",
+            "target_equip_defense_stat": "stab_defense"
+          },
+          {
+            "name": "block",
+            "style": "defensive",
+            "boosts": {
+              "defense": 3
+            },
+            "experience": {
+              "hitpoints": 1.3333,
+              "defense": 4
+            },
+            "combat_accuracy_stat": "attack_level",
+            "combat_damage_stat": "strength_level",
+            "equip_accuracy_stat": "slash_attack",
+            "equip_damage_stat": "slash_attack",
+            "target_equip_defense_stat": "slash_defense"
+          }
+        ]
+      }
+    },
+    {
+      "id": "734cfbe4-9376-4505-85f5-0a6285b631c3",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 13,
+        "slash_attack": 18,
+        "crush_attack": -2,
+        "ranged_attack": 0,
+        "magic_attack": 0,
+        "stab_defense": 0,
+        "slash_defense": 3,
+        "crush_defense": 2,
+        "ranged_defense": 0,
+        "magic_defense": 0,
+        "melee_strength": 16,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

@@ -1,0 +1,980 @@
+{
+  "data": [
+    {
+      "id": "9194-8060",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": 10,
+        "rarity": "0.0266666666666667"
+      },
+      "meta": {
+        "item_name": "Onyx bolt tips",
+        "monster_name": "Vorkath (Dragon Slayer II)"
+      }
+    },
+    {
+      "id": "995-8060",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 20000,
+        "quantity_max": 81000,
+        "rarity": "0.0333333333333333"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Vorkath (Dragon Slayer II)"
+      }
+    },
+    {
+      "id": "22871-8060",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00032"
+      },
+      "meta": {
+        "item_name": "Redwood tree seed",
+        "monster_name": "Vorkath (Dragon Slayer II)"
+      }
+    },
+    {
+      "id": "22869-8060",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00032"
+      },
+      "meta": {
+        "item_name": "Celastrus seed",
+        "monster_name": "Vorkath (Dragon Slayer II)"
+      }
+    },
+    {
+      "id": "22877-8060",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000479961603071754"
+      },
+      "meta": {
+        "item_name": "Dragonfruit tree seed",
+        "monster_name": "Vorkath (Dragon Slayer II)"
+      }
+    },
+    {
+      "id": "5317-8060",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00064"
+      },
+      "meta": {
+        "item_name": "Spirit seed",
+        "monster_name": "Vorkath (Dragon Slayer II)"
+      }
+    },
+    {
+      "id": "5289-8060",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0008"
+      },
+      "meta": {
+        "item_name": "Palm tree seed",
+        "monster_name": "Vorkath (Dragon Slayer II)"
+      }
+    },
+    {
+      "id": "5316-8060",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000960153624579933"
+      },
+      "meta": {
+        "item_name": "Magic seed",
+        "monster_name": "Vorkath (Dragon Slayer II)"
+      }
+    },
+    {
+      "id": "5288-8060",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00111982082866741"
+      },
+      "meta": {
+        "item_name": "Papaya tree seed",
+        "monster_name": "Vorkath (Dragon Slayer II)"
+      }
+    },
+    {
+      "id": "5315-8060",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00143988480921526"
+      },
+      "meta": {
+        "item_name": "Yew seed",
+        "monster_name": "Vorkath (Dragon Slayer II)"
+      }
+    },
+    {
+      "id": "21486-8060",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00143988480921526"
+      },
+      "meta": {
+        "item_name": "Teak seed",
+        "monster_name": "Vorkath (Dragon Slayer II)"
+      }
+    },
+    {
+      "id": "5314-8060",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00143988480921526"
+      },
+      "meta": {
+        "item_name": "Maple seed",
+        "monster_name": "Vorkath (Dragon Slayer II)"
+      }
+    },
+    {
+      "id": "21488-8060",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00143988480921526"
+      },
+      "meta": {
+        "item_name": "Mahogany seed",
+        "monster_name": "Vorkath (Dragon Slayer II)"
+      }
+    },
+    {
+      "id": "5313-8060",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0016"
+      },
+      "meta": {
+        "item_name": "Willow seed",
+        "monster_name": "Vorkath (Dragon Slayer II)"
+      }
+    },
+    {
+      "id": "5321-8060",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 15,
+        "quantity_max": null,
+        "rarity": "0.0016"
+      },
+      "meta": {
+        "item_name": "Watermelon seed",
+        "monster_name": "Vorkath (Dragon Slayer II)"
+      }
+    },
+    {
+      "id": "5304-8060",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00176056338028169"
+      },
+      "meta": {
+        "item_name": "Torstol seed",
+        "monster_name": "Vorkath (Dragon Slayer II)"
+      }
+    },
+    {
+      "id": "5300-8060",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00223989248516071"
+      },
+      "meta": {
+        "item_name": "Snapdragon seed",
+        "monster_name": "Vorkath (Dragon Slayer II)"
+      }
+    },
+    {
+      "id": "5295-8060",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00240009600384015"
+      },
+      "meta": {
+        "item_name": "Ranarr seed",
+        "monster_name": "Vorkath (Dragon Slayer II)"
+      }
+    },
+    {
+      "id": "22006-8060",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0002"
+      },
+      "meta": {
+        "item_name": "Skeletal visage",
+        "monster_name": "Vorkath (Dragon Slayer II)"
+      }
+    },
+    {
+      "id": "11286-8060",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0002"
+      },
+      "meta": {
+        "item_name": "Draconic visage",
+        "monster_name": "Vorkath (Dragon Slayer II)"
+      }
+    },
+    {
+      "id": "21992-8060",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000333333333333333"
+      },
+      "meta": {
+        "item_name": "Vorki",
+        "monster_name": "Vorkath (Dragon Slayer II)"
+      }
+    },
+    {
+      "id": "22106-8060",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000333333333333333"
+      },
+      "meta": {
+        "item_name": "Jar of decay",
+        "monster_name": "Vorkath (Dragon Slayer II)"
+      }
+    },
+    {
+      "id": "22111-8060",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.001"
+      },
+      "meta": {
+        "item_name": "Dragonbone necklace",
+        "monster_name": "Vorkath (Dragon Slayer II)"
+      }
+    },
+    {
+      "id": "12073-8060",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0153846153846154"
+      },
+      "meta": {
+        "item_name": "Clue scroll (elite)",
+        "monster_name": "Vorkath (Dragon Slayer II)"
+      }
+    },
+    {
+      "id": "23083-8060",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "-0.0378787878787879"
+      },
+      "meta": {
+        "item_name": "Brimstone key",
+        "monster_name": "Vorkath (Dragon Slayer II)"
+      }
+    },
+    {
+      "id": "2425-8060",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.02"
+      },
+      "meta": {
+        "item_name": "Vorkath's head",
+        "monster_name": "Vorkath (Dragon Slayer II)"
+      }
+    },
+    {
+      "id": "22118-8060",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.02"
+      },
+      "meta": {
+        "item_name": "Wrath talisman",
+        "monster_name": "Vorkath (Dragon Slayer II)"
+      }
+    },
+    {
+      "id": "1615-8060",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 2,
+        "quantity_max": 3,
+        "rarity": "0.02"
+      },
+      "meta": {
+        "item_name": "Dragonstone",
+        "monster_name": "Vorkath (Dragon Slayer II)"
+      }
+    },
+    {
+      "id": "1601-8060",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 10,
+        "quantity_max": 20,
+        "rarity": "0.0266666666666667"
+      },
+      "meta": {
+        "item_name": "Diamond",
+        "monster_name": "Vorkath (Dragon Slayer II)"
+      }
+    },
+    {
+      "id": "536-8060",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 15,
+        "quantity_max": 20,
+        "rarity": "0.0266666666666667"
+      },
+      "meta": {
+        "item_name": "Dragon bones",
+        "monster_name": "Vorkath (Dragon Slayer II)"
+      }
+    },
+    {
+      "id": "391-8060",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 35,
+        "quantity_max": 55,
+        "rarity": "0.0266666666666667"
+      },
+      "meta": {
+        "item_name": "Manta ray",
+        "monster_name": "Vorkath (Dragon Slayer II)"
+      }
+    },
+    {
+      "id": "1513-8060",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 50,
+        "quantity_max": null,
+        "rarity": "0.0333333333333333"
+      },
+      "meta": {
+        "item_name": "Magic logs",
+        "monster_name": "Vorkath (Dragon Slayer II)"
+      }
+    },
+    {
+      "id": "1987-8060",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 250,
+        "quantity_max": 300,
+        "rarity": "0.0333333333333333"
+      },
+      "meta": {
+        "item_name": "Grapes",
+        "monster_name": "Vorkath (Dragon Slayer II)"
+      }
+    },
+    {
+      "id": "449-8060",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 10,
+        "quantity_max": 30,
+        "rarity": "0.0466666666666667"
+      },
+      "meta": {
+        "item_name": "Adamantite ore",
+        "monster_name": "Vorkath (Dragon Slayer II)"
+      }
+    },
+    {
+      "id": "11237-8060",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 25,
+        "quantity_max": 50,
+        "rarity": "0.02"
+      },
+      "meta": {
+        "item_name": "Dragon arrowtips",
+        "monster_name": "Vorkath (Dragon Slayer II)"
+      }
+    },
+    {
+      "id": "11232-8060",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": 50,
+        "rarity": "0.04"
+      },
+      "meta": {
+        "item_name": "Dragon dart tip",
+        "monster_name": "Vorkath (Dragon Slayer II)"
+      }
+    },
+    {
+      "id": "824-8060",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 75,
+        "quantity_max": 100,
+        "rarity": "0.02"
+      },
+      "meta": {
+        "item_name": "Rune dart tip",
+        "monster_name": "Vorkath (Dragon Slayer II)"
+      }
+    },
+    {
+      "id": "9194-8060",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 25,
+        "quantity_max": 30,
+        "rarity": "0.0027027027027027"
+      },
+      "meta": {
+        "item_name": "Onyx bolt tips",
+        "monster_name": "Vorkath (Dragon Slayer II)"
+      }
+    },
+    {
+      "id": "9193-8060",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 25,
+        "quantity_max": 30,
+        "rarity": "0.00540540540540541"
+      },
+      "meta": {
+        "item_name": "Dragonstone bolt tips",
+        "monster_name": "Vorkath (Dragon Slayer II)"
+      }
+    },
+    {
+      "id": "9193-8060",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 11,
+        "quantity_max": 25,
+        "rarity": "0.0333333333333333"
+      },
+      "meta": {
+        "item_name": "Dragonstone bolt tips",
+        "monster_name": "Vorkath (Dragon Slayer II)"
+      }
+    },
+    {
+      "id": "9192-8060",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 25,
+        "quantity_max": 30,
+        "rarity": "0.00900900900900901"
+      },
+      "meta": {
+        "item_name": "Diamond bolt tips",
+        "monster_name": "Vorkath (Dragon Slayer II)"
+      }
+    },
+    {
+      "id": "9191-8060",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 25,
+        "quantity_max": 30,
+        "rarity": "0.00720720720720721"
+      },
+      "meta": {
+        "item_name": "Ruby bolt tips",
+        "monster_name": "Vorkath (Dragon Slayer II)"
+      }
+    },
+    {
+      "id": "9190-8060",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 25,
+        "quantity_max": 30,
+        "rarity": "0.00720720720720721"
+      },
+      "meta": {
+        "item_name": "Emerald bolt tips",
+        "monster_name": "Vorkath (Dragon Slayer II)"
+      }
+    },
+    {
+      "id": "9189-8060",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 25,
+        "quantity_max": 30,
+        "rarity": "0.0018018018018018"
+      },
+      "meta": {
+        "item_name": "Sapphire bolt tips",
+        "monster_name": "Vorkath (Dragon Slayer II)"
+      }
+    },
+    {
+      "id": "21930-8060",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 50,
+        "quantity_max": 100,
+        "rarity": "0.0533333333333333"
+      },
+      "meta": {
+        "item_name": "Dragon bolts (unf)",
+        "monster_name": "Vorkath (Dragon Slayer II)"
+      }
+    },
+    {
+      "id": "1747-8060",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 15,
+        "quantity_max": 25,
+        "rarity": "0.0466666666666667"
+      },
+      "meta": {
+        "item_name": "Black dragonhide",
+        "monster_name": "Vorkath (Dragon Slayer II)"
+      }
+    },
+    {
+      "id": "1749-8060",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 20,
+        "quantity_max": 25,
+        "rarity": "0.0466666666666667"
+      },
+      "meta": {
+        "item_name": "Red dragonhide",
+        "monster_name": "Vorkath (Dragon Slayer II)"
+      }
+    },
+    {
+      "id": "1753-8060",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 25,
+        "quantity_max": 30,
+        "rarity": "0.0466666666666667"
+      },
+      "meta": {
+        "item_name": "Green dragonhide",
+        "monster_name": "Vorkath (Dragon Slayer II)"
+      }
+    },
+    {
+      "id": "1751-8060",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 25,
+        "quantity_max": 30,
+        "rarity": "0.0533333333333333"
+      },
+      "meta": {
+        "item_name": "Blue dragonhide",
+        "monster_name": "Vorkath (Dragon Slayer II)"
+      }
+    },
+    {
+      "id": "21880-8060",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 30,
+        "quantity_max": 60,
+        "rarity": "0.02"
+      },
+      "meta": {
+        "item_name": "Wrath rune",
+        "monster_name": "Vorkath (Dragon Slayer II)"
+      }
+    },
+    {
+      "id": "560-8060",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 300,
+        "quantity_max": 500,
+        "rarity": "0.04"
+      },
+      "meta": {
+        "item_name": "Death rune (Regular)",
+        "monster_name": "Vorkath (Dragon Slayer II)"
+      }
+    },
+    {
+      "id": "562-8060",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 650,
+        "quantity_max": 1000,
+        "rarity": "0.04"
+      },
+      "meta": {
+        "item_name": "Chaos rune (Regular)",
+        "monster_name": "Vorkath (Dragon Slayer II)"
+      }
+    },
+    {
+      "id": "4585-8060",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0133333333333333"
+      },
+      "meta": {
+        "item_name": "Dragon plateskirt",
+        "monster_name": "Vorkath (Dragon Slayer II)"
+      }
+    },
+    {
+      "id": "4087-8060",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0133333333333333"
+      },
+      "meta": {
+        "item_name": "Dragon platelegs",
+        "monster_name": "Vorkath (Dragon Slayer II)"
+      }
+    },
+    {
+      "id": "1305-8060",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0133333333333333"
+      },
+      "meta": {
+        "item_name": "Dragon longsword",
+        "monster_name": "Vorkath (Dragon Slayer II)"
+      }
+    },
+    {
+      "id": "1377-8060",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0133333333333333"
+      },
+      "meta": {
+        "item_name": "Dragon battleaxe",
+        "monster_name": "Vorkath (Dragon Slayer II)"
+      }
+    },
+    {
+      "id": "1391-8060",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 5,
+        "quantity_max": 15,
+        "rarity": "0.0266666666666667"
+      },
+      "meta": {
+        "item_name": "Battlestaff",
+        "monster_name": "Vorkath (Dragon Slayer II)"
+      }
+    },
+    {
+      "id": "1201-8060",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": 3,
+        "rarity": "0.0333333333333333"
+      },
+      "meta": {
+        "item_name": "Rune kiteshield",
+        "monster_name": "Vorkath (Dragon Slayer II)"
+      }
+    },
+    {
+      "id": "1303-8060",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": 3,
+        "rarity": "0.0333333333333333"
+      },
+      "meta": {
+        "item_name": "Rune longsword",
+        "monster_name": "Vorkath (Dragon Slayer II)"
+      }
+    },
+    {
+      "id": "1751-8060",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Blue dragonhide",
+        "monster_name": "Vorkath (Dragon Slayer II)"
+      }
+    },
+    {
+      "id": "22124-8060",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Superior dragon bones",
+        "monster_name": "Vorkath (Dragon Slayer II)"
+      }
+    }
+  ]
+}

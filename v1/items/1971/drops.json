@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "1971-462",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.1015625"
+      },
+      "meta": {
+        "item_name": "Kebab",
+        "monster_name": "Small Lizard"
+      }
+    },
+    {
+      "id": "1971-2216",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.166666666666667"
+      },
+      "meta": {
+        "item_name": "Kebab",
+        "monster_name": "Sergeant Strongstack"
+      }
+    },
+    {
+      "id": "1971-458",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.1015625"
+      },
+      "meta": {
+        "item_name": "Kebab",
+        "monster_name": "Lizard"
+      }
+    },
+    {
+      "id": "1971-459",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.1015625"
+      },
+      "meta": {
+        "item_name": "Kebab",
+        "monster_name": "Desert Lizard"
+      }
+    }
+  ]
+}

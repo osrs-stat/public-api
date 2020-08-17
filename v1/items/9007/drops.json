@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "id": "9007-2483",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0297029702970297"
+      },
+      "meta": {
+        "item_name": "Right skull half",
+        "monster_name": "Minotaur (Level 27)"
+      }
+    },
+    {
+      "id": "9007-2481",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0297029702970297"
+      },
+      "meta": {
+        "item_name": "Right skull half",
+        "monster_name": "Minotaur (Level 12)"
+      }
+    }
+  ]
+}

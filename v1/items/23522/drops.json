@@ -1,0 +1,20 @@
+{
+  "data": [
+    {
+      "id": "23522-2145",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "forthos-dungeon-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.001"
+      },
+      "meta": {
+        "item_name": "Mask of ranul",
+        "monster_name": "Undead Druid"
+      }
+    }
+  ]
+}

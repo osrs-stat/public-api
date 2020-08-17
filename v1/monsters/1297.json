@@ -1,0 +1,117 @@
+{
+  "data": {
+    "id": "1297",
+    "type": "monster",
+    "attributes": {
+      "uuid": "766f80b4-325a-4838-801b-3e7a71018241",
+      "name": "Afflicted (Level 32)",
+      "members": true,
+      "release_date": "2004-10-18",
+      "examine": "A local villager of Mort'ton.",
+      "combat_level_override": null,
+      "max_hit_override": null,
+      "target_types": [
+
+      ],
+      "classification_types": [
+
+      ],
+      "poison": false,
+      "immune_poison": false,
+      "immune_venom": false,
+      "slayer_xp": null,
+      "slayer_level": null,
+      "slayer_masters": [
+
+      ],
+      "icon_base64": null
+    },
+    "relationships": {
+      "combat_stat": {
+        "data": {
+          "id": "9b3450d2-b159-4067-8e92-8588ef9a1f45",
+          "type": "combat_stat"
+        }
+      },
+      "equip_stat": {
+        "data": {
+          "id": "8d31386f-5a33-4c15-9920-66917c2f4340",
+          "type": "equip_stat"
+        }
+      },
+      "attack_stat": {
+        "data": {
+          "id": "c24c7bff-9761-489d-bb90-c6c127e90ce9",
+          "type": "attack_stat"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Afflicted#Level_32"
+    },
+    "meta": {
+      "incomplete": true
+    }
+  },
+  "included": [
+    {
+      "id": "c24c7bff-9761-489d-bb90-c6c127e90ce9",
+      "type": "attack_stat",
+      "attributes": {
+        "attack_speed": 4,
+        "attack_type": "monster",
+        "special": null,
+        "stances": [
+          {
+            "name": "Monster crush",
+            "style": null,
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": null,
+            "combat_accuracy_stat": "attack_level",
+            "combat_damage_stat": "strength_level",
+            "equip_accuracy_stat": "crush_attack",
+            "equip_damage_stat": "crush_attack",
+            "target_equip_defense_stat": "crush_defense"
+          }
+        ]
+      }
+    },
+    {
+      "id": "9b3450d2-b159-4067-8e92-8588ef9a1f45",
+      "type": "monster_combat_stat",
+      "attributes": {
+        "hitpoints_level": 26,
+        "attack_level": 26,
+        "strength_level": 26,
+        "defense_level": 36,
+        "magic_level": 1,
+        "ranged_level": 1,
+        "prayer_level": 0
+      }
+    },
+    {
+      "id": "8d31386f-5a33-4c15-9920-66917c2f4340",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 0,
+        "slash_attack": 0,
+        "crush_attack": 0,
+        "ranged_attack": 0,
+        "magic_attack": 0,
+        "stab_defense": 0,
+        "slash_defense": 0,
+        "crush_defense": 0,
+        "ranged_defense": 0,
+        "magic_defense": 0,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

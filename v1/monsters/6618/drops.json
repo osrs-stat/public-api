@@ -1,0 +1,564 @@
+{
+  "data": [
+    {
+      "id": "11990-6618",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Fedora",
+        "monster_name": "Crazy archaeologist"
+      }
+    },
+    {
+      "id": "6705-6618",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.0625"
+      },
+      "meta": {
+        "item_name": "Potato with cheese",
+        "monster_name": "Crazy archaeologist"
+      }
+    },
+    {
+      "id": "2434-6618",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0625"
+      },
+      "meta": {
+        "item_name": "Prayer potion (4 dose)",
+        "monster_name": "Crazy archaeologist"
+      }
+    },
+    {
+      "id": "2297-6618",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 8,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Anchovy pizza (Full)",
+        "monster_name": "Crazy archaeologist"
+      }
+    },
+    {
+      "id": "217-6618",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 4,
+        "quantity_max": null,
+        "rarity": "0.0625"
+      },
+      "meta": {
+        "item_name": "Grimy dwarf weed",
+        "monster_name": "Crazy archaeologist"
+      }
+    },
+    {
+      "id": "239-6618",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.046875"
+      },
+      "meta": {
+        "item_name": "White berries",
+        "monster_name": "Crazy archaeologist"
+      }
+    },
+    {
+      "id": "442-6618",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 40,
+        "quantity_max": null,
+        "rarity": "0.046875"
+      },
+      "meta": {
+        "item_name": "Silver ore",
+        "monster_name": "Crazy archaeologist"
+      }
+    },
+    {
+      "id": "1621-6618",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 6,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Uncut emerald",
+        "monster_name": "Crazy archaeologist"
+      }
+    },
+    {
+      "id": "1623-6618",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 4,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Uncut sapphire",
+        "monster_name": "Crazy archaeologist"
+      }
+    },
+    {
+      "id": "1749-6618",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Red dragonhide",
+        "monster_name": "Crazy archaeologist"
+      }
+    },
+    {
+      "id": "686-6618",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Rusty sword",
+        "monster_name": "Crazy archaeologist"
+      }
+    },
+    {
+      "id": "11212-6618",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 75,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Dragon arrow (Unpoisoned)",
+        "monster_name": "Crazy archaeologist"
+      }
+    },
+    {
+      "id": "2-6618",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 150,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Cannonball",
+        "monster_name": "Crazy archaeologist"
+      }
+    },
+    {
+      "id": "526-6618",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Bones",
+        "monster_name": "Crazy archaeologist"
+      }
+    },
+    {
+      "id": "11929-6618",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00390625"
+      },
+      "meta": {
+        "item_name": "Odium shard 2",
+        "monster_name": "Crazy archaeologist"
+      }
+    },
+    {
+      "id": "11932-6618",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00390625"
+      },
+      "meta": {
+        "item_name": "Malediction shard 2",
+        "monster_name": "Crazy archaeologist"
+      }
+    },
+    {
+      "id": "991-6618",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Muddy key",
+        "monster_name": "Crazy archaeologist"
+      }
+    },
+    {
+      "id": "1731-6618",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0546875"
+      },
+      "meta": {
+        "item_name": "Amulet of power",
+        "monster_name": "Crazy archaeologist"
+      }
+    },
+    {
+      "id": "9185-6618",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Rune crossbow",
+        "monster_name": "Crazy archaeologist"
+      }
+    },
+    {
+      "id": "4698-6618",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 30,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Mud rune",
+        "monster_name": "Crazy archaeologist"
+      }
+    },
+    {
+      "id": "868-6618",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Rune knife (Unpoisoned)",
+        "monster_name": "Crazy archaeologist"
+      }
+    },
+    {
+      "id": "21257-6618",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00714285714285714"
+      },
+      "meta": {
+        "item_name": "Slayer's enchantment",
+        "monster_name": "Crazy archaeologist"
+      }
+    },
+    {
+      "id": "23490-6618",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0131578947368421"
+      },
+      "meta": {
+        "item_name": "Larran's key",
+        "monster_name": "Crazy archaeologist"
+      }
+    },
+    {
+      "id": "9194-6618",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 12,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Onyx bolt tips",
+        "monster_name": "Crazy archaeologist"
+      }
+    },
+    {
+      "id": "10976-6618",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Long bone",
+        "monster_name": "Crazy archaeologist"
+      }
+    },
+    {
+      "id": "11932-6618",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Malediction shard 2",
+        "monster_name": "Crazy archaeologist"
+      }
+    },
+    {
+      "id": "385-6618",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0625"
+      },
+      "meta": {
+        "item_name": "Shark",
+        "monster_name": "Crazy archaeologist"
+      }
+    },
+    {
+      "id": "11929-6618",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Odium shard 2",
+        "monster_name": "Crazy archaeologist"
+      }
+    },
+    {
+      "id": "6691-6618",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.2"
+      },
+      "meta": {
+        "item_name": "Saradomin brew (1 dose)",
+        "monster_name": "Crazy archaeologist"
+      }
+    },
+    {
+      "id": "6685-6618",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.2"
+      },
+      "meta": {
+        "item_name": "Saradomin brew (4 dose)",
+        "monster_name": "Crazy archaeologist"
+      }
+    },
+    {
+      "id": "2722-6618",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Clue scroll (hard)",
+        "monster_name": "Crazy archaeologist"
+      }
+    },
+    {
+      "id": "23083-6618",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0126262626262626"
+      },
+      "meta": {
+        "item_name": "Brimstone key",
+        "monster_name": "Crazy archaeologist"
+      }
+    },
+    {
+      "id": "11941-6618",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Crazy archaeologist"
+      }
+    },
+    {
+      "id": "2501-6618",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Red d'hide body",
+        "monster_name": "Crazy archaeologist"
+      }
+    },
+    {
+      "id": "995-6618",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 499,
+        "quantity_max": 3998,
+        "rarity": "0.140625"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Crazy archaeologist"
+      }
+    }
+  ]
+}

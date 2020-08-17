@@ -1,0 +1,884 @@
+{
+  "data": [
+    {
+      "id": "559-590",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 6,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Body rune",
+        "monster_name": "Zombie pirate (27)"
+      }
+    },
+    {
+      "id": "217-590",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00549273494258261"
+      },
+      "meta": {
+        "item_name": "Grimy dwarf weed",
+        "monster_name": "Zombie pirate (27)"
+      }
+    },
+    {
+      "id": "207-590",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0201353092783505"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Zombie pirate (27)"
+      }
+    },
+    {
+      "id": "209-590",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0146484375"
+      },
+      "meta": {
+        "item_name": "Grimy irit leaf",
+        "monster_name": "Zombie pirate (27)"
+      }
+    },
+    {
+      "id": "211-590",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0109880450070323"
+      },
+      "meta": {
+        "item_name": "Grimy avantoe",
+        "monster_name": "Zombie pirate (27)"
+      }
+    },
+    {
+      "id": "213-590",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0091552734375"
+      },
+      "meta": {
+        "item_name": "Grimy kwuarm",
+        "monster_name": "Zombie pirate (27)"
+      }
+    },
+    {
+      "id": "215-590",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00732421875"
+      },
+      "meta": {
+        "item_name": "Grimy cadantine",
+        "monster_name": "Zombie pirate (27)"
+      }
+    },
+    {
+      "id": "2485-590",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00549273494258261"
+      },
+      "meta": {
+        "item_name": "Grimy lantadyme",
+        "monster_name": "Zombie pirate (27)"
+      }
+    },
+    {
+      "id": "205-590",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0256343650880455"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Zombie pirate (27)"
+      }
+    },
+    {
+      "id": "203-590",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0329594993671776"
+      },
+      "meta": {
+        "item_name": "Grimy tarromin",
+        "monster_name": "Zombie pirate (27)"
+      }
+    },
+    {
+      "id": "201-590",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0439480592537034"
+      },
+      "meta": {
+        "item_name": "Grimy marrentill",
+        "monster_name": "Zombie pirate (27)"
+      }
+    },
+    {
+      "id": "199-590",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.05859375"
+      },
+      "meta": {
+        "item_name": "Grimy guam leaf",
+        "monster_name": "Zombie pirate (27)"
+      }
+    },
+    {
+      "id": "6807-590",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0002"
+      },
+      "meta": {
+        "item_name": "Zombie champion scroll",
+        "monster_name": "Zombie pirate (27)"
+      }
+    },
+    {
+      "id": "7863-590",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.25"
+      },
+      "meta": {
+        "item_name": "Zombie bone (Unpolished)",
+        "monster_name": "Zombie pirate (27)"
+      }
+    },
+    {
+      "id": "7157-590",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Braindeath 'rum'",
+        "monster_name": "Zombie pirate (27)"
+      }
+    },
+    {
+      "id": "6721-590",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Rusty scimitar",
+        "monster_name": "Zombie pirate (27)"
+      }
+    },
+    {
+      "id": "313-590",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.171875"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie pirate (27)"
+      }
+    },
+    {
+      "id": "563-590",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Law rune",
+        "monster_name": "Zombie pirate (27)"
+      }
+    },
+    {
+      "id": "564-590",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Cosmic rune",
+        "monster_name": "Zombie pirate (27)"
+      }
+    },
+    {
+      "id": "562-590",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 7,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Chaos rune (Regular)",
+        "monster_name": "Zombie pirate (27)"
+      }
+    },
+    {
+      "id": "555-590",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 23,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Water rune (Regular)",
+        "monster_name": "Zombie pirate (27)"
+      }
+    },
+    {
+      "id": "1329-590",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Mithril scimitar",
+        "monster_name": "Zombie pirate (27)"
+      }
+    },
+    {
+      "id": "1025-590",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Right eye patch",
+        "monster_name": "Zombie pirate (27)"
+      }
+    },
+    {
+      "id": "8925-590",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Bandana eyepatch (red)",
+        "monster_name": "Zombie pirate (27)"
+      }
+    },
+    {
+      "id": "8926-590",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Bandana eyepatch (blue)",
+        "monster_name": "Zombie pirate (27)"
+      }
+    },
+    {
+      "id": "1209-590",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Mithril dagger (Unpoisoned)",
+        "monster_name": "Zombie pirate (27)"
+      }
+    },
+    {
+      "id": "9141-590",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": 12,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Steel bolts (Unpoisoned)",
+        "monster_name": "Zombie pirate (27)"
+      }
+    },
+    {
+      "id": "526-590",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Bones",
+        "monster_name": "Zombie pirate (27)"
+      }
+    },
+    {
+      "id": "6807-590",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0002"
+      },
+      "meta": {
+        "item_name": "Zombie champion scroll",
+        "monster_name": "Zombie pirate (27)"
+      }
+    },
+    {
+      "id": "7863-590",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.25"
+      },
+      "meta": {
+        "item_name": "Zombie bone (Unpolished)",
+        "monster_name": "Zombie pirate (27)"
+      }
+    },
+    {
+      "id": "6721-590",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Rusty scimitar",
+        "monster_name": "Zombie pirate (27)"
+      }
+    },
+    {
+      "id": "1025-590",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Right eye patch",
+        "monster_name": "Zombie pirate (27)"
+      }
+    },
+    {
+      "id": "440-590",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Iron ore",
+        "monster_name": "Zombie pirate (27)"
+      }
+    },
+    {
+      "id": "6716-590",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Karamthulhu",
+        "monster_name": "Zombie pirate (27)"
+      }
+    },
+    {
+      "id": "313-590",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie pirate (27)"
+      }
+    },
+    {
+      "id": "313-590",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 7,
+        "quantity_max": null,
+        "rarity": "0.1640625"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie pirate (27)"
+      }
+    },
+    {
+      "id": "562-590",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 4,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Chaos rune (Regular)",
+        "monster_name": "Zombie pirate (27)"
+      }
+    },
+    {
+      "id": "555-590",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 17,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Water rune (Regular)",
+        "monster_name": "Zombie pirate (27)"
+      }
+    },
+    {
+      "id": "559-590",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Body rune",
+        "monster_name": "Zombie pirate (27)"
+      }
+    },
+    {
+      "id": "564-590",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Cosmic rune",
+        "monster_name": "Zombie pirate (27)"
+      }
+    },
+    {
+      "id": "556-590",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Air rune (Regular)",
+        "monster_name": "Zombie pirate (27)"
+      }
+    },
+    {
+      "id": "877-590",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": 12,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Bronze bolts (Unpoisoned)",
+        "monster_name": "Zombie pirate (27)"
+      }
+    },
+    {
+      "id": "1203-590",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Iron dagger (Unpoisoned)",
+        "monster_name": "Zombie pirate (27)"
+      }
+    },
+    {
+      "id": "1325-590",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Steel scimitar",
+        "monster_name": "Zombie pirate (27)"
+      }
+    },
+    {
+      "id": "526-590",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Bones",
+        "monster_name": "Zombie pirate (27)"
+      }
+    },
+    {
+      "id": "995-590",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 55,
+        "quantity_max": null,
+        "rarity": "0.046875"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Zombie pirate (27)"
+      }
+    },
+    {
+      "id": "995-590",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 38,
+        "quantity_max": null,
+        "rarity": "0.1640625"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Zombie pirate (27)"
+      }
+    },
+    {
+      "id": "995-590",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 18,
+        "quantity_max": null,
+        "rarity": "0.1640625"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Zombie pirate (27)"
+      }
+    },
+    {
+      "id": "995-590",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.078125"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Zombie pirate (27)"
+      }
+    },
+    {
+      "id": "995-590",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 26,
+        "quantity_max": null,
+        "rarity": "0.0625"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Zombie pirate (27)"
+      }
+    },
+    {
+      "id": "995-590",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 35,
+        "quantity_max": null,
+        "rarity": "0.046875"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Zombie pirate (27)"
+      }
+    },
+    {
+      "id": "995-590",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 40,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Zombie pirate (27)"
+      }
+    },
+    {
+      "id": "995-590",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 30,
+        "quantity_max": null,
+        "rarity": "0.078125"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Zombie pirate (27)"
+      }
+    },
+    {
+      "id": "995-590",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 60,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Zombie pirate (27)"
+      }
+    },
+    {
+      "id": "995-590",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 46,
+        "quantity_max": null,
+        "rarity": "0.0625"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Zombie pirate (27)"
+      }
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "data": [
+    {
+      "id": "564-6741",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Cosmic rune",
+        "monster_name": "Zombie (Sepulcher of Death)"
+      }
+    },
+    {
+      "id": "532-6741",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 7,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Big bones",
+        "monster_name": "Zombie (Sepulcher of Death)"
+      }
+    },
+    {
+      "id": "313-6741",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 27,
+        "quantity_max": null,
+        "rarity": "0.125"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie (Sepulcher of Death)"
+      }
+    },
+    {
+      "id": "562-6741",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 35,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Chaos rune (Regular)",
+        "monster_name": "Zombie (Sepulcher of Death)"
+      }
+    },
+    {
+      "id": "556-6741",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 40,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Air rune (Regular)",
+        "monster_name": "Zombie (Sepulcher of Death)"
+      }
+    },
+    {
+      "id": "995-6741",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 26,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Zombie (Sepulcher of Death)"
+      }
+    }
+  ]
+}

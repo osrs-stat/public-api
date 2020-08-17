@@ -1,0 +1,308 @@
+{
+  "data": [
+    {
+      "id": "9075-9258",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 15,
+        "quantity_max": 35,
+        "rarity": "0.115384615384615"
+      },
+      "meta": {
+        "item_name": "Astral rune",
+        "monster_name": "Basilisk Sentinel"
+      }
+    },
+    {
+      "id": "9075-8621",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 150,
+        "quantity_max": 300,
+        "rarity": "0.0594059405940594"
+      },
+      "meta": {
+        "item_name": "Astral rune",
+        "monster_name": "Alchemical Hydra (Two heads)"
+      }
+    },
+    {
+      "id": "9075-8618",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 150,
+        "quantity_max": 300,
+        "rarity": "0.0594059405940594"
+      },
+      "meta": {
+        "item_name": "Astral rune",
+        "monster_name": "Alchemical Hydra (Three heads)"
+      }
+    },
+    {
+      "id": "9075-2212",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 15,
+        "quantity_max": null,
+        "rarity": "0.0703125"
+      },
+      "meta": {
+        "item_name": "Astral rune",
+        "monster_name": "Spiritual mage (Saradomin)"
+      }
+    },
+    {
+      "id": "9075-2244",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 15,
+        "quantity_max": null,
+        "rarity": "0.0703125"
+      },
+      "meta": {
+        "item_name": "Astral rune",
+        "monster_name": "Spiritual mage (Bandos)"
+      }
+    },
+    {
+      "id": "9075-3161",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 15,
+        "quantity_max": null,
+        "rarity": "0.0703125"
+      },
+      "meta": {
+        "item_name": "Astral rune",
+        "monster_name": "Spiritual mage (Zamorak)"
+      }
+    },
+    {
+      "id": "9075-3168",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 15,
+        "quantity_max": null,
+        "rarity": "0.0703125"
+      },
+      "meta": {
+        "item_name": "Astral rune",
+        "monster_name": "Spiritual mage (Armadyl)"
+      }
+    },
+    {
+      "id": "9075-6442",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Astral rune",
+        "monster_name": "Skeleton (Tarn's Lair) (Level 77)"
+      }
+    },
+    {
+      "id": "9075-6443",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Astral rune",
+        "monster_name": "Skeleton (Tarn's Lair) (Level 81)"
+      }
+    },
+    {
+      "id": "9075-6444",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Astral rune",
+        "monster_name": "Skeleton (Tarn's Lair) (Level 42 (Sword))"
+      }
+    },
+    {
+      "id": "9075-6445",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Astral rune",
+        "monster_name": "Skeleton (Tarn's Lair) (Level 59)"
+      }
+    },
+    {
+      "id": "9075-6446",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Astral rune",
+        "monster_name": "Skeleton (Tarn's Lair) (Level 42 (Hammer))"
+      }
+    },
+    {
+      "id": "9075-6447",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Astral rune",
+        "monster_name": "Skeleton (Tarn's Lair) (Level 63)"
+      }
+    },
+    {
+      "id": "9075-6448",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Astral rune",
+        "monster_name": "Skeleton (Tarn's Lair) (Level 40)"
+      }
+    },
+    {
+      "id": "9075-6467",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Astral rune",
+        "monster_name": "Skeleton (Tarn's Lair) (Level 72)"
+      }
+    },
+    {
+      "id": "9075-6468",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Astral rune",
+        "monster_name": "Skeleton (Tarn's Lair) (Level 87)"
+      }
+    },
+    {
+      "id": "9075-8615",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 150,
+        "quantity_max": 300,
+        "rarity": "0.0594059405940594"
+      },
+      "meta": {
+        "item_name": "Astral rune",
+        "monster_name": "Alchemical Hydra (Five heads)"
+      }
+    },
+    {
+      "id": "9075-8617",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 150,
+        "quantity_max": 300,
+        "rarity": "0.0594059405940594"
+      },
+      "meta": {
+        "item_name": "Astral rune",
+        "monster_name": "Alchemical Hydra (Four heads)"
+      }
+    },
+    {
+      "id": "9075-9293",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 15,
+        "quantity_max": 35,
+        "rarity": "0.115384615384615"
+      },
+      "meta": {
+        "item_name": "Astral rune",
+        "monster_name": "Basilisk Knight"
+      }
+    }
+  ]
+}

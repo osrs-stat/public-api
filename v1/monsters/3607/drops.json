@@ -1,0 +1,84 @@
+{
+  "data": [
+    {
+      "id": "2134-3607",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Raw rat meat",
+        "monster_name": "Dungeon rat (Small)"
+      }
+    },
+    {
+      "id": "23182-3607",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Clue scroll (beginner)",
+        "monster_name": "Dungeon rat (Small)"
+      }
+    },
+    {
+      "id": "526-3607",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Bones",
+        "monster_name": "Dungeon rat (Small)"
+      }
+    },
+    {
+      "id": "526-3607",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Bones",
+        "monster_name": "Dungeon rat (Small)"
+      }
+    },
+    {
+      "id": "7824-3607",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Giant rat bone (Unpolished)",
+        "monster_name": "Dungeon rat (Small)"
+      }
+    }
+  ]
+}

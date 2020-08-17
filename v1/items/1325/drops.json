@@ -1,0 +1,964 @@
+{
+  "data": [
+    {
+      "id": "1325-622",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Steel scimitar",
+        "monster_name": "Zombie swab (4)"
+      }
+    },
+    {
+      "id": "1325-624",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Steel scimitar",
+        "monster_name": "Zombie swab (6)"
+      }
+    },
+    {
+      "id": "1325-957",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Steel scimitar",
+        "monster_name": "Kalphite Soldier"
+      }
+    },
+    {
+      "id": "1325-1537",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Steel scimitar",
+        "monster_name": "Skeleton hero"
+      }
+    },
+    {
+      "id": "1325-1538",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Steel scimitar",
+        "monster_name": "Skeleton brute"
+      }
+    },
+    {
+      "id": "1325-1539",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Steel scimitar",
+        "monster_name": "Skeleton warlord"
+      }
+    },
+    {
+      "id": "1325-1540",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Steel scimitar",
+        "monster_name": "Skeleton heavy"
+      }
+    },
+    {
+      "id": "1325-1541",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Steel scimitar",
+        "monster_name": "Skeleton thug"
+      }
+    },
+    {
+      "id": "1325-2005",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Steel scimitar",
+        "monster_name": "Lesser demon (Level 82)"
+      }
+    },
+    {
+      "id": "1325-2593",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0625"
+      },
+      "meta": {
+        "item_name": "Steel scimitar",
+        "monster_name": "Werewolf (Level 88)"
+      }
+    },
+    {
+      "id": "1325-3135",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0625"
+      },
+      "meta": {
+        "item_name": "Steel scimitar",
+        "monster_name": "Werewolf (Level 93)"
+      }
+    },
+    {
+      "id": "1325-3138",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Steel scimitar",
+        "monster_name": "Bloodveld (God Wars)"
+      }
+    },
+    {
+      "id": "1325-5563",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Steel scimitar",
+        "monster_name": "Angry barbarian spirit"
+      }
+    },
+    {
+      "id": "1325-5564",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Steel scimitar",
+        "monster_name": "Enraged barbarian spirit"
+      }
+    },
+    {
+      "id": "1325-5565",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Steel scimitar",
+        "monster_name": "Berserk barbarian spirit"
+      }
+    },
+    {
+      "id": "1325-6440",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.125"
+      },
+      "meta": {
+        "item_name": "Steel scimitar",
+        "monster_name": "Giant skeleton (Shadow Dungeon)"
+      }
+    },
+    {
+      "id": "1325-7118",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.1"
+      },
+      "meta": {
+        "item_name": "Steel scimitar",
+        "monster_name": "Maniacal monkey"
+      }
+    },
+    {
+      "id": "1325-7119",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.1"
+      },
+      "meta": {
+        "item_name": "Steel scimitar",
+        "monster_name": "Maniacal Monkey Archer"
+      }
+    },
+    {
+      "id": "1325-7247",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Steel scimitar",
+        "monster_name": "Lesser demon (Level 87)"
+      }
+    },
+    {
+      "id": "1325-7248",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Steel scimitar",
+        "monster_name": "Lesser demon (Level 94)"
+      }
+    },
+    {
+      "id": "1325-7397",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Steel scimitar",
+        "monster_name": "Insatiable Bloodveld"
+      }
+    },
+    {
+      "id": "1325-7418",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.04"
+      },
+      "meta": {
+        "item_name": "Steel scimitar",
+        "monster_name": "Zamorak warrior (Level 84)"
+      }
+    },
+    {
+      "id": "1325-7419",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.04"
+      },
+      "meta": {
+        "item_name": "Steel scimitar",
+        "monster_name": "Zamorak warrior (Level 85)"
+      }
+    },
+    {
+      "id": "1325-7865",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Steel scimitar",
+        "monster_name": "Lesser demon (Level 94 (Revenant Caves))"
+      }
+    },
+    {
+      "id": "1325-588",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Steel scimitar",
+        "monster_name": "Zombie pirate (26)"
+      }
+    },
+    {
+      "id": "1325-586",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Steel scimitar",
+        "monster_name": "Zombie pirate (25)"
+      }
+    },
+    {
+      "id": "1325-584",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Steel scimitar",
+        "monster_name": "Zombie pirate (24)"
+      }
+    },
+    {
+      "id": "1325-582",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Steel scimitar",
+        "monster_name": "Zombie pirate (23)"
+      }
+    },
+    {
+      "id": "1325-581",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Steel scimitar",
+        "monster_name": "Zombie pirate (22)"
+      }
+    },
+    {
+      "id": "1325-580",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Steel scimitar",
+        "monster_name": "Zombie pirate (21)"
+      }
+    },
+    {
+      "id": "1325-579",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Steel scimitar",
+        "monster_name": "Zombie pirate (20)"
+      }
+    },
+    {
+      "id": "1325-578",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Steel scimitar",
+        "monster_name": "Zombie pirate (19)"
+      }
+    },
+    {
+      "id": "1325-577",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Steel scimitar",
+        "monster_name": "Zombie pirate (18)"
+      }
+    },
+    {
+      "id": "1325-576",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Steel scimitar",
+        "monster_name": "Zombie pirate (1)"
+      }
+    },
+    {
+      "id": "1325-575",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Steel scimitar",
+        "monster_name": "Zombie pirate (17)"
+      }
+    },
+    {
+      "id": "1325-574",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Steel scimitar",
+        "monster_name": "Zombie pirate (15)"
+      }
+    },
+    {
+      "id": "1325-573",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Steel scimitar",
+        "monster_name": "Zombie pirate (14)"
+      }
+    },
+    {
+      "id": "1325-572",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Steel scimitar",
+        "monster_name": "Zombie pirate (13)"
+      }
+    },
+    {
+      "id": "1325-571",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Steel scimitar",
+        "monster_name": "Zombie pirate (12)"
+      }
+    },
+    {
+      "id": "1325-569",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Steel scimitar",
+        "monster_name": "Zombie pirate (11)"
+      }
+    },
+    {
+      "id": "1325-568",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Steel scimitar",
+        "monster_name": "Zombie pirate (10)"
+      }
+    },
+    {
+      "id": "1325-567",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Steel scimitar",
+        "monster_name": "Zombie pirate (9)"
+      }
+    },
+    {
+      "id": "1325-565",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Steel scimitar",
+        "monster_name": "Zombie pirate (8)"
+      }
+    },
+    {
+      "id": "1325-563",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Steel scimitar",
+        "monster_name": "Zombie pirate (7)"
+      }
+    },
+    {
+      "id": "1325-484",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Steel scimitar",
+        "monster_name": "Bloodveld (Standard)"
+      }
+    },
+    {
+      "id": "1325-590",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Steel scimitar",
+        "monster_name": "Zombie pirate (27)"
+      }
+    },
+    {
+      "id": "1325-592",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Steel scimitar",
+        "monster_name": "Zombie pirate (28)"
+      }
+    },
+    {
+      "id": "1325-593",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Steel scimitar",
+        "monster_name": "Zombie pirate (29)"
+      }
+    },
+    {
+      "id": "1325-595",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Steel scimitar",
+        "monster_name": "Zombie pirate (30)"
+      }
+    },
+    {
+      "id": "1325-597",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Steel scimitar",
+        "monster_name": "Zombie pirate (31)"
+      }
+    },
+    {
+      "id": "1325-599",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Steel scimitar",
+        "monster_name": "Zombie pirate (32)"
+      }
+    },
+    {
+      "id": "1325-614",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Steel scimitar",
+        "monster_name": "Zombie pirate (2)"
+      }
+    },
+    {
+      "id": "1325-615",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Steel scimitar",
+        "monster_name": "Zombie pirate (3)"
+      }
+    },
+    {
+      "id": "1325-616",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Steel scimitar",
+        "monster_name": "Zombie pirate (4)"
+      }
+    },
+    {
+      "id": "1325-617",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Steel scimitar",
+        "monster_name": "Zombie pirate (5)"
+      }
+    },
+    {
+      "id": "1325-618",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Steel scimitar",
+        "monster_name": "Zombie pirate (6)"
+      }
+    },
+    {
+      "id": "1325-619",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Steel scimitar",
+        "monster_name": "Zombie swab (1)"
+      }
+    },
+    {
+      "id": "1325-620",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Steel scimitar",
+        "monster_name": "Zombie swab (2)"
+      }
+    },
+    {
+      "id": "1325-621",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Steel scimitar",
+        "monster_name": "Zombie swab (3)"
+      }
+    },
+    {
+      "id": "1325-623",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Steel scimitar",
+        "monster_name": "Zombie swab (5)"
+      }
+    }
+  ]
+}

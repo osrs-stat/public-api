@@ -1,0 +1,117 @@
+{
+  "data": {
+    "id": "7649",
+    "type": "monster",
+    "attributes": {
+      "uuid": "761c8734-7013-4104-bc66-6be512b562ef",
+      "name": "Chaotic death spawn (Magic)",
+      "members": true,
+      "release_date": "2016-09-15",
+      "examine": "A chaotic death spawn.",
+      "combat_level_override": null,
+      "max_hit_override": 7,
+      "target_types": [
+
+      ],
+      "classification_types": [
+
+      ],
+      "poison": false,
+      "immune_poison": false,
+      "immune_venom": false,
+      "slayer_xp": null,
+      "slayer_level": null,
+      "slayer_masters": [
+
+      ],
+      "icon_base64": null
+    },
+    "relationships": {
+      "combat_stat": {
+        "data": {
+          "id": "1dea475d-bc9f-450f-b3d5-c59408a692d0",
+          "type": "combat_stat"
+        }
+      },
+      "equip_stat": {
+        "data": {
+          "id": "82b0ad22-99ef-48c4-a7f7-67634126c223",
+          "type": "equip_stat"
+        }
+      },
+      "attack_stat": {
+        "data": {
+          "id": "c1f7a73e-d505-44b4-b2f2-3e69ce3c8d5b",
+          "type": "attack_stat"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Chaotic_death_spawn#Magic"
+    },
+    "meta": {
+      "incomplete": true
+    }
+  },
+  "included": [
+    {
+      "id": "c1f7a73e-d505-44b4-b2f2-3e69ce3c8d5b",
+      "type": "attack_stat",
+      "attributes": {
+        "attack_speed": 3,
+        "attack_type": "monster",
+        "special": null,
+        "stances": [
+          {
+            "name": "Monster magic",
+            "style": null,
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": null,
+            "combat_accuracy_stat": "magic_level",
+            "combat_damage_stat": "magic_level",
+            "equip_accuracy_stat": "magic_attack",
+            "equip_damage_stat": "magic_attack",
+            "target_equip_defense_stat": "magic_defense"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1dea475d-bc9f-450f-b3d5-c59408a692d0",
+      "type": "monster_combat_stat",
+      "attributes": {
+        "hitpoints_level": 50,
+        "attack_level": 380,
+        "strength_level": 1,
+        "defense_level": 70,
+        "magic_level": 380,
+        "ranged_level": 380,
+        "prayer_level": 0
+      }
+    },
+    {
+      "id": "82b0ad22-99ef-48c4-a7f7-67634126c223",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 0,
+        "slash_attack": 0,
+        "crush_attack": 0,
+        "ranged_attack": 0,
+        "magic_attack": 0,
+        "stab_defense": 0,
+        "slash_defense": 0,
+        "crush_defense": 0,
+        "ranged_defense": 0,
+        "magic_defense": 0,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

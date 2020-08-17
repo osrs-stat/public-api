@@ -1,0 +1,612 @@
+{
+  "data": [
+    {
+      "id": "4125-7398",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Black boots",
+        "monster_name": "Insatiable mutated Bloodveld"
+      }
+    },
+    {
+      "id": "2722-7398",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.078125"
+      },
+      "meta": {
+        "item_name": "Clue scroll (hard)",
+        "monster_name": "Insatiable mutated Bloodveld"
+      }
+    },
+    {
+      "id": "23083-7398",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0194099378881988"
+      },
+      "meta": {
+        "item_name": "Brimstone key",
+        "monster_name": "Insatiable mutated Bloodveld"
+      }
+    },
+    {
+      "id": "1698-7398",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Ruby amulet",
+        "monster_name": "Insatiable mutated Bloodveld"
+      }
+    },
+    {
+      "id": "2359-7398",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Mithril bar",
+        "monster_name": "Insatiable mutated Bloodveld"
+      }
+    },
+    {
+      "id": "2327-7398",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Meat pie (Full)",
+        "monster_name": "Insatiable mutated Bloodveld"
+      }
+    },
+    {
+      "id": "444-7398",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0546875"
+      },
+      "meta": {
+        "item_name": "Gold ore",
+        "monster_name": "Insatiable mutated Bloodveld"
+      }
+    },
+    {
+      "id": "995-7398",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 11,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Insatiable mutated Bloodveld"
+      }
+    },
+    {
+      "id": "20724-7398",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "superior-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00111806797853309"
+      },
+      "meta": {
+        "item_name": "Imbued heart",
+        "monster_name": "Insatiable mutated Bloodveld"
+      }
+    },
+    {
+      "id": "19677-7398",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "catacombs-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0166666666666667"
+      },
+      "meta": {
+        "item_name": "Ancient shard",
+        "monster_name": "Insatiable mutated Bloodveld"
+      }
+    },
+    {
+      "id": "526-7398",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Bones",
+        "monster_name": "Insatiable mutated Bloodveld"
+      }
+    },
+    {
+      "id": "1777-7398",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Bow string",
+        "monster_name": "Insatiable mutated Bloodveld"
+      }
+    },
+    {
+      "id": "566-7398",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 4,
+        "quantity_max": null,
+        "rarity": "0.0546875"
+      },
+      "meta": {
+        "item_name": "Soul rune",
+        "monster_name": "Insatiable mutated Bloodveld"
+      }
+    },
+    {
+      "id": "565-7398",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 7,
+        "quantity_max": null,
+        "rarity": "0.078125"
+      },
+      "meta": {
+        "item_name": "Blood rune (Regular)",
+        "monster_name": "Insatiable mutated Bloodveld"
+      }
+    },
+    {
+      "id": "565-7398",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 30,
+        "quantity_max": null,
+        "rarity": "0.1015625"
+      },
+      "meta": {
+        "item_name": "Blood rune (Regular)",
+        "monster_name": "Insatiable mutated Bloodveld"
+      }
+    },
+    {
+      "id": "554-7398",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 75,
+        "quantity_max": null,
+        "rarity": "0.0703125"
+      },
+      "meta": {
+        "item_name": "Fire rune (Regular)",
+        "monster_name": "Insatiable mutated Bloodveld"
+      }
+    },
+    {
+      "id": "556-7398",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 105,
+        "quantity_max": null,
+        "rarity": "0.0546875"
+      },
+      "meta": {
+        "item_name": "Air rune (Regular)",
+        "monster_name": "Insatiable mutated Bloodveld"
+      }
+    },
+    {
+      "id": "1373-7398",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Rune battleaxe",
+        "monster_name": "Insatiable mutated Bloodveld"
+      }
+    },
+    {
+      "id": "13495-7398",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Ensouled bloodveld head (Drop)",
+        "monster_name": "Insatiable mutated Bloodveld"
+      }
+    },
+    {
+      "id": "23962-7398",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Crystal shard",
+        "monster_name": "Insatiable mutated Bloodveld"
+      }
+    },
+    {
+      "id": "1151-7398",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Black med helm",
+        "monster_name": "Insatiable mutated Bloodveld"
+      }
+    },
+    {
+      "id": "1355-7398",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Mithril axe",
+        "monster_name": "Insatiable mutated Bloodveld"
+      }
+    },
+    {
+      "id": "1369-7398",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.046875"
+      },
+      "meta": {
+        "item_name": "Mithril battleaxe",
+        "monster_name": "Insatiable mutated Bloodveld"
+      }
+    },
+    {
+      "id": "1121-7398",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Mithril platebody",
+        "monster_name": "Insatiable mutated Bloodveld"
+      }
+    },
+    {
+      "id": "867-7398",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Adamant knife (Unpoisoned)",
+        "monster_name": "Insatiable mutated Bloodveld"
+      }
+    },
+    {
+      "id": "1111-7398",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Adamant chainbody",
+        "monster_name": "Insatiable mutated Bloodveld"
+      }
+    },
+    {
+      "id": "1159-7398",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0625"
+      },
+      "meta": {
+        "item_name": "Mithril full helm",
+        "monster_name": "Insatiable mutated Bloodveld"
+      }
+    },
+    {
+      "id": "1301-7398",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Adamant longsword",
+        "monster_name": "Insatiable mutated Bloodveld"
+      }
+    },
+    {
+      "id": "1331-7398",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Adamant scimitar",
+        "monster_name": "Insatiable mutated Bloodveld"
+      }
+    },
+    {
+      "id": "1147-7398",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Rune med helm",
+        "monster_name": "Insatiable mutated Bloodveld"
+      }
+    },
+    {
+      "id": "1213-7398",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Rune dagger (Unpoisoned)",
+        "monster_name": "Insatiable mutated Bloodveld"
+      }
+    },
+    {
+      "id": "995-7398",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 350,
+        "quantity_max": null,
+        "rarity": "0.078125"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Insatiable mutated Bloodveld"
+      }
+    },
+    {
+      "id": "19679-7398",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "catacombs-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Dark totem base",
+        "monster_name": "Insatiable mutated Bloodveld"
+      }
+    },
+    {
+      "id": "19681-7398",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "catacombs-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Dark totem middle",
+        "monster_name": "Insatiable mutated Bloodveld"
+      }
+    },
+    {
+      "id": "19683-7398",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "catacombs-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Dark totem top",
+        "monster_name": "Insatiable mutated Bloodveld"
+      }
+    },
+    {
+      "id": "20730-7398",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "superior-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00335420393559928"
+      },
+      "meta": {
+        "item_name": "Mist battlestaff",
+        "monster_name": "Insatiable mutated Bloodveld"
+      }
+    },
+    {
+      "id": "20736-7398",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "superior-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00335420393559928"
+      },
+      "meta": {
+        "item_name": "Dust battlestaff",
+        "monster_name": "Insatiable mutated Bloodveld"
+      }
+    },
+    {
+      "id": "21270-7398",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "superior-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00111806797853309"
+      },
+      "meta": {
+        "item_name": "Eternal gem",
+        "monster_name": "Insatiable mutated Bloodveld"
+      }
+    }
+  ]
+}

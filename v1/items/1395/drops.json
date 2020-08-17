@@ -1,0 +1,148 @@
+{
+  "data": [
+    {
+      "id": "1395-2954",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Water battlestaff",
+        "monster_name": "Zamorak wizard"
+      }
+    },
+    {
+      "id": "1395-10402",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Water battlestaff",
+        "monster_name": "Colossal Hydra"
+      }
+    },
+    {
+      "id": "1395-2955",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Water battlestaff",
+        "monster_name": "Saradomin wizard"
+      }
+    },
+    {
+      "id": "1395-8609",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Water battlestaff",
+        "monster_name": "Hydra"
+      }
+    },
+    {
+      "id": "1395-481",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Water battlestaff",
+        "monster_name": "Cave bug (Level 6)"
+      }
+    },
+    {
+      "id": "1395-483",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Water battlestaff",
+        "monster_name": "Cave bug (Level 96)"
+      }
+    },
+    {
+      "id": "1395-492",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.02"
+      },
+      "meta": {
+        "item_name": "Water battlestaff",
+        "monster_name": "Cave kraken"
+      }
+    },
+    {
+      "id": "1395-2266",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Water battlestaff",
+        "monster_name": "Dagannoth Prime"
+      }
+    },
+    {
+      "id": "1395-2916",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Water battlestaff",
+        "monster_name": "Waterfiend"
+      }
+    }
+  ]
+}

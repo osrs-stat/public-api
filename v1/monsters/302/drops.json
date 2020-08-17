@@ -1,0 +1,516 @@
+{
+  "data": [
+    {
+      "id": "561-302",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 4,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Donny the lad"
+      }
+    },
+    {
+      "id": "563-302",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Law rune",
+        "monster_name": "Donny the lad"
+      }
+    },
+    {
+      "id": "1157-302",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Steel full helm",
+        "monster_name": "Donny the lad"
+      }
+    },
+    {
+      "id": "1295-302",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Steel longsword",
+        "monster_name": "Donny the lad"
+      }
+    },
+    {
+      "id": "526-302",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Bones",
+        "monster_name": "Donny the lad"
+      }
+    },
+    {
+      "id": "213-302",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00457763671875"
+      },
+      "meta": {
+        "item_name": "Grimy kwuarm",
+        "monster_name": "Donny the lad"
+      }
+    },
+    {
+      "id": "215-302",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.003662109375"
+      },
+      "meta": {
+        "item_name": "Grimy cadantine",
+        "monster_name": "Donny the lad"
+      }
+    },
+    {
+      "id": "2485-302",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00274636747129131"
+      },
+      "meta": {
+        "item_name": "Grimy lantadyme",
+        "monster_name": "Donny the lad"
+      }
+    },
+    {
+      "id": "217-302",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00274636747129131"
+      },
+      "meta": {
+        "item_name": "Grimy dwarf weed",
+        "monster_name": "Donny the lad"
+      }
+    },
+    {
+      "id": "209-302",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00732421875"
+      },
+      "meta": {
+        "item_name": "Grimy irit leaf",
+        "monster_name": "Donny the lad"
+      }
+    },
+    {
+      "id": "21257-302",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00343642611683849"
+      },
+      "meta": {
+        "item_name": "Slayer's enchantment",
+        "monster_name": "Donny the lad"
+      }
+    },
+    {
+      "id": "23490-302",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00136091453456723"
+      },
+      "meta": {
+        "item_name": "Larran's key",
+        "monster_name": "Donny the lad"
+      }
+    },
+    {
+      "id": "211-302",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00549402250351617"
+      },
+      "meta": {
+        "item_name": "Grimy avantoe",
+        "monster_name": "Donny the lad"
+      }
+    },
+    {
+      "id": "373-302",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Swordfish",
+        "monster_name": "Donny the lad"
+      }
+    },
+    {
+      "id": "11941-302",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.25"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Donny the lad"
+      }
+    },
+    {
+      "id": "2801-302",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Clue scroll (medium)",
+        "monster_name": "Donny the lad"
+      }
+    },
+    {
+      "id": "199-302",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.029296875"
+      },
+      "meta": {
+        "item_name": "Grimy guam leaf",
+        "monster_name": "Donny the lad"
+      }
+    },
+    {
+      "id": "201-302",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0219740296268517"
+      },
+      "meta": {
+        "item_name": "Grimy marrentill",
+        "monster_name": "Donny the lad"
+      }
+    },
+    {
+      "id": "203-302",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0164797496835888"
+      },
+      "meta": {
+        "item_name": "Grimy tarromin",
+        "monster_name": "Donny the lad"
+      }
+    },
+    {
+      "id": "205-302",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0128171825440227"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Donny the lad"
+      }
+    },
+    {
+      "id": "207-302",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0100676546391753"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Donny the lad"
+      }
+    },
+    {
+      "id": "442-302",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0859375"
+      },
+      "meta": {
+        "item_name": "Silver ore",
+        "monster_name": "Donny the lad"
+      }
+    },
+    {
+      "id": "555-302",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 30,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Water rune (Regular)",
+        "monster_name": "Donny the lad"
+      }
+    },
+    {
+      "id": "562-302",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Chaos rune (Regular)",
+        "monster_name": "Donny the lad"
+      }
+    },
+    {
+      "id": "559-302",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 12,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Body rune",
+        "monster_name": "Donny the lad"
+      }
+    },
+    {
+      "id": "995-302",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 15,
+        "quantity_max": null,
+        "rarity": "0.140625"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Donny the lad"
+      }
+    },
+    {
+      "id": "995-302",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 48,
+        "quantity_max": null,
+        "rarity": "0.234375"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Donny the lad"
+      }
+    },
+    {
+      "id": "995-302",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 150,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Donny the lad"
+      }
+    },
+    {
+      "id": "995-302",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Donny the lad"
+      }
+    },
+    {
+      "id": "995-302",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 70,
+        "quantity_max": null,
+        "rarity": "0.078125"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Donny the lad"
+      }
+    },
+    {
+      "id": "995-302",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 8,
+        "quantity_max": null,
+        "rarity": "0.0859375"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Donny the lad"
+      }
+    },
+    {
+      "id": "995-302",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.1171875"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Donny the lad"
+      }
+    }
+  ]
+}

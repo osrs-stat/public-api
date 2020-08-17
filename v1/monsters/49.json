@@ -1,0 +1,119 @@
+{
+  "data": {
+    "id": "49",
+    "type": "monster",
+    "attributes": {
+      "uuid": "363bae14-724e-4cf7-a359-37087081c17f",
+      "name": "Zombie (Level 24)",
+      "members": false,
+      "release_date": "2001-01-04",
+      "examine": "Dead man walking.",
+      "combat_level_override": null,
+      "max_hit_override": null,
+      "target_types": [
+        "undead"
+      ],
+      "classification_types": [
+        "zombie"
+      ],
+      "poison": false,
+      "immune_poison": false,
+      "immune_venom": false,
+      "slayer_xp": 30.0,
+      "slayer_level": 1,
+      "slayer_masters": [
+        "krystilia",
+        "turael",
+        "mazchna"
+      ],
+      "icon_base64": null
+    },
+    "relationships": {
+      "combat_stat": {
+        "data": {
+          "id": "ccb628a1-4496-4eb6-96e4-d41a8e01831e",
+          "type": "combat_stat"
+        }
+      },
+      "equip_stat": {
+        "data": {
+          "id": "9245b622-6a95-4095-8e44-9260846fc2fa",
+          "type": "equip_stat"
+        }
+      },
+      "attack_stat": {
+        "data": {
+          "id": "1cf5cf23-f489-4e5f-a4f4-e82003c22cd2",
+          "type": "attack_stat"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Zombie#Level_24"
+    },
+    "meta": {
+      "incomplete": true
+    }
+  },
+  "included": [
+    {
+      "id": "1cf5cf23-f489-4e5f-a4f4-e82003c22cd2",
+      "type": "attack_stat",
+      "attributes": {
+        "attack_speed": 4,
+        "attack_type": "monster",
+        "special": null,
+        "stances": [
+          {
+            "name": "Monster crush",
+            "style": null,
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": null,
+            "combat_accuracy_stat": "attack_level",
+            "combat_damage_stat": "strength_level",
+            "equip_accuracy_stat": "crush_attack",
+            "equip_damage_stat": "crush_attack",
+            "target_equip_defense_stat": "crush_defense"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ccb628a1-4496-4eb6-96e4-d41a8e01831e",
+      "type": "monster_combat_stat",
+      "attributes": {
+        "hitpoints_level": 30,
+        "attack_level": 19,
+        "strength_level": 21,
+        "defense_level": 16,
+        "magic_level": 1,
+        "ranged_level": 1,
+        "prayer_level": 0
+      }
+    },
+    {
+      "id": "9245b622-6a95-4095-8e44-9260846fc2fa",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 0,
+        "slash_attack": 0,
+        "crush_attack": 0,
+        "ranged_attack": 0,
+        "magic_attack": 0,
+        "stab_defense": 0,
+        "slash_defense": 0,
+        "crush_defense": 0,
+        "ranged_defense": 0,
+        "magic_defense": 0,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

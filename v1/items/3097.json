@@ -1,0 +1,160 @@
+{
+  "data": {
+    "id": "3097",
+    "type": "item",
+    "attributes": {
+      "uuid": "ed841528-5f43-4a46-9ec9-70e42dcdcdd4",
+      "name": "Steel claws",
+      "members": true,
+      "release_date": "2004-08-09",
+      "examine": "A set of fighting claws.",
+      "tradeable": false,
+      "ge_tradeable": false,
+      "lowalch": 70,
+      "highalch": 105,
+      "is_equip": true,
+      "is_weapon": true,
+      "icon_base64": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACOUlEQVR4Xu2W20oDMRCGmzfpI/gIglhURFSolXrAs9TWs9Z6PqAV0Qtv6r1POvInzGaS3VS73S0i/jB0WdrMl38mkxYK//pbUpQ+MpVZ9Lhep8ujI3q5u6XGxoYTp7sNOtvf03F+eKDjvtWKIiMws8hqtUrbKyu0t7WlE70+3NPH2yt9djpBIHzeNps6MgJTNDU+RnPT07RUqdDm8pJOzECA80PCSCA/LFhPUjQ2MkIzExM0PzsbuYREEkiWjaEQcIwj3k+KhopFHX7WLlI0OjwccwnJDmo1HdIdH4jj+uQkij5gIAM0WSo5LmHH7MjO2lr0jOS+Cwi/XBLMz/gDqQiIXUKgdAgAMRS7I0tkXAjDpQSL7xqlk1DSJdk/EsyHk4A9Q/GCoYWT4vHiQp8mv0RJ66TsKSieWC6YlIzhQiVKAWMXxqRGSTCtsXM48HR1GUvCSoJLOYNYihbKZd0naFocdfQGYLBrwDzfXDsJ/RVYEi6FK1IquhrgDEAAgeAGhnM8l7pBsfqAgZQGQWJOypcnJrYPhOfv3MpAxiUcc545Mt7bbQcInyhzjlDmxkcgEVxZX1zQ88h3hR3jyd1neUJSujw8pZEMIBLI9o8pMY65vU5ykTxJSpcIcHiOl0npE5g7lD/40NjSFbdMA4KyMgklAIPZ5BbKfi9XxQHwf9tN7kLZ3+YiFU1qH8BNbtwbGJS90e07PzmX1X+fk4wDbo+E7qzQ+0yVvPNQ0tD7jDWQnfemXwWTl74ABcgjSYBW41sAAAAASUVORK5CYII="
+    },
+    "relationships": {
+      "equip": {
+        "data": {
+          "id": "e6866990-b59d-496b-af5c-7d96215c5502",
+          "type": "equip"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Steel_claws"
+    },
+    "meta": {
+      "incomplete": false
+    }
+  },
+  "included": [
+    {
+      "id": "e6866990-b59d-496b-af5c-7d96215c5502",
+      "type": "equip",
+      "attributes": {
+        "slot": "weapon_2h",
+        "passive_effect": null,
+        "requirements": {
+          "attack_level": 5
+        }
+      },
+      "relationships": {
+        "equip_stat": {
+          "data": {
+            "id": "eeb4fe76-02bd-477d-a493-d66aaccc2e8b",
+            "type": "equip_stat"
+          }
+        },
+        "attack_stat": {
+          "data": {
+            "id": "76d3b131-e5ad-41e5-aa70-14ca73886fab",
+            "type": "attack_stat"
+          }
+        }
+      }
+    },
+    {
+      "id": "76d3b131-e5ad-41e5-aa70-14ca73886fab",
+      "type": "attack_stat",
+      "attributes": {
+        "attack_speed": 4,
+        "attack_type": "claws",
+        "special": null,
+        "stances": [
+          {
+            "name": "chop",
+            "style": "accurate",
+            "boosts": {
+              "accuracy": 3
+            },
+            "experience": {
+              "hitpoints": 1.3333,
+              "attack": 4
+            },
+            "combat_accuracy_stat": "attack_level",
+            "combat_damage_stat": "strength_level",
+            "equip_accuracy_stat": "slash_attack",
+            "equip_damage_stat": "slash_attack",
+            "target_equip_defense_stat": "slash_defense"
+          },
+          {
+            "name": "slash",
+            "style": "aggressive",
+            "boosts": {
+              "damage": 3
+            },
+            "experience": {
+              "hitpoints": 1.3333,
+              "strength": 4
+            },
+            "combat_accuracy_stat": "attack_level",
+            "combat_damage_stat": "strength_level",
+            "equip_accuracy_stat": "slash_attack",
+            "equip_damage_stat": "slash_attack",
+            "target_equip_defense_stat": "slash_defense"
+          },
+          {
+            "name": "lunge",
+            "style": "controlled",
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": {
+              "hitpoints": 1.3333,
+              "attack": 1.3333,
+              "strength": 1.3333,
+              "defense": 1.3333
+            },
+            "combat_accuracy_stat": "attack_level",
+            "combat_damage_stat": "strength_level",
+            "equip_accuracy_stat": "stab_attack",
+            "equip_damage_stat": "stab_attack",
+            "target_equip_defense_stat": "stab_defense"
+          },
+          {
+            "name": "block",
+            "style": "defensive",
+            "boosts": {
+              "defense": 3
+            },
+            "experience": {
+              "hitpoints": 1.3333,
+              "defense": 4
+            },
+            "combat_accuracy_stat": "attack_level",
+            "combat_damage_stat": "strength_level",
+            "equip_accuracy_stat": "slash_attack",
+            "equip_damage_stat": "slash_attack",
+            "target_equip_defense_stat": "slash_defense"
+          }
+        ]
+      }
+    },
+    {
+      "id": "eeb4fe76-02bd-477d-a493-d66aaccc2e8b",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 8,
+        "slash_attack": 11,
+        "crush_attack": -4,
+        "ranged_attack": 0,
+        "magic_attack": 0,
+        "stab_defense": 3,
+        "slash_defense": 6,
+        "crush_defense": 2,
+        "ranged_defense": 0,
+        "magic_defense": 0,
+        "melee_strength": 12,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "data": [
+    {
+      "id": "53-3167",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 12,
+        "quantity_max": null,
+        "rarity": "0.078125"
+      },
+      "meta": {
+        "item_name": "Headless arrow",
+        "monster_name": "Spiritual ranger (Armadyl)"
+      }
+    },
+    {
+      "id": "53-6588",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 30,
+        "quantity_max": null,
+        "rarity": "0.078125"
+      },
+      "meta": {
+        "item_name": "Headless arrow",
+        "monster_name": "Bandosian guard"
+      }
+    },
+    {
+      "id": "53-2211",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 12,
+        "quantity_max": null,
+        "rarity": "0.078125"
+      },
+      "meta": {
+        "item_name": "Headless arrow",
+        "monster_name": "Spiritual ranger (Saradomin)"
+      }
+    },
+    {
+      "id": "53-2242",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 12,
+        "quantity_max": null,
+        "rarity": "0.078125"
+      },
+      "meta": {
+        "item_name": "Headless arrow",
+        "monster_name": "Spiritual ranger (Bandos)"
+      }
+    },
+    {
+      "id": "53-3160",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 12,
+        "quantity_max": null,
+        "rarity": "0.078125"
+      },
+      "meta": {
+        "item_name": "Headless arrow",
+        "monster_name": "Spiritual ranger (Zamorak)"
+      }
+    },
+    {
+      "id": "53-6587",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 30,
+        "quantity_max": null,
+        "rarity": "0.078125"
+      },
+      "meta": {
+        "item_name": "Headless arrow",
+        "monster_name": "Armadylian guard"
+      }
+    }
+  ]
+}

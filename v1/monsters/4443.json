@@ -1,0 +1,122 @@
+{
+  "data": {
+    "id": "4443",
+    "type": "monster",
+    "attributes": {
+      "uuid": "04bfc65b-9c90-4a9f-b2b8-e85878ad87c7",
+      "name": "Vampyre Juvinate (Level 50)",
+      "members": true,
+      "release_date": "2006-03-22",
+      "examine": "An initiate juvenile vampyre.",
+      "combat_level_override": null,
+      "max_hit_override": null,
+      "target_types": [
+        "vampyre"
+      ],
+      "classification_types": [
+        "vampyre"
+      ],
+      "poison": false,
+      "immune_poison": false,
+      "immune_venom": false,
+      "slayer_xp": 60.0,
+      "slayer_level": 1,
+      "slayer_masters": [
+        "mazchna",
+        "vannaka",
+        "chaeldar",
+        "konar",
+        "nieve",
+        "duradel"
+      ],
+      "icon_base64": null
+    },
+    "relationships": {
+      "combat_stat": {
+        "data": {
+          "id": "bb9430d6-9e30-409b-b7de-577c43247efb",
+          "type": "combat_stat"
+        }
+      },
+      "equip_stat": {
+        "data": {
+          "id": "da0574a5-b93d-478a-9f46-2a071c03968a",
+          "type": "equip_stat"
+        }
+      },
+      "attack_stat": {
+        "data": {
+          "id": "1284fe18-7b19-4afa-bad6-28bb7a533b64",
+          "type": "attack_stat"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Vampyre_Juvinate#Level_50"
+    },
+    "meta": {
+      "incomplete": true
+    }
+  },
+  "included": [
+    {
+      "id": "1284fe18-7b19-4afa-bad6-28bb7a533b64",
+      "type": "attack_stat",
+      "attributes": {
+        "attack_speed": 4,
+        "attack_type": "monster",
+        "special": null,
+        "stances": [
+          {
+            "name": "Monster crush",
+            "style": null,
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": null,
+            "combat_accuracy_stat": "attack_level",
+            "combat_damage_stat": "strength_level",
+            "equip_accuracy_stat": "crush_attack",
+            "equip_damage_stat": "crush_attack",
+            "target_equip_defense_stat": "crush_defense"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bb9430d6-9e30-409b-b7de-577c43247efb",
+      "type": "monster_combat_stat",
+      "attributes": {
+        "hitpoints_level": 60,
+        "attack_level": 50,
+        "strength_level": 37,
+        "defense_level": 30,
+        "magic_level": 1,
+        "ranged_level": 1,
+        "prayer_level": 0
+      }
+    },
+    {
+      "id": "da0574a5-b93d-478a-9f46-2a071c03968a",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 0,
+        "slash_attack": 0,
+        "crush_attack": 0,
+        "ranged_attack": 0,
+        "magic_attack": 0,
+        "stab_defense": 0,
+        "slash_defense": 0,
+        "crush_defense": 0,
+        "ranged_defense": 0,
+        "magic_defense": 0,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

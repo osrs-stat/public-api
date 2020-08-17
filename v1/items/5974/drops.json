@@ -1,0 +1,100 @@
+{
+  "data": [
+    {
+      "id": "5974-6503",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 60,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Coconut",
+        "monster_name": "Callisto"
+      }
+    },
+    {
+      "id": "5974-7405",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.032258064516129"
+      },
+      "meta": {
+        "item_name": "Coconut",
+        "monster_name": "King kurask"
+      }
+    },
+    {
+      "id": "5974-2044",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 20,
+        "quantity_max": null,
+        "rarity": "0.0241935483870968"
+      },
+      "meta": {
+        "item_name": "Coconut",
+        "monster_name": "Zulrah (Tanzanite)"
+      }
+    },
+    {
+      "id": "5974-2043",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 20,
+        "quantity_max": null,
+        "rarity": "0.0241935483870968"
+      },
+      "meta": {
+        "item_name": "Coconut",
+        "monster_name": "Zulrah (Magma)"
+      }
+    },
+    {
+      "id": "5974-2042",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 20,
+        "quantity_max": null,
+        "rarity": "0.0241935483870968"
+      },
+      "meta": {
+        "item_name": "Coconut",
+        "monster_name": "Zulrah (Serpentine)"
+      }
+    },
+    {
+      "id": "5974-410",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.032258064516129"
+      },
+      "meta": {
+        "item_name": "Coconut",
+        "monster_name": "Kurask"
+      }
+    }
+  ]
+}

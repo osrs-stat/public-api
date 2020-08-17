@@ -1,0 +1,31 @@
+{
+  "data": {
+    "id": "23824",
+    "type": "item",
+    "attributes": {
+      "uuid": "33aa0a8c-cbaf-43d0-9c4f-76f9972fad50",
+      "name": "Corrupted shards",
+      "members": true,
+      "release_date": "2019-07-25",
+      "examine": "Shards of corrupted crystal, used to craft items within the Gauntlet.",
+      "tradeable": false,
+      "ge_tradeable": false,
+      "lowalch": null,
+      "highalch": null,
+      "is_equip": false,
+      "is_weapon": false,
+      "icon_base64": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAAaElEQVR4Xu3QMQqAMBBE0d0DWFgIljmB2FgK3tRL2Hq2lRgkBLXOiv/B9J8RAQDgd9TSXFBb2+mck7AcFDdIUzuqDLqeGkOoFaW2dXMxgu7KKIKe5SiC3qnt/eIpKEoxjoJEXMUA+KID39pgcnD/9DwAAAAASUVORK5CYII="
+    },
+    "relationships": {
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Corrupted_shards"
+    },
+    "meta": {
+      "incomplete": false
+    }
+  },
+  "included": [
+
+  ]
+}

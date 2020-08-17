@@ -1,0 +1,73 @@
+{
+  "data": {
+    "id": "23522",
+    "type": "item",
+    "attributes": {
+      "uuid": "0e99fd23-e01a-4bd1-a576-7084cc31bf88",
+      "name": "Mask of ranul",
+      "members": true,
+      "release_date": "2019-07-04",
+      "examine": "A creepy mask worn during a blood moon.",
+      "tradeable": false,
+      "ge_tradeable": false,
+      "lowalch": 2000,
+      "highalch": 3000,
+      "is_equip": true,
+      "is_weapon": false,
+      "icon_base64": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACzUlEQVR4XuWWQWvUQBiGd35CDj0WwrKUIiJ7qBSLxWKx1GKlLa2V1kqtiOAf8CB4EAQPongoFDx48nfGPjN9ky+zySYx61784GU2yex8z7zfzCSDwf8TLovv/KNok8hl+zs7Wbu+vcJlh7u7DYlCHwGN03RK397hsmd7ew2JAtDTx9sN/WYSzieqd6lwZ65AuKSEVsAI6MnW1vyApEcbG74FQDAq13QgO5FeEXYPSUm4vbmZPVhb82DWHQtUJU3i4fp6HyiXvTo58Xr94jR36O547AfmtyAR15IcBUIggsHBahenhvMQb16e5Xp+cOAHJzlQFoBk91ZWPKCVnuFqA8ykrVZvz8/z2UmU5/ToyLckt7q/ulqCs2oFc3Z8XJJKg4CRK9b6hSTJ1wy7jkQo3mlAcR/IFjCKYrEyOOVg9sgCUTYEDBKAFnIsOQiYnBNQTFARoTwxlF03wPwaJvmsKQGJ6av+cgJgLW6tNaA6AA0GoWMAExQlBIb28/IwB9JCpaxKyH+4JweR1hGgnYEUFoxZkxSoL7cKIHsAAsROo9U2t0cAoOqvsgV1Dldy6fvtkXfp22KSi2RaH5RKMJdpkv24fv5hadGPISitKcD/AiyUDpdYP5d3Rt4loK7SAERS9PP6+vdwwbc8AwgYpJJWiQkUYK3gwqGoExqXBCUYkgNCOWmBeD8KIFprMUid4uxROF+qdxcXflCdQV9vgEj8cSnNPi2n/hpQfgMTn9JS2Y0q1UaAsfQMSPm04wSEuMY9fZog/U+nNmPqUKxTTHETkzDx4BIAErD00UHJ75m8SOOksa26r2TsInYPrZ7Zl+9MYCzApK2hn95fgsIlgdrXhsaIs7WMOohyH725ywdduC/ZT93JMTpENYSNkNi+LK17tpSUrTdQc7iGT4kCirLNBaj5UyJAU7bp/WYWde7YKDsZP515tEvSBnzO0QXmD8ttvZR6j4EfAAAAAElFTkSuQmCC"
+    },
+    "relationships": {
+      "equip": {
+        "data": {
+          "id": "3d7ff939-ac6b-4225-b4b8-ffafc38048bf",
+          "type": "equip"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Mask_of_ranul"
+    },
+    "meta": {
+      "incomplete": false
+    }
+  },
+  "included": [
+    {
+      "id": "3d7ff939-ac6b-4225-b4b8-ffafc38048bf",
+      "type": "equip",
+      "attributes": {
+        "slot": "head",
+        "passive_effect": null,
+        "requirements": null
+      },
+      "relationships": {
+        "equip_stat": {
+          "data": {
+            "id": "dba9a315-df0e-4074-b95b-83f8e202ed47",
+            "type": "equip_stat"
+          }
+        }
+      }
+    },
+    {
+      "id": "dba9a315-df0e-4074-b95b-83f8e202ed47",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 0,
+        "slash_attack": 0,
+        "crush_attack": 0,
+        "ranged_attack": 0,
+        "magic_attack": 2,
+        "stab_defense": 0,
+        "slash_defense": 0,
+        "crush_defense": 0,
+        "ranged_defense": 0,
+        "magic_defense": 2,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

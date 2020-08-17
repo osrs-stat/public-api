@@ -1,0 +1,500 @@
+{
+  "data": [
+    {
+      "id": "1207-3049",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Steel dagger (Unpoisoned)",
+        "monster_name": "Hobgoblin (Level 28)"
+      }
+    },
+    {
+      "id": "1207-419",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Steel dagger (Unpoisoned)",
+        "monster_name": "Cockatrice"
+      }
+    },
+    {
+      "id": "1207-680",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Steel dagger (Unpoisoned)",
+        "monster_name": "Giant skeleton (Tarn's Lair)"
+      }
+    },
+    {
+      "id": "1207-955",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Steel dagger (Unpoisoned)",
+        "monster_name": "Kalphite Worker"
+      }
+    },
+    {
+      "id": "1207-2097",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.02"
+      },
+      "meta": {
+        "item_name": "Steel dagger (Unpoisoned)",
+        "monster_name": "Cyclops (Level 56)"
+      }
+    },
+    {
+      "id": "1207-2137",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.02"
+      },
+      "meta": {
+        "item_name": "Steel dagger (Unpoisoned)",
+        "monster_name": "Cyclops (Level 106)"
+      }
+    },
+    {
+      "id": "1207-2235",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.02"
+      },
+      "meta": {
+        "item_name": "Steel dagger (Unpoisoned)",
+        "monster_name": "Cyclops (Level 81)"
+      }
+    },
+    {
+      "id": "1207-2237",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Steel dagger (Unpoisoned)",
+        "monster_name": "Ork"
+      }
+    },
+    {
+      "id": "1207-2241",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Steel dagger (Unpoisoned)",
+        "monster_name": "Hobgoblin (Level 47)"
+      }
+    },
+    {
+      "id": "1207-2241",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Steel dagger (Unpoisoned)",
+        "monster_name": "Hobgoblin (Level 47)"
+      }
+    },
+    {
+      "id": "1207-2464",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.02"
+      },
+      "meta": {
+        "item_name": "Steel dagger (Unpoisoned)",
+        "monster_name": "Cyclops (Level 76)"
+      }
+    },
+    {
+      "id": "1207-2536",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0181818181818182"
+      },
+      "meta": {
+        "item_name": "Steel dagger (Unpoisoned)",
+        "monster_name": "H.A.M. Guard (Level 12)"
+      }
+    },
+    {
+      "id": "1207-2537",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0181818181818182"
+      },
+      "meta": {
+        "item_name": "Steel dagger (Unpoisoned)",
+        "monster_name": "H.A.M. Guard (Level 18)"
+      }
+    },
+    {
+      "id": "1207-2538",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0181818181818182"
+      },
+      "meta": {
+        "item_name": "Steel dagger (Unpoisoned)",
+        "monster_name": "H.A.M. Guard (Level 22)"
+      }
+    },
+    {
+      "id": "1207-3049",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Steel dagger (Unpoisoned)",
+        "monster_name": "Hobgoblin (Level 28)"
+      }
+    },
+    {
+      "id": "1207-3050",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Steel dagger (Unpoisoned)",
+        "monster_name": "Hobgoblin (Level 42)"
+      }
+    },
+    {
+      "id": "1207-4522",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.012"
+      },
+      "meta": {
+        "item_name": "Steel dagger (Unpoisoned)",
+        "monster_name": "Guard (H.A.M. storeroom)"
+      }
+    },
+    {
+      "id": "1207-6441",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Steel dagger (Unpoisoned)",
+        "monster_name": "Skeleton (mage)"
+      }
+    },
+    {
+      "id": "1207-6442",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Steel dagger (Unpoisoned)",
+        "monster_name": "Skeleton (Tarn's Lair) (Level 77)"
+      }
+    },
+    {
+      "id": "1207-6443",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Steel dagger (Unpoisoned)",
+        "monster_name": "Skeleton (Tarn's Lair) (Level 81)"
+      }
+    },
+    {
+      "id": "1207-3050",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Steel dagger (Unpoisoned)",
+        "monster_name": "Hobgoblin (Level 42)"
+      }
+    },
+    {
+      "id": "1207-6444",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Steel dagger (Unpoisoned)",
+        "monster_name": "Skeleton (Tarn's Lair) (Level 42 (Sword))"
+      }
+    },
+    {
+      "id": "1207-6445",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Steel dagger (Unpoisoned)",
+        "monster_name": "Skeleton (Tarn's Lair) (Level 59)"
+      }
+    },
+    {
+      "id": "1207-7419",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.04"
+      },
+      "meta": {
+        "item_name": "Steel dagger (Unpoisoned)",
+        "monster_name": "Zamorak warrior (Level 85)"
+      }
+    },
+    {
+      "id": "1207-7418",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.04"
+      },
+      "meta": {
+        "item_name": "Steel dagger (Unpoisoned)",
+        "monster_name": "Zamorak warrior (Level 84)"
+      }
+    },
+    {
+      "id": "1207-7393",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Steel dagger (Unpoisoned)",
+        "monster_name": "Cockathrice"
+      }
+    },
+    {
+      "id": "1207-6468",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Steel dagger (Unpoisoned)",
+        "monster_name": "Skeleton (Tarn's Lair) (Level 87)"
+      }
+    },
+    {
+      "id": "1207-6467",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Steel dagger (Unpoisoned)",
+        "monster_name": "Skeleton (Tarn's Lair) (Level 72)"
+      }
+    },
+    {
+      "id": "1207-6446",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Steel dagger (Unpoisoned)",
+        "monster_name": "Skeleton (Tarn's Lair) (Level 42 (Hammer))"
+      }
+    },
+    {
+      "id": "1207-6447",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Steel dagger (Unpoisoned)",
+        "monster_name": "Skeleton (Tarn's Lair) (Level 63)"
+      }
+    },
+    {
+      "id": "1207-6448",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Steel dagger (Unpoisoned)",
+        "monster_name": "Skeleton (Tarn's Lair) (Level 40)"
+      }
+    }
+  ]
+}

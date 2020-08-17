@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "id": "22780-10398",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Wyrm bones",
+        "monster_name": "Shadow Wyrm"
+      }
+    },
+    {
+      "id": "22780-8611",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Wyrm bones",
+        "monster_name": "Wyrm (Attacking)"
+      }
+    },
+    {
+      "id": "22780-8610",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Wyrm bones",
+        "monster_name": "Wyrm (Idle)"
+      }
+    }
+  ]
+}

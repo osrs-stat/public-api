@@ -1,0 +1,31 @@
+{
+  "data": {
+    "id": "2359",
+    "type": "item",
+    "attributes": {
+      "uuid": "f594e818-52b2-42cc-8884-e56b4ae55336",
+      "name": "Mithril bar",
+      "members": false,
+      "release_date": "2001-01-04",
+      "examine": "It's a bar of mithril.",
+      "tradeable": false,
+      "ge_tradeable": false,
+      "lowalch": 120,
+      "highalch": 180,
+      "is_equip": false,
+      "is_weapon": false,
+      "icon_base64": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAAz0lEQVR4Xu3VQQ7CIBCF4XITll0ZD6DxAtUTeAgT7x8a2lT00ZFhypQu+JO36QK+sGnXtVqtw2ZcvGoZd709o1XCrWNwO6F4mGF4TVN+sTzM9/z3wjg5BmEBJ64s5v54T6CztRLUjOn7SwSQYjaAAga3BSME0RgcAlIYAYiP+QdKYZigPAwFKorBIQCnhPEZZ+3pM4RROCWM7xfExSlhfDQohVPA+HggClcYsxR+gHh5agqYuXBQHk4Fg+Xg1DFYCrcrBlvDVcNgC+QQmFaNRnX5xoiW9/51AAAAAElFTkSuQmCC"
+    },
+    "relationships": {
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Mithril_bar"
+    },
+    "meta": {
+      "incomplete": false
+    }
+  },
+  "included": [
+
+  ]
+}

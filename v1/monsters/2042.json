@@ -1,0 +1,119 @@
+{
+  "data": {
+    "id": "2042",
+    "type": "monster",
+    "attributes": {
+      "uuid": "c78b3fe7-15a8-4f88-8b7e-1f4b35a8a749",
+      "name": "Zulrah (Serpentine)",
+      "members": true,
+      "release_date": "2015-01-08",
+      "examine": "The green hooded serpent of the poison waste.",
+      "combat_level_override": 725,
+      "max_hit_override": null,
+      "target_types": [
+
+      ],
+      "classification_types": [
+        "boss"
+      ],
+      "poison": true,
+      "immune_poison": false,
+      "immune_venom": false,
+      "slayer_xp": 500.0,
+      "slayer_level": 1,
+      "slayer_masters": [
+        "konar",
+        "nieve",
+        "duradel"
+      ],
+      "icon_base64": null
+    },
+    "relationships": {
+      "combat_stat": {
+        "data": {
+          "id": "4231a316-2d98-4cd0-9d30-14c9fc74c92d",
+          "type": "combat_stat"
+        }
+      },
+      "equip_stat": {
+        "data": {
+          "id": "390fadcd-f609-4493-9a33-15fa3bf88739",
+          "type": "equip_stat"
+        }
+      },
+      "attack_stat": {
+        "data": {
+          "id": "3c993869-ea94-487a-ae1e-3466fac4b150",
+          "type": "attack_stat"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Zulrah#Serpentine"
+    },
+    "meta": {
+      "incomplete": true
+    }
+  },
+  "included": [
+    {
+      "id": "3c993869-ea94-487a-ae1e-3466fac4b150",
+      "type": "attack_stat",
+      "attributes": {
+        "attack_speed": 3,
+        "attack_type": "monster",
+        "special": null,
+        "stances": [
+          {
+            "name": "Monster ranged",
+            "style": null,
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": null,
+            "combat_accuracy_stat": "ranged_level",
+            "combat_damage_stat": "ranged_level",
+            "equip_accuracy_stat": "ranged_attack",
+            "equip_damage_stat": "ranged_attack",
+            "target_equip_defense_stat": "ranged_defense"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4231a316-2d98-4cd0-9d30-14c9fc74c92d",
+      "type": "monster_combat_stat",
+      "attributes": {
+        "hitpoints_level": 500,
+        "attack_level": 1,
+        "strength_level": 1,
+        "defense_level": 300,
+        "magic_level": 300,
+        "ranged_level": 300,
+        "prayer_level": 0
+      }
+    },
+    {
+      "id": "390fadcd-f609-4493-9a33-15fa3bf88739",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 0,
+        "slash_attack": 0,
+        "crush_attack": 0,
+        "ranged_attack": 50,
+        "magic_attack": 50,
+        "stab_defense": 0,
+        "slash_defense": 0,
+        "crush_defense": 0,
+        "ranged_defense": 50,
+        "magic_defense": -45,
+        "melee_strength": 0,
+        "ranged_strength": 20,
+        "magic_bonus": 20,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

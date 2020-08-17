@@ -1,0 +1,100 @@
+{
+  "data": [
+    {
+      "id": "22988-8618",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00194931773879142"
+      },
+      "meta": {
+        "item_name": "Hydra tail",
+        "monster_name": "Alchemical Hydra (Three heads)"
+      }
+    },
+    {
+      "id": "22988-8621",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00194931773879142"
+      },
+      "meta": {
+        "item_name": "Hydra tail",
+        "monster_name": "Alchemical Hydra (Two heads)"
+      }
+    },
+    {
+      "id": "22988-10402",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0001999600079984"
+      },
+      "meta": {
+        "item_name": "Hydra tail",
+        "monster_name": "Colossal Hydra"
+      }
+    },
+    {
+      "id": "22988-8609",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0001999600079984"
+      },
+      "meta": {
+        "item_name": "Hydra tail",
+        "monster_name": "Hydra"
+      }
+    },
+    {
+      "id": "22988-8615",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00194931773879142"
+      },
+      "meta": {
+        "item_name": "Hydra tail",
+        "monster_name": "Alchemical Hydra (Five heads)"
+      }
+    },
+    {
+      "id": "22988-8617",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00194931773879142"
+      },
+      "meta": {
+        "item_name": "Hydra tail",
+        "monster_name": "Alchemical Hydra (Four heads)"
+      }
+    }
+  ]
+}

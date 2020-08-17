@@ -1,0 +1,644 @@
+{
+  "data": [
+    {
+      "id": "995-423",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2000,
+        "quantity_max": 4000,
+        "rarity": "0.25"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Dust devil (Level 93)"
+      }
+    },
+    {
+      "id": "566-423",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 50,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Soul rune",
+        "monster_name": "Dust devil (Level 93)"
+      }
+    },
+    {
+      "id": "217-423",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00146472931802203"
+      },
+      "meta": {
+        "item_name": "Grimy dwarf weed",
+        "monster_name": "Dust devil (Level 93)"
+      }
+    },
+    {
+      "id": "2485-423",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00146472931802203"
+      },
+      "meta": {
+        "item_name": "Grimy lantadyme",
+        "monster_name": "Dust devil (Level 93)"
+      }
+    },
+    {
+      "id": "215-423",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.001953125"
+      },
+      "meta": {
+        "item_name": "Grimy cadantine",
+        "monster_name": "Dust devil (Level 93)"
+      }
+    },
+    {
+      "id": "213-423",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00244140625"
+      },
+      "meta": {
+        "item_name": "Grimy kwuarm",
+        "monster_name": "Dust devil (Level 93)"
+      }
+    },
+    {
+      "id": "211-423",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00293014533520863"
+      },
+      "meta": {
+        "item_name": "Grimy avantoe",
+        "monster_name": "Dust devil (Level 93)"
+      }
+    },
+    {
+      "id": "209-423",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00390625"
+      },
+      "meta": {
+        "item_name": "Grimy irit leaf",
+        "monster_name": "Dust devil (Level 93)"
+      }
+    },
+    {
+      "id": "207-423",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00536941580756014"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Dust devil (Level 93)"
+      }
+    },
+    {
+      "id": "205-423",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00683583069014547"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Dust devil (Level 93)"
+      }
+    },
+    {
+      "id": "203-423",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00878919983124736"
+      },
+      "meta": {
+        "item_name": "Grimy tarromin",
+        "monster_name": "Dust devil (Level 93)"
+      }
+    },
+    {
+      "id": "201-423",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0117194824676542"
+      },
+      "meta": {
+        "item_name": "Grimy marrentill",
+        "monster_name": "Dust devil (Level 93)"
+      }
+    },
+    {
+      "id": "199-423",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Grimy guam leaf",
+        "monster_name": "Dust devil (Level 93)"
+      }
+    },
+    {
+      "id": "19683-423",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "catacombs-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00253164556962025"
+      },
+      "meta": {
+        "item_name": "Dark totem top",
+        "monster_name": "Dust devil (Level 93)"
+      }
+    },
+    {
+      "id": "19681-423",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "catacombs-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00253164556962025"
+      },
+      "meta": {
+        "item_name": "Dark totem middle",
+        "monster_name": "Dust devil (Level 93)"
+      }
+    },
+    {
+      "id": "19679-423",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "catacombs-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00253164556962025"
+      },
+      "meta": {
+        "item_name": "Dark totem base",
+        "monster_name": "Dust devil (Level 93)"
+      }
+    },
+    {
+      "id": "19677-423",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "catacombs-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00379746835443038"
+      },
+      "meta": {
+        "item_name": "Ancient shard",
+        "monster_name": "Dust devil (Level 93)"
+      }
+    },
+    {
+      "id": "23083-423",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.011384335154827"
+      },
+      "meta": {
+        "item_name": "Brimstone key",
+        "monster_name": "Dust devil (Level 93)"
+      }
+    },
+    {
+      "id": "2361-423",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 4,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Adamantite bar",
+        "monster_name": "Dust devil (Level 93)"
+      }
+    },
+    {
+      "id": "2359-423",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Mithril bar",
+        "monster_name": "Dust devil (Level 93)"
+      }
+    },
+    {
+      "id": "1883-423",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 4,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Ugthanki kebab (smelling)",
+        "monster_name": "Dust devil (Level 93)"
+      }
+    },
+    {
+      "id": "566-423",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 20,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Soul rune",
+        "monster_name": "Dust devil (Level 93)"
+      }
+    },
+    {
+      "id": "892-423",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 12,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Rune arrow (Unpoisoned)",
+        "monster_name": "Dust devil (Level 93)"
+      }
+    },
+    {
+      "id": "562-423",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 80,
+        "quantity_max": null,
+        "rarity": "0.0546875"
+      },
+      "meta": {
+        "item_name": "Chaos rune (Regular)",
+        "monster_name": "Dust devil (Level 93)"
+      }
+    },
+    {
+      "id": "554-423",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 50,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Fire rune (Regular)",
+        "monster_name": "Dust devil (Level 93)"
+      }
+    },
+    {
+      "id": "554-423",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 300,
+        "quantity_max": null,
+        "rarity": "0.078125"
+      },
+      "meta": {
+        "item_name": "Fire rune (Regular)",
+        "monster_name": "Dust devil (Level 93)"
+      }
+    },
+    {
+      "id": "557-423",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 300,
+        "quantity_max": null,
+        "rarity": "0.078125"
+      },
+      "meta": {
+        "item_name": "Earth rune (Regular)",
+        "monster_name": "Dust devil (Level 93)"
+      }
+    },
+    {
+      "id": "4696-423",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 200,
+        "quantity_max": null,
+        "rarity": "0.078125"
+      },
+      "meta": {
+        "item_name": "Dust rune",
+        "monster_name": "Dust devil (Level 93)"
+      }
+    },
+    {
+      "id": "3140-423",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000030517578125"
+      },
+      "meta": {
+        "item_name": "Dragon chainbody",
+        "monster_name": "Dust devil (Level 93)"
+      }
+    },
+    {
+      "id": "20736-423",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00025"
+      },
+      "meta": {
+        "item_name": "Dust battlestaff",
+        "monster_name": "Dust devil (Level 93)"
+      }
+    },
+    {
+      "id": "1215-423",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Dragon dagger (Unpoisoned)",
+        "monster_name": "Dust devil (Level 93)"
+      }
+    },
+    {
+      "id": "1407-423",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Mystic earth staff",
+        "monster_name": "Dust devil (Level 93)"
+      }
+    },
+    {
+      "id": "1405-423",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Mystic air staff",
+        "monster_name": "Dust devil (Level 93)"
+      }
+    },
+    {
+      "id": "1399-423",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Earth battlestaff",
+        "monster_name": "Dust devil (Level 93)"
+      }
+    },
+    {
+      "id": "1397-423",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Air battlestaff",
+        "monster_name": "Dust devil (Level 93)"
+      }
+    },
+    {
+      "id": "2491-423",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Black d'hide vambraces",
+        "monster_name": "Dust devil (Level 93)"
+      }
+    },
+    {
+      "id": "2489-423",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Red d'hide vambraces",
+        "monster_name": "Dust devil (Level 93)"
+      }
+    },
+    {
+      "id": "1213-423",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Rune dagger (Unpoisoned)",
+        "monster_name": "Dust devil (Level 93)"
+      }
+    },
+    {
+      "id": "1357-423",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Adamant axe",
+        "monster_name": "Dust devil (Level 93)"
+      }
+    },
+    {
+      "id": "526-423",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Bones",
+        "monster_name": "Dust devil (Level 93)"
+      }
+    }
+  ]
+}

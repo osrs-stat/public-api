@@ -1,0 +1,117 @@
+{
+  "data": {
+    "id": "2492",
+    "type": "monster",
+    "attributes": {
+      "uuid": "91869d80-2f31-4732-a266-c9181c60321d",
+      "name": "Rat (Level 1 (SoS))",
+      "members": false,
+      "release_date": "2006-07-04",
+      "examine": "A popular dwarven delicacy.",
+      "combat_level_override": null,
+      "max_hit_override": null,
+      "target_types": [
+
+      ],
+      "classification_types": [
+        "rat"
+      ],
+      "poison": false,
+      "immune_poison": false,
+      "immune_venom": false,
+      "slayer_xp": 2.0,
+      "slayer_level": 1,
+      "slayer_masters": [
+        "turael"
+      ],
+      "icon_base64": null
+    },
+    "relationships": {
+      "combat_stat": {
+        "data": {
+          "id": "c0708fc9-8f3d-4603-8c75-18ea45b86498",
+          "type": "combat_stat"
+        }
+      },
+      "equip_stat": {
+        "data": {
+          "id": "b29faa94-fefb-4069-9e76-76b5fdeebef4",
+          "type": "equip_stat"
+        }
+      },
+      "attack_stat": {
+        "data": {
+          "id": "0bd621e5-c972-4c4d-9f6e-7d6a656836ff",
+          "type": "attack_stat"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Rat#Level_1_(SoS)"
+    },
+    "meta": {
+      "incomplete": true
+    }
+  },
+  "included": [
+    {
+      "id": "0bd621e5-c972-4c4d-9f6e-7d6a656836ff",
+      "type": "attack_stat",
+      "attributes": {
+        "attack_speed": 4,
+        "attack_type": "monster",
+        "special": null,
+        "stances": [
+          {
+            "name": "Monster crush",
+            "style": null,
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": null,
+            "combat_accuracy_stat": "attack_level",
+            "combat_damage_stat": "strength_level",
+            "equip_accuracy_stat": "crush_attack",
+            "equip_damage_stat": "crush_attack",
+            "target_equip_defense_stat": "crush_defense"
+          }
+        ]
+      }
+    },
+    {
+      "id": "c0708fc9-8f3d-4603-8c75-18ea45b86498",
+      "type": "monster_combat_stat",
+      "attributes": {
+        "hitpoints_level": 2,
+        "attack_level": 1,
+        "strength_level": 1,
+        "defense_level": 1,
+        "magic_level": 1,
+        "ranged_level": 1,
+        "prayer_level": 0
+      }
+    },
+    {
+      "id": "b29faa94-fefb-4069-9e76-76b5fdeebef4",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": -47,
+        "slash_attack": -47,
+        "crush_attack": -47,
+        "ranged_attack": 0,
+        "magic_attack": 0,
+        "stab_defense": -42,
+        "slash_defense": -42,
+        "crush_defense": -42,
+        "ranged_defense": -42,
+        "magic_defense": -42,
+        "melee_strength": -53,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

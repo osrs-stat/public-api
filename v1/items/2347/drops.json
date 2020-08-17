@@ -1,0 +1,740 @@
+{
+  "data": [
+    {
+      "id": "2347-655",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.1171875"
+      },
+      "meta": {
+        "item_name": "Hammer",
+        "monster_name": "Goblin (Level 5)"
+      }
+    },
+    {
+      "id": "2347-7392",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.078125"
+      },
+      "meta": {
+        "item_name": "Hammer",
+        "monster_name": "Giant rockslug"
+      }
+    },
+    {
+      "id": "2347-6730",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.125"
+      },
+      "meta": {
+        "item_name": "Hammer",
+        "monster_name": "Rock golem (monster) (Level 159)"
+      }
+    },
+    {
+      "id": "2347-6729",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.125"
+      },
+      "meta": {
+        "item_name": "Hammer",
+        "monster_name": "Rock golem (monster) (Level 120)"
+      }
+    },
+    {
+      "id": "2347-6588",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Hammer",
+        "monster_name": "Bandosian guard"
+      }
+    },
+    {
+      "id": "2347-6587",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Hammer",
+        "monster_name": "Armadylian guard"
+      }
+    },
+    {
+      "id": "2347-6437",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.1171875"
+      },
+      "meta": {
+        "item_name": "Hammer",
+        "monster_name": "Cave goblin (monster) (Backpack)"
+      }
+    },
+    {
+      "id": "2347-6436",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.1171875"
+      },
+      "meta": {
+        "item_name": "Hammer",
+        "monster_name": "Cave goblin (monster) (Brown)"
+      }
+    },
+    {
+      "id": "2347-6435",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.1171875"
+      },
+      "meta": {
+        "item_name": "Hammer",
+        "monster_name": "Cave goblin (monster) (Beige)"
+      }
+    },
+    {
+      "id": "2347-6434",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.1171875"
+      },
+      "meta": {
+        "item_name": "Hammer",
+        "monster_name": "Cave goblin (monster) (Blue)"
+      }
+    },
+    {
+      "id": "2347-6046",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Hammer",
+        "monster_name": "Black Guard (Level 48)"
+      }
+    },
+    {
+      "id": "2347-5369",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.1171875"
+      },
+      "meta": {
+        "item_name": "Hammer",
+        "monster_name": "Goblin guard"
+      }
+    },
+    {
+      "id": "2347-5007",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0625"
+      },
+      "meta": {
+        "item_name": "Hammer",
+        "monster_name": "Imp (Regular)"
+      }
+    },
+    {
+      "id": "2347-3134",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0625"
+      },
+      "meta": {
+        "item_name": "Hammer",
+        "monster_name": "Imp (GWD)"
+      }
+    },
+    {
+      "id": "2347-3028",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0703125"
+      },
+      "meta": {
+        "item_name": "Hammer",
+        "monster_name": "Goblin (Level 2)"
+      }
+    },
+    {
+      "id": "2347-3028",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.1171875"
+      },
+      "meta": {
+        "item_name": "Hammer",
+        "monster_name": "Goblin (Level 2)"
+      }
+    },
+    {
+      "id": "2347-2488",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0703125"
+      },
+      "meta": {
+        "item_name": "Hammer",
+        "monster_name": "Goblin (Level 25)"
+      }
+    },
+    {
+      "id": "2347-2488",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.1171875"
+      },
+      "meta": {
+        "item_name": "Hammer",
+        "monster_name": "Goblin (Level 25)"
+      }
+    },
+    {
+      "id": "2347-2487",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0703125"
+      },
+      "meta": {
+        "item_name": "Hammer",
+        "monster_name": "Goblin (Level 16)"
+      }
+    },
+    {
+      "id": "2347-2487",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.1171875"
+      },
+      "meta": {
+        "item_name": "Hammer",
+        "monster_name": "Goblin (Level 16)"
+      }
+    },
+    {
+      "id": "2347-2486",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0703125"
+      },
+      "meta": {
+        "item_name": "Hammer",
+        "monster_name": "Goblin (Level 11)"
+      }
+    },
+    {
+      "id": "2347-2486",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.1171875"
+      },
+      "meta": {
+        "item_name": "Hammer",
+        "monster_name": "Goblin (Level 11)"
+      }
+    },
+    {
+      "id": "2347-2485",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0703125"
+      },
+      "meta": {
+        "item_name": "Hammer",
+        "monster_name": "Goblin (Level 13)"
+      }
+    },
+    {
+      "id": "2347-2485",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.1171875"
+      },
+      "meta": {
+        "item_name": "Hammer",
+        "monster_name": "Goblin (Level 13)"
+      }
+    },
+    {
+      "id": "2347-2249",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0703125"
+      },
+      "meta": {
+        "item_name": "Hammer",
+        "monster_name": "Goblin (Level 13 (GWD))"
+      }
+    },
+    {
+      "id": "2347-2249",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.1171875"
+      },
+      "meta": {
+        "item_name": "Hammer",
+        "monster_name": "Goblin (Level 13 (GWD))"
+      }
+    },
+    {
+      "id": "2347-2248",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0703125"
+      },
+      "meta": {
+        "item_name": "Hammer",
+        "monster_name": "Goblin (Level 15)"
+      }
+    },
+    {
+      "id": "2347-2248",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.1171875"
+      },
+      "meta": {
+        "item_name": "Hammer",
+        "monster_name": "Goblin (Level 15)"
+      }
+    },
+    {
+      "id": "2347-2247",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0703125"
+      },
+      "meta": {
+        "item_name": "Hammer",
+        "monster_name": "Goblin (Level 12 (2))"
+      }
+    },
+    {
+      "id": "2347-2247",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.1171875"
+      },
+      "meta": {
+        "item_name": "Hammer",
+        "monster_name": "Goblin (Level 12 (2))"
+      }
+    },
+    {
+      "id": "2347-2246",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0703125"
+      },
+      "meta": {
+        "item_name": "Hammer",
+        "monster_name": "Goblin (Level 12 (1))"
+      }
+    },
+    {
+      "id": "2347-2246",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.1171875"
+      },
+      "meta": {
+        "item_name": "Hammer",
+        "monster_name": "Goblin (Level 12 (1))"
+      }
+    },
+    {
+      "id": "2347-2245",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0703125"
+      },
+      "meta": {
+        "item_name": "Hammer",
+        "monster_name": "Goblin (Level 17)"
+      }
+    },
+    {
+      "id": "2347-2245",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.1171875"
+      },
+      "meta": {
+        "item_name": "Hammer",
+        "monster_name": "Goblin (Level 17)"
+      }
+    },
+    {
+      "id": "2347-2161",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.125"
+      },
+      "meta": {
+        "item_name": "Hammer",
+        "monster_name": "TzHaar-Hur"
+      }
+    },
+    {
+      "id": "2347-1409",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Hammer",
+        "monster_name": "Black Guard (Level 25)"
+      }
+    },
+    {
+      "id": "2347-1408",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.078125"
+      },
+      "meta": {
+        "item_name": "Hammer",
+        "monster_name": "Dwarf (Level 7)"
+      }
+    },
+    {
+      "id": "2347-1408",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.078125"
+      },
+      "meta": {
+        "item_name": "Hammer",
+        "monster_name": "Dwarf (Level 7)"
+      }
+    },
+    {
+      "id": "2347-655",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0703125"
+      },
+      "meta": {
+        "item_name": "Hammer",
+        "monster_name": "Goblin (Level 5)"
+      }
+    },
+    {
+      "id": "2347-421",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.078125"
+      },
+      "meta": {
+        "item_name": "Hammer",
+        "monster_name": "Rockslug"
+      }
+    },
+    {
+      "id": "2347-294",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.078125"
+      },
+      "meta": {
+        "item_name": "Hammer",
+        "monster_name": "Dwarf (Level 11)"
+      }
+    },
+    {
+      "id": "2347-294",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.078125"
+      },
+      "meta": {
+        "item_name": "Hammer",
+        "monster_name": "Dwarf (Level 11)"
+      }
+    },
+    {
+      "id": "2347-292",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.078125"
+      },
+      "meta": {
+        "item_name": "Hammer",
+        "monster_name": "Dwarf (Level 20)"
+      }
+    },
+    {
+      "id": "2347-292",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.078125"
+      },
+      "meta": {
+        "item_name": "Hammer",
+        "monster_name": "Dwarf (Level 20)"
+      }
+    },
+    {
+      "id": "2347-290",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.078125"
+      },
+      "meta": {
+        "item_name": "Hammer",
+        "monster_name": "Dwarf (Level 10)"
+      }
+    },
+    {
+      "id": "2347-290",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.078125"
+      },
+      "meta": {
+        "item_name": "Hammer",
+        "monster_name": "Dwarf (Level 10)"
+      }
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "data": [
+    {
+      "id": "22971-8621",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00552486187845304"
+      },
+      "meta": {
+        "item_name": "Hydra's fang",
+        "monster_name": "Alchemical Hydra (Two heads)"
+      }
+    },
+    {
+      "id": "22971-10402",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000555333422186681"
+      },
+      "meta": {
+        "item_name": "Hydra's fang",
+        "monster_name": "Colossal Hydra"
+      }
+    },
+    {
+      "id": "22971-8615",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00552486187845304"
+      },
+      "meta": {
+        "item_name": "Hydra's fang",
+        "monster_name": "Alchemical Hydra (Five heads)"
+      }
+    },
+    {
+      "id": "22971-8617",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00552486187845304"
+      },
+      "meta": {
+        "item_name": "Hydra's fang",
+        "monster_name": "Alchemical Hydra (Four heads)"
+      }
+    },
+    {
+      "id": "22971-8618",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00552486187845304"
+      },
+      "meta": {
+        "item_name": "Hydra's fang",
+        "monster_name": "Alchemical Hydra (Three heads)"
+      }
+    },
+    {
+      "id": "22971-8609",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000555333422186681"
+      },
+      "meta": {
+        "item_name": "Hydra's fang",
+        "monster_name": "Hydra"
+      }
+    }
+  ]
+}

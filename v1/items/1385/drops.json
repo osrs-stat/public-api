@@ -1,0 +1,84 @@
+{
+  "data": [
+    {
+      "id": "1385-1366",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Staff of earth",
+        "monster_name": "Earth elemental (Normal)"
+      }
+    },
+    {
+      "id": "1385-1367",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Staff of earth",
+        "monster_name": "Earth elemental (Ore)"
+      }
+    },
+    {
+      "id": "1385-2840",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Staff of earth",
+        "monster_name": "Earth warrior"
+      }
+    },
+    {
+      "id": "1385-5126",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Staff of earth",
+        "monster_name": "Experiment No.2"
+      }
+    },
+    {
+      "id": "1385-7310",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.02"
+      },
+      "meta": {
+        "item_name": "Staff of earth",
+        "monster_name": "Brassican Mage"
+      }
+    }
+  ]
+}

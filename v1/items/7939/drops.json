@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "7939-6076",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.078125"
+      },
+      "meta": {
+        "item_name": "Tortoise shell",
+        "monster_name": "Tortoise (With riders)"
+      }
+    },
+    {
+      "id": "7939-6075",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.0625"
+      },
+      "meta": {
+        "item_name": "Tortoise shell",
+        "monster_name": "Tortoise (No riders)"
+      }
+    },
+    {
+      "id": "7939-6075",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.078125"
+      },
+      "meta": {
+        "item_name": "Tortoise shell",
+        "monster_name": "Tortoise (No riders)"
+      }
+    },
+    {
+      "id": "7939-6076",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.0625"
+      },
+      "meta": {
+        "item_name": "Tortoise shell",
+        "monster_name": "Tortoise (With riders)"
+      }
+    }
+  ]
+}

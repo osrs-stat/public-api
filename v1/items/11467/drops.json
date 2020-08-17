@@ -1,0 +1,20 @@
+{
+  "data": [
+    {
+      "id": "11467-5566",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.125"
+      },
+      "meta": {
+        "item_name": "Prayer mix (1 dose)",
+        "monster_name": "Ferocious barbarian spirit"
+      }
+    }
+  ]
+}

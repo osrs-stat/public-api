@@ -1,0 +1,84 @@
+{
+  "data": [
+    {
+      "id": "3755-2259",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00048828125"
+      },
+      "meta": {
+        "item_name": "Farseer helm",
+        "monster_name": "Dagannoth (Waterbirth Island) (Level 88)"
+      }
+    },
+    {
+      "id": "3755-3185",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00048828125"
+      },
+      "meta": {
+        "item_name": "Farseer helm",
+        "monster_name": "Dagannoth (Waterbirth Island) (Level 90)"
+      }
+    },
+    {
+      "id": "3755-2266",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Farseer helm",
+        "monster_name": "Dagannoth Prime"
+      }
+    },
+    {
+      "id": "3755-3185",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00048828125"
+      },
+      "meta": {
+        "item_name": "Farseer helm",
+        "monster_name": "Dagannoth (Waterbirth Island) (Level 90)"
+      }
+    },
+    {
+      "id": "3755-2259",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00048828125"
+      },
+      "meta": {
+        "item_name": "Farseer helm",
+        "monster_name": "Dagannoth (Waterbirth Island) (Level 88)"
+      }
+    }
+  ]
+}

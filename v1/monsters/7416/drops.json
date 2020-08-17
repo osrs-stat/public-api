@@ -1,0 +1,436 @@
+{
+  "data": [
+    {
+      "id": "564-7416",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 60,
+        "quantity_max": 119,
+        "rarity": "0.101694915254237"
+      },
+      "meta": {
+        "item_name": "Cosmic rune",
+        "monster_name": "Obor"
+      }
+    },
+    {
+      "id": "562-7416",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 100,
+        "quantity_max": 199,
+        "rarity": "0.0847457627118644"
+      },
+      "meta": {
+        "item_name": "Chaos rune (Regular)",
+        "monster_name": "Obor"
+      }
+    },
+    {
+      "id": "560-7416",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 40,
+        "quantity_max": 79,
+        "rarity": "0.0847457627118644"
+      },
+      "meta": {
+        "item_name": "Death rune (Regular)",
+        "monster_name": "Obor"
+      }
+    },
+    {
+      "id": "561-7416",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 40,
+        "quantity_max": 79,
+        "rarity": "0.0593220338983051"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Obor"
+      }
+    },
+    {
+      "id": "225-7416",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 20,
+        "quantity_max": null,
+        "rarity": "0.0677966101694915"
+      },
+      "meta": {
+        "item_name": "Limpwurt root",
+        "monster_name": "Obor"
+      }
+    },
+    {
+      "id": "532-7416",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 50,
+        "quantity_max": null,
+        "rarity": "0.0677966101694915"
+      },
+      "meta": {
+        "item_name": "Big bones",
+        "monster_name": "Obor"
+      }
+    },
+    {
+      "id": "1619-7416",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.0423728813559322"
+      },
+      "meta": {
+        "item_name": "Uncut ruby",
+        "monster_name": "Obor"
+      }
+    },
+    {
+      "id": "532-7416",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Big bones",
+        "monster_name": "Obor"
+      }
+    },
+    {
+      "id": "23182-7416",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Clue scroll (beginner)",
+        "monster_name": "Obor"
+      }
+    },
+    {
+      "id": "13474-7416",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Ensouled giant head (Drop)",
+        "monster_name": "Obor"
+      }
+    },
+    {
+      "id": "1201-7416",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0254237288135593"
+      },
+      "meta": {
+        "item_name": "Rune kiteshield",
+        "monster_name": "Obor"
+      }
+    },
+    {
+      "id": "1163-7416",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0423728813559322"
+      },
+      "meta": {
+        "item_name": "Rune full helm",
+        "monster_name": "Obor"
+      }
+    },
+    {
+      "id": "1147-7416",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0508474576271186"
+      },
+      "meta": {
+        "item_name": "Rune med helm",
+        "monster_name": "Obor"
+      }
+    },
+    {
+      "id": "10977-7416",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000199501246882793"
+      },
+      "meta": {
+        "item_name": "Curved bone",
+        "monster_name": "Obor"
+      }
+    },
+    {
+      "id": "6800-7416",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0002"
+      },
+      "meta": {
+        "item_name": "Giant champion scroll",
+        "monster_name": "Obor"
+      }
+    },
+    {
+      "id": "10976-7416",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0025"
+      },
+      "meta": {
+        "item_name": "Long bone",
+        "monster_name": "Obor"
+      }
+    },
+    {
+      "id": "20754-7416",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0625"
+      },
+      "meta": {
+        "item_name": "Giant key",
+        "monster_name": "Obor"
+      }
+    },
+    {
+      "id": "1617-7416",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.0423728813559322"
+      },
+      "meta": {
+        "item_name": "Uncut diamond",
+        "monster_name": "Obor"
+      }
+    },
+    {
+      "id": "1113-7416",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0254237288135593"
+      },
+      "meta": {
+        "item_name": "Rune chainbody",
+        "monster_name": "Obor"
+      }
+    },
+    {
+      "id": "1079-7416",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0254237288135593"
+      },
+      "meta": {
+        "item_name": "Rune platelegs",
+        "monster_name": "Obor"
+      }
+    },
+    {
+      "id": "1093-7416",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0254237288135593"
+      },
+      "meta": {
+        "item_name": "Rune plateskirt",
+        "monster_name": "Obor"
+      }
+    },
+    {
+      "id": "1373-7416",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0338983050847458"
+      },
+      "meta": {
+        "item_name": "Rune battleaxe",
+        "monster_name": "Obor"
+      }
+    },
+    {
+      "id": "1303-7416",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0423728813559322"
+      },
+      "meta": {
+        "item_name": "Rune longsword",
+        "monster_name": "Obor"
+      }
+    },
+    {
+      "id": "20756-7416",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00847457627118644"
+      },
+      "meta": {
+        "item_name": "Hill giant club",
+        "monster_name": "Obor"
+      }
+    },
+    {
+      "id": "1319-7416",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0254237288135593"
+      },
+      "meta": {
+        "item_name": "Rune 2h sword",
+        "monster_name": "Obor"
+      }
+    },
+    {
+      "id": "563-7416",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 50,
+        "quantity_max": 99,
+        "rarity": "0.101694915254237"
+      },
+      "meta": {
+        "item_name": "Law rune",
+        "monster_name": "Obor"
+      }
+    },
+    {
+      "id": "995-7416",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10000,
+        "quantity_max": 20000,
+        "rarity": "0.0847457627118644"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Obor"
+      }
+    }
+  ]
+}

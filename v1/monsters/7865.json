@@ -1,0 +1,119 @@
+{
+  "data": {
+    "id": "7865",
+    "type": "monster",
+    "attributes": {
+      "uuid": "77dbb0e1-6f1b-453e-a98c-5425b2f1c21c",
+      "name": "Lesser demon (Level 94 (Revenant Caves))",
+      "members": true,
+      "release_date": "2017-11-23",
+      "examine": "Lesser, but still pretty big.",
+      "combat_level_override": null,
+      "max_hit_override": 8,
+      "target_types": [
+        "demon"
+      ],
+      "classification_types": [
+        "lesser demon"
+      ],
+      "poison": false,
+      "immune_poison": false,
+      "immune_venom": false,
+      "slayer_xp": 110.0,
+      "slayer_level": 1,
+      "slayer_masters": [
+        "krystilia",
+        "vannaka",
+        "chaeldar"
+      ],
+      "icon_base64": null
+    },
+    "relationships": {
+      "combat_stat": {
+        "data": {
+          "id": "e544d5df-2d9a-4f0e-ab27-f58cf87f0213",
+          "type": "combat_stat"
+        }
+      },
+      "equip_stat": {
+        "data": {
+          "id": "1ea4ad8a-921d-4158-8b50-606161ad5887",
+          "type": "equip_stat"
+        }
+      },
+      "attack_stat": {
+        "data": {
+          "id": "6dc469ed-a809-4bfd-bc61-ce0878f5849e",
+          "type": "attack_stat"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Lesser_demon#Level_94_(Revenant_Caves)"
+    },
+    "meta": {
+      "incomplete": true
+    }
+  },
+  "included": [
+    {
+      "id": "6dc469ed-a809-4bfd-bc61-ce0878f5849e",
+      "type": "attack_stat",
+      "attributes": {
+        "attack_speed": 4,
+        "attack_type": "monster",
+        "special": null,
+        "stances": [
+          {
+            "name": "Monster slash",
+            "style": null,
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": null,
+            "combat_accuracy_stat": "attack_level",
+            "combat_damage_stat": "strength_level",
+            "equip_accuracy_stat": "slash_attack",
+            "equip_damage_stat": "slash_attack",
+            "target_equip_defense_stat": "slash_defense"
+          }
+        ]
+      }
+    },
+    {
+      "id": "e544d5df-2d9a-4f0e-ab27-f58cf87f0213",
+      "type": "monster_combat_stat",
+      "attributes": {
+        "hitpoints_level": 110,
+        "attack_level": 68,
+        "strength_level": 85,
+        "defense_level": 71,
+        "magic_level": 1,
+        "ranged_level": 1,
+        "prayer_level": 0
+      }
+    },
+    {
+      "id": "1ea4ad8a-921d-4158-8b50-606161ad5887",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 0,
+        "slash_attack": 0,
+        "crush_attack": 0,
+        "ranged_attack": 0,
+        "magic_attack": 0,
+        "stab_defense": 0,
+        "slash_defense": 0,
+        "crush_defense": 0,
+        "ranged_defense": 0,
+        "magic_defense": -10,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

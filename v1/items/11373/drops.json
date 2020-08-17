@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "id": "11373-5566",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Mithril hasta (Unpoisoned)",
+        "monster_name": "Ferocious barbarian spirit"
+      }
+    },
+    {
+      "id": "11373-2918",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Mithril hasta (Unpoisoned)",
+        "monster_name": "Brutal green dragon"
+      }
+    }
+  ]
+}

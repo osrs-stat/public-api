@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "4569-2479",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Book page 1",
+        "monster_name": "Scorpion (Level 59)"
+      }
+    },
+    {
+      "id": "4569-2480",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Book page 1",
+        "monster_name": "Scorpion (Level 37)"
+      }
+    },
+    {
+      "id": "4569-3024",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Book page 1",
+        "monster_name": "Scorpion (Level 14)"
+      }
+    },
+    {
+      "id": "4569-5242",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Book page 1",
+        "monster_name": "Scorpion (Level 38)"
+      }
+    }
+  ]
+}

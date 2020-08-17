@@ -1,0 +1,75 @@
+{
+  "data": {
+    "id": "829",
+    "type": "item",
+    "attributes": {
+      "uuid": "1d1d1318-e8d6-4f04-8ba0-9186a2e9bcd9",
+      "name": "Adamant javelin (Unpoisoned)",
+      "members": true,
+      "release_date": "2004-01-21",
+      "examine": "An adamant tipped javelin.",
+      "tradeable": false,
+      "ge_tradeable": false,
+      "lowalch": 64,
+      "highalch": 96,
+      "is_equip": true,
+      "is_weapon": false,
+      "icon_base64": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAA6ElEQVR4Xu3XwQqCQBAGYOdNPEWEhEQeFARBEIoKBKkggkDoEARBt15+YlbWZfXuP1A/DAvq4WNmUTcIfjPEwyugCIQ4KROzDu9OHOJsm5lKq9SA4jBEoYjzfe6VKpDFgEDERV30pWJcFmM3NbQ7t03E7S7yIFCMFLgrEqWYppjhN7DFnMo5ujsOo2BUPgY8Kh+jalSXaqEH8x/VOGQ+CVIyKnh3LEZBd4jvh2VfKjayQB51rOMFKJBnsxr9UgyfnCAOIysYIyGDkVKBeR3XptRg3ufucAfGSIg/V3dSAGNsVGG6qMIg8wXgNRDcmJV8cAAAAABJRU5ErkJggg=="
+    },
+    "relationships": {
+      "equip": {
+        "data": {
+          "id": "3566ddd0-70c1-4f98-90b7-0eae5a5191cc",
+          "type": "equip"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Adamant_javelin#Unpoisoned"
+    },
+    "meta": {
+      "incomplete": false
+    }
+  },
+  "included": [
+    {
+      "id": "3566ddd0-70c1-4f98-90b7-0eae5a5191cc",
+      "type": "equip",
+      "attributes": {
+        "slot": "ammo",
+        "passive_effect": null,
+        "requirements": {
+          "ranged_level": 30
+        }
+      },
+      "relationships": {
+        "equip_stat": {
+          "data": {
+            "id": "77c937a3-17b2-44b5-84dd-d61a1d11df52",
+            "type": "equip_stat"
+          }
+        }
+      }
+    },
+    {
+      "id": "77c937a3-17b2-44b5-84dd-d61a1d11df52",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 0,
+        "slash_attack": 0,
+        "crush_attack": 0,
+        "ranged_attack": 0,
+        "magic_attack": 0,
+        "stab_defense": 0,
+        "slash_defense": 0,
+        "crush_defense": 0,
+        "ranged_defense": 0,
+        "magic_defense": 0,
+        "melee_strength": 0,
+        "ranged_strength": 107,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

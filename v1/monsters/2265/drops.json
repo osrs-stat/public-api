@@ -1,0 +1,916 @@
+{
+  "data": [
+    {
+      "id": "995-2265",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 500,
+        "quantity_max": 1109,
+        "rarity": "0.078125"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Dagannoth Supreme"
+      }
+    },
+    {
+      "id": "886-2265",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 50,
+        "quantity_max": 250,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Steel arrow (Unpoisoned)",
+        "monster_name": "Dagannoth Supreme"
+      }
+    },
+    {
+      "id": "9144-2265",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": 12,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Runite bolts (Unpoisoned)",
+        "monster_name": "Dagannoth Supreme"
+      }
+    },
+    {
+      "id": "884-2265",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 200,
+        "quantity_max": 700,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Iron arrow (Unpoisoned)",
+        "monster_name": "Dagannoth Supreme"
+      }
+    },
+    {
+      "id": "413-2265",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.046875"
+      },
+      "meta": {
+        "item_name": "Oyster pearls",
+        "monster_name": "Dagannoth Supreme"
+      }
+    },
+    {
+      "id": "45-2265",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": 30,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Opal bolt tips",
+        "monster_name": "Dagannoth Supreme"
+      }
+    },
+    {
+      "id": "385-2265",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Shark",
+        "monster_name": "Dagannoth Supreme"
+      }
+    },
+    {
+      "id": "1515-2265",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 50,
+        "quantity_max": 150,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Yew logs",
+        "monster_name": "Dagannoth Supreme"
+      }
+    },
+    {
+      "id": "207-2265",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Dagannoth Supreme"
+      }
+    },
+    {
+      "id": "23083-2265",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0168350168350168"
+      },
+      "meta": {
+        "item_name": "Brimstone key",
+        "monster_name": "Dagannoth Supreme"
+      }
+    },
+    {
+      "id": "2722-2265",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0238095238095238"
+      },
+      "meta": {
+        "item_name": "Clue scroll (hard)",
+        "monster_name": "Dagannoth Supreme"
+      }
+    },
+    {
+      "id": "13492-2265",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.05"
+      },
+      "meta": {
+        "item_name": "Ensouled dagannoth head (Drop)",
+        "monster_name": "Dagannoth Supreme"
+      }
+    },
+    {
+      "id": "314-2265",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 250,
+        "quantity_max": 500,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Feather",
+        "monster_name": "Dagannoth Supreme"
+      }
+    },
+    {
+      "id": "9431-2265",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Runite limbs",
+        "monster_name": "Dagannoth Supreme"
+      }
+    },
+    {
+      "id": "1517-2265",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 15,
+        "quantity_max": 65,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Maple logs",
+        "monster_name": "Dagannoth Supreme"
+      }
+    },
+    {
+      "id": "5302-2265",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00114889705882353"
+      },
+      "meta": {
+        "item_name": "Lantadyme seed",
+        "monster_name": "Dagannoth Supreme"
+      }
+    },
+    {
+      "id": "5301-2265",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00160845588235294"
+      },
+      "meta": {
+        "item_name": "Cadantine seed",
+        "monster_name": "Dagannoth Supreme"
+      }
+    },
+    {
+      "id": "1442-2265",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00111607142857143"
+      },
+      "meta": {
+        "item_name": "Fire talisman",
+        "monster_name": "Dagannoth Supreme"
+      }
+    },
+    {
+      "id": "1440-2265",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00111607142857143"
+      },
+      "meta": {
+        "item_name": "Earth talisman",
+        "monster_name": "Dagannoth Supreme"
+      }
+    },
+    {
+      "id": "1446-2265",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00111607142857143"
+      },
+      "meta": {
+        "item_name": "Body talisman",
+        "monster_name": "Dagannoth Supreme"
+      }
+    },
+    {
+      "id": "1438-2265",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00111607142857143"
+      },
+      "meta": {
+        "item_name": "Air talisman",
+        "monster_name": "Dagannoth Supreme"
+      }
+    },
+    {
+      "id": "12643-2265",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0002"
+      },
+      "meta": {
+        "item_name": "Pet dagannoth supreme",
+        "monster_name": "Dagannoth Supreme"
+      }
+    },
+    {
+      "id": "12073-2265",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00133333333333333"
+      },
+      "meta": {
+        "item_name": "Clue scroll (elite)",
+        "monster_name": "Dagannoth Supreme"
+      }
+    },
+    {
+      "id": "5300-2265",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00229779411764706"
+      },
+      "meta": {
+        "item_name": "Snapdragon seed",
+        "monster_name": "Dagannoth Supreme"
+      }
+    },
+    {
+      "id": "22873-2265",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00344596723377442"
+      },
+      "meta": {
+        "item_name": "Potato cactus seed",
+        "monster_name": "Dagannoth Supreme"
+      }
+    },
+    {
+      "id": "5299-2265",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00344596723377442"
+      },
+      "meta": {
+        "item_name": "Kwuarm seed",
+        "monster_name": "Dagannoth Supreme"
+      }
+    },
+    {
+      "id": "5280-2265",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00482678729037952"
+      },
+      "meta": {
+        "item_name": "Cactus seed",
+        "monster_name": "Dagannoth Supreme"
+      }
+    },
+    {
+      "id": "5106-2265",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00505429759704251"
+      },
+      "meta": {
+        "item_name": "Poison ivy seed",
+        "monster_name": "Dagannoth Supreme"
+      }
+    },
+    {
+      "id": "5298-2265",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00505429759704251"
+      },
+      "meta": {
+        "item_name": "Avantoe seed",
+        "monster_name": "Dagannoth Supreme"
+      }
+    },
+    {
+      "id": "5281-2265",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00712355086622379"
+      },
+      "meta": {
+        "item_name": "Belladonna seed",
+        "monster_name": "Dagannoth Supreme"
+      }
+    },
+    {
+      "id": "5297-2265",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00735244689432643"
+      },
+      "meta": {
+        "item_name": "Irit seed",
+        "monster_name": "Dagannoth Supreme"
+      }
+    },
+    {
+      "id": "5296-2265",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0107992693522907"
+      },
+      "meta": {
+        "item_name": "Toadflax seed",
+        "monster_name": "Dagannoth Supreme"
+      }
+    },
+    {
+      "id": "1462-2265",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000334821428571429"
+      },
+      "meta": {
+        "item_name": "Nature talisman",
+        "monster_name": "Dagannoth Supreme"
+      }
+    },
+    {
+      "id": "1452-2265",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000334821428571429"
+      },
+      "meta": {
+        "item_name": "Chaos talisman",
+        "monster_name": "Dagannoth Supreme"
+      }
+    },
+    {
+      "id": "1454-2265",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000446428571428571"
+      },
+      "meta": {
+        "item_name": "Cosmic talisman",
+        "monster_name": "Dagannoth Supreme"
+      }
+    },
+    {
+      "id": "1444-2265",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00111607142857143"
+      },
+      "meta": {
+        "item_name": "Water talisman",
+        "monster_name": "Dagannoth Supreme"
+      }
+    },
+    {
+      "id": "1448-2265",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00111607142857143"
+      },
+      "meta": {
+        "item_name": "Mind talisman",
+        "monster_name": "Dagannoth Supreme"
+      }
+    },
+    {
+      "id": "5304-2265",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000459558823529412"
+      },
+      "meta": {
+        "item_name": "Torstol seed",
+        "monster_name": "Dagannoth Supreme"
+      }
+    },
+    {
+      "id": "5303-2265",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000689367200302534"
+      },
+      "meta": {
+        "item_name": "Dwarf weed seed",
+        "monster_name": "Dagannoth Supreme"
+      }
+    },
+    {
+      "id": "22879-2265",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.000919117647058824"
+      },
+      "meta": {
+        "item_name": "Snape grass seed",
+        "monster_name": "Dagannoth Supreme"
+      }
+    },
+    {
+      "id": "6729-2265",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Dagannoth bones",
+        "monster_name": "Dagannoth Supreme"
+      }
+    },
+    {
+      "id": "6155-2265",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Dagannoth hide",
+        "monster_name": "Dagannoth Supreme"
+      }
+    },
+    {
+      "id": "866-2265",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 25,
+        "quantity_max": 50,
+        "rarity": "0.078125"
+      },
+      "meta": {
+        "item_name": "Mithril knife (Unpoisoned)",
+        "monster_name": "Dagannoth Supreme"
+      }
+    },
+    {
+      "id": "2489-2265",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0546875"
+      },
+      "meta": {
+        "item_name": "Red d'hide vambraces",
+        "monster_name": "Dagannoth Supreme"
+      }
+    },
+    {
+      "id": "805-2265",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": 10,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Rune thrownaxe",
+        "monster_name": "Dagannoth Supreme"
+      }
+    },
+    {
+      "id": "810-2265",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": 25,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Adamant dart (Unpoisoned)",
+        "monster_name": "Dagannoth Supreme"
+      }
+    },
+    {
+      "id": "863-2265",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 200,
+        "quantity_max": 500,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Iron knife (Unpoisoned)",
+        "monster_name": "Dagannoth Supreme"
+      }
+    },
+    {
+      "id": "865-2265",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 50,
+        "quantity_max": 150,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Steel knife (Unpoisoned)",
+        "monster_name": "Dagannoth Supreme"
+      }
+    },
+    {
+      "id": "3757-2265",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Fremennik blade",
+        "monster_name": "Dagannoth Supreme"
+      }
+    },
+    {
+      "id": "3758-2265",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Fremennik shield",
+        "monster_name": "Dagannoth Supreme"
+      }
+    },
+    {
+      "id": "3748-2265",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Fremennik helm",
+        "monster_name": "Dagannoth Supreme"
+      }
+    },
+    {
+      "id": "6724-2265",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Seercull",
+        "monster_name": "Dagannoth Supreme"
+      }
+    },
+    {
+      "id": "6739-2265",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Dragon axe",
+        "monster_name": "Dagannoth Supreme"
+      }
+    },
+    {
+      "id": "3749-2265",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Archer helm",
+        "monster_name": "Dagannoth Supreme"
+      }
+    },
+    {
+      "id": "6133-2265",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Spined body",
+        "monster_name": "Dagannoth Supreme"
+      }
+    },
+    {
+      "id": "6135-2265",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Spined chaps",
+        "monster_name": "Dagannoth Supreme"
+      }
+    },
+    {
+      "id": "6733-2265",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Archers ring",
+        "monster_name": "Dagannoth Supreme"
+      }
+    }
+  ]
+}

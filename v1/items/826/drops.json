@@ -1,0 +1,116 @@
+{
+  "data": [
+    {
+      "id": "826-7393",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Iron javelin (Unpoisoned)",
+        "monster_name": "Cockathrice"
+      }
+    },
+    {
+      "id": "826-1042",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.0155038759689922"
+      },
+      "meta": {
+        "item_name": "Iron javelin (Unpoisoned)",
+        "monster_name": "Jungle horror"
+      }
+    },
+    {
+      "id": "826-955",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Iron javelin (Unpoisoned)",
+        "monster_name": "Kalphite Worker"
+      }
+    },
+    {
+      "id": "826-419",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Iron javelin (Unpoisoned)",
+        "monster_name": "Cockatrice"
+      }
+    },
+    {
+      "id": "826-3049",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Iron javelin (Unpoisoned)",
+        "monster_name": "Hobgoblin (Level 28)"
+      }
+    },
+    {
+      "id": "826-2241",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Iron javelin (Unpoisoned)",
+        "monster_name": "Hobgoblin (Level 47)"
+      }
+    },
+    {
+      "id": "826-3050",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Iron javelin (Unpoisoned)",
+        "monster_name": "Hobgoblin (Level 42)"
+      }
+    }
+  ]
+}

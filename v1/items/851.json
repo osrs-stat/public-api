@@ -1,0 +1,143 @@
+{
+  "data": {
+    "id": "851",
+    "type": "item",
+    "attributes": {
+      "uuid": "8683918d-0f5c-485e-85cc-92083866ce02",
+      "name": "Maple longbow",
+      "members": false,
+      "release_date": "2002-03-25",
+      "examine": "A nice sturdy bow made out of Maple.",
+      "tradeable": false,
+      "ge_tradeable": false,
+      "lowalch": 256,
+      "highalch": 384,
+      "is_equip": true,
+      "is_weapon": true,
+      "icon_base64": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABbUlEQVR4XtWX3UrDMBiGmzvZJXgbHigyFEEURLpKZdSJOsuUKc4fnJRtFHuygSIqMsQDT2R44IEX9srXUNNkO84XHwi0aaAPb5J+qedpCOj3rAi8p11IKSfEBOq+j9N6DW+DGxfEBBphmEvR9V27iXH/mltMl9qqLiA9OcBr75JTTJeiFtc20W/t4yUpi1mVm5ai1vQ30Iv38HTbwWSU8krNVSp/YudRkEupfmsIREFgvFhgZ205T4pBiFBS5T5aVx9ZYnvaCkwpgfXFeWRnMW9KphQt8p/xI19KtMhNKfocfD+P3JLqHkb4esh4pfS1I3CxG+JzOOCXKvdtr1Z5d94sKWrqGGOd2VLJUcOYUquYUgL+yhKnEDEtVdQ6fZw15GlTSckCzJ6SeTK4v2pzpkSUa57AsHPMnRKhpKjWFVLmKMsoKfpZcCAlQu48Kr6FlDmCASXlSEqE/HIXUuZTJuSuo4QcScnznJL51/wC021HELN18GYAAAAASUVORK5CYII="
+    },
+    "relationships": {
+      "equip": {
+        "data": {
+          "id": "3fffbe3a-f1c2-43b1-8b55-2bf28f25a009",
+          "type": "equip"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Maple_longbow"
+    },
+    "meta": {
+      "incomplete": false
+    }
+  },
+  "included": [
+    {
+      "id": "3fffbe3a-f1c2-43b1-8b55-2bf28f25a009",
+      "type": "equip",
+      "attributes": {
+        "slot": "weapon_2h",
+        "passive_effect": null,
+        "requirements": {
+          "ranged_level": 30
+        }
+      },
+      "relationships": {
+        "equip_stat": {
+          "data": {
+            "id": "a5550da2-ec31-42c8-8609-9052ebc6c0e5",
+            "type": "equip_stat"
+          }
+        },
+        "attack_stat": {
+          "data": {
+            "id": "22944551-2b12-499d-b416-ab945c947937",
+            "type": "attack_stat"
+          }
+        }
+      }
+    },
+    {
+      "id": "22944551-2b12-499d-b416-ab945c947937",
+      "type": "attack_stat",
+      "attributes": {
+        "attack_speed": 6,
+        "attack_type": "bow",
+        "special": null,
+        "stances": [
+          {
+            "name": "accurate",
+            "style": null,
+            "boosts": {
+              "accuracy": 3,
+              "damage": 3
+            },
+            "experience": {
+              "hitpoints": 1.3333,
+              "ranged": 2
+            },
+            "combat_accuracy_stat": "ranged_level",
+            "combat_damage_stat": "ranged_level",
+            "equip_accuracy_stat": "ranged_attack",
+            "equip_damage_stat": "ranged_attack",
+            "target_equip_defense_stat": "ranged_defense"
+          },
+          {
+            "name": "rapid",
+            "style": null,
+            "boosts": {
+              "attack_speed": 1
+            },
+            "experience": {
+              "hitpoints": 1.3333,
+              "ranged": 2
+            },
+            "combat_accuracy_stat": "ranged_level",
+            "combat_damage_stat": "ranged_level",
+            "equip_accuracy_stat": "ranged_attack",
+            "equip_damage_stat": "ranged_attack",
+            "target_equip_defense_stat": "ranged_defense"
+          },
+          {
+            "name": "longrange",
+            "style": null,
+            "boosts": {
+              "defense": 3,
+              "attack_range": 2
+            },
+            "experience": {
+              "hitpoints": 1.3333,
+              "ranged": 1.3333,
+              "defense": 1.3333
+            },
+            "combat_accuracy_stat": "ranged_level",
+            "combat_damage_stat": "ranged_level",
+            "equip_accuracy_stat": "ranged_attack",
+            "equip_damage_stat": "ranged_attack",
+            "target_equip_defense_stat": "ranged_defense"
+          }
+        ]
+      }
+    },
+    {
+      "id": "a5550da2-ec31-42c8-8609-9052ebc6c0e5",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 0,
+        "slash_attack": 0,
+        "crush_attack": 0,
+        "ranged_attack": 29,
+        "magic_attack": 0,
+        "stab_defense": 0,
+        "slash_defense": 0,
+        "crush_defense": 0,
+        "ranged_defense": 0,
+        "magic_defense": 0,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

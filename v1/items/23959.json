@@ -1,0 +1,31 @@
+{
+  "data": {
+    "id": "23959",
+    "type": "item",
+    "attributes": {
+      "uuid": "be475f09-6404-44f7-ab0e-582b5099f757",
+      "name": "Enhanced crystal teleport seed",
+      "members": true,
+      "release_date": "2019-07-25",
+      "examine": "A seed to be sung into an infinite teleport crystal.",
+      "tradeable": false,
+      "ge_tradeable": false,
+      "lowalch": 40000,
+      "highalch": 60000,
+      "is_equip": false,
+      "is_weapon": false,
+      "icon_base64": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAApklEQVR4XmNgGAWjYBSMglFALmD8j4kHDDD+r+ntxMAD6CjG/5U9HXCHRBRkwfEAOQriIBBGdswAOgriIJDlgWmJcDyAjkI4CN1RyI6jc2JnxOsgZDyoHGXr6/XfxMGOvo4qnNCB4RCYY5AdZKCgQD9HIYeStZcbHA+Qg0AAkoCRHQPDA+QgBgaIhejVCQSD5OjuIBiAWY6O0dWNglEwCkbBKBgOAADQPNg/kfGE8AAAAABJRU5ErkJggg=="
+    },
+    "relationships": {
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Enhanced_crystal_teleport_seed"
+    },
+    "meta": {
+      "incomplete": false
+    }
+  },
+  "included": [
+
+  ]
+}

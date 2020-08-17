@@ -1,0 +1,75 @@
+{
+  "data": {
+    "id": "4125",
+    "type": "item",
+    "attributes": {
+      "uuid": "5e29a345-5105-45c7-bd65-7e631865abe1",
+      "name": "Black boots",
+      "members": true,
+      "release_date": "2005-01-26",
+      "examine": "These will protect my feet.",
+      "tradeable": false,
+      "ge_tradeable": false,
+      "lowalch": 230,
+      "highalch": 345,
+      "is_equip": true,
+      "is_weapon": false,
+      "icon_base64": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACEUlEQVR4Xu2UQWvCQBCF3WMPHjwEQkAIIYQgIlIsoigNCMWClLaU0lP//7+YMtm+OJlsNIlWoe3Au+1mvnlvNr3ef/3eMmR19bIgm9kw15XB9iCsp80d7bJbmsSeALsYoKHtPCz0+jAvgLbrKW2WE8rmI0rDAQXejQPwrJCGdssoF8O8Py4rQItxQLPUpyjoF0DSzfupjPckOEPP6zgXoDQQN2Mgjg5ADK6jlU6eAGeBpENSmN4FVBctOynPtoQy9JYlBZQEkXFwE94fbtIkWpwF0DQMm0JZIBYaSRAITbSbddGeAMS1dwkNZVSyiQbic65oAQSYlkBchj52qzyGfOLvhhLKG7iBdLQA6ugOytDnS1aCwpIupglN0pDi0K/sm47XtdAdgAylSUJxFOUKh0MKfD/XbBwVMMPAI9/rF+dYcBFOYtfYTVYHoHoYdkYD2SdspZ87/39Ws7R0ryVQPcwxIL6HuxJGn2dH7Z1GZUowkI5rFAclIAmjB+E7OA+Yhq/MDQNJdw4BySGw/HxeutMKpg4KQIdgXO7oeFu744JyxeWCkUB6gBbucLmBIH6uEkgusoY5Q1xcbiAZ1zEYDSTjwp2GcaGqS613YT9hdQDtDuKSIC1gUPufHGAQV3nCMhBgdFwdXKmWbCpV/nDVTQg/w+qdM5S0uvphC6XjZXd+BKZZlV10u3nh0i5eFeZP1BdcLinlazT7wwAAAABJRU5ErkJggg=="
+    },
+    "relationships": {
+      "equip": {
+        "data": {
+          "id": "cd4879c2-7c72-49e5-b004-0c0a2472515d",
+          "type": "equip"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Black_boots"
+    },
+    "meta": {
+      "incomplete": false
+    }
+  },
+  "included": [
+    {
+      "id": "cd4879c2-7c72-49e5-b004-0c0a2472515d",
+      "type": "equip",
+      "attributes": {
+        "slot": "boots",
+        "passive_effect": null,
+        "requirements": {
+          "defense_level": 10
+        }
+      },
+      "relationships": {
+        "equip_stat": {
+          "data": {
+            "id": "a914d925-7e74-4187-9183-641dcb84579e",
+            "type": "equip_stat"
+          }
+        }
+      }
+    },
+    {
+      "id": "a914d925-7e74-4187-9183-641dcb84579e",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 0,
+        "slash_attack": 0,
+        "crush_attack": 0,
+        "ranged_attack": -1,
+        "magic_attack": -3,
+        "stab_defense": 7,
+        "slash_defense": 8,
+        "crush_defense": 9,
+        "ranged_defense": 0,
+        "magic_defense": 0,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

@@ -1,0 +1,628 @@
+{
+  "data": [
+    {
+      "id": "1237-6435",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Bronze spear (Unpoisoned)",
+        "monster_name": "Cave goblin (monster) (Beige)"
+      }
+    },
+    {
+      "id": "1237-530",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0507246376811594"
+      },
+      "meta": {
+        "item_name": "Bronze spear (Unpoisoned)",
+        "monster_name": "Tribesman"
+      }
+    },
+    {
+      "id": "1237-655",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Bronze spear (Unpoisoned)",
+        "monster_name": "Goblin (Level 5)"
+      }
+    },
+    {
+      "id": "1237-655",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0703125"
+      },
+      "meta": {
+        "item_name": "Bronze spear (Unpoisoned)",
+        "monster_name": "Goblin (Level 5)"
+      }
+    },
+    {
+      "id": "1237-970",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Bronze spear (Unpoisoned)",
+        "monster_name": "Dagannoth (Level 74 (1))"
+      }
+    },
+    {
+      "id": "1237-973",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Bronze spear (Unpoisoned)",
+        "monster_name": "Dagannoth (Level 92 (1))"
+      }
+    },
+    {
+      "id": "1237-2094",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.232558139534884"
+      },
+      "meta": {
+        "item_name": "Bronze spear (Unpoisoned)",
+        "monster_name": "Jogre (Normal)"
+      }
+    },
+    {
+      "id": "1237-2234",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.232558139534884"
+      },
+      "meta": {
+        "item_name": "Bronze spear (Unpoisoned)",
+        "monster_name": "Jogre (GWD)"
+      }
+    },
+    {
+      "id": "1237-2241",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Bronze spear (Unpoisoned)",
+        "monster_name": "Hobgoblin (Level 47)"
+      }
+    },
+    {
+      "id": "1237-2245",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Bronze spear (Unpoisoned)",
+        "monster_name": "Goblin (Level 17)"
+      }
+    },
+    {
+      "id": "1237-2245",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0703125"
+      },
+      "meta": {
+        "item_name": "Bronze spear (Unpoisoned)",
+        "monster_name": "Goblin (Level 17)"
+      }
+    },
+    {
+      "id": "1237-2246",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Bronze spear (Unpoisoned)",
+        "monster_name": "Goblin (Level 12 (1))"
+      }
+    },
+    {
+      "id": "1237-2246",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0703125"
+      },
+      "meta": {
+        "item_name": "Bronze spear (Unpoisoned)",
+        "monster_name": "Goblin (Level 12 (1))"
+      }
+    },
+    {
+      "id": "1237-2247",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Bronze spear (Unpoisoned)",
+        "monster_name": "Goblin (Level 12 (2))"
+      }
+    },
+    {
+      "id": "1237-2247",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0703125"
+      },
+      "meta": {
+        "item_name": "Bronze spear (Unpoisoned)",
+        "monster_name": "Goblin (Level 12 (2))"
+      }
+    },
+    {
+      "id": "1237-2248",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Bronze spear (Unpoisoned)",
+        "monster_name": "Goblin (Level 15)"
+      }
+    },
+    {
+      "id": "1237-2248",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0703125"
+      },
+      "meta": {
+        "item_name": "Bronze spear (Unpoisoned)",
+        "monster_name": "Goblin (Level 15)"
+      }
+    },
+    {
+      "id": "1237-2249",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Bronze spear (Unpoisoned)",
+        "monster_name": "Goblin (Level 13 (GWD))"
+      }
+    },
+    {
+      "id": "1237-2249",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0703125"
+      },
+      "meta": {
+        "item_name": "Bronze spear (Unpoisoned)",
+        "monster_name": "Goblin (Level 13 (GWD))"
+      }
+    },
+    {
+      "id": "1237-2481",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.099009900990099"
+      },
+      "meta": {
+        "item_name": "Bronze spear (Unpoisoned)",
+        "monster_name": "Minotaur (Level 12)"
+      }
+    },
+    {
+      "id": "1237-2483",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.099009900990099"
+      },
+      "meta": {
+        "item_name": "Bronze spear (Unpoisoned)",
+        "monster_name": "Minotaur (Level 27)"
+      }
+    },
+    {
+      "id": "1237-2485",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Bronze spear (Unpoisoned)",
+        "monster_name": "Goblin (Level 13)"
+      }
+    },
+    {
+      "id": "1237-2485",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0703125"
+      },
+      "meta": {
+        "item_name": "Bronze spear (Unpoisoned)",
+        "monster_name": "Goblin (Level 13)"
+      }
+    },
+    {
+      "id": "1237-2486",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Bronze spear (Unpoisoned)",
+        "monster_name": "Goblin (Level 11)"
+      }
+    },
+    {
+      "id": "1237-2486",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0703125"
+      },
+      "meta": {
+        "item_name": "Bronze spear (Unpoisoned)",
+        "monster_name": "Goblin (Level 11)"
+      }
+    },
+    {
+      "id": "1237-2487",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Bronze spear (Unpoisoned)",
+        "monster_name": "Goblin (Level 16)"
+      }
+    },
+    {
+      "id": "1237-2487",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0703125"
+      },
+      "meta": {
+        "item_name": "Bronze spear (Unpoisoned)",
+        "monster_name": "Goblin (Level 16)"
+      }
+    },
+    {
+      "id": "1237-2488",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Bronze spear (Unpoisoned)",
+        "monster_name": "Goblin (Level 25)"
+      }
+    },
+    {
+      "id": "1237-2488",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0703125"
+      },
+      "meta": {
+        "item_name": "Bronze spear (Unpoisoned)",
+        "monster_name": "Goblin (Level 25)"
+      }
+    },
+    {
+      "id": "1237-3028",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Bronze spear (Unpoisoned)",
+        "monster_name": "Goblin (Level 2)"
+      }
+    },
+    {
+      "id": "1237-3028",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0703125"
+      },
+      "meta": {
+        "item_name": "Bronze spear (Unpoisoned)",
+        "monster_name": "Goblin (Level 2)"
+      }
+    },
+    {
+      "id": "1237-3049",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Bronze spear (Unpoisoned)",
+        "monster_name": "Hobgoblin (Level 28)"
+      }
+    },
+    {
+      "id": "1237-3050",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Bronze spear (Unpoisoned)",
+        "monster_name": "Hobgoblin (Level 42)"
+      }
+    },
+    {
+      "id": "1237-5369",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Bronze spear (Unpoisoned)",
+        "monster_name": "Goblin guard"
+      }
+    },
+    {
+      "id": "1237-6434",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Bronze spear (Unpoisoned)",
+        "monster_name": "Cave goblin (monster) (Blue)"
+      }
+    },
+    {
+      "id": "1237-6436",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Bronze spear (Unpoisoned)",
+        "monster_name": "Cave goblin (monster) (Brown)"
+      }
+    },
+    {
+      "id": "1237-6437",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Bronze spear (Unpoisoned)",
+        "monster_name": "Cave goblin (monster) (Backpack)"
+      }
+    },
+    {
+      "id": "1237-7259",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Bronze spear (Unpoisoned)",
+        "monster_name": "Dagannoth (Level 74 (2))"
+      }
+    },
+    {
+      "id": "1237-7260",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Bronze spear (Unpoisoned)",
+        "monster_name": "Dagannoth (Level 92 (2))"
+      }
+    }
+  ]
+}

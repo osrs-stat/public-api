@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "id": "6705-7806",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.0625"
+      },
+      "meta": {
+        "item_name": "Potato with cheese",
+        "monster_name": "Deranged archaeologist"
+      }
+    },
+    {
+      "id": "6705-6618",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.0625"
+      },
+      "meta": {
+        "item_name": "Potato with cheese",
+        "monster_name": "Crazy archaeologist"
+      }
+    }
+  ]
+}

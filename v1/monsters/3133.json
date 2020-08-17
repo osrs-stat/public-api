@@ -1,0 +1,122 @@
+{
+  "data": {
+    "id": "3133",
+    "type": "monster",
+    "attributes": {
+      "uuid": "bfc20898-98c1-423a-a781-3e32aaaeeb66",
+      "name": "Hellhound (Level 127)",
+      "members": true,
+      "release_date": "2013-10-17",
+      "examine": "From the maws of hell.",
+      "combat_level_override": null,
+      "max_hit_override": null,
+      "target_types": [
+
+      ],
+      "classification_types": [
+        "hellhound"
+      ],
+      "poison": false,
+      "immune_poison": false,
+      "immune_venom": false,
+      "slayer_xp": 116.0,
+      "slayer_level": 1,
+      "slayer_masters": [
+        "krystilia",
+        "vannaka",
+        "chaeldar",
+        "konar",
+        "nieve",
+        "duradel"
+      ],
+      "icon_base64": null
+    },
+    "relationships": {
+      "combat_stat": {
+        "data": {
+          "id": "08cb938f-12d0-42a2-a284-795dc628870a",
+          "type": "combat_stat"
+        }
+      },
+      "equip_stat": {
+        "data": {
+          "id": "cf6902d2-8c57-49f5-a8e3-c872c5a1fb90",
+          "type": "equip_stat"
+        }
+      },
+      "attack_stat": {
+        "data": {
+          "id": "156280cc-e072-436d-ab66-829e3110380b",
+          "type": "attack_stat"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Hellhound#Level_127"
+    },
+    "meta": {
+      "incomplete": true
+    }
+  },
+  "included": [
+    {
+      "id": "156280cc-e072-436d-ab66-829e3110380b",
+      "type": "attack_stat",
+      "attributes": {
+        "attack_speed": 4,
+        "attack_type": "monster",
+        "special": null,
+        "stances": [
+          {
+            "name": "Monster stab",
+            "style": null,
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": null,
+            "combat_accuracy_stat": "attack_level",
+            "combat_damage_stat": "strength_level",
+            "equip_accuracy_stat": "stab_attack",
+            "equip_damage_stat": "stab_attack",
+            "target_equip_defense_stat": "stab_defense"
+          }
+        ]
+      }
+    },
+    {
+      "id": "08cb938f-12d0-42a2-a284-795dc628870a",
+      "type": "monster_combat_stat",
+      "attributes": {
+        "hitpoints_level": 116,
+        "attack_level": 107,
+        "strength_level": 116,
+        "defense_level": 106,
+        "magic_level": 1,
+        "ranged_level": 1,
+        "prayer_level": 0
+      }
+    },
+    {
+      "id": "cf6902d2-8c57-49f5-a8e3-c872c5a1fb90",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 0,
+        "slash_attack": 0,
+        "crush_attack": 0,
+        "ranged_attack": 0,
+        "magic_attack": 0,
+        "stab_defense": 0,
+        "slash_defense": 0,
+        "crush_defense": 0,
+        "ranged_defense": 0,
+        "magic_defense": 0,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

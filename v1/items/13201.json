@@ -1,0 +1,31 @@
+{
+  "data": {
+    "id": "13201",
+    "type": "item",
+    "attributes": {
+      "uuid": "a70c5284-073a-4eb0-9086-d280bed14cec",
+      "name": "Magma mutagen",
+      "members": true,
+      "release_date": "2015-04-30",
+      "examine": "Triggers mutation in a serpentine helm.",
+      "tradeable": false,
+      "ge_tradeable": false,
+      "lowalch": 3800,
+      "highalch": 5700,
+      "is_equip": false,
+      "is_weapon": false,
+      "icon_base64": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABxklEQVR4Xu3Wz0cEYRwG8H2Pe5jDHIYxDKtDkqyktcqmU6nsobL90FY21Wb7JUo6dOgQHaJ/oENERNeISEREIhLp1CWJRCLdnjzzehvNvfedwz68l2HNxzPv+303kaimGqMRiD4xGIFioR4xQgksVzLId9TEBSWwOp/9BTWmUiZRAlfD7p+GjIMeSh6Wys3xAV2PuDjudbDXaWOl2TK5j/higdN+BwfdDrbbbEw1JE20JCH8VLejbrCH9rtsrGctEyCB91kfL2UfT5MeHic8XA65OMo72Gm3sdRkYbBWoqK//KcIfC34+Jz38VaRKLZ00if30EaLhUo6ia6UNpQEcX0v+nid8YOWLgbDltYyFop1SeS8hA5UCOJiS8/THm6KsqXdDhtbOdlSxpWgf95PIvhcUdDdmIfzAdmSOm2xAB32OEFDBKWdGIA4jwgq1RsEcQTcj4egzVYJqrU1ghQqCuKAJIinzAhIDUmCzgoSxFlEkG9pAnHPsBkF4ixSIDUcOa01gRgRDEPCPuZCEC9ZgninqeuDGA0gRgQIXh1si6eMIA5GgjTNoGjkrc/F/0OcQQSpZxrbCRO+NMSpZ9ox0cQGUo2p/AA9wK6Ri5rQEgAAAABJRU5ErkJggg=="
+    },
+    "relationships": {
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Magma_mutagen"
+    },
+    "meta": {
+      "incomplete": false
+    }
+  },
+  "included": [
+
+  ]
+}

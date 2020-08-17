@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "861-2211",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 2,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Magic shortbow",
+        "monster_name": "Spiritual ranger (Saradomin)"
+      }
+    },
+    {
+      "id": "861-3167",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 2,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Magic shortbow",
+        "monster_name": "Spiritual ranger (Armadyl)"
+      }
+    },
+    {
+      "id": "861-3160",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 2,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Magic shortbow",
+        "monster_name": "Spiritual ranger (Zamorak)"
+      }
+    },
+    {
+      "id": "861-2242",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 2,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Magic shortbow",
+        "monster_name": "Spiritual ranger (Bandos)"
+      }
+    }
+  ]
+}

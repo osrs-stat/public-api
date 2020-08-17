@@ -1,0 +1,73 @@
+{
+  "data": {
+    "id": "2922",
+    "type": "item",
+    "attributes": {
+      "uuid": "654bd1c6-633f-4179-aa9d-93807e7ba763",
+      "name": "Yellow gloves",
+      "members": false,
+      "release_date": "2004-06-29",
+      "examine": "These will keep my hands warm!",
+      "tradeable": false,
+      "ge_tradeable": false,
+      "lowalch": 200,
+      "highalch": 300,
+      "is_equip": true,
+      "is_weapon": false,
+      "icon_base64": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACgUlEQVR4Xu2U34dUYRjH972ci3MxF4fjsOyf0D/QTRddpC72osSSpCQpxUqxVKySZZWsUqmUZVdZlVVKiRSRiEQi0k3X/QVPPu/je86ZMzs1s5ozN/Pwdd6Zc+Y8n/k+PyYmxjEOIlipkUew7+u5/Xo5ab/fTlbARgIX7ONKZp9WM/v6KLefzx2M64+n+Siggn1YzgqoL2t5dAt9e+JAW6ammoQK9u5uZu/vZwXY54d5hxp2Kdib21kBhTgDV1WDUMFe3cjs9S0X5xfX0gIMAYwaggoR4NlSautXU3t8ObW1RT8DIVD1UgP9FCLAyqXUli+kdm++bXfOu3BLjjXU3MEeLDjEzbNtuz7XtqUzLs5A4lxD7pQwJF+c7dSVUw5J6TbpzqCbNcSkF48nNrsvsfmjSTxLCycdjDIOCOQgG6/9XvLfnT6QxM/H9ibxfO5wKQAR7g0A5BPCiGrTapmxcRHfcZ9J4VlKVIUS2IkZh5LmDrlwq0+gECeBxqPO2iX1Jce9aq9w5TeC8kTBDk63olOAIcqIgOobSI1HnUnKDmEqcKLqCP3AVeOrBGWSYDM7WhHqyG4XcAiovoGoNVD8c9wiqcDkDPcB4ooz1SVXfx9Q+3e5gBOgoDqf74oQraXxNBGIHSLHABUQvcBnlmAvoOltrag9210C7Ha0Z4SizlWpRJQTQEABAo7vtVvqb1M56+oThvBmVN2rAkybF6CqS5Su7KfOUPK66s/9JUqr62J8cUVlo7xyiT5jMjeC+g/RbTPaudUbUj2mLSyXBizHYFG32JM4lJofGE0mUymg+ruGHA7FTqGvBDZUd/4dDqWdgksjcqcamx7l4UV3j42jmfgDZ53uRmEf2QsAAAAASUVORK5CYII="
+    },
+    "relationships": {
+      "equip": {
+        "data": {
+          "id": "cb9f62be-c5b7-46ce-85c3-5398fdf7c333",
+          "type": "equip"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Yellow_gloves"
+    },
+    "meta": {
+      "incomplete": false
+    }
+  },
+  "included": [
+    {
+      "id": "cb9f62be-c5b7-46ce-85c3-5398fdf7c333",
+      "type": "equip",
+      "attributes": {
+        "slot": "gloves",
+        "passive_effect": null,
+        "requirements": null
+      },
+      "relationships": {
+        "equip_stat": {
+          "data": {
+            "id": "1ffbe244-1d56-49e9-860c-01a11ce625ff",
+            "type": "equip_stat"
+          }
+        }
+      }
+    },
+    {
+      "id": "1ffbe244-1d56-49e9-860c-01a11ce625ff",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 0,
+        "slash_attack": 0,
+        "crush_attack": 0,
+        "ranged_attack": 0,
+        "magic_attack": 0,
+        "stab_defense": 0,
+        "slash_defense": 1,
+        "crush_defense": 2,
+        "ranged_defense": 0,
+        "magic_defense": 0,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

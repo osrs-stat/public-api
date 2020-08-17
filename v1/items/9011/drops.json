@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "id": "9011-2500",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03"
+      },
+      "meta": {
+        "item_name": "Bottom of sceptre",
+        "monster_name": "Flesh Crawler (Level 41)"
+      }
+    },
+    {
+      "id": "9011-2499",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03"
+      },
+      "meta": {
+        "item_name": "Bottom of sceptre",
+        "monster_name": "Flesh Crawler (Level 35)"
+      }
+    },
+    {
+      "id": "9011-2498",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03"
+      },
+      "meta": {
+        "item_name": "Bottom of sceptre",
+        "monster_name": "Flesh Crawler (Level 28)"
+      }
+    }
+  ]
+}

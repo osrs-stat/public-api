@@ -1,0 +1,180 @@
+{
+  "data": [
+    {
+      "id": "4696-2500",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 3,
+        "quantity_max": 9,
+        "rarity": "0.04"
+      },
+      "meta": {
+        "item_name": "Dust rune",
+        "monster_name": "Flesh Crawler (Level 41)"
+      }
+    },
+    {
+      "id": "4696-423",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 200,
+        "quantity_max": null,
+        "rarity": "0.078125"
+      },
+      "meta": {
+        "item_name": "Dust rune",
+        "monster_name": "Dust devil (Level 93)"
+      }
+    },
+    {
+      "id": "4696-7404",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 200,
+        "quantity_max": null,
+        "rarity": "0.078125"
+      },
+      "meta": {
+        "item_name": "Dust rune",
+        "monster_name": "Choke devil"
+      }
+    },
+    {
+      "id": "4696-7249",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 200,
+        "quantity_max": null,
+        "rarity": "0.078125"
+      },
+      "meta": {
+        "item_name": "Dust rune",
+        "monster_name": "Dust devil (Level 110)"
+      }
+    },
+    {
+      "id": "4696-6615",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 30,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Dust rune",
+        "monster_name": "Scorpia"
+      }
+    },
+    {
+      "id": "4696-3168",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 15,
+        "quantity_max": null,
+        "rarity": "0.0859375"
+      },
+      "meta": {
+        "item_name": "Dust rune",
+        "monster_name": "Spiritual mage (Armadyl)"
+      }
+    },
+    {
+      "id": "4696-3161",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 15,
+        "quantity_max": null,
+        "rarity": "0.0859375"
+      },
+      "meta": {
+        "item_name": "Dust rune",
+        "monster_name": "Spiritual mage (Zamorak)"
+      }
+    },
+    {
+      "id": "4696-2244",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 15,
+        "quantity_max": null,
+        "rarity": "0.0859375"
+      },
+      "meta": {
+        "item_name": "Dust rune",
+        "monster_name": "Spiritual mage (Bandos)"
+      }
+    },
+    {
+      "id": "4696-2498",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 3,
+        "quantity_max": 9,
+        "rarity": "0.04"
+      },
+      "meta": {
+        "item_name": "Dust rune",
+        "monster_name": "Flesh Crawler (Level 28)"
+      }
+    },
+    {
+      "id": "4696-2212",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 15,
+        "quantity_max": null,
+        "rarity": "0.0859375"
+      },
+      "meta": {
+        "item_name": "Dust rune",
+        "monster_name": "Spiritual mage (Saradomin)"
+      }
+    },
+    {
+      "id": "4696-2499",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 3,
+        "quantity_max": 9,
+        "rarity": "0.04"
+      },
+      "meta": {
+        "item_name": "Dust rune",
+        "monster_name": "Flesh Crawler (Level 35)"
+      }
+    }
+  ]
+}

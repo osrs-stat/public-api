@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "5616-3167",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Bronze arrow (Poison+)",
+        "monster_name": "Spiritual ranger (Armadyl)"
+      }
+    },
+    {
+      "id": "5616-2211",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Bronze arrow (Poison+)",
+        "monster_name": "Spiritual ranger (Saradomin)"
+      }
+    },
+    {
+      "id": "5616-2242",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Bronze arrow (Poison+)",
+        "monster_name": "Spiritual ranger (Bandos)"
+      }
+    },
+    {
+      "id": "5616-3160",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Bronze arrow (Poison+)",
+        "monster_name": "Spiritual ranger (Zamorak)"
+      }
+    }
+  ]
+}

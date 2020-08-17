@@ -1,0 +1,84 @@
+{
+  "data": [
+    {
+      "id": "8780-6902",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 5,
+        "quantity_max": 10,
+        "rarity": "0.125"
+      },
+      "meta": {
+        "item_name": "Teak plank",
+        "monster_name": "Gang boss (Male)"
+      }
+    },
+    {
+      "id": "8780-319",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 100,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Teak plank",
+        "monster_name": "Corporeal Beast"
+      }
+    },
+    {
+      "id": "8780-6900",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 5,
+        "quantity_max": 10,
+        "rarity": "0.125"
+      },
+      "meta": {
+        "item_name": "Teak plank",
+        "monster_name": "Gang boss (Female)"
+      }
+    },
+    {
+      "id": "8780-6896",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 5,
+        "quantity_max": 10,
+        "rarity": "0.125"
+      },
+      "meta": {
+        "item_name": "Teak plank",
+        "monster_name": "Gangster (Level 45)"
+      }
+    },
+    {
+      "id": "8780-6898",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 5,
+        "quantity_max": 10,
+        "rarity": "0.125"
+      },
+      "meta": {
+        "item_name": "Teak plank",
+        "monster_name": "Gangster (Level 50)"
+      }
+    }
+  ]
+}

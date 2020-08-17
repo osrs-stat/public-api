@@ -1,0 +1,948 @@
+{
+  "data": [
+    {
+      "id": "2359-8067",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.05"
+      },
+      "meta": {
+        "item_name": "Mithril bar",
+        "monster_name": "Zombie (Shayzien Crypts) (Melee)"
+      }
+    },
+    {
+      "id": "2359-291",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.046875"
+      },
+      "meta": {
+        "item_name": "Mithril bar",
+        "monster_name": "Chaos dwarf"
+      }
+    },
+    {
+      "id": "2359-412",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 15,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Mithril bar",
+        "monster_name": "Gargoyle"
+      }
+    },
+    {
+      "id": "2359-423",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Mithril bar",
+        "monster_name": "Dust devil (Level 93)"
+      }
+    },
+    {
+      "id": "2359-499",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 20,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Mithril bar",
+        "monster_name": "Thermonuclear smoke devil"
+      }
+    },
+    {
+      "id": "2359-794",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 22,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Mithril bar",
+        "monster_name": "Scarab mage (Level 93)"
+      }
+    },
+    {
+      "id": "2359-795",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 22,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Mithril bar",
+        "monster_name": "Locust rider (Lancer)"
+      }
+    },
+    {
+      "id": "2359-796",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 22,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Mithril bar",
+        "monster_name": "Locust rider (Ranger)"
+      }
+    },
+    {
+      "id": "2359-799",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 22,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Mithril bar",
+        "monster_name": "Scarab mage (Level 66 (Quest))"
+      }
+    },
+    {
+      "id": "2359-800",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 22,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Mithril bar",
+        "monster_name": "Locust rider (Lancer (Quest))"
+      }
+    },
+    {
+      "id": "2359-801",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 22,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Mithril bar",
+        "monster_name": "Locust rider (Ranger (Quest))"
+      }
+    },
+    {
+      "id": "2359-1144",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Mithril bar",
+        "monster_name": "https://oldschool.runescape.wiki/w/Paladin#Level_59"
+      }
+    },
+    {
+      "id": "2359-2090",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.046875"
+      },
+      "meta": {
+        "item_name": "Mithril bar",
+        "monster_name": "Moss giant (Level 42)"
+      }
+    },
+    {
+      "id": "2359-2853",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Mithril bar",
+        "monster_name": "Shadow warrior"
+      }
+    },
+    {
+      "id": "2359-2916",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 10,
+        "quantity_max": 15,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Mithril bar",
+        "monster_name": "Waterfiend"
+      }
+    },
+    {
+      "id": "2359-2919",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Mithril bar",
+        "monster_name": "Mithril dragon"
+      }
+    },
+    {
+      "id": "2359-3293",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Mithril bar",
+        "monster_name": "https://oldschool.runescape.wiki/w/Paladin#Level_62"
+      }
+    },
+    {
+      "id": "2359-3851",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.046875"
+      },
+      "meta": {
+        "item_name": "Mithril bar",
+        "monster_name": "Moss giant (Level 48)"
+      }
+    },
+    {
+      "id": "2359-4088",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Mithril bar",
+        "monster_name": "Soldier (Burthorpe)"
+      }
+    },
+    {
+      "id": "2359-4491",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Mithril bar",
+        "monster_name": "Skeleton fremennik (Level 40)"
+      }
+    },
+    {
+      "id": "2359-4494",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Mithril bar",
+        "monster_name": "Skeleton fremennik (Level 50)"
+      }
+    },
+    {
+      "id": "2359-4497",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Mithril bar",
+        "monster_name": "Skeleton fremennik (Level 60)"
+      }
+    },
+    {
+      "id": "2359-5566",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Mithril bar",
+        "monster_name": "Ferocious barbarian spirit"
+      }
+    },
+    {
+      "id": "2359-5779",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Mithril bar",
+        "monster_name": "Giant Mole"
+      }
+    },
+    {
+      "id": "2359-6449",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Mithril bar",
+        "monster_name": "Zombie (Tarn's Lair) (Level 40)"
+      }
+    },
+    {
+      "id": "2359-6450",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Mithril bar",
+        "monster_name": "Zombie (Tarn's Lair) (Level 42)"
+      }
+    },
+    {
+      "id": "2359-6451",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Mithril bar",
+        "monster_name": "Zombie (Tarn's Lair) (Level 47)"
+      }
+    },
+    {
+      "id": "2359-6452",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Mithril bar",
+        "monster_name": "Zombie (Tarn's Lair) (Level 50)"
+      }
+    },
+    {
+      "id": "2359-6453",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Mithril bar",
+        "monster_name": "Zombie (Tarn's Lair) (Level 56)"
+      }
+    },
+    {
+      "id": "2359-6454",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Mithril bar",
+        "monster_name": "Zombie (Tarn's Lair) (Level 61)"
+      }
+    },
+    {
+      "id": "2359-6455",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Mithril bar",
+        "monster_name": "Zombie (Tarn's Lair) (Level 67)"
+      }
+    },
+    {
+      "id": "2359-6456",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Mithril bar",
+        "monster_name": "Zombie (Tarn's Lair) (Level 70)"
+      }
+    },
+    {
+      "id": "2359-6457",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Mithril bar",
+        "monster_name": "Zombie (Tarn's Lair) (Level 72)"
+      }
+    },
+    {
+      "id": "2359-6458",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Mithril bar",
+        "monster_name": "Zombie (Tarn's Lair) (Level 76)"
+      }
+    },
+    {
+      "id": "2359-6459",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Mithril bar",
+        "monster_name": "Zombie (Tarn's Lair) (Level 80)"
+      }
+    },
+    {
+      "id": "2359-6460",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Mithril bar",
+        "monster_name": "Zombie (Tarn's Lair) (Level 85)"
+      }
+    },
+    {
+      "id": "2359-6461",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Mithril bar",
+        "monster_name": "Zombie (Tarn's Lair) (Level 86)"
+      }
+    },
+    {
+      "id": "2359-6462",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Mithril bar",
+        "monster_name": "Zombie (Tarn's Lair) (Level 90)"
+      }
+    },
+    {
+      "id": "2359-6463",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Mithril bar",
+        "monster_name": "Zombie (Tarn's Lair) (Level 95)"
+      }
+    },
+    {
+      "id": "2359-6464",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Mithril bar",
+        "monster_name": "Zombie (Tarn's Lair) (Level 98)"
+      }
+    },
+    {
+      "id": "2359-6465",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Mithril bar",
+        "monster_name": "Zombie (Tarn's Lair) (Level 100)"
+      }
+    },
+    {
+      "id": "2359-6466",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Mithril bar",
+        "monster_name": "Zombie (Tarn's Lair) (Level 81)"
+      }
+    },
+    {
+      "id": "2359-7249",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Mithril bar",
+        "monster_name": "Dust devil (Level 110)"
+      }
+    },
+    {
+      "id": "2359-7276",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Mithril bar",
+        "monster_name": "Mutated Bloodveld"
+      }
+    },
+    {
+      "id": "2359-7398",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Mithril bar",
+        "monster_name": "Insatiable mutated Bloodveld"
+      }
+    },
+    {
+      "id": "2359-7404",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Mithril bar",
+        "monster_name": "Choke devil"
+      }
+    },
+    {
+      "id": "2359-7407",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 15,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Mithril bar",
+        "monster_name": "Marble gargoyle"
+      }
+    },
+    {
+      "id": "2359-8068",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.05"
+      },
+      "meta": {
+        "item_name": "Mithril bar",
+        "monster_name": "Zombie (Shayzien Crypts) (Range)"
+      }
+    },
+    {
+      "id": "2359-8069",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.05"
+      },
+      "meta": {
+        "item_name": "Mithril bar",
+        "monster_name": "Zombie (Shayzien Crypts) (Magic)"
+      }
+    },
+    {
+      "id": "2359-8070",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.05"
+      },
+      "meta": {
+        "item_name": "Mithril bar",
+        "monster_name": "Skeleton (Shayzien Crypts) (Melee)"
+      }
+    },
+    {
+      "id": "2359-8071",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.05"
+      },
+      "meta": {
+        "item_name": "Mithril bar",
+        "monster_name": "Skeleton (Shayzien Crypts) (Range)"
+      }
+    },
+    {
+      "id": "2359-8072",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.05"
+      },
+      "meta": {
+        "item_name": "Mithril bar",
+        "monster_name": "Skeleton (Shayzien Crypts) (Magic)"
+      }
+    },
+    {
+      "id": "2359-8736",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.046875"
+      },
+      "meta": {
+        "item_name": "Mithril bar",
+        "monster_name": "Moss giant (Level 84)"
+      }
+    },
+    {
+      "id": "2359-8849",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Mithril bar",
+        "monster_name": "https://oldschool.runescape.wiki/w/Paladin#Level_49"
+      }
+    },
+    {
+      "id": "2359-8850",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Mithril bar",
+        "monster_name": "https://oldschool.runescape.wiki/w/Paladin#Level_121"
+      }
+    },
+    {
+      "id": "2359-8987",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Mithril bar",
+        "monster_name": "Sir Jerro"
+      }
+    },
+    {
+      "id": "2359-8988",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Mithril bar",
+        "monster_name": "Sir Carl"
+      }
+    },
+    {
+      "id": "2359-8989",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Mithril bar",
+        "monster_name": "Sir Harry"
+      }
+    },
+    {
+      "id": "2359-9049",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 75,
+        "quantity_max": 459,
+        "rarity": "0.0833333333333333"
+      },
+      "meta": {
+        "item_name": "Mithril bar",
+        "monster_name": "Zalcano"
+      }
+    }
+  ]
+}

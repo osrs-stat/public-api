@@ -1,0 +1,548 @@
+{
+  "data": [
+    {
+      "id": "19677-7255",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "catacombs-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.006"
+      },
+      "meta": {
+        "item_name": "Ancient shard",
+        "monster_name": "Steel dragon (Catacombs of Kourend)"
+      }
+    },
+    {
+      "id": "536-7255",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Dragon bones",
+        "monster_name": "Steel dragon (Catacombs of Kourend)"
+      }
+    },
+    {
+      "id": "2353-7255",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Steel bar",
+        "monster_name": "Steel dragon (Catacombs of Kourend)"
+      }
+    },
+    {
+      "id": "4585-7255",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.001953125"
+      },
+      "meta": {
+        "item_name": "Dragon plateskirt",
+        "monster_name": "Steel dragon (Catacombs of Kourend)"
+      }
+    },
+    {
+      "id": "4087-7255",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.001953125"
+      },
+      "meta": {
+        "item_name": "Dragon platelegs",
+        "monster_name": "Steel dragon (Catacombs of Kourend)"
+      }
+    },
+    {
+      "id": "817-7255",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 12,
+        "quantity_max": null,
+        "rarity": "0.0546875"
+      },
+      "meta": {
+        "item_name": "Rune dart (Poison)",
+        "monster_name": "Steel dragon (Catacombs of Kourend)"
+      }
+    },
+    {
+      "id": "1432-7255",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Rune mace",
+        "monster_name": "Steel dragon (Catacombs of Kourend)"
+      }
+    },
+    {
+      "id": "1199-7255",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Adamant kiteshield",
+        "monster_name": "Steel dragon (Catacombs of Kourend)"
+      }
+    },
+    {
+      "id": "868-7255",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 7,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Rune knife (Unpoisoned)",
+        "monster_name": "Steel dragon (Catacombs of Kourend)"
+      }
+    },
+    {
+      "id": "1359-7255",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Rune axe",
+        "monster_name": "Steel dragon (Catacombs of Kourend)"
+      }
+    },
+    {
+      "id": "1163-7255",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Rune full helm",
+        "monster_name": "Steel dragon (Catacombs of Kourend)"
+      }
+    },
+    {
+      "id": "565-7255",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 20,
+        "quantity_max": null,
+        "rarity": "0.1484375"
+      },
+      "meta": {
+        "item_name": "Blood rune (Regular)",
+        "monster_name": "Steel dragon (Catacombs of Kourend)"
+      }
+    },
+    {
+      "id": "830-7255",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 7,
+        "quantity_max": null,
+        "rarity": "0.15625"
+      },
+      "meta": {
+        "item_name": "Rune javelin (Unpoisoned)",
+        "monster_name": "Steel dragon (Catacombs of Kourend)"
+      }
+    },
+    {
+      "id": "9144-7255",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": 12,
+        "rarity": "0.046875"
+      },
+      "meta": {
+        "item_name": "Runite bolts (Unpoisoned)",
+        "monster_name": "Steel dragon (Catacombs of Kourend)"
+      }
+    },
+    {
+      "id": "566-7255",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Soul rune",
+        "monster_name": "Steel dragon (Catacombs of Kourend)"
+      }
+    },
+    {
+      "id": "145-7255",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.1015625"
+      },
+      "meta": {
+        "item_name": "Super attack (3 dose)",
+        "monster_name": "Steel dragon (Catacombs of Kourend)"
+      }
+    },
+    {
+      "id": "9431-7255",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0625"
+      },
+      "meta": {
+        "item_name": "Runite limbs",
+        "monster_name": "Steel dragon (Catacombs of Kourend)"
+      }
+    },
+    {
+      "id": "19582-7255",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 12,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Dragon javelin heads",
+        "monster_name": "Steel dragon (Catacombs of Kourend)"
+      }
+    },
+    {
+      "id": "2363-7255",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Runite bar",
+        "monster_name": "Steel dragon (Catacombs of Kourend)"
+      }
+    },
+    {
+      "id": "165-7255",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Super defence (2 dose)",
+        "monster_name": "Steel dragon (Catacombs of Kourend)"
+      }
+    },
+    {
+      "id": "2011-7255",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Curry",
+        "monster_name": "Steel dragon (Catacombs of Kourend)"
+      }
+    },
+    {
+      "id": "2011-7255",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Curry",
+        "monster_name": "Steel dragon (Catacombs of Kourend)"
+      }
+    },
+    {
+      "id": "2722-7255",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Clue scroll (hard)",
+        "monster_name": "Steel dragon (Catacombs of Kourend)"
+      }
+    },
+    {
+      "id": "23083-7255",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0141242937853107"
+      },
+      "meta": {
+        "item_name": "Brimstone key",
+        "monster_name": "Steel dragon (Catacombs of Kourend)"
+      }
+    },
+    {
+      "id": "12073-7255",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.002"
+      },
+      "meta": {
+        "item_name": "Clue scroll (elite)",
+        "monster_name": "Steel dragon (Catacombs of Kourend)"
+      }
+    },
+    {
+      "id": "11286-7255",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0001"
+      },
+      "meta": {
+        "item_name": "Draconic visage",
+        "monster_name": "Steel dragon (Catacombs of Kourend)"
+      }
+    },
+    {
+      "id": "4585-7255",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Dragon plateskirt",
+        "monster_name": "Steel dragon (Catacombs of Kourend)"
+      }
+    },
+    {
+      "id": "4087-7255",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Dragon platelegs",
+        "monster_name": "Steel dragon (Catacombs of Kourend)"
+      }
+    },
+    {
+      "id": "11286-7255",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0002"
+      },
+      "meta": {
+        "item_name": "Draconic visage",
+        "monster_name": "Steel dragon (Catacombs of Kourend)"
+      }
+    },
+    {
+      "id": "19679-7255",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "catacombs-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.004"
+      },
+      "meta": {
+        "item_name": "Dark totem base",
+        "monster_name": "Steel dragon (Catacombs of Kourend)"
+      }
+    },
+    {
+      "id": "19681-7255",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "catacombs-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.004"
+      },
+      "meta": {
+        "item_name": "Dark totem middle",
+        "monster_name": "Steel dragon (Catacombs of Kourend)"
+      }
+    },
+    {
+      "id": "19683-7255",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "catacombs-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.004"
+      },
+      "meta": {
+        "item_name": "Dark totem top",
+        "monster_name": "Steel dragon (Catacombs of Kourend)"
+      }
+    },
+    {
+      "id": "995-7255",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 470,
+        "quantity_max": null,
+        "rarity": "0.1328125"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Steel dragon (Catacombs of Kourend)"
+      }
+    },
+    {
+      "id": "995-7255",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 650,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Steel dragon (Catacombs of Kourend)"
+      }
+    }
+  ]
+}

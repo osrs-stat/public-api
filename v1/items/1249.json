@@ -1,0 +1,168 @@
+{
+  "data": {
+    "id": "1249",
+    "type": "item",
+    "attributes": {
+      "uuid": "f86e4577-acd4-4acb-bad1-8724b9b8f0c8",
+      "name": "Dragon spear (Unpoisoned)",
+      "members": true,
+      "release_date": "2004-03-29",
+      "examine": "A dragon tipped spear.",
+      "tradeable": false,
+      "ge_tradeable": false,
+      "lowalch": 24960,
+      "highalch": 37440,
+      "is_equip": true,
+      "is_weapon": true,
+      "icon_base64": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABY0lEQVR4Xu2Wv0sDQRCFb8srtrAIhICQOojYSBoriyAhgQRMAvkhl3hGzqgEtLCwsPD/HvftZI2shZUzC/pgOHKXcB/vmyOXZX8rhuIzSgGIoYea9cf4qnAMvdQtPbvZ1gOQChTf+K1h6dUNoIqD3J+ranyMf/GLMZ9tvDuYANWzuQcrd0AnzaYEFCsCEJoAEAb7c5pnHm68a0oUCDe/cI0AZOgAjt3n/f4wjBgQ2sFADdqAKsy5ZShBGISBwt6gpa87JQyD8CIDJjxVDKAEs60q3w72KIYQh3nabOi+LD3MYbbfl/ibQjH0uF7TbVHQcjr91o5wWNXdakXX85k2DGK8qpurBZ212+moWkwm2u2wKrSTjKrQzngw0FcVFjkBVQgvMlQdtVr67QRVl/2+djvcDFTNRiNtGITbgapep6OvCu0kogphoGRUAQZ/nAmoQoxXNex2U2gnRPwF/eckBfMflw+raCwf5l3ISgAAAABJRU5ErkJggg=="
+    },
+    "relationships": {
+      "equip": {
+        "data": {
+          "id": "73082ef4-70b9-435c-b8c4-9a205e3cac97",
+          "type": "equip"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Dragon_spear#Unpoisoned"
+    },
+    "meta": {
+      "incomplete": false
+    }
+  },
+  "included": [
+    {
+      "id": "73082ef4-70b9-435c-b8c4-9a205e3cac97",
+      "type": "equip",
+      "attributes": {
+        "slot": "weapon_2h",
+        "passive_effect": null,
+        "requirements": {
+          "attack_level": 60
+        }
+      },
+      "relationships": {
+        "equip_stat": {
+          "data": {
+            "id": "a1c63753-45cc-4998-a322-4d12cff11a52",
+            "type": "equip_stat"
+          }
+        },
+        "attack_stat": {
+          "data": {
+            "id": "32648a1d-47b6-4c72-b983-9ad68421bc46",
+            "type": "attack_stat"
+          }
+        }
+      }
+    },
+    {
+      "id": "32648a1d-47b6-4c72-b983-9ad68421bc46",
+      "type": "attack_stat",
+      "attributes": {
+        "attack_speed": 5,
+        "attack_type": "spear",
+        "special": null,
+        "stances": [
+          {
+            "name": "lunge",
+            "style": "controlled",
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": {
+              "hitpoints": 1.3333,
+              "attack": 1.3333,
+              "strength": 1.3333,
+              "defense": 1.3333
+            },
+            "combat_accuracy_stat": "attack_level",
+            "combat_damage_stat": "strength_level",
+            "equip_accuracy_stat": "stab_attack",
+            "equip_damage_stat": "stab_attack",
+            "target_equip_defense_stat": "stab_defense"
+          },
+          {
+            "name": "swipe",
+            "style": "controlled",
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": {
+              "hitpoints": 1.3333,
+              "attack": 1.3333,
+              "strength": 1.3333,
+              "defense": 1.3333
+            },
+            "combat_accuracy_stat": "attack_level",
+            "combat_damage_stat": "strength_level",
+            "equip_accuracy_stat": "slash_attack",
+            "equip_damage_stat": "slash_attack",
+            "target_equip_defense_stat": "slash_defense"
+          },
+          {
+            "name": "pound",
+            "style": "controlled",
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": {
+              "hitpoints": 1.3333,
+              "attack": 1.3333,
+              "strength": 1.3333,
+              "defense": 1.3333
+            },
+            "combat_accuracy_stat": "attack_level",
+            "combat_damage_stat": "strength_level",
+            "equip_accuracy_stat": "crush_attack",
+            "equip_damage_stat": "crush_attack",
+            "target_equip_defense_stat": "crush_defense"
+          },
+          {
+            "name": "block",
+            "style": "defensive",
+            "boosts": {
+              "defense": 3
+            },
+            "experience": {
+              "hitpoints": 1.3333,
+              "defense": 4
+            },
+            "combat_accuracy_stat": "attack_level",
+            "combat_damage_stat": "strength_level",
+            "equip_accuracy_stat": "stab_attack",
+            "equip_damage_stat": "stab_attack",
+            "target_equip_defense_stat": "stab_defense"
+          }
+        ]
+      }
+    },
+    {
+      "id": "a1c63753-45cc-4998-a322-4d12cff11a52",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 55,
+        "slash_attack": 55,
+        "crush_attack": 55,
+        "ranged_attack": 0,
+        "magic_attack": 0,
+        "stab_defense": 5,
+        "slash_defense": 5,
+        "crush_defense": 5,
+        "ranged_defense": 5,
+        "magic_defense": 5,
+        "melee_strength": 60,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

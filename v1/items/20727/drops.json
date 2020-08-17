@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "id": "20727-410",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000974658869395711"
+      },
+      "meta": {
+        "item_name": "Leaf-bladed battleaxe",
+        "monster_name": "Kurask"
+      }
+    },
+    {
+      "id": "20727-7405",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000974658869395711"
+      },
+      "meta": {
+        "item_name": "Leaf-bladed battleaxe",
+        "monster_name": "King kurask"
+      }
+    }
+  ]
+}

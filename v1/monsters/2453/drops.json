@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "1125-2453",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Black platebody",
+        "monster_name": "Animated Black Armour"
+      }
+    },
+    {
+      "id": "8851-2453",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 20,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Warrior guild token",
+        "monster_name": "Animated Black Armour"
+      }
+    },
+    {
+      "id": "1165-2453",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Black full helm",
+        "monster_name": "Animated Black Armour"
+      }
+    },
+    {
+      "id": "1077-2453",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Black platelegs",
+        "monster_name": "Animated Black Armour"
+      }
+    }
+  ]
+}

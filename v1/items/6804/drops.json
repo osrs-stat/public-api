@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "id": "6804-2234",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0002"
+      },
+      "meta": {
+        "item_name": "Jogre champion scroll",
+        "monster_name": "Jogre (GWD)"
+      }
+    },
+    {
+      "id": "6804-2094",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0002"
+      },
+      "meta": {
+        "item_name": "Jogre champion scroll",
+        "monster_name": "Jogre (Normal)"
+      }
+    }
+  ]
+}

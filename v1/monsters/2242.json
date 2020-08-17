@@ -1,0 +1,121 @@
+{
+  "data": {
+    "id": "2242",
+    "type": "monster",
+    "attributes": {
+      "uuid": "cedaf4d8-15c4-4d4f-b593-7f52f032fed7",
+      "name": "Spiritual ranger (Bandos)",
+      "members": true,
+      "release_date": "2013-10-17",
+      "examine": "The spirit of a ranger, serving Bandos beyond death.",
+      "combat_level_override": null,
+      "max_hit_override": null,
+      "target_types": [
+
+      ],
+      "classification_types": [
+        "spiritual creatures"
+      ],
+      "poison": false,
+      "immune_poison": false,
+      "immune_venom": false,
+      "slayer_xp": 131.0,
+      "slayer_level": 63,
+      "slayer_masters": [
+        "krystilia",
+        "vannaka",
+        "chaeldar",
+        "nieve",
+        "duradel"
+      ],
+      "icon_base64": null
+    },
+    "relationships": {
+      "combat_stat": {
+        "data": {
+          "id": "7ef380cb-ba2d-4bed-8d6c-e58c004cc79d",
+          "type": "combat_stat"
+        }
+      },
+      "equip_stat": {
+        "data": {
+          "id": "7623fd77-33f1-4982-b454-6c3374b12903",
+          "type": "equip_stat"
+        }
+      },
+      "attack_stat": {
+        "data": {
+          "id": "fee8c02b-48b5-4683-a92d-f69214330d11",
+          "type": "attack_stat"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Spiritual_ranger#Bandos"
+    },
+    "meta": {
+      "incomplete": true
+    }
+  },
+  "included": [
+    {
+      "id": "fee8c02b-48b5-4683-a92d-f69214330d11",
+      "type": "attack_stat",
+      "attributes": {
+        "attack_speed": 4,
+        "attack_type": "monster",
+        "special": null,
+        "stances": [
+          {
+            "name": "Monster ranged",
+            "style": null,
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": null,
+            "combat_accuracy_stat": "ranged_level",
+            "combat_damage_stat": "ranged_level",
+            "equip_accuracy_stat": "ranged_attack",
+            "equip_damage_stat": "ranged_attack",
+            "target_equip_defense_stat": "ranged_defense"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7ef380cb-ba2d-4bed-8d6c-e58c004cc79d",
+      "type": "monster_combat_stat",
+      "attributes": {
+        "hitpoints_level": 131,
+        "attack_level": 1,
+        "strength_level": 1,
+        "defense_level": 96,
+        "magic_level": 1,
+        "ranged_level": 121,
+        "prayer_level": 0
+      }
+    },
+    {
+      "id": "7623fd77-33f1-4982-b454-6c3374b12903",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 0,
+        "slash_attack": 0,
+        "crush_attack": 0,
+        "ranged_attack": 0,
+        "magic_attack": 0,
+        "stab_defense": 12,
+        "slash_defense": 14,
+        "crush_defense": 13,
+        "ranged_defense": 13,
+        "magic_defense": 5,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

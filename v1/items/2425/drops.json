@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "id": "2425-8060",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.02"
+      },
+      "meta": {
+        "item_name": "Vorkath's head",
+        "monster_name": "Vorkath (Dragon Slayer II)"
+      }
+    },
+    {
+      "id": "2425-8061",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.02"
+      },
+      "meta": {
+        "item_name": "Vorkath's head",
+        "monster_name": "Vorkath (Post-quest)"
+      }
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "data": [
+    {
+      "id": "686-2536",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0363636363636364"
+      },
+      "meta": {
+        "item_name": "Rusty sword",
+        "monster_name": "H.A.M. Guard (Level 12)"
+      }
+    },
+    {
+      "id": "686-6618",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Rusty sword",
+        "monster_name": "Crazy archaeologist"
+      }
+    },
+    {
+      "id": "686-4522",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.024"
+      },
+      "meta": {
+        "item_name": "Rusty sword",
+        "monster_name": "Guard (H.A.M. storeroom)"
+      }
+    },
+    {
+      "id": "686-2538",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0363636363636364"
+      },
+      "meta": {
+        "item_name": "Rusty sword",
+        "monster_name": "H.A.M. Guard (Level 22)"
+      }
+    },
+    {
+      "id": "686-2537",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0363636363636364"
+      },
+      "meta": {
+        "item_name": "Rusty sword",
+        "monster_name": "H.A.M. Guard (Level 18)"
+      }
+    },
+    {
+      "id": "686-494",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.013671875"
+      },
+      "meta": {
+        "item_name": "Rusty sword",
+        "monster_name": "Kraken (Kraken)"
+      }
+    }
+  ]
+}

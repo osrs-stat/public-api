@@ -1,0 +1,948 @@
+{
+  "data": [
+    {
+      "id": "1351-2536",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0272727272727273"
+      },
+      "meta": {
+        "item_name": "Bronze axe",
+        "monster_name": "H.A.M. Guard (Level 12)"
+      }
+    },
+    {
+      "id": "1351-2488",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Bronze axe",
+        "monster_name": "Goblin (Level 25)"
+      }
+    },
+    {
+      "id": "1351-2487",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Bronze axe",
+        "monster_name": "Goblin (Level 16)"
+      }
+    },
+    {
+      "id": "1351-2486",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Bronze axe",
+        "monster_name": "Goblin (Level 11)"
+      }
+    },
+    {
+      "id": "1351-2485",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Bronze axe",
+        "monster_name": "Goblin (Level 13)"
+      }
+    },
+    {
+      "id": "1351-2249",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Bronze axe",
+        "monster_name": "Goblin (Level 13 (GWD))"
+      }
+    },
+    {
+      "id": "1351-2248",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Bronze axe",
+        "monster_name": "Goblin (Level 15)"
+      }
+    },
+    {
+      "id": "1351-3064",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.046875"
+      },
+      "meta": {
+        "item_name": "Bronze axe",
+        "monster_name": "Barbarian (Level 10 (Wotan))"
+      }
+    },
+    {
+      "id": "1351-3065",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.046875"
+      },
+      "meta": {
+        "item_name": "Bronze axe",
+        "monster_name": "Barbarian (Level 10 (Acelin))"
+      }
+    },
+    {
+      "id": "1351-3066",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.046875"
+      },
+      "meta": {
+        "item_name": "Bronze axe",
+        "monster_name": "Barbarian (Level 10 (Adelino))"
+      }
+    },
+    {
+      "id": "1351-3067",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.046875"
+      },
+      "meta": {
+        "item_name": "Bronze axe",
+        "monster_name": "Barbarian (Level 10 (Adolpho))"
+      }
+    },
+    {
+      "id": "1351-3068",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.046875"
+      },
+      "meta": {
+        "item_name": "Bronze axe",
+        "monster_name": "Barbarian (Level 15 (Aitan))"
+      }
+    },
+    {
+      "id": "1351-3069",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.046875"
+      },
+      "meta": {
+        "item_name": "Bronze axe",
+        "monster_name": "Barbarian (Level 17 (Brunnhilde))"
+      }
+    },
+    {
+      "id": "1351-3070",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.046875"
+      },
+      "meta": {
+        "item_name": "Bronze axe",
+        "monster_name": "Barbarian (Level 10 (Gutrune))"
+      }
+    },
+    {
+      "id": "1351-3071",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.046875"
+      },
+      "meta": {
+        "item_name": "Bronze axe",
+        "monster_name": "Barbarian (Level 10 (Edelschwarz))"
+      }
+    },
+    {
+      "id": "1351-3072",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.046875"
+      },
+      "meta": {
+        "item_name": "Bronze axe",
+        "monster_name": "Barbarian (Level 9 (Sieglinde))"
+      }
+    },
+    {
+      "id": "1351-3262",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.046875"
+      },
+      "meta": {
+        "item_name": "Bronze axe",
+        "monster_name": "Barbarian (Level 8)"
+      }
+    },
+    {
+      "id": "1351-4522",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.018"
+      },
+      "meta": {
+        "item_name": "Bronze axe",
+        "monster_name": "Guard (H.A.M. storeroom)"
+      }
+    },
+    {
+      "id": "1351-6442",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Bronze axe",
+        "monster_name": "Skeleton (Tarn's Lair) (Level 77)"
+      }
+    },
+    {
+      "id": "1351-6442",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Bronze axe",
+        "monster_name": "Skeleton (Tarn's Lair) (Level 77)"
+      }
+    },
+    {
+      "id": "1351-6443",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Bronze axe",
+        "monster_name": "Skeleton (Tarn's Lair) (Level 81)"
+      }
+    },
+    {
+      "id": "1351-6443",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Bronze axe",
+        "monster_name": "Skeleton (Tarn's Lair) (Level 81)"
+      }
+    },
+    {
+      "id": "1351-6444",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Bronze axe",
+        "monster_name": "Skeleton (Tarn's Lair) (Level 42 (Sword))"
+      }
+    },
+    {
+      "id": "1351-6444",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Bronze axe",
+        "monster_name": "Skeleton (Tarn's Lair) (Level 42 (Sword))"
+      }
+    },
+    {
+      "id": "1351-6445",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Bronze axe",
+        "monster_name": "Skeleton (Tarn's Lair) (Level 59)"
+      }
+    },
+    {
+      "id": "1351-6445",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Bronze axe",
+        "monster_name": "Skeleton (Tarn's Lair) (Level 59)"
+      }
+    },
+    {
+      "id": "1351-6446",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Bronze axe",
+        "monster_name": "Skeleton (Tarn's Lair) (Level 42 (Hammer))"
+      }
+    },
+    {
+      "id": "1351-6446",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Bronze axe",
+        "monster_name": "Skeleton (Tarn's Lair) (Level 42 (Hammer))"
+      }
+    },
+    {
+      "id": "1351-6447",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Bronze axe",
+        "monster_name": "Skeleton (Tarn's Lair) (Level 63)"
+      }
+    },
+    {
+      "id": "1351-6447",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Bronze axe",
+        "monster_name": "Skeleton (Tarn's Lair) (Level 63)"
+      }
+    },
+    {
+      "id": "1351-6448",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Bronze axe",
+        "monster_name": "Skeleton (Tarn's Lair) (Level 40)"
+      }
+    },
+    {
+      "id": "1351-6448",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Bronze axe",
+        "monster_name": "Skeleton (Tarn's Lair) (Level 40)"
+      }
+    },
+    {
+      "id": "1351-6467",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Bronze axe",
+        "monster_name": "Skeleton (Tarn's Lair) (Level 72)"
+      }
+    },
+    {
+      "id": "1351-6467",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Bronze axe",
+        "monster_name": "Skeleton (Tarn's Lair) (Level 72)"
+      }
+    },
+    {
+      "id": "1351-6468",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Bronze axe",
+        "monster_name": "Skeleton (Tarn's Lair) (Level 87)"
+      }
+    },
+    {
+      "id": "1351-6468",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Bronze axe",
+        "monster_name": "Skeleton (Tarn's Lair) (Level 87)"
+      }
+    },
+    {
+      "id": "1351-8297",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.046875"
+      },
+      "meta": {
+        "item_name": "Bronze axe",
+        "monster_name": "Swamp Crab (Normal)"
+      }
+    },
+    {
+      "id": "1351-8298",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.046875"
+      },
+      "meta": {
+        "item_name": "Bronze axe",
+        "monster_name": "Swamp Crab (Bloomed)"
+      }
+    },
+    {
+      "id": "1351-2247",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Bronze axe",
+        "monster_name": "Goblin (Level 12 (2))"
+      }
+    },
+    {
+      "id": "1351-2246",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Bronze axe",
+        "monster_name": "Goblin (Level 12 (1))"
+      }
+    },
+    {
+      "id": "1351-2245",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Bronze axe",
+        "monster_name": "Goblin (Level 17)"
+      }
+    },
+    {
+      "id": "1351-655",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Bronze axe",
+        "monster_name": "Goblin (Level 5)"
+      }
+    },
+    {
+      "id": "1351-480",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Bronze axe",
+        "monster_name": "Cave slime"
+      }
+    },
+    {
+      "id": "1351-68",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.390625"
+      },
+      "meta": {
+        "item_name": "Bronze axe",
+        "monster_name": "Zombie (Entrana Dungeon) (5)"
+      }
+    },
+    {
+      "id": "1351-67",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.390625"
+      },
+      "meta": {
+        "item_name": "Bronze axe",
+        "monster_name": "Zombie (Entrana Dungeon) (4)"
+      }
+    },
+    {
+      "id": "1351-65",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.390625"
+      },
+      "meta": {
+        "item_name": "Bronze axe",
+        "monster_name": "Zombie (Entrana Dungeon) (2)"
+      }
+    },
+    {
+      "id": "1351-66",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.390625"
+      },
+      "meta": {
+        "item_name": "Bronze axe",
+        "monster_name": "Zombie (Entrana Dungeon) (3)"
+      }
+    },
+    {
+      "id": "1351-64",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.390625"
+      },
+      "meta": {
+        "item_name": "Bronze axe",
+        "monster_name": "Zombie (Entrana Dungeon) (1)"
+      }
+    },
+    {
+      "id": "1351-3062",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.046875"
+      },
+      "meta": {
+        "item_name": "Bronze axe",
+        "monster_name": "Barbarian (Level 17 (Minarch))"
+      }
+    },
+    {
+      "id": "1351-3061",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.046875"
+      },
+      "meta": {
+        "item_name": "Bronze axe",
+        "monster_name": "Barbarian (Level 10 (Hagen))"
+      }
+    },
+    {
+      "id": "1351-3060",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.046875"
+      },
+      "meta": {
+        "item_name": "Bronze axe",
+        "monster_name": "Barbarian (Level 10 (Lydspor))"
+      }
+    },
+    {
+      "id": "1351-3059",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.046875"
+      },
+      "meta": {
+        "item_name": "Bronze axe",
+        "monster_name": "Barbarian (Level 10 (Siegfried))"
+      }
+    },
+    {
+      "id": "1351-3058",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.046875"
+      },
+      "meta": {
+        "item_name": "Bronze axe",
+        "monster_name": "Barbarian (Level 17 (Siegmund))"
+      }
+    },
+    {
+      "id": "1351-3057",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.046875"
+      },
+      "meta": {
+        "item_name": "Bronze axe",
+        "monster_name": "Barbarian (Level 17 (Fasolt))"
+      }
+    },
+    {
+      "id": "1351-3056",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.046875"
+      },
+      "meta": {
+        "item_name": "Bronze axe",
+        "monster_name": "Barbarian (Level 10 (Fafner))"
+      }
+    },
+    {
+      "id": "1351-3055",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.046875"
+      },
+      "meta": {
+        "item_name": "Bronze axe",
+        "monster_name": "Barbarian (Level 17 (Alberich))"
+      }
+    },
+    {
+      "id": "1351-3028",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Bronze axe",
+        "monster_name": "Goblin (Level 2)"
+      }
+    },
+    {
+      "id": "1351-2538",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0272727272727273"
+      },
+      "meta": {
+        "item_name": "Bronze axe",
+        "monster_name": "H.A.M. Guard (Level 22)"
+      }
+    },
+    {
+      "id": "1351-2537",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0272727272727273"
+      },
+      "meta": {
+        "item_name": "Bronze axe",
+        "monster_name": "H.A.M. Guard (Level 18)"
+      }
+    }
+  ]
+}

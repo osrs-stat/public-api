@@ -1,0 +1,121 @@
+{
+  "data": {
+    "id": "7402",
+    "type": "monster",
+    "attributes": {
+      "uuid": "fd07e442-806e-4bb8-9011-f680551f9399",
+      "name": "Abhorrent spectre",
+      "members": true,
+      "release_date": "2016-09-15",
+      "examine": "I'd smell better after completing 3145 laps of an agility course dressed as a monkey.",
+      "combat_level_override": null,
+      "max_hit_override": null,
+      "target_types": [
+        "undead"
+      ],
+      "classification_types": [
+        "aberrant spectre"
+      ],
+      "poison": false,
+      "immune_poison": false,
+      "immune_venom": false,
+      "slayer_xp": 2500.0,
+      "slayer_level": 60,
+      "slayer_masters": [
+        "vannaka",
+        "chaeldar",
+        "konar",
+        "nieve",
+        "duradel"
+      ],
+      "icon_base64": null
+    },
+    "relationships": {
+      "combat_stat": {
+        "data": {
+          "id": "fad04adf-9505-44ef-97ac-a5d5c7fa8917",
+          "type": "combat_stat"
+        }
+      },
+      "equip_stat": {
+        "data": {
+          "id": "f8d19652-1193-4440-9e98-222263819332",
+          "type": "equip_stat"
+        }
+      },
+      "attack_stat": {
+        "data": {
+          "id": "74f3d501-d310-4d59-a6ec-4acd95f1c566",
+          "type": "attack_stat"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Abhorrent_spectre"
+    },
+    "meta": {
+      "incomplete": true
+    }
+  },
+  "included": [
+    {
+      "id": "74f3d501-d310-4d59-a6ec-4acd95f1c566",
+      "type": "attack_stat",
+      "attributes": {
+        "attack_speed": 4,
+        "attack_type": "monster",
+        "special": null,
+        "stances": [
+          {
+            "name": "Monster magic",
+            "style": null,
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": null,
+            "combat_accuracy_stat": "magic_level",
+            "combat_damage_stat": "magic_level",
+            "equip_accuracy_stat": "magic_attack",
+            "equip_damage_stat": "magic_attack",
+            "target_equip_defense_stat": "magic_defense"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fad04adf-9505-44ef-97ac-a5d5c7fa8917",
+      "type": "monster_combat_stat",
+      "attributes": {
+        "hitpoints_level": 250,
+        "attack_level": 1,
+        "strength_level": 1,
+        "defense_level": 180,
+        "magic_level": 300,
+        "ranged_level": 1,
+        "prayer_level": 0
+      }
+    },
+    {
+      "id": "f8d19652-1193-4440-9e98-222263819332",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 0,
+        "slash_attack": 0,
+        "crush_attack": 0,
+        "ranged_attack": 0,
+        "magic_attack": 0,
+        "stab_defense": 40,
+        "slash_defense": 40,
+        "crush_defense": 40,
+        "ranged_defense": 30,
+        "magic_defense": 0,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

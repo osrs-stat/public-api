@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "4131-7411",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Rune boots",
+        "monster_name": "Nechryarch"
+      }
+    },
+    {
+      "id": "4131-7278",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Rune boots",
+        "monster_name": "Greater Nechryael"
+      }
+    },
+    {
+      "id": "4131-8",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00862068965517241"
+      },
+      "meta": {
+        "item_name": "Rune boots",
+        "monster_name": "Nechryael"
+      }
+    },
+    {
+      "id": "4131-7411",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00862068965517241"
+      },
+      "meta": {
+        "item_name": "Rune boots",
+        "monster_name": "Nechryarch"
+      }
+    }
+  ]
+}

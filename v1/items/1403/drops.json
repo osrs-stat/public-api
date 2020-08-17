@@ -1,0 +1,132 @@
+{
+  "data": [
+    {
+      "id": "1403-2916",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Mystic water staff",
+        "monster_name": "Waterfiend"
+      }
+    },
+    {
+      "id": "1403-319",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Mystic water staff",
+        "monster_name": "Corporeal Beast"
+      }
+    },
+    {
+      "id": "1403-494",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Mystic water staff",
+        "monster_name": "Kraken (Kraken)"
+      }
+    },
+    {
+      "id": "1403-492",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.01"
+      },
+      "meta": {
+        "item_name": "Mystic water staff",
+        "monster_name": "Cave kraken"
+      }
+    },
+    {
+      "id": "1403-8621",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0792079207920792"
+      },
+      "meta": {
+        "item_name": "Mystic water staff",
+        "monster_name": "Alchemical Hydra (Two heads)"
+      }
+    },
+    {
+      "id": "1403-8617",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0792079207920792"
+      },
+      "meta": {
+        "item_name": "Mystic water staff",
+        "monster_name": "Alchemical Hydra (Four heads)"
+      }
+    },
+    {
+      "id": "1403-8618",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0792079207920792"
+      },
+      "meta": {
+        "item_name": "Mystic water staff",
+        "monster_name": "Alchemical Hydra (Three heads)"
+      }
+    },
+    {
+      "id": "1403-8615",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0792079207920792"
+      },
+      "meta": {
+        "item_name": "Mystic water staff",
+        "monster_name": "Alchemical Hydra (Five heads)"
+      }
+    }
+  ]
+}

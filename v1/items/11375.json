@@ -1,0 +1,168 @@
+{
+  "data": {
+    "id": "11375",
+    "type": "item",
+    "attributes": {
+      "uuid": "703afe21-d91b-41ef-b119-d1449855c3e2",
+      "name": "Adamant hasta (Unpoisoned)",
+      "members": true,
+      "release_date": "2007-07-03",
+      "examine": "An adamant-tipped, one-handed hasta.",
+      "tradeable": false,
+      "ge_tradeable": false,
+      "lowalch": 832,
+      "highalch": 1248,
+      "is_equip": true,
+      "is_weapon": true,
+      "icon_base64": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAAwklEQVR4Xu3VsQrCMBCA4eZN8gSSpXQSB7FUsCIhomBx0Gigjs4uvvhJDKmQtrj1brgfbikZPpKQZhnH/UtA+gUxAfe3AyKoH0ZJ+Z10xYQxJs3fkTDzZoGPybc5FLqggImR2BlfOKbqsQZVqQ6UrpooAWe9gadtuvuDuDsCLvu6B0HDuKOmAfHTngz28fgEyJmkgvEJWN5WdDClK+lg7GHHmIEYMxZjhgovMBmMaQ1cX5YOJu4QMiaG/sfuRwbCjfQBkxW/WdZjSrkAAAAASUVORK5CYII="
+    },
+    "relationships": {
+      "equip": {
+        "data": {
+          "id": "d6a8555f-5111-4ed6-a4a9-59a4b0352bab",
+          "type": "equip"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Adamant_hasta#Unpoisoned"
+    },
+    "meta": {
+      "incomplete": false
+    }
+  },
+  "included": [
+    {
+      "id": "d6a8555f-5111-4ed6-a4a9-59a4b0352bab",
+      "type": "equip",
+      "attributes": {
+        "slot": "weapon",
+        "passive_effect": null,
+        "requirements": {
+          "attack_level": 30
+        }
+      },
+      "relationships": {
+        "equip_stat": {
+          "data": {
+            "id": "a66f435d-ec82-45e7-8d51-e5c696e61faf",
+            "type": "equip_stat"
+          }
+        },
+        "attack_stat": {
+          "data": {
+            "id": "1da5c1f9-0252-45a8-ba08-14f2980e79bd",
+            "type": "attack_stat"
+          }
+        }
+      }
+    },
+    {
+      "id": "1da5c1f9-0252-45a8-ba08-14f2980e79bd",
+      "type": "attack_stat",
+      "attributes": {
+        "attack_speed": 5,
+        "attack_type": "spear",
+        "special": null,
+        "stances": [
+          {
+            "name": "lunge",
+            "style": "controlled",
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": {
+              "hitpoints": 1.3333,
+              "attack": 1.3333,
+              "strength": 1.3333,
+              "defense": 1.3333
+            },
+            "combat_accuracy_stat": "attack_level",
+            "combat_damage_stat": "strength_level",
+            "equip_accuracy_stat": "stab_attack",
+            "equip_damage_stat": "stab_attack",
+            "target_equip_defense_stat": "stab_defense"
+          },
+          {
+            "name": "swipe",
+            "style": "controlled",
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": {
+              "hitpoints": 1.3333,
+              "attack": 1.3333,
+              "strength": 1.3333,
+              "defense": 1.3333
+            },
+            "combat_accuracy_stat": "attack_level",
+            "combat_damage_stat": "strength_level",
+            "equip_accuracy_stat": "slash_attack",
+            "equip_damage_stat": "slash_attack",
+            "target_equip_defense_stat": "slash_defense"
+          },
+          {
+            "name": "pound",
+            "style": "controlled",
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": {
+              "hitpoints": 1.3333,
+              "attack": 1.3333,
+              "strength": 1.3333,
+              "defense": 1.3333
+            },
+            "combat_accuracy_stat": "attack_level",
+            "combat_damage_stat": "strength_level",
+            "equip_accuracy_stat": "crush_attack",
+            "equip_damage_stat": "crush_attack",
+            "target_equip_defense_stat": "crush_defense"
+          },
+          {
+            "name": "block",
+            "style": "defensive",
+            "boosts": {
+              "defense": 3
+            },
+            "experience": {
+              "hitpoints": 1.3333,
+              "defense": 4
+            },
+            "combat_accuracy_stat": "attack_level",
+            "combat_damage_stat": "strength_level",
+            "equip_accuracy_stat": "stab_attack",
+            "equip_damage_stat": "stab_attack",
+            "target_equip_defense_stat": "stab_defense"
+          }
+        ]
+      }
+    },
+    {
+      "id": "a66f435d-ec82-45e7-8d51-e5c696e61faf",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 24,
+        "slash_attack": 24,
+        "crush_attack": 24,
+        "ranged_attack": 0,
+        "magic_attack": 0,
+        "stab_defense": -6,
+        "slash_defense": -7,
+        "crush_defense": -5,
+        "ranged_defense": -6,
+        "magic_defense": 0,
+        "melee_strength": 28,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

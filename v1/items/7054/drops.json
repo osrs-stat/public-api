@@ -1,0 +1,148 @@
+{
+  "data": [
+    {
+      "id": "7054-2216",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.062992125984252"
+      },
+      "meta": {
+        "item_name": "Chilli potato",
+        "monster_name": "Sergeant Strongstack"
+      }
+    },
+    {
+      "id": "7054-8565",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.06"
+      },
+      "meta": {
+        "item_name": "Chilli potato",
+        "monster_name": "Lizardman shaman (Lizardman Temple)"
+      }
+    },
+    {
+      "id": "7054-6766",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.06"
+      },
+      "meta": {
+        "item_name": "Chilli potato",
+        "monster_name": "Lizardman shaman (Standard)"
+      }
+    },
+    {
+      "id": "7054-5908",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.0503597122302158"
+      },
+      "meta": {
+        "item_name": "Chilli potato",
+        "monster_name": "Abyssal Sire (Phase 3 (stage 2))"
+      }
+    },
+    {
+      "id": "7054-5891",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.0503597122302158"
+      },
+      "meta": {
+        "item_name": "Chilli potato",
+        "monster_name": "Abyssal Sire (Phase 3 (stage 1))"
+      }
+    },
+    {
+      "id": "7054-5890",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.0503597122302158"
+      },
+      "meta": {
+        "item_name": "Chilli potato",
+        "monster_name": "Abyssal Sire (Phase 2)"
+      }
+    },
+    {
+      "id": "7054-5886",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.0503597122302158"
+      },
+      "meta": {
+        "item_name": "Chilli potato",
+        "monster_name": "Abyssal Sire (Phase 1)"
+      }
+    },
+    {
+      "id": "7054-2218",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.062992125984252"
+      },
+      "meta": {
+        "item_name": "Chilli potato",
+        "monster_name": "Sergeant Grimspike"
+      }
+    },
+    {
+      "id": "7054-2217",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.062992125984252"
+      },
+      "meta": {
+        "item_name": "Chilli potato",
+        "monster_name": "Sergeant Steelwill"
+      }
+    }
+  ]
+}

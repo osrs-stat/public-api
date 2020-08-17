@@ -1,0 +1,1012 @@
+{
+  "data": [
+    {
+      "id": "225-10397",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0546875"
+      },
+      "meta": {
+        "item_name": "Limpwurt root",
+        "monster_name": "Spiked Turoth"
+      }
+    },
+    {
+      "id": "225-7991",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0431034482758621"
+      },
+      "meta": {
+        "item_name": "Limpwurt root",
+        "monster_name": "Ogress Shaman"
+      }
+    },
+    {
+      "id": "225-7989",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0431034482758621"
+      },
+      "meta": {
+        "item_name": "Limpwurt root",
+        "monster_name": "Ogress Warrior"
+      }
+    },
+    {
+      "id": "225-7416",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 20,
+        "quantity_max": null,
+        "rarity": "0.0677966101694915"
+      },
+      "meta": {
+        "item_name": "Limpwurt root",
+        "monster_name": "Obor"
+      }
+    },
+    {
+      "id": "225-7401",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0546875"
+      },
+      "meta": {
+        "item_name": "Limpwurt root",
+        "monster_name": "Cave abomination"
+      }
+    },
+    {
+      "id": "225-7393",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.1640625"
+      },
+      "meta": {
+        "item_name": "Limpwurt root",
+        "monster_name": "Cockathrice"
+      }
+    },
+    {
+      "id": "225-7389",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Limpwurt root",
+        "monster_name": "Chasm Crawler"
+      }
+    },
+    {
+      "id": "225-6612",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 25,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Limpwurt root",
+        "monster_name": "Vet'ion (Reborn)"
+      }
+    },
+    {
+      "id": "225-6611",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 25,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Limpwurt root",
+        "monster_name": "Vet'ion (Normal)"
+      }
+    },
+    {
+      "id": "225-6504",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 25,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Limpwurt root",
+        "monster_name": "Venenatis"
+      }
+    },
+    {
+      "id": "225-6503",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 25,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Limpwurt root",
+        "monster_name": "Callisto"
+      }
+    },
+    {
+      "id": "225-6299",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0859375"
+      },
+      "meta": {
+        "item_name": "Limpwurt root",
+        "monster_name": "Black Knight Titan (Hard)"
+      }
+    },
+    {
+      "id": "225-4067",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0859375"
+      },
+      "meta": {
+        "item_name": "Limpwurt root",
+        "monster_name": "Black Knight Titan (Normal)"
+      }
+    },
+    {
+      "id": "225-3258",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Limpwurt root",
+        "monster_name": "Druid"
+      }
+    },
+    {
+      "id": "225-3050",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.1640625"
+      },
+      "meta": {
+        "item_name": "Limpwurt root",
+        "monster_name": "Hobgoblin (Level 42)"
+      }
+    },
+    {
+      "id": "225-3050",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.171875"
+      },
+      "meta": {
+        "item_name": "Limpwurt root",
+        "monster_name": "Hobgoblin (Level 42)"
+      }
+    },
+    {
+      "id": "225-3049",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.1640625"
+      },
+      "meta": {
+        "item_name": "Limpwurt root",
+        "monster_name": "Hobgoblin (Level 28)"
+      }
+    },
+    {
+      "id": "225-3049",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.171875"
+      },
+      "meta": {
+        "item_name": "Limpwurt root",
+        "monster_name": "Hobgoblin (Level 28)"
+      }
+    },
+    {
+      "id": "225-2999",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Limpwurt root",
+        "monster_name": "Tortured soul"
+      }
+    },
+    {
+      "id": "225-2632",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00390625"
+      },
+      "meta": {
+        "item_name": "Limpwurt root",
+        "monster_name": "Liliya"
+      }
+    },
+    {
+      "id": "225-2631",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00390625"
+      },
+      "meta": {
+        "item_name": "Limpwurt root",
+        "monster_name": "Zoja"
+      }
+    },
+    {
+      "id": "225-2630",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00390625"
+      },
+      "meta": {
+        "item_name": "Limpwurt root",
+        "monster_name": "Vera"
+      }
+    },
+    {
+      "id": "225-2629",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00390625"
+      },
+      "meta": {
+        "item_name": "Limpwurt root",
+        "monster_name": "Nikita"
+      }
+    },
+    {
+      "id": "225-2628",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00390625"
+      },
+      "meta": {
+        "item_name": "Limpwurt root",
+        "monster_name": "Yadviga"
+      }
+    },
+    {
+      "id": "225-2627",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00390625"
+      },
+      "meta": {
+        "item_name": "Limpwurt root",
+        "monster_name": "Ksenia"
+      }
+    },
+    {
+      "id": "225-2626",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00390625"
+      },
+      "meta": {
+        "item_name": "Limpwurt root",
+        "monster_name": "Sofiya"
+      }
+    },
+    {
+      "id": "225-2625",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00390625"
+      },
+      "meta": {
+        "item_name": "Limpwurt root",
+        "monster_name": "Galina"
+      }
+    },
+    {
+      "id": "225-2624",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00390625"
+      },
+      "meta": {
+        "item_name": "Limpwurt root",
+        "monster_name": "Milla"
+      }
+    },
+    {
+      "id": "225-2623",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00390625"
+      },
+      "meta": {
+        "item_name": "Limpwurt root",
+        "monster_name": "Alexis"
+      }
+    },
+    {
+      "id": "225-2622",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00390625"
+      },
+      "meta": {
+        "item_name": "Limpwurt root",
+        "monster_name": "Irina"
+      }
+    },
+    {
+      "id": "225-2621",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00390625"
+      },
+      "meta": {
+        "item_name": "Limpwurt root",
+        "monster_name": "Svetlana"
+      }
+    },
+    {
+      "id": "225-2620",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00390625"
+      },
+      "meta": {
+        "item_name": "Limpwurt root",
+        "monster_name": "Georgy"
+      }
+    },
+    {
+      "id": "225-2619",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00390625"
+      },
+      "meta": {
+        "item_name": "Limpwurt root",
+        "monster_name": "Lev"
+      }
+    },
+    {
+      "id": "225-2618",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00390625"
+      },
+      "meta": {
+        "item_name": "Limpwurt root",
+        "monster_name": "Eduard"
+      }
+    },
+    {
+      "id": "225-2617",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00390625"
+      },
+      "meta": {
+        "item_name": "Limpwurt root",
+        "monster_name": "Nikolai"
+      }
+    },
+    {
+      "id": "225-2616",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00390625"
+      },
+      "meta": {
+        "item_name": "Limpwurt root",
+        "monster_name": "Joseph"
+      }
+    },
+    {
+      "id": "225-2615",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00390625"
+      },
+      "meta": {
+        "item_name": "Limpwurt root",
+        "monster_name": "Yuri"
+      }
+    },
+    {
+      "id": "225-2614",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00390625"
+      },
+      "meta": {
+        "item_name": "Limpwurt root",
+        "monster_name": "Imre"
+      }
+    },
+    {
+      "id": "225-2613",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00390625"
+      },
+      "meta": {
+        "item_name": "Limpwurt root",
+        "monster_name": "Boris"
+      }
+    },
+    {
+      "id": "225-2464",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0859375"
+      },
+      "meta": {
+        "item_name": "Limpwurt root",
+        "monster_name": "Cyclops (Level 76)"
+      }
+    },
+    {
+      "id": "225-2241",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.1640625"
+      },
+      "meta": {
+        "item_name": "Limpwurt root",
+        "monster_name": "Hobgoblin (Level 47)"
+      }
+    },
+    {
+      "id": "225-2241",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.171875"
+      },
+      "meta": {
+        "item_name": "Limpwurt root",
+        "monster_name": "Hobgoblin (Level 47)"
+      }
+    },
+    {
+      "id": "225-2235",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0859375"
+      },
+      "meta": {
+        "item_name": "Limpwurt root",
+        "monster_name": "Cyclops (Level 81)"
+      }
+    },
+    {
+      "id": "225-2218",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.062992125984252"
+      },
+      "meta": {
+        "item_name": "Limpwurt root",
+        "monster_name": "Sergeant Grimspike"
+      }
+    },
+    {
+      "id": "225-2217",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.062992125984252"
+      },
+      "meta": {
+        "item_name": "Limpwurt root",
+        "monster_name": "Sergeant Steelwill"
+      }
+    },
+    {
+      "id": "225-2216",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.062992125984252"
+      },
+      "meta": {
+        "item_name": "Limpwurt root",
+        "monster_name": "Sergeant Strongstack"
+      }
+    },
+    {
+      "id": "225-2137",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0859375"
+      },
+      "meta": {
+        "item_name": "Limpwurt root",
+        "monster_name": "Cyclops (Level 106)"
+      }
+    },
+    {
+      "id": "225-2098",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0859375"
+      },
+      "meta": {
+        "item_name": "Limpwurt root",
+        "monster_name": "Hill Giant"
+      }
+    },
+    {
+      "id": "225-2097",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0859375"
+      },
+      "meta": {
+        "item_name": "Limpwurt root",
+        "monster_name": "Cyclops (Level 56)"
+      }
+    },
+    {
+      "id": "225-1047",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0546875"
+      },
+      "meta": {
+        "item_name": "Limpwurt root",
+        "monster_name": "Cave horror"
+      }
+    },
+    {
+      "id": "225-532",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Limpwurt root",
+        "monster_name": "Chaos druid warrior"
+      }
+    },
+    {
+      "id": "225-532",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Limpwurt root",
+        "monster_name": "Chaos druid warrior"
+      }
+    },
+    {
+      "id": "225-530",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0869565217391304"
+      },
+      "meta": {
+        "item_name": "Limpwurt root",
+        "monster_name": "Tribesman"
+      }
+    },
+    {
+      "id": "225-483",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Limpwurt root",
+        "monster_name": "Cave bug (Level 96)"
+      }
+    },
+    {
+      "id": "225-483",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Limpwurt root",
+        "monster_name": "Cave bug (Level 96)"
+      }
+    },
+    {
+      "id": "225-481",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Limpwurt root",
+        "monster_name": "Cave bug (Level 6)"
+      }
+    },
+    {
+      "id": "225-481",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Limpwurt root",
+        "monster_name": "Cave bug (Level 6)"
+      }
+    },
+    {
+      "id": "225-430",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0546875"
+      },
+      "meta": {
+        "item_name": "Limpwurt root",
+        "monster_name": "Turoth (Level 83)"
+      }
+    },
+    {
+      "id": "225-429",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0546875"
+      },
+      "meta": {
+        "item_name": "Limpwurt root",
+        "monster_name": "Turoth (Level 85)"
+      }
+    },
+    {
+      "id": "225-428",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0546875"
+      },
+      "meta": {
+        "item_name": "Limpwurt root",
+        "monster_name": "Turoth (Level 87)"
+      }
+    },
+    {
+      "id": "225-427",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0546875"
+      },
+      "meta": {
+        "item_name": "Limpwurt root",
+        "monster_name": "Turoth (Level 89)"
+      }
+    },
+    {
+      "id": "225-419",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.1640625"
+      },
+      "meta": {
+        "item_name": "Limpwurt root",
+        "monster_name": "Cockatrice"
+      }
+    },
+    {
+      "id": "225-406",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Limpwurt root",
+        "monster_name": "Cave crawler"
+      }
+    }
+  ]
+}

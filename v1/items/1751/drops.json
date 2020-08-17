@@ -1,0 +1,164 @@
+{
+  "data": [
+    {
+      "id": "1751-8060",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Blue dragonhide",
+        "monster_name": "Vorkath (Dragon Slayer II)"
+      }
+    },
+    {
+      "id": "1751-8061",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 25,
+        "quantity_max": 30,
+        "rarity": "0.0533333333333333"
+      },
+      "meta": {
+        "item_name": "Blue dragonhide",
+        "monster_name": "Vorkath (Post-quest)"
+      }
+    },
+    {
+      "id": "1751-8060",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 25,
+        "quantity_max": 30,
+        "rarity": "0.0533333333333333"
+      },
+      "meta": {
+        "item_name": "Blue dragonhide",
+        "monster_name": "Vorkath (Dragon Slayer II)"
+      }
+    },
+    {
+      "id": "1751-265",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Blue dragonhide",
+        "monster_name": "Blue dragon (2)"
+      }
+    },
+    {
+      "id": "1751-266",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Blue dragonhide",
+        "monster_name": "Blue dragon (3)"
+      }
+    },
+    {
+      "id": "1751-267",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Blue dragonhide",
+        "monster_name": "Blue dragon (4)"
+      }
+    },
+    {
+      "id": "1751-268",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Blue dragonhide",
+        "monster_name": "Blue dragon (5)"
+      }
+    },
+    {
+      "id": "1751-269",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Blue dragonhide",
+        "monster_name": "Blue dragon (1)"
+      }
+    },
+    {
+      "id": "1751-7273",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Blue dragonhide",
+        "monster_name": "Brutal blue dragon"
+      }
+    },
+    {
+      "id": "1751-8061",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Blue dragonhide",
+        "monster_name": "Vorkath (Post-quest)"
+      }
+    }
+  ]
+}

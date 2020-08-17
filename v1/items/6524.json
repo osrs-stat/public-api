@@ -1,0 +1,75 @@
+{
+  "data": {
+    "id": "6524",
+    "type": "item",
+    "attributes": {
+      "uuid": "9c8b39a9-5d4c-4328-81db-d990c16b02b2",
+      "name": "Toktz-ket-xil",
+      "members": true,
+      "release_date": "2005-09-19",
+      "examine": "A spiked shield of obsidian.",
+      "tradeable": false,
+      "ge_tradeable": false,
+      "lowalch": 18000,
+      "highalch": 27000,
+      "is_equip": true,
+      "is_weapon": false,
+      "icon_base64": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACbUlEQVR4XrXXzU7cMBQF4Hg5CxbsUCWkEeIBuqmQEKgIVDRFpQLET8XPour7P4M7x+YkJze24yRwpaOZZsb2lxsnQ5tmtJyPseX8en8/JP35p5TzX/b2QjpYDDEdqCaLy/mTo6MWhXxbNf4E2R7/fnzs76+v/e3VVTiu0TH9k1pUaVBACagW83W9DrGrjFS/zVhYUS1oG4DwOobBeILsaiMVAbo/NhcXbRQFyPlOfC2BeEKLQIrKgYiqwRA0Y3O7eBlGUDUgHYMM78qqcv73z43/dXkZohOluqSgHEYhyITL5+LtvA1QhOVQOVAtZhLIopAUaCoG26GyO6g+SFGEYWICFUWQ7Si/r/NUgt6fOQZkYYoiSDE5iM5VAer/LoX2FlCIoiyG38HPiZ2jCoTryjze3PRiJ7MoxaS6YUP0yG3v/PnpacjLw0MInsCl2I4eHhwMFrexY7hNrOa94oebnVWbEgDdxCtOgu8Ri2Bs5/WqFFElBCGKwR2lx3IwzIeTvN1dSWdiCs+k4eZWhC6K9z/OzsIieOWxEgrfVYDGSpoURiE5DEHolo5JwdCl0Tusqw705+4uJDU5/h0ulew126XUOKIqQUMMQWMY7o1Ul1KwSSDFICmMXioFYXOzS4rCw3EGCNXf+XiuaHKYFmS6RBRAipoAappux/dBb09PA0wJhHAsQURNAnXVgfDU/vv8nMVgET0OFP4XwvHsOFGLQMCgO/9eX5IgXoYUCIsTxK7z/QwQqr+nbLDp+TOAS6SfpUG6JWYWJ7AhiI8GPXPtxoQ/xj6iIordsYsStrgr9eXCHhtbNHf8k6qMmVv/AbaqTf01QmllAAAAAElFTkSuQmCC"
+    },
+    "relationships": {
+      "equip": {
+        "data": {
+          "id": "3eb4dcd2-8674-488c-ae63-3dd2d108ce09",
+          "type": "equip"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Toktz-ket-xil"
+    },
+    "meta": {
+      "incomplete": false
+    }
+  },
+  "included": [
+    {
+      "id": "3eb4dcd2-8674-488c-ae63-3dd2d108ce09",
+      "type": "equip",
+      "attributes": {
+        "slot": "shield",
+        "passive_effect": null,
+        "requirements": {
+          "defense_level": 60
+        }
+      },
+      "relationships": {
+        "equip_stat": {
+          "data": {
+            "id": "db1f935b-27c7-4d19-9a02-e87c7e8bdef7",
+            "type": "equip_stat"
+          }
+        }
+      }
+    },
+    {
+      "id": "db1f935b-27c7-4d19-9a02-e87c7e8bdef7",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 0,
+        "slash_attack": 0,
+        "crush_attack": 0,
+        "ranged_attack": -8,
+        "magic_attack": -12,
+        "stab_defense": 40,
+        "slash_defense": 42,
+        "crush_defense": 38,
+        "ranged_defense": 65,
+        "magic_defense": 0,
+        "melee_strength": 5,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

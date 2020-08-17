@@ -1,0 +1,31 @@
+{
+  "data": {
+    "id": "2944",
+    "type": "item",
+    "attributes": {
+      "uuid": "29ed6a89-7698-4ac1-8a0a-b7d4f8a76dae",
+      "name": "Golden key",
+      "members": true,
+      "release_date": "2004-06-29",
+      "examine": "A replica key made of solid gold.",
+      "tradeable": false,
+      "ge_tradeable": false,
+      "lowalch": 120,
+      "highalch": 180,
+      "is_equip": false,
+      "is_weapon": false,
+      "icon_base64": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABt0lEQVR4XmNgGAWjAAYY/2PiAQOM/2d3CGLgAXIUqmNOrJf4//SE1EA5CuGYifWC/4+ukfh/dbfU/+enZf+/OS87EI5COAg9/YAchSxnoKBAD0fhdhC6HB0chGopPkwHBxHnkO5Kwf8JIZy0dBD+UNm+QPT/3qUS4MS9qE/wf00u738fZ5o5CLdD1s0QBTti/woJsINADpvajEhXIMdQ0UG4QwWU1VdPFYVbjI5hDqGSY3A7pCSN939fjeD/FZMhjkG2GB2jm0omwO6QQA/O/wVJEMeghwK6CVQEjP/vHkQU/TAMSpy5cbzgnIMeKugmUBFgDxkQzoyG5Ba6hQo2x4BC6vQmif9OlgyDI1RAmI6hAgKYjmkv4wU3IUDlCbKjBsQxMHxjr9T/s1sk/h9aheooCKYZQHUQKGRAbRlQaQtzwOWdkDSErI6GjmIERw26ZRe2ScAdAeODMIjvYUuzegkGGLGGAEgMFDop4RAHgKIOFHqyUojchm4SFQEjOL2gOwpUWaopQRyAjOmW22DRgppWsNdT6LppBCCJGN1RdHQANgBxFKhZQaf0Qgyge3ohDAYgvQweAADxhFQ7sfAPQQAAAABJRU5ErkJggg=="
+    },
+    "relationships": {
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Golden_key"
+    },
+    "meta": {
+      "incomplete": false
+    }
+  },
+  "included": [
+
+  ]
+}

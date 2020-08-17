@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "id": "9185-6618",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Rune crossbow",
+        "monster_name": "Crazy archaeologist"
+      }
+    },
+    {
+      "id": "9185-3162",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.062992125984252"
+      },
+      "meta": {
+        "item_name": "Rune crossbow",
+        "monster_name": "Kree'arra"
+      }
+    }
+  ]
+}

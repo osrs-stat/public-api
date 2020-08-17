@@ -1,0 +1,31 @@
+{
+  "data": {
+    "id": "9191",
+    "type": "item",
+    "attributes": {
+      "uuid": "6dac5029-d9d7-48c3-a108-fd37e50ed0b5",
+      "name": "Ruby bolt tips",
+      "members": true,
+      "release_date": "2006-07-31",
+      "examine": "Ruby bolt tips.",
+      "tradeable": false,
+      "ge_tradeable": false,
+      "lowalch": 26,
+      "highalch": 40,
+      "is_equip": false,
+      "is_weapon": false,
+      "icon_base64": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAAm0lEQVR4Xu3SwQqCQBSF4blv4iNIKDKiKIkR4ZMEgRC0CIIgAqFVm6CnPTHNIvABvBc6H7iY2fjDGeeIiIiWJpjfKBLssxRGogSnssAhX32D0iTRjhJcao+xyCwECaauwbUpcfS59myC167Ho29xayucK689m+A9bPDcdrivayuzhXniF2YLj1s5yLnw8xgQw35nA0zFEBHRv/kApmNLqlsFISAAAAAASUVORK5CYII="
+    },
+    "relationships": {
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Ruby_bolt_tips"
+    },
+    "meta": {
+      "incomplete": false
+    }
+  },
+  "included": [
+
+  ]
+}

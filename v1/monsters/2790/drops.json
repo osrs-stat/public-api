@@ -1,0 +1,84 @@
+{
+  "data": [
+    {
+      "id": "2132-2790",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Raw beef",
+        "monster_name": "Cow (Normal)"
+      }
+    },
+    {
+      "id": "526-2790",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Bones",
+        "monster_name": "Cow (Normal)"
+      }
+    },
+    {
+      "id": "23182-2790",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Clue scroll (beginner)",
+        "monster_name": "Cow (Normal)"
+      }
+    },
+    {
+      "id": "23083-2790",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000494853523357086"
+      },
+      "meta": {
+        "item_name": "Brimstone key",
+        "monster_name": "Cow (Normal)"
+      }
+    },
+    {
+      "id": "1739-2790",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Cowhide",
+        "monster_name": "Cow (Normal)"
+      }
+    }
+  ]
+}

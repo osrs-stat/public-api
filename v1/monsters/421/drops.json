@@ -1,0 +1,212 @@
+{
+  "data": [
+    {
+      "id": "2349-421",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Bronze bar",
+        "monster_name": "Rockslug"
+      }
+    },
+    {
+      "id": "436-421",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Copper ore",
+        "monster_name": "Rockslug"
+      }
+    },
+    {
+      "id": "438-421",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0625"
+      },
+      "meta": {
+        "item_name": "Tin ore",
+        "monster_name": "Rockslug"
+      }
+    },
+    {
+      "id": "447-421",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Mithril ore",
+        "monster_name": "Rockslug"
+      }
+    },
+    {
+      "id": "1913-421",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.1015625"
+      },
+      "meta": {
+        "item_name": "Dwarven stout",
+        "monster_name": "Rockslug"
+      }
+    },
+    {
+      "id": "2347-421",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.078125"
+      },
+      "meta": {
+        "item_name": "Hammer",
+        "monster_name": "Rockslug"
+      }
+    },
+    {
+      "id": "453-421",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.1015625"
+      },
+      "meta": {
+        "item_name": "Coal",
+        "monster_name": "Rockslug"
+      }
+    },
+    {
+      "id": "440-421",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.171875"
+      },
+      "meta": {
+        "item_name": "Iron ore",
+        "monster_name": "Rockslug"
+      }
+    },
+    {
+      "id": "2351-421",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Iron bar",
+        "monster_name": "Rockslug"
+      }
+    },
+    {
+      "id": "4115-421",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.001953125"
+      },
+      "meta": {
+        "item_name": "Mystic gloves (light)",
+        "monster_name": "Rockslug"
+      }
+    },
+    {
+      "id": "557-421",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.234375"
+      },
+      "meta": {
+        "item_name": "Earth rune (Regular)",
+        "monster_name": "Rockslug"
+      }
+    },
+    {
+      "id": "557-421",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 42,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Earth rune (Regular)",
+        "monster_name": "Rockslug"
+      }
+    },
+    {
+      "id": "562-421",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Chaos rune (Regular)",
+        "monster_name": "Rockslug"
+      }
+    }
+  ]
+}

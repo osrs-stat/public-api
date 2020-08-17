@@ -1,0 +1,75 @@
+{
+  "data": {
+    "id": "13360",
+    "type": "item",
+    "attributes": {
+      "uuid": "f9ee4df9-8ed7-4ab8-8c16-aa9c26100348",
+      "name": "Shayzien greaves (1)",
+      "members": true,
+      "release_date": "2016-01-07",
+      "examine": "Dress like a tier 1 Shayzien soldier.",
+      "tradeable": false,
+      "ge_tradeable": false,
+      "lowalch": 14,
+      "highalch": 21,
+      "is_equip": true,
+      "is_weapon": false,
+      "icon_base64": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABRklEQVR4XuXVwQrCMAwGYPsIHgQRhCGeRGSIHtzFmyff/3UmWfltknZO2JIJ/hCm62w/04qLxX8ktPrOTCFIaFfLZXfVo86JEF4zonKMRLnCIuZa1+1+t8tAzt0K7e1y6TDn0+kjyKFbEnM8HAZBxt0KAvMtiD5XV1VXesaRkaBqux0EuWJQGlEC6dlGJt8qgmzW6/fCeM/vuXanD1MC6dlG5jOGzhDu8TGj7kQMX1RjMIarYXdCLwRjGEcZdSf9e6M4CGMlDNXkGJpUtx8QFMfQa7POcIzeoriIBOEgG2Ao5TPDMbxjhttESYvdmybrjsagzDG6OIZvDx+bGEMpgzSm7/CaYwDpw3CQnm2CSFBaKGGej4c4V0bbhCSQXCjvXP6MWfThLGNkB40jv3UOytFuKWMAccZQyod8BghP+tn/ACbGe4teeJkJycQ/G4UAAAAASUVORK5CYII="
+    },
+    "relationships": {
+      "equip": {
+        "data": {
+          "id": "8b3c60fa-b518-426c-9ea6-6821f903fedd",
+          "type": "equip"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Shayzien_greaves_(1)"
+    },
+    "meta": {
+      "incomplete": false
+    }
+  },
+  "included": [
+    {
+      "id": "8b3c60fa-b518-426c-9ea6-6821f903fedd",
+      "type": "equip",
+      "attributes": {
+        "slot": "legs",
+        "passive_effect": null,
+        "requirements": {
+          "defense_level": 20
+        }
+      },
+      "relationships": {
+        "equip_stat": {
+          "data": {
+            "id": "7346e7be-eb5d-41f9-bbb8-f0e657b0c801",
+            "type": "equip_stat"
+          }
+        }
+      }
+    },
+    {
+      "id": "7346e7be-eb5d-41f9-bbb8-f0e657b0c801",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 0,
+        "slash_attack": 0,
+        "crush_attack": 0,
+        "ranged_attack": -2,
+        "magic_attack": -10,
+        "stab_defense": 10,
+        "slash_defense": 9,
+        "crush_defense": 8,
+        "ranged_defense": 10,
+        "magic_defense": -2,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

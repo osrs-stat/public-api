@@ -1,0 +1,132 @@
+{
+  "data": [
+    {
+      "id": "6812-7794",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Wyvern bones",
+        "monster_name": "Spitting Wyvern"
+      }
+    },
+    {
+      "id": "6812-465",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Wyvern bones",
+        "monster_name": "Skeletal Wyvern (2)"
+      }
+    },
+    {
+      "id": "6812-466",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Wyvern bones",
+        "monster_name": "Skeletal Wyvern (3)"
+      }
+    },
+    {
+      "id": "6812-467",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Wyvern bones",
+        "monster_name": "Skeletal Wyvern (4)"
+      }
+    },
+    {
+      "id": "6812-468",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Wyvern bones",
+        "monster_name": "Skeletal Wyvern (1)"
+      }
+    },
+    {
+      "id": "6812-7795",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Wyvern bones",
+        "monster_name": "Ancient Wyvern"
+      }
+    },
+    {
+      "id": "6812-7792",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Wyvern bones",
+        "monster_name": "Long-tailed Wyvern"
+      }
+    },
+    {
+      "id": "6812-7793",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Wyvern bones",
+        "monster_name": "Taloned Wyvern"
+      }
+    }
+  ]
+}

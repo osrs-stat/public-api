@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "id": "995-5127",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 3,
+        "quantity_max": 237,
+        "rarity": "0.125"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Mouse (Light)"
+      }
+    },
+    {
+      "id": "1985-5127",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.125"
+      },
+      "meta": {
+        "item_name": "Cheese",
+        "monster_name": "Mouse (Light)"
+      }
+    }
+  ]
+}

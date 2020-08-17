@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "id": "10937-2946",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Nail beast nails",
+        "monster_name": "Nail beast (Level 69)"
+      }
+    },
+    {
+      "id": "10937-2948",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Nail beast nails",
+        "monster_name": "Nail beast (Level 141)"
+      }
+    },
+    {
+      "id": "10937-2947",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Nail beast nails",
+        "monster_name": "Nail beast (Level 98)"
+      }
+    }
+  ]
+}

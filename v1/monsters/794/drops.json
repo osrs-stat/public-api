@@ -1,0 +1,788 @@
+{
+  "data": [
+    {
+      "id": "1185-794",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Rune sq shield",
+        "monster_name": "Scarab mage (Level 93)"
+      }
+    },
+    {
+      "id": "1823-794",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Waterskin (4)",
+        "monster_name": "Scarab mage (Level 93)"
+      }
+    },
+    {
+      "id": "207-794",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0134235395189003"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Scarab mage (Level 93)"
+      }
+    },
+    {
+      "id": "365-794",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 6,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Bass",
+        "monster_name": "Scarab mage (Level 93)"
+      }
+    },
+    {
+      "id": "379-794",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Lobster",
+        "monster_name": "Scarab mage (Level 93)"
+      }
+    },
+    {
+      "id": "10143-794",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 80,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Marrentill tar",
+        "monster_name": "Scarab mage (Level 93)"
+      }
+    },
+    {
+      "id": "199-794",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Grimy guam leaf",
+        "monster_name": "Scarab mage (Level 93)"
+      }
+    },
+    {
+      "id": "201-794",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0292987061691356"
+      },
+      "meta": {
+        "item_name": "Grimy marrentill",
+        "monster_name": "Scarab mage (Level 93)"
+      }
+    },
+    {
+      "id": "203-794",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0219729995781184"
+      },
+      "meta": {
+        "item_name": "Grimy tarromin",
+        "monster_name": "Scarab mage (Level 93)"
+      }
+    },
+    {
+      "id": "205-794",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0170895767253637"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Scarab mage (Level 93)"
+      }
+    },
+    {
+      "id": "526-794",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Bones",
+        "monster_name": "Scarab mage (Level 93)"
+      }
+    },
+    {
+      "id": "1199-794",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Adamant kiteshield",
+        "monster_name": "Scarab mage (Level 93)"
+      }
+    },
+    {
+      "id": "1391-794",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Battlestaff",
+        "monster_name": "Scarab mage (Level 93)"
+      }
+    },
+    {
+      "id": "1213-794",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Rune dagger (Unpoisoned)",
+        "monster_name": "Scarab mage (Level 93)"
+      }
+    },
+    {
+      "id": "1432-794",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Rune mace",
+        "monster_name": "Scarab mage (Level 93)"
+      }
+    },
+    {
+      "id": "890-794",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 36,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Adamant arrow (Unpoisoned)",
+        "monster_name": "Scarab mage (Level 93)"
+      }
+    },
+    {
+      "id": "565-794",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 18,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Blood rune (Regular)",
+        "monster_name": "Scarab mage (Level 93)"
+      }
+    },
+    {
+      "id": "554-794",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 250,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Fire rune (Regular)",
+        "monster_name": "Scarab mage (Level 93)"
+      }
+    },
+    {
+      "id": "564-794",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 35,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Cosmic rune",
+        "monster_name": "Scarab mage (Level 93)"
+      }
+    },
+    {
+      "id": "4699-794",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 150,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Lava rune",
+        "monster_name": "Scarab mage (Level 93)"
+      }
+    },
+    {
+      "id": "892-794",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 18,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Rune arrow (Unpoisoned)",
+        "monster_name": "Scarab mage (Level 93)"
+      }
+    },
+    {
+      "id": "377-794",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 15,
+        "quantity_max": null,
+        "rarity": "0.0546875"
+      },
+      "meta": {
+        "item_name": "Raw lobster",
+        "monster_name": "Scarab mage (Level 93)"
+      }
+    },
+    {
+      "id": "5304-794",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000131302521008403"
+      },
+      "meta": {
+        "item_name": "Torstol seed",
+        "monster_name": "Scarab mage (Level 93)"
+      }
+    },
+    {
+      "id": "5303-794",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000196962057229295"
+      },
+      "meta": {
+        "item_name": "Dwarf weed seed",
+        "monster_name": "Scarab mage (Level 93)"
+      }
+    },
+    {
+      "id": "22879-794",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.000262605042016807"
+      },
+      "meta": {
+        "item_name": "Snape grass seed",
+        "monster_name": "Scarab mage (Level 93)"
+      }
+    },
+    {
+      "id": "5302-794",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000328256302521008"
+      },
+      "meta": {
+        "item_name": "Lantadyme seed",
+        "monster_name": "Scarab mage (Level 93)"
+      }
+    },
+    {
+      "id": "5301-794",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000459558823529412"
+      },
+      "meta": {
+        "item_name": "Cadantine seed",
+        "monster_name": "Scarab mage (Level 93)"
+      }
+    },
+    {
+      "id": "5300-794",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000656512605042017"
+      },
+      "meta": {
+        "item_name": "Snapdragon seed",
+        "monster_name": "Scarab mage (Level 93)"
+      }
+    },
+    {
+      "id": "22873-794",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000984562066792691"
+      },
+      "meta": {
+        "item_name": "Potato cactus seed",
+        "monster_name": "Scarab mage (Level 93)"
+      }
+    },
+    {
+      "id": "5299-794",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000984562066792691"
+      },
+      "meta": {
+        "item_name": "Kwuarm seed",
+        "monster_name": "Scarab mage (Level 93)"
+      }
+    },
+    {
+      "id": "5280-794",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00137908208296558"
+      },
+      "meta": {
+        "item_name": "Cactus seed",
+        "monster_name": "Scarab mage (Level 93)"
+      }
+    },
+    {
+      "id": "5106-794",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00144408502772643"
+      },
+      "meta": {
+        "item_name": "Poison ivy seed",
+        "monster_name": "Scarab mage (Level 93)"
+      }
+    },
+    {
+      "id": "5298-794",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00144408502772643"
+      },
+      "meta": {
+        "item_name": "Avantoe seed",
+        "monster_name": "Scarab mage (Level 93)"
+      }
+    },
+    {
+      "id": "5281-794",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00203530024749251"
+      },
+      "meta": {
+        "item_name": "Belladonna seed",
+        "monster_name": "Scarab mage (Level 93)"
+      }
+    },
+    {
+      "id": "5297-794",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00210069911266469"
+      },
+      "meta": {
+        "item_name": "Irit seed",
+        "monster_name": "Scarab mage (Level 93)"
+      }
+    },
+    {
+      "id": "5296-794",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00308550552922591"
+      },
+      "meta": {
+        "item_name": "Toadflax seed",
+        "monster_name": "Scarab mage (Level 93)"
+      }
+    },
+    {
+      "id": "217-794",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00366182329505507"
+      },
+      "meta": {
+        "item_name": "Grimy dwarf weed",
+        "monster_name": "Scarab mage (Level 93)"
+      }
+    },
+    {
+      "id": "2485-794",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00366182329505507"
+      },
+      "meta": {
+        "item_name": "Grimy lantadyme",
+        "monster_name": "Scarab mage (Level 93)"
+      }
+    },
+    {
+      "id": "215-794",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0048828125"
+      },
+      "meta": {
+        "item_name": "Grimy cadantine",
+        "monster_name": "Scarab mage (Level 93)"
+      }
+    },
+    {
+      "id": "213-794",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.006103515625"
+      },
+      "meta": {
+        "item_name": "Grimy kwuarm",
+        "monster_name": "Scarab mage (Level 93)"
+      }
+    },
+    {
+      "id": "211-794",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00732536333802157"
+      },
+      "meta": {
+        "item_name": "Grimy avantoe",
+        "monster_name": "Scarab mage (Level 93)"
+      }
+    },
+    {
+      "id": "209-794",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.009765625"
+      },
+      "meta": {
+        "item_name": "Grimy irit leaf",
+        "monster_name": "Scarab mage (Level 93)"
+      }
+    },
+    {
+      "id": "449-794",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 14,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Adamantite ore",
+        "monster_name": "Scarab mage (Level 93)"
+      }
+    },
+    {
+      "id": "453-794",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 32,
+        "quantity_max": null,
+        "rarity": "0.046875"
+      },
+      "meta": {
+        "item_name": "Coal",
+        "monster_name": "Scarab mage (Level 93)"
+      }
+    },
+    {
+      "id": "9735-794",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 6,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Desert goat horn",
+        "monster_name": "Scarab mage (Level 93)"
+      }
+    },
+    {
+      "id": "2359-794",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 22,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Mithril bar",
+        "monster_name": "Scarab mage (Level 93)"
+      }
+    },
+    {
+      "id": "363-794",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 24,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Raw bass",
+        "monster_name": "Scarab mage (Level 93)"
+      }
+    },
+    {
+      "id": "1623-794",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 4,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Uncut sapphire",
+        "monster_name": "Scarab mage (Level 93)"
+      }
+    },
+    {
+      "id": "995-794",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2000,
+        "quantity_max": 3000,
+        "rarity": "0.25"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Scarab mage (Level 93)"
+      }
+    }
+  ]
+}

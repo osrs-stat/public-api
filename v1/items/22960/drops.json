@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "id": "22960-10400",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000390625"
+      },
+      "meta": {
+        "item_name": "Drake's tooth",
+        "monster_name": "Guardian Drake"
+      }
+    },
+    {
+      "id": "22960-8612",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000390625"
+      },
+      "meta": {
+        "item_name": "Drake's tooth",
+        "monster_name": "Drake"
+      }
+    }
+  ]
+}

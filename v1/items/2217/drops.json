@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "id": "2217-6076",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.078125"
+      },
+      "meta": {
+        "item_name": "Toad crunchies",
+        "monster_name": "Tortoise (With riders)"
+      }
+    },
+    {
+      "id": "2217-6075",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.078125"
+      },
+      "meta": {
+        "item_name": "Toad crunchies",
+        "monster_name": "Tortoise (No riders)"
+      }
+    }
+  ]
+}

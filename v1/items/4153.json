@@ -1,0 +1,140 @@
+{
+  "data": {
+    "id": "4153",
+    "type": "item",
+    "attributes": {
+      "uuid": "245174d9-6ce8-41fd-b47d-42b5237533d3",
+      "name": "Granite maul (Normal)",
+      "members": true,
+      "release_date": "2005-01-26",
+      "examine": "Simplicity is the best weapon.",
+      "tradeable": false,
+      "ge_tradeable": false,
+      "lowalch": 20000,
+      "highalch": 30000,
+      "is_equip": true,
+      "is_weapon": true,
+      "icon_base64": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABrUlEQVR4Xu3XXUsCQRQGYOcHdClIIIiIFyEiUYigIIqyLCUatYiamJ+kyyaainnhRQl1EYEViOBvPXVGZ1estm52nMAXhpVxl3k8nv2y2f5vCGzOcMz64viZQD5/QbfGPLcQ8Ptcq8UJXJVy0GiUoFa7hMOAX5/fPMqiENDqMhSUCAW029egqlUdVKnkIRwOgsfj5oFa/nIEDAYa9G5VHdRslnUQVkxR0nTfgAsraUkIXXw87sNo1KGgbqf1BYR9hJhs9sx60MP93Y8grApuUymJjkxGth60WEy/BWH/aFodYrEIJBJRkKQ4nMhJ60Gz2TNFMRDrpclkBLVinJ55rHcYxlLQ6/RRR2F1sFo4aIU+zzyG4oBhIfD+9gTz+Qv9i4bDNm1mVhFElQsxOPDur+a4hF30jGFUY0soBlgfxrdbQplniSrmouBxO3YokxBoVSUxUXgzdjrtO5RJBEZlz8PgsO/tUCYRFNUoJyElH1MQhxvxbyHQu0nTJ4R4lL0YbD0EuuopvXCGjrzioNhbzPqr1eZenGM0OY5Q0CcOKqcYz+JCNLpAmGWEwvw1H0AqiBm1Y6BYAAAAAElFTkSuQmCC"
+    },
+    "relationships": {
+      "equip": {
+        "data": {
+          "id": "8b7ede45-91ea-4761-a11e-8c69f01a3cf3",
+          "type": "equip"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Granite_maul#Normal"
+    },
+    "meta": {
+      "incomplete": false
+    }
+  },
+  "included": [
+    {
+      "id": "8b7ede45-91ea-4761-a11e-8c69f01a3cf3",
+      "type": "equip",
+      "attributes": {
+        "slot": "weapon_2h",
+        "passive_effect": null,
+        "requirements": {
+          "attack_level": 50
+        }
+      },
+      "relationships": {
+        "equip_stat": {
+          "data": {
+            "id": "71688abb-655b-4711-9e97-e0e25e2dba13",
+            "type": "equip_stat"
+          }
+        },
+        "attack_stat": {
+          "data": {
+            "id": "f3871e5c-b71c-4a8f-a8c4-002c7d02860d",
+            "type": "attack_stat"
+          }
+        }
+      }
+    },
+    {
+      "id": "f3871e5c-b71c-4a8f-a8c4-002c7d02860d",
+      "type": "attack_stat",
+      "attributes": {
+        "attack_speed": 7,
+        "attack_type": "blunt_weapon",
+        "special": null,
+        "stances": [
+          {
+            "name": "pound",
+            "style": "accurate",
+            "boosts": {
+              "accuracy": 3
+            },
+            "experience": {
+              "hitpoints": 1.3333,
+              "attack": 4
+            },
+            "combat_accuracy_stat": "attack_level",
+            "combat_damage_stat": "strength_level",
+            "equip_accuracy_stat": "crush_attack",
+            "equip_damage_stat": "crush_attack",
+            "target_equip_defense_stat": "crush_defense"
+          },
+          {
+            "name": "pummel",
+            "style": "aggressive",
+            "boosts": {
+              "damage": 3
+            },
+            "experience": {
+              "hitpoints": 1.3333,
+              "strength": 4
+            },
+            "combat_accuracy_stat": "attack_level",
+            "combat_damage_stat": "strength_level",
+            "equip_accuracy_stat": "crush_attack",
+            "equip_damage_stat": "crush_attack",
+            "target_equip_defense_stat": "crush_defense"
+          },
+          {
+            "name": "block",
+            "style": "defensive",
+            "boosts": {
+              "defense": 3
+            },
+            "experience": {
+              "hitpoints": 1.3333,
+              "defense": 4
+            },
+            "combat_accuracy_stat": "attack_level",
+            "combat_damage_stat": "strength_level",
+            "equip_accuracy_stat": "crush_attack",
+            "equip_damage_stat": "crush_attack",
+            "target_equip_defense_stat": "crush_defense"
+          }
+        ]
+      }
+    },
+    {
+      "id": "71688abb-655b-4711-9e97-e0e25e2dba13",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 0,
+        "slash_attack": 0,
+        "crush_attack": 81,
+        "ranged_attack": 0,
+        "magic_attack": 0,
+        "stab_defense": 0,
+        "slash_defense": 0,
+        "crush_defense": 0,
+        "ranged_defense": 0,
+        "magic_defense": 0,
+        "melee_strength": 79,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

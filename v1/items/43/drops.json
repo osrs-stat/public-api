@@ -1,0 +1,116 @@
+{
+  "data": [
+    {
+      "id": "43-10398",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 8,
+        "quantity_max": 12,
+        "rarity": "0.0263157894736842"
+      },
+      "meta": {
+        "item_name": "Adamant arrowtips",
+        "monster_name": "Shadow Wyrm"
+      }
+    },
+    {
+      "id": "43-2211",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 13,
+        "quantity_max": null,
+        "rarity": "0.0703125"
+      },
+      "meta": {
+        "item_name": "Adamant arrowtips",
+        "monster_name": "Spiritual ranger (Saradomin)"
+      }
+    },
+    {
+      "id": "43-2242",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 13,
+        "quantity_max": null,
+        "rarity": "0.0703125"
+      },
+      "meta": {
+        "item_name": "Adamant arrowtips",
+        "monster_name": "Spiritual ranger (Bandos)"
+      }
+    },
+    {
+      "id": "43-3160",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 13,
+        "quantity_max": null,
+        "rarity": "0.0703125"
+      },
+      "meta": {
+        "item_name": "Adamant arrowtips",
+        "monster_name": "Spiritual ranger (Zamorak)"
+      }
+    },
+    {
+      "id": "43-3167",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 13,
+        "quantity_max": null,
+        "rarity": "0.0703125"
+      },
+      "meta": {
+        "item_name": "Adamant arrowtips",
+        "monster_name": "Spiritual ranger (Armadyl)"
+      }
+    },
+    {
+      "id": "43-8610",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 8,
+        "quantity_max": 12,
+        "rarity": "0.0263157894736842"
+      },
+      "meta": {
+        "item_name": "Adamant arrowtips",
+        "monster_name": "Wyrm (Idle)"
+      }
+    },
+    {
+      "id": "43-8611",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 8,
+        "quantity_max": 12,
+        "rarity": "0.0263157894736842"
+      },
+      "meta": {
+        "item_name": "Adamant arrowtips",
+        "monster_name": "Wyrm (Attacking)"
+      }
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "id": "165-274",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Super defence (2 dose)",
+        "monster_name": "Steel dragon (Normal)"
+      }
+    },
+    {
+      "id": "165-7255",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Super defence (2 dose)",
+        "monster_name": "Steel dragon (Catacombs of Kourend)"
+      }
+    },
+    {
+      "id": "165-2267",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Super defence (2 dose)",
+        "monster_name": "Dagannoth Rex"
+      }
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "11824-3130",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000186000372000744"
+      },
+      "meta": {
+        "item_name": "Zamorakian spear",
+        "monster_name": "Tstanon Karlak"
+      }
+    },
+    {
+      "id": "11824-3132",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000186000372000744"
+      },
+      "meta": {
+        "item_name": "Zamorakian spear",
+        "monster_name": "Balfrug Kreeyath"
+      }
+    },
+    {
+      "id": "11824-3131",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000186000372000744"
+      },
+      "meta": {
+        "item_name": "Zamorakian spear",
+        "monster_name": "Zakl'n Gritch"
+      }
+    },
+    {
+      "id": "11824-3129",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078740157480315"
+      },
+      "meta": {
+        "item_name": "Zamorakian spear",
+        "monster_name": "K'ril Tsutsaroth"
+      }
+    }
+  ]
+}

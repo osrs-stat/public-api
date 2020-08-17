@@ -1,0 +1,100 @@
+{
+  "data": [
+    {
+      "id": "10143-799",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 80,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Marrentill tar",
+        "monster_name": "Scarab mage (Level 66 (Quest))"
+      }
+    },
+    {
+      "id": "10143-796",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 80,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Marrentill tar",
+        "monster_name": "Locust rider (Ranger)"
+      }
+    },
+    {
+      "id": "10143-795",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 80,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Marrentill tar",
+        "monster_name": "Locust rider (Lancer)"
+      }
+    },
+    {
+      "id": "10143-801",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 80,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Marrentill tar",
+        "monster_name": "Locust rider (Ranger (Quest))"
+      }
+    },
+    {
+      "id": "10143-800",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 80,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Marrentill tar",
+        "monster_name": "Locust rider (Lancer (Quest))"
+      }
+    },
+    {
+      "id": "10143-794",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 80,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Marrentill tar",
+        "monster_name": "Scarab mage (Level 93)"
+      }
+    }
+  ]
+}

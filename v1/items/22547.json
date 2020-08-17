@@ -1,0 +1,143 @@
+{
+  "data": {
+    "id": "22547",
+    "type": "item",
+    "attributes": {
+      "uuid": "66b802cb-2680-47e7-9c76-21fabe6eebb4",
+      "name": "Craw's bow (Uncharged)",
+      "members": true,
+      "release_date": "2018-07-26",
+      "examine": "This bow once belonged to a formidable follower of Armadyl.",
+      "tradeable": false,
+      "ge_tradeable": false,
+      "lowalch": 48000,
+      "highalch": 72000,
+      "is_equip": true,
+      "is_weapon": true,
+      "icon_base64": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACLklEQVR4Xs2X70tTURjHff6IYAQDX41ejd6NxqDBSIZoqEjIYGIxF8tVMk0GNmSMi9KKC5OJbEzMpixIx3oRpCJKLILYq3rZ//KN51ycu+fWSt3ZvR94uNwfu8+Hc87znLuBAVsgyFdshBCf9MIhUixBCPsHxfH2IB+VYiT8W+jaKyRjCXg9N1QKXSQ8PPoi4vi4iZJeNMVqJoeFuee4473ZllEgRKjXD1GpvEc+v4GlpRVEIg/h8wUwOjqJmZnHSKWWkcu9QaFQQcjnVitTLteQTmcRjc4iGLxnmaI/hTIZDh4Rj+eWJdm/Qn7bNSGcVqbw69MTDA2NWETkp/sE4fveNNzuvpWvjHUtBAJTKtdENwg7O3URpdKeqBauqPGJtF2jwxhS29sfRLBYIjFvl5AxRSyxuVnF/sFnNBpHqL6O9lvIEDk5+Yqzs29ILdRQrdbRqk3j5/4j5FNBaJresa6UQmg2W2i1fojmx4mHh8fbybkbb2kRfCxMYG1tHbpeUilFKBbfConFxUzHCHRWlHH+ThtBJrMqtgYWUyBFYn3w/uNymTdBubzPxVg6Hn8munY2m++1FImyDofvSyPSDWpXHMfyS62XUoTk0xeXkDnHPJ2X+21XCH7/3fZL5bvdsE5nTyCMjT24kpAiCLFY0llCXGGOEuK+4hAhwu5uQzS4UCgspOQn+ozRg/j7uMele1WMrusYGZ4qxX/g/hcyfUY4YHQY8yYq37UFp4j8Bn9dxBsosMgLAAAAAElFTkSuQmCC"
+    },
+    "relationships": {
+      "equip": {
+        "data": {
+          "id": "38651f40-b42f-4a46-8fba-cf15480ff38d",
+          "type": "equip"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Craw's_bow#Uncharged"
+    },
+    "meta": {
+      "incomplete": false
+    }
+  },
+  "included": [
+    {
+      "id": "38651f40-b42f-4a46-8fba-cf15480ff38d",
+      "type": "equip",
+      "attributes": {
+        "slot": "weapon_2h",
+        "passive_effect": null,
+        "requirements": {
+          "ranged_level": 60
+        }
+      },
+      "relationships": {
+        "equip_stat": {
+          "data": {
+            "id": "f1d50cab-ca62-4b63-9911-70d20424fdb3",
+            "type": "equip_stat"
+          }
+        },
+        "attack_stat": {
+          "data": {
+            "id": "dc930cc0-7d54-4031-982d-f62e520c8320",
+            "type": "attack_stat"
+          }
+        }
+      }
+    },
+    {
+      "id": "dc930cc0-7d54-4031-982d-f62e520c8320",
+      "type": "attack_stat",
+      "attributes": {
+        "attack_speed": 4,
+        "attack_type": "bow",
+        "special": null,
+        "stances": [
+          {
+            "name": "accurate",
+            "style": null,
+            "boosts": {
+              "accuracy": 3,
+              "damage": 3
+            },
+            "experience": {
+              "hitpoints": 1.3333,
+              "ranged": 2
+            },
+            "combat_accuracy_stat": "ranged_level",
+            "combat_damage_stat": "ranged_level",
+            "equip_accuracy_stat": "ranged_attack",
+            "equip_damage_stat": "ranged_attack",
+            "target_equip_defense_stat": "ranged_defense"
+          },
+          {
+            "name": "rapid",
+            "style": null,
+            "boosts": {
+              "attack_speed": 1
+            },
+            "experience": {
+              "hitpoints": 1.3333,
+              "ranged": 2
+            },
+            "combat_accuracy_stat": "ranged_level",
+            "combat_damage_stat": "ranged_level",
+            "equip_accuracy_stat": "ranged_attack",
+            "equip_damage_stat": "ranged_attack",
+            "target_equip_defense_stat": "ranged_defense"
+          },
+          {
+            "name": "longrange",
+            "style": null,
+            "boosts": {
+              "defense": 3,
+              "attack_range": 2
+            },
+            "experience": {
+              "hitpoints": 1.3333,
+              "ranged": 1.3333,
+              "defense": 1.3333
+            },
+            "combat_accuracy_stat": "ranged_level",
+            "combat_damage_stat": "ranged_level",
+            "equip_accuracy_stat": "ranged_attack",
+            "equip_damage_stat": "ranged_attack",
+            "target_equip_defense_stat": "ranged_defense"
+          }
+        ]
+      }
+    },
+    {
+      "id": "f1d50cab-ca62-4b63-9911-70d20424fdb3",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 0,
+        "slash_attack": 0,
+        "crush_attack": 0,
+        "ranged_attack": 75,
+        "magic_attack": 0,
+        "stab_defense": 0,
+        "slash_defense": 0,
+        "crush_defense": 0,
+        "ranged_defense": 0,
+        "magic_defense": 0,
+        "melee_strength": 0,
+        "ranged_strength": 60,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

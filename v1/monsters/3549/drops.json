@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "id": "995-3549",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 60,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Menaphite Thug"
+      }
+    },
+    {
+      "id": "526-3549",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Bones",
+        "monster_name": "Menaphite Thug"
+      }
+    }
+  ]
+}

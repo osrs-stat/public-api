@@ -1,0 +1,84 @@
+{
+  "data": [
+    {
+      "id": "6571-7286",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.001"
+      },
+      "meta": {
+        "item_name": "Uncut onyx",
+        "monster_name": "Skotizo"
+      }
+    },
+    {
+      "id": "6571-2043",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0009765625"
+      },
+      "meta": {
+        "item_name": "Uncut onyx",
+        "monster_name": "Zulrah (Magma)"
+      }
+    },
+    {
+      "id": "6571-9049",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000125"
+      },
+      "meta": {
+        "item_name": "Uncut onyx",
+        "monster_name": "Zalcano"
+      }
+    },
+    {
+      "id": "6571-2042",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0009765625"
+      },
+      "meta": {
+        "item_name": "Uncut onyx",
+        "monster_name": "Zulrah (Serpentine)"
+      }
+    },
+    {
+      "id": "6571-2044",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0009765625"
+      },
+      "meta": {
+        "item_name": "Uncut onyx",
+        "monster_name": "Zulrah (Tanzanite)"
+      }
+    }
+  ]
+}

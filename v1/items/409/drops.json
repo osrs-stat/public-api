@@ -1,0 +1,132 @@
+{
+  "data": [
+    {
+      "id": "409-100",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Empty oyster",
+        "monster_name": "Rock Crab (Active)"
+      }
+    },
+    {
+      "id": "409-7799",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Empty oyster",
+        "monster_name": "Ammonite Crab"
+      }
+    },
+    {
+      "id": "409-7799",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Empty oyster",
+        "monster_name": "Ammonite Crab"
+      }
+    },
+    {
+      "id": "409-5935",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Empty oyster",
+        "monster_name": "Sand Crab (Active)"
+      }
+    },
+    {
+      "id": "409-5935",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Empty oyster",
+        "monster_name": "Sand Crab (Active)"
+      }
+    },
+    {
+      "id": "409-4800",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Empty oyster",
+        "monster_name": "Giant lobster"
+      }
+    },
+    {
+      "id": "409-4800",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Empty oyster",
+        "monster_name": "Giant lobster"
+      }
+    },
+    {
+      "id": "409-100",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Empty oyster",
+        "monster_name": "Rock Crab (Active)"
+      }
+    }
+  ]
+}

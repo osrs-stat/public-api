@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "id": "6291-8713",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.01"
+      },
+      "meta": {
+        "item_name": "Spider carcass",
+        "monster_name": "Sarachnis"
+      }
+    },
+    {
+      "id": "6291-3020",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Spider carcass",
+        "monster_name": "Jungle spider"
+      }
+    }
+  ]
+}

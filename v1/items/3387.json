@@ -1,0 +1,76 @@
+{
+  "data": {
+    "id": "3387",
+    "type": "item",
+    "attributes": {
+      "uuid": "327c1391-8c14-4e89-a503-92ac4f6b5cd2",
+      "name": "Splitbark body",
+      "members": true,
+      "release_date": "2004-10-18",
+      "examine": "Provides good protection.",
+      "tradeable": false,
+      "ge_tradeable": false,
+      "lowalch": 18000,
+      "highalch": 27000,
+      "is_equip": true,
+      "is_weapon": false,
+      "icon_base64": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB6UlEQVR4XtXXQUsCQRQH8OabeIroEB6UJVE6LImJSIlUIEKCFGVIHTIkIxAkiCCCLt36phNvhrfz9s2s7Oaua3/4H3LS/TW9na2trf8bIfkrOUbIVm1XbghKYxBULBTyRBkMRfHvWlOEfLltyHG/pprzLmkMBdGueZeEfHtoByCOujqrqGpU5jAbEwUKwzKLkPPro1igQdtTzXimNCgKRTG+tx00812qep5cjJqqHEQhNoo21egPBdh+qSTH5zVVjnC13yqrpo7ScyHkz2tPYe57B6pdfy9UiikXiwqDw57ybGkMFDEuVBQogzvQgGbDuioM8zIUB6WI0pjv+an8fOrIr+euKqKgkwvfCeLnlEHxxo5+A2IoCPsxPQlQuFscNOpVgzYqO1ZjoDRkdlMP6gLhaxwFBRCFuFB4HRj4JUMfhizumk4Qfs1RULgT4YiYDP3IUsgSDMSAEEN3KQqEhV8v1AWaXh6qxtgVHqEwHATlGNgZLGLg/XjCI2IFDESDOAZLEdj3x+MAgwcpR8Fjx6wnjrBuWeig41lAKMWYC2oUPqDt9cTRdwHFuED4l6P7Yua8ca8nDG4/1AWK85PjWtT6H2ODAAPnygpzsWo0CjEbAIKY/0Lw5M0ZBAk/HDOYj+Shg5o7Zl35BWVVQrPCeO5iAAAAAElFTkSuQmCC"
+    },
+    "relationships": {
+      "equip": {
+        "data": {
+          "id": "87ea16c5-2a70-4ad5-b38c-2420afc84916",
+          "type": "equip"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Splitbark_body"
+    },
+    "meta": {
+      "incomplete": false
+    }
+  },
+  "included": [
+    {
+      "id": "87ea16c5-2a70-4ad5-b38c-2420afc84916",
+      "type": "equip",
+      "attributes": {
+        "slot": "body",
+        "passive_effect": null,
+        "requirements": {
+          "magic_level": 40,
+          "defense_level": 40
+        }
+      },
+      "relationships": {
+        "equip_stat": {
+          "data": {
+            "id": "b7b99c0e-e05e-41c1-a501-b8b20a2e43fd",
+            "type": "equip_stat"
+          }
+        }
+      }
+    },
+    {
+      "id": "b7b99c0e-e05e-41c1-a501-b8b20a2e43fd",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 0,
+        "slash_attack": 0,
+        "crush_attack": 0,
+        "ranged_attack": -10,
+        "magic_attack": 10,
+        "stab_defense": 36,
+        "slash_defense": 26,
+        "crush_defense": 42,
+        "ranged_defense": 0,
+        "magic_defense": 15,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

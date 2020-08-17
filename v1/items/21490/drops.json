@@ -1,0 +1,100 @@
+{
+  "data": [
+    {
+      "id": "21490-7795",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 16,
+        "quantity_max": 24,
+        "rarity": "0.0149253731343284"
+      },
+      "meta": {
+        "item_name": "Seaweed spore",
+        "monster_name": "Ancient Wyvern"
+      }
+    },
+    {
+      "id": "21490-7796",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.0508474576271186"
+      },
+      "meta": {
+        "item_name": "Seaweed spore",
+        "monster_name": "Lobstrosity"
+      }
+    },
+    {
+      "id": "21490-7799",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Seaweed spore",
+        "monster_name": "Ammonite Crab"
+      }
+    },
+    {
+      "id": "21490-7794",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 12,
+        "quantity_max": null,
+        "rarity": "0.016260162601626"
+      },
+      "meta": {
+        "item_name": "Seaweed spore",
+        "monster_name": "Spitting Wyvern"
+      }
+    },
+    {
+      "id": "21490-7793",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 12,
+        "quantity_max": null,
+        "rarity": "0.016260162601626"
+      },
+      "meta": {
+        "item_name": "Seaweed spore",
+        "monster_name": "Taloned Wyvern"
+      }
+    },
+    {
+      "id": "21490-7792",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 12,
+        "quantity_max": null,
+        "rarity": "0.016260162601626"
+      },
+      "meta": {
+        "item_name": "Seaweed spore",
+        "monster_name": "Long-tailed Wyvern"
+      }
+    }
+  ]
+}

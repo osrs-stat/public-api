@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "id": "5625-1834",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 4,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Mithril arrow (Poison++)",
+        "monster_name": "Gorak (Level 145)"
+      }
+    },
+    {
+      "id": "5625-3141",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 4,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Mithril arrow (Poison++)",
+        "monster_name": "Gorak (Level 149)"
+      }
+    }
+  ]
+}

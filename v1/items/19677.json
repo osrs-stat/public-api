@@ -1,0 +1,31 @@
+{
+  "data": {
+    "id": "19677",
+    "type": "item",
+    "attributes": {
+      "uuid": "d76089c3-dfb9-441d-9929-e0240552a25a",
+      "name": "Ancient shard",
+      "members": true,
+      "release_date": "2016-06-09",
+      "examine": "You're not sure what this is, but it feels powerful.",
+      "tradeable": false,
+      "ge_tradeable": false,
+      "lowalch": 81,
+      "highalch": 122,
+      "is_equip": false,
+      "is_weapon": false,
+      "icon_base64": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABQElEQVR4Xt3UMQrCQBAFULfODQTBI3gARUEUPYEiFmLhCUQFD2BhKwF7wd5CEAsRz2BjZaPXWJldJtlM1DRmJvhhmmQTHn+zyeX+M0rTK4JRuuwNdIZQSp8PDwMqFYvSKNsOgKreMAst2XZckHBLSp/2DzO9wlz6W1IGgZhZcx2ABFpSZosoyEXRJ1JOMoixpRCDIMRQFH0ypSSD4D7Tb8BiXNDl+IyBEMWwddF2xvVVDNKu9M2wgwBDQYhhBwFk49/MUAg7qOaN9KThB9Mqdz8OrE35w46CKABnmb8FGGgoxZaSQYChIPqWHyYEfYKIgGAQstve9SJ/jQ0TCGJP2jeQ+6cWB1EMAwgSolxQpzCVwEDiIMQwbhWNRSFGsB03KgDh6RNqB2NbQpBwO5D3ILqKORaVgXYwURC9K5TftfMCJZQNvq5R9AcAAAAASUVORK5CYII="
+    },
+    "relationships": {
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Ancient_shard"
+    },
+    "meta": {
+      "incomplete": false
+    }
+  },
+  "included": [
+
+  ]
+}

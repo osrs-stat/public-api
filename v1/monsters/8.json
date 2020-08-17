@@ -1,0 +1,121 @@
+{
+  "data": {
+    "id": "8",
+    "type": "monster",
+    "attributes": {
+      "uuid": "70f31065-dc2a-4e9f-beb2-b850f910a17e",
+      "name": "Nechryael",
+      "members": true,
+      "release_date": "2005-01-26",
+      "examine": "An evil death demon.",
+      "combat_level_override": null,
+      "max_hit_override": null,
+      "target_types": [
+        "demon"
+      ],
+      "classification_types": [
+        "nechryael"
+      ],
+      "poison": false,
+      "immune_poison": false,
+      "immune_venom": false,
+      "slayer_xp": 105.0,
+      "slayer_level": 80,
+      "slayer_masters": [
+        "vannaka",
+        "chaeldar",
+        "konar",
+        "nieve",
+        "duradel"
+      ],
+      "icon_base64": null
+    },
+    "relationships": {
+      "combat_stat": {
+        "data": {
+          "id": "4540402f-ca9c-4f81-9bfc-e44f0af1b7af",
+          "type": "combat_stat"
+        }
+      },
+      "equip_stat": {
+        "data": {
+          "id": "55445f5f-201c-4db2-9aaf-028bcc87aa7f",
+          "type": "equip_stat"
+        }
+      },
+      "attack_stat": {
+        "data": {
+          "id": "b795cce3-afff-460d-aeac-c6056ed45618",
+          "type": "attack_stat"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Nechryael"
+    },
+    "meta": {
+      "incomplete": true
+    }
+  },
+  "included": [
+    {
+      "id": "b795cce3-afff-460d-aeac-c6056ed45618",
+      "type": "attack_stat",
+      "attributes": {
+        "attack_speed": 4,
+        "attack_type": "monster",
+        "special": null,
+        "stances": [
+          {
+            "name": "Monster crush",
+            "style": null,
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": null,
+            "combat_accuracy_stat": "attack_level",
+            "combat_damage_stat": "strength_level",
+            "equip_accuracy_stat": "crush_attack",
+            "equip_damage_stat": "crush_attack",
+            "target_equip_defense_stat": "crush_defense"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4540402f-ca9c-4f81-9bfc-e44f0af1b7af",
+      "type": "monster_combat_stat",
+      "attributes": {
+        "hitpoints_level": 105,
+        "attack_level": 97,
+        "strength_level": 97,
+        "defense_level": 105,
+        "magic_level": 1,
+        "ranged_level": 1,
+        "prayer_level": 0
+      }
+    },
+    {
+      "id": "55445f5f-201c-4db2-9aaf-028bcc87aa7f",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 0,
+        "slash_attack": 0,
+        "crush_attack": 0,
+        "ranged_attack": 0,
+        "magic_attack": 0,
+        "stab_defense": 20,
+        "slash_defense": 20,
+        "crush_defense": 20,
+        "ranged_defense": 20,
+        "magic_defense": 0,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

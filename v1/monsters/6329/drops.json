@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "id": "526-6329",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Bones",
+        "monster_name": "Khazard warlord (Hard)"
+      }
+    },
+    {
+      "id": "588-6329",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Orbs of protection",
+        "monster_name": "Khazard warlord (Hard)"
+      }
+    }
+  ]
+}

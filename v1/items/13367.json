@@ -1,0 +1,75 @@
+{
+  "data": {
+    "id": "13367",
+    "type": "item",
+    "attributes": {
+      "uuid": "ced6d0f0-bc98-498c-84d6-be0fcce8d458",
+      "name": "Shayzien gloves (3)",
+      "members": true,
+      "release_date": "2016-01-07",
+      "examine": "Dress like a tier 3 Shayzien soldier.",
+      "tradeable": false,
+      "ge_tradeable": false,
+      "lowalch": 16,
+      "highalch": 24,
+      "is_equip": true,
+      "is_weapon": false,
+      "icon_base64": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACxklEQVR4Xu2W7UtTYRjGPX+CH/rSpzFixJAY4ZANR8PhUHEyZU2QFbLMMMUyQ4xhZjZKSTTEYRk20kzEEh1GNpSsNHon8Et/zRXXM57teDZW053jF2+4YNs5PPfv3C/XTknJcRyH7qFA+0smeE0t3UPBUmJckzSjje24uD4dv4P74z1GQClY35rBy5WH+PD1lfj84vUoJmci+2D4fTzWj5GJXj2rpeD95yUBsbg2huTH51hen8CTuSFRDcIQLr4YxdP5YcSe3RZgY1N9eoEp2NxZwFoyJiqU2JzG3PIIHj2+haEHXQI2+Wkeb7dnxbWVjUkBzntmF6LpyhUJKvV0rMpqckokkdXh0/cPXkZ7VxANgaqsudLKZjIJaTMUEAp+7m1h78+umJMTpaVChOITD49243rfBYTCPnjrnLCWmfclziVthgJDwbff7wSEGoht4HwM3OtAZ08Lzrd4Uek+izM2SxpIe1KRQsGXX2+ygDgTbFffwCW0XQ2Idrk9dtgdZfoD7f5IZAHJdt3obxXtIhBbxirpDrTzfTUNxE3jZ/qMbBeB2LL6Rjc8Xof+QLIqaiC5XR3XmhG+0oSWi/VoClaj1uc6GiC262YkjO7ekFj51jY/mkO16dU3BCifeJ9UkdY7XyjptqgTH14HjhQQW8I5kQcG/X4EfD401tUJVblcsNtsOGU2Z1Uwlw4BlQHijHBwuU2EaaitQb3XixqPB5UVFSizWgsCOmBrM0A0QQ4yDVF9eLXbDUd5ubFAnCEC8b+LhkioyN12cbhs12mLxVggrjiBWCU11GC003ggOjKBpPfQpQlHP6JJ0rn5bmQYEM2PzizdWQ0lB9rQCkkgWS314XKgDQWS4rZx7Xkot+uc0ynmRw2U8pj8OoSjZ4BojHzFMJlPZiXIlexf0mb6z0gBad+ZtYdrpT2lyJEbQnuXoXEUEH8BYhxHU4rybQEAAAAASUVORK5CYII="
+    },
+    "relationships": {
+      "equip": {
+        "data": {
+          "id": "533147c9-2792-46f0-befa-31e3ef4f930a",
+          "type": "equip"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Shayzien_gloves_(3)"
+    },
+    "meta": {
+      "incomplete": false
+    }
+  },
+  "included": [
+    {
+      "id": "533147c9-2792-46f0-befa-31e3ef4f930a",
+      "type": "equip",
+      "attributes": {
+        "slot": "gloves",
+        "passive_effect": null,
+        "requirements": {
+          "defense_level": 20
+        }
+      },
+      "relationships": {
+        "equip_stat": {
+          "data": {
+            "id": "9171f99e-9432-4a14-b0ae-43202bc920c8",
+            "type": "equip_stat"
+          }
+        }
+      }
+    },
+    {
+      "id": "9171f99e-9432-4a14-b0ae-43202bc920c8",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 0,
+        "slash_attack": 0,
+        "crush_attack": 2,
+        "ranged_attack": 0,
+        "magic_attack": -1,
+        "stab_defense": 0,
+        "slash_defense": 0,
+        "crush_defense": 1,
+        "ranged_defense": 0,
+        "magic_defense": -1,
+        "melee_strength": 2,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

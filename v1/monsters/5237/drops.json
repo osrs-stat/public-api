@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "id": "3187-5237",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Bones (Ape Atoll)",
+        "monster_name": "Skeleton (Ape Atoll)"
+      }
+    },
+    {
+      "id": "6806-5237",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0002"
+      },
+      "meta": {
+        "item_name": "Skeleton champion scroll",
+        "monster_name": "Skeleton (Ape Atoll)"
+      }
+    }
+  ]
+}

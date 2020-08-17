@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "3367-2647",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Fat snail",
+        "monster_name": "Bruise Blamish Snail (Round)"
+      }
+    },
+    {
+      "id": "3351-2647",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Blamish blue shell (round)",
+        "monster_name": "Bruise Blamish Snail (Round)"
+      }
+    },
+    {
+      "id": "3367-2647",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Fat snail",
+        "monster_name": "Bruise Blamish Snail (Round)"
+      }
+    },
+    {
+      "id": "3361-2647",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Blamish blue shell (pointed)",
+        "monster_name": "Bruise Blamish Snail (Round)"
+      }
+    }
+  ]
+}

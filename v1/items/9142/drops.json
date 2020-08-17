@@ -1,0 +1,84 @@
+{
+  "data": [
+    {
+      "id": "9142-520",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": 12,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Mithril bolts (Unpoisoned)",
+        "monster_name": "Chaos druid"
+      }
+    },
+    {
+      "id": "9142-8713",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 175,
+        "quantity_max": 225,
+        "rarity": "0.02"
+      },
+      "meta": {
+        "item_name": "Mithril bolts (Unpoisoned)",
+        "monster_name": "Sarachnis"
+      }
+    },
+    {
+      "id": "9142-7253",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": 12,
+        "rarity": "0.046875"
+      },
+      "meta": {
+        "item_name": "Mithril bolts (Unpoisoned)",
+        "monster_name": "Bronze dragon (Catacombs of Kourend)"
+      }
+    },
+    {
+      "id": "9142-6607",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 8,
+        "quantity_max": 28,
+        "rarity": "0.0465116279069767"
+      },
+      "meta": {
+        "item_name": "Mithril bolts (Unpoisoned)",
+        "monster_name": "Elder Chaos druid"
+      }
+    },
+    {
+      "id": "9142-270",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": 12,
+        "rarity": "0.046875"
+      },
+      "meta": {
+        "item_name": "Mithril bolts (Unpoisoned)",
+        "monster_name": "Bronze dragon (Standard)"
+      }
+    }
+  ]
+}

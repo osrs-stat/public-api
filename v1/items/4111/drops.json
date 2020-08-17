@@ -1,0 +1,100 @@
+{
+  "data": [
+    {
+      "id": "4111-7405",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.001953125"
+      },
+      "meta": {
+        "item_name": "Mystic robe top (light)",
+        "monster_name": "King kurask"
+      }
+    },
+    {
+      "id": "4111-8618",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0099009900990099"
+      },
+      "meta": {
+        "item_name": "Mystic robe top (light)",
+        "monster_name": "Alchemical Hydra (Three heads)"
+      }
+    },
+    {
+      "id": "4111-8615",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0099009900990099"
+      },
+      "meta": {
+        "item_name": "Mystic robe top (light)",
+        "monster_name": "Alchemical Hydra (Five heads)"
+      }
+    },
+    {
+      "id": "4111-410",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.001953125"
+      },
+      "meta": {
+        "item_name": "Mystic robe top (light)",
+        "monster_name": "Kurask"
+      }
+    },
+    {
+      "id": "4111-8617",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0099009900990099"
+      },
+      "meta": {
+        "item_name": "Mystic robe top (light)",
+        "monster_name": "Alchemical Hydra (Four heads)"
+      }
+    },
+    {
+      "id": "4111-8621",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0099009900990099"
+      },
+      "meta": {
+        "item_name": "Mystic robe top (light)",
+        "monster_name": "Alchemical Hydra (Two heads)"
+      }
+    }
+  ]
+}

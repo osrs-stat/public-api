@@ -1,0 +1,134 @@
+{
+  "data": {
+    "id": "7996",
+    "type": "monster",
+    "attributes": {
+      "uuid": "0c79c774-baa8-4d18-abc0-0f009e3612f9",
+      "name": "Corrupt Lizardman (Hard)",
+      "members": true,
+      "release_date": "2018-04-19",
+      "examine": "Looks like there's something wrong with it.",
+      "combat_level_override": null,
+      "max_hit_override": 22,
+      "target_types": [
+
+      ],
+      "classification_types": [
+        "lizardmen"
+      ],
+      "poison": true,
+      "immune_poison": false,
+      "immune_venom": false,
+      "slayer_xp": 150.0,
+      "slayer_level": 1,
+      "slayer_masters": [
+        "chaeldar",
+        "nieve",
+        "duradel"
+      ],
+      "icon_base64": null
+    },
+    "relationships": {
+      "combat_stat": {
+        "data": {
+          "id": "243acb69-cae6-4f52-b92b-cd7d609ce7f3",
+          "type": "combat_stat"
+        }
+      },
+      "equip_stat": {
+        "data": {
+          "id": "838c1880-46fe-4c28-a423-9ddf28d52084",
+          "type": "equip_stat"
+        }
+      },
+      "attack_stat": {
+        "data": {
+          "id": "d176c9e4-f921-4423-9f13-8749a02bac92",
+          "type": "attack_stat"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Corrupt_Lizardman#Hard"
+    },
+    "meta": {
+      "incomplete": true
+    }
+  },
+  "included": [
+    {
+      "id": "d176c9e4-f921-4423-9f13-8749a02bac92",
+      "type": "attack_stat",
+      "attributes": {
+        "attack_speed": 4,
+        "attack_type": "monster",
+        "special": null,
+        "stances": [
+          {
+            "name": "Monster crush",
+            "style": null,
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": null,
+            "combat_accuracy_stat": "attack_level",
+            "combat_damage_stat": "strength_level",
+            "equip_accuracy_stat": "crush_attack",
+            "equip_damage_stat": "crush_attack",
+            "target_equip_defense_stat": "crush_defense"
+          },
+          {
+            "name": "Monster ranged",
+            "style": null,
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": null,
+            "combat_accuracy_stat": "ranged_level",
+            "combat_damage_stat": "ranged_level",
+            "equip_accuracy_stat": "ranged_attack",
+            "equip_damage_stat": "ranged_attack",
+            "target_equip_defense_stat": "ranged_defense"
+          }
+        ]
+      }
+    },
+    {
+      "id": "243acb69-cae6-4f52-b92b-cd7d609ce7f3",
+      "type": "monster_combat_stat",
+      "attributes": {
+        "hitpoints_level": 150,
+        "attack_level": 162,
+        "strength_level": 162,
+        "defense_level": 38,
+        "magic_level": 1,
+        "ranged_level": 162,
+        "prayer_level": 0
+      }
+    },
+    {
+      "id": "838c1880-46fe-4c28-a423-9ddf28d52084",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 22,
+        "slash_attack": 22,
+        "crush_attack": 22,
+        "ranged_attack": 22,
+        "magic_attack": 0,
+        "stab_defense": -10,
+        "slash_defense": 25,
+        "crush_defense": 0,
+        "ranged_defense": 0,
+        "magic_defense": 0,
+        "melee_strength": 20,
+        "ranged_strength": 20,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

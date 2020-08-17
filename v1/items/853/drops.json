@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "id": "853-7119",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.05"
+      },
+      "meta": {
+        "item_name": "Maple shortbow",
+        "monster_name": "Maniacal Monkey Archer"
+      }
+    },
+    {
+      "id": "853-7118",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.05"
+      },
+      "meta": {
+        "item_name": "Maple shortbow",
+        "monster_name": "Maniacal monkey"
+      }
+    }
+  ]
+}

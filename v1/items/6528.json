@@ -1,0 +1,140 @@
+{
+  "data": {
+    "id": "6528",
+    "type": "item",
+    "attributes": {
+      "uuid": "2e54612c-f12c-4810-85a6-71d8f2e08192",
+      "name": "Tzhaar-ket-om",
+      "members": true,
+      "release_date": "2005-09-19",
+      "examine": "A maul of obsidian.",
+      "tradeable": false,
+      "ge_tradeable": false,
+      "lowalch": 20000,
+      "highalch": 30000,
+      "is_equip": true,
+      "is_weapon": true,
+      "icon_base64": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABdUlEQVR4Xu2WbUsCURCFnX8hgbBISEjIEoYkSZIkJhommaEZZmYQ0f//NnFmmb1306/eWcQDB1/BhzPnzrVQOOpwRJy1qYg/Xuep32czSygSAHgxnYpPy2UBiqMoNBTxfDLJGDBGQMTPoxG/jMepo1JJbNAl4of7Hj8NhwKFR4VRIIzurFIJBUU86Hb5sd8X+zAYl45OgQKMjvi60ZCUfBgYo0NqeB4c6KbZ5JNiMTXe88cXFOiqXs/AKKS+BtBduy2JBegR8WUcpyBqHwifw0jsa7n0vrc3JT+AcSQjoS1A+KJWk65hg/+s1/uFcjAqB+iDnler3Ot0ZBUESstpd4ETqNtWSzqFtH43m3BQu0Vy6rRXuPu+V6uwaW0r2yss0M+3hW1a/3uFJZqbtHSEuH6QFrrlSm+iJBFA4W5Et3ASMUYzKB0heoXN7qdlPkIfCusB3TJNS6EwQpxCFN7o36cv1yvcjQpjCOR6lQsYX7mCOepg9Qc/3FhKYcxyEQAAAABJRU5ErkJggg=="
+    },
+    "relationships": {
+      "equip": {
+        "data": {
+          "id": "23986e2c-38b0-4ee8-9093-baf6ba477cbb",
+          "type": "equip"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Tzhaar-ket-om"
+    },
+    "meta": {
+      "incomplete": false
+    }
+  },
+  "included": [
+    {
+      "id": "23986e2c-38b0-4ee8-9093-baf6ba477cbb",
+      "type": "equip",
+      "attributes": {
+        "slot": "weapon_2h",
+        "passive_effect": null,
+        "requirements": {
+          "strength_level": 60
+        }
+      },
+      "relationships": {
+        "equip_stat": {
+          "data": {
+            "id": "3d20c20f-aec4-49d5-8d4b-ad486bba19b4",
+            "type": "equip_stat"
+          }
+        },
+        "attack_stat": {
+          "data": {
+            "id": "dd5a97a3-27b6-489e-bd32-ef91cc7ca978",
+            "type": "attack_stat"
+          }
+        }
+      }
+    },
+    {
+      "id": "dd5a97a3-27b6-489e-bd32-ef91cc7ca978",
+      "type": "attack_stat",
+      "attributes": {
+        "attack_speed": 7,
+        "attack_type": "blunt_weapon",
+        "special": null,
+        "stances": [
+          {
+            "name": "pound",
+            "style": "accurate",
+            "boosts": {
+              "accuracy": 3
+            },
+            "experience": {
+              "hitpoints": 1.3333,
+              "attack": 4
+            },
+            "combat_accuracy_stat": "attack_level",
+            "combat_damage_stat": "strength_level",
+            "equip_accuracy_stat": "crush_attack",
+            "equip_damage_stat": "crush_attack",
+            "target_equip_defense_stat": "crush_defense"
+          },
+          {
+            "name": "pummel",
+            "style": "aggressive",
+            "boosts": {
+              "damage": 3
+            },
+            "experience": {
+              "hitpoints": 1.3333,
+              "strength": 4
+            },
+            "combat_accuracy_stat": "attack_level",
+            "combat_damage_stat": "strength_level",
+            "equip_accuracy_stat": "crush_attack",
+            "equip_damage_stat": "crush_attack",
+            "target_equip_defense_stat": "crush_defense"
+          },
+          {
+            "name": "block",
+            "style": "defensive",
+            "boosts": {
+              "defense": 3
+            },
+            "experience": {
+              "hitpoints": 1.3333,
+              "defense": 4
+            },
+            "combat_accuracy_stat": "attack_level",
+            "combat_damage_stat": "strength_level",
+            "equip_accuracy_stat": "crush_attack",
+            "equip_damage_stat": "crush_attack",
+            "target_equip_defense_stat": "crush_defense"
+          }
+        ]
+      }
+    },
+    {
+      "id": "3d20c20f-aec4-49d5-8d4b-ad486bba19b4",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 0,
+        "slash_attack": 0,
+        "crush_attack": 80,
+        "ranged_attack": 0,
+        "magic_attack": -4,
+        "stab_defense": 0,
+        "slash_defense": 0,
+        "crush_defense": 0,
+        "ranged_defense": 0,
+        "magic_defense": 0,
+        "melee_strength": 85,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "data": {
+    "id": "9258",
+    "type": "monster",
+    "attributes": {
+      "uuid": "3e58a98b-94be-41fb-81ba-7245520a6fd1",
+      "name": "Basilisk Sentinel",
+      "members": true,
+      "release_date": "2019-09-26",
+      "examine": "Even phoenix tears won't help here.",
+      "combat_level_override": 358,
+      "max_hit_override": 28,
+      "target_types": [
+
+      ],
+      "classification_types": [
+        "basilisk"
+      ],
+      "poison": false,
+      "immune_poison": true,
+      "immune_venom": true,
+      "slayer_xp": 5590.0,
+      "slayer_level": 60,
+      "slayer_masters": [
+        "vannaka",
+        "chaeldar",
+        "konar",
+        "nieve",
+        "duradel"
+      ],
+      "icon_base64": null
+    },
+    "relationships": {
+      "combat_stat": {
+        "data": {
+          "id": "549e2f84-7eb6-4434-a576-e446a2308cf2",
+          "type": "combat_stat"
+        }
+      },
+      "equip_stat": {
+        "data": {
+          "id": "a84ae0f1-11b2-44c4-9b3e-22cb7b717b13",
+          "type": "equip_stat"
+        }
+      },
+      "attack_stat": {
+        "data": {
+          "id": "1963824d-da06-4893-b27c-5b80a82f253b",
+          "type": "attack_stat"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Basilisk_Sentinel"
+    },
+    "meta": {
+      "incomplete": true
+    }
+  },
+  "included": [
+    {
+      "id": "1963824d-da06-4893-b27c-5b80a82f253b",
+      "type": "attack_stat",
+      "attributes": {
+        "attack_speed": 4,
+        "attack_type": "monster",
+        "special": null,
+        "stances": [
+          {
+            "name": "Monster melee",
+            "style": null,
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": null,
+            "combat_accuracy_stat": "attack_level",
+            "combat_damage_stat": "strength_level",
+            "equip_accuracy_stat": "crush_attack",
+            "equip_damage_stat": "crush_attack",
+            "target_equip_defense_stat": "crush_defense"
+          },
+          {
+            "name": "Monster magic",
+            "style": null,
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": null,
+            "combat_accuracy_stat": "magic_level",
+            "combat_damage_stat": "magic_level",
+            "equip_accuracy_stat": "magic_attack",
+            "equip_damage_stat": "magic_attack",
+            "target_equip_defense_stat": "magic_defense"
+          }
+        ]
+      }
+    },
+    {
+      "id": "549e2f84-7eb6-4434-a576-e446a2308cf2",
+      "type": "monster_combat_stat",
+      "attributes": {
+        "hitpoints_level": 520,
+        "attack_level": 274,
+        "strength_level": 274,
+        "defense_level": 274,
+        "magic_level": 274,
+        "ranged_level": 1,
+        "prayer_level": 0
+      }
+    },
+    {
+      "id": "a84ae0f1-11b2-44c4-9b3e-22cb7b717b13",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 12,
+        "slash_attack": 12,
+        "crush_attack": 12,
+        "ranged_attack": 0,
+        "magic_attack": 0,
+        "stab_defense": 50,
+        "slash_defense": 50,
+        "crush_defense": 10,
+        "ranged_defense": 10,
+        "magic_defense": 50,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_bonus": 12,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

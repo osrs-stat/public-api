@@ -1,0 +1,420 @@
+{
+  "data": [
+    {
+      "id": "995-4167",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 25,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Outlaw"
+      }
+    },
+    {
+      "id": "995-4167",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 15,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Outlaw"
+      }
+    },
+    {
+      "id": "995-4167",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.09375"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Outlaw"
+      }
+    },
+    {
+      "id": "995-4167",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.25"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Outlaw"
+      }
+    },
+    {
+      "id": "217-4167",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00585891727208812"
+      },
+      "meta": {
+        "item_name": "Grimy dwarf weed",
+        "monster_name": "Outlaw"
+      }
+    },
+    {
+      "id": "946-4167",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Knife",
+        "monster_name": "Outlaw"
+      }
+    },
+    {
+      "id": "1965-4167",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.046875"
+      },
+      "meta": {
+        "item_name": "Cabbage",
+        "monster_name": "Outlaw"
+      }
+    },
+    {
+      "id": "436-4167",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Copper ore",
+        "monster_name": "Outlaw"
+      }
+    },
+    {
+      "id": "313-4167",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.1171875"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Outlaw"
+      }
+    },
+    {
+      "id": "954-4167",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.359375"
+      },
+      "meta": {
+        "item_name": "Rope",
+        "monster_name": "Outlaw"
+      }
+    },
+    {
+      "id": "557-4167",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Earth rune (Regular)",
+        "monster_name": "Outlaw"
+      }
+    },
+    {
+      "id": "555-4167",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 6,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Water rune (Regular)",
+        "monster_name": "Outlaw"
+      }
+    },
+    {
+      "id": "558-4167",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 9,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Mind rune",
+        "monster_name": "Outlaw"
+      }
+    },
+    {
+      "id": "1139-4167",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Bronze med helm",
+        "monster_name": "Outlaw"
+      }
+    },
+    {
+      "id": "11008-4167",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Rat's paper",
+        "monster_name": "Outlaw"
+      }
+    },
+    {
+      "id": "526-4167",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Bones",
+        "monster_name": "Outlaw"
+      }
+    },
+    {
+      "id": "201-4167",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0468779298706169"
+      },
+      "meta": {
+        "item_name": "Grimy marrentill",
+        "monster_name": "Outlaw"
+      }
+    },
+    {
+      "id": "203-4167",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0351567993249895"
+      },
+      "meta": {
+        "item_name": "Grimy tarromin",
+        "monster_name": "Outlaw"
+      }
+    },
+    {
+      "id": "205-4167",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0273433227605819"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Outlaw"
+      }
+    },
+    {
+      "id": "207-4167",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0214776632302405"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Outlaw"
+      }
+    },
+    {
+      "id": "209-4167",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Grimy irit leaf",
+        "monster_name": "Outlaw"
+      }
+    },
+    {
+      "id": "211-4167",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0117205813408345"
+      },
+      "meta": {
+        "item_name": "Grimy avantoe",
+        "monster_name": "Outlaw"
+      }
+    },
+    {
+      "id": "213-4167",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.009765625"
+      },
+      "meta": {
+        "item_name": "Grimy kwuarm",
+        "monster_name": "Outlaw"
+      }
+    },
+    {
+      "id": "215-4167",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Grimy cadantine",
+        "monster_name": "Outlaw"
+      }
+    },
+    {
+      "id": "2485-4167",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00585891727208812"
+      },
+      "meta": {
+        "item_name": "Grimy lantadyme",
+        "monster_name": "Outlaw"
+      }
+    },
+    {
+      "id": "199-4167",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0625"
+      },
+      "meta": {
+        "item_name": "Grimy guam leaf",
+        "monster_name": "Outlaw"
+      }
+    }
+  ]
+}

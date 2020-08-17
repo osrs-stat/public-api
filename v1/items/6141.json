@@ -1,0 +1,76 @@
+{
+  "data": {
+    "id": "6141",
+    "type": "item",
+    "attributes": {
+      "uuid": "0e679811-eda6-482b-b5ef-ee5bddc1eb55",
+      "name": "Skeletal bottoms",
+      "members": true,
+      "release_date": "2005-08-01",
+      "examine": "A superior set of strengthened slacks for any self respecting seer.",
+      "tradeable": false,
+      "ge_tradeable": false,
+      "lowalch": 16000,
+      "highalch": 24000,
+      "is_equip": true,
+      "is_weapon": false,
+      "icon_base64": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB8UlEQVR4Xt2WT0tCQRTFnY/QQghXEhISEhJJGIZhGCIlKmqCCC0qCCuKoIgWrgratWxR9M8KUxIllCyIPtmNMzLP50tr5R3owsDM8B7z49xz74zN9j9CUP+hJQSFw/MUDM6S3z9NU95JcrvHyeUa0wX1O5DX6eSEErQUXaRIZIFCoTkKBGbI5/OSxzMhgez2EU6VBH2+NSkWixhQmlUS9NFsUCIR7YGCSgoKSrECfbVb1G7UqFF56lEJUMWjA9rfLtD6ap4rbYIymfgPheAllTr4SfmIQaUOUCq1bAABBlCq6pA2BcMKBJVUugCGgbSxeyibTUqg5suzUfZQq3x7JVOGSmMFyudXpEowtfKNAoJ/HI5RPUD18oNUB55B+gCEuRYgpK32eGd0aKQQQJhrA6rcXxvdGYoBCHMtQLlcWgJsbazJqwKAWGeScX6g99e6NDQATorHlE0nqVWryvX52Skd7u3IPXxr/XtIIWRVoeThIaUajI099saIdFkPxx4g0QbYG6MCwlUBINxb2DN3asY3URcI14ZZIQVk7tQMKnUOR98pXV70AKENaLk6/gJifjEiRF+gaulGVp0WIHTmQUCM/lExGMjcg6x/DTH6A+Gy1QSEEBJot7ApATAAhAe+JiBEB6TrF+taQ1gPt67/TXwDXDIoAzLLp0gAAAAASUVORK5CYII="
+    },
+    "relationships": {
+      "equip": {
+        "data": {
+          "id": "727cdeef-d7e4-414c-acd3-0983ecacb036",
+          "type": "equip"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Skeletal_bottoms"
+    },
+    "meta": {
+      "incomplete": false
+    }
+  },
+  "included": [
+    {
+      "id": "727cdeef-d7e4-414c-acd3-0983ecacb036",
+      "type": "equip",
+      "attributes": {
+        "slot": "legs",
+        "passive_effect": null,
+        "requirements": {
+          "magic_level": 40,
+          "defense_level": 40
+        }
+      },
+      "relationships": {
+        "equip_stat": {
+          "data": {
+            "id": "ca8b7d64-8f0e-4e7b-a24b-debdc7f9374b",
+            "type": "equip_stat"
+          }
+        }
+      }
+    },
+    {
+      "id": "ca8b7d64-8f0e-4e7b-a24b-debdc7f9374b",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 0,
+        "slash_attack": 0,
+        "crush_attack": 0,
+        "ranged_attack": -7,
+        "magic_attack": 6,
+        "stab_defense": 22,
+        "slash_defense": 20,
+        "crush_defense": 24,
+        "ranged_defense": 0,
+        "magic_defense": 10,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

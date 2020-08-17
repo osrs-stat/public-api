@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "id": "23083-241",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0015605493133583"
+      },
+      "meta": {
+        "item_name": "Brimstone key",
+        "monster_name": "Baby blue dragon (1)"
+      }
+    },
+    {
+      "id": "534-241",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Babydragon bones",
+        "monster_name": "Baby blue dragon (1)"
+      }
+    },
+    {
+      "id": "7839-241",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.25"
+      },
+      "meta": {
+        "item_name": "Baby dragon bone (Unpolished)",
+        "monster_name": "Baby blue dragon (1)"
+      }
+    }
+  ]
+}

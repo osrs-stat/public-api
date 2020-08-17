@@ -1,0 +1,124 @@
+{
+  "data": {
+    "id": "6613",
+    "type": "monster",
+    "attributes": {
+      "uuid": "a5372b6f-9258-492d-86cc-aeb3436991c3",
+      "name": "Skeleton Hellhound (Vet'ion)",
+      "members": true,
+      "release_date": "2014-03-13",
+      "examine": "Can never possibly go hungry.",
+      "combat_level_override": null,
+      "max_hit_override": null,
+      "target_types": [
+        "undead"
+      ],
+      "classification_types": [
+        "hellhound",
+        "skeleton"
+      ],
+      "poison": false,
+      "immune_poison": false,
+      "immune_venom": false,
+      "slayer_xp": 114.5,
+      "slayer_level": 1,
+      "slayer_masters": [
+        "turael",
+        "krystilia",
+        "mazchna",
+        "vannaka",
+        "chaeldar",
+        "nieve",
+        "duradel"
+      ],
+      "icon_base64": null
+    },
+    "relationships": {
+      "combat_stat": {
+        "data": {
+          "id": "673f1284-e7fa-439f-a479-50e157d7f411",
+          "type": "combat_stat"
+        }
+      },
+      "equip_stat": {
+        "data": {
+          "id": "4c0a0ed6-c2c6-497f-8b6d-22e8aceb261e",
+          "type": "equip_stat"
+        }
+      },
+      "attack_stat": {
+        "data": {
+          "id": "6d8bc965-fa28-4c5f-9c7f-92661e15d243",
+          "type": "attack_stat"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Skeleton_Hellhound_(Vet'ion)"
+    },
+    "meta": {
+      "incomplete": true
+    }
+  },
+  "included": [
+    {
+      "id": "6d8bc965-fa28-4c5f-9c7f-92661e15d243",
+      "type": "attack_stat",
+      "attributes": {
+        "attack_speed": 4,
+        "attack_type": "monster",
+        "special": null,
+        "stances": [
+          {
+            "name": "Monster crush",
+            "style": null,
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": null,
+            "combat_accuracy_stat": "attack_level",
+            "combat_damage_stat": "strength_level",
+            "equip_accuracy_stat": "crush_attack",
+            "equip_damage_stat": "crush_attack",
+            "target_equip_defense_stat": "crush_defense"
+          }
+        ]
+      }
+    },
+    {
+      "id": "673f1284-e7fa-439f-a479-50e157d7f411",
+      "type": "monster_combat_stat",
+      "attributes": {
+        "hitpoints_level": 110,
+        "attack_level": 210,
+        "strength_level": 250,
+        "defense_level": 150,
+        "magic_level": 1,
+        "ranged_level": 1,
+        "prayer_level": 0
+      }
+    },
+    {
+      "id": "4c0a0ed6-c2c6-497f-8b6d-22e8aceb261e",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 0,
+        "slash_attack": 0,
+        "crush_attack": 0,
+        "ranged_attack": 0,
+        "magic_attack": 0,
+        "stab_defense": 101,
+        "slash_defense": 103,
+        "crush_defense": 10,
+        "ranged_defense": 266,
+        "magic_defense": 180,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

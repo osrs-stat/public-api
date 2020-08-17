@@ -1,0 +1,116 @@
+{
+  "data": [
+    {
+      "id": "7815-3908",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Bear ribs (Unpolished)",
+        "monster_name": "Bear Cub (1)"
+      }
+    },
+    {
+      "id": "7815-3425",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Bear ribs (Unpolished)",
+        "monster_name": "Grizzly bear cub (Level 36)"
+      }
+    },
+    {
+      "id": "7815-3424",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Bear ribs (Unpolished)",
+        "monster_name": "Grizzly bear cub (Level 33)"
+      }
+    },
+    {
+      "id": "7815-3423",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Bear ribs (Unpolished)",
+        "monster_name": "Grizzly bear (Level 42)"
+      }
+    },
+    {
+      "id": "7815-2839",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Bear ribs (Unpolished)",
+        "monster_name": "Black bear"
+      }
+    },
+    {
+      "id": "7815-3909",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Bear ribs (Unpolished)",
+        "monster_name": "Bear Cub (2)"
+      }
+    },
+    {
+      "id": "7815-2838",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Bear ribs (Unpolished)",
+        "monster_name": "Grizzly bear (Level 21)"
+      }
+    }
+  ]
+}

@@ -1,0 +1,436 @@
+{
+  "data": [
+    {
+      "id": "1619-6324",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Uncut ruby",
+        "monster_name": "Slagilith (Hard)"
+      }
+    },
+    {
+      "id": "1619-465",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Uncut ruby",
+        "monster_name": "Skeletal Wyvern (2)"
+      }
+    },
+    {
+      "id": "1619-466",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Uncut ruby",
+        "monster_name": "Skeletal Wyvern (3)"
+      }
+    },
+    {
+      "id": "1619-467",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Uncut ruby",
+        "monster_name": "Skeletal Wyvern (4)"
+      }
+    },
+    {
+      "id": "1619-468",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Uncut ruby",
+        "monster_name": "Skeletal Wyvern (1)"
+      }
+    },
+    {
+      "id": "1619-963",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 25,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Uncut ruby",
+        "monster_name": "Kalphite Queen (Crawling)"
+      }
+    },
+    {
+      "id": "1619-965",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 25,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Uncut ruby",
+        "monster_name": "Kalphite Queen (Airborne)"
+      }
+    },
+    {
+      "id": "1619-1362",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Uncut ruby",
+        "monster_name": "Slagilith (Normal)"
+      }
+    },
+    {
+      "id": "1619-2161",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Uncut ruby",
+        "monster_name": "TzHaar-Hur"
+      }
+    },
+    {
+      "id": "1619-2161",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0153846153846154"
+      },
+      "meta": {
+        "item_name": "Uncut ruby",
+        "monster_name": "TzHaar-Hur"
+      }
+    },
+    {
+      "id": "1619-2167",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Uncut ruby",
+        "monster_name": "TzHaar-Xil"
+      }
+    },
+    {
+      "id": "1619-2173",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Uncut ruby",
+        "monster_name": "TzHaar-Ket (Level 149)"
+      }
+    },
+    {
+      "id": "1619-2916",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Uncut ruby",
+        "monster_name": "Waterfiend"
+      }
+    },
+    {
+      "id": "1619-5054",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Uncut ruby",
+        "monster_name": "Skeleton Hellhound (Normal)"
+      }
+    },
+    {
+      "id": "1619-5129",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Uncut ruby",
+        "monster_name": "Glod (Normal)"
+      }
+    },
+    {
+      "id": "1619-6297",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Uncut ruby",
+        "monster_name": "Glod (Hard)"
+      }
+    },
+    {
+      "id": "1619-6326",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Uncut ruby",
+        "monster_name": "Skeleton Hellhound (Hard)"
+      }
+    },
+    {
+      "id": "1619-6503",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 20,
+        "quantity_max": null,
+        "rarity": "0.0546875"
+      },
+      "meta": {
+        "item_name": "Uncut ruby",
+        "monster_name": "Callisto"
+      }
+    },
+    {
+      "id": "1619-6504",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 20,
+        "quantity_max": null,
+        "rarity": "0.0546875"
+      },
+      "meta": {
+        "item_name": "Uncut ruby",
+        "monster_name": "Venenatis"
+      }
+    },
+    {
+      "id": "1619-6611",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 20,
+        "quantity_max": null,
+        "rarity": "0.0546875"
+      },
+      "meta": {
+        "item_name": "Uncut ruby",
+        "monster_name": "Vet'ion (Normal)"
+      }
+    },
+    {
+      "id": "1619-6612",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 20,
+        "quantity_max": null,
+        "rarity": "0.0546875"
+      },
+      "meta": {
+        "item_name": "Uncut ruby",
+        "monster_name": "Vet'ion (Reborn)"
+      }
+    },
+    {
+      "id": "1619-7416",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.0423728813559322"
+      },
+      "meta": {
+        "item_name": "Uncut ruby",
+        "monster_name": "Obor"
+      }
+    },
+    {
+      "id": "1619-7679",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Uncut ruby",
+        "monster_name": "TzHaar-Ket (Level 221)"
+      }
+    },
+    {
+      "id": "1619-7989",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0344827586206897"
+      },
+      "meta": {
+        "item_name": "Uncut ruby",
+        "monster_name": "Ogress Warrior"
+      }
+    },
+    {
+      "id": "1619-7991",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0344827586206897"
+      },
+      "meta": {
+        "item_name": "Uncut ruby",
+        "monster_name": "Ogress Shaman"
+      }
+    },
+    {
+      "id": "1619-8195",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.0338983050847458"
+      },
+      "meta": {
+        "item_name": "Uncut ruby",
+        "monster_name": "Bryophyta"
+      }
+    },
+    {
+      "id": "1619-8713",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 20,
+        "quantity_max": 30,
+        "rarity": "0.02"
+      },
+      "meta": {
+        "item_name": "Uncut ruby",
+        "monster_name": "Sarachnis"
+      }
+    }
+  ]
+}

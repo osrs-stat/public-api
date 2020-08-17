@@ -1,0 +1,820 @@
+{
+  "data": [
+    {
+      "id": "221-7272",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Eye of newt",
+        "monster_name": "Twisted Banshee"
+      }
+    },
+    {
+      "id": "554-7272",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 35,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Fire rune (Regular)",
+        "monster_name": "Twisted Banshee"
+      }
+    },
+    {
+      "id": "5304-7272",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000853466386554622"
+      },
+      "meta": {
+        "item_name": "Torstol seed",
+        "monster_name": "Twisted Banshee"
+      }
+    },
+    {
+      "id": "5303-7272",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00128025337199042"
+      },
+      "meta": {
+        "item_name": "Dwarf weed seed",
+        "monster_name": "Twisted Banshee"
+      }
+    },
+    {
+      "id": "22879-7272",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.00170693277310924"
+      },
+      "meta": {
+        "item_name": "Snape grass seed",
+        "monster_name": "Twisted Banshee"
+      }
+    },
+    {
+      "id": "5302-7272",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00213366596638655"
+      },
+      "meta": {
+        "item_name": "Lantadyme seed",
+        "monster_name": "Twisted Banshee"
+      }
+    },
+    {
+      "id": "5301-7272",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00298713235294118"
+      },
+      "meta": {
+        "item_name": "Cadantine seed",
+        "monster_name": "Twisted Banshee"
+      }
+    },
+    {
+      "id": "5300-7272",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00426733193277311"
+      },
+      "meta": {
+        "item_name": "Snapdragon seed",
+        "monster_name": "Twisted Banshee"
+      }
+    },
+    {
+      "id": "995-7272",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 260,
+        "quantity_max": null,
+        "rarity": "0.0546875"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Twisted Banshee"
+      }
+    },
+    {
+      "id": "995-7272",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 35,
+        "quantity_max": null,
+        "rarity": "0.0546875"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Twisted Banshee"
+      }
+    },
+    {
+      "id": "995-7272",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 130,
+        "quantity_max": null,
+        "rarity": "0.0703125"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Twisted Banshee"
+      }
+    },
+    {
+      "id": "1213-7272",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Rune dagger (Unpoisoned)",
+        "monster_name": "Twisted Banshee"
+      }
+    },
+    {
+      "id": "1147-7272",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Rune med helm",
+        "monster_name": "Twisted Banshee"
+      }
+    },
+    {
+      "id": "1163-7272",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Rune full helm",
+        "monster_name": "Twisted Banshee"
+      }
+    },
+    {
+      "id": "4105-7272",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00390625"
+      },
+      "meta": {
+        "item_name": "Mystic gloves (dark)",
+        "monster_name": "Twisted Banshee"
+      }
+    },
+    {
+      "id": "564-7272",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 20,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Cosmic rune",
+        "monster_name": "Twisted Banshee"
+      }
+    },
+    {
+      "id": "556-7272",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 30,
+        "quantity_max": null,
+        "rarity": "0.01953125"
+      },
+      "meta": {
+        "item_name": "Air rune (Regular)",
+        "monster_name": "Twisted Banshee"
+      }
+    },
+    {
+      "id": "562-7272",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 30,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Chaos rune (Regular)",
+        "monster_name": "Twisted Banshee"
+      }
+    },
+    {
+      "id": "562-7272",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 17,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Chaos rune (Regular)",
+        "monster_name": "Twisted Banshee"
+      }
+    },
+    {
+      "id": "203-7272",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.0373540992828013"
+      },
+      "meta": {
+        "item_name": "Grimy tarromin",
+        "monster_name": "Twisted Banshee"
+      }
+    },
+    {
+      "id": "201-7272",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.0498078004875305"
+      },
+      "meta": {
+        "item_name": "Grimy marrentill",
+        "monster_name": "Twisted Banshee"
+      }
+    },
+    {
+      "id": "199-7272",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.06640625"
+      },
+      "meta": {
+        "item_name": "Grimy guam leaf",
+        "monster_name": "Twisted Banshee"
+      }
+    },
+    {
+      "id": "19683-7272",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "catacombs-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0025"
+      },
+      "meta": {
+        "item_name": "Dark totem top",
+        "monster_name": "Twisted Banshee"
+      }
+    },
+    {
+      "id": "19681-7272",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "catacombs-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0025"
+      },
+      "meta": {
+        "item_name": "Dark totem middle",
+        "monster_name": "Twisted Banshee"
+      }
+    },
+    {
+      "id": "19679-7272",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "catacombs-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0025"
+      },
+      "meta": {
+        "item_name": "Dark totem base",
+        "monster_name": "Twisted Banshee"
+      }
+    },
+    {
+      "id": "19677-7272",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "catacombs-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00375"
+      },
+      "meta": {
+        "item_name": "Ancient shard",
+        "monster_name": "Twisted Banshee"
+      }
+    },
+    {
+      "id": "23083-7272",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0100644122383253"
+      },
+      "meta": {
+        "item_name": "Brimstone key",
+        "monster_name": "Twisted Banshee"
+      }
+    },
+    {
+      "id": "2722-7272",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Clue scroll (hard)",
+        "monster_name": "Twisted Banshee"
+      }
+    },
+    {
+      "id": "373-7272",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Swordfish",
+        "monster_name": "Twisted Banshee"
+      }
+    },
+    {
+      "id": "447-7272",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Mithril ore",
+        "monster_name": "Twisted Banshee"
+      }
+    },
+    {
+      "id": "7936-7272",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 65,
+        "quantity_max": null,
+        "rarity": "0.1640625"
+      },
+      "meta": {
+        "item_name": "Pure essence",
+        "monster_name": "Twisted Banshee"
+      }
+    },
+    {
+      "id": "22873-7272",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00639965343415249"
+      },
+      "meta": {
+        "item_name": "Potato cactus seed",
+        "monster_name": "Twisted Banshee"
+      }
+    },
+    {
+      "id": "5299-7272",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00639965343415249"
+      },
+      "meta": {
+        "item_name": "Kwuarm seed",
+        "monster_name": "Twisted Banshee"
+      }
+    },
+    {
+      "id": "5280-7272",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00896403353927626"
+      },
+      "meta": {
+        "item_name": "Cactus seed",
+        "monster_name": "Twisted Banshee"
+      }
+    },
+    {
+      "id": "5106-7272",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00938655268022181"
+      },
+      "meta": {
+        "item_name": "Poison ivy seed",
+        "monster_name": "Twisted Banshee"
+      }
+    },
+    {
+      "id": "5298-7272",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00938655268022181"
+      },
+      "meta": {
+        "item_name": "Avantoe seed",
+        "monster_name": "Twisted Banshee"
+      }
+    },
+    {
+      "id": "5281-7272",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0132294516087013"
+      },
+      "meta": {
+        "item_name": "Belladonna seed",
+        "monster_name": "Twisted Banshee"
+      }
+    },
+    {
+      "id": "5297-7272",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0136545442323205"
+      },
+      "meta": {
+        "item_name": "Irit seed",
+        "monster_name": "Twisted Banshee"
+      }
+    },
+    {
+      "id": "5296-7272",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0200557859399684"
+      },
+      "meta": {
+        "item_name": "Toadflax seed",
+        "monster_name": "Twisted Banshee"
+      }
+    },
+    {
+      "id": "217-7272",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.00622509960159363"
+      },
+      "meta": {
+        "item_name": "Grimy dwarf weed",
+        "monster_name": "Twisted Banshee"
+      }
+    },
+    {
+      "id": "2485-7272",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.00622509960159363"
+      },
+      "meta": {
+        "item_name": "Grimy lantadyme",
+        "monster_name": "Twisted Banshee"
+      }
+    },
+    {
+      "id": "215-7272",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.00830078125"
+      },
+      "meta": {
+        "item_name": "Grimy cadantine",
+        "monster_name": "Twisted Banshee"
+      }
+    },
+    {
+      "id": "213-7272",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.0103759765625"
+      },
+      "meta": {
+        "item_name": "Grimy kwuarm",
+        "monster_name": "Twisted Banshee"
+      }
+    },
+    {
+      "id": "211-7272",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.0124531176746367"
+      },
+      "meta": {
+        "item_name": "Grimy avantoe",
+        "monster_name": "Twisted Banshee"
+      }
+    },
+    {
+      "id": "209-7272",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.0166015625"
+      },
+      "meta": {
+        "item_name": "Grimy irit leaf",
+        "monster_name": "Twisted Banshee"
+      }
+    },
+    {
+      "id": "207-7272",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.0228200171821306"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Twisted Banshee"
+      }
+    },
+    {
+      "id": "205-7272",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.0290522804331182"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Twisted Banshee"
+      }
+    },
+    {
+      "id": "1391-7272",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Battlestaff",
+        "monster_name": "Twisted Banshee"
+      }
+    },
+    {
+      "id": "1199-7272",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Adamant kiteshield",
+        "monster_name": "Twisted Banshee"
+      }
+    },
+    {
+      "id": "1397-7272",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Air battlestaff",
+        "monster_name": "Twisted Banshee"
+      }
+    },
+    {
+      "id": "1430-7272",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Adamant mace",
+        "monster_name": "Twisted Banshee"
+      }
+    }
+  ]
+}

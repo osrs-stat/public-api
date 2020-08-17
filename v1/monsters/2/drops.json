@@ -1,0 +1,580 @@
+{
+  "data": [
+    {
+      "id": "995-2",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 460,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Aberrant spectre"
+      }
+    },
+    {
+      "id": "2485-2",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.0142811108507148"
+      },
+      "meta": {
+        "item_name": "Grimy lantadyme",
+        "monster_name": "Aberrant spectre"
+      }
+    },
+    {
+      "id": "217-2",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.0142811108507148"
+      },
+      "meta": {
+        "item_name": "Grimy dwarf weed",
+        "monster_name": "Aberrant spectre"
+      }
+    },
+    {
+      "id": "5296-2",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0293123025276461"
+      },
+      "meta": {
+        "item_name": "Toadflax seed",
+        "monster_name": "Aberrant spectre"
+      }
+    },
+    {
+      "id": "5297-2",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0199566415703146"
+      },
+      "meta": {
+        "item_name": "Irit seed",
+        "monster_name": "Aberrant spectre"
+      }
+    },
+    {
+      "id": "5281-2",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0193353523511788"
+      },
+      "meta": {
+        "item_name": "Belladonna seed",
+        "monster_name": "Aberrant spectre"
+      }
+    },
+    {
+      "id": "5298-2",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0137188077634011"
+      },
+      "meta": {
+        "item_name": "Avantoe seed",
+        "monster_name": "Aberrant spectre"
+      }
+    },
+    {
+      "id": "5106-2",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0137188077634011"
+      },
+      "meta": {
+        "item_name": "Poison ivy seed",
+        "monster_name": "Aberrant spectre"
+      }
+    },
+    {
+      "id": "5280-2",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.013101279788173"
+      },
+      "meta": {
+        "item_name": "Cactus seed",
+        "monster_name": "Aberrant spectre"
+      }
+    },
+    {
+      "id": "5299-2",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00935333963453056"
+      },
+      "meta": {
+        "item_name": "Kwuarm seed",
+        "monster_name": "Aberrant spectre"
+      }
+    },
+    {
+      "id": "22873-2",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00935333963453056"
+      },
+      "meta": {
+        "item_name": "Potato cactus seed",
+        "monster_name": "Aberrant spectre"
+      }
+    },
+    {
+      "id": "5300-2",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00623686974789916"
+      },
+      "meta": {
+        "item_name": "Snapdragon seed",
+        "monster_name": "Aberrant spectre"
+      }
+    },
+    {
+      "id": "5301-2",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00436580882352941"
+      },
+      "meta": {
+        "item_name": "Cadantine seed",
+        "monster_name": "Aberrant spectre"
+      }
+    },
+    {
+      "id": "5302-2",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00311843487394958"
+      },
+      "meta": {
+        "item_name": "Lantadyme seed",
+        "monster_name": "Aberrant spectre"
+      }
+    },
+    {
+      "id": "22879-2",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.00249474789915966"
+      },
+      "meta": {
+        "item_name": "Snape grass seed",
+        "monster_name": "Aberrant spectre"
+      }
+    },
+    {
+      "id": "5303-2",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00187113954367831"
+      },
+      "meta": {
+        "item_name": "Dwarf weed seed",
+        "monster_name": "Aberrant spectre"
+      }
+    },
+    {
+      "id": "1353-2",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Steel axe",
+        "monster_name": "Aberrant spectre"
+      }
+    },
+    {
+      "id": "5304-2",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00124737394957983"
+      },
+      "meta": {
+        "item_name": "Torstol seed",
+        "monster_name": "Aberrant spectre"
+      }
+    },
+    {
+      "id": "1197-2",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Mithril kiteshield",
+        "monster_name": "Aberrant spectre"
+      }
+    },
+    {
+      "id": "3053-2",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Lava battlestaff",
+        "monster_name": "Aberrant spectre"
+      }
+    },
+    {
+      "id": "1073-2",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Adamant platelegs",
+        "monster_name": "Aberrant spectre"
+      }
+    },
+    {
+      "id": "1163-2",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Rune full helm",
+        "monster_name": "Aberrant spectre"
+      }
+    },
+    {
+      "id": "4103-2",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.001953125"
+      },
+      "meta": {
+        "item_name": "Mystic robe bottom (dark)",
+        "monster_name": "Aberrant spectre"
+      }
+    },
+    {
+      "id": "12073-2",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Clue scroll (elite)",
+        "monster_name": "Aberrant spectre"
+      }
+    },
+    {
+      "id": "20543-2",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Reward casket (elite)",
+        "monster_name": "Aberrant spectre"
+      }
+    },
+    {
+      "id": "23083-2",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0121124031007752"
+      },
+      "meta": {
+        "item_name": "Brimstone key",
+        "monster_name": "Aberrant spectre"
+      }
+    },
+    {
+      "id": "2722-2",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Clue scroll (hard)",
+        "monster_name": "Aberrant spectre"
+      }
+    },
+    {
+      "id": "199-2",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.15234375"
+      },
+      "meta": {
+        "item_name": "Grimy guam leaf",
+        "monster_name": "Aberrant spectre"
+      }
+    },
+    {
+      "id": "201-2",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.114264954059629"
+      },
+      "meta": {
+        "item_name": "Grimy marrentill",
+        "monster_name": "Aberrant spectre"
+      }
+    },
+    {
+      "id": "203-2",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.0856946983546618"
+      },
+      "meta": {
+        "item_name": "Grimy tarromin",
+        "monster_name": "Aberrant spectre"
+      }
+    },
+    {
+      "id": "205-2",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.0666493492289183"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Aberrant spectre"
+      }
+    },
+    {
+      "id": "207-2",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.0523518041237113"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Aberrant spectre"
+      }
+    },
+    {
+      "id": "209-2",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.0380859375"
+      },
+      "meta": {
+        "item_name": "Grimy irit leaf",
+        "monster_name": "Aberrant spectre"
+      }
+    },
+    {
+      "id": "211-2",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.0285689170182841"
+      },
+      "meta": {
+        "item_name": "Grimy avantoe",
+        "monster_name": "Aberrant spectre"
+      }
+    },
+    {
+      "id": "213-2",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.0238037109375"
+      },
+      "meta": {
+        "item_name": "Grimy kwuarm",
+        "monster_name": "Aberrant spectre"
+      }
+    },
+    {
+      "id": "215-2",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.01904296875"
+      },
+      "meta": {
+        "item_name": "Grimy cadantine",
+        "monster_name": "Aberrant spectre"
+      }
+    }
+  ]
+}

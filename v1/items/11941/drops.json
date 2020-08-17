@@ -1,0 +1,4292 @@
+{
+  "data": [
+    {
+      "id": "11941-2247",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0909090909090909"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Goblin (Level 12 (2))"
+      }
+    },
+    {
+      "id": "11941-70",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.166666666666667"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Skeleton (Level 22)"
+      }
+    },
+    {
+      "id": "11941-70",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0714285714285714"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Skeleton (Level 22)"
+      }
+    },
+    {
+      "id": "11941-70",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0714285714285714"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Skeleton (Level 22)"
+      }
+    },
+    {
+      "id": "11941-74",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.166666666666667"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Skeleton (Level 21)"
+      }
+    },
+    {
+      "id": "11941-74",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0714285714285714"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Skeleton (Level 21)"
+      }
+    },
+    {
+      "id": "11941-74",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0714285714285714"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Skeleton (Level 21)"
+      }
+    },
+    {
+      "id": "11941-77",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.166666666666667"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Skeleton (Level 25)"
+      }
+    },
+    {
+      "id": "11941-77",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0714285714285714"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Skeleton (Level 25)"
+      }
+    },
+    {
+      "id": "11941-77",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0714285714285714"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Skeleton (Level 25)"
+      }
+    },
+    {
+      "id": "11941-82",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.166666666666667"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Skeleton (Level 45)"
+      }
+    },
+    {
+      "id": "11941-82",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0714285714285714"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Skeleton (Level 45)"
+      }
+    },
+    {
+      "id": "11941-82",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0714285714285714"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Skeleton (Level 45)"
+      }
+    },
+    {
+      "id": "11941-85",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.142857142857143"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Ghost (Level 19)"
+      }
+    },
+    {
+      "id": "11941-104",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Hellhound (Level 122)"
+      }
+    },
+    {
+      "id": "11941-106",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.166666666666667"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Wolf (Level 64)"
+      }
+    },
+    {
+      "id": "11941-107",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "White wolf (Level 25)"
+      }
+    },
+    {
+      "id": "11941-108",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "White wolf (Level 38)"
+      }
+    },
+    {
+      "id": "11941-110",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.166666666666667"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Wolf (Level 25)"
+      }
+    },
+    {
+      "id": "11941-136",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Ogre (Level 53)"
+      }
+    },
+    {
+      "id": "11941-240",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Black demon (Level 172)"
+      }
+    },
+    {
+      "id": "11941-240",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Black demon (Level 172)"
+      }
+    },
+    {
+      "id": "11941-252",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Black dragon (Level 227)"
+      }
+    },
+    {
+      "id": "11941-252",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Black dragon (Level 227)"
+      }
+    },
+    {
+      "id": "11941-260",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Green dragon (Level 79)"
+      }
+    },
+    {
+      "id": "11941-260",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Green dragon (Level 79)"
+      }
+    },
+    {
+      "id": "11941-291",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Chaos dwarf"
+      }
+    },
+    {
+      "id": "11941-301",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.25"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Black Heather"
+      }
+    },
+    {
+      "id": "11941-302",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.25"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Donny the lad"
+      }
+    },
+    {
+      "id": "11941-303",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.25"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Speedy Keith"
+      }
+    },
+    {
+      "id": "11941-433",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Pyrefiend (Regular)"
+      }
+    },
+    {
+      "id": "11941-484",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Bloodveld (Standard)"
+      }
+    },
+    {
+      "id": "11941-510",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0666666666666667"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Dark wizard (Level 20)"
+      }
+    },
+    {
+      "id": "11941-510",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.142857142857143"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Dark wizard (Level 20)"
+      }
+    },
+    {
+      "id": "11941-512",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0666666666666667"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Dark wizard (Level 7)"
+      }
+    },
+    {
+      "id": "11941-512",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.142857142857143"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Dark wizard (Level 7)"
+      }
+    },
+    {
+      "id": "11941-516",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.111111111111111"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Black Knight"
+      }
+    },
+    {
+      "id": "11941-520",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0909090909090909"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Chaos druid"
+      }
+    },
+    {
+      "id": "11941-521",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.166666666666667"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Pirate (Pirate's Cove)"
+      }
+    },
+    {
+      "id": "11941-522",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.166666666666667"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Pirate (Brimhaven)"
+      }
+    },
+    {
+      "id": "11941-523",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.166666666666667"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Pirate (Asgarnian Ice Dungeon)"
+      }
+    },
+    {
+      "id": "11941-525",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0666666666666667"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Thug"
+      }
+    },
+    {
+      "id": "11941-526",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.1"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Rogue (Level 15)"
+      }
+    },
+    {
+      "id": "11941-527",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.166666666666667"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Monk of Zamorak (Level 22)"
+      }
+    },
+    {
+      "id": "11941-528",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.166666666666667"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Monk of Zamorak (Level 17)"
+      }
+    },
+    {
+      "id": "11941-529",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.166666666666667"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Monk of Zamorak (Level 45)"
+      }
+    },
+    {
+      "id": "11941-531",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0666666666666667"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Dark warrior (Level 8)"
+      }
+    },
+    {
+      "id": "11941-531",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Dark warrior (Level 8)"
+      }
+    },
+    {
+      "id": "11941-655",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0909090909090909"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Goblin (Level 5)"
+      }
+    },
+    {
+      "id": "11941-1026",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.166666666666667"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Bandit (Level 22)"
+      }
+    },
+    {
+      "id": "11941-1026",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Bandit (Level 22)"
+      }
+    },
+    {
+      "id": "11941-1027",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.166666666666667"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Guard Bandit"
+      }
+    },
+    {
+      "id": "11941-1118",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0666666666666667"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Man (West Ardougne)"
+      }
+    },
+    {
+      "id": "11941-1153",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Ogre (Level 63)"
+      }
+    },
+    {
+      "id": "11941-1447",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.166666666666667"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Pirate (Port Sarim)"
+      }
+    },
+    {
+      "id": "11941-1610",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Battle mage (Zamorak)"
+      }
+    },
+    {
+      "id": "11941-1611",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Battle mage (Saradomin)"
+      }
+    },
+    {
+      "id": "11941-1612",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Battle mage (Guthix)"
+      }
+    },
+    {
+      "id": "11941-1777",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Double agent (Level 65)"
+      }
+    },
+    {
+      "id": "11941-1778",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Double agent (Level 108)"
+      }
+    },
+    {
+      "id": "11941-1834",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Gorak (Level 145)"
+      }
+    },
+    {
+      "id": "11941-2005",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Lesser demon (Level 82)"
+      }
+    },
+    {
+      "id": "11941-2005",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Lesser demon (Level 82)"
+      }
+    },
+    {
+      "id": "11941-2025",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Greater demon (Level 92)"
+      }
+    },
+    {
+      "id": "11941-2025",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Greater demon (Level 92)"
+      }
+    },
+    {
+      "id": "11941-2054",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Chaos Elemental"
+      }
+    },
+    {
+      "id": "11941-2056",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0666666666666667"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Dark wizard (Level 23)"
+      }
+    },
+    {
+      "id": "11941-2056",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.142857142857143"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Dark wizard (Level 23)"
+      }
+    },
+    {
+      "id": "11941-2057",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0666666666666667"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Dark wizard (Level 22)"
+      }
+    },
+    {
+      "id": "11941-2057",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.142857142857143"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Dark wizard (Level 22)"
+      }
+    },
+    {
+      "id": "11941-2058",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0666666666666667"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Dark wizard (Level 11)"
+      }
+    },
+    {
+      "id": "11941-2058",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.142857142857143"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Dark wizard (Level 11)"
+      }
+    },
+    {
+      "id": "11941-2075",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Fire giant (Level 86)"
+      }
+    },
+    {
+      "id": "11941-2085",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Ice giant (Level 53)"
+      }
+    },
+    {
+      "id": "11941-2085",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Ice giant (Level 53)"
+      }
+    },
+    {
+      "id": "11941-2090",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Moss giant (Level 42)"
+      }
+    },
+    {
+      "id": "11941-2098",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.2"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Hill Giant"
+      }
+    },
+    {
+      "id": "11941-2209",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Saradomin priest"
+      }
+    },
+    {
+      "id": "11941-2210",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Spiritual warrior (Saradomin)"
+      }
+    },
+    {
+      "id": "11941-2211",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Spiritual ranger (Saradomin)"
+      }
+    },
+    {
+      "id": "11941-2212",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Spiritual mage (Saradomin)"
+      }
+    },
+    {
+      "id": "11941-2213",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Knight of Saradomin (Level 103)"
+      }
+    },
+    {
+      "id": "11941-2214",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Knight of Saradomin (Level 101)"
+      }
+    },
+    {
+      "id": "11941-2233",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Ogre (Level 58)"
+      }
+    },
+    {
+      "id": "11941-2237",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Ork"
+      }
+    },
+    {
+      "id": "11941-2241",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.2"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Hobgoblin (Level 47)"
+      }
+    },
+    {
+      "id": "11941-2241",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Hobgoblin (Level 47)"
+      }
+    },
+    {
+      "id": "11941-2242",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Spiritual ranger (Bandos)"
+      }
+    },
+    {
+      "id": "11941-2243",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Spiritual warrior (Bandos)"
+      }
+    },
+    {
+      "id": "11941-2244",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Spiritual mage (Bandos)"
+      }
+    },
+    {
+      "id": "11941-2245",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0909090909090909"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Goblin (Level 17)"
+      }
+    },
+    {
+      "id": "11941-2246",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0909090909090909"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Goblin (Level 12 (1))"
+      }
+    },
+    {
+      "id": "11941-5640",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Feral Vampyre (Level 70)"
+      }
+    },
+    {
+      "id": "11941-5641",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Feral Vampyre (Level 100)"
+      }
+    },
+    {
+      "id": "11941-5642",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Feral Vampyre (Level 130)"
+      }
+    },
+    {
+      "id": "11941-6292",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Chronozon (Hard)"
+      }
+    },
+    {
+      "id": "11941-6295",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Black demon (Hard)"
+      }
+    },
+    {
+      "id": "11941-6295",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Black demon (Hard)"
+      }
+    },
+    {
+      "id": "11941-6503",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Callisto"
+      }
+    },
+    {
+      "id": "11941-6504",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Venenatis"
+      }
+    },
+    {
+      "id": "11941-6587",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Armadylian guard"
+      }
+    },
+    {
+      "id": "11941-6588",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Bandosian guard"
+      }
+    },
+    {
+      "id": "11941-6593",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Lava dragon"
+      }
+    },
+    {
+      "id": "11941-6603",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.1"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Rogue (Level 135)"
+      }
+    },
+    {
+      "id": "11941-6604",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Mammoth"
+      }
+    },
+    {
+      "id": "11941-6605",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.166666666666667"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Bandit (Level 130)"
+      }
+    },
+    {
+      "id": "11941-6605",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Bandit (Level 130)"
+      }
+    },
+    {
+      "id": "11941-6606",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0666666666666667"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Dark warrior (Level 145)"
+      }
+    },
+    {
+      "id": "11941-6606",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Dark warrior (Level 145)"
+      }
+    },
+    {
+      "id": "11941-6607",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Elder Chaos druid"
+      }
+    },
+    {
+      "id": "11941-6611",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Vet'ion (Normal)"
+      }
+    },
+    {
+      "id": "11941-6612",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Vet'ion (Reborn)"
+      }
+    },
+    {
+      "id": "11941-6613",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Skeleton Hellhound (Vet'ion)"
+      }
+    },
+    {
+      "id": "11941-6614",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Greater Skeleton Hellhound"
+      }
+    },
+    {
+      "id": "11941-6615",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Scorpia"
+      }
+    },
+    {
+      "id": "11941-6616",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.1"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Scorpia's offspring (monster)"
+      }
+    },
+    {
+      "id": "11941-6617",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Scorpia's guardian"
+      }
+    },
+    {
+      "id": "11941-6618",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Crazy archaeologist"
+      }
+    },
+    {
+      "id": "11941-6619",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Chaos Fanatic"
+      }
+    },
+    {
+      "id": "11941-7242",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Black demon (Level 184)"
+      }
+    },
+    {
+      "id": "11941-7242",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Black demon (Level 184)"
+      }
+    },
+    {
+      "id": "11941-7243",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Black demon (Level 178)"
+      }
+    },
+    {
+      "id": "11941-7243",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Black demon (Level 178)"
+      }
+    },
+    {
+      "id": "11941-7244",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Greater demon (Level 101)"
+      }
+    },
+    {
+      "id": "11941-2248",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0909090909090909"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Goblin (Level 15)"
+      }
+    },
+    {
+      "id": "11941-7245",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Greater demon (Level 100)"
+      }
+    },
+    {
+      "id": "11941-7245",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Greater demon (Level 100)"
+      }
+    },
+    {
+      "id": "11941-7246",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Greater demon (Level 113)"
+      }
+    },
+    {
+      "id": "11941-7246",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Greater demon (Level 113)"
+      }
+    },
+    {
+      "id": "11941-7247",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Lesser demon (Level 87)"
+      }
+    },
+    {
+      "id": "11941-7247",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Lesser demon (Level 87)"
+      }
+    },
+    {
+      "id": "11941-7248",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Lesser demon (Level 94)"
+      }
+    },
+    {
+      "id": "11941-7248",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Lesser demon (Level 94)"
+      }
+    },
+    {
+      "id": "11941-7251",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Fire giant (Level 109)"
+      }
+    },
+    {
+      "id": "11941-7252",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Fire giant (Level 104)"
+      }
+    },
+    {
+      "id": "11941-7257",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Ankou (Level 95)"
+      }
+    },
+    {
+      "id": "11941-7257",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Ankou (Level 95)"
+      }
+    },
+    {
+      "id": "11941-7307",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Ancient Wizard (Mage)"
+      }
+    },
+    {
+      "id": "11941-7308",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Ancient Wizard (Ranger)"
+      }
+    },
+    {
+      "id": "11941-7309",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Ancient Wizard (Melee)"
+      }
+    },
+    {
+      "id": "11941-7310",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Brassican Mage"
+      }
+    },
+    {
+      "id": "11941-7312",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Double agent (Level 141)"
+      }
+    },
+    {
+      "id": "11941-7394",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Flaming pyrelord"
+      }
+    },
+    {
+      "id": "11941-7858",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Justiciar Zachariah"
+      }
+    },
+    {
+      "id": "11941-7859",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Derwen"
+      }
+    },
+    {
+      "id": "11941-7860",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Porazdir"
+      }
+    },
+    {
+      "id": "11941-7861",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Black dragon (Level 247)"
+      }
+    },
+    {
+      "id": "11941-7861",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Black dragon (Level 247)"
+      }
+    },
+    {
+      "id": "11941-7864",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Ankou (Level 98)"
+      }
+    },
+    {
+      "id": "11941-7864",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Ankou (Level 98)"
+      }
+    },
+    {
+      "id": "11941-7865",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Lesser demon (Level 94 (Revenant Caves))"
+      }
+    },
+    {
+      "id": "11941-7865",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Lesser demon (Level 94 (Revenant Caves))"
+      }
+    },
+    {
+      "id": "11941-7868",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Green dragon (Level 88)"
+      }
+    },
+    {
+      "id": "11941-7868",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Green dragon (Level 88)"
+      }
+    },
+    {
+      "id": "11941-7871",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Greater demon (Level 104)"
+      }
+    },
+    {
+      "id": "11941-7871",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Greater demon (Level 104)"
+      }
+    },
+    {
+      "id": "11941-7874",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Black demon (Level 188)"
+      }
+    },
+    {
+      "id": "11941-7874",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Black demon (Level 188)"
+      }
+    },
+    {
+      "id": "11941-7877",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Hellhound (Level 136)"
+      }
+    },
+    {
+      "id": "11941-7878",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Ice giant (Level 67)"
+      }
+    },
+    {
+      "id": "11941-7878",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Ice giant (Level 67)"
+      }
+    },
+    {
+      "id": "11941-7881",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Revenant imp"
+      }
+    },
+    {
+      "id": "11941-7931",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Revenant goblin"
+      }
+    },
+    {
+      "id": "11941-7932",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Revenant pyrefiend"
+      }
+    },
+    {
+      "id": "11941-7933",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Revenant hobgoblin"
+      }
+    },
+    {
+      "id": "11941-7934",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Revenant cyclops"
+      }
+    },
+    {
+      "id": "11941-7935",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Revenant hellhound"
+      }
+    },
+    {
+      "id": "11941-7936",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Revenant demon"
+      }
+    },
+    {
+      "id": "11941-7937",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Revenant ork"
+      }
+    },
+    {
+      "id": "11941-7938",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Revenant dark beast"
+      }
+    },
+    {
+      "id": "11941-7939",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Revenant knight"
+      }
+    },
+    {
+      "id": "11941-7940",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Revenant dragon"
+      }
+    },
+    {
+      "id": "11941-8698",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.166666666666667"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Monk of Zamorak (Level 23)"
+      }
+    },
+    {
+      "id": "11941-8736",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Moss giant (Level 84)"
+      }
+    },
+    {
+      "id": "11941-7244",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Greater demon (Level 101)"
+      }
+    },
+    {
+      "id": "11941-2249",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0909090909090909"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Goblin (Level 13 (GWD))"
+      }
+    },
+    {
+      "id": "11941-2477",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0666666666666667"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Giant spider (Level 50)"
+      }
+    },
+    {
+      "id": "11941-2478",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0666666666666667"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Spider (Stronghold of Security)"
+      }
+    },
+    {
+      "id": "11941-2479",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.1"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Scorpion (Level 59)"
+      }
+    },
+    {
+      "id": "11941-2480",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.1"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Scorpion (Level 37)"
+      }
+    },
+    {
+      "id": "11941-2485",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0909090909090909"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Goblin (Level 13)"
+      }
+    },
+    {
+      "id": "11941-2486",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0909090909090909"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Goblin (Level 11)"
+      }
+    },
+    {
+      "id": "11941-2487",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0909090909090909"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Goblin (Level 16)"
+      }
+    },
+    {
+      "id": "11941-2488",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0909090909090909"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Goblin (Level 25)"
+      }
+    },
+    {
+      "id": "11941-2490",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.166666666666667"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Wolf (Level 14)"
+      }
+    },
+    {
+      "id": "11941-2491",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.166666666666667"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Wolf (Level 11)"
+      }
+    },
+    {
+      "id": "11941-2492",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0666666666666667"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Rat (Level 1 (SoS))"
+      }
+    },
+    {
+      "id": "11941-2510",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0666666666666667"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Giant rat (Level 26)"
+      }
+    },
+    {
+      "id": "11941-2514",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Ankou (Level 75)"
+      }
+    },
+    {
+      "id": "11941-2514",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Ankou (Level 75)"
+      }
+    },
+    {
+      "id": "11941-2515",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Ankou (Level 82)"
+      }
+    },
+    {
+      "id": "11941-2515",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Ankou (Level 82)"
+      }
+    },
+    {
+      "id": "11941-2516",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Ankou (Level 86)"
+      }
+    },
+    {
+      "id": "11941-2516",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Ankou (Level 86)"
+      }
+    },
+    {
+      "id": "11941-2520",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.166666666666667"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Skeleton (Level 68)"
+      }
+    },
+    {
+      "id": "11941-2520",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0714285714285714"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Skeleton (Level 68)"
+      }
+    },
+    {
+      "id": "11941-2520",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0714285714285714"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Skeleton (Level 68)"
+      }
+    },
+    {
+      "id": "11941-2521",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.166666666666667"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Skeleton (Level 60)"
+      }
+    },
+    {
+      "id": "11941-2521",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0714285714285714"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Skeleton (Level 60)"
+      }
+    },
+    {
+      "id": "11941-2521",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0714285714285714"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Skeleton (Level 60)"
+      }
+    },
+    {
+      "id": "11941-2524",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.166666666666667"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Skeleton (Level 85)"
+      }
+    },
+    {
+      "id": "11941-2524",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0714285714285714"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Skeleton (Level 85)"
+      }
+    },
+    {
+      "id": "11941-2524",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0714285714285714"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Skeleton (Level 85)"
+      }
+    },
+    {
+      "id": "11941-2527",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.142857142857143"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Ghost (Level 77)"
+      }
+    },
+    {
+      "id": "11941-2531",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.142857142857143"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Ghost (Level 29)"
+      }
+    },
+    {
+      "id": "11941-2593",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Werewolf (Level 88)"
+      }
+    },
+    {
+      "id": "11941-2827",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0666666666666667"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Bat"
+      }
+    },
+    {
+      "id": "11941-2834",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.2"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Giant bat"
+      }
+    },
+    {
+      "id": "11941-2838",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.142857142857143"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Grizzly bear (Level 21)"
+      }
+    },
+    {
+      "id": "11941-2839",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.142857142857143"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Black bear"
+      }
+    },
+    {
+      "id": "11941-2840",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Earth warrior"
+      }
+    },
+    {
+      "id": "11941-2841",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Ice warrior"
+      }
+    },
+    {
+      "id": "11941-2844",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Magic axe"
+      }
+    },
+    {
+      "id": "11941-2849",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.2"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Black unicorn"
+      }
+    },
+    {
+      "id": "11941-2854",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0666666666666667"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Rat (Level 1)"
+      }
+    },
+    {
+      "id": "11941-2856",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0666666666666667"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Giant rat (Level 3)"
+      }
+    },
+    {
+      "id": "11941-2862",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0666666666666667"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Giant rat (Level 6)"
+      }
+    },
+    {
+      "id": "11941-2954",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Zamorak wizard"
+      }
+    },
+    {
+      "id": "11941-3014",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0666666666666667"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Man (Blue)"
+      }
+    },
+    {
+      "id": "11941-3016",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Shadow spider"
+      }
+    },
+    {
+      "id": "11941-3017",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0666666666666667"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Giant spider (Level 2)"
+      }
+    },
+    {
+      "id": "11941-3018",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0666666666666667"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Giant spider (Level 27)"
+      }
+    },
+    {
+      "id": "11941-3019",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0666666666666667"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Spider (Common)"
+      }
+    },
+    {
+      "id": "11941-3021",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.25"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Deadly red spider"
+      }
+    },
+    {
+      "id": "11941-3022",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Ice spider"
+      }
+    },
+    {
+      "id": "11941-3023",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Poison spider (Level 64)"
+      }
+    },
+    {
+      "id": "11941-3024",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.1"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Scorpion (Level 14)"
+      }
+    },
+    {
+      "id": "11941-3027",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.25"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "King Scorpion"
+      }
+    },
+    {
+      "id": "11941-3028",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0909090909090909"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Goblin (Level 2)"
+      }
+    },
+    {
+      "id": "11941-3049",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.2"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Hobgoblin (Level 28)"
+      }
+    },
+    {
+      "id": "11941-3049",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Hobgoblin (Level 28)"
+      }
+    },
+    {
+      "id": "11941-3050",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.2"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Hobgoblin (Level 42)"
+      }
+    },
+    {
+      "id": "11941-3050",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Hobgoblin (Level 42)"
+      }
+    },
+    {
+      "id": "11941-3107",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0666666666666667"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Man (Red)"
+      }
+    },
+    {
+      "id": "11941-3108",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0666666666666667"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Man (Green)"
+      }
+    },
+    {
+      "id": "11941-3109",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0666666666666667"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Man (Backpack)"
+      }
+    },
+    {
+      "id": "11941-3133",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Hellhound (Level 127)"
+      }
+    },
+    {
+      "id": "11941-3134",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0666666666666667"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Imp (GWD)"
+      }
+    },
+    {
+      "id": "11941-3135",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Werewolf (Level 93)"
+      }
+    },
+    {
+      "id": "11941-3137",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Feral Vampyre (Level 77)"
+      }
+    },
+    {
+      "id": "11941-3138",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Bloodveld (God Wars)"
+      }
+    },
+    {
+      "id": "11941-3139",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Pyrefiend (GWD)"
+      }
+    },
+    {
+      "id": "11941-3140",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.125"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Icefiend (Level 18)"
+      }
+    },
+    {
+      "id": "11941-3141",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Gorak (Level 149)"
+      }
+    },
+    {
+      "id": "11941-3159",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Spiritual warrior (Zamorak)"
+      }
+    },
+    {
+      "id": "11941-3160",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Spiritual ranger (Zamorak)"
+      }
+    },
+    {
+      "id": "11941-3161",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Spiritual mage (Zamorak)"
+      }
+    },
+    {
+      "id": "11941-3166",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Spiritual warrior (Armadyl)"
+      }
+    },
+    {
+      "id": "11941-3167",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Spiritual ranger (Armadyl)"
+      }
+    },
+    {
+      "id": "11941-3168",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Spiritual mage (Armadyl)"
+      }
+    },
+    {
+      "id": "11941-3234",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Feral Vampyre (Level 72)"
+      }
+    },
+    {
+      "id": "11941-3237",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Feral Vampyre (Level 61)"
+      }
+    },
+    {
+      "id": "11941-3261",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0666666666666667"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Man (Black)"
+      }
+    },
+    {
+      "id": "11941-3264",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0666666666666667"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Man (Light blue)"
+      }
+    },
+    {
+      "id": "11941-3265",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0666666666666667"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Man (Pink)"
+      }
+    },
+    {
+      "id": "11941-3266",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0666666666666667"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Man (Grey)"
+      }
+    },
+    {
+      "id": "11941-3298",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0666666666666667"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Man (Cavalier)"
+      }
+    },
+    {
+      "id": "11941-3423",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.142857142857143"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Grizzly bear (Level 42)"
+      }
+    },
+    {
+      "id": "11941-3486",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.166666666666667"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Monk of Zamorak (Level 30)"
+      }
+    },
+    {
+      "id": "11941-3707",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Feral Vampyre (Level 64)"
+      }
+    },
+    {
+      "id": "11941-3851",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Moss giant (Level 48)"
+      }
+    },
+    {
+      "id": "11941-4561",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0666666666666667"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Spider (Underground Pass)"
+      }
+    },
+    {
+      "id": "11941-4813",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.125"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Icefiend (Level 13)"
+      }
+    },
+    {
+      "id": "11941-4987",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Chronozon (Normal)"
+      }
+    },
+    {
+      "id": "11941-5007",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0666666666666667"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Imp (Regular)"
+      }
+    },
+    {
+      "id": "11941-5242",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.1"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Scorpion (Level 38)"
+      }
+    },
+    {
+      "id": "11941-5370",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.142857142857143"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Ghost (Level 24)"
+      }
+    },
+    {
+      "id": "11941-5373",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Poison spider (Level 31)"
+      }
+    }
+  ]
+}

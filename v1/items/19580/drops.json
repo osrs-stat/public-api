@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "19580-7095",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Rune javelin heads",
+        "monster_name": "Tortured gorilla (Level 142)"
+      }
+    },
+    {
+      "id": "19580-8031",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 20,
+        "quantity_max": 30,
+        "rarity": "0.118110236220472"
+      },
+      "meta": {
+        "item_name": "Rune javelin heads",
+        "monster_name": "Rune dragon"
+      }
+    },
+    {
+      "id": "19580-7150",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Rune javelin heads",
+        "monster_name": "Tortured gorilla (Level 141)"
+      }
+    },
+    {
+      "id": "19580-7144",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 45,
+        "quantity_max": 55,
+        "rarity": "0.05"
+      },
+      "meta": {
+        "item_name": "Rune javelin heads",
+        "monster_name": "Demonic gorilla"
+      }
+    }
+  ]
+}

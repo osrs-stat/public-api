@@ -1,0 +1,164 @@
+{
+  "data": [
+    {
+      "id": "6034-537",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.0428571428571429"
+      },
+      "meta": {
+        "item_name": "Supercompost",
+        "monster_name": "https://oldschool.runescape.wiki/w/Zygomite#Level_74"
+      }
+    },
+    {
+      "id": "6034-1024",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.0428571428571429"
+      },
+      "meta": {
+        "item_name": "Supercompost",
+        "monster_name": "https://oldschool.runescape.wiki/w/Zygomite#Level_86"
+      }
+    },
+    {
+      "id": "6034-6503",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 100,
+        "quantity_max": null,
+        "rarity": "0.037109375"
+      },
+      "meta": {
+        "item_name": "Supercompost",
+        "monster_name": "Callisto"
+      }
+    },
+    {
+      "id": "6034-6504",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 100,
+        "quantity_max": null,
+        "rarity": "0.037109375"
+      },
+      "meta": {
+        "item_name": "Supercompost",
+        "monster_name": "Venenatis"
+      }
+    },
+    {
+      "id": "6034-6611",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 100,
+        "quantity_max": null,
+        "rarity": "0.037109375"
+      },
+      "meta": {
+        "item_name": "Supercompost",
+        "monster_name": "Vet'ion (Normal)"
+      }
+    },
+    {
+      "id": "6034-6612",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 100,
+        "quantity_max": null,
+        "rarity": "0.037109375"
+      },
+      "meta": {
+        "item_name": "Supercompost",
+        "monster_name": "Vet'ion (Reborn)"
+      }
+    },
+    {
+      "id": "6034-7795",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 7,
+        "quantity_max": 10,
+        "rarity": "0.0223880597014925"
+      },
+      "meta": {
+        "item_name": "Supercompost",
+        "monster_name": "Ancient Wyvern"
+      }
+    },
+    {
+      "id": "6034-7797",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.1"
+      },
+      "meta": {
+        "item_name": "Supercompost",
+        "monster_name": "Ancient Zygomite"
+      }
+    },
+    {
+      "id": "6034-537",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0437956204379562"
+      },
+      "meta": {
+        "item_name": "Supercompost",
+        "monster_name": "https://oldschool.runescape.wiki/w/Zygomite#Level_74"
+      }
+    },
+    {
+      "id": "6034-1024",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0437956204379562"
+      },
+      "meta": {
+        "item_name": "Supercompost",
+        "monster_name": "https://oldschool.runescape.wiki/w/Zygomite#Level_86"
+      }
+    }
+  ]
+}

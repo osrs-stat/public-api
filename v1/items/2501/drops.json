@@ -1,0 +1,148 @@
+{
+  "data": [
+    {
+      "id": "2501-965",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Red d'hide body",
+        "monster_name": "Kalphite Queen (Airborne)"
+      }
+    },
+    {
+      "id": "2501-498",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Red d'hide body",
+        "monster_name": "Smoke devil"
+      }
+    },
+    {
+      "id": "2501-499",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Red d'hide body",
+        "monster_name": "Thermonuclear smoke devil"
+      }
+    },
+    {
+      "id": "2501-963",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Red d'hide body",
+        "monster_name": "Kalphite Queen (Crawling)"
+      }
+    },
+    {
+      "id": "2501-6618",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Red d'hide body",
+        "monster_name": "Crazy archaeologist"
+      }
+    },
+    {
+      "id": "2501-7274",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Red d'hide body",
+        "monster_name": "Brutal red dragon"
+      }
+    },
+    {
+      "id": "2501-7406",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Red d'hide body",
+        "monster_name": "Nuclear smoke devil"
+      }
+    },
+    {
+      "id": "2501-8612",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0235294117647059"
+      },
+      "meta": {
+        "item_name": "Red d'hide body",
+        "monster_name": "Drake"
+      }
+    },
+    {
+      "id": "2501-10400",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0235294117647059"
+      },
+      "meta": {
+        "item_name": "Red d'hide body",
+        "monster_name": "Guardian Drake"
+      }
+    }
+  ]
+}

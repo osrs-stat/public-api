@@ -1,0 +1,132 @@
+{
+  "data": {
+    "id": "6310",
+    "type": "monster",
+    "attributes": {
+      "uuid": "714e90ea-54a3-4ea1-8f8e-de7e7dff9a61",
+      "name": "Karamel (Hard)",
+      "members": true,
+      "release_date": "2013-09-05",
+      "examine": "Pure evil lightly whipped with a juicy cherry on top.",
+      "combat_level_override": null,
+      "max_hit_override": 57,
+      "target_types": [
+
+      ],
+      "classification_types": [
+
+      ],
+      "poison": false,
+      "immune_poison": true,
+      "immune_venom": true,
+      "slayer_xp": null,
+      "slayer_level": null,
+      "slayer_masters": [
+
+      ],
+      "icon_base64": null
+    },
+    "relationships": {
+      "combat_stat": {
+        "data": {
+          "id": "4ee72869-9bdf-4d81-84a9-62417ea36b52",
+          "type": "combat_stat"
+        }
+      },
+      "equip_stat": {
+        "data": {
+          "id": "a94e973c-c122-4529-88e1-e61c53f2d74a",
+          "type": "equip_stat"
+        }
+      },
+      "attack_stat": {
+        "data": {
+          "id": "b8874a34-6438-4e90-ae40-2788fef32713",
+          "type": "attack_stat"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Karamel#Hard"
+    },
+    "meta": {
+      "incomplete": true
+    }
+  },
+  "included": [
+    {
+      "id": "b8874a34-6438-4e90-ae40-2788fef32713",
+      "type": "attack_stat",
+      "attributes": {
+        "attack_speed": 3,
+        "attack_type": "monster",
+        "special": null,
+        "stances": [
+          {
+            "name": "Monster melee",
+            "style": null,
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": null,
+            "combat_accuracy_stat": "attack_level",
+            "combat_damage_stat": "strength_level",
+            "equip_accuracy_stat": "crush_attack",
+            "equip_damage_stat": "crush_attack",
+            "target_equip_defense_stat": "crush_defense"
+          },
+          {
+            "name": "Monster ranged",
+            "style": null,
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": null,
+            "combat_accuracy_stat": "ranged_level",
+            "combat_damage_stat": "ranged_level",
+            "equip_accuracy_stat": "ranged_attack",
+            "equip_damage_stat": "ranged_attack",
+            "target_equip_defense_stat": "ranged_defense"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4ee72869-9bdf-4d81-84a9-62417ea36b52",
+      "type": "monster_combat_stat",
+      "attributes": {
+        "hitpoints_level": 255,
+        "attack_level": 1,
+        "strength_level": 1,
+        "defense_level": 100,
+        "magic_level": 1,
+        "ranged_level": 200,
+        "prayer_level": 0
+      }
+    },
+    {
+      "id": "a94e973c-c122-4529-88e1-e61c53f2d74a",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 0,
+        "slash_attack": 0,
+        "crush_attack": 0,
+        "ranged_attack": 268,
+        "magic_attack": 0,
+        "stab_defense": 150,
+        "slash_defense": 150,
+        "crush_defense": 150,
+        "ranged_defense": 150,
+        "magic_defense": 150,
+        "melee_strength": 0,
+        "ranged_strength": 110,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "id": "11995-6619",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.001"
+      },
+      "meta": {
+        "item_name": "Pet chaos elemental",
+        "monster_name": "Chaos Fanatic"
+      }
+    },
+    {
+      "id": "11995-2054",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00333333333333333"
+      },
+      "meta": {
+        "item_name": "Pet chaos elemental",
+        "monster_name": "Chaos Elemental"
+      }
+    }
+  ]
+}

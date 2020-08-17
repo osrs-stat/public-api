@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "11942-2214",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0166666666666667"
+      },
+      "meta": {
+        "item_name": "Ecumenical key",
+        "monster_name": "Knight of Saradomin (Level 101)"
+      }
+    },
+    {
+      "id": "2722-2214",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Clue scroll (hard)",
+        "monster_name": "Knight of Saradomin (Level 101)"
+      }
+    },
+    {
+      "id": "526-2214",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Bones",
+        "monster_name": "Knight of Saradomin (Level 101)"
+      }
+    },
+    {
+      "id": "11941-2214",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Knight of Saradomin (Level 101)"
+      }
+    }
+  ]
+}

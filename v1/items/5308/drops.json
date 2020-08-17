@@ -1,0 +1,20 @@
+{
+  "data": [
+    {
+      "id": "5308-6604",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 4,
+        "quantity_max": null,
+        "rarity": "0.025"
+      },
+      "meta": {
+        "item_name": "Asgarnian seed",
+        "monster_name": "Mammoth"
+      }
+    }
+  ]
+}

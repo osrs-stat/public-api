@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "id": "1434-10400",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0117647058823529"
+      },
+      "meta": {
+        "item_name": "Dragon mace",
+        "monster_name": "Guardian Drake"
+      }
+    },
+    {
+      "id": "1434-8612",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0117647058823529"
+      },
+      "meta": {
+        "item_name": "Dragon mace",
+        "monster_name": "Drake"
+      }
+    }
+  ]
+}

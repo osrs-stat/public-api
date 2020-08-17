@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "id": "6524-2173",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.001953125"
+      },
+      "meta": {
+        "item_name": "Toktz-ket-xil",
+        "monster_name": "TzHaar-Ket (Level 149)"
+      }
+    },
+    {
+      "id": "6524-7679",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.001953125"
+      },
+      "meta": {
+        "item_name": "Toktz-ket-xil",
+        "monster_name": "TzHaar-Ket (Level 221)"
+      }
+    }
+  ]
+}

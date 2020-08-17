@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "id": "609-6338",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Rashiliyia corpse",
+        "monster_name": "Nazastarool (Skeleton (hard))"
+      }
+    },
+    {
+      "id": "6806-6338",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0002"
+      },
+      "meta": {
+        "item_name": "Skeleton champion scroll",
+        "monster_name": "Nazastarool (Skeleton (hard))"
+      }
+    },
+    {
+      "id": "6807-6338",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0002"
+      },
+      "meta": {
+        "item_name": "Zombie champion scroll",
+        "monster_name": "Nazastarool (Skeleton (hard))"
+      }
+    }
+  ]
+}

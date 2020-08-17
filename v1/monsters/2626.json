@@ -1,0 +1,117 @@
+{
+  "data": {
+    "id": "2626",
+    "type": "monster",
+    "attributes": {
+      "uuid": "ccd4b843-a170-419d-8cd5-1ca4c36da845",
+      "name": "Sofiya",
+      "members": true,
+      "release_date": "2007-06-04",
+      "examine": "A wise villager.",
+      "combat_level_override": null,
+      "max_hit_override": null,
+      "target_types": [
+
+      ],
+      "classification_types": [
+
+      ],
+      "poison": false,
+      "immune_poison": false,
+      "immune_venom": false,
+      "slayer_xp": null,
+      "slayer_level": null,
+      "slayer_masters": [
+
+      ],
+      "icon_base64": null
+    },
+    "relationships": {
+      "combat_stat": {
+        "data": {
+          "id": "ffc55b82-2779-414d-a663-ac69e54e9fed",
+          "type": "combat_stat"
+        }
+      },
+      "equip_stat": {
+        "data": {
+          "id": "c6bf26ed-3db0-4bd4-a7bc-5bdb9aa961a9",
+          "type": "equip_stat"
+        }
+      },
+      "attack_stat": {
+        "data": {
+          "id": "86ced852-08fc-482b-bb45-17b1ec9ad56a",
+          "type": "attack_stat"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Sofiya"
+    },
+    "meta": {
+      "incomplete": true
+    }
+  },
+  "included": [
+    {
+      "id": "86ced852-08fc-482b-bb45-17b1ec9ad56a",
+      "type": "attack_stat",
+      "attributes": {
+        "attack_speed": 4,
+        "attack_type": "monster",
+        "special": null,
+        "stances": [
+          {
+            "name": "Monster crush",
+            "style": null,
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": null,
+            "combat_accuracy_stat": "attack_level",
+            "combat_damage_stat": "strength_level",
+            "equip_accuracy_stat": "crush_attack",
+            "equip_damage_stat": "crush_attack",
+            "target_equip_defense_stat": "crush_defense"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ffc55b82-2779-414d-a663-ac69e54e9fed",
+      "type": "monster_combat_stat",
+      "attributes": {
+        "hitpoints_level": 60,
+        "attack_level": 10,
+        "strength_level": 10,
+        "defense_level": 10,
+        "magic_level": 1,
+        "ranged_level": 1,
+        "prayer_level": 0
+      }
+    },
+    {
+      "id": "c6bf26ed-3db0-4bd4-a7bc-5bdb9aa961a9",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 0,
+        "slash_attack": 0,
+        "crush_attack": 0,
+        "ranged_attack": 0,
+        "magic_attack": 0,
+        "stab_defense": -21,
+        "slash_defense": -21,
+        "crush_defense": -21,
+        "ranged_defense": -21,
+        "magic_defense": -21,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "data": {
+    "id": "3177",
+    "type": "monster",
+    "attributes": {
+      "uuid": "255e6531-a1ec-4bb4-8a5c-4f95b10b0db4",
+      "name": "Aviansie (Level 71)",
+      "members": true,
+      "release_date": "2013-10-17",
+      "examine": "Graceful, bird-like creature.",
+      "combat_level_override": null,
+      "max_hit_override": null,
+      "target_types": [
+
+      ],
+      "classification_types": [
+        "aviansie"
+      ],
+      "poison": false,
+      "immune_poison": false,
+      "immune_venom": false,
+      "slayer_xp": 63.0,
+      "slayer_level": 1,
+      "slayer_masters": [
+        "krystilia",
+        "chaeldar",
+        "konar",
+        "nieve",
+        "duradel"
+      ],
+      "icon_base64": null
+    },
+    "relationships": {
+      "combat_stat": {
+        "data": {
+          "id": "7edfe58e-83f1-4d18-af55-ecd47f0eea8d",
+          "type": "combat_stat"
+        }
+      },
+      "equip_stat": {
+        "data": {
+          "id": "e87a927b-1cc9-4a0a-b94e-2f5fbe6f5ec9",
+          "type": "equip_stat"
+        }
+      },
+      "attack_stat": {
+        "data": {
+          "id": "325a4e18-62d8-4651-bdd3-c19052cfb438",
+          "type": "attack_stat"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Aviansie#Level_71"
+    },
+    "meta": {
+      "incomplete": true
+    }
+  },
+  "included": [
+    {
+      "id": "325a4e18-62d8-4651-bdd3-c19052cfb438",
+      "type": "attack_stat",
+      "attributes": {
+        "attack_speed": 4,
+        "attack_type": "monster",
+        "special": null,
+        "stances": [
+          {
+            "name": "Monster ranged",
+            "style": null,
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": null,
+            "combat_accuracy_stat": "ranged_level",
+            "combat_damage_stat": "ranged_level",
+            "equip_accuracy_stat": "ranged_attack",
+            "equip_damage_stat": "ranged_attack",
+            "target_equip_defense_stat": "ranged_defense"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7edfe58e-83f1-4d18-af55-ecd47f0eea8d",
+      "type": "monster_combat_stat",
+      "attributes": {
+        "hitpoints_level": 63,
+        "attack_level": 1,
+        "strength_level": 1,
+        "defense_level": 55,
+        "magic_level": 1,
+        "ranged_level": 86,
+        "prayer_level": 0
+      }
+    },
+    {
+      "id": "e87a927b-1cc9-4a0a-b94e-2f5fbe6f5ec9",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 0,
+        "slash_attack": 0,
+        "crush_attack": 0,
+        "ranged_attack": 0,
+        "magic_attack": 0,
+        "stab_defense": 0,
+        "slash_defense": 0,
+        "crush_defense": 0,
+        "ranged_defense": 0,
+        "magic_defense": 0,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

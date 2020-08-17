@@ -1,0 +1,31 @@
+{
+  "data": {
+    "id": "1677",
+    "type": "item",
+    "attributes": {
+      "uuid": "49d1a418-1b62-41d6-bfaa-24850892f63f",
+      "name": "Emerald amulet (u)",
+      "members": false,
+      "release_date": "2001-05-08",
+      "examine": "It needs a string so I can wear it.",
+      "tradeable": false,
+      "ge_tradeable": false,
+      "lowalch": 510,
+      "highalch": 765,
+      "is_equip": false,
+      "is_weapon": false,
+      "icon_base64": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABOElEQVR4Xu2VzytEURiG71nO4i7O4tbt1Kn5C+SfYWFKij17tpKUKCORbBCRJQshRFMTmfxoIpKaJkvZKItX3/26jXtoVu6Z1PfUu7ud8/R97+kGgSAIwr9E4fd4hy+endGYGA8xNhpiZDjE0GABvT0F31IKO9sR1lYjLC1q6OkoE5Kib7qLRR9SCifHMfZ2sxLfk07Kw5QU6ncG1UqMo8P4h0gHpBSenwyuawaV8/ZCqdRAf65SCq9Ni8cHg6vL9kJTkzopurVBnn1S+PzoQuPFJKtzJSgb6xFWljXKczqRSmVyEiIU3t9ssjqSuqjGODvlTlHR6fWlUgvzLSH3lD+GV0dStzctqYN9ltra5JWV+jw/f5pUs2FxX2cpEqLpcIk5Oa/Lxf1dZCU8yzDu5R2REARBEATmC564FlECzw7aAAAAAElFTkSuQmCC"
+    },
+    "relationships": {
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Emerald_amulet_(u)"
+    },
+    "meta": {
+      "incomplete": false
+    }
+  },
+  "included": [
+
+  ]
+}

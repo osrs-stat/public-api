@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "id": "592-4987",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Ashes",
+        "monster_name": "Chronozon (Normal)"
+      }
+    },
+    {
+      "id": "781-4987",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Crest part (Johnathon)",
+        "monster_name": "Chronozon (Normal)"
+      }
+    },
+    {
+      "id": "11941-4987",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Chronozon (Normal)"
+      }
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "id": "4812-872",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Zogre bones",
+        "monster_name": "Skogre"
+      }
+    },
+    {
+      "id": "4812-866",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Zogre bones",
+        "monster_name": "Zogre"
+      }
+    }
+  ]
+}

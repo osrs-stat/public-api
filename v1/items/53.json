@@ -1,0 +1,31 @@
+{
+  "data": {
+    "id": "53",
+    "type": "item",
+    "attributes": {
+      "uuid": "07ca7a7e-512b-4ab2-b791-e40ee7d68f8f",
+      "name": "Headless arrow",
+      "members": true,
+      "release_date": "2002-03-25",
+      "examine": "A wooden arrow shaft with flights attached.",
+      "tradeable": false,
+      "ge_tradeable": false,
+      "lowalch": 0,
+      "highalch": 0,
+      "is_equip": false,
+      "is_weapon": false,
+      "icon_base64": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAAhUlEQVR4Xu3RIQ6AMAyF4VUikPM7AgIuwCG4A4L7y5GuWRYqKhBrxfuSGZj485YSQEhU9RdHVK99qUGiRsxWSjv6xmTfIP13MqxjwToWrGPBOhasY8E6FokJEjRinry2w9/0rUlIIk4J4XMsyXMlqneWZ9IxTkGsr8HP5B4jekCIGAD44QU6yIRXax0AlAAAAABJRU5ErkJggg=="
+    },
+    "relationships": {
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Headless_arrow"
+    },
+    "meta": {
+      "incomplete": false
+    }
+  },
+  "included": [
+
+  ]
+}

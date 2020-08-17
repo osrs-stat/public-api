@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "id": "4517-477",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.125"
+      },
+      "meta": {
+        "item_name": "Giant frog legs",
+        "monster_name": "Giant frog (Level 99)"
+      }
+    },
+    {
+      "id": "4517-8700",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.125"
+      },
+      "meta": {
+        "item_name": "Giant frog legs",
+        "monster_name": "Giant frog (Level 13)"
+      }
+    }
+  ]
+}

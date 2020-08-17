@@ -1,0 +1,150 @@
+{
+  "data": {
+    "id": "7932",
+    "type": "monster",
+    "attributes": {
+      "uuid": "9ee140ef-093e-4030-b49a-254155bf53db",
+      "name": "Revenant pyrefiend",
+      "members": true,
+      "release_date": "2017-11-23",
+      "examine": "The ghost of a pyrefiend slain long ago.",
+      "combat_level_override": null,
+      "max_hit_override": 8,
+      "target_types": [
+        "undead"
+      ],
+      "classification_types": [
+        "revenant",
+        "ghost"
+      ],
+      "poison": false,
+      "immune_poison": false,
+      "immune_venom": false,
+      "slayer_xp": 48.0,
+      "slayer_level": 1,
+      "slayer_masters": [
+        "turael",
+        "krystilia",
+        "mazchna"
+      ],
+      "icon_base64": null
+    },
+    "relationships": {
+      "combat_stat": {
+        "data": {
+          "id": "6239a584-f547-4411-9d8f-e564ce1122fd",
+          "type": "combat_stat"
+        }
+      },
+      "equip_stat": {
+        "data": {
+          "id": "c08970fc-f1fa-40a3-92b6-affd45b11280",
+          "type": "equip_stat"
+        }
+      },
+      "attack_stat": {
+        "data": {
+          "id": "dc6d12ae-c182-4cb9-86a3-9df43e698676",
+          "type": "attack_stat"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Revenant_pyrefiend"
+    },
+    "meta": {
+      "incomplete": true
+    }
+  },
+  "included": [
+    {
+      "id": "dc6d12ae-c182-4cb9-86a3-9df43e698676",
+      "type": "attack_stat",
+      "attributes": {
+        "attack_speed": 5,
+        "attack_type": "monster",
+        "special": null,
+        "stances": [
+          {
+            "name": "Monster crush",
+            "style": null,
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": null,
+            "combat_accuracy_stat": "attack_level",
+            "combat_damage_stat": "strength_level",
+            "equip_accuracy_stat": "crush_attack",
+            "equip_damage_stat": "crush_attack",
+            "target_equip_defense_stat": "crush_defense"
+          },
+          {
+            "name": "Monster ranged",
+            "style": null,
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": null,
+            "combat_accuracy_stat": "ranged_level",
+            "combat_damage_stat": "ranged_level",
+            "equip_accuracy_stat": "ranged_attack",
+            "equip_damage_stat": "ranged_attack",
+            "target_equip_defense_stat": "ranged_defense"
+          },
+          {
+            "name": "Monster magic",
+            "style": null,
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": null,
+            "combat_accuracy_stat": "magic_level",
+            "combat_damage_stat": "magic_level",
+            "equip_accuracy_stat": "magic_attack",
+            "equip_damage_stat": "magic_attack",
+            "target_equip_defense_stat": "magic_defense"
+          }
+        ]
+      }
+    },
+    {
+      "id": "6239a584-f547-4411-9d8f-e564ce1122fd",
+      "type": "monster_combat_stat",
+      "attributes": {
+        "hitpoints_level": 48,
+        "attack_level": 60,
+        "strength_level": 40,
+        "defense_level": 33,
+        "magic_level": 67,
+        "ranged_level": 40,
+        "prayer_level": 0
+      }
+    },
+    {
+      "id": "c08970fc-f1fa-40a3-92b6-affd45b11280",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 0,
+        "slash_attack": 0,
+        "crush_attack": 0,
+        "ranged_attack": 0,
+        "magic_attack": 0,
+        "stab_defense": 45,
+        "slash_defense": 40,
+        "crush_defense": 50,
+        "ranged_defense": 10,
+        "magic_defense": 15,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

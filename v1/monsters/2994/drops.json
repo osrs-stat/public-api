@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "id": "401-2994",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Seaweed",
+        "monster_name": "Giant lobster (Ghosts Ahoy)"
+      }
+    },
+    {
+      "id": "13459-2994",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.04"
+      },
+      "meta": {
+        "item_name": "Ensouled scorpion head (Item)",
+        "monster_name": "Giant lobster (Ghosts Ahoy)"
+      }
+    }
+  ]
+}

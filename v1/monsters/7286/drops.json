@@ -1,0 +1,484 @@
+{
+  "data": [
+    {
+      "id": "219-7286",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 20,
+        "quantity_max": null,
+        "rarity": "0.07"
+      },
+      "meta": {
+        "item_name": "Grimy torstol",
+        "monster_name": "Skotizo"
+      }
+    },
+    {
+      "id": "19683-7286",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "catacombs-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.02"
+      },
+      "meta": {
+        "item_name": "Dark totem top",
+        "monster_name": "Skotizo"
+      }
+    },
+    {
+      "id": "19681-7286",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "catacombs-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.02"
+      },
+      "meta": {
+        "item_name": "Dark totem middle",
+        "monster_name": "Skotizo"
+      }
+    },
+    {
+      "id": "19679-7286",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "catacombs-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.02"
+      },
+      "meta": {
+        "item_name": "Dark totem base",
+        "monster_name": "Skotizo"
+      }
+    },
+    {
+      "id": "19677-7286",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "catacombs-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 4,
+        "rarity": "0.03"
+      },
+      "meta": {
+        "item_name": "Ancient shard",
+        "monster_name": "Skotizo"
+      }
+    },
+    {
+      "id": "19701-7286",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0004"
+      },
+      "meta": {
+        "item_name": "Jar of darkness",
+        "monster_name": "Skotizo"
+      }
+    },
+    {
+      "id": "19685-7286",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Dark totem",
+        "monster_name": "Skotizo"
+      }
+    },
+    {
+      "id": "21273-7286",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0153846153846154"
+      },
+      "meta": {
+        "item_name": "Skotos",
+        "monster_name": "Skotizo"
+      }
+    },
+    {
+      "id": "23083-7286",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.017921146953405"
+      },
+      "meta": {
+        "item_name": "Brimstone key",
+        "monster_name": "Skotizo"
+      }
+    },
+    {
+      "id": "21275-7286",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.04"
+      },
+      "meta": {
+        "item_name": "Dark claw",
+        "monster_name": "Skotizo"
+      }
+    },
+    {
+      "id": "12073-7286",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.2"
+      },
+      "meta": {
+        "item_name": "Clue scroll (elite)",
+        "monster_name": "Skotizo"
+      }
+    },
+    {
+      "id": "2366-7286",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.01"
+      },
+      "meta": {
+        "item_name": "Shield left half",
+        "monster_name": "Skotizo"
+      }
+    },
+    {
+      "id": "6571-7286",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.001"
+      },
+      "meta": {
+        "item_name": "Uncut onyx",
+        "monster_name": "Skotizo"
+      }
+    },
+    {
+      "id": "8782-7286",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 150,
+        "quantity_max": null,
+        "rarity": "0.07"
+      },
+      "meta": {
+        "item_name": "Mahogany plank",
+        "monster_name": "Skotizo"
+      }
+    },
+    {
+      "id": "13439-7286",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 60,
+        "quantity_max": null,
+        "rarity": "0.07"
+      },
+      "meta": {
+        "item_name": "Raw anglerfish",
+        "monster_name": "Skotizo"
+      }
+    },
+    {
+      "id": "2363-7286",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 20,
+        "quantity_max": null,
+        "rarity": "0.07"
+      },
+      "meta": {
+        "item_name": "Runite bar",
+        "monster_name": "Skotizo"
+      }
+    },
+    {
+      "id": "449-7286",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 75,
+        "quantity_max": null,
+        "rarity": "0.07"
+      },
+      "meta": {
+        "item_name": "Adamantite ore",
+        "monster_name": "Skotizo"
+      }
+    },
+    {
+      "id": "9194-7286",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 40,
+        "quantity_max": null,
+        "rarity": "0.07"
+      },
+      "meta": {
+        "item_name": "Onyx bolt tips",
+        "monster_name": "Skotizo"
+      }
+    },
+    {
+      "id": "1391-7286",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 25,
+        "quantity_max": null,
+        "rarity": "0.07"
+      },
+      "meta": {
+        "item_name": "Battlestaff",
+        "monster_name": "Skotizo"
+      }
+    },
+    {
+      "id": "1631-7286",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.01"
+      },
+      "meta": {
+        "item_name": "Uncut dragonstone",
+        "monster_name": "Skotizo"
+      }
+    },
+    {
+      "id": "3051-7286",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 20,
+        "quantity_max": null,
+        "rarity": "0.07"
+      },
+      "meta": {
+        "item_name": "Grimy snapdragon",
+        "monster_name": "Skotizo"
+      }
+    },
+    {
+      "id": "565-7286",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 450,
+        "quantity_max": null,
+        "rarity": "0.07"
+      },
+      "meta": {
+        "item_name": "Blood rune (Regular)",
+        "monster_name": "Skotizo"
+      }
+    },
+    {
+      "id": "566-7286",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 450,
+        "quantity_max": null,
+        "rarity": "0.07"
+      },
+      "meta": {
+        "item_name": "Soul rune",
+        "monster_name": "Skotizo"
+      }
+    },
+    {
+      "id": "560-7286",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 500,
+        "quantity_max": null,
+        "rarity": "0.07"
+      },
+      "meta": {
+        "item_name": "Death rune (Regular)",
+        "monster_name": "Skotizo"
+      }
+    },
+    {
+      "id": "1093-7286",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.07"
+      },
+      "meta": {
+        "item_name": "Rune plateskirt",
+        "monster_name": "Skotizo"
+      }
+    },
+    {
+      "id": "1079-7286",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.07"
+      },
+      "meta": {
+        "item_name": "Rune platelegs",
+        "monster_name": "Skotizo"
+      }
+    },
+    {
+      "id": "1127-7286",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.07"
+      },
+      "meta": {
+        "item_name": "Rune platebody",
+        "monster_name": "Skotizo"
+      }
+    },
+    {
+      "id": "19677-7286",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Ancient shard",
+        "monster_name": "Skotizo"
+      }
+    },
+    {
+      "id": "2722-7286",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Clue scroll (hard)",
+        "monster_name": "Skotizo"
+      }
+    },
+    {
+      "id": "592-7286",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Ashes",
+        "monster_name": "Skotizo"
+      }
+    }
+  ]
+}

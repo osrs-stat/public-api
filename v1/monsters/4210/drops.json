@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "id": "526-4210",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Bones",
+        "monster_name": "Possessed Priest"
+      }
+    },
+    {
+      "id": "995-4210",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 1260,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Possessed Priest"
+      }
+    }
+  ]
+}

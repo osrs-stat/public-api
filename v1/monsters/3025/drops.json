@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "id": "23182-3025",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.01"
+      },
+      "meta": {
+        "item_name": "Clue scroll (beginner)",
+        "monster_name": "Poison Scorpion"
+      }
+    },
+    {
+      "id": "13459-3025",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.04"
+      },
+      "meta": {
+        "item_name": "Ensouled scorpion head (Item)",
+        "monster_name": "Poison Scorpion"
+      }
+    }
+  ]
+}

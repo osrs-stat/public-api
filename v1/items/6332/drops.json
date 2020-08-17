@@ -1,0 +1,212 @@
+{
+  "data": [
+    {
+      "id": "6332-6076",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Mahogany logs",
+        "monster_name": "Tortoise (With riders)"
+      }
+    },
+    {
+      "id": "6332-7795",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 25,
+        "quantity_max": 30,
+        "rarity": "0.0373134328358209"
+      },
+      "meta": {
+        "item_name": "Mahogany logs",
+        "monster_name": "Ancient Wyvern"
+      }
+    },
+    {
+      "id": "6332-319",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 150,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Mahogany logs",
+        "monster_name": "Corporeal Beast"
+      }
+    },
+    {
+      "id": "6332-6075",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Mahogany logs",
+        "monster_name": "Tortoise (No riders)"
+      }
+    },
+    {
+      "id": "6332-6076",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Mahogany logs",
+        "monster_name": "Tortoise (With riders)"
+      }
+    },
+    {
+      "id": "6332-7401",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Mahogany logs",
+        "monster_name": "Cave abomination"
+      }
+    },
+    {
+      "id": "6332-6503",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 400,
+        "quantity_max": null,
+        "rarity": "0.046875"
+      },
+      "meta": {
+        "item_name": "Mahogany logs",
+        "monster_name": "Callisto"
+      }
+    },
+    {
+      "id": "6332-1042",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0232558139534884"
+      },
+      "meta": {
+        "item_name": "Mahogany logs",
+        "monster_name": "Jungle horror"
+      }
+    },
+    {
+      "id": "6332-1047",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Mahogany logs",
+        "monster_name": "Cave horror"
+      }
+    },
+    {
+      "id": "6332-2042",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 50,
+        "quantity_max": null,
+        "rarity": "0.032258064516129"
+      },
+      "meta": {
+        "item_name": "Mahogany logs",
+        "monster_name": "Zulrah (Serpentine)"
+      }
+    },
+    {
+      "id": "6332-2043",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 50,
+        "quantity_max": null,
+        "rarity": "0.032258064516129"
+      },
+      "meta": {
+        "item_name": "Mahogany logs",
+        "monster_name": "Zulrah (Magma)"
+      }
+    },
+    {
+      "id": "6332-2044",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 50,
+        "quantity_max": null,
+        "rarity": "0.032258064516129"
+      },
+      "meta": {
+        "item_name": "Mahogany logs",
+        "monster_name": "Zulrah (Tanzanite)"
+      }
+    },
+    {
+      "id": "6332-6075",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Mahogany logs",
+        "monster_name": "Tortoise (No riders)"
+      }
+    }
+  ]
+}

@@ -1,0 +1,708 @@
+{
+  "data": [
+    {
+      "id": "23083-7241",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0131302521008403"
+      },
+      "meta": {
+        "item_name": "Brimstone key",
+        "monster_name": "Abyssal demon (Catacombs of Kourend)"
+      }
+    },
+    {
+      "id": "2722-7241",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Clue scroll (hard)",
+        "monster_name": "Abyssal demon (Catacombs of Kourend)"
+      }
+    },
+    {
+      "id": "12073-7241",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000833333333333333"
+      },
+      "meta": {
+        "item_name": "Clue scroll (elite)",
+        "monster_name": "Abyssal demon (Catacombs of Kourend)"
+      }
+    },
+    {
+      "id": "217-7241",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00347873213030232"
+      },
+      "meta": {
+        "item_name": "Grimy dwarf weed",
+        "monster_name": "Abyssal demon (Catacombs of Kourend)"
+      }
+    },
+    {
+      "id": "2485-7241",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00347873213030232"
+      },
+      "meta": {
+        "item_name": "Grimy lantadyme",
+        "monster_name": "Abyssal demon (Catacombs of Kourend)"
+      }
+    },
+    {
+      "id": "215-7241",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.004638671875"
+      },
+      "meta": {
+        "item_name": "Grimy cadantine",
+        "monster_name": "Abyssal demon (Catacombs of Kourend)"
+      }
+    },
+    {
+      "id": "19679-7241",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "catacombs-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00285714285714286"
+      },
+      "meta": {
+        "item_name": "Dark totem base",
+        "monster_name": "Abyssal demon (Catacombs of Kourend)"
+      }
+    },
+    {
+      "id": "592-7241",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Ashes",
+        "monster_name": "Abyssal demon (Catacombs of Kourend)"
+      }
+    },
+    {
+      "id": "1283-7241",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Black sword",
+        "monster_name": "Abyssal demon (Catacombs of Kourend)"
+      }
+    },
+    {
+      "id": "1365-7241",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Steel battleaxe",
+        "monster_name": "Abyssal demon (Catacombs of Kourend)"
+      }
+    },
+    {
+      "id": "201-7241",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0278337708606788"
+      },
+      "meta": {
+        "item_name": "Grimy marrentill",
+        "monster_name": "Abyssal demon (Catacombs of Kourend)"
+      }
+    },
+    {
+      "id": "1361-7241",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Black axe",
+        "monster_name": "Abyssal demon (Catacombs of Kourend)"
+      }
+    },
+    {
+      "id": "199-7241",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.037109375"
+      },
+      "meta": {
+        "item_name": "Grimy guam leaf",
+        "monster_name": "Abyssal demon (Catacombs of Kourend)"
+      }
+    },
+    {
+      "id": "7979-7241",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000166666666666667"
+      },
+      "meta": {
+        "item_name": "Abyssal head",
+        "monster_name": "Abyssal demon (Catacombs of Kourend)"
+      }
+    },
+    {
+      "id": "19683-7241",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "catacombs-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00285714285714286"
+      },
+      "meta": {
+        "item_name": "Dark totem top",
+        "monster_name": "Abyssal demon (Catacombs of Kourend)"
+      }
+    },
+    {
+      "id": "19677-7241",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "catacombs-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00428571428571429"
+      },
+      "meta": {
+        "item_name": "Ancient shard",
+        "monster_name": "Abyssal demon (Catacombs of Kourend)"
+      }
+    },
+    {
+      "id": "19681-7241",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "catacombs-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00285714285714286"
+      },
+      "meta": {
+        "item_name": "Dark totem middle",
+        "monster_name": "Abyssal demon (Catacombs of Kourend)"
+      }
+    },
+    {
+      "id": "203-7241",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0208743495992125"
+      },
+      "meta": {
+        "item_name": "Grimy tarromin",
+        "monster_name": "Abyssal demon (Catacombs of Kourend)"
+      }
+    },
+    {
+      "id": "205-7241",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0162350978890955"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Abyssal demon (Catacombs of Kourend)"
+      }
+    },
+    {
+      "id": "207-7241",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0127523625429553"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Abyssal demon (Catacombs of Kourend)"
+      }
+    },
+    {
+      "id": "1197-7241",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Mithril kiteshield",
+        "monster_name": "Abyssal demon (Catacombs of Kourend)"
+      }
+    },
+    {
+      "id": "1113-7241",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Rune chainbody",
+        "monster_name": "Abyssal demon (Catacombs of Kourend)"
+      }
+    },
+    {
+      "id": "209-7241",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00927734375"
+      },
+      "meta": {
+        "item_name": "Grimy irit leaf",
+        "monster_name": "Abyssal demon (Catacombs of Kourend)"
+      }
+    },
+    {
+      "id": "211-7241",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00695909517112049"
+      },
+      "meta": {
+        "item_name": "Grimy avantoe",
+        "monster_name": "Abyssal demon (Catacombs of Kourend)"
+      }
+    },
+    {
+      "id": "213-7241",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00579833984375"
+      },
+      "meta": {
+        "item_name": "Grimy kwuarm",
+        "monster_name": "Abyssal demon (Catacombs of Kourend)"
+      }
+    },
+    {
+      "id": "1147-7241",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Rune med helm",
+        "monster_name": "Abyssal demon (Catacombs of Kourend)"
+      }
+    },
+    {
+      "id": "4151-7241",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.001953125"
+      },
+      "meta": {
+        "item_name": "Abyssal whip",
+        "monster_name": "Abyssal demon (Catacombs of Kourend)"
+      }
+    },
+    {
+      "id": "13265-7241",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00003125"
+      },
+      "meta": {
+        "item_name": "Abyssal dagger (Unpoisoned)",
+        "monster_name": "Abyssal demon (Catacombs of Kourend)"
+      }
+    },
+    {
+      "id": "556-7241",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 50,
+        "quantity_max": null,
+        "rarity": "0.0625"
+      },
+      "meta": {
+        "item_name": "Air rune (Regular)",
+        "monster_name": "Abyssal demon (Catacombs of Kourend)"
+      }
+    },
+    {
+      "id": "562-7241",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.046875"
+      },
+      "meta": {
+        "item_name": "Chaos rune (Regular)",
+        "monster_name": "Abyssal demon (Catacombs of Kourend)"
+      }
+    },
+    {
+      "id": "565-7241",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 7,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Blood rune (Regular)",
+        "monster_name": "Abyssal demon (Catacombs of Kourend)"
+      }
+    },
+    {
+      "id": "563-7241",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Law rune",
+        "monster_name": "Abyssal demon (Catacombs of Kourend)"
+      }
+    },
+    {
+      "id": "7936-7241",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 60,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Pure essence",
+        "monster_name": "Abyssal demon (Catacombs of Kourend)"
+      }
+    },
+    {
+      "id": "2361-7241",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Adamantite bar",
+        "monster_name": "Abyssal demon (Catacombs of Kourend)"
+      }
+    },
+    {
+      "id": "379-7241",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Lobster",
+        "monster_name": "Abyssal demon (Catacombs of Kourend)"
+      }
+    },
+    {
+      "id": "1454-7241",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Cosmic talisman",
+        "monster_name": "Abyssal demon (Catacombs of Kourend)"
+      }
+    },
+    {
+      "id": "1452-7241",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Chaos talisman",
+        "monster_name": "Abyssal demon (Catacombs of Kourend)"
+      }
+    },
+    {
+      "id": "13507-7241",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.04"
+      },
+      "meta": {
+        "item_name": "Ensouled abyssal head (Drop)",
+        "monster_name": "Abyssal demon (Catacombs of Kourend)"
+      }
+    },
+    {
+      "id": "133-7241",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Defence potion (3 dose)",
+        "monster_name": "Abyssal demon (Catacombs of Kourend)"
+      }
+    },
+    {
+      "id": "995-7241",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 132,
+        "quantity_max": null,
+        "rarity": "0.2734375"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Abyssal demon (Catacombs of Kourend)"
+      }
+    },
+    {
+      "id": "995-7241",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 220,
+        "quantity_max": null,
+        "rarity": "0.0703125"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Abyssal demon (Catacombs of Kourend)"
+      }
+    },
+    {
+      "id": "995-7241",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 30,
+        "quantity_max": null,
+        "rarity": "0.0546875"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Abyssal demon (Catacombs of Kourend)"
+      }
+    },
+    {
+      "id": "995-7241",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 44,
+        "quantity_max": null,
+        "rarity": "0.046875"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Abyssal demon (Catacombs of Kourend)"
+      }
+    },
+    {
+      "id": "995-7241",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 460,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Abyssal demon (Catacombs of Kourend)"
+      }
+    }
+  ]
+}

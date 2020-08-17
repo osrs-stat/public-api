@@ -1,0 +1,388 @@
+{
+  "data": [
+    {
+      "id": "3051-965",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 25,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Grimy snapdragon",
+        "monster_name": "Kalphite Queen (Airborne)"
+      }
+    },
+    {
+      "id": "3051-1863",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.046875"
+      },
+      "meta": {
+        "item_name": "Grimy snapdragon",
+        "monster_name": "Tree spirit (Level 49)"
+      }
+    },
+    {
+      "id": "3051-1864",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.046875"
+      },
+      "meta": {
+        "item_name": "Grimy snapdragon",
+        "monster_name": "Tree spirit (Level 79)"
+      }
+    },
+    {
+      "id": "3051-1865",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.046875"
+      },
+      "meta": {
+        "item_name": "Grimy snapdragon",
+        "monster_name": "Tree spirit (Level 120)"
+      }
+    },
+    {
+      "id": "3051-1866",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.046875"
+      },
+      "meta": {
+        "item_name": "Grimy snapdragon",
+        "monster_name": "Tree spirit (Level 159)"
+      }
+    },
+    {
+      "id": "3051-8713",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 5,
+        "quantity_max": 10,
+        "rarity": "0.00909090909090909"
+      },
+      "meta": {
+        "item_name": "Grimy snapdragon",
+        "monster_name": "Sarachnis"
+      }
+    },
+    {
+      "id": "3051-8621",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 10,
+        "quantity_max": 15,
+        "rarity": "0.0123762376237624"
+      },
+      "meta": {
+        "item_name": "Grimy snapdragon",
+        "monster_name": "Alchemical Hydra (Two heads)"
+      }
+    },
+    {
+      "id": "3051-8618",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 10,
+        "quantity_max": 15,
+        "rarity": "0.0123762376237624"
+      },
+      "meta": {
+        "item_name": "Grimy snapdragon",
+        "monster_name": "Alchemical Hydra (Three heads)"
+      }
+    },
+    {
+      "id": "3051-8617",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 10,
+        "quantity_max": 15,
+        "rarity": "0.0123762376237624"
+      },
+      "meta": {
+        "item_name": "Grimy snapdragon",
+        "monster_name": "Alchemical Hydra (Four heads)"
+      }
+    },
+    {
+      "id": "3051-8615",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 10,
+        "quantity_max": 15,
+        "rarity": "0.0123762376237624"
+      },
+      "meta": {
+        "item_name": "Grimy snapdragon",
+        "monster_name": "Alchemical Hydra (Five heads)"
+      }
+    },
+    {
+      "id": "3051-8612",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.0088261253309797"
+      },
+      "meta": {
+        "item_name": "Grimy snapdragon",
+        "monster_name": "Drake"
+      }
+    },
+    {
+      "id": "3051-8609",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.0168634064080944"
+      },
+      "meta": {
+        "item_name": "Grimy snapdragon",
+        "monster_name": "Hydra"
+      }
+    },
+    {
+      "id": "3051-8031",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015748031496063"
+      },
+      "meta": {
+        "item_name": "Grimy snapdragon",
+        "monster_name": "Rune dragon"
+      }
+    },
+    {
+      "id": "3051-8030",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0181818181818182"
+      },
+      "meta": {
+        "item_name": "Grimy snapdragon",
+        "monster_name": "Adamant dragon"
+      }
+    },
+    {
+      "id": "3051-7286",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 20,
+        "quantity_max": null,
+        "rarity": "0.07"
+      },
+      "meta": {
+        "item_name": "Grimy snapdragon",
+        "monster_name": "Skotizo"
+      }
+    },
+    {
+      "id": "3051-6504",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 100,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Grimy snapdragon",
+        "monster_name": "Venenatis"
+      }
+    },
+    {
+      "id": "3051-2215",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.062992125984252"
+      },
+      "meta": {
+        "item_name": "Grimy snapdragon",
+        "monster_name": "General Graardor"
+      }
+    },
+    {
+      "id": "3051-9258",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0144230769230769"
+      },
+      "meta": {
+        "item_name": "Grimy snapdragon",
+        "monster_name": "Basilisk Sentinel"
+      }
+    },
+    {
+      "id": "3051-9293",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0144230769230769"
+      },
+      "meta": {
+        "item_name": "Grimy snapdragon",
+        "monster_name": "Basilisk Knight"
+      }
+    },
+    {
+      "id": "3051-10400",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.0088261253309797"
+      },
+      "meta": {
+        "item_name": "Grimy snapdragon",
+        "monster_name": "Guardian Drake"
+      }
+    },
+    {
+      "id": "3051-10402",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.0168634064080944"
+      },
+      "meta": {
+        "item_name": "Grimy snapdragon",
+        "monster_name": "Colossal Hydra"
+      }
+    },
+    {
+      "id": "3051-494",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 6,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Grimy snapdragon",
+        "monster_name": "Kraken (Kraken)"
+      }
+    },
+    {
+      "id": "3051-963",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 25,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Grimy snapdragon",
+        "monster_name": "Kalphite Queen (Crawling)"
+      }
+    },
+    {
+      "id": "3051-1861",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.046875"
+      },
+      "meta": {
+        "item_name": "Grimy snapdragon",
+        "monster_name": "Tree spirit (Level 14)"
+      }
+    }
+  ]
+}

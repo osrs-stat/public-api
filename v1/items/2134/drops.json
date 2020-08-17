@@ -1,0 +1,116 @@
+{
+  "data": [
+    {
+      "id": "2134-2862",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Raw rat meat",
+        "monster_name": "Giant rat (Level 6)"
+      }
+    },
+    {
+      "id": "2134-2856",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Raw rat meat",
+        "monster_name": "Giant rat (Level 3)"
+      }
+    },
+    {
+      "id": "2134-2510",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Raw rat meat",
+        "monster_name": "Giant rat (Level 26)"
+      }
+    },
+    {
+      "id": "2134-4501",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 18,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Raw rat meat",
+        "monster_name": "Brine rat"
+      }
+    },
+    {
+      "id": "2134-4501",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Raw rat meat",
+        "monster_name": "Brine rat"
+      }
+    },
+    {
+      "id": "2134-3607",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Raw rat meat",
+        "monster_name": "Dungeon rat (Small)"
+      }
+    },
+    {
+      "id": "2134-2865",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Raw rat meat",
+        "monster_name": "Dungeon rat (Large)"
+      }
+    }
+  ]
+}

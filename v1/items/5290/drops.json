@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "id": "5290-2043",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.0241935483870968"
+      },
+      "meta": {
+        "item_name": "Calquat tree seed",
+        "monster_name": "Zulrah (Magma)"
+      }
+    },
+    {
+      "id": "5290-2042",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.0241935483870968"
+      },
+      "meta": {
+        "item_name": "Calquat tree seed",
+        "monster_name": "Zulrah (Serpentine)"
+      }
+    },
+    {
+      "id": "5290-2044",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.0241935483870968"
+      },
+      "meta": {
+        "item_name": "Calquat tree seed",
+        "monster_name": "Zulrah (Tanzanite)"
+      }
+    }
+  ]
+}

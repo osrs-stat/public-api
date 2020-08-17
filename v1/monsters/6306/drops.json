@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "526-6306",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Bones",
+        "monster_name": "Evil Chicken (Hard)"
+      }
+    },
+    {
+      "id": "7477-6306",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Evil chicken's egg",
+        "monster_name": "Evil Chicken (Hard)"
+      }
+    },
+    {
+      "id": "314-6306",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 100,
+        "quantity_max": 200,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Feather",
+        "monster_name": "Evil Chicken (Hard)"
+      }
+    },
+    {
+      "id": "2138-6306",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Raw chicken",
+        "monster_name": "Evil Chicken (Hard)"
+      }
+    }
+  ]
+}

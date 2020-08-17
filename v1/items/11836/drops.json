@@ -1,0 +1,100 @@
+{
+  "data": [
+    {
+      "id": "11836-2215",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0026246719160105"
+      },
+      "meta": {
+        "item_name": "Bandos boots",
+        "monster_name": "General Graardor"
+      }
+    },
+    {
+      "id": "11836-6588",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000001"
+      },
+      "meta": {
+        "item_name": "Bandos boots",
+        "monster_name": "Bandosian guard"
+      }
+    },
+    {
+      "id": "11836-6587",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000001"
+      },
+      "meta": {
+        "item_name": "Bandos boots",
+        "monster_name": "Armadylian guard"
+      }
+    },
+    {
+      "id": "11836-2218",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000062000124000248"
+      },
+      "meta": {
+        "item_name": "Bandos boots",
+        "monster_name": "Sergeant Grimspike"
+      }
+    },
+    {
+      "id": "11836-2217",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000062000124000248"
+      },
+      "meta": {
+        "item_name": "Bandos boots",
+        "monster_name": "Sergeant Steelwill"
+      }
+    },
+    {
+      "id": "11836-2216",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000062000124000248"
+      },
+      "meta": {
+        "item_name": "Bandos boots",
+        "monster_name": "Sergeant Strongstack"
+      }
+    }
+  ]
+}

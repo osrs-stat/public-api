@@ -1,0 +1,100 @@
+{
+  "data": [
+    {
+      "id": "21622-7792",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 20,
+        "quantity_max": 60,
+        "rarity": "0.016260162601626"
+      },
+      "meta": {
+        "item_name": "Volcanic ash",
+        "monster_name": "Long-tailed Wyvern"
+      }
+    },
+    {
+      "id": "21622-7793",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 20,
+        "quantity_max": 60,
+        "rarity": "0.016260162601626"
+      },
+      "meta": {
+        "item_name": "Volcanic ash",
+        "monster_name": "Taloned Wyvern"
+      }
+    },
+    {
+      "id": "21622-7794",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 20,
+        "quantity_max": 60,
+        "rarity": "0.016260162601626"
+      },
+      "meta": {
+        "item_name": "Volcanic ash",
+        "monster_name": "Spitting Wyvern"
+      }
+    },
+    {
+      "id": "21622-7795",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 80,
+        "quantity_max": 120,
+        "rarity": "0.0447761194029851"
+      },
+      "meta": {
+        "item_name": "Volcanic ash",
+        "monster_name": "Ancient Wyvern"
+      }
+    },
+    {
+      "id": "21622-7797",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.0208333333333333"
+      },
+      "meta": {
+        "item_name": "Volcanic ash",
+        "monster_name": "Ancient Zygomite"
+      }
+    },
+    {
+      "id": "21622-7799",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.046875"
+      },
+      "meta": {
+        "item_name": "Volcanic ash",
+        "monster_name": "Ammonite Crab"
+      }
+    }
+  ]
+}

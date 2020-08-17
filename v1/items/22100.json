@@ -1,0 +1,31 @@
+{
+  "data": {
+    "id": "22100",
+    "type": "item",
+    "attributes": {
+      "uuid": "836e1c3c-141d-4c39-9438-eeea8f435eec",
+      "name": "Dragon metal slice",
+      "members": true,
+      "release_date": "2018-01-04",
+      "examine": "A badly damaged slice of dragon metal.",
+      "tradeable": false,
+      "ge_tradeable": false,
+      "lowalch": 40000,
+      "highalch": 60000,
+      "is_equip": false,
+      "is_weapon": false,
+      "icon_base64": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABe0lEQVR4Xu2VMWvDMBCF5dGDhw6BLoFMHY0pZAmFQIeQQlLS0JRClg5dOhQ69P+rfpJffD6cUCrbuKAHDwcplj7dnc7GREVFRf0bJbbdg8tvvM5Se5+Zhm+MaQHsFTKx89TYp6vUbkqgl93u5Nf93j4+rN3zNs/tvCic8b8ewPyCxxLkY9I0Yejn7fb0+72cxzs4ACLaEVTi0iEhPidZwxKIlvPHw8FFb7lYhEIlLuQ4nYbQxqa0hsUYnpvVSkTqz2A11Nd11moJoOdoALl6q9KHWgyCwkIA0xtpKD3OOZly1BXWuguFQnG+VYt9lxvRl4AkDIqcEUKLmFYOguJt49W/BMQxCZOnvl/VIIktZjNnvdsv5dPHFJ4DkjCIKg5AGA0SAEPVUWKxn4sOYFDAgGHNdAhC+ZvHtGkgRgYAgEEf01HRK3ag+uaxT2mYNpCeYCh/82Tj5IeWDXAgEMoDIUqEkJ14QBApX0/yqz5wVNo0GpBaowGJihq7fgCnjbRiTeC14gAAAABJRU5ErkJggg=="
+    },
+    "relationships": {
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Dragon_metal_slice"
+    },
+    "meta": {
+      "incomplete": false
+    }
+  },
+  "included": [
+
+  ]
+}

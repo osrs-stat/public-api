@@ -1,0 +1,31 @@
+{
+  "data": {
+    "id": "45",
+    "type": "item",
+    "attributes": {
+      "uuid": "9a6d34e7-b3d3-4f25-8825-90832efb41ed",
+      "name": "Opal bolt tips",
+      "members": true,
+      "release_date": "2004-03-03",
+      "examine": "Opal bolt tips.",
+      "tradeable": false,
+      "ge_tradeable": false,
+      "lowalch": 2,
+      "highalch": 4,
+      "is_equip": false,
+      "is_weapon": false,
+      "icon_base64": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAApUlEQVR4Xu3RSwrCMBSF4dyddAluSxBBEFFEECxUCz7wEZRW6KATpROFjgq6tCMxA8EFeAOeDzpIJv3JMYaIiOjXBN83igRx3EYgUQJrh5gnnXdQK4q0owRZNsZ61QshSFBVCxTFFLttX3s2QdNY3G9LlOUMp+MIadrVfCXB85Gjrje4XhKc80kIs7l5/OdmO+wH2kHGuJ/7AB/2OQcgqBgiIvo3L/ozW67rBmNoAAAAAElFTkSuQmCC"
+    },
+    "relationships": {
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Opal_bolt_tips"
+    },
+    "meta": {
+      "incomplete": false
+    }
+  },
+  "included": [
+
+  ]
+}

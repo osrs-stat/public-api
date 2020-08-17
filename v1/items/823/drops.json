@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "id": "823-1098",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.078125"
+      },
+      "meta": {
+        "item_name": "Adamant dart tip",
+        "monster_name": "Sea Snake Hatchling"
+      }
+    },
+    {
+      "id": "823-1097",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.078125"
+      },
+      "meta": {
+        "item_name": "Adamant dart tip",
+        "monster_name": "Sea Snake Young"
+      }
+    },
+    {
+      "id": "823-1101",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.078125"
+      },
+      "meta": {
+        "item_name": "Adamant dart tip",
+        "monster_name": "Giant Sea Snake"
+      }
+    }
+  ]
+}

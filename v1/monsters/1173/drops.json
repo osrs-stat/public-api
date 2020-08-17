@@ -1,0 +1,100 @@
+{
+  "data": [
+    {
+      "id": "2832-1173",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Key (Treasure Trails) (Medium)",
+        "monster_name": "Chicken"
+      }
+    },
+    {
+      "id": "23182-1173",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00333333333333333"
+      },
+      "meta": {
+        "item_name": "Clue scroll (beginner)",
+        "monster_name": "Chicken"
+      }
+    },
+    {
+      "id": "526-1173",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Bones",
+        "monster_name": "Chicken"
+      }
+    },
+    {
+      "id": "2138-1173",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Raw chicken",
+        "monster_name": "Chicken"
+      }
+    },
+    {
+      "id": "314-1173",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.5"
+      },
+      "meta": {
+        "item_name": "Feather",
+        "monster_name": "Chicken"
+      }
+    },
+    {
+      "id": "314-1173",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 15,
+        "quantity_max": null,
+        "rarity": "0.25"
+      },
+      "meta": {
+        "item_name": "Feather",
+        "monster_name": "Chicken"
+      }
+    }
+  ]
+}

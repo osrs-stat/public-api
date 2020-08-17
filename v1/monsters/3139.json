@@ -1,0 +1,134 @@
+{
+  "data": {
+    "id": "3139",
+    "type": "monster",
+    "attributes": {
+      "uuid": "668f9d18-d1cb-49f7-8be6-63772eb584a3",
+      "name": "Pyrefiend (GWD)",
+      "members": true,
+      "release_date": "2013-10-17",
+      "examine": "A small fire demon.",
+      "combat_level_override": null,
+      "max_hit_override": 4,
+      "target_types": [
+        "fiery"
+      ],
+      "classification_types": [
+        "pyrefiend"
+      ],
+      "poison": false,
+      "immune_poison": false,
+      "immune_venom": false,
+      "slayer_xp": 45.0,
+      "slayer_level": 30,
+      "slayer_masters": [
+        "mazchna",
+        "vannaka",
+        "chaeldar"
+      ],
+      "icon_base64": null
+    },
+    "relationships": {
+      "combat_stat": {
+        "data": {
+          "id": "ff365f90-2b8f-434f-a0ba-7e3da35202cc",
+          "type": "combat_stat"
+        }
+      },
+      "equip_stat": {
+        "data": {
+          "id": "a5bb4e1e-7deb-445e-b4f2-11e4cdd68c72",
+          "type": "equip_stat"
+        }
+      },
+      "attack_stat": {
+        "data": {
+          "id": "ebbc780b-b673-43e5-a3a4-63a547873e95",
+          "type": "attack_stat"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Pyrefiend#GWD"
+    },
+    "meta": {
+      "incomplete": true
+    }
+  },
+  "included": [
+    {
+      "id": "ebbc780b-b673-43e5-a3a4-63a547873e95",
+      "type": "attack_stat",
+      "attributes": {
+        "attack_speed": 4,
+        "attack_type": "monster",
+        "special": null,
+        "stances": [
+          {
+            "name": "Monster melee",
+            "style": null,
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": null,
+            "combat_accuracy_stat": "attack_level",
+            "combat_damage_stat": "strength_level",
+            "equip_accuracy_stat": "crush_attack",
+            "equip_damage_stat": "crush_attack",
+            "target_equip_defense_stat": "crush_defense"
+          },
+          {
+            "name": "Monster magic",
+            "style": null,
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": null,
+            "combat_accuracy_stat": "magic_level",
+            "combat_damage_stat": "magic_level",
+            "equip_accuracy_stat": "magic_attack",
+            "equip_damage_stat": "magic_attack",
+            "target_equip_defense_stat": "magic_defense"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ff365f90-2b8f-434f-a0ba-7e3da35202cc",
+      "type": "monster_combat_stat",
+      "attributes": {
+        "hitpoints_level": 48,
+        "attack_level": 60,
+        "strength_level": 36,
+        "defense_level": 22,
+        "magic_level": 1,
+        "ranged_level": 1,
+        "prayer_level": 0
+      }
+    },
+    {
+      "id": "a5bb4e1e-7deb-445e-b4f2-11e4cdd68c72",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 0,
+        "slash_attack": 0,
+        "crush_attack": 0,
+        "ranged_attack": 0,
+        "magic_attack": 0,
+        "stab_defense": 10,
+        "slash_defense": 10,
+        "crush_defense": 10,
+        "ranged_defense": 10,
+        "magic_defense": 0,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

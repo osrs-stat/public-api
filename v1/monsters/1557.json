@@ -1,0 +1,103 @@
+{
+  "data": {
+    "id": "1557",
+    "type": "monster",
+    "attributes": {
+      "uuid": "3f8ba20b-fb27-4166-b655-bcdd825cdd69",
+      "name": "Water wizard",
+      "members": false,
+      "release_date": "2005-09-26",
+      "examine": "Hydro-power!",
+      "combat_level_override": null,
+      "max_hit_override": 6,
+      "target_types": [
+
+      ],
+      "classification_types": [
+
+      ],
+      "poison": false,
+      "immune_poison": false,
+      "immune_venom": false,
+      "slayer_xp": null,
+      "slayer_level": null,
+      "slayer_masters": [
+
+      ],
+      "icon_base64": null
+    },
+    "relationships": {
+      "combat_stat": {
+        "data": {
+          "id": "6f954e78-fc1a-441f-ba84-24c4271eee90",
+          "type": "combat_stat"
+        }
+      },
+      "equip_stat": {
+        "data": {
+          "id": "2d6acac1-b92e-4142-8c07-fbe50be207d2",
+          "type": "equip_stat"
+        }
+      },
+      "attack_stat": {
+        "data": {
+          "id": "f8b76442-cb67-423d-88de-f56a54145cd6",
+          "type": "attack_stat"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Water_wizard"
+    },
+    "meta": {
+      "incomplete": true
+    }
+  },
+  "included": [
+    {
+      "id": "f8b76442-cb67-423d-88de-f56a54145cd6",
+      "type": "attack_stat",
+      "attributes": {
+        "attack_speed": 4,
+        "attack_type": "monster",
+        "special": null,
+        "stances": [
+
+        ]
+      }
+    },
+    {
+      "id": "6f954e78-fc1a-441f-ba84-24c4271eee90",
+      "type": "monster_combat_stat",
+      "attributes": {
+        "hitpoints_level": 25,
+        "attack_level": 5,
+        "strength_level": 5,
+        "defense_level": 10,
+        "magic_level": 10,
+        "ranged_level": 0,
+        "prayer_level": 0
+      }
+    },
+    {
+      "id": "2d6acac1-b92e-4142-8c07-fbe50be207d2",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 0,
+        "slash_attack": 0,
+        "crush_attack": 0,
+        "ranged_attack": 0,
+        "magic_attack": 0,
+        "stab_defense": 0,
+        "slash_defense": 0,
+        "crush_defense": 0,
+        "ranged_defense": 0,
+        "magic_defense": 15,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

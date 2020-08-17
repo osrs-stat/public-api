@@ -1,0 +1,84 @@
+{
+  "data": [
+    {
+      "id": "809-2097",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 12,
+        "quantity_max": null,
+        "rarity": "0.06"
+      },
+      "meta": {
+        "item_name": "Mithril dart (Unpoisoned)",
+        "monster_name": "Cyclops (Level 56)"
+      }
+    },
+    {
+      "id": "809-2137",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 12,
+        "quantity_max": null,
+        "rarity": "0.06"
+      },
+      "meta": {
+        "item_name": "Mithril dart (Unpoisoned)",
+        "monster_name": "Cyclops (Level 106)"
+      }
+    },
+    {
+      "id": "809-2235",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 12,
+        "quantity_max": null,
+        "rarity": "0.06"
+      },
+      "meta": {
+        "item_name": "Mithril dart (Unpoisoned)",
+        "monster_name": "Cyclops (Level 81)"
+      }
+    },
+    {
+      "id": "809-2464",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 12,
+        "quantity_max": null,
+        "rarity": "0.06"
+      },
+      "meta": {
+        "item_name": "Mithril dart (Unpoisoned)",
+        "monster_name": "Cyclops (Level 76)"
+      }
+    },
+    {
+      "id": "809-2054",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 300,
+        "quantity_max": null,
+        "rarity": "0.078125"
+      },
+      "meta": {
+        "item_name": "Mithril dart (Unpoisoned)",
+        "monster_name": "Chaos Elemental"
+      }
+    }
+  ]
+}

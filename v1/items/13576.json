@@ -1,0 +1,140 @@
+{
+  "data": {
+    "id": "13576",
+    "type": "item",
+    "attributes": {
+      "uuid": "53f3deb2-4e82-49e3-83d3-deffdf7a5dda",
+      "name": "Dragon warhammer",
+      "members": true,
+      "release_date": "2016-01-21",
+      "examine": "Spikey, close combat weapon.",
+      "tradeable": false,
+      "ge_tradeable": false,
+      "lowalch": 48000,
+      "highalch": 72000,
+      "is_equip": true,
+      "is_weapon": true,
+      "icon_base64": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAByUlEQVR4Xt2Vz0sCQRTH9x33sAcPgggLnjpGBzskSSIEJhEomKEZZSWYaUZGJQUdlA4dokN/72u/M427mdWl2Rn6wpdhf8D78L5vZhznf4pY2goRL7sOnyRdG6CIlxyHmwmXb1OeAFrJZExCEe8GMKMA5j7t8WNaQs3/FaOIDyNAkw+HMzVvrSKuBDD9pDcDihrvAYt/sGLONEIR+8HsKKBhKjSeYczVtueKSDFnMcwYiYJFT+4wZXQDMAABMGDQQQC9ZRI6uwQRrwdRIA4YACVPgmAFjNqFAIW1d2k1AIFRGDHC6JoCQncUzKuf4Gc/hi4pqEGnI4DQNazdpNyBAInGqrlLEPGw2+Xr/rkopoAQHeICGFZYwWgEIr7q9WYwspDchWqXPaXDgdYOMxmPP8GExeS1oqC+ftci4uP9Jp8etL6Zi/CUjgXmYTT6taB6v+jbH4p4s1DgvWr1R5iYRLyRy3GzVhPr4qhiE/FaNitgonNjFAgwR42GHTA7WyVu1etiZxmPCvMyD2MUCPeUNVEBBKfxzcXAZFThKQuQu8uhye4QF/N5rpTLYm5eplOTMEoSCkBn7bbJqKKSV4QF3YnKKhgpq2Di1jutNnDGtxK7uwAAAABJRU5ErkJggg=="
+    },
+    "relationships": {
+      "equip": {
+        "data": {
+          "id": "0e893525-41b4-4976-9274-e0764d0da28f",
+          "type": "equip"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Dragon_warhammer"
+    },
+    "meta": {
+      "incomplete": false
+    }
+  },
+  "included": [
+    {
+      "id": "0e893525-41b4-4976-9274-e0764d0da28f",
+      "type": "equip",
+      "attributes": {
+        "slot": "weapon",
+        "passive_effect": null,
+        "requirements": {
+          "attack_level": 60
+        }
+      },
+      "relationships": {
+        "equip_stat": {
+          "data": {
+            "id": "bc8148cb-adaa-43ed-a3a7-d806f813b81e",
+            "type": "equip_stat"
+          }
+        },
+        "attack_stat": {
+          "data": {
+            "id": "6e8a57cc-7b2e-4db2-b272-8741d5d3df06",
+            "type": "attack_stat"
+          }
+        }
+      }
+    },
+    {
+      "id": "6e8a57cc-7b2e-4db2-b272-8741d5d3df06",
+      "type": "attack_stat",
+      "attributes": {
+        "attack_speed": 6,
+        "attack_type": "blunt_weapon",
+        "special": null,
+        "stances": [
+          {
+            "name": "pound",
+            "style": "accurate",
+            "boosts": {
+              "accuracy": 3
+            },
+            "experience": {
+              "hitpoints": 1.3333,
+              "attack": 4
+            },
+            "combat_accuracy_stat": "attack_level",
+            "combat_damage_stat": "strength_level",
+            "equip_accuracy_stat": "crush_attack",
+            "equip_damage_stat": "crush_attack",
+            "target_equip_defense_stat": "crush_defense"
+          },
+          {
+            "name": "pummel",
+            "style": "aggressive",
+            "boosts": {
+              "damage": 3
+            },
+            "experience": {
+              "hitpoints": 1.3333,
+              "strength": 4
+            },
+            "combat_accuracy_stat": "attack_level",
+            "combat_damage_stat": "strength_level",
+            "equip_accuracy_stat": "crush_attack",
+            "equip_damage_stat": "crush_attack",
+            "target_equip_defense_stat": "crush_defense"
+          },
+          {
+            "name": "block",
+            "style": "defensive",
+            "boosts": {
+              "defense": 3
+            },
+            "experience": {
+              "hitpoints": 1.3333,
+              "defense": 4
+            },
+            "combat_accuracy_stat": "attack_level",
+            "combat_damage_stat": "strength_level",
+            "equip_accuracy_stat": "crush_attack",
+            "equip_damage_stat": "crush_attack",
+            "target_equip_defense_stat": "crush_defense"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bc8148cb-adaa-43ed-a3a7-d806f813b81e",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": -4,
+        "slash_attack": -4,
+        "crush_attack": 95,
+        "ranged_attack": 0,
+        "magic_attack": -4,
+        "stab_defense": 0,
+        "slash_defense": 0,
+        "crush_defense": 0,
+        "ranged_defense": 0,
+        "magic_defense": 0,
+        "melee_strength": 85,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

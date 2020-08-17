@@ -1,0 +1,76 @@
+{
+  "data": {
+    "id": "4113",
+    "type": "item",
+    "attributes": {
+      "uuid": "aaa1c66c-961b-46a8-90f9-d8dad380a655",
+      "name": "Mystic robe bottom (light)",
+      "members": true,
+      "release_date": "2005-01-26",
+      "examine": "The lower half of a bright magical robe.",
+      "tradeable": false,
+      "ge_tradeable": false,
+      "lowalch": 32000,
+      "highalch": 48000,
+      "is_equip": true,
+      "is_weapon": false,
+      "icon_base64": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAChUlEQVR4Xt2XwVIaQRCGmQfIYQ979xHyAl58l9wSvRAkBoOooIgCUdcQUTEEDApKaVFa+nJt/T1pMgySxGRmteyqLixYdj7+/rt7TSRefijS+eShQTrFkKIPwU+oJwNT1G82qd9q8evp0SG1CyF9TplgscEp6jYa1Ds+Zhi8Auikvk/foogauYDKyYAyb17FAaX4cEnACFDra42B6tUq1cpbFG0UGej11JQvqFEYqCQp6uxXKgxSyeeHMJ6ARmFMoM5BnRq7u7S3WWKQ4lKWVhcWfKqjPYO0YZAoFcq0s77OMNlUiubnZn0B/YIxoSapk898pMVk0le5xmHstNVBqaCQB3XUsINsiIfUqRYKVFrOsUIz09OugfTQE6BJYKKOAG2trNDap0XX5dITlqfwb6CgDtr8cHubZw5KBiCUzaE6ii7bbU5ZCZPAAPT9yx4DeZo9iganHbrq/OBkoAlQohCA4CEBQtkcqaPoptej6+4ZJ8CGQBaULFJMZlMh+AhlcwCk6K7fp9uLc4YSsJHSGWBQyNxb4iFzb/0HkGLJ8UtxgAkmQDaU+AfX47vSZaZ/7FMeEYrlxk1xc/xiwCHho4egTEOLfwDkYHcpaq4G1C2FdFkNabATMhhKgIPE3DaUaWhci+9gIDopFx6i8DCFJz08hl6UNdxNFPIBNpQAwdDiISjkcFXoIVjPBqwWoOQ9fXP9t0DB1DIYAQUlYej37966AkokzINN2eXm5ucoD1LWBkqG6eygXONhg4yH4taWhIcAl0un3anzuND/7qC9kVAG/vGizt+F7ko0ARYotrq52e2rYwhFtUwwkk7N/G+hzY1xYTeBfWVsIV335yaIOZ4NiI+4B7nhBP/PleztAAAAAElFTkSuQmCC"
+    },
+    "relationships": {
+      "equip": {
+        "data": {
+          "id": "efd39c85-b5d0-4f89-bdb1-6a578debd554",
+          "type": "equip"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Mystic_robe_bottom_(light)"
+    },
+    "meta": {
+      "incomplete": false
+    }
+  },
+  "included": [
+    {
+      "id": "efd39c85-b5d0-4f89-bdb1-6a578debd554",
+      "type": "equip",
+      "attributes": {
+        "slot": "legs",
+        "passive_effect": null,
+        "requirements": {
+          "magic_level": 40,
+          "defense_level": 20
+        }
+      },
+      "relationships": {
+        "equip_stat": {
+          "data": {
+            "id": "8b9685b1-71b4-4639-8b46-ce54cf4fe379",
+            "type": "equip_stat"
+          }
+        }
+      }
+    },
+    {
+      "id": "8b9685b1-71b4-4639-8b46-ce54cf4fe379",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 0,
+        "slash_attack": 0,
+        "crush_attack": 0,
+        "ranged_attack": 0,
+        "magic_attack": 15,
+        "stab_defense": 0,
+        "slash_defense": 0,
+        "crush_defense": 0,
+        "ranged_defense": 0,
+        "magic_defense": 15,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

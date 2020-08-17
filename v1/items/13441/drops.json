@@ -1,0 +1,20 @@
+{
+  "data": [
+    {
+      "id": "13441-7275",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.0625"
+      },
+      "meta": {
+        "item_name": "Anglerfish",
+        "monster_name": "Brutal black dragon"
+      }
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "data": {
+    "id": "7706",
+    "type": "monster",
+    "attributes": {
+      "uuid": "b08b0ca7-befb-43e4-9e74-3d85808b9bf6",
+      "name": "TzKal-Zuk",
+      "members": true,
+      "release_date": "2017-06-01",
+      "examine": "An ancient adversary to the TzHaar.",
+      "combat_level_override": 1400,
+      "max_hit_override": 251,
+      "target_types": [
+
+      ],
+      "classification_types": [
+        "tzhaar"
+      ],
+      "poison": false,
+      "immune_poison": true,
+      "immune_venom": true,
+      "slayer_xp": 101890.0,
+      "slayer_level": 1,
+      "slayer_masters": [
+        "chaeldar",
+        "nieve",
+        "duradel"
+      ],
+      "icon_base64": null
+    },
+    "relationships": {
+      "combat_stat": {
+        "data": {
+          "id": "e2485271-a527-4a94-9089-f22601391194",
+          "type": "combat_stat"
+        }
+      },
+      "equip_stat": {
+        "data": {
+          "id": "45247a97-d2c0-46f5-8bd3-5f73b16b4623",
+          "type": "equip_stat"
+        }
+      },
+      "attack_stat": {
+        "data": {
+          "id": "56534678-db1d-40ae-ac35-2939df655421",
+          "type": "attack_stat"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/TzKal-Zuk"
+    },
+    "meta": {
+      "incomplete": true
+    }
+  },
+  "included": [
+    {
+      "id": "56534678-db1d-40ae-ac35-2939df655421",
+      "type": "attack_stat",
+      "attributes": {
+        "attack_speed": 10,
+        "attack_type": "monster",
+        "special": null,
+        "stances": [
+          {
+            "name": "Monster ranged",
+            "style": null,
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": null,
+            "combat_accuracy_stat": "ranged_level",
+            "combat_damage_stat": "ranged_level",
+            "equip_accuracy_stat": "ranged_attack",
+            "equip_damage_stat": "ranged_attack",
+            "target_equip_defense_stat": "ranged_defense"
+          },
+          {
+            "name": "Monster magic",
+            "style": null,
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": null,
+            "combat_accuracy_stat": "magic_level",
+            "combat_damage_stat": "magic_level",
+            "equip_accuracy_stat": "magic_attack",
+            "equip_damage_stat": "magic_attack",
+            "target_equip_defense_stat": "magic_defense"
+          }
+        ]
+      }
+    },
+    {
+      "id": "e2485271-a527-4a94-9089-f22601391194",
+      "type": "monster_combat_stat",
+      "attributes": {
+        "hitpoints_level": 1200,
+        "attack_level": 350,
+        "strength_level": 600,
+        "defense_level": 260,
+        "magic_level": 150,
+        "ranged_level": 400,
+        "prayer_level": 0
+      }
+    },
+    {
+      "id": "45247a97-d2c0-46f5-8bd3-5f73b16b4623",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 0,
+        "slash_attack": 0,
+        "crush_attack": 0,
+        "ranged_attack": 550,
+        "magic_attack": 550,
+        "stab_defense": 0,
+        "slash_defense": 0,
+        "crush_defense": 0,
+        "ranged_defense": 100,
+        "magic_defense": 350,
+        "melee_strength": 200,
+        "ranged_strength": 200,
+        "magic_bonus": 450,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

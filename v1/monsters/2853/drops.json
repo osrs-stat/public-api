@@ -1,0 +1,372 @@
+{
+  "data": [
+    {
+      "id": "187-2853",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Weapon poison",
+        "monster_name": "Shadow warrior"
+      }
+    },
+    {
+      "id": "560-2853",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Death rune (Regular)",
+        "monster_name": "Shadow warrior"
+      }
+    },
+    {
+      "id": "556-2853",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 45,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Air rune (Regular)",
+        "monster_name": "Shadow warrior"
+      }
+    },
+    {
+      "id": "565-2853",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.046875"
+      },
+      "meta": {
+        "item_name": "Blood rune (Regular)",
+        "monster_name": "Shadow warrior"
+      }
+    },
+    {
+      "id": "564-2853",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.0703125"
+      },
+      "meta": {
+        "item_name": "Cosmic rune",
+        "monster_name": "Shadow warrior"
+      }
+    },
+    {
+      "id": "581-2853",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Black robe",
+        "monster_name": "Shadow warrior"
+      }
+    },
+    {
+      "id": "1297-2853",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Black longsword",
+        "monster_name": "Shadow warrior"
+      }
+    },
+    {
+      "id": "869-2853",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Black knife (Unpoisoned)",
+        "monster_name": "Shadow warrior"
+      }
+    },
+    {
+      "id": "1233-2853",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Black dagger (Poison)",
+        "monster_name": "Shadow warrior"
+      }
+    },
+    {
+      "id": "1245-2853",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Adamant spear (Unpoisoned)",
+        "monster_name": "Shadow warrior"
+      }
+    },
+    {
+      "id": "199-2853",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03515625"
+      },
+      "meta": {
+        "item_name": "Grimy guam leaf",
+        "monster_name": "Shadow warrior"
+      }
+    },
+    {
+      "id": "2359-2853",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Mithril bar",
+        "monster_name": "Shadow warrior"
+      }
+    },
+    {
+      "id": "217-2853",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00329564096554957"
+      },
+      "meta": {
+        "item_name": "Grimy dwarf weed",
+        "monster_name": "Shadow warrior"
+      }
+    },
+    {
+      "id": "2485-2853",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00329564096554957"
+      },
+      "meta": {
+        "item_name": "Grimy lantadyme",
+        "monster_name": "Shadow warrior"
+      }
+    },
+    {
+      "id": "215-2853",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00439453125"
+      },
+      "meta": {
+        "item_name": "Grimy cadantine",
+        "monster_name": "Shadow warrior"
+      }
+    },
+    {
+      "id": "213-2853",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0054931640625"
+      },
+      "meta": {
+        "item_name": "Grimy kwuarm",
+        "monster_name": "Shadow warrior"
+      }
+    },
+    {
+      "id": "211-2853",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00659282700421941"
+      },
+      "meta": {
+        "item_name": "Grimy avantoe",
+        "monster_name": "Shadow warrior"
+      }
+    },
+    {
+      "id": "209-2853",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0087890625"
+      },
+      "meta": {
+        "item_name": "Grimy irit leaf",
+        "monster_name": "Shadow warrior"
+      }
+    },
+    {
+      "id": "207-2853",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0120811855670103"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Shadow warrior"
+      }
+    },
+    {
+      "id": "205-2853",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0153806190528273"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Shadow warrior"
+      }
+    },
+    {
+      "id": "203-2853",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0197756996203066"
+      },
+      "meta": {
+        "item_name": "Grimy tarromin",
+        "monster_name": "Shadow warrior"
+      }
+    },
+    {
+      "id": "201-2853",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.026368835552222"
+      },
+      "meta": {
+        "item_name": "Grimy marrentill",
+        "monster_name": "Shadow warrior"
+      }
+    },
+    {
+      "id": "995-2853",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 8,
+        "quantity_max": null,
+        "rarity": "0.3671875"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Shadow warrior"
+      }
+    }
+  ]
+}

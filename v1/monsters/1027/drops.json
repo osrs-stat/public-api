@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "526-1027",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Bones",
+        "monster_name": "Guard Bandit"
+      }
+    },
+    {
+      "id": "21257-1027",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00334448160535117"
+      },
+      "meta": {
+        "item_name": "Slayer's enchantment",
+        "monster_name": "Guard Bandit"
+      }
+    },
+    {
+      "id": "23490-1027",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000901550667147494"
+      },
+      "meta": {
+        "item_name": "Larran's key",
+        "monster_name": "Guard Bandit"
+      }
+    },
+    {
+      "id": "11941-1027",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.166666666666667"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Guard Bandit"
+      }
+    }
+  ]
+}

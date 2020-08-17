@@ -1,0 +1,836 @@
+{
+  "data": [
+    {
+      "id": "11941-7245",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Greater demon (Level 100)"
+      }
+    },
+    {
+      "id": "2722-7245",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Clue scroll (hard)",
+        "monster_name": "Greater demon (Level 100)"
+      }
+    },
+    {
+      "id": "19677-7245",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "catacombs-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0038961038961039"
+      },
+      "meta": {
+        "item_name": "Ancient shard",
+        "monster_name": "Greater demon (Level 100)"
+      }
+    },
+    {
+      "id": "19679-7245",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "catacombs-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0025974025974026"
+      },
+      "meta": {
+        "item_name": "Dark totem base",
+        "monster_name": "Greater demon (Level 100)"
+      }
+    },
+    {
+      "id": "19681-7245",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "catacombs-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0025974025974026"
+      },
+      "meta": {
+        "item_name": "Dark totem middle",
+        "monster_name": "Greater demon (Level 100)"
+      }
+    },
+    {
+      "id": "19683-7245",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "catacombs-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0025974025974026"
+      },
+      "meta": {
+        "item_name": "Dark totem top",
+        "monster_name": "Greater demon (Level 100)"
+      }
+    },
+    {
+      "id": "23490-7245",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0105263157894737"
+      },
+      "meta": {
+        "item_name": "Larran's key",
+        "monster_name": "Greater demon (Level 100)"
+      }
+    },
+    {
+      "id": "21257-7245",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0043859649122807"
+      },
+      "meta": {
+        "item_name": "Slayer's enchantment",
+        "monster_name": "Greater demon (Level 100)"
+      }
+    },
+    {
+      "id": "1197-7245",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Mithril kiteshield",
+        "monster_name": "Greater demon (Level 100)"
+      }
+    },
+    {
+      "id": "1073-7245",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Adamant platelegs",
+        "monster_name": "Greater demon (Level 100)"
+      }
+    },
+    {
+      "id": "1163-7245",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Rune full helm",
+        "monster_name": "Greater demon (Level 100)"
+      }
+    },
+    {
+      "id": "565-7245",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 20,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Blood rune (Regular)",
+        "monster_name": "Greater demon (Level 100)"
+      }
+    },
+    {
+      "id": "385-7245",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Shark",
+        "monster_name": "Greater demon (Level 100)"
+      }
+    },
+    {
+      "id": "7946-7245",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Monkfish",
+        "monster_name": "Greater demon (Level 100)"
+      }
+    },
+    {
+      "id": "2357-7245",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Gold bar",
+        "monster_name": "Greater demon (Level 100)"
+      }
+    },
+    {
+      "id": "444-7245",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Gold ore",
+        "monster_name": "Greater demon (Level 100)"
+      }
+    },
+    {
+      "id": "13501-7245",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.025"
+      },
+      "meta": {
+        "item_name": "Ensouled demon head (Drop)",
+        "monster_name": "Greater demon (Level 100)"
+      }
+    },
+    {
+      "id": "1365-7245",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Steel battleaxe",
+        "monster_name": "Greater demon (Level 100)"
+      }
+    },
+    {
+      "id": "1353-7245",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Steel axe",
+        "monster_name": "Greater demon (Level 100)"
+      }
+    },
+    {
+      "id": "1311-7245",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Steel 2h sword",
+        "monster_name": "Greater demon (Level 100)"
+      }
+    },
+    {
+      "id": "592-7245",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Ashes",
+        "monster_name": "Greater demon (Level 100)"
+      }
+    },
+    {
+      "id": "995-7245",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 132,
+        "quantity_max": null,
+        "rarity": "0.3125"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Greater demon (Level 100)"
+      }
+    },
+    {
+      "id": "995-7245",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 500,
+        "quantity_max": 999,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Greater demon (Level 100)"
+      }
+    },
+    {
+      "id": "995-7245",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 500,
+        "quantity_max": 749,
+        "rarity": "0.078125"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Greater demon (Level 100)"
+      }
+    },
+    {
+      "id": "995-7245",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 150,
+        "quantity_max": null,
+        "rarity": "0.0546875"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Greater demon (Level 100)"
+      }
+    },
+    {
+      "id": "995-7245",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 250,
+        "quantity_max": null,
+        "rarity": "0.2265625"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Greater demon (Level 100)"
+      }
+    },
+    {
+      "id": "995-7245",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 250,
+        "quantity_max": 499,
+        "rarity": "0.34375"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Greater demon (Level 100)"
+      }
+    },
+    {
+      "id": "995-7245",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 460,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Greater demon (Level 100)"
+      }
+    },
+    {
+      "id": "995-7245",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 11,
+        "quantity_max": null,
+        "rarity": "0.0546875"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Greater demon (Level 100)"
+      }
+    },
+    {
+      "id": "995-7245",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 220,
+        "quantity_max": null,
+        "rarity": "0.078125"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Greater demon (Level 100)"
+      }
+    },
+    {
+      "id": "995-7245",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 44,
+        "quantity_max": null,
+        "rarity": "0.2265625"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Greater demon (Level 100)"
+      }
+    },
+    {
+      "id": "554-7245",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 75,
+        "quantity_max": null,
+        "rarity": "0.0625"
+      },
+      "meta": {
+        "item_name": "Fire rune (Regular)",
+        "monster_name": "Greater demon (Level 100)"
+      }
+    },
+    {
+      "id": "562-7245",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 15,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Chaos rune (Regular)",
+        "monster_name": "Greater demon (Level 100)"
+      }
+    },
+    {
+      "id": "560-7245",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Death rune (Regular)",
+        "monster_name": "Greater demon (Level 100)"
+      }
+    },
+    {
+      "id": "554-7245",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 37,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Fire rune (Regular)",
+        "monster_name": "Greater demon (Level 100)"
+      }
+    },
+    {
+      "id": "361-7245",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Tuna",
+        "monster_name": "Greater demon (Level 100)"
+      }
+    },
+    {
+      "id": "2357-7245",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Gold bar",
+        "monster_name": "Greater demon (Level 100)"
+      }
+    },
+    {
+      "id": "1734-7245",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Thread",
+        "monster_name": "Greater demon (Level 100)"
+      }
+    },
+    {
+      "id": "11941-7245",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Greater demon (Level 100)"
+      }
+    },
+    {
+      "id": "13501-7245",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.025"
+      },
+      "meta": {
+        "item_name": "Ensouled demon head (Drop)",
+        "monster_name": "Greater demon (Level 100)"
+      }
+    },
+    {
+      "id": "23083-7245",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00886524822695036"
+      },
+      "meta": {
+        "item_name": "Brimstone key",
+        "monster_name": "Greater demon (Level 100)"
+      }
+    },
+    {
+      "id": "2722-7245",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Clue scroll (hard)",
+        "monster_name": "Greater demon (Level 100)"
+      }
+    },
+    {
+      "id": "592-7245",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Ashes",
+        "monster_name": "Greater demon (Level 100)"
+      }
+    },
+    {
+      "id": "1317-7245",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Adamant 2h sword",
+        "monster_name": "Greater demon (Level 100)"
+      }
+    },
+    {
+      "id": "1357-7245",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Adamant axe",
+        "monster_name": "Greater demon (Level 100)"
+      }
+    },
+    {
+      "id": "1371-7245",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Adamant battleaxe",
+        "monster_name": "Greater demon (Level 100)"
+      }
+    },
+    {
+      "id": "1199-7245",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Adamant kiteshield",
+        "monster_name": "Greater demon (Level 100)"
+      }
+    },
+    {
+      "id": "1073-7245",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Adamant platelegs",
+        "monster_name": "Greater demon (Level 100)"
+      }
+    },
+    {
+      "id": "1163-7245",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Rune full helm",
+        "monster_name": "Greater demon (Level 100)"
+      }
+    },
+    {
+      "id": "562-7245",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 40,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Chaos rune (Regular)",
+        "monster_name": "Greater demon (Level 100)"
+      }
+    },
+    {
+      "id": "560-7245",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Death rune (Regular)",
+        "monster_name": "Greater demon (Level 100)"
+      }
+    },
+    {
+      "id": "560-7245",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 15,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Death rune (Regular)",
+        "monster_name": "Greater demon (Level 100)"
+      }
+    }
+  ]
+}

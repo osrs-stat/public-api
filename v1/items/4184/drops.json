@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "id": "4184-1275",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Cavern key",
+        "monster_name": "Experiment (Level 25 (sheep))"
+      }
+    },
+    {
+      "id": "4184-1274",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Cavern key",
+        "monster_name": "Experiment (Level 25 (spider))"
+      }
+    },
+    {
+      "id": "4184-1273",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Cavern key",
+        "monster_name": "Experiment (Level 51)"
+      }
+    }
+  ]
+}

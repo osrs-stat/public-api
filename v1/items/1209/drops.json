@@ -1,0 +1,868 @@
+{
+  "data": [
+    {
+      "id": "1209-592",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Mithril dagger (Unpoisoned)",
+        "monster_name": "Zombie pirate (28)"
+      }
+    },
+    {
+      "id": "1209-593",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Mithril dagger (Unpoisoned)",
+        "monster_name": "Zombie pirate (29)"
+      }
+    },
+    {
+      "id": "1209-595",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Mithril dagger (Unpoisoned)",
+        "monster_name": "Zombie pirate (30)"
+      }
+    },
+    {
+      "id": "1209-597",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Mithril dagger (Unpoisoned)",
+        "monster_name": "Zombie pirate (31)"
+      }
+    },
+    {
+      "id": "1209-599",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Mithril dagger (Unpoisoned)",
+        "monster_name": "Zombie pirate (32)"
+      }
+    },
+    {
+      "id": "1209-614",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Mithril dagger (Unpoisoned)",
+        "monster_name": "Zombie pirate (2)"
+      }
+    },
+    {
+      "id": "1209-615",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Mithril dagger (Unpoisoned)",
+        "monster_name": "Zombie pirate (3)"
+      }
+    },
+    {
+      "id": "1209-616",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Mithril dagger (Unpoisoned)",
+        "monster_name": "Zombie pirate (4)"
+      }
+    },
+    {
+      "id": "1209-617",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Mithril dagger (Unpoisoned)",
+        "monster_name": "Zombie pirate (5)"
+      }
+    },
+    {
+      "id": "1209-618",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Mithril dagger (Unpoisoned)",
+        "monster_name": "Zombie pirate (6)"
+      }
+    },
+    {
+      "id": "1209-2097",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.01"
+      },
+      "meta": {
+        "item_name": "Mithril dagger (Unpoisoned)",
+        "monster_name": "Cyclops (Level 56)"
+      }
+    },
+    {
+      "id": "1209-2137",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.01"
+      },
+      "meta": {
+        "item_name": "Mithril dagger (Unpoisoned)",
+        "monster_name": "Cyclops (Level 106)"
+      }
+    },
+    {
+      "id": "1209-2235",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.01"
+      },
+      "meta": {
+        "item_name": "Mithril dagger (Unpoisoned)",
+        "monster_name": "Cyclops (Level 81)"
+      }
+    },
+    {
+      "id": "1209-2464",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.01"
+      },
+      "meta": {
+        "item_name": "Mithril dagger (Unpoisoned)",
+        "monster_name": "Cyclops (Level 76)"
+      }
+    },
+    {
+      "id": "1209-6449",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Mithril dagger (Unpoisoned)",
+        "monster_name": "Zombie (Tarn's Lair) (Level 40)"
+      }
+    },
+    {
+      "id": "1209-6450",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Mithril dagger (Unpoisoned)",
+        "monster_name": "Zombie (Tarn's Lair) (Level 42)"
+      }
+    },
+    {
+      "id": "1209-6451",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Mithril dagger (Unpoisoned)",
+        "monster_name": "Zombie (Tarn's Lair) (Level 47)"
+      }
+    },
+    {
+      "id": "1209-6452",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Mithril dagger (Unpoisoned)",
+        "monster_name": "Zombie (Tarn's Lair) (Level 50)"
+      }
+    },
+    {
+      "id": "1209-6453",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Mithril dagger (Unpoisoned)",
+        "monster_name": "Zombie (Tarn's Lair) (Level 56)"
+      }
+    },
+    {
+      "id": "1209-6454",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Mithril dagger (Unpoisoned)",
+        "monster_name": "Zombie (Tarn's Lair) (Level 61)"
+      }
+    },
+    {
+      "id": "1209-6455",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Mithril dagger (Unpoisoned)",
+        "monster_name": "Zombie (Tarn's Lair) (Level 67)"
+      }
+    },
+    {
+      "id": "1209-6456",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Mithril dagger (Unpoisoned)",
+        "monster_name": "Zombie (Tarn's Lair) (Level 70)"
+      }
+    },
+    {
+      "id": "1209-6457",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Mithril dagger (Unpoisoned)",
+        "monster_name": "Zombie (Tarn's Lair) (Level 72)"
+      }
+    },
+    {
+      "id": "1209-6458",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Mithril dagger (Unpoisoned)",
+        "monster_name": "Zombie (Tarn's Lair) (Level 76)"
+      }
+    },
+    {
+      "id": "1209-6459",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Mithril dagger (Unpoisoned)",
+        "monster_name": "Zombie (Tarn's Lair) (Level 80)"
+      }
+    },
+    {
+      "id": "1209-561",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Mithril dagger (Unpoisoned)",
+        "monster_name": "Sorebones"
+      }
+    },
+    {
+      "id": "1209-563",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Mithril dagger (Unpoisoned)",
+        "monster_name": "Zombie pirate (7)"
+      }
+    },
+    {
+      "id": "1209-565",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Mithril dagger (Unpoisoned)",
+        "monster_name": "Zombie pirate (8)"
+      }
+    },
+    {
+      "id": "1209-567",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Mithril dagger (Unpoisoned)",
+        "monster_name": "Zombie pirate (9)"
+      }
+    },
+    {
+      "id": "1209-6466",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Mithril dagger (Unpoisoned)",
+        "monster_name": "Zombie (Tarn's Lair) (Level 81)"
+      }
+    },
+    {
+      "id": "1209-6465",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Mithril dagger (Unpoisoned)",
+        "monster_name": "Zombie (Tarn's Lair) (Level 100)"
+      }
+    },
+    {
+      "id": "1209-6464",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Mithril dagger (Unpoisoned)",
+        "monster_name": "Zombie (Tarn's Lair) (Level 98)"
+      }
+    },
+    {
+      "id": "1209-6463",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Mithril dagger (Unpoisoned)",
+        "monster_name": "Zombie (Tarn's Lair) (Level 95)"
+      }
+    },
+    {
+      "id": "1209-6462",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Mithril dagger (Unpoisoned)",
+        "monster_name": "Zombie (Tarn's Lair) (Level 90)"
+      }
+    },
+    {
+      "id": "1209-6461",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Mithril dagger (Unpoisoned)",
+        "monster_name": "Zombie (Tarn's Lair) (Level 86)"
+      }
+    },
+    {
+      "id": "1209-6460",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Mithril dagger (Unpoisoned)",
+        "monster_name": "Zombie (Tarn's Lair) (Level 85)"
+      }
+    },
+    {
+      "id": "1209-568",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Mithril dagger (Unpoisoned)",
+        "monster_name": "Zombie pirate (10)"
+      }
+    },
+    {
+      "id": "1209-569",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Mithril dagger (Unpoisoned)",
+        "monster_name": "Zombie pirate (11)"
+      }
+    },
+    {
+      "id": "1209-571",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Mithril dagger (Unpoisoned)",
+        "monster_name": "Zombie pirate (12)"
+      }
+    },
+    {
+      "id": "1209-572",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Mithril dagger (Unpoisoned)",
+        "monster_name": "Zombie pirate (13)"
+      }
+    },
+    {
+      "id": "1209-573",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Mithril dagger (Unpoisoned)",
+        "monster_name": "Zombie pirate (14)"
+      }
+    },
+    {
+      "id": "1209-574",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Mithril dagger (Unpoisoned)",
+        "monster_name": "Zombie pirate (15)"
+      }
+    },
+    {
+      "id": "1209-575",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Mithril dagger (Unpoisoned)",
+        "monster_name": "Zombie pirate (17)"
+      }
+    },
+    {
+      "id": "1209-576",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Mithril dagger (Unpoisoned)",
+        "monster_name": "Zombie pirate (1)"
+      }
+    },
+    {
+      "id": "1209-577",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Mithril dagger (Unpoisoned)",
+        "monster_name": "Zombie pirate (18)"
+      }
+    },
+    {
+      "id": "1209-578",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Mithril dagger (Unpoisoned)",
+        "monster_name": "Zombie pirate (19)"
+      }
+    },
+    {
+      "id": "1209-579",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Mithril dagger (Unpoisoned)",
+        "monster_name": "Zombie pirate (20)"
+      }
+    },
+    {
+      "id": "1209-580",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Mithril dagger (Unpoisoned)",
+        "monster_name": "Zombie pirate (21)"
+      }
+    },
+    {
+      "id": "1209-581",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Mithril dagger (Unpoisoned)",
+        "monster_name": "Zombie pirate (22)"
+      }
+    },
+    {
+      "id": "1209-582",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Mithril dagger (Unpoisoned)",
+        "monster_name": "Zombie pirate (23)"
+      }
+    },
+    {
+      "id": "1209-584",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Mithril dagger (Unpoisoned)",
+        "monster_name": "Zombie pirate (24)"
+      }
+    },
+    {
+      "id": "1209-586",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Mithril dagger (Unpoisoned)",
+        "monster_name": "Zombie pirate (25)"
+      }
+    },
+    {
+      "id": "1209-588",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Mithril dagger (Unpoisoned)",
+        "monster_name": "Zombie pirate (26)"
+      }
+    },
+    {
+      "id": "1209-590",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Mithril dagger (Unpoisoned)",
+        "monster_name": "Zombie pirate (27)"
+      }
+    }
+  ]
+}

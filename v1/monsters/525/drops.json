@@ -1,0 +1,468 @@
+{
+  "data": [
+    {
+      "id": "205-525",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0205074920704364"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Thug"
+      }
+    },
+    {
+      "id": "207-525",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0161082474226804"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Thug"
+      }
+    },
+    {
+      "id": "209-525",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.01171875"
+      },
+      "meta": {
+        "item_name": "Grimy irit leaf",
+        "monster_name": "Thug"
+      }
+    },
+    {
+      "id": "1137-525",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Iron med helm",
+        "monster_name": "Thug"
+      }
+    },
+    {
+      "id": "526-525",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Bones",
+        "monster_name": "Thug"
+      }
+    },
+    {
+      "id": "203-525",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0263675994937421"
+      },
+      "meta": {
+        "item_name": "Grimy tarromin",
+        "monster_name": "Thug"
+      }
+    },
+    {
+      "id": "201-525",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0351584474029627"
+      },
+      "meta": {
+        "item_name": "Grimy marrentill",
+        "monster_name": "Thug"
+      }
+    },
+    {
+      "id": "199-525",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.046875"
+      },
+      "meta": {
+        "item_name": "Grimy guam leaf",
+        "monster_name": "Thug"
+      }
+    },
+    {
+      "id": "453-525",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Coal",
+        "monster_name": "Thug"
+      }
+    },
+    {
+      "id": "2351-525",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Iron bar",
+        "monster_name": "Thug"
+      }
+    },
+    {
+      "id": "440-525",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Iron ore",
+        "monster_name": "Thug"
+      }
+    },
+    {
+      "id": "560-525",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Death rune (Regular)",
+        "monster_name": "Thug"
+      }
+    },
+    {
+      "id": "211-525",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00879043600562588"
+      },
+      "meta": {
+        "item_name": "Grimy avantoe",
+        "monster_name": "Thug"
+      }
+    },
+    {
+      "id": "213-525",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00732421875"
+      },
+      "meta": {
+        "item_name": "Grimy kwuarm",
+        "monster_name": "Thug"
+      }
+    },
+    {
+      "id": "215-525",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.005859375"
+      },
+      "meta": {
+        "item_name": "Grimy cadantine",
+        "monster_name": "Thug"
+      }
+    },
+    {
+      "id": "2485-525",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00439418795406609"
+      },
+      "meta": {
+        "item_name": "Grimy lantadyme",
+        "monster_name": "Thug"
+      }
+    },
+    {
+      "id": "217-525",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00439418795406609"
+      },
+      "meta": {
+        "item_name": "Grimy dwarf weed",
+        "monster_name": "Thug"
+      }
+    },
+    {
+      "id": "563-525",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Law rune",
+        "monster_name": "Thug"
+      }
+    },
+    {
+      "id": "564-525",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Cosmic rune",
+        "monster_name": "Thug"
+      }
+    },
+    {
+      "id": "562-525",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Chaos rune (Regular)",
+        "monster_name": "Thug"
+      }
+    },
+    {
+      "id": "561-525",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.1015625"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Thug"
+      }
+    },
+    {
+      "id": "2677-525",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Clue scroll (easy)",
+        "monster_name": "Thug"
+      }
+    },
+    {
+      "id": "1353-525",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Steel axe",
+        "monster_name": "Thug"
+      }
+    },
+    {
+      "id": "11941-525",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0666666666666667"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Thug"
+      }
+    },
+    {
+      "id": "1363-525",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Iron battleaxe",
+        "monster_name": "Thug"
+      }
+    },
+    {
+      "id": "995-525",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 8,
+        "quantity_max": null,
+        "rarity": "0.1796875"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Thug"
+      }
+    },
+    {
+      "id": "995-525",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 15,
+        "quantity_max": null,
+        "rarity": "0.09375"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Thug"
+      }
+    },
+    {
+      "id": "995-525",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 30,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Thug"
+      }
+    },
+    {
+      "id": "995-525",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 20,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Thug"
+      }
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "id": "1219-6603",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Iron dagger (Poison)",
+        "monster_name": "Rogue (Level 135)"
+      }
+    },
+    {
+      "id": "1219-526",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Iron dagger (Poison)",
+        "monster_name": "Rogue (Level 15)"
+      }
+    }
+  ]
+}

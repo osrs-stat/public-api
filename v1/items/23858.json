@@ -1,0 +1,31 @@
+{
+  "data": {
+    "id": "23858",
+    "type": "item",
+    "attributes": {
+      "uuid": "83bf3154-6e46-47f9-90fd-57d2db8b34dd",
+      "name": "Corrupted teleport crystal",
+      "members": true,
+      "release_date": "2019-07-25",
+      "examine": "A corrupted crystal enchanted to return the user to the start of the Gauntlet.",
+      "tradeable": false,
+      "ge_tradeable": false,
+      "lowalch": null,
+      "highalch": null,
+      "is_equip": false,
+      "is_weapon": false,
+      "icon_base64": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAAeUlEQVR4XmNgGAWjYBSMglEwCkbBYACM/xF4wAHj/1mCJmBcyqeO5LABcRzCMTCcy60Cx3R2FOP/iYKG//sFDOAY2TG+HFJgBxkoKNDXUSCMy0EwR6HroimAhAByukHFIHk6hxIEwCzGhtHVjoJRMApGwSgYBSMJAADXiE84jUqCiQAAAABJRU5ErkJggg=="
+    },
+    "relationships": {
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Corrupted_teleport_crystal"
+    },
+    "meta": {
+      "incomplete": false
+    }
+  },
+  "included": [
+
+  ]
+}

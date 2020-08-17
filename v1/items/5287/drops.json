@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "id": "5287-6604",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0046875"
+      },
+      "meta": {
+        "item_name": "Pineapple seed",
+        "monster_name": "Mammoth"
+      }
+    },
+    {
+      "id": "5287-8583",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 3,
+        "quantity_max": 6,
+        "rarity": "0.0375"
+      },
+      "meta": {
+        "item_name": "Pineapple seed",
+        "monster_name": "Hespori"
+      }
+    }
+  ]
+}

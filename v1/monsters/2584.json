@@ -1,0 +1,117 @@
+{
+  "data": {
+    "id": "2584",
+    "type": "monster",
+    "attributes": {
+      "uuid": "b71d9216-f1b8-4781-a515-6b1c7b495740",
+      "name": "Abyssal leech",
+      "members": true,
+      "release_date": "2005-06-13",
+      "examine": "A blood-drinking denizen of the abyss.",
+      "combat_level_override": null,
+      "max_hit_override": null,
+      "target_types": [
+
+      ],
+      "classification_types": [
+
+      ],
+      "poison": false,
+      "immune_poison": false,
+      "immune_venom": false,
+      "slayer_xp": null,
+      "slayer_level": null,
+      "slayer_masters": [
+
+      ],
+      "icon_base64": null
+    },
+    "relationships": {
+      "combat_stat": {
+        "data": {
+          "id": "334e182d-76a1-4b75-9af4-8841e66389d6",
+          "type": "combat_stat"
+        }
+      },
+      "equip_stat": {
+        "data": {
+          "id": "f12cffcc-3021-43f9-8179-2b938176bff0",
+          "type": "equip_stat"
+        }
+      },
+      "attack_stat": {
+        "data": {
+          "id": "05a95c49-c470-4ac0-b575-601cf7046164",
+          "type": "attack_stat"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Abyssal_leech"
+    },
+    "meta": {
+      "incomplete": true
+    }
+  },
+  "included": [
+    {
+      "id": "05a95c49-c470-4ac0-b575-601cf7046164",
+      "type": "attack_stat",
+      "attributes": {
+        "attack_speed": 2,
+        "attack_type": "monster",
+        "special": null,
+        "stances": [
+          {
+            "name": "Monster slash",
+            "style": null,
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": null,
+            "combat_accuracy_stat": "attack_level",
+            "combat_damage_stat": "strength_level",
+            "equip_accuracy_stat": "slash_attack",
+            "equip_damage_stat": "slash_attack",
+            "target_equip_defense_stat": "slash_defense"
+          }
+        ]
+      }
+    },
+    {
+      "id": "334e182d-76a1-4b75-9af4-8841e66389d6",
+      "type": "monster_combat_stat",
+      "attributes": {
+        "hitpoints_level": 10,
+        "attack_level": 95,
+        "strength_level": 5,
+        "defense_level": 25,
+        "magic_level": 1,
+        "ranged_level": 1,
+        "prayer_level": 0
+      }
+    },
+    {
+      "id": "f12cffcc-3021-43f9-8179-2b938176bff0",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 100,
+        "slash_attack": 100,
+        "crush_attack": 100,
+        "ranged_attack": 0,
+        "magic_attack": 0,
+        "stab_defense": 50,
+        "slash_defense": 50,
+        "crush_defense": 100,
+        "ranged_defense": 10,
+        "magic_defense": 50,
+        "melee_strength": 10,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

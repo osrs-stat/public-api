@@ -1,0 +1,31 @@
+{
+  "data": {
+    "id": "1603",
+    "type": "item",
+    "attributes": {
+      "uuid": "8bbf92db-025c-460d-a386-31dc64dec00d",
+      "name": "Ruby",
+      "members": false,
+      "release_date": "2001-05-08",
+      "examine": "This looks valuable.",
+      "tradeable": false,
+      "ge_tradeable": false,
+      "lowalch": 400,
+      "highalch": 600,
+      "is_equip": false,
+      "is_weapon": false,
+      "icon_base64": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABc0lEQVR4Xu3WsUoDQRAG4NsmEAmkSGPAIp2tlZWQxk7wGXyDIAgivoPkNCfB1lYTIxJsRXyucWfXyc2Ne2fUHc/ifvhJCNztx+yRvSRp0qRJVQzIX2qMgSy7gj9G4WLhZlnqPncGA1d5pUIMTCZj19N+x/X2eARvywXcTVNXiZR3UIiB55tL29RCHj66cD3stj5VGWVWk3l9mrsSCieF5Zi9jgcpbp8HLadji5mtykFUxCiD5HRm8PJ474rfOeao19YGhTEcQSjEUBG0lSQazxEH+W2SW4SdX18UQFgCRZxSESMRfJvKGhGUYyRgXcxuO+q2GTjvd10lYl0MNdKUctCZnRL2JxhVEFUCqjAcJVf4ZsKg0WY5iBYfbkhIlEPXwIldnIMQQ/0KIyG/xGCqQRwVwkSE8PhtC2GoHCOnIu8WIR7EAQf2JOdFzHYr/0dWxFAM7NtzqawSI69WSv4W+A8wPvmixdfUWjAy/FmpHdOk7rwDYs5E0BA0UJsAAAAASUVORK5CYII="
+    },
+    "relationships": {
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Ruby"
+    },
+    "meta": {
+      "incomplete": false
+    }
+  },
+  "included": [
+
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "id": "167-532",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Super defence (1 dose)",
+        "monster_name": "Chaos druid warrior"
+      }
+    },
+    {
+      "id": "167-304",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0859375"
+      },
+      "meta": {
+        "item_name": "Super defence (1 dose)",
+        "monster_name": "Salarin the twisted"
+      }
+    }
+  ]
+}

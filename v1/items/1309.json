@@ -1,0 +1,156 @@
+{
+  "data": {
+    "id": "1309",
+    "type": "item",
+    "attributes": {
+      "uuid": "d02c0c99-8253-4780-9ba1-7055263ff7b3",
+      "name": "Iron 2h sword",
+      "members": false,
+      "release_date": "2001-01-04",
+      "examine": "A two handed sword.",
+      "tradeable": false,
+      "ge_tradeable": false,
+      "lowalch": 112,
+      "highalch": 168,
+      "is_equip": true,
+      "is_weapon": true,
+      "icon_base64": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABPklEQVR4Xu3WMUvDQBgG4N4PyJChUAKFDp1EJEOCdDJQdFKoQYlUOpR2E7cu7i1uzoJOHRwEEdF/4eLo4uIiLv6FV76ENL0rXe890Bduu8DD+30HqdX+XhSKQ08B2U0SnKQpG1VASkwJClstBkqhE0UahghSiMMwBw37/cUpMRSQUxhpZxkzyDLWqCR6O8sYAmi1HSJGsr4d86aF6O2QRyWp2hHMfztVnMJIKpBTozIxzoHMmxayHkMFkTHlb6iOIY1K4fzQw3Tk4Wbi4/W6gY+7AD/PTV47k8zD1ZmP+YWPQS/OUd+PFcj8wkJU3s7R3hbGxx283TbweR9wQfvJBobp9mKXSOOSKOzEbZweRBqChpHT627mu0MckaRoxsRQQS+XdXw9NF1oR6LwNKvjfR5o+2Peshz6i1qN7Rf1CyrvXbVE2O9iAAAAAElFTkSuQmCC"
+    },
+    "relationships": {
+      "equip": {
+        "data": {
+          "id": "9400b2db-ce82-4f79-8bd4-2c58fb5066d1",
+          "type": "equip"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Iron_2h_sword"
+    },
+    "meta": {
+      "incomplete": false
+    }
+  },
+  "included": [
+    {
+      "id": "9400b2db-ce82-4f79-8bd4-2c58fb5066d1",
+      "type": "equip",
+      "attributes": {
+        "slot": "weapon_2h",
+        "passive_effect": null,
+        "requirements": {
+          "attack_level": 1
+        }
+      },
+      "relationships": {
+        "equip_stat": {
+          "data": {
+            "id": "e2ee19ac-b5d8-483a-af48-d0c3311479e9",
+            "type": "equip_stat"
+          }
+        },
+        "attack_stat": {
+          "data": {
+            "id": "897320bc-5303-4f17-8f8e-bb75407b824e",
+            "type": "attack_stat"
+          }
+        }
+      }
+    },
+    {
+      "id": "897320bc-5303-4f17-8f8e-bb75407b824e",
+      "type": "attack_stat",
+      "attributes": {
+        "attack_speed": 7,
+        "attack_type": "two_handed_sword",
+        "special": null,
+        "stances": [
+          {
+            "name": "chop",
+            "style": "accurate",
+            "boosts": {
+              "accuracy": 3
+            },
+            "experience": {
+              "hitpoints": 1.3333,
+              "attack": 4
+            },
+            "combat_accuracy_stat": "attack_level",
+            "combat_damage_stat": "strength_level",
+            "equip_accuracy_stat": "slash_attack",
+            "equip_damage_stat": "slash_attack",
+            "target_equip_defense_stat": "slash_defense"
+          },
+          {
+            "name": "slash",
+            "style": "aggressive",
+            "boosts": {
+              "damage": 3
+            },
+            "experience": {
+              "hitpoints": 1.3333,
+              "strength": 4
+            },
+            "combat_accuracy_stat": "attack_level",
+            "combat_damage_stat": "strength_level",
+            "equip_accuracy_stat": "slash_attack",
+            "equip_damage_stat": "slash_attack",
+            "target_equip_defense_stat": "slash_defense"
+          },
+          {
+            "name": "smash",
+            "style": "aggressive",
+            "boosts": {
+              "damage": 3
+            },
+            "experience": {
+              "hitpoints": 1.3333,
+              "strength": 4
+            },
+            "combat_accuracy_stat": "attack_level",
+            "combat_damage_stat": "strength_level",
+            "equip_accuracy_stat": "crush_attack",
+            "equip_damage_stat": "crush_attack",
+            "target_equip_defense_stat": "crush_defense"
+          },
+          {
+            "name": "block",
+            "style": "defensive",
+            "boosts": {
+              "defense": 3
+            },
+            "experience": {
+              "hitpoints": 1.3333,
+              "defense": 4
+            },
+            "combat_accuracy_stat": "attack_level",
+            "combat_damage_stat": "strength_level",
+            "equip_accuracy_stat": "slash_attack",
+            "equip_damage_stat": "slash_attack",
+            "target_equip_defense_stat": "slash_defense"
+          }
+        ]
+      }
+    },
+    {
+      "id": "e2ee19ac-b5d8-483a-af48-d0c3311479e9",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": -4,
+        "slash_attack": 13,
+        "crush_attack": 10,
+        "ranged_attack": 0,
+        "magic_attack": -4,
+        "stab_defense": 0,
+        "slash_defense": 0,
+        "crush_defense": 0,
+        "ranged_defense": -1,
+        "magic_defense": 0,
+        "melee_strength": 14,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

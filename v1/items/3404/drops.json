@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "id": "3404-5633",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Fiyr remains",
+        "monster_name": "Shade (Temple Trekking)"
+      }
+    },
+    {
+      "id": "3404-1286",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Fiyr remains",
+        "monster_name": "Fiyr Shade (Shade)"
+      }
+    },
+    {
+      "id": "3404-1285",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Fiyr remains",
+        "monster_name": "Fiyr Shade (Shadow)"
+      }
+    }
+  ]
+}

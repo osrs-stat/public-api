@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "id": "1075-2450",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.9"
+      },
+      "meta": {
+        "item_name": "Bronze platelegs",
+        "monster_name": "Animated Bronze Armour"
+      }
+    },
+    {
+      "id": "1075-2237",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Bronze platelegs",
+        "monster_name": "Ork"
+      }
+    }
+  ]
+}

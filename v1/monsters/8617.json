@@ -1,0 +1,132 @@
+{
+  "data": {
+    "id": "8617",
+    "type": "monster",
+    "attributes": {
+      "uuid": "93d07a5e-c71c-4490-8ac0-e2b9ca0818ea",
+      "name": "Alchemical Hydra (Four heads)",
+      "members": true,
+      "release_date": "2019-01-10",
+      "examine": "A ferocious Alchemical Hydra!",
+      "combat_level_override": null,
+      "max_hit_override": 35,
+      "target_types": [
+        "dragon"
+      ],
+      "classification_types": [
+        "hydras"
+      ],
+      "poison": true,
+      "immune_poison": true,
+      "immune_venom": true,
+      "slayer_xp": 1320.0,
+      "slayer_level": 95,
+      "slayer_masters": [
+        "konar"
+      ],
+      "icon_base64": null
+    },
+    "relationships": {
+      "combat_stat": {
+        "data": {
+          "id": "291894af-3166-43f9-a8fc-bef2f903ebbd",
+          "type": "combat_stat"
+        }
+      },
+      "equip_stat": {
+        "data": {
+          "id": "d0713b6d-0b65-48df-9378-baa5d181cbd4",
+          "type": "equip_stat"
+        }
+      },
+      "attack_stat": {
+        "data": {
+          "id": "fcbfe5e2-ef75-4dad-8b0e-fd5b23627e79",
+          "type": "attack_stat"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Alchemical_Hydra#Four_heads"
+    },
+    "meta": {
+      "incomplete": true
+    }
+  },
+  "included": [
+    {
+      "id": "fcbfe5e2-ef75-4dad-8b0e-fd5b23627e79",
+      "type": "attack_stat",
+      "attributes": {
+        "attack_speed": 6,
+        "attack_type": "monster",
+        "special": null,
+        "stances": [
+          {
+            "name": "Monster ranged",
+            "style": null,
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": null,
+            "combat_accuracy_stat": "ranged_level",
+            "combat_damage_stat": "ranged_level",
+            "equip_accuracy_stat": "ranged_attack",
+            "equip_damage_stat": "ranged_attack",
+            "target_equip_defense_stat": "ranged_defense"
+          },
+          {
+            "name": "Monster magic",
+            "style": null,
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": null,
+            "combat_accuracy_stat": "magic_level",
+            "combat_damage_stat": "magic_level",
+            "equip_accuracy_stat": "magic_attack",
+            "equip_damage_stat": "magic_attack",
+            "target_equip_defense_stat": "magic_defense"
+          }
+        ]
+      }
+    },
+    {
+      "id": "291894af-3166-43f9-a8fc-bef2f903ebbd",
+      "type": "monster_combat_stat",
+      "attributes": {
+        "hitpoints_level": 1100,
+        "attack_level": 100,
+        "strength_level": 100,
+        "defense_level": 100,
+        "magic_level": 260,
+        "ranged_level": 260,
+        "prayer_level": 0
+      }
+    },
+    {
+      "id": "d0713b6d-0b65-48df-9378-baa5d181cbd4",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 0,
+        "slash_attack": 0,
+        "crush_attack": 0,
+        "ranged_attack": 45,
+        "magic_attack": 45,
+        "stab_defense": 75,
+        "slash_defense": 150,
+        "crush_defense": 150,
+        "ranged_defense": 45,
+        "magic_defense": 150,
+        "melee_strength": 0,
+        "ranged_strength": 20,
+        "magic_bonus": 20,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

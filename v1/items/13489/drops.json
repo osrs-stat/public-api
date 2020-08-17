@@ -1,0 +1,84 @@
+{
+  "data": [
+    {
+      "id": "13489-965",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.05"
+      },
+      "meta": {
+        "item_name": "Ensouled kalphite head (Drop)",
+        "monster_name": "Kalphite Queen (Airborne)"
+      }
+    },
+    {
+      "id": "13489-963",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.05"
+      },
+      "meta": {
+        "item_name": "Ensouled kalphite head (Drop)",
+        "monster_name": "Kalphite Queen (Crawling)"
+      }
+    },
+    {
+      "id": "13489-959",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0285714285714286"
+      },
+      "meta": {
+        "item_name": "Ensouled kalphite head (Drop)",
+        "monster_name": "Kalphite Guardian"
+      }
+    },
+    {
+      "id": "13489-957",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0111111111111111"
+      },
+      "meta": {
+        "item_name": "Ensouled kalphite head (Drop)",
+        "monster_name": "Kalphite Soldier"
+      }
+    },
+    {
+      "id": "13489-955",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.004"
+      },
+      "meta": {
+        "item_name": "Ensouled kalphite head (Drop)",
+        "monster_name": "Kalphite Worker"
+      }
+    }
+  ]
+}

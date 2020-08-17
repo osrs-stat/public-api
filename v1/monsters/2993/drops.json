@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "526-2993",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Bones",
+        "monster_name": "Undead chicken"
+      }
+    },
+    {
+      "id": "4289-2993",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Raw chicken (undead)",
+        "monster_name": "Undead chicken"
+      }
+    },
+    {
+      "id": "314-2993",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.5"
+      },
+      "meta": {
+        "item_name": "Feather",
+        "monster_name": "Undead chicken"
+      }
+    },
+    {
+      "id": "314-2993",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 15,
+        "quantity_max": null,
+        "rarity": "0.25"
+      },
+      "meta": {
+        "item_name": "Feather",
+        "monster_name": "Undead chicken"
+      }
+    }
+  ]
+}

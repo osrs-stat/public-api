@@ -1,0 +1,134 @@
+{
+  "data": {
+    "id": "2205",
+    "type": "monster",
+    "attributes": {
+      "uuid": "3af0c877-0dbc-4a53-bbf8-43f84c7355ec",
+      "name": "Commander Zilyana",
+      "members": true,
+      "release_date": "2013-10-17",
+      "examine": "Commander of Saradomin's forces.",
+      "combat_level_override": 596,
+      "max_hit_override": 0,
+      "target_types": [
+
+      ],
+      "classification_types": [
+        "boss"
+      ],
+      "poison": false,
+      "immune_poison": false,
+      "immune_venom": false,
+      "slayer_xp": 350.0,
+      "slayer_level": 1,
+      "slayer_masters": [
+        "konar",
+        "nieve",
+        "duradel"
+      ],
+      "icon_base64": null
+    },
+    "relationships": {
+      "combat_stat": {
+        "data": {
+          "id": "5947a13d-ef91-443c-b509-25ee7239fdd4",
+          "type": "combat_stat"
+        }
+      },
+      "equip_stat": {
+        "data": {
+          "id": "b534e204-d807-49be-bdca-337a74393e58",
+          "type": "equip_stat"
+        }
+      },
+      "attack_stat": {
+        "data": {
+          "id": "c9e01ace-c69e-4c06-9b7e-32df1bcb3b39",
+          "type": "attack_stat"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Commander_Zilyana"
+    },
+    "meta": {
+      "incomplete": true
+    }
+  },
+  "included": [
+    {
+      "id": "c9e01ace-c69e-4c06-9b7e-32df1bcb3b39",
+      "type": "attack_stat",
+      "attributes": {
+        "attack_speed": 2,
+        "attack_type": "monster",
+        "special": null,
+        "stances": [
+          {
+            "name": "Monster crush",
+            "style": null,
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": null,
+            "combat_accuracy_stat": "attack_level",
+            "combat_damage_stat": "strength_level",
+            "equip_accuracy_stat": "crush_attack",
+            "equip_damage_stat": "crush_attack",
+            "target_equip_defense_stat": "crush_defense"
+          },
+          {
+            "name": "Monster magic",
+            "style": null,
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": null,
+            "combat_accuracy_stat": "magic_level",
+            "combat_damage_stat": "magic_level",
+            "equip_accuracy_stat": "magic_attack",
+            "equip_damage_stat": "magic_attack",
+            "target_equip_defense_stat": "magic_defense"
+          }
+        ]
+      }
+    },
+    {
+      "id": "5947a13d-ef91-443c-b509-25ee7239fdd4",
+      "type": "monster_combat_stat",
+      "attributes": {
+        "hitpoints_level": 255,
+        "attack_level": 280,
+        "strength_level": 196,
+        "defense_level": 300,
+        "magic_level": 300,
+        "ranged_level": 250,
+        "prayer_level": 0
+      }
+    },
+    {
+      "id": "b534e204-d807-49be-bdca-337a74393e58",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 195,
+        "slash_attack": 195,
+        "crush_attack": 195,
+        "ranged_attack": 0,
+        "magic_attack": 200,
+        "stab_defense": 100,
+        "slash_defense": 100,
+        "crush_defense": 100,
+        "ranged_defense": 100,
+        "magic_defense": 100,
+        "melee_strength": 20,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

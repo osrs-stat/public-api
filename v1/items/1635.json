@@ -1,0 +1,73 @@
+{
+  "data": {
+    "id": "1635",
+    "type": "item",
+    "attributes": {
+      "uuid": "2aa98c4f-f7f9-4392-8c0e-c5c6ec9eda0e",
+      "name": "Gold ring",
+      "members": false,
+      "release_date": "2001-05-08",
+      "examine": "A valuable ring.",
+      "tradeable": false,
+      "ge_tradeable": false,
+      "lowalch": 140,
+      "highalch": 210,
+      "is_equip": true,
+      "is_weapon": false,
+      "icon_base64": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB0ElEQVR4Xu2U0UdDYRjG9112sYtzcTg+DvsL0j/Q/S7rqovoKl3EiJJiFJUiUjJiVMpIRcqUykypxKQyY6aRSCKRSOzizfN+Pvt2ulznpJyH17H5dr7f3vd5n0gkVKhQof6MBH2vwFW/PDNvN9TSlBU0mKCjdftb5TIOPw9WbVqbsyjREw0CStBu2qaVWYsWxiyaHIxyR7ZSNl3uOFTYc+gqq574DufbYjE/oQRflJpQMBoIkMVDSaVjSeWcpEpeUvVEUjLha5cEnW87PI7p4SiN9Cug9IzF4wLA/Zmkx0tJTwWXXq5dPutjlwRfDADAdHe0MJBpcF0fZZdqdzE63XRodlSb/McleCzasADS/95bGuzhQvI4h/p8GZ2g11uXzQtDmzDek0qC4dGhzngd3nuqCQmqVVvZGxjd+IA5rsZzqOyy2kZ005URP4AgQZ8Vl56vXPYHtm0uaQahigVsIkISQPH2xtF639ikVJfeii5vEzy1saiCEJfjic8aqLfLVxgt1SWMDqZF7iChMSKd1ADSG+gzjJag95IaHbIHgYh0zm84DAYjm1vo/bVPUp5BKt/sOxya6JDewAC7U5eZOWZpkEBhTJkAvwoSKlSo/6QvJvGSdrZPIYcAAAAASUVORK5CYII="
+    },
+    "relationships": {
+      "equip": {
+        "data": {
+          "id": "a33c54b5-6994-409c-b981-8ba2a8df0bb6",
+          "type": "equip"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Gold_ring"
+    },
+    "meta": {
+      "incomplete": false
+    }
+  },
+  "included": [
+    {
+      "id": "a33c54b5-6994-409c-b981-8ba2a8df0bb6",
+      "type": "equip",
+      "attributes": {
+        "slot": "ring",
+        "passive_effect": null,
+        "requirements": null
+      },
+      "relationships": {
+        "equip_stat": {
+          "data": {
+            "id": "18456f04-8c54-415b-a167-c38419d403f2",
+            "type": "equip_stat"
+          }
+        }
+      }
+    },
+    {
+      "id": "18456f04-8c54-415b-a167-c38419d403f2",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 0,
+        "slash_attack": 0,
+        "crush_attack": 0,
+        "ranged_attack": 0,
+        "magic_attack": 0,
+        "stab_defense": 0,
+        "slash_defense": 0,
+        "crush_defense": 0,
+        "ranged_defense": 0,
+        "magic_defense": 0,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

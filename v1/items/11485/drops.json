@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "id": "11485-5566",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Super str. mix (2 dose)",
+        "monster_name": "Ferocious barbarian spirit"
+      }
+    },
+    {
+      "id": "11485-2919",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Super str. mix (2 dose)",
+        "monster_name": "Mithril dragon"
+      }
+    }
+  ]
+}

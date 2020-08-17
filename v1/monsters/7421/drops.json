@@ -1,0 +1,132 @@
+{
+  "data": [
+    {
+      "id": "888-7421",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 20,
+        "quantity_max": null,
+        "rarity": "0.02"
+      },
+      "meta": {
+        "item_name": "Mithril arrow (Unpoisoned)",
+        "monster_name": "Zamorak ranger (Level 82)"
+      }
+    },
+    {
+      "id": "995-7421",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 100,
+        "quantity_max": null,
+        "rarity": "0.8"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Zamorak ranger (Level 82)"
+      }
+    },
+    {
+      "id": "888-7421",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.04"
+      },
+      "meta": {
+        "item_name": "Mithril arrow (Unpoisoned)",
+        "monster_name": "Zamorak ranger (Level 82)"
+      }
+    },
+    {
+      "id": "886-7421",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.04"
+      },
+      "meta": {
+        "item_name": "Steel arrow (Unpoisoned)",
+        "monster_name": "Zamorak ranger (Level 82)"
+      }
+    },
+    {
+      "id": "1777-7421",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.04"
+      },
+      "meta": {
+        "item_name": "Bow string",
+        "monster_name": "Zamorak ranger (Level 82)"
+      }
+    },
+    {
+      "id": "847-7421",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.02"
+      },
+      "meta": {
+        "item_name": "Willow longbow",
+        "monster_name": "Zamorak ranger (Level 82)"
+      }
+    },
+    {
+      "id": "849-7421",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.04"
+      },
+      "meta": {
+        "item_name": "Willow shortbow",
+        "monster_name": "Zamorak ranger (Level 82)"
+      }
+    },
+    {
+      "id": "526-7421",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Bones",
+        "monster_name": "Zamorak ranger (Level 82)"
+      }
+    }
+  ]
+}

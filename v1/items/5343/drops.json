@@ -1,0 +1,20 @@
+{
+  "data": [
+    {
+      "id": "5343-3114",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Seed dibber",
+        "monster_name": "Farmer"
+      }
+    }
+  ]
+}

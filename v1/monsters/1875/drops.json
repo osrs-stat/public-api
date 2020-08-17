@@ -1,0 +1,884 @@
+{
+  "data": [
+    {
+      "id": "10977-1875",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000199501246882793"
+      },
+      "meta": {
+        "item_name": "Curved bone",
+        "monster_name": "Ice troll male"
+      }
+    },
+    {
+      "id": "532-1875",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Big bones",
+        "monster_name": "Ice troll male"
+      }
+    },
+    {
+      "id": "1161-1875",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.078125"
+      },
+      "meta": {
+        "item_name": "Adamant full helm",
+        "monster_name": "Ice troll male"
+      }
+    },
+    {
+      "id": "1119-1875",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.078125"
+      },
+      "meta": {
+        "item_name": "Steel platebody",
+        "monster_name": "Ice troll male"
+      }
+    },
+    {
+      "id": "1343-1875",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Mithril warhammer",
+        "monster_name": "Ice troll male"
+      }
+    },
+    {
+      "id": "1357-1875",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Adamant axe",
+        "monster_name": "Ice troll male"
+      }
+    },
+    {
+      "id": "1201-1875",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Rune kiteshield",
+        "monster_name": "Ice troll male"
+      }
+    },
+    {
+      "id": "3122-1875",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Granite shield",
+        "monster_name": "Ice troll male"
+      }
+    },
+    {
+      "id": "1347-1875",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Rune warhammer",
+        "monster_name": "Ice troll male"
+      }
+    },
+    {
+      "id": "557-1875",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 8,
+        "quantity_max": 14,
+        "rarity": "0.078125"
+      },
+      "meta": {
+        "item_name": "Earth rune (Regular)",
+        "monster_name": "Ice troll male"
+      }
+    },
+    {
+      "id": "557-1875",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 12,
+        "quantity_max": 36,
+        "rarity": "0.078125"
+      },
+      "meta": {
+        "item_name": "Earth rune (Regular)",
+        "monster_name": "Ice troll male"
+      }
+    },
+    {
+      "id": "561-1875",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 4,
+        "quantity_max": 12,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Ice troll male"
+      }
+    },
+    {
+      "id": "563-1875",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 4,
+        "quantity_max": 8,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Law rune",
+        "monster_name": "Ice troll male"
+      }
+    },
+    {
+      "id": "383-1875",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 2,
+        "quantity_max": 8,
+        "rarity": "0.078125"
+      },
+      "meta": {
+        "item_name": "Raw shark",
+        "monster_name": "Ice troll male"
+      }
+    },
+    {
+      "id": "401-1875",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 3,
+        "quantity_max": 9,
+        "rarity": "0.078125"
+      },
+      "meta": {
+        "item_name": "Seaweed",
+        "monster_name": "Ice troll male"
+      }
+    },
+    {
+      "id": "1759-1875",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 18,
+        "quantity_max": 42,
+        "rarity": "0.078125"
+      },
+      "meta": {
+        "item_name": "Ball of wool",
+        "monster_name": "Ice troll male"
+      }
+    },
+    {
+      "id": "13483-1875",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.05"
+      },
+      "meta": {
+        "item_name": "Ensouled troll head (Drop)",
+        "monster_name": "Ice troll male"
+      }
+    },
+    {
+      "id": "10976-1875",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0025"
+      },
+      "meta": {
+        "item_name": "Long bone",
+        "monster_name": "Ice troll male"
+      }
+    },
+    {
+      "id": "10977-1875",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000199501246882793"
+      },
+      "meta": {
+        "item_name": "Curved bone",
+        "monster_name": "Ice troll male"
+      }
+    },
+    {
+      "id": "532-1875",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Big bones",
+        "monster_name": "Ice troll male"
+      }
+    },
+    {
+      "id": "217-1875",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00274636747129131"
+      },
+      "meta": {
+        "item_name": "Grimy dwarf weed",
+        "monster_name": "Ice troll male"
+      }
+    },
+    {
+      "id": "2485-1875",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00274636747129131"
+      },
+      "meta": {
+        "item_name": "Grimy lantadyme",
+        "monster_name": "Ice troll male"
+      }
+    },
+    {
+      "id": "215-1875",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.003662109375"
+      },
+      "meta": {
+        "item_name": "Grimy cadantine",
+        "monster_name": "Ice troll male"
+      }
+    },
+    {
+      "id": "213-1875",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00457763671875"
+      },
+      "meta": {
+        "item_name": "Grimy kwuarm",
+        "monster_name": "Ice troll male"
+      }
+    },
+    {
+      "id": "211-1875",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00549402250351617"
+      },
+      "meta": {
+        "item_name": "Grimy avantoe",
+        "monster_name": "Ice troll male"
+      }
+    },
+    {
+      "id": "209-1875",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00732421875"
+      },
+      "meta": {
+        "item_name": "Grimy irit leaf",
+        "monster_name": "Ice troll male"
+      }
+    },
+    {
+      "id": "207-1875",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0100676546391753"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Ice troll male"
+      }
+    },
+    {
+      "id": "205-1875",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0128171825440227"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Ice troll male"
+      }
+    },
+    {
+      "id": "203-1875",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0164797496835888"
+      },
+      "meta": {
+        "item_name": "Grimy tarromin",
+        "monster_name": "Ice troll male"
+      }
+    },
+    {
+      "id": "201-1875",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0219740296268517"
+      },
+      "meta": {
+        "item_name": "Grimy marrentill",
+        "monster_name": "Ice troll male"
+      }
+    },
+    {
+      "id": "199-1875",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.029296875"
+      },
+      "meta": {
+        "item_name": "Grimy guam leaf",
+        "monster_name": "Ice troll male"
+      }
+    },
+    {
+      "id": "10976-1875",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0025"
+      },
+      "meta": {
+        "item_name": "Long bone",
+        "monster_name": "Ice troll male"
+      }
+    },
+    {
+      "id": "532-1875",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Big bones",
+        "monster_name": "Ice troll male"
+      }
+    },
+    {
+      "id": "10977-1875",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000199501246882793"
+      },
+      "meta": {
+        "item_name": "Curved bone",
+        "monster_name": "Ice troll male"
+      }
+    },
+    {
+      "id": "10976-1875",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0025"
+      },
+      "meta": {
+        "item_name": "Long bone",
+        "monster_name": "Ice troll male"
+      }
+    },
+    {
+      "id": "13483-1875",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0222222222222222"
+      },
+      "meta": {
+        "item_name": "Ensouled troll head (Drop)",
+        "monster_name": "Ice troll male"
+      }
+    },
+    {
+      "id": "353-1875",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Raw mackerel",
+        "monster_name": "Ice troll male"
+      }
+    },
+    {
+      "id": "453-1875",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Coal",
+        "monster_name": "Ice troll male"
+      }
+    },
+    {
+      "id": "557-1875",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 25,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Earth rune (Regular)",
+        "monster_name": "Ice troll male"
+      }
+    },
+    {
+      "id": "557-1875",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 45,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Earth rune (Regular)",
+        "monster_name": "Ice troll male"
+      }
+    },
+    {
+      "id": "563-1875",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Law rune",
+        "monster_name": "Ice troll male"
+      }
+    },
+    {
+      "id": "561-1875",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 7,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Ice troll male"
+      }
+    },
+    {
+      "id": "557-1875",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 60,
+        "quantity_max": null,
+        "rarity": "0.0625"
+      },
+      "meta": {
+        "item_name": "Earth rune (Regular)",
+        "monster_name": "Ice troll male"
+      }
+    },
+    {
+      "id": "1181-1875",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Mithril sq shield",
+        "monster_name": "Ice troll male"
+      }
+    },
+    {
+      "id": "1345-1875",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Adamant warhammer",
+        "monster_name": "Ice troll male"
+      }
+    },
+    {
+      "id": "1145-1875",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Adamant med helm",
+        "monster_name": "Ice troll male"
+      }
+    },
+    {
+      "id": "1339-1875",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Steel warhammer",
+        "monster_name": "Ice troll male"
+      }
+    },
+    {
+      "id": "1341-1875",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Black warhammer",
+        "monster_name": "Ice troll male"
+      }
+    },
+    {
+      "id": "1141-1875",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Steel med helm",
+        "monster_name": "Ice troll male"
+      }
+    },
+    {
+      "id": "995-1875",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 250,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Ice troll male"
+      }
+    },
+    {
+      "id": "995-1875",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 200,
+        "quantity_max": null,
+        "rarity": "0.15625"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Ice troll male"
+      }
+    },
+    {
+      "id": "995-1875",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 8,
+        "quantity_max": null,
+        "rarity": "0.0546875"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Ice troll male"
+      }
+    },
+    {
+      "id": "995-1875",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 35,
+        "quantity_max": null,
+        "rarity": "0.2265625"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Ice troll male"
+      }
+    },
+    {
+      "id": "995-1875",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 100,
+        "quantity_max": null,
+        "rarity": "0.078125"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Ice troll male"
+      }
+    },
+    {
+      "id": "995-1875",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 50,
+        "quantity_max": null,
+        "rarity": "0.046875"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Ice troll male"
+      }
+    }
+  ]
+}

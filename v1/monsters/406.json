@@ -1,0 +1,120 @@
+{
+  "data": {
+    "id": "406",
+    "type": "monster",
+    "attributes": {
+      "uuid": "8bd8bfd0-3616-4951-aac4-aee0cc21ead9",
+      "name": "Cave crawler",
+      "members": true,
+      "release_date": "2005-01-26",
+      "examine": "A spiky crawling critter.",
+      "combat_level_override": null,
+      "max_hit_override": null,
+      "target_types": [
+
+      ],
+      "classification_types": [
+        "cave crawler"
+      ],
+      "poison": true,
+      "immune_poison": false,
+      "immune_venom": false,
+      "slayer_xp": 22.0,
+      "slayer_level": 10,
+      "slayer_masters": [
+        "turael",
+        "mazchna",
+        "vannaka",
+        "chaeldar"
+      ],
+      "icon_base64": null
+    },
+    "relationships": {
+      "combat_stat": {
+        "data": {
+          "id": "ea87dac2-2bc6-47ec-8040-a14443e301ac",
+          "type": "combat_stat"
+        }
+      },
+      "equip_stat": {
+        "data": {
+          "id": "f7c266ff-671d-4f56-9cb0-c4c880ced382",
+          "type": "equip_stat"
+        }
+      },
+      "attack_stat": {
+        "data": {
+          "id": "9621f114-5b2e-4d07-a022-6c19010114ee",
+          "type": "attack_stat"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Cave_crawler"
+    },
+    "meta": {
+      "incomplete": true
+    }
+  },
+  "included": [
+    {
+      "id": "9621f114-5b2e-4d07-a022-6c19010114ee",
+      "type": "attack_stat",
+      "attributes": {
+        "attack_speed": 4,
+        "attack_type": "monster",
+        "special": null,
+        "stances": [
+          {
+            "name": "Monster melee",
+            "style": null,
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": null,
+            "combat_accuracy_stat": "attack_level",
+            "combat_damage_stat": "strength_level",
+            "equip_accuracy_stat": "crush_attack",
+            "equip_damage_stat": "crush_attack",
+            "target_equip_defense_stat": "crush_defense"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ea87dac2-2bc6-47ec-8040-a14443e301ac",
+      "type": "monster_combat_stat",
+      "attributes": {
+        "hitpoints_level": 22,
+        "attack_level": 22,
+        "strength_level": 18,
+        "defense_level": 18,
+        "magic_level": 1,
+        "ranged_level": 1,
+        "prayer_level": 0
+      }
+    },
+    {
+      "id": "f7c266ff-671d-4f56-9cb0-c4c880ced382",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 0,
+        "slash_attack": 0,
+        "crush_attack": 0,
+        "ranged_attack": 0,
+        "magic_attack": 0,
+        "stab_defense": 10,
+        "slash_defense": 10,
+        "crush_defense": 5,
+        "ranged_defense": 10,
+        "magic_defense": 5,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

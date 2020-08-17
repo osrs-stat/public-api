@@ -1,0 +1,20 @@
+{
+  "data": [
+    {
+      "id": "1517-2265",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 15,
+        "quantity_max": 65,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Maple logs",
+        "monster_name": "Dagannoth Supreme"
+      }
+    }
+  ]
+}

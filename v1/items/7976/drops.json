@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "id": "7976-7393",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.001"
+      },
+      "meta": {
+        "item_name": "Cockatrice head",
+        "monster_name": "Cockathrice"
+      }
+    },
+    {
+      "id": "7976-419",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.001"
+      },
+      "meta": {
+        "item_name": "Cockatrice head",
+        "monster_name": "Cockatrice"
+      }
+    }
+  ]
+}

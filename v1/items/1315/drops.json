@@ -1,0 +1,596 @@
+{
+  "data": [
+    {
+      "id": "1315-249",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Mithril 2h sword",
+        "monster_name": "Red dragon (3)"
+      }
+    },
+    {
+      "id": "1315-250",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Mithril 2h sword",
+        "monster_name": "Red dragon (4)"
+      }
+    },
+    {
+      "id": "1315-251",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Mithril 2h sword",
+        "monster_name": "Red dragon (5)"
+      }
+    },
+    {
+      "id": "1315-252",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Mithril 2h sword",
+        "monster_name": "Black dragon (Level 227)"
+      }
+    },
+    {
+      "id": "1315-260",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Mithril 2h sword",
+        "monster_name": "Green dragon (Level 79)"
+      }
+    },
+    {
+      "id": "1315-270",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Mithril 2h sword",
+        "monster_name": "Bronze dragon (Standard)"
+      }
+    },
+    {
+      "id": "1315-2267",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Mithril 2h sword",
+        "monster_name": "Dagannoth Rex"
+      }
+    },
+    {
+      "id": "1315-4442",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Mithril 2h sword",
+        "monster_name": "Vampyre Juvinate (Level 75)"
+      }
+    },
+    {
+      "id": "1315-3694",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Mithril 2h sword",
+        "monster_name": "Vampyre Juvinate (Level 54 (Meiyerditch))"
+      }
+    },
+    {
+      "id": "1315-4427",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Mithril 2h sword",
+        "monster_name": "Vampyre Juvinate (Level 54)"
+      }
+    },
+    {
+      "id": "1315-7868",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Mithril 2h sword",
+        "monster_name": "Green dragon (Level 88)"
+      }
+    },
+    {
+      "id": "1315-7861",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Mithril 2h sword",
+        "monster_name": "Black dragon (Level 247)"
+      }
+    },
+    {
+      "id": "1315-7253",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Mithril 2h sword",
+        "monster_name": "Bronze dragon (Catacombs of Kourend)"
+      }
+    },
+    {
+      "id": "1315-6466",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Mithril 2h sword",
+        "monster_name": "Zombie (Tarn's Lair) (Level 81)"
+      }
+    },
+    {
+      "id": "1315-6465",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Mithril 2h sword",
+        "monster_name": "Zombie (Tarn's Lair) (Level 100)"
+      }
+    },
+    {
+      "id": "1315-6464",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Mithril 2h sword",
+        "monster_name": "Zombie (Tarn's Lair) (Level 98)"
+      }
+    },
+    {
+      "id": "1315-6463",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Mithril 2h sword",
+        "monster_name": "Zombie (Tarn's Lair) (Level 95)"
+      }
+    },
+    {
+      "id": "1315-6462",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Mithril 2h sword",
+        "monster_name": "Zombie (Tarn's Lair) (Level 90)"
+      }
+    },
+    {
+      "id": "1315-6461",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Mithril 2h sword",
+        "monster_name": "Zombie (Tarn's Lair) (Level 86)"
+      }
+    },
+    {
+      "id": "1315-6460",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Mithril 2h sword",
+        "monster_name": "Zombie (Tarn's Lair) (Level 85)"
+      }
+    },
+    {
+      "id": "1315-6459",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Mithril 2h sword",
+        "monster_name": "Zombie (Tarn's Lair) (Level 80)"
+      }
+    },
+    {
+      "id": "1315-6458",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Mithril 2h sword",
+        "monster_name": "Zombie (Tarn's Lair) (Level 76)"
+      }
+    },
+    {
+      "id": "1315-6457",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Mithril 2h sword",
+        "monster_name": "Zombie (Tarn's Lair) (Level 72)"
+      }
+    },
+    {
+      "id": "1315-6456",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Mithril 2h sword",
+        "monster_name": "Zombie (Tarn's Lair) (Level 70)"
+      }
+    },
+    {
+      "id": "1315-6455",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Mithril 2h sword",
+        "monster_name": "Zombie (Tarn's Lair) (Level 67)"
+      }
+    },
+    {
+      "id": "1315-6454",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Mithril 2h sword",
+        "monster_name": "Zombie (Tarn's Lair) (Level 61)"
+      }
+    },
+    {
+      "id": "1315-6453",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Mithril 2h sword",
+        "monster_name": "Zombie (Tarn's Lair) (Level 56)"
+      }
+    },
+    {
+      "id": "1315-6452",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Mithril 2h sword",
+        "monster_name": "Zombie (Tarn's Lair) (Level 50)"
+      }
+    },
+    {
+      "id": "1315-6451",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Mithril 2h sword",
+        "monster_name": "Zombie (Tarn's Lair) (Level 47)"
+      }
+    },
+    {
+      "id": "1315-6450",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Mithril 2h sword",
+        "monster_name": "Zombie (Tarn's Lair) (Level 42)"
+      }
+    },
+    {
+      "id": "1315-6449",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Mithril 2h sword",
+        "monster_name": "Zombie (Tarn's Lair) (Level 40)"
+      }
+    },
+    {
+      "id": "1315-5636",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Mithril 2h sword",
+        "monster_name": "Vampyre Juvinate (Level 119)"
+      }
+    },
+    {
+      "id": "1315-5635",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Mithril 2h sword",
+        "monster_name": "Vampyre Juvinate (Level 90)"
+      }
+    },
+    {
+      "id": "1315-5634",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Mithril 2h sword",
+        "monster_name": "Vampyre Juvinate (Level 59)"
+      }
+    },
+    {
+      "id": "1315-4443",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Mithril 2h sword",
+        "monster_name": "Vampyre Juvinate (Level 50)"
+      }
+    },
+    {
+      "id": "1315-247",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Mithril 2h sword",
+        "monster_name": "Red dragon (1)"
+      }
+    },
+    {
+      "id": "1315-248",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Mithril 2h sword",
+        "monster_name": "Red dragon (2)"
+      }
+    }
+  ]
+}

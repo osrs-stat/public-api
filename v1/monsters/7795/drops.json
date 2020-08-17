@@ -1,0 +1,1012 @@
+{
+  "data": [
+    {
+      "id": "995-7795",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2000,
+        "quantity_max": 6000,
+        "rarity": "0.0522388059701493"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Ancient Wyvern"
+      }
+    },
+    {
+      "id": "207-7795",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0298507462686567"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Ancient Wyvern"
+      }
+    },
+    {
+      "id": "22871-7795",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000238805970149254"
+      },
+      "meta": {
+        "item_name": "Redwood tree seed",
+        "monster_name": "Ancient Wyvern"
+      }
+    },
+    {
+      "id": "22869-7795",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000238805970149254"
+      },
+      "meta": {
+        "item_name": "Celastrus seed",
+        "monster_name": "Ancient Wyvern"
+      }
+    },
+    {
+      "id": "22877-7795",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000358180300799817"
+      },
+      "meta": {
+        "item_name": "Dragonfruit tree seed",
+        "monster_name": "Ancient Wyvern"
+      }
+    },
+    {
+      "id": "5317-7795",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000477611940298507"
+      },
+      "meta": {
+        "item_name": "Spirit seed",
+        "monster_name": "Ancient Wyvern"
+      }
+    },
+    {
+      "id": "5289-7795",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000597014925373134"
+      },
+      "meta": {
+        "item_name": "Palm tree seed",
+        "monster_name": "Ancient Wyvern"
+      }
+    },
+    {
+      "id": "5316-7795",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000716532555656666"
+      },
+      "meta": {
+        "item_name": "Magic seed",
+        "monster_name": "Ancient Wyvern"
+      }
+    },
+    {
+      "id": "5288-7795",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000835687185572696"
+      },
+      "meta": {
+        "item_name": "Papaya tree seed",
+        "monster_name": "Ancient Wyvern"
+      }
+    },
+    {
+      "id": "5315-7795",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00107454090239945"
+      },
+      "meta": {
+        "item_name": "Yew seed",
+        "monster_name": "Ancient Wyvern"
+      }
+    },
+    {
+      "id": "21486-7795",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00107454090239945"
+      },
+      "meta": {
+        "item_name": "Teak seed",
+        "monster_name": "Ancient Wyvern"
+      }
+    },
+    {
+      "id": "5314-7795",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00107454090239945"
+      },
+      "meta": {
+        "item_name": "Maple seed",
+        "monster_name": "Ancient Wyvern"
+      }
+    },
+    {
+      "id": "21488-7795",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00107454090239945"
+      },
+      "meta": {
+        "item_name": "Mahogany seed",
+        "monster_name": "Ancient Wyvern"
+      }
+    },
+    {
+      "id": "5313-7795",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00119402985074627"
+      },
+      "meta": {
+        "item_name": "Willow seed",
+        "monster_name": "Ancient Wyvern"
+      }
+    },
+    {
+      "id": "5321-7795",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 15,
+        "quantity_max": null,
+        "rarity": "0.00119402985074627"
+      },
+      "meta": {
+        "item_name": "Watermelon seed",
+        "monster_name": "Ancient Wyvern"
+      }
+    },
+    {
+      "id": "5304-7795",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00131385326886693"
+      },
+      "meta": {
+        "item_name": "Torstol seed",
+        "monster_name": "Ancient Wyvern"
+      }
+    },
+    {
+      "id": "6812-7795",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Wyvern bones",
+        "monster_name": "Ancient Wyvern"
+      }
+    },
+    {
+      "id": "1397-7795",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.0597014925373134"
+      },
+      "meta": {
+        "item_name": "Air battlestaff",
+        "monster_name": "Ancient Wyvern"
+      }
+    },
+    {
+      "id": "1405-7795",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0223880597014925"
+      },
+      "meta": {
+        "item_name": "Mystic air staff",
+        "monster_name": "Ancient Wyvern"
+      }
+    },
+    {
+      "id": "1275-7795",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0223880597014925"
+      },
+      "meta": {
+        "item_name": "Rune pickaxe (Regular)",
+        "monster_name": "Ancient Wyvern"
+      }
+    },
+    {
+      "id": "1373-7795",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0149253731343284"
+      },
+      "meta": {
+        "item_name": "Rune battleaxe",
+        "monster_name": "Ancient Wyvern"
+      }
+    },
+    {
+      "id": "1163-7795",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0149253731343284"
+      },
+      "meta": {
+        "item_name": "Rune full helm",
+        "monster_name": "Ancient Wyvern"
+      }
+    },
+    {
+      "id": "1391-7795",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 6,
+        "quantity_max": null,
+        "rarity": "0.0298507462686567"
+      },
+      "meta": {
+        "item_name": "Battlestaff",
+        "monster_name": "Ancient Wyvern"
+      }
+    },
+    {
+      "id": "21646-7795",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00166666666666667"
+      },
+      "meta": {
+        "item_name": "Granite longsword",
+        "monster_name": "Ancient Wyvern"
+      }
+    },
+    {
+      "id": "21643-7795",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00166666666666667"
+      },
+      "meta": {
+        "item_name": "Granite boots",
+        "monster_name": "Ancient Wyvern"
+      }
+    },
+    {
+      "id": "890-7795",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 50,
+        "quantity_max": 76,
+        "rarity": "0.0223880597014925"
+      },
+      "meta": {
+        "item_name": "Adamant arrow (Unpoisoned)",
+        "monster_name": "Ancient Wyvern"
+      }
+    },
+    {
+      "id": "561-7795",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 37,
+        "quantity_max": 43,
+        "rarity": "0.0298507462686567"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Ancient Wyvern"
+      }
+    },
+    {
+      "id": "560-7795",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 47,
+        "quantity_max": 53,
+        "rarity": "0.0298507462686567"
+      },
+      "meta": {
+        "item_name": "Death rune (Regular)",
+        "monster_name": "Ancient Wyvern"
+      }
+    },
+    {
+      "id": "565-7795",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 27,
+        "quantity_max": 33,
+        "rarity": "0.0298507462686567"
+      },
+      "meta": {
+        "item_name": "Blood rune (Regular)",
+        "monster_name": "Ancient Wyvern"
+      }
+    },
+    {
+      "id": "892-7795",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 25,
+        "quantity_max": 50,
+        "rarity": "0.0223880597014925"
+      },
+      "meta": {
+        "item_name": "Rune arrow (Unpoisoned)",
+        "monster_name": "Ancient Wyvern"
+      }
+    },
+    {
+      "id": "9144-7795",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 30,
+        "quantity_max": 60,
+        "rarity": "0.00746268656716418"
+      },
+      "meta": {
+        "item_name": "Runite bolts (Unpoisoned)",
+        "monster_name": "Ancient Wyvern"
+      }
+    },
+    {
+      "id": "213-7795",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.0186567164179104"
+      },
+      "meta": {
+        "item_name": "Grimy kwuarm",
+        "monster_name": "Ancient Wyvern"
+      }
+    },
+    {
+      "id": "215-7795",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.0149253731343284"
+      },
+      "meta": {
+        "item_name": "Grimy cadantine",
+        "monster_name": "Ancient Wyvern"
+      }
+    },
+    {
+      "id": "2485-7795",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.0111940298507463"
+      },
+      "meta": {
+        "item_name": "Grimy lantadyme",
+        "monster_name": "Ancient Wyvern"
+      }
+    },
+    {
+      "id": "217-7795",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.0149253731343284"
+      },
+      "meta": {
+        "item_name": "Grimy dwarf weed",
+        "monster_name": "Ancient Wyvern"
+      }
+    },
+    {
+      "id": "219-7795",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0298507462686567"
+      },
+      "meta": {
+        "item_name": "Grimy torstol",
+        "monster_name": "Ancient Wyvern"
+      }
+    },
+    {
+      "id": "5300-7795",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00167156155609008"
+      },
+      "meta": {
+        "item_name": "Snapdragon seed",
+        "monster_name": "Ancient Wyvern"
+      }
+    },
+    {
+      "id": "5295-7795",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00179111642077623"
+      },
+      "meta": {
+        "item_name": "Ranarr seed",
+        "monster_name": "Ancient Wyvern"
+      }
+    },
+    {
+      "id": "21637-7795",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0001"
+      },
+      "meta": {
+        "item_name": "Wyvern visage",
+        "monster_name": "Ancient Wyvern"
+      }
+    },
+    {
+      "id": "12073-7795",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00285714285714286"
+      },
+      "meta": {
+        "item_name": "Clue scroll (elite)",
+        "monster_name": "Ancient Wyvern"
+      }
+    },
+    {
+      "id": "23083-7795",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.016025641025641"
+      },
+      "meta": {
+        "item_name": "Brimstone key",
+        "monster_name": "Ancient Wyvern"
+      }
+    },
+    {
+      "id": "6034-7795",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 7,
+        "quantity_max": 10,
+        "rarity": "0.0223880597014925"
+      },
+      "meta": {
+        "item_name": "Supercompost",
+        "monster_name": "Ancient Wyvern"
+      }
+    },
+    {
+      "id": "9465-7795",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0223880597014925"
+      },
+      "meta": {
+        "item_name": "Runite crossbow (u)",
+        "monster_name": "Ancient Wyvern"
+      }
+    },
+    {
+      "id": "3024-7795",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.0597014925373134"
+      },
+      "meta": {
+        "item_name": "Super restore (4 dose)",
+        "monster_name": "Ancient Wyvern"
+      }
+    },
+    {
+      "id": "12699-7795",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0373134328358209"
+      },
+      "meta": {
+        "item_name": "Super combat potion (2 dose)",
+        "monster_name": "Ancient Wyvern"
+      }
+    },
+    {
+      "id": "385-7795",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.0597014925373134"
+      },
+      "meta": {
+        "item_name": "Shark",
+        "monster_name": "Ancient Wyvern"
+      }
+    },
+    {
+      "id": "21568-7795",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00342857142857143"
+      },
+      "meta": {
+        "item_name": "Unidentified rare fossil",
+        "monster_name": "Ancient Wyvern"
+      }
+    },
+    {
+      "id": "21566-7795",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0137142857142857"
+      },
+      "meta": {
+        "item_name": "Unidentified large fossil",
+        "monster_name": "Ancient Wyvern"
+      }
+    },
+    {
+      "id": "21564-7795",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0171428571428571"
+      },
+      "meta": {
+        "item_name": "Unidentified medium fossil",
+        "monster_name": "Ancient Wyvern"
+      }
+    },
+    {
+      "id": "21562-7795",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0342857142857143"
+      },
+      "meta": {
+        "item_name": "Unidentified small fossil",
+        "monster_name": "Ancient Wyvern"
+      }
+    },
+    {
+      "id": "21555-7795",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": 24,
+        "rarity": "0.617142857142857"
+      },
+      "meta": {
+        "item_name": "Numulite",
+        "monster_name": "Ancient Wyvern"
+      }
+    },
+    {
+      "id": "6332-7795",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 25,
+        "quantity_max": 30,
+        "rarity": "0.0373134328358209"
+      },
+      "meta": {
+        "item_name": "Mahogany logs",
+        "monster_name": "Ancient Wyvern"
+      }
+    },
+    {
+      "id": "21622-7795",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 80,
+        "quantity_max": 120,
+        "rarity": "0.0447761194029851"
+      },
+      "meta": {
+        "item_name": "Volcanic ash",
+        "monster_name": "Ancient Wyvern"
+      }
+    },
+    {
+      "id": "9194-7795",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": 15,
+        "rarity": "0.0298507462686567"
+      },
+      "meta": {
+        "item_name": "Onyx bolt tips",
+        "monster_name": "Ancient Wyvern"
+      }
+    },
+    {
+      "id": "1601-7795",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 3,
+        "quantity_max": 5,
+        "rarity": "0.0223880597014925"
+      },
+      "meta": {
+        "item_name": "Diamond",
+        "monster_name": "Ancient Wyvern"
+      }
+    },
+    {
+      "id": "451-7795",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 2,
+        "quantity_max": 3,
+        "rarity": "0.0223880597014925"
+      },
+      "meta": {
+        "item_name": "Runite ore",
+        "monster_name": "Ancient Wyvern"
+      }
+    },
+    {
+      "id": "449-7795",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 20,
+        "quantity_max": null,
+        "rarity": "0.0373134328358209"
+      },
+      "meta": {
+        "item_name": "Adamantite ore",
+        "monster_name": "Ancient Wyvern"
+      }
+    },
+    {
+      "id": "2361-7795",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.0447761194029851"
+      },
+      "meta": {
+        "item_name": "Adamantite bar",
+        "monster_name": "Ancient Wyvern"
+      }
+    },
+    {
+      "id": "21488-7795",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": 3,
+        "rarity": "0.0149253731343284"
+      },
+      "meta": {
+        "item_name": "Mahogany seed",
+        "monster_name": "Ancient Wyvern"
+      }
+    },
+    {
+      "id": "5315-7795",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": 3,
+        "rarity": "0.00995024875621891"
+      },
+      "meta": {
+        "item_name": "Yew seed",
+        "monster_name": "Ancient Wyvern"
+      }
+    },
+    {
+      "id": "5316-7795",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": 3,
+        "rarity": "0.00497512437810945"
+      },
+      "meta": {
+        "item_name": "Magic seed",
+        "monster_name": "Ancient Wyvern"
+      }
+    },
+    {
+      "id": "5295-7795",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": 3,
+        "rarity": "0.00746268656716418"
+      },
+      "meta": {
+        "item_name": "Ranarr seed",
+        "monster_name": "Ancient Wyvern"
+      }
+    },
+    {
+      "id": "21490-7795",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 16,
+        "quantity_max": 24,
+        "rarity": "0.0149253731343284"
+      },
+      "meta": {
+        "item_name": "Seaweed spore",
+        "monster_name": "Ancient Wyvern"
+      }
+    }
+  ]
+}

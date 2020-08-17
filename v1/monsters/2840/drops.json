@@ -1,0 +1,404 @@
+{
+  "data": [
+    {
+      "id": "995-2840",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 12,
+        "quantity_max": null,
+        "rarity": "0.140625"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Earth warrior"
+      }
+    },
+    {
+      "id": "1385-2840",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Staff of earth",
+        "monster_name": "Earth warrior"
+      }
+    },
+    {
+      "id": "1241-2840",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Steel spear (Unpoisoned)",
+        "monster_name": "Earth warrior"
+      }
+    },
+    {
+      "id": "21257-2840",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0036101083032491"
+      },
+      "meta": {
+        "item_name": "Slayer's enchantment",
+        "monster_name": "Earth warrior"
+      }
+    },
+    {
+      "id": "23490-2840",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00283848992336077"
+      },
+      "meta": {
+        "item_name": "Larran's key",
+        "monster_name": "Earth warrior"
+      }
+    },
+    {
+      "id": "209-2840",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0068359375"
+      },
+      "meta": {
+        "item_name": "Grimy irit leaf",
+        "monster_name": "Earth warrior"
+      }
+    },
+    {
+      "id": "211-2840",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0051277543366151"
+      },
+      "meta": {
+        "item_name": "Grimy avantoe",
+        "monster_name": "Earth warrior"
+      }
+    },
+    {
+      "id": "213-2840",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0042724609375"
+      },
+      "meta": {
+        "item_name": "Grimy kwuarm",
+        "monster_name": "Earth warrior"
+      }
+    },
+    {
+      "id": "215-2840",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00341796875"
+      },
+      "meta": {
+        "item_name": "Grimy cadantine",
+        "monster_name": "Earth warrior"
+      }
+    },
+    {
+      "id": "2485-2840",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00256327630653855"
+      },
+      "meta": {
+        "item_name": "Grimy lantadyme",
+        "monster_name": "Earth warrior"
+      }
+    },
+    {
+      "id": "557-2840",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 60,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Earth rune (Regular)",
+        "monster_name": "Earth warrior"
+      }
+    },
+    {
+      "id": "560-2840",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Death rune (Regular)",
+        "monster_name": "Earth warrior"
+      }
+    },
+    {
+      "id": "563-2840",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.046875"
+      },
+      "meta": {
+        "item_name": "Law rune",
+        "monster_name": "Earth warrior"
+      }
+    },
+    {
+      "id": "207-2840",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00939647766323024"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Earth warrior"
+      }
+    },
+    {
+      "id": "205-2840",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0119627037077546"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Earth warrior"
+      }
+    },
+    {
+      "id": "203-2840",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0153810997046829"
+      },
+      "meta": {
+        "item_name": "Grimy tarromin",
+        "monster_name": "Earth warrior"
+      }
+    },
+    {
+      "id": "201-2840",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0205090943183949"
+      },
+      "meta": {
+        "item_name": "Grimy marrentill",
+        "monster_name": "Earth warrior"
+      }
+    },
+    {
+      "id": "199-2840",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.02734375"
+      },
+      "meta": {
+        "item_name": "Grimy guam leaf",
+        "monster_name": "Earth warrior"
+      }
+    },
+    {
+      "id": "6798-2840",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0002"
+      },
+      "meta": {
+        "item_name": "Earth warrior champion scroll",
+        "monster_name": "Earth warrior"
+      }
+    },
+    {
+      "id": "11941-2840",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Earth warrior"
+      }
+    },
+    {
+      "id": "565-2840",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Blood rune (Regular)",
+        "monster_name": "Earth warrior"
+      }
+    },
+    {
+      "id": "562-2840",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.0546875"
+      },
+      "meta": {
+        "item_name": "Chaos rune (Regular)",
+        "monster_name": "Earth warrior"
+      }
+    },
+    {
+      "id": "561-2840",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.0703125"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Earth warrior"
+      }
+    },
+    {
+      "id": "557-2840",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 12,
+        "quantity_max": null,
+        "rarity": "0.1015625"
+      },
+      "meta": {
+        "item_name": "Earth rune (Regular)",
+        "monster_name": "Earth warrior"
+      }
+    },
+    {
+      "id": "217-2840",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00256327630653855"
+      },
+      "meta": {
+        "item_name": "Grimy dwarf weed",
+        "monster_name": "Earth warrior"
+      }
+    }
+  ]
+}

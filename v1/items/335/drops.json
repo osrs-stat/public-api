@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "id": "335-6736",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Raw trout",
+        "monster_name": "River troll (Level 120)"
+      }
+    },
+    {
+      "id": "335-6735",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Raw trout",
+        "monster_name": "River troll (Level 79)"
+      }
+    },
+    {
+      "id": "335-6737",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Raw trout",
+        "monster_name": "River troll (Level 159)"
+      }
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "data": [
+    {
+      "id": "21545-7797",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.166666666666667"
+      },
+      "meta": {
+        "item_name": "Pyrophosphite",
+        "monster_name": "Ancient Zygomite"
+      }
+    },
+    {
+      "id": "21545-7794",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.016260162601626"
+      },
+      "meta": {
+        "item_name": "Pyrophosphite",
+        "monster_name": "Spitting Wyvern"
+      }
+    },
+    {
+      "id": "21545-7799",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Pyrophosphite",
+        "monster_name": "Ammonite Crab"
+      }
+    },
+    {
+      "id": "21545-7793",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.016260162601626"
+      },
+      "meta": {
+        "item_name": "Pyrophosphite",
+        "monster_name": "Taloned Wyvern"
+      }
+    },
+    {
+      "id": "21545-7792",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.016260162601626"
+      },
+      "meta": {
+        "item_name": "Pyrophosphite",
+        "monster_name": "Long-tailed Wyvern"
+      }
+    }
+  ]
+}

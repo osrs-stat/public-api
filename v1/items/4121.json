@@ -1,0 +1,75 @@
+{
+  "data": {
+    "id": "4121",
+    "type": "item",
+    "attributes": {
+      "uuid": "bac65f3e-e3e4-4df1-b526-c8602d85e764",
+      "name": "Iron boots",
+      "members": true,
+      "release_date": "2005-01-26",
+      "examine": "These will protect my feet.",
+      "tradeable": false,
+      "ge_tradeable": false,
+      "lowalch": 33,
+      "highalch": 50,
+      "is_equip": true,
+      "is_weapon": false,
+      "icon_base64": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACfElEQVR4Xu2UzWvbQBDFs8cecujBYAQBIYQxxhhTXExETERFjROc4Jh8kTQhTSmF/v/3KW/VJ49WUpDkNIa2A4MuOzu/eW+0e3v/4+8NI2nuPFKQZHJgc8dgGxDkefJRlvEHGYUdBfZmgEYWUz/L9XyaAS1mY0mikcTTgfT99+J13pUAviqkkWUU2ATM9UlUADocejLpdyXw9jMgrebxWNu7FZyR1Sy0SSgXCM0ABOsIBHDXWq3kFnApkFZIJ6cvA6qyFkrqsw2hjFzGvQxKg2g70AT7gyZ1rOVZAo19vy5UCoRkIw3CZBNXzSprtwBCbFRiQ22VbuIC4VyZtQQiTEMghJHb5ZG1wU78u6GGGg4GpUCutQRqqQ7DyONFnIPikh6OezLq+xL63cK+ufaWLXQLICM/np7k692d3K7XcnF6KoskkU+zmUyGQQZz4HWk29mXh5sbub+6sl+qSCW5a/1eT8IgaAOUwnz7cm+bXJ6dyXI+l89xbJVxgdJfOE33d8f7czTp5+oaAhn5+fycgzk/WVggKPQSkK7TMO55KJrW1AqTXXq9WlmrCKTtGoReDggwL1nM84Sp+ZcZ+f74YPcAlwIIChFKq+MCAUbXEojLj/NandowmJALiosJBIUIVAUDZVGLQTAAds61q5E6uNAFokr6cgJpq1irfwJ3gAbqIFKFqqCOoygHxEWmOqyhXQRqaReiCETLuD9VMFodArnvFWtq2sUw2cW0CjBYzuIbUj4A90fbpUEawDA2jxzfHk6bn7B85zCE/rtaqFIM3VRn/uIUyH0ikHwMizWvEFrq4sUmt8h8QKHOH4GpF3kVy9V843BV3CnMPxG/ABCJhD+kmMsQAAAAAElFTkSuQmCC"
+    },
+    "relationships": {
+      "equip": {
+        "data": {
+          "id": "ddc0d547-4921-4a06-9936-3d443044846c",
+          "type": "equip"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Iron_boots"
+    },
+    "meta": {
+      "incomplete": false
+    }
+  },
+  "included": [
+    {
+      "id": "ddc0d547-4921-4a06-9936-3d443044846c",
+      "type": "equip",
+      "attributes": {
+        "slot": "boots",
+        "passive_effect": null,
+        "requirements": {
+          "defense_level": 1
+        }
+      },
+      "relationships": {
+        "equip_stat": {
+          "data": {
+            "id": "994b5491-5b43-44c2-8374-8a1759c7b69e",
+            "type": "equip_stat"
+          }
+        }
+      }
+    },
+    {
+      "id": "994b5491-5b43-44c2-8374-8a1759c7b69e",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 0,
+        "slash_attack": 0,
+        "crush_attack": 0,
+        "ranged_attack": -1,
+        "magic_attack": -3,
+        "stab_defense": 2,
+        "slash_defense": 3,
+        "crush_defense": 4,
+        "ranged_defense": 0,
+        "magic_defense": 0,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

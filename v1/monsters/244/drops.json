@@ -1,0 +1,100 @@
+{
+  "data": [
+    {
+      "id": "23083-244",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0015605493133583"
+      },
+      "meta": {
+        "item_name": "Brimstone key",
+        "monster_name": "Baby red dragon (1)"
+      }
+    },
+    {
+      "id": "23499-244",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "forthos-dungeon-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0125"
+      },
+      "meta": {
+        "item_name": "Grubby key",
+        "monster_name": "Baby red dragon (1)"
+      }
+    },
+    {
+      "id": "23510-244",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "forthos-dungeon-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.04"
+      },
+      "meta": {
+        "item_name": "Tattered moon page",
+        "monster_name": "Baby red dragon (1)"
+      }
+    },
+    {
+      "id": "23512-244",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "forthos-dungeon-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.04"
+      },
+      "meta": {
+        "item_name": "Tattered sun page",
+        "monster_name": "Baby red dragon (1)"
+      }
+    },
+    {
+      "id": "23514-244",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "forthos-dungeon-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.04"
+      },
+      "meta": {
+        "item_name": "Tattered temple page",
+        "monster_name": "Baby red dragon (1)"
+      }
+    },
+    {
+      "id": "534-244",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Babydragon bones",
+        "monster_name": "Baby red dragon (1)"
+      }
+    }
+  ]
+}

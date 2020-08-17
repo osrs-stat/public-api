@@ -1,0 +1,100 @@
+{
+  "data": [
+    {
+      "id": "23182-5242",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.01"
+      },
+      "meta": {
+        "item_name": "Clue scroll (beginner)",
+        "monster_name": "Scorpion (Level 38)"
+      }
+    },
+    {
+      "id": "13459-5242",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.04"
+      },
+      "meta": {
+        "item_name": "Ensouled scorpion head (Item)",
+        "monster_name": "Scorpion (Level 38)"
+      }
+    },
+    {
+      "id": "11941-5242",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.1"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Scorpion (Level 38)"
+      }
+    },
+    {
+      "id": "23490-5242",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00158931977113795"
+      },
+      "meta": {
+        "item_name": "Larran's key",
+        "monster_name": "Scorpion (Level 38)"
+      }
+    },
+    {
+      "id": "21257-5242",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00324675324675325"
+      },
+      "meta": {
+        "item_name": "Slayer's enchantment",
+        "monster_name": "Scorpion (Level 38)"
+      }
+    },
+    {
+      "id": "4569-5242",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Book page 1",
+        "monster_name": "Scorpion (Level 38)"
+      }
+    }
+  ]
+}

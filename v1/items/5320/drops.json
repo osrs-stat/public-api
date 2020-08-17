@@ -1,0 +1,20 @@
+{
+  "data": [
+    {
+      "id": "5320-6604",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Sweetcorn seed",
+        "monster_name": "Mammoth"
+      }
+    }
+  ]
+}

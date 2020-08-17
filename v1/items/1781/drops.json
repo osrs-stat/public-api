@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "id": "1781-470",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 4,
+        "quantity_max": null,
+        "rarity": "0.00714285714285714"
+      },
+      "meta": {
+        "item_name": "Soda ash",
+        "monster_name": "Killerwatt (Idle)"
+      }
+    },
+    {
+      "id": "1781-5944",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.078125"
+      },
+      "meta": {
+        "item_name": "Soda ash",
+        "monster_name": "Rock lobster"
+      }
+    },
+    {
+      "id": "1781-469",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 4,
+        "quantity_max": null,
+        "rarity": "0.00714285714285714"
+      },
+      "meta": {
+        "item_name": "Soda ash",
+        "monster_name": "Killerwatt (Attacking)"
+      }
+    }
+  ]
+}

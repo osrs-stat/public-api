@@ -1,0 +1,724 @@
+{
+  "data": [
+    {
+      "id": "314-1175",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 15,
+        "quantity_max": null,
+        "rarity": "0.25"
+      },
+      "meta": {
+        "item_name": "Feather",
+        "monster_name": "Rooster (Level 3)"
+      }
+    },
+    {
+      "id": "314-1175",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.5"
+      },
+      "meta": {
+        "item_name": "Feather",
+        "monster_name": "Rooster (Level 3)"
+      }
+    },
+    {
+      "id": "314-1173",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 15,
+        "quantity_max": null,
+        "rarity": "0.25"
+      },
+      "meta": {
+        "item_name": "Feather",
+        "monster_name": "Chicken"
+      }
+    },
+    {
+      "id": "314-1173",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.5"
+      },
+      "meta": {
+        "item_name": "Feather",
+        "monster_name": "Chicken"
+      }
+    },
+    {
+      "id": "314-973",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 15,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Feather",
+        "monster_name": "Dagannoth (Level 92 (1))"
+      }
+    },
+    {
+      "id": "314-970",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 15,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Feather",
+        "monster_name": "Dagannoth (Level 74 (1))"
+      }
+    },
+    {
+      "id": "314-2538",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 6,
+        "rarity": "0.0272727272727273"
+      },
+      "meta": {
+        "item_name": "Feather",
+        "monster_name": "H.A.M. Guard (Level 22)"
+      }
+    },
+    {
+      "id": "314-2536",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 6,
+        "rarity": "0.0272727272727273"
+      },
+      "meta": {
+        "item_name": "Feather",
+        "monster_name": "H.A.M. Guard (Level 12)"
+      }
+    },
+    {
+      "id": "314-2265",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 250,
+        "quantity_max": 500,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Feather",
+        "monster_name": "Dagannoth Supreme"
+      }
+    },
+    {
+      "id": "314-1870",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 100,
+        "quantity_max": 200,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Feather",
+        "monster_name": "Evil Chicken (Normal)"
+      }
+    },
+    {
+      "id": "314-3176",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 6,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Feather",
+        "monster_name": "Aviansie (Level 148)"
+      }
+    },
+    {
+      "id": "314-3175",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 6,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Feather",
+        "monster_name": "Aviansie (Level 137)"
+      }
+    },
+    {
+      "id": "314-3174",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 6,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Feather",
+        "monster_name": "Aviansie (Level 97 (1))"
+      }
+    },
+    {
+      "id": "314-3173",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 6,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Feather",
+        "monster_name": "Aviansie (Level 92)"
+      }
+    },
+    {
+      "id": "314-3172",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 6,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Feather",
+        "monster_name": "Aviansie (Level 83)"
+      }
+    },
+    {
+      "id": "314-3171",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 6,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Feather",
+        "monster_name": "Aviansie (Level 84)"
+      }
+    },
+    {
+      "id": "314-3170",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 6,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Feather",
+        "monster_name": "Aviansie (Level 79 (1))"
+      }
+    },
+    {
+      "id": "314-3169",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 6,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Feather",
+        "monster_name": "Aviansie (Level 69)"
+      }
+    },
+    {
+      "id": "314-3165",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 11,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Feather",
+        "monster_name": "Flight Kilisa"
+      }
+    },
+    {
+      "id": "314-3164",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 11,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Feather",
+        "monster_name": "Flockleader Geerin"
+      }
+    },
+    {
+      "id": "314-3163",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 11,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Feather",
+        "monster_name": "Wingman Skree"
+      }
+    },
+    {
+      "id": "314-3162",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 16,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Feather",
+        "monster_name": "Kree'arra"
+      }
+    },
+    {
+      "id": "314-2993",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 15,
+        "quantity_max": null,
+        "rarity": "0.25"
+      },
+      "meta": {
+        "item_name": "Feather",
+        "monster_name": "Undead chicken"
+      }
+    },
+    {
+      "id": "314-2993",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.5"
+      },
+      "meta": {
+        "item_name": "Feather",
+        "monster_name": "Undead chicken"
+      }
+    },
+    {
+      "id": "314-2537",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 6,
+        "rarity": "0.0272727272727273"
+      },
+      "meta": {
+        "item_name": "Feather",
+        "monster_name": "H.A.M. Guard (Level 18)"
+      }
+    },
+    {
+      "id": "314-7260",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 15,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Feather",
+        "monster_name": "Dagannoth (Level 92 (2))"
+      }
+    },
+    {
+      "id": "314-7259",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 15,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Feather",
+        "monster_name": "Dagannoth (Level 74 (2))"
+      }
+    },
+    {
+      "id": "314-6737",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": 20,
+        "rarity": "0.125"
+      },
+      "meta": {
+        "item_name": "Feather",
+        "monster_name": "River troll (Level 159)"
+      }
+    },
+    {
+      "id": "314-6736",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": 20,
+        "rarity": "0.125"
+      },
+      "meta": {
+        "item_name": "Feather",
+        "monster_name": "River troll (Level 120)"
+      }
+    },
+    {
+      "id": "314-6735",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": 20,
+        "rarity": "0.125"
+      },
+      "meta": {
+        "item_name": "Feather",
+        "monster_name": "River troll (Level 79)"
+      }
+    },
+    {
+      "id": "314-6588",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 30,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Feather",
+        "monster_name": "Bandosian guard"
+      }
+    },
+    {
+      "id": "314-6587",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 30,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Feather",
+        "monster_name": "Armadylian guard"
+      }
+    },
+    {
+      "id": "314-6306",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 100,
+        "quantity_max": 200,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Feather",
+        "monster_name": "Evil Chicken (Hard)"
+      }
+    },
+    {
+      "id": "314-4522",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 7,
+        "rarity": "0.018"
+      },
+      "meta": {
+        "item_name": "Feather",
+        "monster_name": "Guard (H.A.M. storeroom)"
+      }
+    },
+    {
+      "id": "314-3663",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 15,
+        "quantity_max": null,
+        "rarity": "0.25"
+      },
+      "meta": {
+        "item_name": "Feather",
+        "monster_name": "Rooster (Level 2)"
+      }
+    },
+    {
+      "id": "314-3663",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.5"
+      },
+      "meta": {
+        "item_name": "Feather",
+        "monster_name": "Rooster (Level 2)"
+      }
+    },
+    {
+      "id": "314-3603",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": 40,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Feather",
+        "monster_name": "Swordchick"
+      }
+    },
+    {
+      "id": "314-3184",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.296875"
+      },
+      "meta": {
+        "item_name": "Feather",
+        "monster_name": "Dagannoth spawn"
+      }
+    },
+    {
+      "id": "314-3183",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 6,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Feather",
+        "monster_name": "Aviansie (Level 131)"
+      }
+    },
+    {
+      "id": "314-3182",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 6,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Feather",
+        "monster_name": "Aviansie (Level 97 (2))"
+      }
+    },
+    {
+      "id": "314-3181",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 6,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Feather",
+        "monster_name": "Aviansie (Level 94)"
+      }
+    },
+    {
+      "id": "314-3180",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 6,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Feather",
+        "monster_name": "Aviansie (Level 89)"
+      }
+    },
+    {
+      "id": "314-3179",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 6,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Feather",
+        "monster_name": "Aviansie (Level 79 (2))"
+      }
+    },
+    {
+      "id": "314-3178",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 6,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Feather",
+        "monster_name": "Aviansie (Level 73)"
+      }
+    },
+    {
+      "id": "314-3177",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 6,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Feather",
+        "monster_name": "Aviansie (Level 71)"
+      }
+    }
+  ]
+}

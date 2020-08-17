@@ -1,0 +1,84 @@
+{
+  "data": [
+    {
+      "id": "7060-319",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 30,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Tuna potato",
+        "monster_name": "Corporeal Beast"
+      }
+    },
+    {
+      "id": "7060-499",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Tuna potato",
+        "monster_name": "Thermonuclear smoke devil"
+      }
+    },
+    {
+      "id": "7060-3130",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.062992125984252"
+      },
+      "meta": {
+        "item_name": "Tuna potato",
+        "monster_name": "Tstanon Karlak"
+      }
+    },
+    {
+      "id": "7060-3131",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.062992125984252"
+      },
+      "meta": {
+        "item_name": "Tuna potato",
+        "monster_name": "Zakl'n Gritch"
+      }
+    },
+    {
+      "id": "7060-3132",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.062992125984252"
+      },
+      "meta": {
+        "item_name": "Tuna potato",
+        "monster_name": "Balfrug Kreeyath"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1268 @@
+{
+  "data": [
+    {
+      "id": "438-3944",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.01953125"
+      },
+      "meta": {
+        "item_name": "Tin ore",
+        "monster_name": "Jennella"
+      }
+    },
+    {
+      "id": "438-3943",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.01953125"
+      },
+      "meta": {
+        "item_name": "Tin ore",
+        "monster_name": "Lensa"
+      }
+    },
+    {
+      "id": "438-3940",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.01953125"
+      },
+      "meta": {
+        "item_name": "Tin ore",
+        "monster_name": "Lanzig"
+      }
+    },
+    {
+      "id": "438-3939",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.01953125"
+      },
+      "meta": {
+        "item_name": "Tin ore",
+        "monster_name": "Borrokar"
+      }
+    },
+    {
+      "id": "438-3938",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.01953125"
+      },
+      "meta": {
+        "item_name": "Tin ore",
+        "monster_name": "Freidir"
+      }
+    },
+    {
+      "id": "438-3262",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Tin ore",
+        "monster_name": "Barbarian (Level 8)"
+      }
+    },
+    {
+      "id": "438-3072",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Tin ore",
+        "monster_name": "Barbarian (Level 9 (Sieglinde))"
+      }
+    },
+    {
+      "id": "438-3071",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Tin ore",
+        "monster_name": "Barbarian (Level 10 (Edelschwarz))"
+      }
+    },
+    {
+      "id": "438-3070",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Tin ore",
+        "monster_name": "Barbarian (Level 10 (Gutrune))"
+      }
+    },
+    {
+      "id": "438-3069",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Tin ore",
+        "monster_name": "Barbarian (Level 17 (Brunnhilde))"
+      }
+    },
+    {
+      "id": "438-3068",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Tin ore",
+        "monster_name": "Barbarian (Level 15 (Aitan))"
+      }
+    },
+    {
+      "id": "438-1408",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Tin ore",
+        "monster_name": "Dwarf (Level 7)"
+      }
+    },
+    {
+      "id": "438-946",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Tin ore",
+        "monster_name": "https://oldschool.runescape.wiki/w/Ghast#Level_30"
+      }
+    },
+    {
+      "id": "438-655",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Tin ore",
+        "monster_name": "Goblin (Level 5)"
+      }
+    },
+    {
+      "id": "438-530",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0072463768115942"
+      },
+      "meta": {
+        "item_name": "Tin ore",
+        "monster_name": "Tribesman"
+      }
+    },
+    {
+      "id": "438-516",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Tin ore",
+        "monster_name": "Black Knight"
+      }
+    },
+    {
+      "id": "438-462",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Tin ore",
+        "monster_name": "Small Lizard"
+      }
+    },
+    {
+      "id": "438-459",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Tin ore",
+        "monster_name": "Desert Lizard"
+      }
+    },
+    {
+      "id": "438-458",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Tin ore",
+        "monster_name": "Lizard"
+      }
+    },
+    {
+      "id": "438-421",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0625"
+      },
+      "meta": {
+        "item_name": "Tin ore",
+        "monster_name": "Rockslug"
+      }
+    },
+    {
+      "id": "438-294",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Tin ore",
+        "monster_name": "Dwarf (Level 11)"
+      }
+    },
+    {
+      "id": "438-294",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Tin ore",
+        "monster_name": "Dwarf (Level 11)"
+      }
+    },
+    {
+      "id": "438-292",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Tin ore",
+        "monster_name": "Dwarf (Level 20)"
+      }
+    },
+    {
+      "id": "438-292",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Tin ore",
+        "monster_name": "Dwarf (Level 20)"
+      }
+    },
+    {
+      "id": "438-290",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Tin ore",
+        "monster_name": "Dwarf (Level 10)"
+      }
+    },
+    {
+      "id": "438-290",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Tin ore",
+        "monster_name": "Dwarf (Level 10)"
+      }
+    },
+    {
+      "id": "438-100",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Tin ore",
+        "monster_name": "Rock Crab (Active)"
+      }
+    },
+    {
+      "id": "438-49",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Tin ore",
+        "monster_name": "Zombie (Level 24)"
+      }
+    },
+    {
+      "id": "438-42",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Tin ore",
+        "monster_name": "Zombie (Level 18)"
+      }
+    },
+    {
+      "id": "438-26",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Tin ore",
+        "monster_name": "Zombie (Level 13)"
+      }
+    },
+    {
+      "id": "438-2488",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Tin ore",
+        "monster_name": "Goblin (Level 25)"
+      }
+    },
+    {
+      "id": "438-2501",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Tin ore",
+        "monster_name": "Zombie (Level 30)"
+      }
+    },
+    {
+      "id": "438-2504",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Tin ore",
+        "monster_name": "Zombie (Level 44)"
+      }
+    },
+    {
+      "id": "438-2507",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Tin ore",
+        "monster_name": "Zombie (Level 53)"
+      }
+    },
+    {
+      "id": "438-3028",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Tin ore",
+        "monster_name": "Goblin (Level 2)"
+      }
+    },
+    {
+      "id": "438-3055",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Tin ore",
+        "monster_name": "Barbarian (Level 17 (Alberich))"
+      }
+    },
+    {
+      "id": "438-3056",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Tin ore",
+        "monster_name": "Barbarian (Level 10 (Fafner))"
+      }
+    },
+    {
+      "id": "438-3057",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Tin ore",
+        "monster_name": "Barbarian (Level 17 (Fasolt))"
+      }
+    },
+    {
+      "id": "438-3058",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Tin ore",
+        "monster_name": "Barbarian (Level 17 (Siegmund))"
+      }
+    },
+    {
+      "id": "438-3059",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Tin ore",
+        "monster_name": "Barbarian (Level 10 (Siegfried))"
+      }
+    },
+    {
+      "id": "438-3060",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Tin ore",
+        "monster_name": "Barbarian (Level 10 (Lydspor))"
+      }
+    },
+    {
+      "id": "438-3061",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Tin ore",
+        "monster_name": "Barbarian (Level 10 (Hagen))"
+      }
+    },
+    {
+      "id": "438-3062",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Tin ore",
+        "monster_name": "Barbarian (Level 17 (Minarch))"
+      }
+    },
+    {
+      "id": "438-3064",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Tin ore",
+        "monster_name": "Barbarian (Level 10 (Wotan))"
+      }
+    },
+    {
+      "id": "438-3065",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Tin ore",
+        "monster_name": "Barbarian (Level 10 (Acelin))"
+      }
+    },
+    {
+      "id": "438-3066",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Tin ore",
+        "monster_name": "Barbarian (Level 10 (Adelino))"
+      }
+    },
+    {
+      "id": "438-2486",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Tin ore",
+        "monster_name": "Goblin (Level 11)"
+      }
+    },
+    {
+      "id": "438-2485",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Tin ore",
+        "monster_name": "Goblin (Level 13)"
+      }
+    },
+    {
+      "id": "438-2483",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0594059405940594"
+      },
+      "meta": {
+        "item_name": "Tin ore",
+        "monster_name": "Minotaur (Level 27)"
+      }
+    },
+    {
+      "id": "438-2481",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0594059405940594"
+      },
+      "meta": {
+        "item_name": "Tin ore",
+        "monster_name": "Minotaur (Level 12)"
+      }
+    },
+    {
+      "id": "438-2249",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Tin ore",
+        "monster_name": "Goblin (Level 13 (GWD))"
+      }
+    },
+    {
+      "id": "438-2248",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Tin ore",
+        "monster_name": "Goblin (Level 15)"
+      }
+    },
+    {
+      "id": "438-2247",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Tin ore",
+        "monster_name": "Goblin (Level 12 (2))"
+      }
+    },
+    {
+      "id": "438-2246",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Tin ore",
+        "monster_name": "Goblin (Level 12 (1))"
+      }
+    },
+    {
+      "id": "438-2245",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Tin ore",
+        "monster_name": "Goblin (Level 17)"
+      }
+    },
+    {
+      "id": "438-1408",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Tin ore",
+        "monster_name": "Dwarf (Level 7)"
+      }
+    },
+    {
+      "id": "438-3067",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Tin ore",
+        "monster_name": "Barbarian (Level 10 (Adolpho))"
+      }
+    },
+    {
+      "id": "438-2487",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Tin ore",
+        "monster_name": "Goblin (Level 16)"
+      }
+    },
+    {
+      "id": "438-8614",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 10,
+        "quantity_max": 15,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Tin ore",
+        "monster_name": "Sulphur Lizard"
+      }
+    },
+    {
+      "id": "438-8298",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 4,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Tin ore",
+        "monster_name": "Swamp Crab (Bloomed)"
+      }
+    },
+    {
+      "id": "438-8297",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 4,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Tin ore",
+        "monster_name": "Swamp Crab (Normal)"
+      }
+    },
+    {
+      "id": "438-7799",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Tin ore",
+        "monster_name": "Ammonite Crab"
+      }
+    },
+    {
+      "id": "438-7488",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Tin ore",
+        "monster_name": "Zombie (Level 72)"
+      }
+    },
+    {
+      "id": "438-7487",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Tin ore",
+        "monster_name": "Zombie (Level 76)"
+      }
+    },
+    {
+      "id": "438-7486",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Tin ore",
+        "monster_name": "Zombie (Level 56)"
+      }
+    },
+    {
+      "id": "438-7485",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Tin ore",
+        "monster_name": "Zombie (Level 70)"
+      }
+    },
+    {
+      "id": "438-7392",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0625"
+      },
+      "meta": {
+        "item_name": "Tin ore",
+        "monster_name": "Giant rockslug"
+      }
+    },
+    {
+      "id": "438-6730",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Tin ore",
+        "monster_name": "Rock golem (monster) (Level 159)"
+      }
+    },
+    {
+      "id": "438-6729",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Tin ore",
+        "monster_name": "Rock golem (monster) (Level 120)"
+      }
+    },
+    {
+      "id": "438-6052",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Tin ore",
+        "monster_name": "Black Guard Berserker (Green)"
+      }
+    },
+    {
+      "id": "438-6051",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Tin ore",
+        "monster_name": "Black Guard Berserker (Blue)"
+      }
+    },
+    {
+      "id": "438-6050",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Tin ore",
+        "monster_name": "Black Guard Berserker (Red)"
+      }
+    },
+    {
+      "id": "438-5935",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Tin ore",
+        "monster_name": "Sand Crab (Active)"
+      }
+    },
+    {
+      "id": "438-5627",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Tin ore",
+        "monster_name": "https://oldschool.runescape.wiki/w/Ghast#Level_139"
+      }
+    },
+    {
+      "id": "438-5626",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Tin ore",
+        "monster_name": "https://oldschool.runescape.wiki/w/Ghast#Level_109"
+      }
+    },
+    {
+      "id": "438-5625",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Tin ore",
+        "monster_name": "https://oldschool.runescape.wiki/w/Ghast#Level_79"
+      }
+    },
+    {
+      "id": "438-4800",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Tin ore",
+        "monster_name": "Giant lobster"
+      }
+    },
+    {
+      "id": "438-3950",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Tin ore",
+        "monster_name": "Warrior (Rellekka)"
+      }
+    },
+    {
+      "id": "438-3949",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Tin ore",
+        "monster_name": "Market Guard"
+      }
+    }
+  ]
+}

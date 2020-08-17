@@ -1,0 +1,20 @@
+{
+  "data": [
+    {
+      "id": "5102-6604",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Cadavaberry seed",
+        "monster_name": "Mammoth"
+      }
+    }
+  ]
+}

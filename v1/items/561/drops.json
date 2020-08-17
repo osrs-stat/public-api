@@ -1,0 +1,6052 @@
+{
+  "data": [
+    {
+      "id": "561-6588",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 20,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Bandosian guard"
+      }
+    },
+    {
+      "id": "561-6605",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Bandit (Level 130)"
+      }
+    },
+    {
+      "id": "561-6605",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Bandit (Level 130)"
+      }
+    },
+    {
+      "id": "561-6606",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Dark warrior (Level 145)"
+      }
+    },
+    {
+      "id": "561-6606",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 9,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Dark warrior (Level 145)"
+      }
+    },
+    {
+      "id": "561-6607",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 12,
+        "quantity_max": null,
+        "rarity": "0.00775193798449612"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Elder Chaos druid"
+      }
+    },
+    {
+      "id": "561-7016",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Kourend guard"
+      }
+    },
+    {
+      "id": "561-7017",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Kourend head guard"
+      }
+    },
+    {
+      "id": "561-7389",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 3,
+        "quantity_max": 4,
+        "rarity": "0.046875"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Chasm Crawler"
+      }
+    },
+    {
+      "id": "561-7393",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.046875"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Cockathrice"
+      }
+    },
+    {
+      "id": "561-7393",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 4,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Cockathrice"
+      }
+    },
+    {
+      "id": "561-7393",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 6,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Cockathrice"
+      }
+    },
+    {
+      "id": "561-7395",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 15,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Monstrous basilisk"
+      }
+    },
+    {
+      "id": "561-7395",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 37,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Monstrous basilisk"
+      }
+    },
+    {
+      "id": "561-7401",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 6,
+        "quantity_max": null,
+        "rarity": "0.046875"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Cave abomination"
+      }
+    },
+    {
+      "id": "561-7401",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 4,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Cave abomination"
+      }
+    },
+    {
+      "id": "561-7401",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Cave abomination"
+      }
+    },
+    {
+      "id": "561-7405",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.0806451612903226"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "King kurask"
+      }
+    },
+    {
+      "id": "561-7405",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 15,
+        "quantity_max": null,
+        "rarity": "0.0564516129032258"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "King kurask"
+      }
+    },
+    {
+      "id": "561-7405",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 30,
+        "quantity_max": null,
+        "rarity": "0.032258064516129"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "King kurask"
+      }
+    },
+    {
+      "id": "561-7416",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 40,
+        "quantity_max": 79,
+        "rarity": "0.0593220338983051"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Obor"
+      }
+    },
+    {
+      "id": "561-7422",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.04"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Zamorak mage (Level 84)"
+      }
+    },
+    {
+      "id": "561-7423",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.04"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Zamorak mage (Level 82)"
+      }
+    },
+    {
+      "id": "561-7426",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.0285714285714286"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Zamorak crafter"
+      }
+    },
+    {
+      "id": "561-7485",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 6,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Zombie (Level 70)"
+      }
+    },
+    {
+      "id": "561-7486",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 6,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Zombie (Level 56)"
+      }
+    },
+    {
+      "id": "561-7487",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 6,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Zombie (Level 76)"
+      }
+    },
+    {
+      "id": "561-7488",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 6,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Zombie (Level 72)"
+      }
+    },
+    {
+      "id": "561-7795",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 37,
+        "quantity_max": 43,
+        "rarity": "0.0298507462686567"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Ancient Wyvern"
+      }
+    },
+    {
+      "id": "561-7796",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.0508474576271186"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Lobstrosity"
+      }
+    },
+    {
+      "id": "561-7797",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 15,
+        "quantity_max": null,
+        "rarity": "0.05"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Ancient Zygomite"
+      }
+    },
+    {
+      "id": "561-7868",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 15,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Green dragon (Level 88)"
+      }
+    },
+    {
+      "id": "561-7868",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Green dragon (Level 88)"
+      }
+    },
+    {
+      "id": "561-7878",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 6,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Ice giant (Level 67)"
+      }
+    },
+    {
+      "id": "561-7878",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 6,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Ice giant (Level 67)"
+      }
+    },
+    {
+      "id": "561-7989",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 8,
+        "quantity_max": 15,
+        "rarity": "0.0603448275862069"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Ogress Warrior"
+      }
+    },
+    {
+      "id": "561-7991",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 8,
+        "quantity_max": 15,
+        "rarity": "0.0603448275862069"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Ogress Shaman"
+      }
+    },
+    {
+      "id": "561-8195",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 100,
+        "quantity_max": null,
+        "rarity": "0.0677966101694915"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Bryophyta"
+      }
+    },
+    {
+      "id": "561-8256",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 6,
+        "quantity_max": 14,
+        "rarity": "0.0917431192660551"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Vyrewatch (Level 87)"
+      }
+    },
+    {
+      "id": "561-8612",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 30,
+        "quantity_max": 60,
+        "rarity": "0.117647058823529"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Drake"
+      }
+    },
+    {
+      "id": "561-8614",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": 10,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Sulphur Lizard"
+      }
+    },
+    {
+      "id": "561-8700",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.125"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Giant frog (Level 13)"
+      }
+    },
+    {
+      "id": "561-8701",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 4,
+        "quantity_max": null,
+        "rarity": "0.0546875"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Big frog (Level 10)"
+      }
+    },
+    {
+      "id": "561-8703",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": 15,
+        "rarity": "0.02"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Temple Spider"
+      }
+    },
+    {
+      "id": "561-8736",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 6,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Moss giant (Level 84)"
+      }
+    },
+    {
+      "id": "561-8736",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 6,
+        "quantity_max": 25,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Moss giant (Level 84)"
+      }
+    },
+    {
+      "id": "561-8759",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 12,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Iorwerth Warrior (Female)"
+      }
+    },
+    {
+      "id": "561-8760",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 12,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Iorwerth Archer (Female)"
+      }
+    },
+    {
+      "id": "561-9049",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 842,
+        "rarity": "0.0277777777777778"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Zalcano"
+      }
+    },
+    {
+      "id": "561-9182",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 12,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Guard (Prifddinas) (1)"
+      }
+    },
+    {
+      "id": "561-9183",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 12,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Guard (Prifddinas) (2)"
+      }
+    },
+    {
+      "id": "561-9184",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 12,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Guard (Prifddinas) (3)"
+      }
+    },
+    {
+      "id": "561-9185",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 12,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Guard (Prifddinas) (4)"
+      }
+    },
+    {
+      "id": "561-9186",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 12,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Guard (Prifddinas) (5)"
+      }
+    },
+    {
+      "id": "561-9187",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 12,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Guard (Prifddinas) (6)"
+      }
+    },
+    {
+      "id": "561-9188",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 12,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Guard (Prifddinas) (7)"
+      }
+    },
+    {
+      "id": "561-9258",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 15,
+        "quantity_max": 30,
+        "rarity": "0.115384615384615"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Basilisk Sentinel"
+      }
+    },
+    {
+      "id": "561-9293",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 15,
+        "quantity_max": 30,
+        "rarity": "0.115384615384615"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Basilisk Knight"
+      }
+    },
+    {
+      "id": "561-9756",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 6,
+        "quantity_max": 11,
+        "rarity": "0.10752688172043"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Vyrewatch Sentinel"
+      }
+    },
+    {
+      "id": "561-10397",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 15,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Spiked Turoth"
+      }
+    },
+    {
+      "id": "561-10397",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 37,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Spiked Turoth"
+      }
+    },
+    {
+      "id": "561-10400",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 30,
+        "quantity_max": 60,
+        "rarity": "0.117647058823529"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Guardian Drake"
+      }
+    },
+    {
+      "id": "561-3010",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Guard (Varrock)"
+      }
+    },
+    {
+      "id": "561-2955",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 28,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Saradomin wizard"
+      }
+    },
+    {
+      "id": "561-2954",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 30,
+        "quantity_max": null,
+        "rarity": "0.0546875"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Zamorak wizard"
+      }
+    },
+    {
+      "id": "561-2918",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 17,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Brutal green dragon"
+      }
+    },
+    {
+      "id": "561-2843",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.0703125"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Otherworldly being"
+      }
+    },
+    {
+      "id": "561-2841",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 4,
+        "quantity_max": null,
+        "rarity": "0.078125"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Ice warrior"
+      }
+    },
+    {
+      "id": "561-2840",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.0703125"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Earth warrior"
+      }
+    },
+    {
+      "id": "561-2524",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Skeleton (Level 85)"
+      }
+    },
+    {
+      "id": "561-2521",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Skeleton (Level 60)"
+      }
+    },
+    {
+      "id": "561-2520",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Skeleton (Level 68)"
+      }
+    },
+    {
+      "id": "561-2507",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 6,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Zombie (Level 53)"
+      }
+    },
+    {
+      "id": "561-2504",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 6,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Zombie (Level 44)"
+      }
+    },
+    {
+      "id": "561-2501",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 6,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Zombie (Level 30)"
+      }
+    },
+    {
+      "id": "561-2500",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.02"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Flesh Crawler (Level 41)"
+      }
+    },
+    {
+      "id": "561-2499",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.02"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Flesh Crawler (Level 35)"
+      }
+    },
+    {
+      "id": "561-2498",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.02"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Flesh Crawler (Level 28)"
+      }
+    },
+    {
+      "id": "561-2488",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Goblin (Level 25)"
+      }
+    },
+    {
+      "id": "561-2487",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Goblin (Level 16)"
+      }
+    },
+    {
+      "id": "561-2486",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Goblin (Level 11)"
+      }
+    },
+    {
+      "id": "561-2485",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Goblin (Level 13)"
+      }
+    },
+    {
+      "id": "561-2464",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 6,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Cyclops (Level 76)"
+      }
+    },
+    {
+      "id": "561-2266",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 25,
+        "quantity_max": 50,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Dagannoth Prime"
+      }
+    },
+    {
+      "id": "561-2259",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 10,
+        "rarity": "0.078125"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Dagannoth (Waterbirth Island) (Level 88)"
+      }
+    },
+    {
+      "id": "561-2249",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Goblin (Level 13 (GWD))"
+      }
+    },
+    {
+      "id": "561-2248",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Goblin (Level 15)"
+      }
+    },
+    {
+      "id": "561-2247",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Goblin (Level 12 (2))"
+      }
+    },
+    {
+      "id": "561-2246",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Goblin (Level 12 (1))"
+      }
+    },
+    {
+      "id": "561-2245",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Goblin (Level 17)"
+      }
+    },
+    {
+      "id": "561-2244",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 18,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Spiritual mage (Bandos)"
+      }
+    },
+    {
+      "id": "561-2244",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 25,
+        "quantity_max": null,
+        "rarity": "0.0546875"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Spiritual mage (Bandos)"
+      }
+    },
+    {
+      "id": "561-2241",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 4,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Hobgoblin (Level 47)"
+      }
+    },
+    {
+      "id": "561-2241",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 4,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Hobgoblin (Level 47)"
+      }
+    },
+    {
+      "id": "561-2235",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 6,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Cyclops (Level 81)"
+      }
+    },
+    {
+      "id": "561-2234",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.0155038759689922"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Jogre (GWD)"
+      }
+    },
+    {
+      "id": "561-2234",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.0155038759689922"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Jogre (GWD)"
+      }
+    },
+    {
+      "id": "561-2234",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.0775193798449612"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Jogre (GWD)"
+      }
+    },
+    {
+      "id": "561-2218",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 15,
+        "quantity_max": 20,
+        "rarity": "0.062992125984252"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Sergeant Grimspike"
+      }
+    },
+    {
+      "id": "561-2217",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 15,
+        "quantity_max": 20,
+        "rarity": "0.062992125984252"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Sergeant Steelwill"
+      }
+    },
+    {
+      "id": "561-2216",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 15,
+        "quantity_max": 20,
+        "rarity": "0.062992125984252"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Sergeant Strongstack"
+      }
+    },
+    {
+      "id": "561-2215",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 65,
+        "quantity_max": 70,
+        "rarity": "0.062992125984252"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "General Graardor"
+      }
+    },
+    {
+      "id": "561-2212",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 18,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Spiritual mage (Saradomin)"
+      }
+    },
+    {
+      "id": "561-2212",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 25,
+        "quantity_max": null,
+        "rarity": "0.0546875"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Spiritual mage (Saradomin)"
+      }
+    },
+    {
+      "id": "561-2154",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "TzHaar-Mej (monster)"
+      }
+    },
+    {
+      "id": "561-2145",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 20,
+        "quantity_max": 30,
+        "rarity": "0.03"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Undead Druid"
+      }
+    },
+    {
+      "id": "561-2137",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 6,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Cyclops (Level 106)"
+      }
+    },
+    {
+      "id": "561-2098",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 6,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Hill Giant"
+      }
+    },
+    {
+      "id": "561-2097",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 6,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Cyclops (Level 56)"
+      }
+    },
+    {
+      "id": "561-2094",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.0155038759689922"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Jogre (Normal)"
+      }
+    },
+    {
+      "id": "561-2094",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.0155038759689922"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Jogre (Normal)"
+      }
+    },
+    {
+      "id": "561-2094",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.0775193798449612"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Jogre (Normal)"
+      }
+    },
+    {
+      "id": "561-2090",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 6,
+        "quantity_max": 25,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Moss giant (Level 42)"
+      }
+    },
+    {
+      "id": "561-2090",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 6,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Moss giant (Level 42)"
+      }
+    },
+    {
+      "id": "561-2085",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 6,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Ice giant (Level 53)"
+      }
+    },
+    {
+      "id": "561-2085",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 6,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Ice giant (Level 53)"
+      }
+    },
+    {
+      "id": "561-2058",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 4,
+        "quantity_max": null,
+        "rarity": "0.0546875"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Dark wizard (Level 11)"
+      }
+    },
+    {
+      "id": "561-2058",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 4,
+        "quantity_max": null,
+        "rarity": "0.0546875"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Dark wizard (Level 11)"
+      }
+    },
+    {
+      "id": "561-2057",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 4,
+        "quantity_max": null,
+        "rarity": "0.0546875"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Dark wizard (Level 22)"
+      }
+    },
+    {
+      "id": "561-2057",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 4,
+        "quantity_max": null,
+        "rarity": "0.0546875"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Dark wizard (Level 22)"
+      }
+    },
+    {
+      "id": "561-2056",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 4,
+        "quantity_max": null,
+        "rarity": "0.0546875"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Dark wizard (Level 23)"
+      }
+    },
+    {
+      "id": "561-2056",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 4,
+        "quantity_max": null,
+        "rarity": "0.0546875"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Dark wizard (Level 23)"
+      }
+    },
+    {
+      "id": "561-1877",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 4,
+        "quantity_max": 12,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Ice troll grunt"
+      }
+    },
+    {
+      "id": "561-1876",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 7,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Ice troll female"
+      }
+    },
+    {
+      "id": "561-1876",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 4,
+        "quantity_max": 12,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Ice troll female"
+      }
+    },
+    {
+      "id": "561-1875",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 7,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Ice troll male"
+      }
+    },
+    {
+      "id": "561-1875",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 4,
+        "quantity_max": 12,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Ice troll male"
+      }
+    },
+    {
+      "id": "561-1874",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 7,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Ice troll runt"
+      }
+    },
+    {
+      "id": "561-1874",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 4,
+        "quantity_max": 12,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Ice troll runt"
+      }
+    },
+    {
+      "id": "561-1866",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Tree spirit (Level 159)"
+      }
+    },
+    {
+      "id": "561-1866",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Tree spirit (Level 159)"
+      }
+    },
+    {
+      "id": "561-1866",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Tree spirit (Level 159)"
+      }
+    },
+    {
+      "id": "561-1866",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 22,
+        "quantity_max": null,
+        "rarity": "0.2421875"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Tree spirit (Level 159)"
+      }
+    },
+    {
+      "id": "561-1865",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Tree spirit (Level 120)"
+      }
+    },
+    {
+      "id": "561-1865",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Tree spirit (Level 120)"
+      }
+    },
+    {
+      "id": "561-1865",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Tree spirit (Level 120)"
+      }
+    },
+    {
+      "id": "561-1865",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 22,
+        "quantity_max": null,
+        "rarity": "0.2421875"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Tree spirit (Level 120)"
+      }
+    },
+    {
+      "id": "561-1864",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Tree spirit (Level 79)"
+      }
+    },
+    {
+      "id": "561-1864",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Tree spirit (Level 79)"
+      }
+    },
+    {
+      "id": "561-1864",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Tree spirit (Level 79)"
+      }
+    },
+    {
+      "id": "561-1864",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 22,
+        "quantity_max": null,
+        "rarity": "0.2421875"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Tree spirit (Level 79)"
+      }
+    },
+    {
+      "id": "561-1863",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Tree spirit (Level 49)"
+      }
+    },
+    {
+      "id": "561-1863",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Tree spirit (Level 49)"
+      }
+    },
+    {
+      "id": "561-1863",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Tree spirit (Level 49)"
+      }
+    },
+    {
+      "id": "561-1863",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 22,
+        "quantity_max": null,
+        "rarity": "0.2421875"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Tree spirit (Level 49)"
+      }
+    },
+    {
+      "id": "561-1861",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Tree spirit (Level 14)"
+      }
+    },
+    {
+      "id": "561-1861",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Tree spirit (Level 14)"
+      }
+    },
+    {
+      "id": "561-1861",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Tree spirit (Level 14)"
+      }
+    },
+    {
+      "id": "561-3176",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 9,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Aviansie (Level 148)"
+      }
+    },
+    {
+      "id": "561-3177",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 9,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Aviansie (Level 71)"
+      }
+    },
+    {
+      "id": "561-3178",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 9,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Aviansie (Level 73)"
+      }
+    },
+    {
+      "id": "561-3179",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 9,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Aviansie (Level 79 (2))"
+      }
+    },
+    {
+      "id": "561-3180",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 9,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Aviansie (Level 89)"
+      }
+    },
+    {
+      "id": "561-3181",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 9,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Aviansie (Level 94)"
+      }
+    },
+    {
+      "id": "561-3182",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 9,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Aviansie (Level 97 (2))"
+      }
+    },
+    {
+      "id": "561-3183",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 9,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Aviansie (Level 131)"
+      }
+    },
+    {
+      "id": "561-3185",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 10,
+        "rarity": "0.078125"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Dagannoth (Waterbirth Island) (Level 90)"
+      }
+    },
+    {
+      "id": "561-3257",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.0625"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Wizard"
+      }
+    },
+    {
+      "id": "561-3270",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Guard (Falador (crossbow))"
+      }
+    },
+    {
+      "id": "561-3271",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Guard (Falador (battleaxe))"
+      }
+    },
+    {
+      "id": "561-3272",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Guard (Falador (longbow))"
+      }
+    },
+    {
+      "id": "561-3295",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Hero"
+      }
+    },
+    {
+      "id": "561-3428",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 12,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Iorwerth Archer (Male)"
+      }
+    },
+    {
+      "id": "561-3429",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 12,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Iorwerth Warrior (Male)"
+      }
+    },
+    {
+      "id": "561-3694",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Vampyre Juvinate (Level 54 (Meiyerditch))"
+      }
+    },
+    {
+      "id": "561-3717",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 6,
+        "quantity_max": 14,
+        "rarity": "0.0917431192660551"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Vyrewatch (Level 105)"
+      }
+    },
+    {
+      "id": "561-3718",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 6,
+        "quantity_max": 14,
+        "rarity": "0.0917431192660551"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Vyrewatch (Level 110)"
+      }
+    },
+    {
+      "id": "561-3719",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 6,
+        "quantity_max": 14,
+        "rarity": "0.0917431192660551"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Vyrewatch (Level 120)"
+      }
+    },
+    {
+      "id": "561-3720",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 6,
+        "quantity_max": 14,
+        "rarity": "0.0917431192660551"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Vyrewatch (Level 125)"
+      }
+    },
+    {
+      "id": "561-3851",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 6,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Moss giant (Level 48)"
+      }
+    },
+    {
+      "id": "561-3851",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 6,
+        "quantity_max": 25,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Moss giant (Level 48)"
+      }
+    },
+    {
+      "id": "561-4067",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 6,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Black Knight Titan (Normal)"
+      }
+    },
+    {
+      "id": "561-4096",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 6,
+        "quantity_max": null,
+        "rarity": "0.001953125"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Archer (Burthorpe)"
+      }
+    },
+    {
+      "id": "561-4099",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 4,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Guard (Burthorpe) (Black beard)"
+      }
+    },
+    {
+      "id": "561-4100",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 4,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Guard (Burthorpe) (Grey beard)"
+      }
+    },
+    {
+      "id": "561-4120",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 16,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Troll general (Sword)"
+      }
+    },
+    {
+      "id": "561-4121",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 16,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Troll general (Hammer (grey))"
+      }
+    },
+    {
+      "id": "561-4122",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 16,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Troll general (Hammer (brown))"
+      }
+    },
+    {
+      "id": "561-4123",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 7,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Troll spectator"
+      }
+    },
+    {
+      "id": "561-4131",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 7,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Twig (Awake)"
+      }
+    },
+    {
+      "id": "561-4132",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 7,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Berry (Awake)"
+      }
+    },
+    {
+      "id": "561-4133",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 7,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Twig (Sleeping)"
+      }
+    },
+    {
+      "id": "561-4134",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 7,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Berry (Sleeping)"
+      }
+    },
+    {
+      "id": "561-4143",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 7,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Mountain troll (Level 71)"
+      }
+    },
+    {
+      "id": "561-4319",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Skeleton Mage (Level 83)"
+      }
+    },
+    {
+      "id": "561-4405",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Tower guard"
+      }
+    },
+    {
+      "id": "561-4406",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Colonel Radick"
+      }
+    },
+    {
+      "id": "561-4427",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Vampyre Juvinate (Level 54)"
+      }
+    },
+    {
+      "id": "561-4442",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Vampyre Juvinate (Level 75)"
+      }
+    },
+    {
+      "id": "561-4443",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Vampyre Juvinate (Level 50)"
+      }
+    },
+    {
+      "id": "561-5126",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 4,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Experiment No.2"
+      }
+    },
+    {
+      "id": "561-5293",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 12,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Elf Warrior (1)"
+      }
+    },
+    {
+      "id": "561-5294",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 12,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Elf Warrior (2)"
+      }
+    },
+    {
+      "id": "561-5295",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 12,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Elf Archer (1)"
+      }
+    },
+    {
+      "id": "561-5296",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 12,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Elf Archer (2)"
+      }
+    },
+    {
+      "id": "561-5418",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Guard (East Ardougne)"
+      }
+    },
+    {
+      "id": "561-5421",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Soldier (Yanille)"
+      }
+    },
+    {
+      "id": "561-5634",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Vampyre Juvinate (Level 59)"
+      }
+    },
+    {
+      "id": "561-5635",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Vampyre Juvinate (Level 90)"
+      }
+    },
+    {
+      "id": "561-5636",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Vampyre Juvinate (Level 119)"
+      }
+    },
+    {
+      "id": "561-6046",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Black Guard (Level 48)"
+      }
+    },
+    {
+      "id": "561-6075",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.078125"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Tortoise (No riders)"
+      }
+    },
+    {
+      "id": "561-6075",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.078125"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Tortoise (No riders)"
+      }
+    },
+    {
+      "id": "561-6076",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.078125"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Tortoise (With riders)"
+      }
+    },
+    {
+      "id": "561-6076",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.078125"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Tortoise (With riders)"
+      }
+    },
+    {
+      "id": "561-6299",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 6,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Black Knight Titan (Hard)"
+      }
+    },
+    {
+      "id": "561-6331",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 7,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Arrg (Hard)"
+      }
+    },
+    {
+      "id": "561-6449",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 7,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Zombie (Tarn's Lair) (Level 40)"
+      }
+    },
+    {
+      "id": "561-6450",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 7,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Zombie (Tarn's Lair) (Level 42)"
+      }
+    },
+    {
+      "id": "561-6451",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 7,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Zombie (Tarn's Lair) (Level 47)"
+      }
+    },
+    {
+      "id": "561-6452",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 7,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Zombie (Tarn's Lair) (Level 50)"
+      }
+    },
+    {
+      "id": "561-6453",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 7,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Zombie (Tarn's Lair) (Level 56)"
+      }
+    },
+    {
+      "id": "561-6454",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 7,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Zombie (Tarn's Lair) (Level 61)"
+      }
+    },
+    {
+      "id": "561-6455",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 7,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Zombie (Tarn's Lair) (Level 67)"
+      }
+    },
+    {
+      "id": "561-6456",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 7,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Zombie (Tarn's Lair) (Level 70)"
+      }
+    },
+    {
+      "id": "561-6457",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 7,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Zombie (Tarn's Lair) (Level 72)"
+      }
+    },
+    {
+      "id": "561-6458",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 7,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Zombie (Tarn's Lair) (Level 76)"
+      }
+    },
+    {
+      "id": "561-6459",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 7,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Zombie (Tarn's Lair) (Level 80)"
+      }
+    },
+    {
+      "id": "561-6460",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 7,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Zombie (Tarn's Lair) (Level 85)"
+      }
+    },
+    {
+      "id": "561-6461",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 7,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Zombie (Tarn's Lair) (Level 86)"
+      }
+    },
+    {
+      "id": "561-6462",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 7,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Zombie (Tarn's Lair) (Level 90)"
+      }
+    },
+    {
+      "id": "561-6463",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 7,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Zombie (Tarn's Lair) (Level 95)"
+      }
+    },
+    {
+      "id": "561-6464",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 7,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Zombie (Tarn's Lair) (Level 98)"
+      }
+    },
+    {
+      "id": "561-6465",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 7,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Zombie (Tarn's Lair) (Level 100)"
+      }
+    },
+    {
+      "id": "561-6466",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 7,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Zombie (Tarn's Lair) (Level 81)"
+      }
+    },
+    {
+      "id": "561-6473",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 15,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Terror dog (Level 110)"
+      }
+    },
+    {
+      "id": "561-6473",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 15,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Terror dog (Level 110)"
+      }
+    },
+    {
+      "id": "561-6474",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 15,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Terror dog (Level 100)"
+      }
+    },
+    {
+      "id": "561-6474",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 15,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Terror dog (Level 100)"
+      }
+    },
+    {
+      "id": "561-6587",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 20,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Armadylian guard"
+      }
+    },
+    {
+      "id": "561-3175",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 9,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Aviansie (Level 137)"
+      }
+    },
+    {
+      "id": "561-3174",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 9,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Aviansie (Level 97 (1))"
+      }
+    },
+    {
+      "id": "561-3173",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 9,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Aviansie (Level 92)"
+      }
+    },
+    {
+      "id": "561-3172",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 9,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Aviansie (Level 83)"
+      }
+    },
+    {
+      "id": "561-3171",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 9,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Aviansie (Level 84)"
+      }
+    },
+    {
+      "id": "561-3170",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 9,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Aviansie (Level 79 (1))"
+      }
+    },
+    {
+      "id": "561-3169",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 9,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Aviansie (Level 69)"
+      }
+    },
+    {
+      "id": "561-3168",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 18,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Spiritual mage (Armadyl)"
+      }
+    },
+    {
+      "id": "561-3168",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 25,
+        "quantity_max": null,
+        "rarity": "0.0546875"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Spiritual mage (Armadyl)"
+      }
+    },
+    {
+      "id": "561-3161",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 18,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Spiritual mage (Zamorak)"
+      }
+    },
+    {
+      "id": "561-3161",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 25,
+        "quantity_max": null,
+        "rarity": "0.0546875"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Spiritual mage (Zamorak)"
+      }
+    },
+    {
+      "id": "561-1861",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 22,
+        "quantity_max": null,
+        "rarity": "0.2421875"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Tree spirit (Level 14)"
+      }
+    },
+    {
+      "id": "561-3050",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 4,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Hobgoblin (Level 42)"
+      }
+    },
+    {
+      "id": "561-3050",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 4,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Hobgoblin (Level 42)"
+      }
+    },
+    {
+      "id": "561-3049",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 4,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Hobgoblin (Level 28)"
+      }
+    },
+    {
+      "id": "561-3049",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 4,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Hobgoblin (Level 28)"
+      }
+    },
+    {
+      "id": "561-3028",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Goblin (Level 2)"
+      }
+    },
+    {
+      "id": "561-2955",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 30,
+        "quantity_max": null,
+        "rarity": "0.0546875"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Saradomin wizard"
+      }
+    },
+    {
+      "id": "561-1829",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 7,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "White Knight (Partisan)"
+      }
+    },
+    {
+      "id": "561-1",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 5,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Molanisk"
+      }
+    },
+    {
+      "id": "561-26",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 6,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Zombie (Level 13)"
+      }
+    },
+    {
+      "id": "561-42",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 6,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Zombie (Level 18)"
+      }
+    },
+    {
+      "id": "561-49",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 6,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Zombie (Level 24)"
+      }
+    },
+    {
+      "id": "561-64",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 6,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Zombie (Entrana Dungeon) (1)"
+      }
+    },
+    {
+      "id": "561-65",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 6,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Zombie (Entrana Dungeon) (2)"
+      }
+    },
+    {
+      "id": "561-66",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 6,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Zombie (Entrana Dungeon) (3)"
+      }
+    },
+    {
+      "id": "561-67",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 6,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Zombie (Entrana Dungeon) (4)"
+      }
+    },
+    {
+      "id": "561-68",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 6,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Zombie (Entrana Dungeon) (5)"
+      }
+    },
+    {
+      "id": "561-70",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Skeleton (Level 22)"
+      }
+    },
+    {
+      "id": "561-74",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Skeleton (Level 21)"
+      }
+    },
+    {
+      "id": "561-77",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Skeleton (Level 25)"
+      }
+    },
+    {
+      "id": "561-82",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Skeleton (Level 45)"
+      }
+    },
+    {
+      "id": "561-84",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Skeleton Mage (Level 16)"
+      }
+    },
+    {
+      "id": "561-260",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 15,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Green dragon (Level 79)"
+      }
+    },
+    {
+      "id": "561-260",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Green dragon (Level 79)"
+      }
+    },
+    {
+      "id": "561-265",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 15,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Blue dragon (2)"
+      }
+    },
+    {
+      "id": "561-266",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 15,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Blue dragon (3)"
+      }
+    },
+    {
+      "id": "561-267",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 15,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Blue dragon (4)"
+      }
+    },
+    {
+      "id": "561-268",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 15,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Blue dragon (5)"
+      }
+    },
+    {
+      "id": "561-269",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 15,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Blue dragon (1)"
+      }
+    },
+    {
+      "id": "561-290",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Dwarf (Level 10)"
+      }
+    },
+    {
+      "id": "561-290",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Dwarf (Level 10)"
+      }
+    },
+    {
+      "id": "561-291",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 9,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Chaos dwarf"
+      }
+    },
+    {
+      "id": "561-292",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Dwarf (Level 20)"
+      }
+    },
+    {
+      "id": "561-292",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Dwarf (Level 20)"
+      }
+    },
+    {
+      "id": "561-294",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Dwarf (Level 11)"
+      }
+    },
+    {
+      "id": "561-294",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Dwarf (Level 11)"
+      }
+    },
+    {
+      "id": "561-301",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 4,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Black Heather"
+      }
+    },
+    {
+      "id": "561-302",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 4,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Donny the lad"
+      }
+    },
+    {
+      "id": "561-303",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 4,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Speedy Keith"
+      }
+    },
+    {
+      "id": "561-304",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Salarin the twisted"
+      }
+    },
+    {
+      "id": "561-397",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Town Guard (Hosidius) (Bow)"
+      }
+    },
+    {
+      "id": "561-399",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Town Guard (Hosidius) (Staff)"
+      }
+    },
+    {
+      "id": "561-406",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 3,
+        "quantity_max": 4,
+        "rarity": "0.046875"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Cave crawler"
+      }
+    },
+    {
+      "id": "561-410",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.0806451612903226"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Kurask"
+      }
+    },
+    {
+      "id": "561-410",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 15,
+        "quantity_max": null,
+        "rarity": "0.0564516129032258"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Kurask"
+      }
+    },
+    {
+      "id": "561-410",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 30,
+        "quantity_max": null,
+        "rarity": "0.032258064516129"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Kurask"
+      }
+    },
+    {
+      "id": "561-417",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 15,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Basilisk"
+      }
+    },
+    {
+      "id": "561-417",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 37,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Basilisk"
+      }
+    },
+    {
+      "id": "561-419",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.046875"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Cockatrice"
+      }
+    },
+    {
+      "id": "561-419",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 4,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Cockatrice"
+      }
+    },
+    {
+      "id": "561-419",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 6,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Cockatrice"
+      }
+    },
+    {
+      "id": "561-427",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 15,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Turoth (Level 89)"
+      }
+    },
+    {
+      "id": "561-427",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 37,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Turoth (Level 89)"
+      }
+    },
+    {
+      "id": "561-428",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 15,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Turoth (Level 87)"
+      }
+    },
+    {
+      "id": "561-428",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 37,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Turoth (Level 87)"
+      }
+    },
+    {
+      "id": "561-429",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 15,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Turoth (Level 85)"
+      }
+    },
+    {
+      "id": "561-429",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 37,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Turoth (Level 85)"
+      }
+    },
+    {
+      "id": "561-430",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 15,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Turoth (Level 83)"
+      }
+    },
+    {
+      "id": "561-430",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 37,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Turoth (Level 83)"
+      }
+    },
+    {
+      "id": "561-458",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Lizard"
+      }
+    },
+    {
+      "id": "561-459",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Desert Lizard"
+      }
+    },
+    {
+      "id": "561-462",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Small Lizard"
+      }
+    },
+    {
+      "id": "561-469",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 8,
+        "quantity_max": null,
+        "rarity": "0.0785714285714286"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Killerwatt (Attacking)"
+      }
+    },
+    {
+      "id": "561-469",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 37,
+        "quantity_max": null,
+        "rarity": "0.00714285714285714"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Killerwatt (Attacking)"
+      }
+    },
+    {
+      "id": "561-470",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 8,
+        "quantity_max": null,
+        "rarity": "0.0785714285714286"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Killerwatt (Idle)"
+      }
+    },
+    {
+      "id": "561-470",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 37,
+        "quantity_max": null,
+        "rarity": "0.00714285714285714"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Killerwatt (Idle)"
+      }
+    },
+    {
+      "id": "561-477",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.125"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Giant frog (Level 99)"
+      }
+    },
+    {
+      "id": "561-478",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 4,
+        "quantity_max": null,
+        "rarity": "0.0546875"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Big frog (Level 24)"
+      }
+    },
+    {
+      "id": "561-481",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Cave bug (Level 6)"
+      }
+    },
+    {
+      "id": "561-481",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Cave bug (Level 6)"
+      }
+    },
+    {
+      "id": "561-481",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 2,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Cave bug (Level 6)"
+      }
+    },
+    {
+      "id": "561-483",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Cave bug (Level 96)"
+      }
+    },
+    {
+      "id": "561-483",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Cave bug (Level 96)"
+      }
+    },
+    {
+      "id": "561-483",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 2,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Cave bug (Level 96)"
+      }
+    },
+    {
+      "id": "561-510",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 4,
+        "quantity_max": null,
+        "rarity": "0.0546875"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Dark wizard (Level 20)"
+      }
+    },
+    {
+      "id": "561-510",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 4,
+        "quantity_max": null,
+        "rarity": "0.0546875"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Dark wizard (Level 20)"
+      }
+    },
+    {
+      "id": "561-512",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 4,
+        "quantity_max": null,
+        "rarity": "0.0546875"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Dark wizard (Level 7)"
+      }
+    },
+    {
+      "id": "561-512",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 4,
+        "quantity_max": null,
+        "rarity": "0.0546875"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Dark wizard (Level 7)"
+      }
+    },
+    {
+      "id": "561-520",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Chaos druid"
+      }
+    },
+    {
+      "id": "561-521",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Pirate (Pirate's Cove)"
+      }
+    },
+    {
+      "id": "561-522",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Pirate (Brimhaven)"
+      }
+    },
+    {
+      "id": "561-523",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Pirate (Asgarnian Ice Dungeon)"
+      }
+    },
+    {
+      "id": "561-525",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.1015625"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Thug"
+      }
+    },
+    {
+      "id": "561-530",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.0579710144927536"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Tribesman"
+      }
+    },
+    {
+      "id": "561-531",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Dark warrior (Level 8)"
+      }
+    },
+    {
+      "id": "561-531",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 9,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Dark warrior (Level 8)"
+      }
+    },
+    {
+      "id": "561-532",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Chaos druid warrior"
+      }
+    },
+    {
+      "id": "561-537",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.218978102189781"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "https://oldschool.runescape.wiki/w/Zygomite#Level_74"
+      }
+    },
+    {
+      "id": "561-537",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.0214285714285714"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "https://oldschool.runescape.wiki/w/Zygomite#Level_74"
+      }
+    },
+    {
+      "id": "561-643",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 7,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Arrg (Normal)"
+      }
+    },
+    {
+      "id": "561-655",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Goblin (Level 5)"
+      }
+    },
+    {
+      "id": "561-690",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Bandit (Bandit Camp) (Level 74)"
+      }
+    },
+    {
+      "id": "561-695",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Bandit (Bandit Camp) (Level 57)"
+      }
+    },
+    {
+      "id": "561-925",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 16,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Rock (Troll)"
+      }
+    },
+    {
+      "id": "561-926",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 16,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Stick"
+      }
+    },
+    {
+      "id": "561-927",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 16,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Pee Hat"
+      }
+    },
+    {
+      "id": "561-928",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 16,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Kraka"
+      }
+    },
+    {
+      "id": "561-931",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 7,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Thrower Troll"
+      }
+    },
+    {
+      "id": "561-936",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 7,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Mountain troll (Level 69)"
+      }
+    },
+    {
+      "id": "561-955",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 4,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Kalphite Worker"
+      }
+    },
+    {
+      "id": "561-957",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Kalphite Soldier"
+      }
+    },
+    {
+      "id": "561-995",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Guard (Falador (sword))"
+      }
+    },
+    {
+      "id": "561-1024",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.218978102189781"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "https://oldschool.runescape.wiki/w/Zygomite#Level_86"
+      }
+    },
+    {
+      "id": "561-1024",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.0214285714285714"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "https://oldschool.runescape.wiki/w/Zygomite#Level_86"
+      }
+    },
+    {
+      "id": "561-1025",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.0546875"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Necromancer"
+      }
+    },
+    {
+      "id": "561-1026",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Bandit (Level 22)"
+      }
+    },
+    {
+      "id": "561-1026",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Bandit (Level 22)"
+      }
+    },
+    {
+      "id": "561-1042",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.0542635658914729"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Jungle horror"
+      }
+    },
+    {
+      "id": "561-1042",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 4,
+        "quantity_max": null,
+        "rarity": "0.0775193798449612"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Jungle horror"
+      }
+    },
+    {
+      "id": "561-1047",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 6,
+        "quantity_max": null,
+        "rarity": "0.046875"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Cave horror"
+      }
+    },
+    {
+      "id": "561-1047",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 4,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Cave horror"
+      }
+    },
+    {
+      "id": "561-1047",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Cave horror"
+      }
+    },
+    {
+      "id": "561-1365",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.0757403620389305"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Fire elemental"
+      }
+    },
+    {
+      "id": "561-1366",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.0703125"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Earth elemental (Normal)"
+      }
+    },
+    {
+      "id": "561-1367",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.0703125"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Earth elemental (Ore)"
+      }
+    },
+    {
+      "id": "561-1369",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.0757403620389305"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Air elemental"
+      }
+    },
+    {
+      "id": "561-1370",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.0757403620389305"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Water elemental"
+      }
+    },
+    {
+      "id": "561-1408",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Dwarf (Level 7)"
+      }
+    },
+    {
+      "id": "561-1408",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Dwarf (Level 7)"
+      }
+    },
+    {
+      "id": "561-1409",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Black Guard (Level 25)"
+      }
+    },
+    {
+      "id": "561-1447",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Pirate (Port Sarim)"
+      }
+    },
+    {
+      "id": "561-1546",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Guard (Port Sarim)"
+      }
+    },
+    {
+      "id": "561-1798",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 4,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "White Knight (Initiate)"
+      }
+    },
+    {
+      "id": "561-1798",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "White Knight (Initiate)"
+      }
+    },
+    {
+      "id": "561-1798",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 6,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "White Knight (Initiate)"
+      }
+    },
+    {
+      "id": "561-1798",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 7,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "White Knight (Initiate)"
+      }
+    },
+    {
+      "id": "561-1799",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 4,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "White Knight (Proselyte)"
+      }
+    },
+    {
+      "id": "561-1799",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "White Knight (Proselyte)"
+      }
+    },
+    {
+      "id": "561-1799",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 6,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "White Knight (Proselyte)"
+      }
+    },
+    {
+      "id": "561-1799",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 7,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "White Knight (Proselyte)"
+      }
+    },
+    {
+      "id": "561-1800",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 4,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "White Knight (Acolyte)"
+      }
+    },
+    {
+      "id": "561-1800",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "White Knight (Acolyte)"
+      }
+    },
+    {
+      "id": "561-1800",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 6,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "White Knight (Acolyte)"
+      }
+    },
+    {
+      "id": "561-1800",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 7,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "White Knight (Acolyte)"
+      }
+    },
+    {
+      "id": "561-1829",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 4,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "White Knight (Partisan)"
+      }
+    },
+    {
+      "id": "561-1829",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "White Knight (Partisan)"
+      }
+    },
+    {
+      "id": "561-1829",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 6,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "White Knight (Partisan)"
+      }
+    }
+  ]
+}

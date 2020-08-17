@@ -1,0 +1,20 @@
+{
+  "data": [
+    {
+      "id": "23953-9049",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.005"
+      },
+      "meta": {
+        "item_name": "Crystal tool seed",
+        "monster_name": "Zalcano"
+      }
+    }
+  ]
+}

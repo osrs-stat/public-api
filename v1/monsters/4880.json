@@ -1,0 +1,132 @@
+{
+  "data": {
+    "id": "4880",
+    "type": "monster",
+    "attributes": {
+      "uuid": "d1ffda06-a550-44b7-9473-5ceab4440599",
+      "name": "Agrith-Na-Na (Normal)",
+      "members": true,
+      "release_date": "2006-03-15",
+      "examine": "Big, scary, angry, and a good source of energy.",
+      "combat_level_override": null,
+      "max_hit_override": 16,
+      "target_types": [
+
+      ],
+      "classification_types": [
+
+      ],
+      "poison": false,
+      "immune_poison": false,
+      "immune_venom": false,
+      "slayer_xp": null,
+      "slayer_level": null,
+      "slayer_masters": [
+
+      ],
+      "icon_base64": null
+    },
+    "relationships": {
+      "combat_stat": {
+        "data": {
+          "id": "9576e07e-7cb6-4f5a-8689-4a6a11dce875",
+          "type": "combat_stat"
+        }
+      },
+      "equip_stat": {
+        "data": {
+          "id": "c73ac839-2b2e-4cf1-858b-021bd8adedc3",
+          "type": "equip_stat"
+        }
+      },
+      "attack_stat": {
+        "data": {
+          "id": "40ac2400-bd7b-475e-8339-90e3a48cb66d",
+          "type": "attack_stat"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Agrith-Na-Na#Normal"
+    },
+    "meta": {
+      "incomplete": true
+    }
+  },
+  "included": [
+    {
+      "id": "40ac2400-bd7b-475e-8339-90e3a48cb66d",
+      "type": "attack_stat",
+      "attributes": {
+        "attack_speed": 4,
+        "attack_type": "monster",
+        "special": null,
+        "stances": [
+          {
+            "name": "Monster crush",
+            "style": null,
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": null,
+            "combat_accuracy_stat": "attack_level",
+            "combat_damage_stat": "strength_level",
+            "equip_accuracy_stat": "crush_attack",
+            "equip_damage_stat": "crush_attack",
+            "target_equip_defense_stat": "crush_defense"
+          },
+          {
+            "name": "Monster magic",
+            "style": null,
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": null,
+            "combat_accuracy_stat": "magic_level",
+            "combat_damage_stat": "magic_level",
+            "equip_accuracy_stat": "magic_attack",
+            "equip_damage_stat": "magic_attack",
+            "target_equip_defense_stat": "magic_defense"
+          }
+        ]
+      }
+    },
+    {
+      "id": "9576e07e-7cb6-4f5a-8689-4a6a11dce875",
+      "type": "monster_combat_stat",
+      "attributes": {
+        "hitpoints_level": 200,
+        "attack_level": 83,
+        "strength_level": 150,
+        "defense_level": 82,
+        "magic_level": 100,
+        "ranged_level": 100,
+        "prayer_level": 0
+      }
+    },
+    {
+      "id": "c73ac839-2b2e-4cf1-858b-021bd8adedc3",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 100,
+        "slash_attack": 100,
+        "crush_attack": 100,
+        "ranged_attack": 0,
+        "magic_attack": 0,
+        "stab_defense": 100,
+        "slash_defense": 100,
+        "crush_defense": 100,
+        "ranged_defense": 100,
+        "magic_defense": 100,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

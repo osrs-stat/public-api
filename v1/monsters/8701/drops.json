@@ -1,0 +1,180 @@
+{
+  "data": [
+    {
+      "id": "526-8701",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Bones",
+        "monster_name": "Big frog (Level 10)"
+      }
+    },
+    {
+      "id": "7908-8701",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Big frog leg (Unpolished)",
+        "monster_name": "Big frog (Level 10)"
+      }
+    },
+    {
+      "id": "1440-8701",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Earth talisman",
+        "monster_name": "Big frog (Level 10)"
+      }
+    },
+    {
+      "id": "1444-8701",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Water talisman",
+        "monster_name": "Big frog (Level 10)"
+      }
+    },
+    {
+      "id": "564-8701",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.046875"
+      },
+      "meta": {
+        "item_name": "Cosmic rune",
+        "monster_name": "Big frog (Level 10)"
+      }
+    },
+    {
+      "id": "561-8701",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 4,
+        "quantity_max": null,
+        "rarity": "0.0546875"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Big frog (Level 10)"
+      }
+    },
+    {
+      "id": "557-8701",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 12,
+        "quantity_max": null,
+        "rarity": "0.078125"
+      },
+      "meta": {
+        "item_name": "Earth rune (Regular)",
+        "monster_name": "Big frog (Level 10)"
+      }
+    },
+    {
+      "id": "555-8701",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 12,
+        "quantity_max": null,
+        "rarity": "0.0859375"
+      },
+      "meta": {
+        "item_name": "Water rune (Regular)",
+        "monster_name": "Big frog (Level 10)"
+      }
+    },
+    {
+      "id": "526-8701",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Bones",
+        "monster_name": "Big frog (Level 10)"
+      }
+    },
+    {
+      "id": "995-8701",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 15,
+        "quantity_max": null,
+        "rarity": "0.203125"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Big frog (Level 10)"
+      }
+    },
+    {
+      "id": "995-8701",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.3359375"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Big frog (Level 10)"
+      }
+    }
+  ]
+}

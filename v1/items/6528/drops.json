@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "id": "6528-7679",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.001953125"
+      },
+      "meta": {
+        "item_name": "Tzhaar-ket-om",
+        "monster_name": "TzHaar-Ket (Level 221)"
+      }
+    },
+    {
+      "id": "6528-2173",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.001953125"
+      },
+      "meta": {
+        "item_name": "Tzhaar-ket-om",
+        "monster_name": "TzHaar-Ket (Level 149)"
+      }
+    }
+  ]
+}

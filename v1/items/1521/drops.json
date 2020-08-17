@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "id": "1521-8297",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 4,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Oak logs",
+        "monster_name": "Swamp Crab (Normal)"
+      }
+    },
+    {
+      "id": "1521-8298",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 4,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Oak logs",
+        "monster_name": "Swamp Crab (Bloomed)"
+      }
+    }
+  ]
+}

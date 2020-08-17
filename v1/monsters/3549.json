@@ -1,0 +1,117 @@
+{
+  "data": {
+    "id": "3549",
+    "type": "monster",
+    "attributes": {
+      "uuid": "4545fbcb-64d2-4a9d-940f-dce1b914a36c",
+      "name": "Menaphite Thug",
+      "members": true,
+      "release_date": "2005-04-04",
+      "examine": "Menaphite thug.",
+      "combat_level_override": null,
+      "max_hit_override": null,
+      "target_types": [
+
+      ],
+      "classification_types": [
+
+      ],
+      "poison": false,
+      "immune_poison": false,
+      "immune_venom": false,
+      "slayer_xp": null,
+      "slayer_level": null,
+      "slayer_masters": [
+
+      ],
+      "icon_base64": null
+    },
+    "relationships": {
+      "combat_stat": {
+        "data": {
+          "id": "7004fd5c-a7aa-4aac-9809-5fc2dbf28fcd",
+          "type": "combat_stat"
+        }
+      },
+      "equip_stat": {
+        "data": {
+          "id": "959aabc5-f884-4d3e-a7e5-dfe3b5d4754f",
+          "type": "equip_stat"
+        }
+      },
+      "attack_stat": {
+        "data": {
+          "id": "8b8db215-11a2-4a31-a819-9e0cbdd16546",
+          "type": "attack_stat"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Menaphite_Thug"
+    },
+    "meta": {
+      "incomplete": true
+    }
+  },
+  "included": [
+    {
+      "id": "8b8db215-11a2-4a31-a819-9e0cbdd16546",
+      "type": "attack_stat",
+      "attributes": {
+        "attack_speed": 4,
+        "attack_type": "monster",
+        "special": null,
+        "stances": [
+          {
+            "name": "Monster crush",
+            "style": null,
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": null,
+            "combat_accuracy_stat": "attack_level",
+            "combat_damage_stat": "strength_level",
+            "equip_accuracy_stat": "crush_attack",
+            "equip_damage_stat": "crush_attack",
+            "target_equip_defense_stat": "crush_defense"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7004fd5c-a7aa-4aac-9809-5fc2dbf28fcd",
+      "type": "monster_combat_stat",
+      "attributes": {
+        "hitpoints_level": 60,
+        "attack_level": 60,
+        "strength_level": 50,
+        "defense_level": 20,
+        "magic_level": 0,
+        "ranged_level": 0,
+        "prayer_level": 0
+      }
+    },
+    {
+      "id": "959aabc5-f884-4d3e-a7e5-dfe3b5d4754f",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 4,
+        "slash_attack": 4,
+        "crush_attack": 4,
+        "ranged_attack": 0,
+        "magic_attack": 0,
+        "stab_defense": 9,
+        "slash_defense": 8,
+        "crush_defense": 10,
+        "ranged_defense": 0,
+        "magic_defense": 0,
+        "melee_strength": 9,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "data": [
+    {
+      "id": "2912-454",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Red gloves",
+        "monster_name": "Crawling Hand (Level 12 (2))"
+      }
+    },
+    {
+      "id": "2912-7388",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Red gloves",
+        "monster_name": "Crushing hand"
+      }
+    },
+    {
+      "id": "2912-448",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Red gloves",
+        "monster_name": "Crawling Hand (Level 8)"
+      }
+    },
+    {
+      "id": "2912-450",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Red gloves",
+        "monster_name": "Crawling Hand (Level 7)"
+      }
+    },
+    {
+      "id": "2912-453",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Red gloves",
+        "monster_name": "Crawling Hand (Level 12 (1))"
+      }
+    }
+  ]
+}

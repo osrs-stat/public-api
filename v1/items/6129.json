@@ -1,0 +1,75 @@
+{
+  "data": {
+    "id": "6129",
+    "type": "item",
+    "attributes": {
+      "uuid": "3043e30f-a492-4256-9b0a-c4aa931650fb",
+      "name": "Rock-shell plate",
+      "members": true,
+      "release_date": "2005-08-01",
+      "examine": "A sturdy body armour made from rock crab pieces.",
+      "tradeable": false,
+      "ge_tradeable": false,
+      "lowalch": 26000,
+      "highalch": 39000,
+      "is_equip": true,
+      "is_weapon": false,
+      "icon_base64": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACdUlEQVR4Xu2WfStEQRTGzUfwh5JSmyRJ2kQiIqJtQ8hbNkW+/2c4emZ6dp47e+6bfwinpvbeOXPOb55zZu7Ozf3b77Jg1dHVvrqu1lKgzc0NW19fs8Fg2ZaWFjskSPPwxVhYmI+jfV2jBTs83LPd3aFtD7ci0OrqyjSJD5ae4Yt5bkChMlgvC3Z+fmLHxwe2v78ToVQlDMACFJAEwW8k5Hv8pr+CwXc4GHSFCnZ9PbLR6MxOT49iYkAxCQefmYSwVAEbwDP9FaynSlUgqMTSISkGYKgakwGaEEhIfwCw3ITqUbpg9/dXdns7tsvxRSwboZCMZfNKqdBMShXpQ7U6li7Y8/OdPT7eRCiqRCgER2BVjlCYY3kJqaoplJ7WFpVCTFaWCkE1MZTzoPQQ6KkklCqkQA1QYZpMSwUoglE5LSfn9BBoKfGem6HK2lMsm1O6BORBYbCkZTkJ7Z1KJIcCmON7whGstY840Eu8ayjrZPIw02OEpmp6KnUtNlPGa1AnW5oMMRHrzwBlqahe2W+lAgqE97zlW2GyhWmDKtDr61NUSU8jrggtoVfqEkh7p8xcY/k7hl12ASrvLR4GD0gVKjM7ltXh8dUeagLyrowSCDF7KpTVwW4wGLROId7s5clDcq7FOryn6r2A6hrz/e1lBsjrIza9bgZr9aD0AtK7AhdYHZBXNu2jqhLpLw2VyxtttfQJYR9pwI+PyRSoLJvXR9wM12Mt/DDPcnZQKQFhEZSqLsr90ARElbiWQOhB+AG2FxAC+0D54sTwgDhXhUlxUfIvAMHqgmZTMM9/dl0queebfRrMDzprJUCzfxPwN9mPgPi3P2GfizG4kNmuVYcAAAAASUVORK5CYII="
+    },
+    "relationships": {
+      "equip": {
+        "data": {
+          "id": "e7b2334f-0348-4f34-aaa0-d8c59587eaae",
+          "type": "equip"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Rock-shell_plate"
+    },
+    "meta": {
+      "incomplete": false
+    }
+  },
+  "included": [
+    {
+      "id": "e7b2334f-0348-4f34-aaa0-d8c59587eaae",
+      "type": "equip",
+      "attributes": {
+        "slot": "body",
+        "passive_effect": null,
+        "requirements": {
+          "defense_level": 40
+        }
+      },
+      "relationships": {
+        "equip_stat": {
+          "data": {
+            "id": "a2d0d5de-a1f7-4381-bfed-43866e33668b",
+            "type": "equip_stat"
+          }
+        }
+      }
+    },
+    {
+      "id": "a2d0d5de-a1f7-4381-bfed-43866e33668b",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 0,
+        "slash_attack": 0,
+        "crush_attack": 0,
+        "ranged_attack": -10,
+        "magic_attack": -30,
+        "stab_defense": 82,
+        "slash_defense": 80,
+        "crush_defense": 72,
+        "ranged_defense": 80,
+        "magic_defense": -6,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

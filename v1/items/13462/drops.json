@@ -1,0 +1,116 @@
+{
+  "data": [
+    {
+      "id": "13462-3425",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.04"
+      },
+      "meta": {
+        "item_name": "Ensouled bear head (Drop)",
+        "monster_name": "Grizzly bear cub (Level 36)"
+      }
+    },
+    {
+      "id": "13462-2839",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.04"
+      },
+      "meta": {
+        "item_name": "Ensouled bear head (Drop)",
+        "monster_name": "Black bear"
+      }
+    },
+    {
+      "id": "13462-3423",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.04"
+      },
+      "meta": {
+        "item_name": "Ensouled bear head (Drop)",
+        "monster_name": "Grizzly bear (Level 42)"
+      }
+    },
+    {
+      "id": "13462-3909",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.04"
+      },
+      "meta": {
+        "item_name": "Ensouled bear head (Drop)",
+        "monster_name": "Bear Cub (2)"
+      }
+    },
+    {
+      "id": "13462-3424",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.04"
+      },
+      "meta": {
+        "item_name": "Ensouled bear head (Drop)",
+        "monster_name": "Grizzly bear cub (Level 33)"
+      }
+    },
+    {
+      "id": "13462-2838",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.04"
+      },
+      "meta": {
+        "item_name": "Ensouled bear head (Drop)",
+        "monster_name": "Grizzly bear (Level 21)"
+      }
+    },
+    {
+      "id": "13462-3908",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.04"
+      },
+      "meta": {
+        "item_name": "Ensouled bear head (Drop)",
+        "monster_name": "Bear Cub (1)"
+      }
+    }
+  ]
+}

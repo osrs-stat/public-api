@@ -1,0 +1,308 @@
+{
+  "data": [
+    {
+      "id": "995-2483",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 7,
+        "quantity_max": null,
+        "rarity": "0.198019801980198"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Minotaur (Level 27)"
+      }
+    },
+    {
+      "id": "995-2483",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.108910891089109"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Minotaur (Level 27)"
+      }
+    },
+    {
+      "id": "995-2483",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": 84,
+        "rarity": "0.0693069306930693"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Minotaur (Level 27)"
+      }
+    },
+    {
+      "id": "9007-2483",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0297029702970297"
+      },
+      "meta": {
+        "item_name": "Right skull half",
+        "monster_name": "Minotaur (Level 27)"
+      }
+    },
+    {
+      "id": "2677-2483",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0099009900990099"
+      },
+      "meta": {
+        "item_name": "Clue scroll (easy)",
+        "monster_name": "Minotaur (Level 27)"
+      }
+    },
+    {
+      "id": "23182-2483",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0166666666666667"
+      },
+      "meta": {
+        "item_name": "Clue scroll (beginner)",
+        "monster_name": "Minotaur (Level 27)"
+      }
+    },
+    {
+      "id": "13456-2483",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.02"
+      },
+      "meta": {
+        "item_name": "Ensouled minotaur head (Drop)",
+        "monster_name": "Minotaur (Level 27)"
+      }
+    },
+    {
+      "id": "2142-2483",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0297029702970297"
+      },
+      "meta": {
+        "item_name": "Cooked meat",
+        "monster_name": "Minotaur (Level 27)"
+      }
+    },
+    {
+      "id": "1436-2483",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.0495049504950495"
+      },
+      "meta": {
+        "item_name": "Rune essence",
+        "monster_name": "Minotaur (Level 27)"
+      }
+    },
+    {
+      "id": "7936-2483",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 15,
+        "quantity_max": null,
+        "rarity": "0.0495049504950495"
+      },
+      "meta": {
+        "item_name": "Pure essence",
+        "monster_name": "Minotaur (Level 27)"
+      }
+    },
+    {
+      "id": "438-2483",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0594059405940594"
+      },
+      "meta": {
+        "item_name": "Tin ore",
+        "monster_name": "Minotaur (Level 27)"
+      }
+    },
+    {
+      "id": "436-2483",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0594059405940594"
+      },
+      "meta": {
+        "item_name": "Copper ore",
+        "monster_name": "Minotaur (Level 27)"
+      }
+    },
+    {
+      "id": "558-2483",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0099009900990099"
+      },
+      "meta": {
+        "item_name": "Mind rune",
+        "monster_name": "Minotaur (Level 27)"
+      }
+    },
+    {
+      "id": "1205-2483",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0396039603960396"
+      },
+      "meta": {
+        "item_name": "Bronze dagger (Unpoisoned)",
+        "monster_name": "Minotaur (Level 27)"
+      }
+    },
+    {
+      "id": "882-2483",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.0297029702970297"
+      },
+      "meta": {
+        "item_name": "Bronze arrow (Unpoisoned)",
+        "monster_name": "Minotaur (Level 27)"
+      }
+    },
+    {
+      "id": "1155-2483",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.099009900990099"
+      },
+      "meta": {
+        "item_name": "Bronze full helm",
+        "monster_name": "Minotaur (Level 27)"
+      }
+    },
+    {
+      "id": "1237-2483",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.099009900990099"
+      },
+      "meta": {
+        "item_name": "Bronze spear (Unpoisoned)",
+        "monster_name": "Minotaur (Level 27)"
+      }
+    },
+    {
+      "id": "884-2483",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": 14,
+        "rarity": "0.099009900990099"
+      },
+      "meta": {
+        "item_name": "Iron arrow (Unpoisoned)",
+        "monster_name": "Minotaur (Level 27)"
+      }
+    },
+    {
+      "id": "526-2483",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Bones",
+        "monster_name": "Minotaur (Level 27)"
+      }
+    }
+  ]
+}

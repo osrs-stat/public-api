@@ -1,0 +1,132 @@
+{
+  "data": [
+    {
+      "id": "2503-8618",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0495049504950495"
+      },
+      "meta": {
+        "item_name": "Black d'hide body",
+        "monster_name": "Alchemical Hydra (Three heads)"
+      }
+    },
+    {
+      "id": "2503-8621",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0495049504950495"
+      },
+      "meta": {
+        "item_name": "Black d'hide body",
+        "monster_name": "Alchemical Hydra (Two heads)"
+      }
+    },
+    {
+      "id": "2503-3162",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.062992125984252"
+      },
+      "meta": {
+        "item_name": "Black d'hide body",
+        "monster_name": "Kree'arra"
+      }
+    },
+    {
+      "id": "2503-5862",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Black d'hide body",
+        "monster_name": "Cerberus"
+      }
+    },
+    {
+      "id": "2503-7275",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Black d'hide body",
+        "monster_name": "Brutal black dragon"
+      }
+    },
+    {
+      "id": "2503-7806",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.046875"
+      },
+      "meta": {
+        "item_name": "Black d'hide body",
+        "monster_name": "Deranged archaeologist"
+      }
+    },
+    {
+      "id": "2503-8615",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0495049504950495"
+      },
+      "meta": {
+        "item_name": "Black d'hide body",
+        "monster_name": "Alchemical Hydra (Five heads)"
+      }
+    },
+    {
+      "id": "2503-8617",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0495049504950495"
+      },
+      "meta": {
+        "item_name": "Black d'hide body",
+        "monster_name": "Alchemical Hydra (Four heads)"
+      }
+    }
+  ]
+}

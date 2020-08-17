@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "id": "5972-410",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.032258064516129"
+      },
+      "meta": {
+        "item_name": "Papaya fruit",
+        "monster_name": "Kurask"
+      }
+    },
+    {
+      "id": "5972-7405",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.032258064516129"
+      },
+      "meta": {
+        "item_name": "Papaya fruit",
+        "monster_name": "King kurask"
+      }
+    }
+  ]
+}

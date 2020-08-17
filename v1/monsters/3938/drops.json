@@ -1,0 +1,628 @@
+{
+  "data": [
+    {
+      "id": "215-3938",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0006103515625"
+      },
+      "meta": {
+        "item_name": "Grimy cadantine",
+        "monster_name": "Freidir"
+      }
+    },
+    {
+      "id": "2485-3938",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000457727911881884"
+      },
+      "meta": {
+        "item_name": "Grimy lantadyme",
+        "monster_name": "Freidir"
+      }
+    },
+    {
+      "id": "217-3938",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000457727911881884"
+      },
+      "meta": {
+        "item_name": "Grimy dwarf weed",
+        "monster_name": "Freidir"
+      }
+    },
+    {
+      "id": "221-3938",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Eye of newt",
+        "monster_name": "Freidir"
+      }
+    },
+    {
+      "id": "1917-3938",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00390625"
+      },
+      "meta": {
+        "item_name": "Beer",
+        "monster_name": "Freidir"
+      }
+    },
+    {
+      "id": "3689-3938",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.05859375"
+      },
+      "meta": {
+        "item_name": "Lyre",
+        "monster_name": "Freidir"
+      }
+    },
+    {
+      "id": "1925-3938",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.033203125"
+      },
+      "meta": {
+        "item_name": "Bucket",
+        "monster_name": "Freidir"
+      }
+    },
+    {
+      "id": "227-3938",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.09765625"
+      },
+      "meta": {
+        "item_name": "Vial of water",
+        "monster_name": "Freidir"
+      }
+    },
+    {
+      "id": "229-3938",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.09765625"
+      },
+      "meta": {
+        "item_name": "Vial",
+        "monster_name": "Freidir"
+      }
+    },
+    {
+      "id": "590-3938",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.09765625"
+      },
+      "meta": {
+        "item_name": "Tinderbox",
+        "monster_name": "Freidir"
+      }
+    },
+    {
+      "id": "2353-3938",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.01953125"
+      },
+      "meta": {
+        "item_name": "Steel bar",
+        "monster_name": "Freidir"
+      }
+    },
+    {
+      "id": "453-3938",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.01953125"
+      },
+      "meta": {
+        "item_name": "Coal",
+        "monster_name": "Freidir"
+      }
+    },
+    {
+      "id": "440-3938",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.01953125"
+      },
+      "meta": {
+        "item_name": "Iron ore",
+        "monster_name": "Freidir"
+      }
+    },
+    {
+      "id": "438-3938",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.01953125"
+      },
+      "meta": {
+        "item_name": "Tin ore",
+        "monster_name": "Freidir"
+      }
+    },
+    {
+      "id": "436-3938",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.01953125"
+      },
+      "meta": {
+        "item_name": "Copper ore",
+        "monster_name": "Freidir"
+      }
+    },
+    {
+      "id": "3748-3938",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.001953125"
+      },
+      "meta": {
+        "item_name": "Fremennik helm",
+        "monster_name": "Freidir"
+      }
+    },
+    {
+      "id": "3758-3938",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.001953125"
+      },
+      "meta": {
+        "item_name": "Fremennik shield",
+        "monster_name": "Freidir"
+      }
+    },
+    {
+      "id": "3757-3938",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.001953125"
+      },
+      "meta": {
+        "item_name": "Fremennik blade",
+        "monster_name": "Freidir"
+      }
+    },
+    {
+      "id": "1335-3938",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.13671875"
+      },
+      "meta": {
+        "item_name": "Iron warhammer",
+        "monster_name": "Freidir"
+      }
+    },
+    {
+      "id": "1337-3938",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.1953125"
+      },
+      "meta": {
+        "item_name": "Bronze warhammer",
+        "monster_name": "Freidir"
+      }
+    },
+    {
+      "id": "526-3938",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Bones",
+        "monster_name": "Freidir"
+      }
+    },
+    {
+      "id": "247-3938",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00390625"
+      },
+      "meta": {
+        "item_name": "Jangerberries",
+        "monster_name": "Freidir"
+      }
+    },
+    {
+      "id": "1582-3938",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.001953125"
+      },
+      "meta": {
+        "item_name": "Blamish oil",
+        "monster_name": "Freidir"
+      }
+    },
+    {
+      "id": "2677-3938",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Clue scroll (easy)",
+        "monster_name": "Freidir"
+      }
+    },
+    {
+      "id": "199-3938",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0048828125"
+      },
+      "meta": {
+        "item_name": "Grimy guam leaf",
+        "monster_name": "Freidir"
+      }
+    },
+    {
+      "id": "201-3938",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00366233827114195"
+      },
+      "meta": {
+        "item_name": "Grimy marrentill",
+        "monster_name": "Freidir"
+      }
+    },
+    {
+      "id": "203-3938",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0027466249472648"
+      },
+      "meta": {
+        "item_name": "Grimy tarromin",
+        "monster_name": "Freidir"
+      }
+    },
+    {
+      "id": "205-3938",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00213619709067046"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Freidir"
+      }
+    },
+    {
+      "id": "207-3938",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00167794243986254"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Freidir"
+      }
+    },
+    {
+      "id": "231-3938",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00390625"
+      },
+      "meta": {
+        "item_name": "Snape grass",
+        "monster_name": "Freidir"
+      }
+    },
+    {
+      "id": "209-3938",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.001220703125"
+      },
+      "meta": {
+        "item_name": "Grimy irit leaf",
+        "monster_name": "Freidir"
+      }
+    },
+    {
+      "id": "211-3938",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000915670417252696"
+      },
+      "meta": {
+        "item_name": "Grimy avantoe",
+        "monster_name": "Freidir"
+      }
+    },
+    {
+      "id": "213-3938",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000762939453125"
+      },
+      "meta": {
+        "item_name": "Grimy kwuarm",
+        "monster_name": "Freidir"
+      }
+    },
+    {
+      "id": "995-3938",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 15,
+        "quantity_max": null,
+        "rarity": "0.029296875"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Freidir"
+      }
+    },
+    {
+      "id": "995-3938",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 6,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Freidir"
+      }
+    },
+    {
+      "id": "995-3938",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 16,
+        "quantity_max": null,
+        "rarity": "0.01953125"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Freidir"
+      }
+    },
+    {
+      "id": "995-3938",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 20,
+        "quantity_max": null,
+        "rarity": "0.01953125"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Freidir"
+      }
+    },
+    {
+      "id": "995-3938",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 38,
+        "quantity_max": null,
+        "rarity": "0.009765625"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Freidir"
+      }
+    },
+    {
+      "id": "995-3938",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 40,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Freidir"
+      }
+    }
+  ]
+}

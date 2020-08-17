@@ -1,0 +1,7204 @@
+{
+  "data": [
+    {
+      "id": "205-680",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00427239418134092"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Giant skeleton (Tarn's Lair)"
+      }
+    },
+    {
+      "id": "205-690",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0119627037077546"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Bandit (Bandit Camp) (Level 74)"
+      }
+    },
+    {
+      "id": "205-695",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0119627037077546"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Bandit (Bandit Camp) (Level 57)"
+      }
+    },
+    {
+      "id": "205-717",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000639609889136418"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Mummy (Level 96)"
+      }
+    },
+    {
+      "id": "205-720",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000639609889136418"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Mummy (Level 103)"
+      }
+    },
+    {
+      "id": "205-724",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000639609889136418"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Mummy (Level 98)"
+      }
+    },
+    {
+      "id": "205-794",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0170895767253637"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Scarab mage (Level 93)"
+      }
+    },
+    {
+      "id": "205-795",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0170895767253637"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Locust rider (Lancer)"
+      }
+    },
+    {
+      "id": "205-796",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0170895767253637"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Locust rider (Ranger)"
+      }
+    },
+    {
+      "id": "205-799",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0170895767253637"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Scarab mage (Level 66 (Quest))"
+      }
+    },
+    {
+      "id": "205-800",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0170895767253637"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Locust rider (Lancer (Quest))"
+      }
+    },
+    {
+      "id": "205-801",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0170895767253637"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Locust rider (Ranger (Quest))"
+      }
+    },
+    {
+      "id": "205-925",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0128171825440227"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Rock (Troll)"
+      }
+    },
+    {
+      "id": "205-926",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0128171825440227"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Stick"
+      }
+    },
+    {
+      "id": "205-927",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0128171825440227"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Pee Hat"
+      }
+    },
+    {
+      "id": "205-928",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0128171825440227"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Kraka"
+      }
+    },
+    {
+      "id": "205-931",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0128171825440227"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Thrower Troll"
+      }
+    },
+    {
+      "id": "205-936",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0128171825440227"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Mountain troll (Level 69)"
+      }
+    },
+    {
+      "id": "205-946",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.02819780159685"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "https://oldschool.runescape.wiki/w/Ghast#Level_30"
+      }
+    },
+    {
+      "id": "205-949",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000639609889136418"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Mummy (Level 84)"
+      }
+    },
+    {
+      "id": "205-955",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00598135185387728"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Kalphite Worker"
+      }
+    },
+    {
+      "id": "205-957",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000854478836268183"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Kalphite Soldier"
+      }
+    },
+    {
+      "id": "205-959",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0196530132341682"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Kalphite Guardian"
+      }
+    },
+    {
+      "id": "205-1024",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0072992700729927"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "https://oldschool.runescape.wiki/w/Zygomite#Level_86"
+      }
+    },
+    {
+      "id": "205-1024",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00714285714285714"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "https://oldschool.runescape.wiki/w/Zygomite#Level_86"
+      }
+    },
+    {
+      "id": "205-1042",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00508712981592221"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Jungle horror"
+      }
+    },
+    {
+      "id": "205-1047",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0111082248714864"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Cave horror"
+      }
+    },
+    {
+      "id": "205-1101",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00427239418134092"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Giant Sea Snake"
+      }
+    },
+    {
+      "id": "205-1118",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0196530132341682"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Man (West Ardougne)"
+      }
+    },
+    {
+      "id": "205-1144",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00683583069014547"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "https://oldschool.runescape.wiki/w/Paladin#Level_59"
+      }
+    },
+    {
+      "id": "205-1293",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0196530132341682"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Afflicted (Level 37)"
+      }
+    },
+    {
+      "id": "205-1294",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0196530132341682"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Afflicted (Level 34)"
+      }
+    },
+    {
+      "id": "205-1297",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0196530132341682"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Afflicted (Level 32)"
+      }
+    },
+    {
+      "id": "205-1298",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0196530132341682"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Afflicted (Level 30)"
+      }
+    },
+    {
+      "id": "205-1365",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.011768161291406"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Fire elemental"
+      }
+    },
+    {
+      "id": "205-1366",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0119627037077546"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Earth elemental (Normal)"
+      }
+    },
+    {
+      "id": "205-1367",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0119627037077546"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Earth elemental (Ore)"
+      }
+    },
+    {
+      "id": "205-1369",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.011768161291406"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Air elemental"
+      }
+    },
+    {
+      "id": "205-1370",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.011768161291406"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Water elemental"
+      }
+    },
+    {
+      "id": "205-1448",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0196530132341682"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Thief (Standard)"
+      }
+    },
+    {
+      "id": "205-1537",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00427239418134092"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Skeleton hero"
+      }
+    },
+    {
+      "id": "205-1538",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00427239418134092"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Skeleton brute"
+      }
+    },
+    {
+      "id": "205-1539",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00427239418134092"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Skeleton warlord"
+      }
+    },
+    {
+      "id": "205-1540",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00427239418134092"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Skeleton heavy"
+      }
+    },
+    {
+      "id": "205-1541",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00427239418134092"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Skeleton thug"
+      }
+    },
+    {
+      "id": "205-1798",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00598135185387728"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "White Knight (Initiate)"
+      }
+    },
+    {
+      "id": "205-1799",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00598135185387728"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "White Knight (Proselyte)"
+      }
+    },
+    {
+      "id": "205-1800",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00598135185387728"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "White Knight (Acolyte)"
+      }
+    },
+    {
+      "id": "205-1829",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00598135185387728"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "White Knight (Partisan)"
+      }
+    },
+    {
+      "id": "205-1834",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0136716613802909"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Gorak (Level 145)"
+      }
+    },
+    {
+      "id": "205-1861",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0128171825440227"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Tree spirit (Level 14)"
+      }
+    },
+    {
+      "id": "205-1863",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0128171825440227"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Tree spirit (Level 49)"
+      }
+    },
+    {
+      "id": "205-1864",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0128171825440227"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Tree spirit (Level 79)"
+      }
+    },
+    {
+      "id": "205-1865",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0128171825440227"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Tree spirit (Level 120)"
+      }
+    },
+    {
+      "id": "205-1866",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0128171825440227"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Tree spirit (Level 159)"
+      }
+    },
+    {
+      "id": "205-1874",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0128171825440227"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Ice troll runt"
+      }
+    },
+    {
+      "id": "205-1875",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0128171825440227"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Ice troll male"
+      }
+    },
+    {
+      "id": "205-1876",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0128171825440227"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Ice troll female"
+      }
+    },
+    {
+      "id": "205-1877",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00170895767253637"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Ice troll grunt"
+      }
+    },
+    {
+      "id": "205-2005",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000854478836268183"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Lesser demon (Level 82)"
+      }
+    },
+    {
+      "id": "205-2054",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 4,
+        "rarity": "0.00341791534507273"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Chaos Elemental"
+      }
+    },
+    {
+      "id": "205-2075",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0162350978890955"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Fire giant (Level 86)"
+      }
+    },
+    {
+      "id": "205-2090",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00427239418134092"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Moss giant (Level 42)"
+      }
+    },
+    {
+      "id": "205-2094",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00508712981592221"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Jogre (Normal)"
+      }
+    },
+    {
+      "id": "205-2097",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00598135185387728"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Cyclops (Level 56)"
+      }
+    },
+    {
+      "id": "205-2098",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00598135185387728"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Hill Giant"
+      }
+    },
+    {
+      "id": "205-2137",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00598135185387728"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Cyclops (Level 106)"
+      }
+    },
+    {
+      "id": "205-2145",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.024062124029312"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Undead Druid"
+      }
+    },
+    {
+      "id": "205-2234",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00508712981592221"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Jogre (GWD)"
+      }
+    },
+    {
+      "id": "205-2235",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00598135185387728"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Cyclops (Level 81)"
+      }
+    },
+    {
+      "id": "205-2241",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00598135185387728"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Hobgoblin (Level 47)"
+      }
+    },
+    {
+      "id": "205-2245",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00170895767253637"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Goblin (Level 17)"
+      }
+    },
+    {
+      "id": "205-2246",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00170895767253637"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Goblin (Level 12 (1))"
+      }
+    },
+    {
+      "id": "205-2247",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00170895767253637"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Goblin (Level 12 (2))"
+      }
+    },
+    {
+      "id": "205-2248",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00170895767253637"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Goblin (Level 15)"
+      }
+    },
+    {
+      "id": "205-2249",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00170895767253637"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Goblin (Level 13 (GWD))"
+      }
+    },
+    {
+      "id": "205-2259",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00341791534507273"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Dagannoth (Waterbirth Island) (Level 88)"
+      }
+    },
+    {
+      "id": "205-2261",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00683583069014547"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Giant Rock Crab"
+      }
+    },
+    {
+      "id": "205-2464",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00598135185387728"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Cyclops (Level 76)"
+      }
+    },
+    {
+      "id": "205-2474",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00324871161511864"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Catablepon (Level 49)"
+      }
+    },
+    {
+      "id": "205-2475",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00324871161511864"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Catablepon (Level 64)"
+      }
+    },
+    {
+      "id": "205-2476",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00324871161511864"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Catablepon (Level 68)"
+      }
+    },
+    {
+      "id": "205-2485",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00170895767253637"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Goblin (Level 13)"
+      }
+    },
+    {
+      "id": "205-2486",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00170895767253637"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Goblin (Level 11)"
+      }
+    },
+    {
+      "id": "205-2487",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00170895767253637"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Goblin (Level 16)"
+      }
+    },
+    {
+      "id": "205-2488",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00170895767253637"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Goblin (Level 25)"
+      }
+    },
+    {
+      "id": "205-2498",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0185934594771957"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Flesh Crawler (Level 28)"
+      }
+    },
+    {
+      "id": "205-2499",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0185934594771957"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Flesh Crawler (Level 35)"
+      }
+    },
+    {
+      "id": "205-2500",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0185934594771957"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Flesh Crawler (Level 41)"
+      }
+    },
+    {
+      "id": "205-2501",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00441912287039707"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Zombie (Level 30)"
+      }
+    },
+    {
+      "id": "205-2504",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00441912287039707"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Zombie (Level 44)"
+      }
+    },
+    {
+      "id": "205-2507",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00441912287039707"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Zombie (Level 53)"
+      }
+    },
+    {
+      "id": "205-2514",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00345389340133666"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Ankou (Level 75)"
+      }
+    },
+    {
+      "id": "205-2515",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00345389340133666"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Ankou (Level 82)"
+      }
+    },
+    {
+      "id": "205-2516",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00345389340133666"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Ankou (Level 86)"
+      }
+    },
+    {
+      "id": "205-2520",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0170895767253637"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Skeleton (Level 68)"
+      }
+    },
+    {
+      "id": "205-2521",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0170895767253637"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Skeleton (Level 60)"
+      }
+    },
+    {
+      "id": "205-2524",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0170895767253637"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Skeleton (Level 85)"
+      }
+    },
+    {
+      "id": "205-2593",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000640859127201137"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Werewolf (Level 88)"
+      }
+    },
+    {
+      "id": "205-2613",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000427239418134092"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Boris"
+      }
+    },
+    {
+      "id": "205-2614",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000427239418134092"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Imre"
+      }
+    },
+    {
+      "id": "205-2615",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000427239418134092"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Yuri"
+      }
+    },
+    {
+      "id": "205-2616",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000427239418134092"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Joseph"
+      }
+    },
+    {
+      "id": "205-2617",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000427239418134092"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Nikolai"
+      }
+    },
+    {
+      "id": "205-2618",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000427239418134092"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Eduard"
+      }
+    },
+    {
+      "id": "205-2619",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000427239418134092"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Lev"
+      }
+    },
+    {
+      "id": "205-2620",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000427239418134092"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Georgy"
+      }
+    },
+    {
+      "id": "205-2621",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000427239418134092"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Svetlana"
+      }
+    },
+    {
+      "id": "205-2622",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000427239418134092"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Irina"
+      }
+    },
+    {
+      "id": "205-2623",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000427239418134092"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Alexis"
+      }
+    },
+    {
+      "id": "205-2624",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000427239418134092"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Milla"
+      }
+    },
+    {
+      "id": "205-2625",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000427239418134092"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Galina"
+      }
+    },
+    {
+      "id": "205-2626",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000427239418134092"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Sofiya"
+      }
+    },
+    {
+      "id": "205-2627",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000427239418134092"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Ksenia"
+      }
+    },
+    {
+      "id": "205-2628",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000427239418134092"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Yadviga"
+      }
+    },
+    {
+      "id": "205-2629",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000427239418134092"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Nikita"
+      }
+    },
+    {
+      "id": "205-2630",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000427239418134092"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Vera"
+      }
+    },
+    {
+      "id": "205-2631",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000427239418134092"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Zoja"
+      }
+    },
+    {
+      "id": "205-2632",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000427239418134092"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Liliya"
+      }
+    },
+    {
+      "id": "205-2840",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0119627037077546"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Earth warrior"
+      }
+    },
+    {
+      "id": "205-2841",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00854478836268183"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Ice warrior"
+      }
+    },
+    {
+      "id": "205-2843",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00854478836268183"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Otherworldly being"
+      }
+    },
+    {
+      "id": "205-2853",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0153806190528273"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Shadow warrior"
+      }
+    },
+    {
+      "id": "205-2916",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00769030952641365"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Waterfiend"
+      }
+    },
+    {
+      "id": "205-2918",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0128171825440227"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Brutal green dragon"
+      }
+    },
+    {
+      "id": "205-2999",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Tortured soul"
+      }
+    },
+    {
+      "id": "205-3015",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0196530132341682"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Woman"
+      }
+    },
+    {
+      "id": "205-3028",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00170895767253637"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Goblin (Level 2)"
+      }
+    },
+    {
+      "id": "205-3049",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00598135185387728"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Hobgoblin (Level 28)"
+      }
+    },
+    {
+      "id": "205-3050",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00598135185387728"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Hobgoblin (Level 42)"
+      }
+    },
+    {
+      "id": "205-3107",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0196530132341682"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Man (Red)"
+      }
+    },
+    {
+      "id": "205-3108",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0196530132341682"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Man (Green)"
+      }
+    },
+    {
+      "id": "205-3109",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0196530132341682"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Man (Backpack)"
+      }
+    },
+    {
+      "id": "205-3114",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00939926719895002"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Farmer"
+      }
+    },
+    {
+      "id": "205-3135",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000640859127201137"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Werewolf (Level 93)"
+      }
+    },
+    {
+      "id": "205-3138",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000854478836268183"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Bloodveld (God Wars)"
+      }
+    },
+    {
+      "id": "205-3141",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0136716613802909"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Gorak (Level 149)"
+      }
+    },
+    {
+      "id": "205-3169",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0128171825440227"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Aviansie (Level 69)"
+      }
+    },
+    {
+      "id": "205-3170",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0128171825440227"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Aviansie (Level 79 (1))"
+      }
+    },
+    {
+      "id": "205-3171",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0128171825440227"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Aviansie (Level 84)"
+      }
+    },
+    {
+      "id": "205-3172",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0128171825440227"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Aviansie (Level 83)"
+      }
+    },
+    {
+      "id": "205-3173",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0128171825440227"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Aviansie (Level 92)"
+      }
+    },
+    {
+      "id": "205-3174",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0128171825440227"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Aviansie (Level 97 (1))"
+      }
+    },
+    {
+      "id": "205-3175",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0128171825440227"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Aviansie (Level 137)"
+      }
+    },
+    {
+      "id": "205-3176",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0128171825440227"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Aviansie (Level 148)"
+      }
+    },
+    {
+      "id": "205-3177",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0128171825440227"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Aviansie (Level 71)"
+      }
+    },
+    {
+      "id": "205-3178",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0128171825440227"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Aviansie (Level 73)"
+      }
+    },
+    {
+      "id": "205-3179",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0128171825440227"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Aviansie (Level 79 (2))"
+      }
+    },
+    {
+      "id": "205-3180",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0128171825440227"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Aviansie (Level 89)"
+      }
+    },
+    {
+      "id": "205-3181",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0128171825440227"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Aviansie (Level 94)"
+      }
+    },
+    {
+      "id": "205-3182",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0128171825440227"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Aviansie (Level 97 (2))"
+      }
+    },
+    {
+      "id": "205-3183",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0128171825440227"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Aviansie (Level 131)"
+      }
+    },
+    {
+      "id": "205-3185",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00341791534507273"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Dagannoth (Waterbirth Island) (Level 90)"
+      }
+    },
+    {
+      "id": "205-3234",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00854478836268183"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Feral Vampyre (Level 72)"
+      }
+    },
+    {
+      "id": "205-3237",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00854478836268183"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Feral Vampyre (Level 61)"
+      }
+    },
+    {
+      "id": "205-3258",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0222164497429728"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Druid"
+      }
+    },
+    {
+      "id": "205-3261",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0196530132341682"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Man (Black)"
+      }
+    },
+    {
+      "id": "205-3263",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0196530132341682"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Drunken man"
+      }
+    },
+    {
+      "id": "205-3264",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0196530132341682"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Man (Light blue)"
+      }
+    },
+    {
+      "id": "205-3265",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0196530132341682"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Man (Pink)"
+      }
+    },
+    {
+      "id": "205-3266",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0196530132341682"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Man (Grey)"
+      }
+    },
+    {
+      "id": "205-3279",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0196530132341682"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Cuffs"
+      }
+    },
+    {
+      "id": "205-3280",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0196530132341682"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Narf"
+      }
+    },
+    {
+      "id": "205-3281",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0196530132341682"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Rusty"
+      }
+    },
+    {
+      "id": "205-3282",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0196530132341682"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Jeff"
+      }
+    },
+    {
+      "id": "205-3284",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0196530132341682"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Hengel"
+      }
+    },
+    {
+      "id": "205-3285",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0196530132341682"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Anja"
+      }
+    },
+    {
+      "id": "205-3292",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0196530132341682"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Al-Kharid warrior"
+      }
+    },
+    {
+      "id": "205-3293",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00683583069014547"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "https://oldschool.runescape.wiki/w/Paladin#Level_62"
+      }
+    },
+    {
+      "id": "205-3298",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0196530132341682"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Man (Cavalier)"
+      }
+    },
+    {
+      "id": "205-3428",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0128171825440227"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Iorwerth Archer (Male)"
+      }
+    },
+    {
+      "id": "205-3429",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0128171825440227"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Iorwerth Warrior (Male)"
+      }
+    },
+    {
+      "id": "205-3615",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0170895767253637"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Skeletal miner"
+      }
+    },
+    {
+      "id": "205-3707",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00854478836268183"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Feral Vampyre (Level 64)"
+      }
+    },
+    {
+      "id": "205-3717",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00100342468846172"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Vyrewatch (Level 105)"
+      }
+    },
+    {
+      "id": "205-3718",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00100342468846172"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Vyrewatch (Level 110)"
+      }
+    },
+    {
+      "id": "205-3719",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00100342468846172"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Vyrewatch (Level 120)"
+      }
+    },
+    {
+      "id": "205-3720",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00100342468846172"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Vyrewatch (Level 125)"
+      }
+    },
+    {
+      "id": "205-3851",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00427239418134092"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Moss giant (Level 48)"
+      }
+    },
+    {
+      "id": "205-3938",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00213619709067046"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Freidir"
+      }
+    },
+    {
+      "id": "205-3939",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00213619709067046"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Borrokar"
+      }
+    },
+    {
+      "id": "205-3940",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00213619709067046"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Lanzig"
+      }
+    },
+    {
+      "id": "205-3943",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00213619709067046"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Lensa"
+      }
+    },
+    {
+      "id": "205-3944",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00213619709067046"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Jennella"
+      }
+    },
+    {
+      "id": "205-3949",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00170895767253637"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Market Guard"
+      }
+    },
+    {
+      "id": "205-3950",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00170895767253637"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Warrior (Rellekka)"
+      }
+    },
+    {
+      "id": "205-4005",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 2,
+        "rarity": "0.0205074920704364"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Dark beast"
+      }
+    },
+    {
+      "id": "205-4067",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00598135185387728"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Black Knight Titan (Normal)"
+      }
+    },
+    {
+      "id": "205-4088",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00769030952641365"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Soldier (Burthorpe)"
+      }
+    },
+    {
+      "id": "205-4107",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0196530132341682"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Breoca"
+      }
+    },
+    {
+      "id": "205-4108",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0196530132341682"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Ocga"
+      }
+    },
+    {
+      "id": "205-4109",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0196530132341682"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Penda"
+      }
+    },
+    {
+      "id": "205-4110",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0196530132341682"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Hygd"
+      }
+    },
+    {
+      "id": "205-4111",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0196530132341682"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Ceolburg"
+      }
+    },
+    {
+      "id": "205-4120",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0128171825440227"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Troll general (Sword)"
+      }
+    },
+    {
+      "id": "205-4121",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0128171825440227"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Troll general (Hammer (grey))"
+      }
+    },
+    {
+      "id": "205-4122",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0128171825440227"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Troll general (Hammer (brown))"
+      }
+    },
+    {
+      "id": "205-4123",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0128171825440227"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Troll spectator"
+      }
+    },
+    {
+      "id": "205-4131",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0128171825440227"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Twig (Awake)"
+      }
+    },
+    {
+      "id": "205-4132",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0128171825440227"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Berry (Awake)"
+      }
+    },
+    {
+      "id": "205-4133",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0128171825440227"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Twig (Sleeping)"
+      }
+    },
+    {
+      "id": "205-4134",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0128171825440227"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Berry (Sleeping)"
+      }
+    },
+    {
+      "id": "205-4143",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0128171825440227"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Mountain troll (Level 71)"
+      }
+    },
+    {
+      "id": "205-4167",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0273433227605819"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Outlaw"
+      }
+    },
+    {
+      "id": "205-4247",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0196530132341682"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Thief (Monk's Friend)"
+      }
+    },
+    {
+      "id": "205-4319",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Skeleton Mage (Level 83)"
+      }
+    },
+    {
+      "id": "205-5217",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0196530132341682"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Thief (Varrock Gang)"
+      }
+    },
+    {
+      "id": "205-5293",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0128171825440227"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Elf Warrior (1)"
+      }
+    },
+    {
+      "id": "205-5294",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0128171825440227"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Elf Warrior (2)"
+      }
+    },
+    {
+      "id": "205-5295",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0128171825440227"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Elf Archer (1)"
+      }
+    },
+    {
+      "id": "205-5296",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0128171825440227"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Elf Archer (2)"
+      }
+    },
+    {
+      "id": "205-5563",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00427239418134092"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Angry barbarian spirit"
+      }
+    },
+    {
+      "id": "205-5564",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00427239418134092"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Enraged barbarian spirit"
+      }
+    },
+    {
+      "id": "205-5565",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00427239418134092"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Berserk barbarian spirit"
+      }
+    },
+    {
+      "id": "205-5566",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 2,
+        "rarity": "0.00854478836268183"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Ferocious barbarian spirit"
+      }
+    },
+    {
+      "id": "205-5640",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00854478836268183"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Feral Vampyre (Level 70)"
+      }
+    },
+    {
+      "id": "205-5641",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00854478836268183"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Feral Vampyre (Level 100)"
+      }
+    },
+    {
+      "id": "205-5642",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00854478836268183"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Feral Vampyre (Level 130)"
+      }
+    },
+    {
+      "id": "205-5938",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00854478836268183"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Wallasalki"
+      }
+    },
+    {
+      "id": "205-5944",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00256343650880455"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Rock lobster"
+      }
+    },
+    {
+      "id": "205-6075",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00854478836268183"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Tortoise (No riders)"
+      }
+    },
+    {
+      "id": "205-6076",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00854478836268183"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Tortoise (With riders)"
+      }
+    },
+    {
+      "id": "205-6295",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0196530132341682"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Black demon (Hard)"
+      }
+    },
+    {
+      "id": "205-6299",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00598135185387728"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Black Knight Titan (Hard)"
+      }
+    },
+    {
+      "id": "205-6331",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0128171825440227"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Arrg (Hard)"
+      }
+    },
+    {
+      "id": "205-6440",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.125"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Giant skeleton (Shadow Dungeon)"
+      }
+    },
+    {
+      "id": "205-6441",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00427239418134092"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Skeleton (mage)"
+      }
+    },
+    {
+      "id": "205-6442",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00427239418134092"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Skeleton (Tarn's Lair) (Level 77)"
+      }
+    },
+    {
+      "id": "205-6443",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00427239418134092"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Skeleton (Tarn's Lair) (Level 81)"
+      }
+    },
+    {
+      "id": "205-6444",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00427239418134092"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Skeleton (Tarn's Lair) (Level 42 (Sword))"
+      }
+    },
+    {
+      "id": "205-6445",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00427239418134092"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Skeleton (Tarn's Lair) (Level 59)"
+      }
+    },
+    {
+      "id": "205-6446",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00427239418134092"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Skeleton (Tarn's Lair) (Level 42 (Hammer))"
+      }
+    },
+    {
+      "id": "205-6447",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00427239418134092"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Skeleton (Tarn's Lair) (Level 63)"
+      }
+    },
+    {
+      "id": "205-6448",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00427239418134092"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Skeleton (Tarn's Lair) (Level 40)"
+      }
+    },
+    {
+      "id": "205-6449",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00170895767253637"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Zombie (Tarn's Lair) (Level 40)"
+      }
+    },
+    {
+      "id": "205-6450",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00170895767253637"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Zombie (Tarn's Lair) (Level 42)"
+      }
+    },
+    {
+      "id": "205-6451",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00170895767253637"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Zombie (Tarn's Lair) (Level 47)"
+      }
+    },
+    {
+      "id": "205-6452",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00170895767253637"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Zombie (Tarn's Lair) (Level 50)"
+      }
+    },
+    {
+      "id": "205-6453",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00170895767253637"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Zombie (Tarn's Lair) (Level 56)"
+      }
+    },
+    {
+      "id": "205-6454",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00170895767253637"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Zombie (Tarn's Lair) (Level 61)"
+      }
+    },
+    {
+      "id": "205-6455",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00170895767253637"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Zombie (Tarn's Lair) (Level 67)"
+      }
+    },
+    {
+      "id": "205-6456",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00170895767253637"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Zombie (Tarn's Lair) (Level 70)"
+      }
+    },
+    {
+      "id": "205-6457",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00170895767253637"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Zombie (Tarn's Lair) (Level 72)"
+      }
+    },
+    {
+      "id": "205-6458",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00170895767253637"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Zombie (Tarn's Lair) (Level 76)"
+      }
+    },
+    {
+      "id": "205-6459",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00170895767253637"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Zombie (Tarn's Lair) (Level 80)"
+      }
+    },
+    {
+      "id": "205-6460",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00170895767253637"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Zombie (Tarn's Lair) (Level 85)"
+      }
+    },
+    {
+      "id": "205-6461",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00170895767253637"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Zombie (Tarn's Lair) (Level 86)"
+      }
+    },
+    {
+      "id": "205-6462",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00170895767253637"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Zombie (Tarn's Lair) (Level 90)"
+      }
+    },
+    {
+      "id": "205-6463",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00170895767253637"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Zombie (Tarn's Lair) (Level 95)"
+      }
+    },
+    {
+      "id": "205-6464",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00170895767253637"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Zombie (Tarn's Lair) (Level 98)"
+      }
+    },
+    {
+      "id": "205-6465",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00170895767253637"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Zombie (Tarn's Lair) (Level 100)"
+      }
+    },
+    {
+      "id": "205-6466",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00170895767253637"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Zombie (Tarn's Lair) (Level 81)"
+      }
+    },
+    {
+      "id": "205-6467",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00427239418134092"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Skeleton (Tarn's Lair) (Level 72)"
+      }
+    },
+    {
+      "id": "205-6468",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00427239418134092"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Skeleton (Tarn's Lair) (Level 87)"
+      }
+    },
+    {
+      "id": "205-6473",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0128171825440227"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Terror dog (Level 110)"
+      }
+    },
+    {
+      "id": "205-6474",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0128171825440227"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Terror dog (Level 100)"
+      }
+    },
+    {
+      "id": "205-6587",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00854478836268183"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Armadylian guard"
+      }
+    },
+    {
+      "id": "205-6588",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00854478836268183"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Bandosian guard"
+      }
+    },
+    {
+      "id": "205-6593",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 2,
+        "rarity": "0.00427239418134092"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Lava dragon"
+      }
+    },
+    {
+      "id": "205-6603",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0196530132341682"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Rogue (Level 135)"
+      }
+    },
+    {
+      "id": "205-6604",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00683583069014547"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Mammoth"
+      }
+    },
+    {
+      "id": "205-6605",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0350336322869955"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Bandit (Level 130)"
+      }
+    },
+    {
+      "id": "205-6606",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00256343650880455"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Dark warrior (Level 145)"
+      }
+    },
+    {
+      "id": "205-6607",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 4,
+        "rarity": "0.0466320233126202"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Elder Chaos druid"
+      }
+    },
+    {
+      "id": "205-7241",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0162350978890955"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Abyssal demon (Catacombs of Kourend)"
+      }
+    },
+    {
+      "id": "205-7242",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0196530132341682"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Black demon (Level 184)"
+      }
+    },
+    {
+      "id": "205-7243",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0196530132341682"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Black demon (Level 178)"
+      }
+    },
+    {
+      "id": "205-7247",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000854478836268183"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Lesser demon (Level 87)"
+      }
+    },
+    {
+      "id": "205-7248",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000854478836268183"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Lesser demon (Level 94)"
+      }
+    },
+    {
+      "id": "205-7249",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00683583069014547"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Dust devil (Level 110)"
+      }
+    },
+    {
+      "id": "205-7251",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0162350978890955"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Fire giant (Level 109)"
+      }
+    },
+    {
+      "id": "205-7252",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0162350978890955"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Fire giant (Level 104)"
+      }
+    },
+    {
+      "id": "205-7257",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00345389340133666"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Ankou (Level 95)"
+      }
+    },
+    {
+      "id": "205-7266",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00683583069014547"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "King Sand Crab (Active)"
+      }
+    },
+    {
+      "id": "205-7272",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.0290522804331182"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Twisted Banshee"
+      }
+    },
+    {
+      "id": "205-7278",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00598135185387728"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Greater Nechryael"
+      }
+    },
+    {
+      "id": "205-7279",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.0393060264683364"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Deviant spectre"
+      }
+    },
+    {
+      "id": "205-7307",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0109373291042327"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Ancient Wizard (Mage)"
+      }
+    },
+    {
+      "id": "205-7308",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0109373291042327"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Ancient Wizard (Ranger)"
+      }
+    },
+    {
+      "id": "205-7309",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0109373291042327"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Ancient Wizard (Melee)"
+      }
+    },
+    {
+      "id": "205-7310",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0109373291042327"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Brassican Mage"
+      }
+    },
+    {
+      "id": "205-7389",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0187985343979"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Chasm Crawler"
+      }
+    },
+    {
+      "id": "205-7390",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0290522804331182"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Screaming banshee"
+      }
+    },
+    {
+      "id": "205-7391",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.0290522804331182"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Screaming twisted banshee"
+      }
+    },
+    {
+      "id": "205-7393",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00854478836268183"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Cockathrice"
+      }
+    },
+    {
+      "id": "205-7395",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0299067592693864"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Monstrous basilisk"
+      }
+    },
+    {
+      "id": "205-7397",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000854478836268183"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Insatiable Bloodveld"
+      }
+    },
+    {
+      "id": "205-7401",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0111082248714864"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Cave abomination"
+      }
+    },
+    {
+      "id": "205-7402",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.0666493492289183"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Abhorrent spectre"
+      }
+    },
+    {
+      "id": "205-7403",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.0393060264683364"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Repugnant spectre"
+      }
+    },
+    {
+      "id": "205-7404",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00683583069014547"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Choke devil"
+      }
+    },
+    {
+      "id": "205-7405",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.0158767680545314"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "King kurask"
+      }
+    },
+    {
+      "id": "205-7406",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 2,
+        "rarity": "0.0153806190528273"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Nuclear smoke devil"
+      }
+    },
+    {
+      "id": "205-7409",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 2,
+        "rarity": "0.0205074920704364"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Night beast"
+      }
+    },
+    {
+      "id": "205-7410",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0162350978890955"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Greater abyssal demon"
+      }
+    },
+    {
+      "id": "205-7411",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00598135185387728"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Nechryarch"
+      }
+    },
+    {
+      "id": "205-7485",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00441912287039707"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Zombie (Level 70)"
+      }
+    },
+    {
+      "id": "205-7486",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00441912287039707"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Zombie (Level 56)"
+      }
+    },
+    {
+      "id": "205-7487",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00441912287039707"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Zombie (Level 76)"
+      }
+    },
+    {
+      "id": "205-7488",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00441912287039707"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Zombie (Level 72)"
+      }
+    },
+    {
+      "id": "205-7796",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0129764921575643"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Lobstrosity"
+      }
+    },
+    {
+      "id": "205-7864",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00345389340133666"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Ankou (Level 98)"
+      }
+    },
+    {
+      "id": "205-7865",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000854478836268183"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Lesser demon (Level 94 (Revenant Caves))"
+      }
+    },
+    {
+      "id": "205-7868",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0128171825440227"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Green dragon (Level 88)"
+      }
+    },
+    {
+      "id": "205-7874",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0196530132341682"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Black demon (Level 188)"
+      }
+    },
+    {
+      "id": "205-7916",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0196530132341682"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Thief (The Warrens)"
+      }
+    },
+    {
+      "id": "205-8030",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00795442116671472"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Adamant dragon"
+      }
+    },
+    {
+      "id": "205-8031",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00688965612865055"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Rune dragon"
+      }
+    },
+    {
+      "id": "205-8067",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00182288818403879"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Zombie (Shayzien Crypts) (Melee)"
+      }
+    },
+    {
+      "id": "205-8068",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00182288818403879"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Zombie (Shayzien Crypts) (Range)"
+      }
+    },
+    {
+      "id": "205-8069",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00182288818403879"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Zombie (Shayzien Crypts) (Magic)"
+      }
+    },
+    {
+      "id": "205-8070",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00182288818403879"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Skeleton (Shayzien Crypts) (Melee)"
+      }
+    },
+    {
+      "id": "205-8071",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00182288818403879"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Skeleton (Shayzien Crypts) (Range)"
+      }
+    },
+    {
+      "id": "205-8072",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00182288818403879"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Skeleton (Shayzien Crypts) (Magic)"
+      }
+    },
+    {
+      "id": "205-8195",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00463446148484438"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Bryophyta"
+      }
+    },
+    {
+      "id": "205-8256",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00100342468846172"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Vyrewatch (Level 87)"
+      }
+    },
+    {
+      "id": "205-8609",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.00341791534507273"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Hydra"
+      }
+    },
+    {
+      "id": "205-8610",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 2,
+        "rarity": "0.00575648900222776"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Wyrm (Idle)"
+      }
+    },
+    {
+      "id": "205-8611",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 2,
+        "rarity": "0.00575648900222776"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Wyrm (Attacking)"
+      }
+    },
+    {
+      "id": "205-8612",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.00643372300248985"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Drake"
+      }
+    },
+    {
+      "id": "205-8614",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00854478836268183"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Sulphur Lizard"
+      }
+    },
+    {
+      "id": "205-8703",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0164059936563491"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Temple Spider"
+      }
+    },
+    {
+      "id": "205-8736",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00427239418134092"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Moss giant (Level 84)"
+      }
+    },
+    {
+      "id": "205-8759",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0128171825440227"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Iorwerth Warrior (Female)"
+      }
+    },
+    {
+      "id": "205-8760",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0128171825440227"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Iorwerth Archer (Female)"
+      }
+    },
+    {
+      "id": "205-9182",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0128171825440227"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Guard (Prifddinas) (1)"
+      }
+    },
+    {
+      "id": "205-9183",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0128171825440227"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Guard (Prifddinas) (2)"
+      }
+    },
+    {
+      "id": "205-9184",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0128171825440227"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Guard (Prifddinas) (3)"
+      }
+    },
+    {
+      "id": "205-9185",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0128171825440227"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Guard (Prifddinas) (4)"
+      }
+    },
+    {
+      "id": "205-9186",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0128171825440227"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Guard (Prifddinas) (5)"
+      }
+    },
+    {
+      "id": "205-9187",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0128171825440227"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Guard (Prifddinas) (6)"
+      }
+    },
+    {
+      "id": "205-9188",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0128171825440227"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Guard (Prifddinas) (7)"
+      }
+    },
+    {
+      "id": "205-9258",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00630999756013428"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Basilisk Sentinel"
+      }
+    },
+    {
+      "id": "205-9293",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00630999756013428"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Basilisk Knight"
+      }
+    },
+    {
+      "id": "205-10397",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.0264888439243137"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Spiked Turoth"
+      }
+    },
+    {
+      "id": "205-10398",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 2,
+        "rarity": "0.00575648900222776"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Shadow Wyrm"
+      }
+    },
+    {
+      "id": "205-10400",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.00643372300248985"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Guardian Drake"
+      }
+    },
+    {
+      "id": "205-10402",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.00341791534507273"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Colossal Hydra"
+      }
+    },
+    {
+      "id": "205-3137",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00854478836268183"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Feral Vampyre (Level 77)"
+      }
+    },
+    {
+      "id": "205-1",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0273433227605819"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Molanisk"
+      }
+    },
+    {
+      "id": "205-2",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.0666493492289183"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Aberrant spectre"
+      }
+    },
+    {
+      "id": "205-26",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00441912287039707"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Zombie (Level 13)"
+      }
+    },
+    {
+      "id": "205-42",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00441912287039707"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Zombie (Level 18)"
+      }
+    },
+    {
+      "id": "205-49",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00441912287039707"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Zombie (Level 24)"
+      }
+    },
+    {
+      "id": "205-64",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00341791534507273"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Zombie (Entrana Dungeon) (1)"
+      }
+    },
+    {
+      "id": "205-65",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00341791534507273"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Zombie (Entrana Dungeon) (2)"
+      }
+    },
+    {
+      "id": "205-66",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00341791534507273"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Zombie (Entrana Dungeon) (3)"
+      }
+    },
+    {
+      "id": "205-67",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00341791534507273"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Zombie (Entrana Dungeon) (4)"
+      }
+    },
+    {
+      "id": "205-68",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00341791534507273"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Zombie (Entrana Dungeon) (5)"
+      }
+    },
+    {
+      "id": "205-70",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0170895767253637"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Skeleton (Level 22)"
+      }
+    },
+    {
+      "id": "205-74",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0170895767253637"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Skeleton (Level 21)"
+      }
+    },
+    {
+      "id": "205-77",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0170895767253637"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Skeleton (Level 25)"
+      }
+    },
+    {
+      "id": "205-82",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0170895767253637"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Skeleton (Level 45)"
+      }
+    },
+    {
+      "id": "205-84",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Skeleton Mage (Level 16)"
+      }
+    },
+    {
+      "id": "205-240",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0196530132341682"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Black demon (Level 172)"
+      }
+    },
+    {
+      "id": "205-247",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00170895767253637"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Red dragon (1)"
+      }
+    },
+    {
+      "id": "205-248",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00170895767253637"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Red dragon (2)"
+      }
+    },
+    {
+      "id": "205-249",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00170895767253637"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Red dragon (3)"
+      }
+    },
+    {
+      "id": "205-250",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00170895767253637"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Red dragon (4)"
+      }
+    },
+    {
+      "id": "205-251",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00170895767253637"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Red dragon (5)"
+      }
+    },
+    {
+      "id": "205-260",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0128171825440227"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Green dragon (Level 79)"
+      }
+    },
+    {
+      "id": "205-265",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0128171825440227"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Blue dragon (2)"
+      }
+    },
+    {
+      "id": "205-266",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0128171825440227"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Blue dragon (3)"
+      }
+    },
+    {
+      "id": "205-267",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0128171825440227"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Blue dragon (4)"
+      }
+    },
+    {
+      "id": "205-268",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0128171825440227"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Blue dragon (5)"
+      }
+    },
+    {
+      "id": "205-269",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0128171825440227"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Blue dragon (1)"
+      }
+    },
+    {
+      "id": "205-301",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0128171825440227"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Black Heather"
+      }
+    },
+    {
+      "id": "205-302",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0128171825440227"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Donny the lad"
+      }
+    },
+    {
+      "id": "205-303",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0128171825440227"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Speedy Keith"
+      }
+    },
+    {
+      "id": "205-304",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0333246746144591"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Salarin the twisted"
+      }
+    },
+    {
+      "id": "205-406",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0187985343979"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Cave crawler"
+      }
+    },
+    {
+      "id": "205-410",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.0158767680545314"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Kurask"
+      }
+    },
+    {
+      "id": "205-414",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0290522804331182"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Banshee"
+      }
+    },
+    {
+      "id": "205-415",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0162350978890955"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Abyssal demon (Standard)"
+      }
+    },
+    {
+      "id": "205-417",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0299067592693864"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Basilisk"
+      }
+    },
+    {
+      "id": "205-419",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00854478836268183"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Cockatrice"
+      }
+    },
+    {
+      "id": "205-423",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00683583069014547"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Dust devil (Level 93)"
+      }
+    },
+    {
+      "id": "205-427",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.0264888439243137"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Turoth (Level 89)"
+      }
+    },
+    {
+      "id": "205-428",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.0264888439243137"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Turoth (Level 87)"
+      }
+    },
+    {
+      "id": "205-429",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.0264888439243137"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Turoth (Level 85)"
+      }
+    },
+    {
+      "id": "205-430",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.0264888439243137"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Turoth (Level 83)"
+      }
+    },
+    {
+      "id": "205-458",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00854478836268183"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Lizard"
+      }
+    },
+    {
+      "id": "205-459",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00854478836268183"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Desert Lizard"
+      }
+    },
+    {
+      "id": "205-462",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00854478836268183"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Small Lizard"
+      }
+    },
+    {
+      "id": "205-465",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.00598135185387728"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Skeletal Wyvern (2)"
+      }
+    },
+    {
+      "id": "205-466",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.00598135185387728"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Skeletal Wyvern (3)"
+      }
+    },
+    {
+      "id": "205-467",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.00598135185387728"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Skeletal Wyvern (4)"
+      }
+    },
+    {
+      "id": "205-468",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.00598135185387728"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Skeletal Wyvern (1)"
+      }
+    },
+    {
+      "id": "205-469",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0273433227605819"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Killerwatt (Attacking)"
+      }
+    },
+    {
+      "id": "205-470",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0273433227605819"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Killerwatt (Idle)"
+      }
+    },
+    {
+      "id": "205-481",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Cave bug (Level 6)"
+      }
+    },
+    {
+      "id": "205-481",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0205074920704364"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Cave bug (Level 6)"
+      }
+    },
+    {
+      "id": "205-483",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Cave bug (Level 96)"
+      }
+    },
+    {
+      "id": "205-483",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0205074920704364"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Cave bug (Level 96)"
+      }
+    },
+    {
+      "id": "205-484",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000854478836268183"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Bloodveld (Standard)"
+      }
+    },
+    {
+      "id": "205-492",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00328119873126982"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Cave kraken"
+      }
+    },
+    {
+      "id": "205-498",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 2,
+        "rarity": "0.0153806190528273"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Smoke devil"
+      }
+    },
+    {
+      "id": "205-513",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0111082248714864"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Mugger"
+      }
+    },
+    {
+      "id": "205-516",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00256343650880455"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Black Knight"
+      }
+    },
+    {
+      "id": "205-520",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 2,
+        "rarity": "0.0393060264683364"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Chaos druid"
+      }
+    },
+    {
+      "id": "205-525",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0205074920704364"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Thug"
+      }
+    },
+    {
+      "id": "205-526",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0196530132341682"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Rogue (Level 15)"
+      }
+    },
+    {
+      "id": "205-530",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00871816088018552"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Tribesman"
+      }
+    },
+    {
+      "id": "205-531",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00256343650880455"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Dark warrior (Level 8)"
+      }
+    },
+    {
+      "id": "205-532",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 2,
+        "rarity": "0.0375970687958001"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Chaos druid warrior"
+      }
+    },
+    {
+      "id": "205-537",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0072992700729927"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "https://oldschool.runescape.wiki/w/Zygomite#Level_74"
+      }
+    },
+    {
+      "id": "205-537",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00714285714285714"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "https://oldschool.runescape.wiki/w/Zygomite#Level_74"
+      }
+    },
+    {
+      "id": "205-561",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0256343650880455"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Sorebones"
+      }
+    },
+    {
+      "id": "205-563",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0256343650880455"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Zombie pirate (7)"
+      }
+    },
+    {
+      "id": "205-565",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0256343650880455"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Zombie pirate (8)"
+      }
+    },
+    {
+      "id": "205-567",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0256343650880455"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Zombie pirate (9)"
+      }
+    },
+    {
+      "id": "205-568",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0256343650880455"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Zombie pirate (10)"
+      }
+    },
+    {
+      "id": "205-569",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0256343650880455"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Zombie pirate (11)"
+      }
+    },
+    {
+      "id": "205-571",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0256343650880455"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Zombie pirate (12)"
+      }
+    },
+    {
+      "id": "205-572",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0256343650880455"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Zombie pirate (13)"
+      }
+    },
+    {
+      "id": "205-573",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0256343650880455"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Zombie pirate (14)"
+      }
+    },
+    {
+      "id": "205-574",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0256343650880455"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Zombie pirate (15)"
+      }
+    },
+    {
+      "id": "205-575",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0256343650880455"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Zombie pirate (17)"
+      }
+    },
+    {
+      "id": "205-577",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0256343650880455"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Zombie pirate (18)"
+      }
+    },
+    {
+      "id": "205-578",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0256343650880455"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Zombie pirate (19)"
+      }
+    },
+    {
+      "id": "205-579",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0256343650880455"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Zombie pirate (20)"
+      }
+    },
+    {
+      "id": "205-580",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0256343650880455"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Zombie pirate (21)"
+      }
+    },
+    {
+      "id": "205-581",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0256343650880455"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Zombie pirate (22)"
+      }
+    },
+    {
+      "id": "205-582",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0256343650880455"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Zombie pirate (23)"
+      }
+    },
+    {
+      "id": "205-584",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0256343650880455"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Zombie pirate (24)"
+      }
+    },
+    {
+      "id": "205-586",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0256343650880455"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Zombie pirate (25)"
+      }
+    },
+    {
+      "id": "205-588",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0256343650880455"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Zombie pirate (26)"
+      }
+    },
+    {
+      "id": "205-590",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0256343650880455"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Zombie pirate (27)"
+      }
+    },
+    {
+      "id": "205-592",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0256343650880455"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Zombie pirate (28)"
+      }
+    },
+    {
+      "id": "205-593",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0256343650880455"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Zombie pirate (29)"
+      }
+    },
+    {
+      "id": "205-595",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0256343650880455"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Zombie pirate (30)"
+      }
+    },
+    {
+      "id": "205-597",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0256343650880455"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Zombie pirate (31)"
+      }
+    },
+    {
+      "id": "205-599",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0256343650880455"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Zombie pirate (32)"
+      }
+    },
+    {
+      "id": "205-614",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0256343650880455"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Zombie pirate (2)"
+      }
+    },
+    {
+      "id": "205-615",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0256343650880455"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Zombie pirate (3)"
+      }
+    },
+    {
+      "id": "205-616",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0256343650880455"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Zombie pirate (4)"
+      }
+    },
+    {
+      "id": "205-617",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0256343650880455"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Zombie pirate (5)"
+      }
+    },
+    {
+      "id": "205-618",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0256343650880455"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Zombie pirate (6)"
+      }
+    },
+    {
+      "id": "205-619",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0256343650880455"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Zombie swab (1)"
+      }
+    },
+    {
+      "id": "205-620",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0256343650880455"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Zombie swab (2)"
+      }
+    },
+    {
+      "id": "205-621",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0256343650880455"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Zombie swab (3)"
+      }
+    },
+    {
+      "id": "205-622",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0256343650880455"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Zombie swab (4)"
+      }
+    },
+    {
+      "id": "205-623",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0256343650880455"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Zombie swab (5)"
+      }
+    },
+    {
+      "id": "205-624",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0256343650880455"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Zombie swab (6)"
+      }
+    },
+    {
+      "id": "205-643",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0128171825440227"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Arrg (Normal)"
+      }
+    },
+    {
+      "id": "205-648",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0153806190528273"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Ice troll (Level 124)"
+      }
+    },
+    {
+      "id": "205-649",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0153806190528273"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Ice troll (Level 123)"
+      }
+    },
+    {
+      "id": "205-650",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0153806190528273"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Ice troll (Level 120)"
+      }
+    },
+    {
+      "id": "205-651",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0153806190528273"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Ice troll (Level 121)"
+      }
+    },
+    {
+      "id": "205-655",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00170895767253637"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Goblin (Level 5)"
+      }
+    }
+  ]
+}

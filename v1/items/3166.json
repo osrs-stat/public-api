@@ -1,0 +1,31 @@
+{
+  "data": {
+    "id": "3166",
+    "type": "item",
+    "attributes": {
+      "uuid": "e4e46324-52ca-4887-89be-95c9cdc0ddba",
+      "name": "Monkey corpse",
+      "members": true,
+      "release_date": "2004-09-14",
+      "examine": "It's the body of a dead monkey.",
+      "tradeable": false,
+      "ge_tradeable": false,
+      "lowalch": 0,
+      "highalch": 0,
+      "is_equip": false,
+      "is_weapon": false,
+      "icon_base64": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABU0lEQVR4Xu2UzWoCMRSF5y6zmMUsAiIMiIgrkVkIRSi4KEpdtEgRFOyiiyJYWigIPkGhz9CnveUk3Bozo6DtBAo5cJgfcpOPc5MkSVRUVNS/F/FpBxXx07TBjxPNDyPN99cZjwcZD3sp99rK/AsMRfx8Z4EWNxZqOrRQo8JCdXIVCop4M2saIKTkAyGlQVeZd4wtWq26oYhf5xZIEkLLAIR0BAgJ7dZXdadEvF3mP0B+OgACjLQs10ndKe2BBKYqHRdoftv9TUr+0S3bTUZgJJ1jQO08vQSK+GVV8GzcMQvAWAyLwgDAJnaPuG8fRlombTujdcRfHxNjPxHxRiteZcokIXvFNYD8GhfkDBhReQI7CfFnMzVA/l0jNThtVbUXguxVPQHxeyPlN11OYL3smyf2lAAd1tamcnr4xj3j2o4LpGPpua4eE1h/tl+ioqKiog71DUHIMhPX/wU/AAAAAElFTkSuQmCC"
+    },
+    "relationships": {
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Monkey_corpse"
+    },
+    "meta": {
+      "incomplete": false
+    }
+  },
+  "included": [
+
+  ]
+}

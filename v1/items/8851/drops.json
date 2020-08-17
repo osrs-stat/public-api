@@ -1,0 +1,116 @@
+{
+  "data": [
+    {
+      "id": "8851-2451",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Warrior guild token",
+        "monster_name": "Animated Iron Armour"
+      }
+    },
+    {
+      "id": "8851-2452",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 15,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Warrior guild token",
+        "monster_name": "Animated Steel Armour"
+      }
+    },
+    {
+      "id": "8851-2453",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 20,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Warrior guild token",
+        "monster_name": "Animated Black Armour"
+      }
+    },
+    {
+      "id": "8851-2454",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 25,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Warrior guild token",
+        "monster_name": "Animated Mithril Armour"
+      }
+    },
+    {
+      "id": "8851-2455",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 30,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Warrior guild token",
+        "monster_name": "Animated Adamant Armour"
+      }
+    },
+    {
+      "id": "8851-2456",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 40,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Warrior guild token",
+        "monster_name": "Animated Rune Armour"
+      }
+    },
+    {
+      "id": "8851-2450",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Warrior guild token",
+        "monster_name": "Animated Bronze Armour"
+      }
+    }
+  ]
+}

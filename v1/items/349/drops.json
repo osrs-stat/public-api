@@ -1,0 +1,84 @@
+{
+  "data": [
+    {
+      "id": "349-4501",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 18,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Raw pike",
+        "monster_name": "Brine rat"
+      }
+    },
+    {
+      "id": "349-6735",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Raw pike",
+        "monster_name": "River troll (Level 79)"
+      }
+    },
+    {
+      "id": "349-6737",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Raw pike",
+        "monster_name": "River troll (Level 159)"
+      }
+    },
+    {
+      "id": "349-6736",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Raw pike",
+        "monster_name": "River troll (Level 120)"
+      }
+    },
+    {
+      "id": "349-2592",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0546875"
+      },
+      "meta": {
+        "item_name": "Raw pike",
+        "monster_name": "Mogre"
+      }
+    }
+  ]
+}

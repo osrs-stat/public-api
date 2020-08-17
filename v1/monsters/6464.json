@@ -1,0 +1,117 @@
+{
+  "data": {
+    "id": "6464",
+    "type": "monster",
+    "attributes": {
+      "uuid": "50f00d4e-6d8b-4376-a6ec-721eb0eaebc3",
+      "name": "Zombie (Tarn's Lair) (Level 98)",
+      "members": true,
+      "release_date": "2007-01-22",
+      "examine": "A shambling pile of rotten flesh. A rotten one",
+      "combat_level_override": null,
+      "max_hit_override": null,
+      "target_types": [
+        "undead"
+      ],
+      "classification_types": [
+        "zombie"
+      ],
+      "poison": false,
+      "immune_poison": false,
+      "immune_venom": false,
+      "slayer_xp": null,
+      "slayer_level": null,
+      "slayer_masters": [
+
+      ],
+      "icon_base64": null
+    },
+    "relationships": {
+      "combat_stat": {
+        "data": {
+          "id": "9045bf7a-50bc-41f5-a4a3-a1467efd5662",
+          "type": "combat_stat"
+        }
+      },
+      "equip_stat": {
+        "data": {
+          "id": "9de12bfd-5607-4c19-9dab-8d5815709097",
+          "type": "equip_stat"
+        }
+      },
+      "attack_stat": {
+        "data": {
+          "id": "e0528ed1-0a29-40c6-b173-a198c88de5f7",
+          "type": "attack_stat"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Zombie_(Tarn's_Lair)#Level_98"
+    },
+    "meta": {
+      "incomplete": true
+    }
+  },
+  "included": [
+    {
+      "id": "e0528ed1-0a29-40c6-b173-a198c88de5f7",
+      "type": "attack_stat",
+      "attributes": {
+        "attack_speed": 4,
+        "attack_type": "monster",
+        "special": null,
+        "stances": [
+          {
+            "name": "Monster crush",
+            "style": null,
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": null,
+            "combat_accuracy_stat": "attack_level",
+            "combat_damage_stat": "strength_level",
+            "equip_accuracy_stat": "crush_attack",
+            "equip_damage_stat": "crush_attack",
+            "target_equip_defense_stat": "crush_defense"
+          }
+        ]
+      }
+    },
+    {
+      "id": "9045bf7a-50bc-41f5-a4a3-a1467efd5662",
+      "type": "monster_combat_stat",
+      "attributes": {
+        "hitpoints_level": 96,
+        "attack_level": 85,
+        "strength_level": 83,
+        "defense_level": 81,
+        "magic_level": 1,
+        "ranged_level": 1,
+        "prayer_level": 0
+      }
+    },
+    {
+      "id": "9de12bfd-5607-4c19-9dab-8d5815709097",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 0,
+        "slash_attack": 0,
+        "crush_attack": 0,
+        "ranged_attack": 0,
+        "magic_attack": 0,
+        "stab_defense": 20,
+        "slash_defense": 20,
+        "crush_defense": 0,
+        "ranged_defense": 10,
+        "magic_defense": 0,
+        "melee_strength": 10,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

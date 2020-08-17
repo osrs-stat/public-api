@@ -1,0 +1,145 @@
+{
+  "data": {
+    "id": "11908",
+    "type": "item",
+    "attributes": {
+      "uuid": "81cf13f4-eeb2-4b82-96e7-b3b9689aca82",
+      "name": "Trident of the seas (Uncharged)",
+      "members": true,
+      "release_date": "2014-01-30",
+      "examine": "It needs to be charged with death runes, chaos runes, fire runes and coins.",
+      "tradeable": false,
+      "ge_tradeable": false,
+      "lowalch": 27200,
+      "highalch": 40800,
+      "is_equip": true,
+      "is_weapon": true,
+      "icon_base64": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABhElEQVR4XmNgGAUDDhj/Q/CgAIz/89LS/keHhg4WRzH+DwsIADvGQEFhIB0FiSZYyMAcExsePhCOYvyfHBP9P8TXF8UxEUFBcD5EjG4AOSSQEzRytNE1lCAOEuzq+1+en/c/NS4WxVEFmZn0TuSM/wWnzAA7iMHKBiXaSnNz/vu4udEz6iDRAUpDgV5e/ysLC+BRBAo1kBidHAOxNNeT9/+iPMH/22tF/5/ukgA7rLqo6H9iVNR/UwMD+jlmfo7g/6NtEv85/QL/M5iYwkMFHdPFMVNTBf8fagU6xssH7hiYxdgwuglUBMAc48MLdgCnqweGY9BV0wmMOgYbgCTQQeMY3oqaQeSY0gqIY6ChNPCOAWVtJIcMgGMgIVERxIvhGHSVdACM/1cUiUJK4MHgmP3NEv95cwsGh2NAddO6clF4Ah5Qx8zOgjiGwd5p4B2zfc0aSGsOqWE1YI6Z0Nb2v7ak5L+NufnAO6alqgrcK7A0MRlox8AAXRtRxAGYQwaFYwYTAACZ9UOy8vhMXAAAAABJRU5ErkJggg=="
+    },
+    "relationships": {
+      "equip": {
+        "data": {
+          "id": "ed20e831-35ce-460a-b7c2-f33dc14be234",
+          "type": "equip"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Trident_of_the_seas#Uncharged"
+    },
+    "meta": {
+      "incomplete": false
+    }
+  },
+  "included": [
+    {
+      "id": "ed20e831-35ce-460a-b7c2-f33dc14be234",
+      "type": "equip",
+      "attributes": {
+        "slot": "weapon",
+        "passive_effect": null,
+        "requirements": {
+          "magic_level": 75
+        }
+      },
+      "relationships": {
+        "equip_stat": {
+          "data": {
+            "id": "132683c4-9d5c-474c-85e2-9412ee58cff6",
+            "type": "equip_stat"
+          }
+        },
+        "attack_stat": {
+          "data": {
+            "id": "462d512f-830a-4d4a-8a4b-729d422c8b2a",
+            "type": "attack_stat"
+          }
+        }
+      }
+    },
+    {
+      "id": "462d512f-830a-4d4a-8a4b-729d422c8b2a",
+      "type": "attack_stat",
+      "attributes": {
+        "attack_speed": 4,
+        "attack_type": "trident",
+        "special": null,
+        "stances": [
+          {
+            "name": "accurate",
+            "style": null,
+            "boosts": {
+              "accuracy": 3,
+              "damage": 3
+            },
+            "experience": {
+              "hitpoints": 1.3333,
+              "magic": 2
+            },
+            "combat_accuracy_stat": "magic_level",
+            "combat_damage_stat": "magic_level",
+            "equip_accuracy_stat": "magic_attack",
+            "equip_damage_stat": "magic_attack",
+            "target_equip_defense_stat": "magic_defense"
+          },
+          {
+            "name": "accurate",
+            "style": null,
+            "boosts": {
+              "accuracy": 3,
+              "damage": 3
+            },
+            "experience": {
+              "hitpoints": 1.3333,
+              "magic": 2
+            },
+            "combat_accuracy_stat": "magic_level",
+            "combat_damage_stat": "magic_level",
+            "equip_accuracy_stat": "magic_attack",
+            "equip_damage_stat": "magic_attack",
+            "target_equip_defense_stat": "magic_defense"
+          },
+          {
+            "name": "longrange",
+            "style": null,
+            "boosts": {
+              "damage": 1,
+              "defense": 3,
+              "attack_range": 2
+            },
+            "experience": {
+              "hitpoints": 1.3333,
+              "magic": 1.3333,
+              "defense": 1
+            },
+            "combat_accuracy_stat": "magic_level",
+            "combat_damage_stat": "magic_level",
+            "equip_accuracy_stat": "magic_attack",
+            "equip_damage_stat": "magic_attack",
+            "target_equip_defense_stat": "magic_defense"
+          }
+        ]
+      }
+    },
+    {
+      "id": "132683c4-9d5c-474c-85e2-9412ee58cff6",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 0,
+        "slash_attack": 0,
+        "crush_attack": 0,
+        "ranged_attack": 0,
+        "magic_attack": 15,
+        "stab_defense": 2,
+        "slash_defense": 3,
+        "crush_defense": 1,
+        "ranged_defense": 0,
+        "magic_defense": 15,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

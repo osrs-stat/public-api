@@ -1,0 +1,180 @@
+{
+  "data": [
+    {
+      "id": "1601-499",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Diamond",
+        "monster_name": "Thermonuclear smoke devil"
+      }
+    },
+    {
+      "id": "1601-7795",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 3,
+        "quantity_max": 5,
+        "rarity": "0.0223880597014925"
+      },
+      "meta": {
+        "item_name": "Diamond",
+        "monster_name": "Ancient Wyvern"
+      }
+    },
+    {
+      "id": "1601-7144",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 4,
+        "quantity_max": 6,
+        "rarity": "0.034"
+      },
+      "meta": {
+        "item_name": "Diamond",
+        "monster_name": "Demonic gorilla"
+      }
+    },
+    {
+      "id": "1601-3295",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Diamond",
+        "monster_name": "Hero"
+      }
+    },
+    {
+      "id": "1601-2205",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 6,
+        "quantity_max": null,
+        "rarity": "0.062992125984252"
+      },
+      "meta": {
+        "item_name": "Diamond",
+        "monster_name": "Commander Zilyana"
+      }
+    },
+    {
+      "id": "1601-8030",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.0636363636363636"
+      },
+      "meta": {
+        "item_name": "Diamond",
+        "monster_name": "Adamant dragon"
+      }
+    },
+    {
+      "id": "1601-8060",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 10,
+        "quantity_max": 20,
+        "rarity": "0.0266666666666667"
+      },
+      "meta": {
+        "item_name": "Diamond",
+        "monster_name": "Vorkath (Dragon Slayer II)"
+      }
+    },
+    {
+      "id": "1601-8061",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 10,
+        "quantity_max": 20,
+        "rarity": "0.0266666666666667"
+      },
+      "meta": {
+        "item_name": "Diamond",
+        "monster_name": "Vorkath (Post-quest)"
+      }
+    },
+    {
+      "id": "1601-10400",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 3,
+        "quantity_max": 6,
+        "rarity": "0.0470588235294118"
+      },
+      "meta": {
+        "item_name": "Diamond",
+        "monster_name": "Guardian Drake"
+      }
+    },
+    {
+      "id": "1601-8612",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 3,
+        "quantity_max": 6,
+        "rarity": "0.0470588235294118"
+      },
+      "meta": {
+        "item_name": "Diamond",
+        "monster_name": "Drake"
+      }
+    },
+    {
+      "id": "1601-494",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 8,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Diamond",
+        "monster_name": "Kraken (Kraken)"
+      }
+    }
+  ]
+}

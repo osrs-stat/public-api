@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "id": "4121-480",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Iron boots",
+        "monster_name": "Cave slime"
+      }
+    },
+    {
+      "id": "4121-419",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Iron boots",
+        "monster_name": "Cockatrice"
+      }
+    },
+    {
+      "id": "4121-7393",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Iron boots",
+        "monster_name": "Cockathrice"
+      }
+    }
+  ]
+}

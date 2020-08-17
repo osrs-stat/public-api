@@ -1,0 +1,73 @@
+{
+  "data": {
+    "id": "2942",
+    "type": "item",
+    "attributes": {
+      "uuid": "98b43125-797d-44dc-85b2-5e61ffba9954",
+      "name": "Purple gloves",
+      "members": false,
+      "release_date": "2004-06-29",
+      "examine": "These will keep my hands warm!",
+      "tradeable": false,
+      "ge_tradeable": false,
+      "lowalch": 200,
+      "highalch": 300,
+      "is_equip": true,
+      "is_weapon": false,
+      "icon_base64": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB60lEQVR4Xu2VMUvEQBCFd8sttrh/cNWVh801YiEWYnHNFVooiKAgguKBgoKCIoqI6F9eebu+ZLLJXRIxmyYPHhsuyc6X2Zk5pQYNgrTL3bu0e7ZP7t2+uc/RhwDrBU67e3vnDahX++LBsMI9QGl3a28yqEf7kIFhxf2N8TglVACKoaQTZ0m7pb32JpiEoxNCaXdlLzMoXMMSjk4EFYAuzHnmM3PqV0LCrKUE9aQ9wIk5LpnZghMVdw5zYPYLPjKHWaYSZacIszCLggklgeIdatR2smofdG7mbkdtuz2z669pggG4JVAAwXT9Hn39QtU5vAcIrFtqM4OiCQboFkBhhqwaaDB+R8uypfnFfB8GDKFoCdYQSPvNUQdyjsQDjm2MZ1ETfIdQIZB2MzXzUFVgjYFYeAjCGcI2lRlhLbB9GSAPot1UTT2UBCNcYyAWH6Dk18sBxw7CivtyyMX7SSgJR6ji8yWFs5cdIQMDBpCypTlbVgFN1MRDSQOqnNGVClCyO2AekQRix/B4q7847saq412rYjFKAyzOkMxSXk9FMXjs+Lk1CmdfZUDxr6AqS6yneMd/UDnNMGoCR8rsyCaQtdQyA80UpzgEyaEII7NEoHivjhWgWFcE6zQ79cqhWk7fLvXnVu5O5RoblEY/G9h2ehmLzMoAAAAASUVORK5CYII="
+    },
+    "relationships": {
+      "equip": {
+        "data": {
+          "id": "6d8332bf-031d-439c-a04c-0561994d00e1",
+          "type": "equip"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Purple_gloves"
+    },
+    "meta": {
+      "incomplete": false
+    }
+  },
+  "included": [
+    {
+      "id": "6d8332bf-031d-439c-a04c-0561994d00e1",
+      "type": "equip",
+      "attributes": {
+        "slot": "gloves",
+        "passive_effect": null,
+        "requirements": null
+      },
+      "relationships": {
+        "equip_stat": {
+          "data": {
+            "id": "07026ec5-cf08-46b2-bda0-5e7f735e27c4",
+            "type": "equip_stat"
+          }
+        }
+      }
+    },
+    {
+      "id": "07026ec5-cf08-46b2-bda0-5e7f735e27c4",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 0,
+        "slash_attack": 0,
+        "crush_attack": 0,
+        "ranged_attack": 0,
+        "magic_attack": 0,
+        "stab_defense": 0,
+        "slash_defense": 1,
+        "crush_defense": 2,
+        "ranged_defense": 0,
+        "magic_defense": 0,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

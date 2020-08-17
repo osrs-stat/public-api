@@ -1,0 +1,772 @@
+{
+  "data": [
+    {
+      "id": "995-465",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 300,
+        "quantity_max": null,
+        "rarity": "0.09375"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Skeletal Wyvern (2)"
+      }
+    },
+    {
+      "id": "6809-465",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.001953125"
+      },
+      "meta": {
+        "item_name": "Granite legs",
+        "monster_name": "Skeletal Wyvern (2)"
+      }
+    },
+    {
+      "id": "4087-465",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.001953125"
+      },
+      "meta": {
+        "item_name": "Dragon platelegs",
+        "monster_name": "Skeletal Wyvern (2)"
+      }
+    },
+    {
+      "id": "9465-465",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Runite crossbow (u)",
+        "monster_name": "Skeletal Wyvern (2)"
+      }
+    },
+    {
+      "id": "5295-465",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Ranarr seed",
+        "monster_name": "Skeletal Wyvern (2)"
+      }
+    },
+    {
+      "id": "5300-465",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Snapdragon seed",
+        "monster_name": "Skeletal Wyvern (2)"
+      }
+    },
+    {
+      "id": "23083-465",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0135869565217391"
+      },
+      "meta": {
+        "item_name": "Brimstone key",
+        "monster_name": "Skeletal Wyvern (2)"
+      }
+    },
+    {
+      "id": "12073-465",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00285714285714286"
+      },
+      "meta": {
+        "item_name": "Clue scroll (elite)",
+        "monster_name": "Skeletal Wyvern (2)"
+      }
+    },
+    {
+      "id": "11286-465",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0001"
+      },
+      "meta": {
+        "item_name": "Draconic visage",
+        "monster_name": "Skeletal Wyvern (2)"
+      }
+    },
+    {
+      "id": "199-465",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.013671875"
+      },
+      "meta": {
+        "item_name": "Grimy guam leaf",
+        "monster_name": "Skeletal Wyvern (2)"
+      }
+    },
+    {
+      "id": "201-465",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.0102545471591974"
+      },
+      "meta": {
+        "item_name": "Grimy marrentill",
+        "monster_name": "Skeletal Wyvern (2)"
+      }
+    },
+    {
+      "id": "203-465",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.00769054985234144"
+      },
+      "meta": {
+        "item_name": "Grimy tarromin",
+        "monster_name": "Skeletal Wyvern (2)"
+      }
+    },
+    {
+      "id": "205-465",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.00598135185387728"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Skeletal Wyvern (2)"
+      }
+    },
+    {
+      "id": "207-465",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.00469823883161512"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Skeletal Wyvern (2)"
+      }
+    },
+    {
+      "id": "209-465",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.00341796875"
+      },
+      "meta": {
+        "item_name": "Grimy irit leaf",
+        "monster_name": "Skeletal Wyvern (2)"
+      }
+    },
+    {
+      "id": "211-465",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.00256387716830755"
+      },
+      "meta": {
+        "item_name": "Grimy avantoe",
+        "monster_name": "Skeletal Wyvern (2)"
+      }
+    },
+    {
+      "id": "213-465",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.00213623046875"
+      },
+      "meta": {
+        "item_name": "Grimy kwuarm",
+        "monster_name": "Skeletal Wyvern (2)"
+      }
+    },
+    {
+      "id": "215-465",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.001708984375"
+      },
+      "meta": {
+        "item_name": "Grimy cadantine",
+        "monster_name": "Skeletal Wyvern (2)"
+      }
+    },
+    {
+      "id": "2485-465",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.00128163815326928"
+      },
+      "meta": {
+        "item_name": "Grimy lantadyme",
+        "monster_name": "Skeletal Wyvern (2)"
+      }
+    },
+    {
+      "id": "7936-465",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 250,
+        "quantity_max": null,
+        "rarity": "0.0625"
+      },
+      "meta": {
+        "item_name": "Pure essence",
+        "monster_name": "Skeletal Wyvern (2)"
+      }
+    },
+    {
+      "id": "566-465",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 20,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Soul rune",
+        "monster_name": "Skeletal Wyvern (2)"
+      }
+    },
+    {
+      "id": "9144-465",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 35,
+        "quantity_max": 44,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Runite bolts (Unpoisoned)",
+        "monster_name": "Skeletal Wyvern (2)"
+      }
+    },
+    {
+      "id": "217-465",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.00128163815326928"
+      },
+      "meta": {
+        "item_name": "Grimy dwarf weed",
+        "monster_name": "Skeletal Wyvern (2)"
+      }
+    },
+    {
+      "id": "6812-465",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Wyvern bones",
+        "monster_name": "Skeletal Wyvern (2)"
+      }
+    },
+    {
+      "id": "9143-465",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 75,
+        "quantity_max": 99,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Adamant bolts (Unpoisoned)",
+        "monster_name": "Skeletal Wyvern (2)"
+      }
+    },
+    {
+      "id": "565-465",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 25,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Blood rune (Regular)",
+        "monster_name": "Skeletal Wyvern (2)"
+      }
+    },
+    {
+      "id": "2434-465",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.0546875"
+      },
+      "meta": {
+        "item_name": "Prayer potion (4 dose)",
+        "monster_name": "Skeletal Wyvern (2)"
+      }
+    },
+    {
+      "id": "567-465",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 75,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Unpowered orb",
+        "monster_name": "Skeletal Wyvern (2)"
+      }
+    },
+    {
+      "id": "379-465",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 6,
+        "quantity_max": null,
+        "rarity": "0.0625"
+      },
+      "meta": {
+        "item_name": "Lobster",
+        "monster_name": "Skeletal Wyvern (2)"
+      }
+    },
+    {
+      "id": "1617-465",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Uncut diamond",
+        "monster_name": "Skeletal Wyvern (2)"
+      }
+    },
+    {
+      "id": "1619-465",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Uncut ruby",
+        "monster_name": "Skeletal Wyvern (2)"
+      }
+    },
+    {
+      "id": "440-465",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 200,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Iron ore",
+        "monster_name": "Skeletal Wyvern (2)"
+      }
+    },
+    {
+      "id": "2361-465",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.046875"
+      },
+      "meta": {
+        "item_name": "Adamantite bar",
+        "monster_name": "Skeletal Wyvern (2)"
+      }
+    },
+    {
+      "id": "1513-465",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 35,
+        "quantity_max": null,
+        "rarity": "0.046875"
+      },
+      "meta": {
+        "item_name": "Magic logs",
+        "monster_name": "Skeletal Wyvern (2)"
+      }
+    },
+    {
+      "id": "1399-465",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Earth battlestaff",
+        "monster_name": "Skeletal Wyvern (2)"
+      }
+    },
+    {
+      "id": "1391-465",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Battlestaff",
+        "monster_name": "Skeletal Wyvern (2)"
+      }
+    },
+    {
+      "id": "1359-465",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Rune axe",
+        "monster_name": "Skeletal Wyvern (2)"
+      }
+    },
+    {
+      "id": "1373-465",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Rune battleaxe",
+        "monster_name": "Skeletal Wyvern (2)"
+      }
+    },
+    {
+      "id": "1347-465",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Rune warhammer",
+        "monster_name": "Skeletal Wyvern (2)"
+      }
+    },
+    {
+      "id": "1163-465",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Rune full helm",
+        "monster_name": "Skeletal Wyvern (2)"
+      }
+    },
+    {
+      "id": "1201-465",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Rune kiteshield",
+        "monster_name": "Skeletal Wyvern (2)"
+      }
+    },
+    {
+      "id": "892-465",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 36,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Rune arrow (Unpoisoned)",
+        "monster_name": "Skeletal Wyvern (2)"
+      }
+    },
+    {
+      "id": "4585-465",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.001953125"
+      },
+      "meta": {
+        "item_name": "Dragon plateskirt",
+        "monster_name": "Skeletal Wyvern (2)"
+      }
+    },
+    {
+      "id": "556-465",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 225,
+        "quantity_max": null,
+        "rarity": "0.046875"
+      },
+      "meta": {
+        "item_name": "Air rune (Regular)",
+        "monster_name": "Skeletal Wyvern (2)"
+      }
+    },
+    {
+      "id": "560-465",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 40,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Death rune (Regular)",
+        "monster_name": "Skeletal Wyvern (2)"
+      }
+    },
+    {
+      "id": "563-465",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 45,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Law rune",
+        "monster_name": "Skeletal Wyvern (2)"
+      }
+    },
+    {
+      "id": "562-465",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 80,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Chaos rune (Regular)",
+        "monster_name": "Skeletal Wyvern (2)"
+      }
+    },
+    {
+      "id": "555-465",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 150,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Water rune (Regular)",
+        "monster_name": "Skeletal Wyvern (2)"
+      }
+    }
+  ]
+}

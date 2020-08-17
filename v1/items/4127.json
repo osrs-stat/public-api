@@ -1,0 +1,75 @@
+{
+  "data": {
+    "id": "4127",
+    "type": "item",
+    "attributes": {
+      "uuid": "520f9cae-4d6f-44c8-b827-a3e567bcc5fb",
+      "name": "Mithril boots",
+      "members": true,
+      "release_date": "2005-01-26",
+      "examine": "These will protect my feet.",
+      "tradeable": false,
+      "ge_tradeable": false,
+      "lowalch": 312,
+      "highalch": 468,
+      "is_equip": true,
+      "is_weapon": false,
+      "icon_base64": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACgElEQVR4Xu2UQWvbQBCFs8cecujBYAQBIUwwIRgRZESETURMjRMUk5gScig5FEoPhVIohf77ad9unjxayUGy0xjaDgy6aHa+eW92Dw7+x98bRlzuPRzILDmyuWewNQhyORtLkZ/JaNBTYK8GaGSRhmWu5mkJtJjGMstGkqcnMgzfStB70wD4opBGiiyyCZj7q6wGdH4aSDLsSxQclkBazYtY27sTnJHb6cAmoXwgNAMQrCMQwH1rtZI7wDkgrZBOTt8EtMlaKKn/7Qhl5H1+XEJpEG0HmmB/0KSNtfyXQHEYtoVyQEg20iBMNvHV3GTtDkCItUpsqK3STXwg/NdkLYEI0xEIYeShmFgb7MRPDTVUFCWNQL61BNpSHYaRx7u8AsUlPY+PZTQMZRD2a/vm29u00FsA/b5ptz/k+vqrzN59kunFB0nTlZwlhSSnUQlzFPSk3zuUxdUXmc8/2y9VpJLctTAcSRC4698RyMEUxTfbJM8fJcvuZTxeWmV8IHeFXfrXHe/PJBlW6joCGblb/azATCYPFggKPQek6zSM/z8UdTWtwpSHXl5+tFYRSNt1MggqQIB5zmL+T5iWt8zIzfK73QMcCiAoRCitjg8EGF1LIC4//tfqtIbBhFxQHEwgKESgTTBQFrUYBANg53y7OqmDA30gqqQPJ5C2irX6EvgDdFAH4RTaBBXHiwoQF5nqsIZ2EWhLuxB1IFrG/dkEo9UhkP9esaalXQxTHkyrAIPlrL8hzQNwf7RdGqQDDGP9yPHt4bTVCZt3DkPo27WFKvXQTXVWD3ZA/hNhVX16DOs1LxBa6vrBprLIfEChzh+BaRdVFZvVfOXwVdwrzD8RvwBMtnsMVtGa7QAAAABJRU5ErkJggg=="
+    },
+    "relationships": {
+      "equip": {
+        "data": {
+          "id": "b171740e-09d6-4f00-a1e4-3ea2578a9724",
+          "type": "equip"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Mithril_boots"
+    },
+    "meta": {
+      "incomplete": false
+    }
+  },
+  "included": [
+    {
+      "id": "b171740e-09d6-4f00-a1e4-3ea2578a9724",
+      "type": "equip",
+      "attributes": {
+        "slot": "boots",
+        "passive_effect": null,
+        "requirements": {
+          "defense_level": 20
+        }
+      },
+      "relationships": {
+        "equip_stat": {
+          "data": {
+            "id": "d879160f-ae73-4618-af9c-b5011c0cf50a",
+            "type": "equip_stat"
+          }
+        }
+      }
+    },
+    {
+      "id": "d879160f-ae73-4618-af9c-b5011c0cf50a",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 0,
+        "slash_attack": 0,
+        "crush_attack": 0,
+        "ranged_attack": -1,
+        "magic_attack": -3,
+        "stab_defense": 8,
+        "slash_defense": 9,
+        "crush_defense": 10,
+        "ranged_defense": 0,
+        "magic_defense": 0,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

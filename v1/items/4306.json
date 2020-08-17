@@ -1,0 +1,73 @@
+{
+  "data": {
+    "id": "4306",
+    "type": "item",
+    "attributes": {
+      "uuid": "18a256ed-aed2-4080-9932-e00bd55ffd89",
+      "name": "Ham logo",
+      "members": true,
+      "release_date": "2005-02-22",
+      "examine": "A badge for the HAM cult.",
+      "tradeable": false,
+      "ge_tradeable": false,
+      "lowalch": 30,
+      "highalch": 45,
+      "is_equip": true,
+      "is_weapon": false,
+      "icon_base64": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABvklEQVR4Xt2WsUoDURBF95WveMX+QbC0SpNGtEkhIlpEUISAiCgSRFEIopDCQrAQBAvBzk9dubPeZXZMUsTZTfDCIWSTvD3cmYRk2f9MKEpWIqHoZevFZtb9kVqqWBAR0M96xddaLixJLIgE2YkblRDYi1ttiwWRiKMDQcuQQewLLYiVMmhhnhAZxl2hIbEgIoRC88RO434NZ6lQjQLoG88Sw/PzOBDw+W6nI9iTF0gpcxS3K2wbVowyo3joL0MJ7gTACKyQBiKEQvbkBRJ+SRCOAkxr6TodC+7tzJLgOAhurmVu07AZGSuhd4QtEEhoXEelW7DLSqzAOJ1UuLdjx6FHooW0BHhIZ83IzBuFlqKExnVUWgI35LfHtgDwOh4n6aLCsZ0wtQX7+0IZLQGe0qX/IrMBPRIrRCihcW2Ho7CLa0Usz+lKcJXRO2GxAgDXKfKSbvwXmXtgZawQr0FC49gOEuRQvQtWyvKa31U4yzDlP7q3fFwbhRXRQnivXmR74p9THlqKvef3tRasEGRAQ+3UY8V4c0AhXG9FRkeLQQYS4CN/rC2y/Vzj0WIY32c+ab+dadFiS5fRWSmZJvMNwYzxHjU9qnIAAAAASUVORK5CYII="
+    },
+    "relationships": {
+      "equip": {
+        "data": {
+          "id": "a38daaac-dc64-4b17-8e2c-016ce5ae31ba",
+          "type": "equip"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Ham_logo"
+    },
+    "meta": {
+      "incomplete": false
+    }
+  },
+  "included": [
+    {
+      "id": "a38daaac-dc64-4b17-8e2c-016ce5ae31ba",
+      "type": "equip",
+      "attributes": {
+        "slot": "amulet",
+        "passive_effect": null,
+        "requirements": null
+      },
+      "relationships": {
+        "equip_stat": {
+          "data": {
+            "id": "55f4649d-020b-4d31-9527-65efe6f54abb",
+            "type": "equip_stat"
+          }
+        }
+      }
+    },
+    {
+      "id": "55f4649d-020b-4d31-9527-65efe6f54abb",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 0,
+        "slash_attack": 0,
+        "crush_attack": 0,
+        "ranged_attack": 0,
+        "magic_attack": 0,
+        "stab_defense": 0,
+        "slash_defense": 0,
+        "crush_defense": 0,
+        "ranged_defense": 0,
+        "magic_defense": 0,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

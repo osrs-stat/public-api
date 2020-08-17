@@ -1,0 +1,132 @@
+{
+  "data": [
+    {
+      "id": "1777-2242",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 7,
+        "quantity_max": null,
+        "rarity": "0.140625"
+      },
+      "meta": {
+        "item_name": "Bow string",
+        "monster_name": "Spiritual ranger (Bandos)"
+      }
+    },
+    {
+      "id": "1777-3160",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 7,
+        "quantity_max": null,
+        "rarity": "0.140625"
+      },
+      "meta": {
+        "item_name": "Bow string",
+        "monster_name": "Spiritual ranger (Zamorak)"
+      }
+    },
+    {
+      "id": "1777-3167",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 7,
+        "quantity_max": null,
+        "rarity": "0.140625"
+      },
+      "meta": {
+        "item_name": "Bow string",
+        "monster_name": "Spiritual ranger (Armadyl)"
+      }
+    },
+    {
+      "id": "1777-7276",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Bow string",
+        "monster_name": "Mutated Bloodveld"
+      }
+    },
+    {
+      "id": "1777-7398",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Bow string",
+        "monster_name": "Insatiable mutated Bloodveld"
+      }
+    },
+    {
+      "id": "1777-7420",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.04"
+      },
+      "meta": {
+        "item_name": "Bow string",
+        "monster_name": "Zamorak ranger (Level 81)"
+      }
+    },
+    {
+      "id": "1777-7421",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.04"
+      },
+      "meta": {
+        "item_name": "Bow string",
+        "monster_name": "Zamorak ranger (Level 82)"
+      }
+    },
+    {
+      "id": "1777-2211",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 7,
+        "quantity_max": null,
+        "rarity": "0.140625"
+      },
+      "meta": {
+        "item_name": "Bow string",
+        "monster_name": "Spiritual ranger (Saradomin)"
+      }
+    }
+  ]
+}

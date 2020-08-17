@@ -1,0 +1,100 @@
+{
+  "data": [
+    {
+      "id": "609-6339",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Rashiliyia corpse",
+        "monster_name": "Nazastarool (Ghost (hard))"
+      }
+    },
+    {
+      "id": "609-6338",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Rashiliyia corpse",
+        "monster_name": "Nazastarool (Skeleton (hard))"
+      }
+    },
+    {
+      "id": "609-6337",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Rashiliyia corpse",
+        "monster_name": "Nazastarool (Zombie (hard))"
+      }
+    },
+    {
+      "id": "609-5355",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Rashiliyia corpse",
+        "monster_name": "Nazastarool (Ghost)"
+      }
+    },
+    {
+      "id": "609-5354",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Rashiliyia corpse",
+        "monster_name": "Nazastarool (Skeleton)"
+      }
+    },
+    {
+      "id": "609-5353",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Rashiliyia corpse",
+        "monster_name": "Nazastarool (Zombie)"
+      }
+    }
+  ]
+}

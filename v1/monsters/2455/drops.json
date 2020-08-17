@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "8851-2455",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 30,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Warrior guild token",
+        "monster_name": "Animated Adamant Armour"
+      }
+    },
+    {
+      "id": "1073-2455",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Adamant platelegs",
+        "monster_name": "Animated Adamant Armour"
+      }
+    },
+    {
+      "id": "1123-2455",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Adamant platebody",
+        "monster_name": "Animated Adamant Armour"
+      }
+    },
+    {
+      "id": "1161-2455",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Adamant full helm",
+        "monster_name": "Animated Adamant Armour"
+      }
+    }
+  ]
+}

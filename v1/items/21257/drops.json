@@ -1,0 +1,2340 @@
+{
+  "data": [
+    {
+      "id": "21257-2516",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00378787878787879"
+      },
+      "meta": {
+        "item_name": "Slayer's enchantment",
+        "monster_name": "Ankou (Level 86)"
+      }
+    },
+    {
+      "id": "21257-2521",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00378787878787879"
+      },
+      "meta": {
+        "item_name": "Slayer's enchantment",
+        "monster_name": "Skeleton (Level 60)"
+      }
+    },
+    {
+      "id": "21257-2524",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00386100386100386"
+      },
+      "meta": {
+        "item_name": "Slayer's enchantment",
+        "monster_name": "Skeleton (Level 85)"
+      }
+    },
+    {
+      "id": "21257-2838",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00334448160535117"
+      },
+      "meta": {
+        "item_name": "Slayer's enchantment",
+        "monster_name": "Grizzly bear (Level 21)"
+      }
+    },
+    {
+      "id": "21257-2839",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00333333333333333"
+      },
+      "meta": {
+        "item_name": "Slayer's enchantment",
+        "monster_name": "Black bear"
+      }
+    },
+    {
+      "id": "21257-2840",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0036101083032491"
+      },
+      "meta": {
+        "item_name": "Slayer's enchantment",
+        "monster_name": "Earth warrior"
+      }
+    },
+    {
+      "id": "21257-2841",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00366300366300366"
+      },
+      "meta": {
+        "item_name": "Slayer's enchantment",
+        "monster_name": "Ice warrior"
+      }
+    },
+    {
+      "id": "21257-2844",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00350877192982456"
+      },
+      "meta": {
+        "item_name": "Slayer's enchantment",
+        "monster_name": "Magic axe"
+      }
+    },
+    {
+      "id": "21257-8736",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00446428571428571"
+      },
+      "meta": {
+        "item_name": "Slayer's enchantment",
+        "monster_name": "Moss giant (Level 84)"
+      }
+    },
+    {
+      "id": "21257-7940",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00510204081632653"
+      },
+      "meta": {
+        "item_name": "Slayer's enchantment",
+        "monster_name": "Revenant dragon"
+      }
+    },
+    {
+      "id": "21257-7939",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00485436893203883"
+      },
+      "meta": {
+        "item_name": "Slayer's enchantment",
+        "monster_name": "Revenant knight"
+      }
+    },
+    {
+      "id": "21257-7938",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00480769230769231"
+      },
+      "meta": {
+        "item_name": "Slayer's enchantment",
+        "monster_name": "Revenant dark beast"
+      }
+    },
+    {
+      "id": "21257-7937",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00423728813559322"
+      },
+      "meta": {
+        "item_name": "Slayer's enchantment",
+        "monster_name": "Revenant ork"
+      }
+    },
+    {
+      "id": "21257-7936",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00390625"
+      },
+      "meta": {
+        "item_name": "Slayer's enchantment",
+        "monster_name": "Revenant demon"
+      }
+    },
+    {
+      "id": "21257-7935",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00390625"
+      },
+      "meta": {
+        "item_name": "Slayer's enchantment",
+        "monster_name": "Revenant hellhound"
+      }
+    },
+    {
+      "id": "21257-7934",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00431034482758621"
+      },
+      "meta": {
+        "item_name": "Slayer's enchantment",
+        "monster_name": "Revenant cyclops"
+      }
+    },
+    {
+      "id": "21257-7933",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00380228136882129"
+      },
+      "meta": {
+        "item_name": "Slayer's enchantment",
+        "monster_name": "Revenant hobgoblin"
+      }
+    },
+    {
+      "id": "21257-7932",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00354609929078014"
+      },
+      "meta": {
+        "item_name": "Slayer's enchantment",
+        "monster_name": "Revenant pyrefiend"
+      }
+    },
+    {
+      "id": "21257-7931",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00323624595469256"
+      },
+      "meta": {
+        "item_name": "Slayer's enchantment",
+        "monster_name": "Revenant goblin"
+      }
+    },
+    {
+      "id": "21257-7881",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00320512820512821"
+      },
+      "meta": {
+        "item_name": "Slayer's enchantment",
+        "monster_name": "Revenant imp"
+      }
+    },
+    {
+      "id": "21257-7878",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00416666666666667"
+      },
+      "meta": {
+        "item_name": "Slayer's enchantment",
+        "monster_name": "Ice giant (Level 67)"
+      }
+    },
+    {
+      "id": "21257-7877",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.005"
+      },
+      "meta": {
+        "item_name": "Slayer's enchantment",
+        "monster_name": "Hellhound (Level 136)"
+      }
+    },
+    {
+      "id": "21257-7874",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00625"
+      },
+      "meta": {
+        "item_name": "Slayer's enchantment",
+        "monster_name": "Black demon (Level 188)"
+      }
+    },
+    {
+      "id": "21257-7871",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00446428571428571"
+      },
+      "meta": {
+        "item_name": "Slayer's enchantment",
+        "monster_name": "Greater demon (Level 104)"
+      }
+    },
+    {
+      "id": "21257-7868",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00416666666666667"
+      },
+      "meta": {
+        "item_name": "Slayer's enchantment",
+        "monster_name": "Green dragon (Level 88)"
+      }
+    },
+    {
+      "id": "21257-7865",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00431034482758621"
+      },
+      "meta": {
+        "item_name": "Slayer's enchantment",
+        "monster_name": "Lesser demon (Level 94 (Revenant Caves))"
+      }
+    },
+    {
+      "id": "21257-7864",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00416666666666667"
+      },
+      "meta": {
+        "item_name": "Slayer's enchantment",
+        "monster_name": "Ankou (Level 98)"
+      }
+    },
+    {
+      "id": "21257-7861",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00833333333333333"
+      },
+      "meta": {
+        "item_name": "Slayer's enchantment",
+        "monster_name": "Black dragon (Level 247)"
+      }
+    },
+    {
+      "id": "21257-7860",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Slayer's enchantment",
+        "monster_name": "Porazdir"
+      }
+    },
+    {
+      "id": "21257-7488",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0037593984962406"
+      },
+      "meta": {
+        "item_name": "Slayer's enchantment",
+        "monster_name": "Zombie (Level 72)"
+      }
+    },
+    {
+      "id": "21257-7487",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00378787878787879"
+      },
+      "meta": {
+        "item_name": "Slayer's enchantment",
+        "monster_name": "Zombie (Level 76)"
+      }
+    },
+    {
+      "id": "21257-7486",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00357142857142857"
+      },
+      "meta": {
+        "item_name": "Slayer's enchantment",
+        "monster_name": "Zombie (Level 56)"
+      }
+    },
+    {
+      "id": "21257-7485",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00373134328358209"
+      },
+      "meta": {
+        "item_name": "Slayer's enchantment",
+        "monster_name": "Zombie (Level 70)"
+      }
+    },
+    {
+      "id": "21257-7257",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00367647058823529"
+      },
+      "meta": {
+        "item_name": "Slayer's enchantment",
+        "monster_name": "Ankou (Level 95)"
+      }
+    },
+    {
+      "id": "21257-7252",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00462962962962963"
+      },
+      "meta": {
+        "item_name": "Slayer's enchantment",
+        "monster_name": "Fire giant (Level 104)"
+      }
+    },
+    {
+      "id": "21257-7251",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.005"
+      },
+      "meta": {
+        "item_name": "Slayer's enchantment",
+        "monster_name": "Fire giant (Level 109)"
+      }
+    },
+    {
+      "id": "21257-7248",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00413223140495868"
+      },
+      "meta": {
+        "item_name": "Slayer's enchantment",
+        "monster_name": "Lesser demon (Level 94)"
+      }
+    },
+    {
+      "id": "21257-7247",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00398406374501992"
+      },
+      "meta": {
+        "item_name": "Slayer's enchantment",
+        "monster_name": "Lesser demon (Level 87)"
+      }
+    },
+    {
+      "id": "21257-7246",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00462962962962963"
+      },
+      "meta": {
+        "item_name": "Slayer's enchantment",
+        "monster_name": "Greater demon (Level 113)"
+      }
+    },
+    {
+      "id": "21257-7245",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0043859649122807"
+      },
+      "meta": {
+        "item_name": "Slayer's enchantment",
+        "monster_name": "Greater demon (Level 100)"
+      }
+    },
+    {
+      "id": "21257-7244",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00446428571428571"
+      },
+      "meta": {
+        "item_name": "Slayer's enchantment",
+        "monster_name": "Greater demon (Level 101)"
+      }
+    },
+    {
+      "id": "21257-7243",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00520833333333333"
+      },
+      "meta": {
+        "item_name": "Slayer's enchantment",
+        "monster_name": "Black demon (Level 178)"
+      }
+    },
+    {
+      "id": "21257-7242",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00543478260869565"
+      },
+      "meta": {
+        "item_name": "Slayer's enchantment",
+        "monster_name": "Black demon (Level 184)"
+      }
+    },
+    {
+      "id": "21257-7234",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00423728813559322"
+      },
+      "meta": {
+        "item_name": "Slayer's enchantment",
+        "monster_name": "https://oldschool.runescape.wiki/w/Ent#Level_86"
+      }
+    },
+    {
+      "id": "21257-6619",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00714285714285714"
+      },
+      "meta": {
+        "item_name": "Slayer's enchantment",
+        "monster_name": "Chaos Fanatic"
+      }
+    },
+    {
+      "id": "21257-6618",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00714285714285714"
+      },
+      "meta": {
+        "item_name": "Slayer's enchantment",
+        "monster_name": "Crazy archaeologist"
+      }
+    },
+    {
+      "id": "21257-6617",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00378787878787879"
+      },
+      "meta": {
+        "item_name": "Slayer's enchantment",
+        "monster_name": "Scorpia's guardian"
+      }
+    },
+    {
+      "id": "21257-6616",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00313479623824451"
+      },
+      "meta": {
+        "item_name": "Slayer's enchantment",
+        "monster_name": "Scorpia's offspring (monster)"
+      }
+    },
+    {
+      "id": "21257-6615",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00625"
+      },
+      "meta": {
+        "item_name": "Slayer's enchantment",
+        "monster_name": "Scorpia"
+      }
+    },
+    {
+      "id": "21257-6614",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00595238095238095"
+      },
+      "meta": {
+        "item_name": "Slayer's enchantment",
+        "monster_name": "Greater Skeleton Hellhound"
+      }
+    },
+    {
+      "id": "21257-6613",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00431034482758621"
+      },
+      "meta": {
+        "item_name": "Slayer's enchantment",
+        "monster_name": "Skeleton Hellhound (Vet'ion)"
+      }
+    },
+    {
+      "id": "21257-6612",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00862068965517241"
+      },
+      "meta": {
+        "item_name": "Slayer's enchantment",
+        "monster_name": "Vet'ion (Reborn)"
+      }
+    },
+    {
+      "id": "21257-6611",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0333333333333333"
+      },
+      "meta": {
+        "item_name": "Slayer's enchantment",
+        "monster_name": "Vet'ion (Normal)"
+      }
+    },
+    {
+      "id": "21257-6607",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.005"
+      },
+      "meta": {
+        "item_name": "Slayer's enchantment",
+        "monster_name": "Elder Chaos druid"
+      }
+    },
+    {
+      "id": "21257-6606",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00531914893617021"
+      },
+      "meta": {
+        "item_name": "Slayer's enchantment",
+        "monster_name": "Dark warrior (Level 145)"
+      }
+    },
+    {
+      "id": "21257-6605",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00510204081632653"
+      },
+      "meta": {
+        "item_name": "Slayer's enchantment",
+        "monster_name": "Bandit (Level 130)"
+      }
+    },
+    {
+      "id": "21257-6604",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00462962962962963"
+      },
+      "meta": {
+        "item_name": "Slayer's enchantment",
+        "monster_name": "Mammoth"
+      }
+    },
+    {
+      "id": "21257-6603",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00454545454545455"
+      },
+      "meta": {
+        "item_name": "Slayer's enchantment",
+        "monster_name": "Rogue (Level 135)"
+      }
+    },
+    {
+      "id": "21257-6594",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00423728813559322"
+      },
+      "meta": {
+        "item_name": "Slayer's enchantment",
+        "monster_name": "https://oldschool.runescape.wiki/w/Ent#Level_101"
+      }
+    },
+    {
+      "id": "21257-6593",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00735294117647059"
+      },
+      "meta": {
+        "item_name": "Slayer's enchantment",
+        "monster_name": "Lava dragon"
+      }
+    },
+    {
+      "id": "21257-6504",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0333333333333333"
+      },
+      "meta": {
+        "item_name": "Slayer's enchantment",
+        "monster_name": "Venenatis"
+      }
+    },
+    {
+      "id": "21257-6503",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00862068965517241"
+      },
+      "meta": {
+        "item_name": "Slayer's enchantment",
+        "monster_name": "Callisto"
+      }
+    },
+    {
+      "id": "21257-6295",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00512820512820513"
+      },
+      "meta": {
+        "item_name": "Slayer's enchantment",
+        "monster_name": "Black demon (Hard)"
+      }
+    },
+    {
+      "id": "21257-5242",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00324675324675325"
+      },
+      "meta": {
+        "item_name": "Slayer's enchantment",
+        "monster_name": "Scorpion (Level 38)"
+      }
+    },
+    {
+      "id": "21257-4561",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00313479623824451"
+      },
+      "meta": {
+        "item_name": "Slayer's enchantment",
+        "monster_name": "Spider (Underground Pass)"
+      }
+    },
+    {
+      "id": "21257-3851",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00396825396825397"
+      },
+      "meta": {
+        "item_name": "Slayer's enchantment",
+        "monster_name": "Moss giant (Level 48)"
+      }
+    },
+    {
+      "id": "21257-3423",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00342465753424658"
+      },
+      "meta": {
+        "item_name": "Slayer's enchantment",
+        "monster_name": "Grizzly bear (Level 42)"
+      }
+    },
+    {
+      "id": "21257-3183",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0043859649122807"
+      },
+      "meta": {
+        "item_name": "Slayer's enchantment",
+        "monster_name": "Aviansie (Level 131)"
+      }
+    },
+    {
+      "id": "21257-3182",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00389105058365759"
+      },
+      "meta": {
+        "item_name": "Slayer's enchantment",
+        "monster_name": "Aviansie (Level 97 (2))"
+      }
+    },
+    {
+      "id": "21257-3181",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00384615384615385"
+      },
+      "meta": {
+        "item_name": "Slayer's enchantment",
+        "monster_name": "Aviansie (Level 94)"
+      }
+    },
+    {
+      "id": "21257-3180",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00377358490566038"
+      },
+      "meta": {
+        "item_name": "Slayer's enchantment",
+        "monster_name": "Aviansie (Level 89)"
+      }
+    },
+    {
+      "id": "21257-3179",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00386100386100386"
+      },
+      "meta": {
+        "item_name": "Slayer's enchantment",
+        "monster_name": "Aviansie (Level 79 (2))"
+      }
+    },
+    {
+      "id": "21257-3178",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00374531835205993"
+      },
+      "meta": {
+        "item_name": "Slayer's enchantment",
+        "monster_name": "Aviansie (Level 73)"
+      }
+    },
+    {
+      "id": "21257-3177",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0037037037037037"
+      },
+      "meta": {
+        "item_name": "Slayer's enchantment",
+        "monster_name": "Aviansie (Level 71)"
+      }
+    },
+    {
+      "id": "21257-3176",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00478468899521531"
+      },
+      "meta": {
+        "item_name": "Slayer's enchantment",
+        "monster_name": "Aviansie (Level 148)"
+      }
+    },
+    {
+      "id": "21257-3175",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00452488687782805"
+      },
+      "meta": {
+        "item_name": "Slayer's enchantment",
+        "monster_name": "Aviansie (Level 137)"
+      }
+    },
+    {
+      "id": "21257-3174",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00413223140495868"
+      },
+      "meta": {
+        "item_name": "Slayer's enchantment",
+        "monster_name": "Aviansie (Level 97 (1))"
+      }
+    },
+    {
+      "id": "21257-3173",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00409836065573771"
+      },
+      "meta": {
+        "item_name": "Slayer's enchantment",
+        "monster_name": "Aviansie (Level 92)"
+      }
+    },
+    {
+      "id": "21257-3172",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00396825396825397"
+      },
+      "meta": {
+        "item_name": "Slayer's enchantment",
+        "monster_name": "Aviansie (Level 83)"
+      }
+    },
+    {
+      "id": "21257-3171",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00396825396825397"
+      },
+      "meta": {
+        "item_name": "Slayer's enchantment",
+        "monster_name": "Aviansie (Level 84)"
+      }
+    },
+    {
+      "id": "21257-3170",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00393700787401575"
+      },
+      "meta": {
+        "item_name": "Slayer's enchantment",
+        "monster_name": "Aviansie (Level 79 (1))"
+      }
+    },
+    {
+      "id": "21257-3169",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00378787878787879"
+      },
+      "meta": {
+        "item_name": "Slayer's enchantment",
+        "monster_name": "Aviansie (Level 69)"
+      }
+    },
+    {
+      "id": "21257-3168",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00384615384615385"
+      },
+      "meta": {
+        "item_name": "Slayer's enchantment",
+        "monster_name": "Spiritual mage (Armadyl)"
+      }
+    },
+    {
+      "id": "21257-3167",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00401606425702811"
+      },
+      "meta": {
+        "item_name": "Slayer's enchantment",
+        "monster_name": "Spiritual ranger (Armadyl)"
+      }
+    },
+    {
+      "id": "21257-3166",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00413223140495868"
+      },
+      "meta": {
+        "item_name": "Slayer's enchantment",
+        "monster_name": "Spiritual warrior (Armadyl)"
+      }
+    },
+    {
+      "id": "21257-3161",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00384615384615385"
+      },
+      "meta": {
+        "item_name": "Slayer's enchantment",
+        "monster_name": "Spiritual mage (Zamorak)"
+      }
+    },
+    {
+      "id": "21257-3160",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00446428571428571"
+      },
+      "meta": {
+        "item_name": "Slayer's enchantment",
+        "monster_name": "Spiritual ranger (Zamorak)"
+      }
+    },
+    {
+      "id": "21257-3159",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00416666666666667"
+      },
+      "meta": {
+        "item_name": "Slayer's enchantment",
+        "monster_name": "Spiritual warrior (Zamorak)"
+      }
+    },
+    {
+      "id": "21257-3138",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00469483568075117"
+      },
+      "meta": {
+        "item_name": "Slayer's enchantment",
+        "monster_name": "Bloodveld (God Wars)"
+      }
+    },
+    {
+      "id": "21257-3133",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0043859649122807"
+      },
+      "meta": {
+        "item_name": "Slayer's enchantment",
+        "monster_name": "Hellhound (Level 127)"
+      }
+    },
+    {
+      "id": "21257-3027",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00337837837837838"
+      },
+      "meta": {
+        "item_name": "Slayer's enchantment",
+        "monster_name": "King Scorpion"
+      }
+    },
+    {
+      "id": "21257-3024",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00325732899022801"
+      },
+      "meta": {
+        "item_name": "Slayer's enchantment",
+        "monster_name": "Scorpion (Level 14)"
+      }
+    },
+    {
+      "id": "21257-3023",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00371747211895911"
+      },
+      "meta": {
+        "item_name": "Slayer's enchantment",
+        "monster_name": "Poison spider (Level 64)"
+      }
+    },
+    {
+      "id": "21257-3022",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00373134328358209"
+      },
+      "meta": {
+        "item_name": "Slayer's enchantment",
+        "monster_name": "Ice spider"
+      }
+    },
+    {
+      "id": "21257-3021",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00342465753424658"
+      },
+      "meta": {
+        "item_name": "Slayer's enchantment",
+        "monster_name": "Deadly red spider"
+      }
+    },
+    {
+      "id": "21257-3019",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00313479623824451"
+      },
+      "meta": {
+        "item_name": "Slayer's enchantment",
+        "monster_name": "Spider (Common)"
+      }
+    },
+    {
+      "id": "21257-3018",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00338983050847458"
+      },
+      "meta": {
+        "item_name": "Slayer's enchantment",
+        "monster_name": "Giant spider (Level 27)"
+      }
+    },
+    {
+      "id": "21257-3017",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00316455696202532"
+      },
+      "meta": {
+        "item_name": "Slayer's enchantment",
+        "monster_name": "Giant spider (Level 2)"
+      }
+    },
+    {
+      "id": "21257-3016",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0036231884057971"
+      },
+      "meta": {
+        "item_name": "Slayer's enchantment",
+        "monster_name": "Shadow spider"
+      }
+    },
+    {
+      "id": "21257-26",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0033003300330033"
+      },
+      "meta": {
+        "item_name": "Slayer's enchantment",
+        "monster_name": "Zombie (Level 13)"
+      }
+    },
+    {
+      "id": "21257-42",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00332225913621262"
+      },
+      "meta": {
+        "item_name": "Slayer's enchantment",
+        "monster_name": "Zombie (Level 18)"
+      }
+    },
+    {
+      "id": "21257-49",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00337837837837838"
+      },
+      "meta": {
+        "item_name": "Slayer's enchantment",
+        "monster_name": "Zombie (Level 24)"
+      }
+    },
+    {
+      "id": "21257-70",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00336700336700337"
+      },
+      "meta": {
+        "item_name": "Slayer's enchantment",
+        "monster_name": "Skeleton (Level 22)"
+      }
+    },
+    {
+      "id": "21257-74",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00332225913621262"
+      },
+      "meta": {
+        "item_name": "Slayer's enchantment",
+        "monster_name": "Skeleton (Level 21)"
+      }
+    },
+    {
+      "id": "21257-77",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00325732899022801"
+      },
+      "meta": {
+        "item_name": "Slayer's enchantment",
+        "monster_name": "Skeleton (Level 25)"
+      }
+    },
+    {
+      "id": "21257-82",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00366300366300366"
+      },
+      "meta": {
+        "item_name": "Slayer's enchantment",
+        "monster_name": "Skeleton (Level 45)"
+      }
+    },
+    {
+      "id": "21257-104",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0043859649122807"
+      },
+      "meta": {
+        "item_name": "Slayer's enchantment",
+        "monster_name": "Hellhound (Level 122)"
+      }
+    },
+    {
+      "id": "21257-240",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00512820512820513"
+      },
+      "meta": {
+        "item_name": "Slayer's enchantment",
+        "monster_name": "Black demon (Level 172)"
+      }
+    },
+    {
+      "id": "21257-252",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00595238095238095"
+      },
+      "meta": {
+        "item_name": "Slayer's enchantment",
+        "monster_name": "Black dragon (Level 227)"
+      }
+    },
+    {
+      "id": "21257-260",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00384615384615385"
+      },
+      "meta": {
+        "item_name": "Slayer's enchantment",
+        "monster_name": "Green dragon (Level 79)"
+      }
+    },
+    {
+      "id": "21257-301",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00343642611683849"
+      },
+      "meta": {
+        "item_name": "Slayer's enchantment",
+        "monster_name": "Black Heather"
+      }
+    },
+    {
+      "id": "21257-302",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00343642611683849"
+      },
+      "meta": {
+        "item_name": "Slayer's enchantment",
+        "monster_name": "Donny the lad"
+      }
+    },
+    {
+      "id": "21257-303",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00343642611683849"
+      },
+      "meta": {
+        "item_name": "Slayer's enchantment",
+        "monster_name": "Speedy Keith"
+      }
+    },
+    {
+      "id": "21257-484",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00446428571428571"
+      },
+      "meta": {
+        "item_name": "Slayer's enchantment",
+        "monster_name": "Bloodveld (Standard)"
+      }
+    },
+    {
+      "id": "21257-516",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00348432055749129"
+      },
+      "meta": {
+        "item_name": "Slayer's enchantment",
+        "monster_name": "Black Knight"
+      }
+    },
+    {
+      "id": "21257-520",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00328947368421053"
+      },
+      "meta": {
+        "item_name": "Slayer's enchantment",
+        "monster_name": "Chaos druid"
+      }
+    },
+    {
+      "id": "21257-521",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00328947368421053"
+      },
+      "meta": {
+        "item_name": "Slayer's enchantment",
+        "monster_name": "Pirate (Pirate's Cove)"
+      }
+    },
+    {
+      "id": "21257-522",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00328947368421053"
+      },
+      "meta": {
+        "item_name": "Slayer's enchantment",
+        "monster_name": "Pirate (Brimhaven)"
+      }
+    },
+    {
+      "id": "21257-523",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0033112582781457"
+      },
+      "meta": {
+        "item_name": "Slayer's enchantment",
+        "monster_name": "Pirate (Asgarnian Ice Dungeon)"
+      }
+    },
+    {
+      "id": "21257-526",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00325732899022801"
+      },
+      "meta": {
+        "item_name": "Slayer's enchantment",
+        "monster_name": "Rogue (Level 15)"
+      }
+    },
+    {
+      "id": "21257-531",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00325732899022801"
+      },
+      "meta": {
+        "item_name": "Slayer's enchantment",
+        "monster_name": "Dark warrior (Level 8)"
+      }
+    },
+    {
+      "id": "21257-1027",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00334448160535117"
+      },
+      "meta": {
+        "item_name": "Slayer's enchantment",
+        "monster_name": "Guard Bandit"
+      }
+    },
+    {
+      "id": "21257-1447",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00328947368421053"
+      },
+      "meta": {
+        "item_name": "Slayer's enchantment",
+        "monster_name": "Pirate (Port Sarim)"
+      }
+    },
+    {
+      "id": "21257-2005",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00390625"
+      },
+      "meta": {
+        "item_name": "Slayer's enchantment",
+        "monster_name": "Lesser demon (Level 82)"
+      }
+    },
+    {
+      "id": "21257-2025",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00401606425702811"
+      },
+      "meta": {
+        "item_name": "Slayer's enchantment",
+        "monster_name": "Greater demon (Level 92)"
+      }
+    },
+    {
+      "id": "21257-2054",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00833333333333333"
+      },
+      "meta": {
+        "item_name": "Slayer's enchantment",
+        "monster_name": "Chaos Elemental"
+      }
+    },
+    {
+      "id": "21257-2075",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00431034482758621"
+      },
+      "meta": {
+        "item_name": "Slayer's enchantment",
+        "monster_name": "Fire giant (Level 86)"
+      }
+    },
+    {
+      "id": "21257-2085",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00378787878787879"
+      },
+      "meta": {
+        "item_name": "Slayer's enchantment",
+        "monster_name": "Ice giant (Level 53)"
+      }
+    },
+    {
+      "id": "21257-2090",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00367647058823529"
+      },
+      "meta": {
+        "item_name": "Slayer's enchantment",
+        "monster_name": "Moss giant (Level 42)"
+      }
+    },
+    {
+      "id": "21257-2098",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00342465753424658"
+      },
+      "meta": {
+        "item_name": "Slayer's enchantment",
+        "monster_name": "Hill Giant"
+      }
+    },
+    {
+      "id": "21257-2210",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00431034482758621"
+      },
+      "meta": {
+        "item_name": "Slayer's enchantment",
+        "monster_name": "Spiritual warrior (Saradomin)"
+      }
+    },
+    {
+      "id": "21257-2211",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00423728813559322"
+      },
+      "meta": {
+        "item_name": "Slayer's enchantment",
+        "monster_name": "Spiritual ranger (Saradomin)"
+      }
+    },
+    {
+      "id": "21257-2212",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00396825396825397"
+      },
+      "meta": {
+        "item_name": "Slayer's enchantment",
+        "monster_name": "Spiritual mage (Saradomin)"
+      }
+    },
+    {
+      "id": "21257-2242",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00462962962962963"
+      },
+      "meta": {
+        "item_name": "Slayer's enchantment",
+        "monster_name": "Spiritual ranger (Bandos)"
+      }
+    },
+    {
+      "id": "21257-2243",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00462962962962963"
+      },
+      "meta": {
+        "item_name": "Slayer's enchantment",
+        "monster_name": "Spiritual warrior (Bandos)"
+      }
+    },
+    {
+      "id": "21257-2244",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00423728813559322"
+      },
+      "meta": {
+        "item_name": "Slayer's enchantment",
+        "monster_name": "Spiritual mage (Bandos)"
+      }
+    },
+    {
+      "id": "21257-2477",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00357142857142857"
+      },
+      "meta": {
+        "item_name": "Slayer's enchantment",
+        "monster_name": "Giant spider (Level 50)"
+      }
+    },
+    {
+      "id": "21257-2478",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0033003300330033"
+      },
+      "meta": {
+        "item_name": "Slayer's enchantment",
+        "monster_name": "Spider (Stronghold of Security)"
+      }
+    },
+    {
+      "id": "21257-2479",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0036231884057971"
+      },
+      "meta": {
+        "item_name": "Slayer's enchantment",
+        "monster_name": "Scorpion (Level 59)"
+      }
+    },
+    {
+      "id": "21257-2480",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00343642611683849"
+      },
+      "meta": {
+        "item_name": "Slayer's enchantment",
+        "monster_name": "Scorpion (Level 37)"
+      }
+    },
+    {
+      "id": "21257-2501",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00337837837837838"
+      },
+      "meta": {
+        "item_name": "Slayer's enchantment",
+        "monster_name": "Zombie (Level 30)"
+      }
+    },
+    {
+      "id": "21257-2504",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00347222222222222"
+      },
+      "meta": {
+        "item_name": "Slayer's enchantment",
+        "monster_name": "Zombie (Level 44)"
+      }
+    },
+    {
+      "id": "21257-2507",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00357142857142857"
+      },
+      "meta": {
+        "item_name": "Slayer's enchantment",
+        "monster_name": "Zombie (Level 53)"
+      }
+    },
+    {
+      "id": "21257-2514",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00367647058823529"
+      },
+      "meta": {
+        "item_name": "Slayer's enchantment",
+        "monster_name": "Ankou (Level 75)"
+      }
+    },
+    {
+      "id": "21257-2515",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00373134328358209"
+      },
+      "meta": {
+        "item_name": "Slayer's enchantment",
+        "monster_name": "Ankou (Level 82)"
+      }
+    },
+    {
+      "id": "21257-2520",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00378787878787879"
+      },
+      "meta": {
+        "item_name": "Slayer's enchantment",
+        "monster_name": "Skeleton (Level 68)"
+      }
+    }
+  ]
+}

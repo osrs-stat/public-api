@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "id": "3024-3458",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Super restore (4 dose)",
+        "monster_name": "Kamil (Normal)"
+      }
+    },
+    {
+      "id": "1897-3458",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Chocolate cake (Full)",
+        "monster_name": "Kamil (Normal)"
+      }
+    }
+  ]
+}

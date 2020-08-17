@@ -1,0 +1,117 @@
+{
+  "data": {
+    "id": "5764",
+    "type": "monster",
+    "attributes": {
+      "uuid": "6b9905ad-308a-4cc5-994e-b36e717335fb",
+      "name": "Penance Ranger (Wave 8)",
+      "members": true,
+      "release_date": "2007-01-04",
+      "examine": "Shooty-shooty.",
+      "combat_level_override": 64,
+      "max_hit_override": 8,
+      "target_types": [
+        "penance"
+      ],
+      "classification_types": [
+
+      ],
+      "poison": false,
+      "immune_poison": false,
+      "immune_venom": false,
+      "slayer_xp": null,
+      "slayer_level": null,
+      "slayer_masters": [
+
+      ],
+      "icon_base64": null
+    },
+    "relationships": {
+      "combat_stat": {
+        "data": {
+          "id": "d9d98969-04d1-4bd7-b4ed-e885bb2afd7a",
+          "type": "combat_stat"
+        }
+      },
+      "equip_stat": {
+        "data": {
+          "id": "6c08fb59-087a-4369-9710-096b8696b673",
+          "type": "equip_stat"
+        }
+      },
+      "attack_stat": {
+        "data": {
+          "id": "5ac6f095-5c8d-4f3b-b319-3fc26369ec1b",
+          "type": "attack_stat"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Penance_Ranger#Wave_8"
+    },
+    "meta": {
+      "incomplete": true
+    }
+  },
+  "included": [
+    {
+      "id": "5ac6f095-5c8d-4f3b-b319-3fc26369ec1b",
+      "type": "attack_stat",
+      "attributes": {
+        "attack_speed": 4,
+        "attack_type": "monster",
+        "special": null,
+        "stances": [
+          {
+            "name": "Monster ranged",
+            "style": null,
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": null,
+            "combat_accuracy_stat": "ranged_level",
+            "combat_damage_stat": "ranged_level",
+            "equip_accuracy_stat": "ranged_attack",
+            "equip_damage_stat": "ranged_attack",
+            "target_equip_defense_stat": "ranged_defense"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d9d98969-04d1-4bd7-b4ed-e885bb2afd7a",
+      "type": "monster_combat_stat",
+      "attributes": {
+        "hitpoints_level": 55,
+        "attack_level": 0,
+        "strength_level": 0,
+        "defense_level": 68,
+        "magic_level": 0,
+        "ranged_level": 0,
+        "prayer_level": 0
+      }
+    },
+    {
+      "id": "6c08fb59-087a-4369-9710-096b8696b673",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 0,
+        "slash_attack": 0,
+        "crush_attack": 0,
+        "ranged_attack": 0,
+        "magic_attack": 0,
+        "stab_defense": 0,
+        "slash_defense": 0,
+        "crush_defense": 0,
+        "ranged_defense": 0,
+        "magic_defense": 0,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "id": "2293-7397",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Meat pizza (Full)",
+        "monster_name": "Insatiable Bloodveld"
+      }
+    },
+    {
+      "id": "2293-3138",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Meat pizza (Full)",
+        "monster_name": "Bloodveld (God Wars)"
+      }
+    },
+    {
+      "id": "2293-484",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Meat pizza (Full)",
+        "monster_name": "Bloodveld (Standard)"
+      }
+    }
+  ]
+}

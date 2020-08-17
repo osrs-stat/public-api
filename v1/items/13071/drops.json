@@ -1,0 +1,20 @@
+{
+  "data": [
+    {
+      "id": "13071-1475",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.002"
+      },
+      "meta": {
+        "item_name": "Chompy chick",
+        "monster_name": "Chompy bird"
+      }
+    }
+  ]
+}

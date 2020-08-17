@@ -1,0 +1,120 @@
+{
+  "data": {
+    "id": "7792",
+    "type": "monster",
+    "attributes": {
+      "uuid": "64e93f69-ffc9-446c-bbc8-62ca2519a173",
+      "name": "Long-tailed Wyvern",
+      "members": true,
+      "release_date": "2017-09-07",
+      "examine": "Not a wyvern to get on the wrong end of.",
+      "combat_level_override": null,
+      "max_hit_override": null,
+      "target_types": [
+        "dragon"
+      ],
+      "classification_types": [
+        "fossil island wyvern"
+      ],
+      "poison": false,
+      "immune_poison": false,
+      "immune_venom": false,
+      "slayer_xp": 205.0,
+      "slayer_level": 66,
+      "slayer_masters": [
+        "chaeldar",
+        "konar",
+        "nieve",
+        "duradel"
+      ],
+      "icon_base64": null
+    },
+    "relationships": {
+      "combat_stat": {
+        "data": {
+          "id": "3b76d284-44c8-4658-8240-b17725f46aab",
+          "type": "combat_stat"
+        }
+      },
+      "equip_stat": {
+        "data": {
+          "id": "95ade8f2-d324-407c-9a63-030dc2d8a80e",
+          "type": "equip_stat"
+        }
+      },
+      "attack_stat": {
+        "data": {
+          "id": "638ecd1a-825d-4bd6-a6ea-2f1dfc187865",
+          "type": "attack_stat"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Long-tailed_Wyvern"
+    },
+    "meta": {
+      "incomplete": true
+    }
+  },
+  "included": [
+    {
+      "id": "638ecd1a-825d-4bd6-a6ea-2f1dfc187865",
+      "type": "attack_stat",
+      "attributes": {
+        "attack_speed": 6,
+        "attack_type": "monster",
+        "special": null,
+        "stances": [
+          {
+            "name": "Monster slash",
+            "style": null,
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": null,
+            "combat_accuracy_stat": "attack_level",
+            "combat_damage_stat": "strength_level",
+            "equip_accuracy_stat": "slash_attack",
+            "equip_damage_stat": "slash_attack",
+            "target_equip_defense_stat": "slash_defense"
+          }
+        ]
+      }
+    },
+    {
+      "id": "3b76d284-44c8-4658-8240-b17725f46aab",
+      "type": "monster_combat_stat",
+      "attributes": {
+        "hitpoints_level": 200,
+        "attack_level": 125,
+        "strength_level": 120,
+        "defense_level": 90,
+        "magic_level": 90,
+        "ranged_level": 90,
+        "prayer_level": 0
+      }
+    },
+    {
+      "id": "95ade8f2-d324-407c-9a63-030dc2d8a80e",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 0,
+        "slash_attack": 0,
+        "crush_attack": 0,
+        "ranged_attack": 0,
+        "magic_attack": 0,
+        "stab_defense": 70,
+        "slash_defense": 70,
+        "crush_defense": 70,
+        "ranged_defense": 120,
+        "magic_defense": 140,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

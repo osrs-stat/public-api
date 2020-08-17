@@ -1,0 +1,180 @@
+{
+  "data": [
+    {
+      "id": "361-8",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0258620689655172"
+      },
+      "meta": {
+        "item_name": "Tuna",
+        "monster_name": "Nechryael"
+      }
+    },
+    {
+      "id": "361-2025",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Tuna",
+        "monster_name": "Greater demon (Level 92)"
+      }
+    },
+    {
+      "id": "361-639",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Tuna",
+        "monster_name": "Tyras guard"
+      }
+    },
+    {
+      "id": "361-7871",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Tuna",
+        "monster_name": "Greater demon (Level 104)"
+      }
+    },
+    {
+      "id": "361-7411",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.046875"
+      },
+      "meta": {
+        "item_name": "Tuna",
+        "monster_name": "Nechryarch"
+      }
+    },
+    {
+      "id": "361-7411",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0258620689655172"
+      },
+      "meta": {
+        "item_name": "Tuna",
+        "monster_name": "Nechryarch"
+      }
+    },
+    {
+      "id": "361-7278",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.046875"
+      },
+      "meta": {
+        "item_name": "Tuna",
+        "monster_name": "Greater Nechryael"
+      }
+    },
+    {
+      "id": "361-7246",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Tuna",
+        "monster_name": "Greater demon (Level 113)"
+      }
+    },
+    {
+      "id": "361-7245",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Tuna",
+        "monster_name": "Greater demon (Level 100)"
+      }
+    },
+    {
+      "id": "361-7244",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Tuna",
+        "monster_name": "Greater demon (Level 101)"
+      }
+    },
+    {
+      "id": "361-2054",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.1"
+      },
+      "meta": {
+        "item_name": "Tuna",
+        "monster_name": "Chaos Elemental"
+      }
+    }
+  ]
+}

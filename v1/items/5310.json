@@ -1,0 +1,31 @@
+{
+  "data": {
+    "id": "5310",
+    "type": "item",
+    "attributes": {
+      "uuid": "8d6833b0-a0c2-44b3-9f96-033883c14f47",
+      "name": "Krandorian seed",
+      "members": true,
+      "release_date": "2005-06-06",
+      "examine": "A Krandorian hop seed - plant in a hops patch.",
+      "tradeable": false,
+      "ge_tradeable": false,
+      "lowalch": 3,
+      "highalch": 4,
+      "is_equip": false,
+      "is_weapon": false,
+      "icon_base64": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAA0klEQVR4XmNgGAWjYBSMglEwLAHjf0w8YIDxf09hwP95DVH/13Qn/vex1fof4KAzkA5j/D+tKhTsmPZcn//RniZg7Gyu9l9NQXQgHMX4f1FLzP/ZdeHgkKpJcfufHmIFDyUDBQUwRtdFQ8AIDh2Qo0Ah1Zrt9b8k1ul/op853EHoOmgMEA6aWRP2v7848H99msf/vAjbweMgUChVJrkOnIOWt8eBcxkoykDpqCnT839ZgvNAOQgE0MsgCB6ABI0AMMvRMbq6UTAKRsEoGAWjYKQBALzDi6J0X7ZmAAAAAElFTkSuQmCC"
+    },
+    "relationships": {
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Krandorian_seed"
+    },
+    "meta": {
+      "incomplete": false
+    }
+  },
+  "included": [
+
+  ]
+}

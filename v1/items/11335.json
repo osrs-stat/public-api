@@ -1,0 +1,75 @@
+{
+  "data": {
+    "id": "11335",
+    "type": "item",
+    "attributes": {
+      "uuid": "36503bdb-ed6d-44ba-85e5-f4daa0374280",
+      "name": "Dragon full helm",
+      "members": true,
+      "release_date": "2007-07-03",
+      "examine": "Protects your head and looks impressive too.",
+      "tradeable": false,
+      "ge_tradeable": false,
+      "lowalch": 60000,
+      "highalch": 90000,
+      "is_equip": true,
+      "is_weapon": false,
+      "icon_base64": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACn0lEQVR4Xu2Vv2tTURTHc8cMb8gQKEIhZOgoLm6d2qWDi4sdQiBgrAgqGUJRbNBSbYcS0YJaGooQSSldxA5O/m/H+7nXw7vevLbvhfxY+oXD493c5HzyPefcWyrd6lZzkZF4ZYEy0u32pDhU0f25ZaTZfCJ7e/2cUOwxsr//Kef+QjLy9dsPWV/fkE7ntUtwr1a7JomRlWrJ7Xuz8yHH/sIy0llKpNc7kEbj8Q0JjPT7x24PUPn+QCEZGdQq0rVAjUpZ7pf9P78qgBgMzt1zNPol7fbz2QDt3EmkXS3LqgUC7kXVvwP5sOLX2Xtg9xEtu8aezc3m9IG+1yvyzibZSMpyuFxxoYmBAwyolVJJ3ts14AEi1NEUSN2cWB6IRJ8tyMd/AQyQIRDJgdG1R3btblRiSqkNH2fKKeNgaOovtnRA4RAwr5b+B1pL0nLizoMkdUhBFAbHJiyj74tjCwMQMAAqjPYSQADoO+4AiEO7u4eyvf12UpjxySGAwRVKQuAYyZ9Vfa8ABAhQ9BpNjjsA8Vmr9XQymKOjUzk5OZPh8KdcXPyWy8s/zhXtn9AhYHTKANFnDIRTVx8XNyr+QhqULewhSgYU5QFEYQAIgbL6qFBzq63eWiPDuu8ffpzRJhSSH9UeyoLRKcsGKVxCZJwbjD7u6LhTMvpIewiXdPTD2Np66YITm1iLGrsgDPJjf16vuhNbAbKAYhh1Rt2IYeJMBeShRhZKAWjmEEjvOQ1KN16WqcAgD0S5QgBc0Xf6R2F0yrIApgCj8lAxUDjqChOO+RQBYvnmvg6Ip8LodM0UiNGPgfQMAkhLpcfDXIFCKD2lQ6Dl2QMh464PDkJCx13vsrCZsxp6RvK3vzoVXq4xyBxgVOP33IJAUoXJFwoyL/0FqY+VTJE4LroAAAAASUVORK5CYII="
+    },
+    "relationships": {
+      "equip": {
+        "data": {
+          "id": "a6956625-4967-4ef8-a4f6-b132a7f7fc79",
+          "type": "equip"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Dragon_full_helm"
+    },
+    "meta": {
+      "incomplete": false
+    }
+  },
+  "included": [
+    {
+      "id": "a6956625-4967-4ef8-a4f6-b132a7f7fc79",
+      "type": "equip",
+      "attributes": {
+        "slot": "head",
+        "passive_effect": null,
+        "requirements": {
+          "defense_level": 60
+        }
+      },
+      "relationships": {
+        "equip_stat": {
+          "data": {
+            "id": "4d870920-ce2a-4675-b036-fcb9157435f7",
+            "type": "equip_stat"
+          }
+        }
+      }
+    },
+    {
+      "id": "4d870920-ce2a-4675-b036-fcb9157435f7",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 0,
+        "slash_attack": 0,
+        "crush_attack": 0,
+        "ranged_attack": -2,
+        "magic_attack": -6,
+        "stab_defense": 45,
+        "slash_defense": 48,
+        "crush_defense": 41,
+        "ranged_defense": 46,
+        "magic_defense": -1,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

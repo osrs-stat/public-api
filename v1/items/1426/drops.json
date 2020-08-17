@@ -1,0 +1,132 @@
+{
+  "data": [
+    {
+      "id": "1426-2464",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.05"
+      },
+      "meta": {
+        "item_name": "Black mace",
+        "monster_name": "Cyclops (Level 76)"
+      }
+    },
+    {
+      "id": "1426-531",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Black mace",
+        "monster_name": "Dark warrior (Level 8)"
+      }
+    },
+    {
+      "id": "1426-531",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Black mace",
+        "monster_name": "Dark warrior (Level 8)"
+      }
+    },
+    {
+      "id": "1426-2235",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.05"
+      },
+      "meta": {
+        "item_name": "Black mace",
+        "monster_name": "Cyclops (Level 81)"
+      }
+    },
+    {
+      "id": "1426-2137",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.05"
+      },
+      "meta": {
+        "item_name": "Black mace",
+        "monster_name": "Cyclops (Level 106)"
+      }
+    },
+    {
+      "id": "1426-2097",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.05"
+      },
+      "meta": {
+        "item_name": "Black mace",
+        "monster_name": "Cyclops (Level 56)"
+      }
+    },
+    {
+      "id": "1426-6606",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Black mace",
+        "monster_name": "Dark warrior (Level 145)"
+      }
+    },
+    {
+      "id": "1426-6606",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Black mace",
+        "monster_name": "Dark warrior (Level 145)"
+      }
+    }
+  ]
+}

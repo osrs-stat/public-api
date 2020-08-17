@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "id": "781-4987",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Crest part (Johnathon)",
+        "monster_name": "Chronozon (Normal)"
+      }
+    },
+    {
+      "id": "781-6292",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Crest part (Johnathon)",
+        "monster_name": "Chronozon (Hard)"
+      }
+    }
+  ]
+}

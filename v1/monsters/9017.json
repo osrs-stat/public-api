@@ -1,0 +1,117 @@
+{
+  "data": {
+    "id": "9017",
+    "type": "monster",
+    "attributes": {
+      "uuid": "1614e464-f771-40d1-9e67-ffb37b1c4835",
+      "name": "https://oldschool.runescape.wiki/w/Mourner#Level_108",
+      "members": true,
+      "release_date": "2002-08-27",
+      "examine": "A mourner, or plague healer.",
+      "combat_level_override": 108,
+      "max_hit_override": null,
+      "target_types": [
+
+      ],
+      "classification_types": [
+
+      ],
+      "poison": false,
+      "immune_poison": false,
+      "immune_venom": false,
+      "slayer_xp": null,
+      "slayer_level": null,
+      "slayer_masters": [
+
+      ],
+      "icon_base64": null
+    },
+    "relationships": {
+      "combat_stat": {
+        "data": {
+          "id": "1ad1e1d4-64e0-41c2-9ef1-262b6d4e2edc",
+          "type": "combat_stat"
+        }
+      },
+      "equip_stat": {
+        "data": {
+          "id": "5f6f85b9-6a6f-49f5-8dc8-8d772b186a9f",
+          "type": "equip_stat"
+        }
+      },
+      "attack_stat": {
+        "data": {
+          "id": "b3bb3df1-b902-4ef0-b5e7-6ebce29729e5",
+          "type": "attack_stat"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Mourner#Level_108"
+    },
+    "meta": {
+      "incomplete": true
+    }
+  },
+  "included": [
+    {
+      "id": "b3bb3df1-b902-4ef0-b5e7-6ebce29729e5",
+      "type": "attack_stat",
+      "attributes": {
+        "attack_speed": 4,
+        "attack_type": "monster",
+        "special": null,
+        "stances": [
+          {
+            "name": "Monster crush",
+            "style": null,
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": null,
+            "combat_accuracy_stat": "attack_level",
+            "combat_damage_stat": "strength_level",
+            "equip_accuracy_stat": "crush_attack",
+            "equip_damage_stat": "crush_attack",
+            "target_equip_defense_stat": "crush_defense"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1ad1e1d4-64e0-41c2-9ef1-262b6d4e2edc",
+      "type": "monster_combat_stat",
+      "attributes": {
+        "hitpoints_level": 19,
+        "attack_level": 8,
+        "strength_level": 8,
+        "defense_level": 8,
+        "magic_level": 1,
+        "ranged_level": 1,
+        "prayer_level": 0
+      }
+    },
+    {
+      "id": "5f6f85b9-6a6f-49f5-8dc8-8d772b186a9f",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 6,
+        "slash_attack": 6,
+        "crush_attack": 6,
+        "ranged_attack": 0,
+        "magic_attack": 0,
+        "stab_defense": 6,
+        "slash_defense": 6,
+        "crush_defense": 9,
+        "ranged_defense": 0,
+        "magic_defense": 0,
+        "melee_strength": 2,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "data": {
+    "id": "6159",
+    "type": "item",
+    "attributes": {
+      "uuid": "751cdb5a-9265-45dd-8987-0ddaa8ce3946",
+      "name": "Rock-shell shard",
+      "members": true,
+      "release_date": "2005-08-01",
+      "examine": "A curved piece of rock-shell.",
+      "tradeable": false,
+      "ge_tradeable": false,
+      "lowalch": 24,
+      "highalch": 36,
+      "is_equip": false,
+      "is_weapon": false,
+      "icon_base64": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABpUlEQVR4Xu3WfUvCUBQGcPcR+kMIIRghISEhkYRhGIYhUpJhJolgiPj9P8GJ516eeXbZzO7cCNqBB9/udn6cuw0rlbLKKuvPViDpKax2Tb9Wn7JeL2SzWcp2u5Ll8sME3xeAsyfXTTVosXg3cX/PAWdPpJuxITAIMftQXJ8RZSFuIw2az99iSVuLzGavBtQKQx9UIMPho0wmI5lOXxKbaAiaMYS56zODBoMHE6AIYwM2x3cM1yWhuN4TFEivdyf9/r3JeDw0IUo352/M8+gpWqdRwPAa8gJ1u7cGRRga6aY62FodYgABAo8EvOKzN6jTuTEowoAi8LchEMkMardbMdyhcVE6Hrd+II3GhVy3rmIgnpDXFsILX2/ZPhgn5DWlMDwzsGbzMoJpUBJGX1suCMd4bhkrkFrtNIJxYmhEUBpG3wRHmI4ui0Lq9fMIxmkB5UI0Rj8yMk5HVyDV6kk0LcC4jZyWe+vrieH9kaaja4dyt1FPS4ePihwwLIv6aVpA4D2gOWJY9u+IOy09MQTIAjC2bAP9pys5hWB0seG+uMeUVda/rG/3CrAQ+IhEjAAAAABJRU5ErkJggg=="
+    },
+    "relationships": {
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Rock-shell_shard"
+    },
+    "meta": {
+      "incomplete": false
+    }
+  },
+  "included": [
+
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "data": [
+    {
+      "id": "4109-417",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.001953125"
+      },
+      "meta": {
+        "item_name": "Mystic hat (light)",
+        "monster_name": "Basilisk"
+      }
+    },
+    {
+      "id": "4109-9293",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00390625"
+      },
+      "meta": {
+        "item_name": "Mystic hat (light)",
+        "monster_name": "Basilisk Knight"
+      }
+    },
+    {
+      "id": "4109-9258",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00390625"
+      },
+      "meta": {
+        "item_name": "Mystic hat (light)",
+        "monster_name": "Basilisk Sentinel"
+      }
+    },
+    {
+      "id": "4109-7395",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.001953125"
+      },
+      "meta": {
+        "item_name": "Mystic hat (light)",
+        "monster_name": "Monstrous basilisk"
+      }
+    },
+    {
+      "id": "4109-476",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.001953125"
+      },
+      "meta": {
+        "item_name": "Mystic hat (light)",
+        "monster_name": "Wall beast (Beast)"
+      }
+    }
+  ]
+}

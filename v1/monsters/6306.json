@@ -1,0 +1,117 @@
+{
+  "data": {
+    "id": "6306",
+    "type": "monster",
+    "attributes": {
+      "uuid": "9c985482-b0c7-474b-9fa0-acb1b9a9795e",
+      "name": "Evil Chicken (Hard)",
+      "members": true,
+      "release_date": "2013-09-05",
+      "examine": "A fowl beast.",
+      "combat_level_override": null,
+      "max_hit_override": 5,
+      "target_types": [
+
+      ],
+      "classification_types": [
+
+      ],
+      "poison": false,
+      "immune_poison": false,
+      "immune_venom": false,
+      "slayer_xp": null,
+      "slayer_level": null,
+      "slayer_masters": [
+
+      ],
+      "icon_base64": null
+    },
+    "relationships": {
+      "combat_stat": {
+        "data": {
+          "id": "fb5ccc03-2432-49ab-89f2-aa07c363e6a5",
+          "type": "combat_stat"
+        }
+      },
+      "equip_stat": {
+        "data": {
+          "id": "53bb3665-fbec-42d5-a882-27f89805c11e",
+          "type": "equip_stat"
+        }
+      },
+      "attack_stat": {
+        "data": {
+          "id": "6d679706-6000-4a39-952c-8505b35b20f6",
+          "type": "attack_stat"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Evil_Chicken#Hard"
+    },
+    "meta": {
+      "incomplete": true
+    }
+  },
+  "included": [
+    {
+      "id": "6d679706-6000-4a39-952c-8505b35b20f6",
+      "type": "attack_stat",
+      "attributes": {
+        "attack_speed": 4,
+        "attack_type": "monster",
+        "special": null,
+        "stances": [
+          {
+            "name": "Monster magic",
+            "style": null,
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": null,
+            "combat_accuracy_stat": "magic_level",
+            "combat_damage_stat": "magic_level",
+            "equip_accuracy_stat": "magic_attack",
+            "equip_damage_stat": "magic_attack",
+            "target_equip_defense_stat": "magic_defense"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fb5ccc03-2432-49ab-89f2-aa07c363e6a5",
+      "type": "monster_combat_stat",
+      "attributes": {
+        "hitpoints_level": 240,
+        "attack_level": 0,
+        "strength_level": 0,
+        "defense_level": 126,
+        "magic_level": 400,
+        "ranged_level": 0,
+        "prayer_level": 0
+      }
+    },
+    {
+      "id": "53bb3665-fbec-42d5-a882-27f89805c11e",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 0,
+        "slash_attack": 0,
+        "crush_attack": 0,
+        "ranged_attack": 0,
+        "magic_attack": 0,
+        "stab_defense": 0,
+        "slash_defense": 0,
+        "crush_defense": 0,
+        "ranged_defense": 0,
+        "magic_defense": 0,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

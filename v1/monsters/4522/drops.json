@@ -1,0 +1,708 @@
+{
+  "data": [
+    {
+      "id": "1267-4522",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.018"
+      },
+      "meta": {
+        "item_name": "Iron pickaxe (Regular)",
+        "monster_name": "Guard (H.A.M. storeroom)"
+      }
+    },
+    {
+      "id": "1625-4522",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.012"
+      },
+      "meta": {
+        "item_name": "Uncut opal",
+        "monster_name": "Guard (H.A.M. storeroom)"
+      }
+    },
+    {
+      "id": "1627-4522",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.012"
+      },
+      "meta": {
+        "item_name": "Uncut jade",
+        "monster_name": "Guard (H.A.M. storeroom)"
+      }
+    },
+    {
+      "id": "686-4522",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.024"
+      },
+      "meta": {
+        "item_name": "Rusty sword",
+        "monster_name": "Guard (H.A.M. storeroom)"
+      }
+    },
+    {
+      "id": "440-4522",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.012"
+      },
+      "meta": {
+        "item_name": "Iron ore",
+        "monster_name": "Guard (H.A.M. storeroom)"
+      }
+    },
+    {
+      "id": "203-4522",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00218181818181818"
+      },
+      "meta": {
+        "item_name": "Grimy tarromin",
+        "monster_name": "Guard (H.A.M. storeroom)"
+      }
+    },
+    {
+      "id": "201-4522",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00327272727272727"
+      },
+      "meta": {
+        "item_name": "Grimy marrentill",
+        "monster_name": "Guard (H.A.M. storeroom)"
+      }
+    },
+    {
+      "id": "199-4522",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00654545454545455"
+      },
+      "meta": {
+        "item_name": "Grimy guam leaf",
+        "monster_name": "Guard (H.A.M. storeroom)"
+      }
+    },
+    {
+      "id": "697-4522",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.024"
+      },
+      "meta": {
+        "item_name": "Damaged armour",
+        "monster_name": "Guard (H.A.M. storeroom)"
+      }
+    },
+    {
+      "id": "1739-4522",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.018"
+      },
+      "meta": {
+        "item_name": "Cowhide",
+        "monster_name": "Guard (H.A.M. storeroom)"
+      }
+    },
+    {
+      "id": "453-4522",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.012"
+      },
+      "meta": {
+        "item_name": "Coal",
+        "monster_name": "Guard (H.A.M. storeroom)"
+      }
+    },
+    {
+      "id": "2677-4522",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.012"
+      },
+      "meta": {
+        "item_name": "Clue scroll (easy)",
+        "monster_name": "Guard (H.A.M. storeroom)"
+      }
+    },
+    {
+      "id": "1129-4522",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.018"
+      },
+      "meta": {
+        "item_name": "Leather body",
+        "monster_name": "Guard (H.A.M. storeroom)"
+      }
+    },
+    {
+      "id": "4310-4522",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.006"
+      },
+      "meta": {
+        "item_name": "Ham boots",
+        "monster_name": "Guard (H.A.M. storeroom)"
+      }
+    },
+    {
+      "id": "4304-4522",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.006"
+      },
+      "meta": {
+        "item_name": "Ham cloak",
+        "monster_name": "Guard (H.A.M. storeroom)"
+      }
+    },
+    {
+      "id": "4308-4522",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.006"
+      },
+      "meta": {
+        "item_name": "Ham gloves",
+        "monster_name": "Guard (H.A.M. storeroom)"
+      }
+    },
+    {
+      "id": "4302-4522",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.006"
+      },
+      "meta": {
+        "item_name": "Ham hood",
+        "monster_name": "Guard (H.A.M. storeroom)"
+      }
+    },
+    {
+      "id": "4306-4522",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.006"
+      },
+      "meta": {
+        "item_name": "Ham logo",
+        "monster_name": "Guard (H.A.M. storeroom)"
+      }
+    },
+    {
+      "id": "4300-4522",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.006"
+      },
+      "meta": {
+        "item_name": "Ham robe",
+        "monster_name": "Guard (H.A.M. storeroom)"
+      }
+    },
+    {
+      "id": "4298-4522",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.006"
+      },
+      "meta": {
+        "item_name": "Ham shirt",
+        "monster_name": "Guard (H.A.M. storeroom)"
+      }
+    },
+    {
+      "id": "886-4522",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 13,
+        "rarity": "0.012"
+      },
+      "meta": {
+        "item_name": "Steel arrow (Unpoisoned)",
+        "monster_name": "Guard (H.A.M. storeroom)"
+      }
+    },
+    {
+      "id": "1353-4522",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.012"
+      },
+      "meta": {
+        "item_name": "Steel axe",
+        "monster_name": "Guard (H.A.M. storeroom)"
+      }
+    },
+    {
+      "id": "1207-4522",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.012"
+      },
+      "meta": {
+        "item_name": "Steel dagger (Unpoisoned)",
+        "monster_name": "Guard (H.A.M. storeroom)"
+      }
+    },
+    {
+      "id": "1269-4522",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.012"
+      },
+      "meta": {
+        "item_name": "Steel pickaxe",
+        "monster_name": "Guard (H.A.M. storeroom)"
+      }
+    },
+    {
+      "id": "688-4522",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.024"
+      },
+      "meta": {
+        "item_name": "Buttons",
+        "monster_name": "Guard (H.A.M. storeroom)"
+      }
+    },
+    {
+      "id": "22521-4522",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 21,
+        "rarity": "0.09"
+      },
+      "meta": {
+        "item_name": "Coin pouch (Woman/man)",
+        "monster_name": "Guard (H.A.M. storeroom)"
+      }
+    },
+    {
+      "id": "314-4522",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 7,
+        "rarity": "0.018"
+      },
+      "meta": {
+        "item_name": "Feather",
+        "monster_name": "Guard (H.A.M. storeroom)"
+      }
+    },
+    {
+      "id": "946-4522",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.012"
+      },
+      "meta": {
+        "item_name": "Knife",
+        "monster_name": "Guard (H.A.M. storeroom)"
+      }
+    },
+    {
+      "id": "1511-4522",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.018"
+      },
+      "meta": {
+        "item_name": "Logs",
+        "monster_name": "Guard (H.A.M. storeroom)"
+      }
+    },
+    {
+      "id": "1733-4522",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.012"
+      },
+      "meta": {
+        "item_name": "Needle",
+        "monster_name": "Guard (H.A.M. storeroom)"
+      }
+    },
+    {
+      "id": "321-4522",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.012"
+      },
+      "meta": {
+        "item_name": "Raw anchovies",
+        "monster_name": "Guard (H.A.M. storeroom)"
+      }
+    },
+    {
+      "id": "2138-4522",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.012"
+      },
+      "meta": {
+        "item_name": "Raw chicken",
+        "monster_name": "Guard (H.A.M. storeroom)"
+      }
+    },
+    {
+      "id": "1734-4522",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 10,
+        "rarity": "0.018"
+      },
+      "meta": {
+        "item_name": "Thread",
+        "monster_name": "Guard (H.A.M. storeroom)"
+      }
+    },
+    {
+      "id": "590-4522",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.012"
+      },
+      "meta": {
+        "item_name": "Tinderbox",
+        "monster_name": "Guard (H.A.M. storeroom)"
+      }
+    },
+    {
+      "id": "8867-4522",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.1"
+      },
+      "meta": {
+        "item_name": "Bronze key (H.A.M.)",
+        "monster_name": "Guard (H.A.M. storeroom)"
+      }
+    },
+    {
+      "id": "8869-4522",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.1"
+      },
+      "meta": {
+        "item_name": "Iron key (H.A.M.)",
+        "monster_name": "Guard (H.A.M. storeroom)"
+      }
+    },
+    {
+      "id": "8868-4522",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.1"
+      },
+      "meta": {
+        "item_name": "Silver key (H.A.M.)",
+        "monster_name": "Guard (H.A.M. storeroom)"
+      }
+    },
+    {
+      "id": "8866-4522",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.1"
+      },
+      "meta": {
+        "item_name": "Steel key (H.A.M.)",
+        "monster_name": "Guard (H.A.M. storeroom)"
+      }
+    },
+    {
+      "id": "882-4522",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 13,
+        "rarity": "0.018"
+      },
+      "meta": {
+        "item_name": "Bronze arrow (Unpoisoned)",
+        "monster_name": "Guard (H.A.M. storeroom)"
+      }
+    },
+    {
+      "id": "1351-4522",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.018"
+      },
+      "meta": {
+        "item_name": "Bronze axe",
+        "monster_name": "Guard (H.A.M. storeroom)"
+      }
+    },
+    {
+      "id": "1205-4522",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.018"
+      },
+      "meta": {
+        "item_name": "Bronze dagger (Unpoisoned)",
+        "monster_name": "Guard (H.A.M. storeroom)"
+      }
+    },
+    {
+      "id": "1265-4522",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.018"
+      },
+      "meta": {
+        "item_name": "Bronze pickaxe",
+        "monster_name": "Guard (H.A.M. storeroom)"
+      }
+    },
+    {
+      "id": "1349-4522",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.018"
+      },
+      "meta": {
+        "item_name": "Iron axe",
+        "monster_name": "Guard (H.A.M. storeroom)"
+      }
+    },
+    {
+      "id": "1203-4522",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.018"
+      },
+      "meta": {
+        "item_name": "Iron dagger (Unpoisoned)",
+        "monster_name": "Guard (H.A.M. storeroom)"
+      }
+    }
+  ]
+}

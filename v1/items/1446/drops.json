@@ -1,0 +1,548 @@
+{
+  "data": [
+    {
+      "id": "1446-5418",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Body talisman",
+        "monster_name": "Guard (East Ardougne)"
+      }
+    },
+    {
+      "id": "1446-397",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Body talisman",
+        "monster_name": "Town Guard (Hosidius) (Bow)"
+      }
+    },
+    {
+      "id": "1446-399",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Body talisman",
+        "monster_name": "Town Guard (Hosidius) (Staff)"
+      }
+    },
+    {
+      "id": "1446-995",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Body talisman",
+        "monster_name": "Guard (Falador (sword))"
+      }
+    },
+    {
+      "id": "1446-1546",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Body talisman",
+        "monster_name": "Guard (Port Sarim)"
+      }
+    },
+    {
+      "id": "1446-2097",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Body talisman",
+        "monster_name": "Cyclops (Level 56)"
+      }
+    },
+    {
+      "id": "1446-2098",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Body talisman",
+        "monster_name": "Hill Giant"
+      }
+    },
+    {
+      "id": "1446-2137",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Body talisman",
+        "monster_name": "Cyclops (Level 106)"
+      }
+    },
+    {
+      "id": "1446-2235",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Body talisman",
+        "monster_name": "Cyclops (Level 81)"
+      }
+    },
+    {
+      "id": "1446-2259",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00446428571428571"
+      },
+      "meta": {
+        "item_name": "Body talisman",
+        "monster_name": "Dagannoth (Waterbirth Island) (Level 88)"
+      }
+    },
+    {
+      "id": "1446-2261",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0111607142857143"
+      },
+      "meta": {
+        "item_name": "Body talisman",
+        "monster_name": "Giant Rock Crab"
+      }
+    },
+    {
+      "id": "1446-2265",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00111607142857143"
+      },
+      "meta": {
+        "item_name": "Body talisman",
+        "monster_name": "Dagannoth Supreme"
+      }
+    },
+    {
+      "id": "1446-2266",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00111607142857143"
+      },
+      "meta": {
+        "item_name": "Body talisman",
+        "monster_name": "Dagannoth Prime"
+      }
+    },
+    {
+      "id": "1446-2267",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00111607142857143"
+      },
+      "meta": {
+        "item_name": "Body talisman",
+        "monster_name": "Dagannoth Rex"
+      }
+    },
+    {
+      "id": "1446-2464",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Body talisman",
+        "monster_name": "Cyclops (Level 76)"
+      }
+    },
+    {
+      "id": "1446-2584",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.01953125"
+      },
+      "meta": {
+        "item_name": "Body talisman",
+        "monster_name": "Abyssal leech"
+      }
+    },
+    {
+      "id": "1446-2585",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.01953125"
+      },
+      "meta": {
+        "item_name": "Body talisman",
+        "monster_name": "Abyssal guardian"
+      }
+    },
+    {
+      "id": "1446-2586",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.01953125"
+      },
+      "meta": {
+        "item_name": "Body talisman",
+        "monster_name": "Abyssal walker"
+      }
+    },
+    {
+      "id": "1446-3010",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Body talisman",
+        "monster_name": "Guard (Varrock)"
+      }
+    },
+    {
+      "id": "1446-3185",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00446428571428571"
+      },
+      "meta": {
+        "item_name": "Body talisman",
+        "monster_name": "Dagannoth (Waterbirth Island) (Level 90)"
+      }
+    },
+    {
+      "id": "1446-3270",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Body talisman",
+        "monster_name": "Guard (Falador (crossbow))"
+      }
+    },
+    {
+      "id": "1446-3271",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Body talisman",
+        "monster_name": "Guard (Falador (battleaxe))"
+      }
+    },
+    {
+      "id": "1446-3272",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Body talisman",
+        "monster_name": "Guard (Falador (longbow))"
+      }
+    },
+    {
+      "id": "1446-4067",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Body talisman",
+        "monster_name": "Black Knight Titan (Normal)"
+      }
+    },
+    {
+      "id": "1446-5886",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00308324768756423"
+      },
+      "meta": {
+        "item_name": "Body talisman",
+        "monster_name": "Abyssal Sire (Phase 1)"
+      }
+    },
+    {
+      "id": "1446-5890",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00308324768756423"
+      },
+      "meta": {
+        "item_name": "Body talisman",
+        "monster_name": "Abyssal Sire (Phase 2)"
+      }
+    },
+    {
+      "id": "1446-5891",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00308324768756423"
+      },
+      "meta": {
+        "item_name": "Body talisman",
+        "monster_name": "Abyssal Sire (Phase 3 (stage 1))"
+      }
+    },
+    {
+      "id": "1446-5908",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00308324768756423"
+      },
+      "meta": {
+        "item_name": "Body talisman",
+        "monster_name": "Abyssal Sire (Phase 3 (stage 2))"
+      }
+    },
+    {
+      "id": "1446-5938",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00892857142857143"
+      },
+      "meta": {
+        "item_name": "Body talisman",
+        "monster_name": "Wallasalki"
+      }
+    },
+    {
+      "id": "1446-5944",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00446428571428571"
+      },
+      "meta": {
+        "item_name": "Body talisman",
+        "monster_name": "Rock lobster"
+      }
+    },
+    {
+      "id": "1446-6299",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Body talisman",
+        "monster_name": "Black Knight Titan (Hard)"
+      }
+    },
+    {
+      "id": "1446-7016",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Body talisman",
+        "monster_name": "Kourend guard"
+      }
+    },
+    {
+      "id": "1446-7017",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Body talisman",
+        "monster_name": "Kourend head guard"
+      }
+    },
+    {
+      "id": "1446-7266",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0111607142857143"
+      },
+      "meta": {
+        "item_name": "Body talisman",
+        "monster_name": "King Sand Crab (Active)"
+      }
+    }
+  ]
+}

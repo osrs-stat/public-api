@@ -1,0 +1,73 @@
+{
+  "data": {
+    "id": "1580",
+    "type": "item",
+    "attributes": {
+      "uuid": "291c4bee-fffd-4990-adac-e4dbc27d5540",
+      "name": "Ice gloves",
+      "members": true,
+      "release_date": "2002-02-27",
+      "examine": "These will keep my hands cold!",
+      "tradeable": false,
+      "ge_tradeable": false,
+      "lowalch": 2,
+      "highalch": 3,
+      "is_equip": true,
+      "is_weapon": false,
+      "icon_base64": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC8UlEQVR4Xu2Va0uUYRCGff6JPyDCD0UURVAUGSImmtGmZJiSimaZJRmGYJIdxDDJDBGRrBARE0PEysxOZmGWlEX0of8xdc3D6Lq7mivtu18cuHl33z08195zz2xKykZtFOVkSUkvJx0z36Vv7pcML/wOA0sKnJOGyc/SNDUvbdML0jP7U8G4dn74kQwoJ3UTcwrV+PKLtLz5qm6h9vcLCpSWmhoklJPzT2el9vknqX/hoZpfzatu/IXjGrBLTs6OTsu58Y8KhQAEDudMAUI5qRp5rVBnnrzVx6cfTy2CAVo9NqMKCMpJ5dCklA88k7L+cSl9NCanHozqcyAM1LIUQJ6clNwfkZM9Q1LUPSgnugak8F6/HL/7cNEtFFC4PQwA+bd75Vhbj4Rudat4DGTF4ERQ7jgp7h1WGAByr7arDl/rUOXd7FRI2rhOd+LdrE4PPdTQIvur6iTr8nV9nN3Yqsq50qaAtDBOIA8Se+2vJP+5A9X1+nx3cZWk1zRIxsUmybzUrDJA3IsDyI8se4LVb8uMbdv67pv+FXCf15kYwmm/2D6PcGhveY0CIuAOXmhUAbVGIKeTQA4YUcaTQ9kb4YuN1wguIGSCK58xKH+Qk52FZbKntFrB9lXWKiQCas1AhK/gTp+OK7uDADIVtujMEfLA1cbXDlg6xMnW3HyF2lVUoS0EDgG3ZiB6DhQjChgTgxsGhhMEFyCujDGgsQ9wsu1IoWwPFcmOghIVgMAZ1PL3R5VTewmfTQQihDgGGKCAcJ/JoWU4uRJQWmaebMkOqXDMAKMdXbF8IC2AhBFxuC27oy1di0DAcZ9cxf7FkdMYq72rlg8jttJ7E/cAtM1LW22/cI9WLuVpednhkYp83yrlrUabM3KWiRHGFcsR7QUOl/gTtTxFfuN/qGib0ab0LG2pZcw2sf1PxdmO+CrSYn+Ih7LwA8MWNpcMKPK7Elweip1CruwvIaHu/Ls8FIGnheyvJLkTXuse5cRVdMY2Kpj6A6vuYpWc1lXmAAAAAElFTkSuQmCC"
+    },
+    "relationships": {
+      "equip": {
+        "data": {
+          "id": "0be7b1ba-59fa-48bc-b17c-df27466f735e",
+          "type": "equip"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Ice_gloves"
+    },
+    "meta": {
+      "incomplete": false
+    }
+  },
+  "included": [
+    {
+      "id": "0be7b1ba-59fa-48bc-b17c-df27466f735e",
+      "type": "equip",
+      "attributes": {
+        "slot": "gloves",
+        "passive_effect": null,
+        "requirements": null
+      },
+      "relationships": {
+        "equip_stat": {
+          "data": {
+            "id": "44ea5f0b-380b-42c6-9c52-628e90893749",
+            "type": "equip_stat"
+          }
+        }
+      }
+    },
+    {
+      "id": "44ea5f0b-380b-42c6-9c52-628e90893749",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 0,
+        "slash_attack": 0,
+        "crush_attack": 0,
+        "ranged_attack": 0,
+        "magic_attack": 0,
+        "stab_defense": 0,
+        "slash_defense": 3,
+        "crush_defense": 4,
+        "ranged_defense": 2,
+        "magic_defense": 0,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

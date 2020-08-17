@@ -1,0 +1,150 @@
+{
+  "data": {
+    "id": "1024",
+    "type": "monster",
+    "attributes": {
+      "uuid": "6a94b798-280b-4528-b7b2-266be48388fd",
+      "name": "https://oldschool.runescape.wiki/w/Zygomite#Level_86",
+      "members": true,
+      "release_date": "2006-03-07",
+      "examine": "A bouncy fungus.",
+      "combat_level_override": 86,
+      "max_hit_override": 10,
+      "target_types": [
+
+      ],
+      "classification_types": [
+        "mutated zygomite"
+      ],
+      "poison": false,
+      "immune_poison": false,
+      "immune_venom": false,
+      "slayer_xp": 65.0,
+      "slayer_level": 57,
+      "slayer_masters": [
+        "chaeldar",
+        "konar",
+        "nieve",
+        "duradel"
+      ],
+      "icon_base64": null
+    },
+    "relationships": {
+      "combat_stat": {
+        "data": {
+          "id": "07dc0eba-3b05-4910-a4aa-3fb821095117",
+          "type": "combat_stat"
+        }
+      },
+      "equip_stat": {
+        "data": {
+          "id": "a925b114-4dda-4235-9fae-f496c729e118",
+          "type": "equip_stat"
+        }
+      },
+      "attack_stat": {
+        "data": {
+          "id": "8ac77438-4d72-412e-a93d-c60e3d8d29bd",
+          "type": "attack_stat"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Zygomite#Level_86"
+    },
+    "meta": {
+      "incomplete": true
+    }
+  },
+  "included": [
+    {
+      "id": "8ac77438-4d72-412e-a93d-c60e3d8d29bd",
+      "type": "attack_stat",
+      "attributes": {
+        "attack_speed": 4,
+        "attack_type": "monster",
+        "special": null,
+        "stances": [
+          {
+            "name": "Monster melee",
+            "style": null,
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": null,
+            "combat_accuracy_stat": "attack_level",
+            "combat_damage_stat": "strength_level",
+            "equip_accuracy_stat": "crush_attack",
+            "equip_damage_stat": "crush_attack",
+            "target_equip_defense_stat": "crush_defense"
+          },
+          {
+            "name": "Monster ranged",
+            "style": null,
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": null,
+            "combat_accuracy_stat": "ranged_level",
+            "combat_damage_stat": "ranged_level",
+            "equip_accuracy_stat": "ranged_attack",
+            "equip_damage_stat": "ranged_attack",
+            "target_equip_defense_stat": "ranged_defense"
+          },
+          {
+            "name": "Monster magic",
+            "style": null,
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": null,
+            "combat_accuracy_stat": "magic_level",
+            "combat_damage_stat": "magic_level",
+            "equip_accuracy_stat": "magic_attack",
+            "equip_damage_stat": "magic_attack",
+            "target_equip_defense_stat": "magic_defense"
+          }
+        ]
+      }
+    },
+    {
+      "id": "07dc0eba-3b05-4910-a4aa-3fb821095117",
+      "type": "monster_combat_stat",
+      "attributes": {
+        "hitpoints_level": 65,
+        "attack_level": 65,
+        "strength_level": 65,
+        "defense_level": 65,
+        "magic_level": 65,
+        "ranged_level": 65,
+        "prayer_level": 0
+      }
+    },
+    {
+      "id": "a925b114-4dda-4235-9fae-f496c729e118",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 30,
+        "slash_attack": 30,
+        "crush_attack": 30,
+        "ranged_attack": 0,
+        "magic_attack": 0,
+        "stab_defense": 10,
+        "slash_defense": 10,
+        "crush_defense": 10,
+        "ranged_defense": 20,
+        "magic_defense": 20,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

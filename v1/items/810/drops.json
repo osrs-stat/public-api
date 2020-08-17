@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "id": "810-7274",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 20,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Adamant dart (Unpoisoned)",
+        "monster_name": "Brutal red dragon"
+      }
+    },
+    {
+      "id": "810-2265",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": 25,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Adamant dart (Unpoisoned)",
+        "monster_name": "Dagannoth Supreme"
+      }
+    },
+    {
+      "id": "810-7273",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Adamant dart (Unpoisoned)",
+        "monster_name": "Brutal blue dragon"
+      }
+    }
+  ]
+}

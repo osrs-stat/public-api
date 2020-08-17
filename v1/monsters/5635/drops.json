@@ -1,0 +1,516 @@
+{
+  "data": [
+    {
+      "id": "1299-5635",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Mithril longsword",
+        "monster_name": "Vampyre Juvinate (Level 90)"
+      }
+    },
+    {
+      "id": "1071-5635",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Mithril platelegs",
+        "monster_name": "Vampyre Juvinate (Level 90)"
+      }
+    },
+    {
+      "id": "1077-5635",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Black platelegs",
+        "monster_name": "Vampyre Juvinate (Level 90)"
+      }
+    },
+    {
+      "id": "1107-5635",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Black chainbody",
+        "monster_name": "Vampyre Juvinate (Level 90)"
+      }
+    },
+    {
+      "id": "1331-5635",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Adamant scimitar",
+        "monster_name": "Vampyre Juvinate (Level 90)"
+      }
+    },
+    {
+      "id": "1179-5635",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Black sq shield",
+        "monster_name": "Vampyre Juvinate (Level 90)"
+      }
+    },
+    {
+      "id": "1195-5635",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Black kiteshield",
+        "monster_name": "Vampyre Juvinate (Level 90)"
+      }
+    },
+    {
+      "id": "1165-5635",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Black full helm",
+        "monster_name": "Vampyre Juvinate (Level 90)"
+      }
+    },
+    {
+      "id": "1119-5635",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.125"
+      },
+      "meta": {
+        "item_name": "Steel platebody",
+        "monster_name": "Vampyre Juvinate (Level 90)"
+      }
+    },
+    {
+      "id": "1109-5635",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Mithril chainbody",
+        "monster_name": "Vampyre Juvinate (Level 90)"
+      }
+    },
+    {
+      "id": "1159-5635",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Mithril full helm",
+        "monster_name": "Vampyre Juvinate (Level 90)"
+      }
+    },
+    {
+      "id": "1083-5635",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.125"
+      },
+      "meta": {
+        "item_name": "Steel plateskirt",
+        "monster_name": "Vampyre Juvinate (Level 90)"
+      }
+    },
+    {
+      "id": "1367-5635",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Black battleaxe",
+        "monster_name": "Vampyre Juvinate (Level 90)"
+      }
+    },
+    {
+      "id": "1369-5635",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Mithril battleaxe",
+        "monster_name": "Vampyre Juvinate (Level 90)"
+      }
+    },
+    {
+      "id": "1329-5635",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Mithril scimitar",
+        "monster_name": "Vampyre Juvinate (Level 90)"
+      }
+    },
+    {
+      "id": "1357-5635",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Adamant axe",
+        "monster_name": "Vampyre Juvinate (Level 90)"
+      }
+    },
+    {
+      "id": "1381-5635",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Staff of air",
+        "monster_name": "Vampyre Juvinate (Level 90)"
+      }
+    },
+    {
+      "id": "1387-5635",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Staff of fire",
+        "monster_name": "Vampyre Juvinate (Level 90)"
+      }
+    },
+    {
+      "id": "4580-5635",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Black spear (Unpoisoned)",
+        "monster_name": "Vampyre Juvinate (Level 90)"
+      }
+    },
+    {
+      "id": "1313-5635",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Black 2h sword",
+        "monster_name": "Vampyre Juvinate (Level 90)"
+      }
+    },
+    {
+      "id": "1315-5635",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Mithril 2h sword",
+        "monster_name": "Vampyre Juvinate (Level 90)"
+      }
+    },
+    {
+      "id": "1343-5635",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Mithril warhammer",
+        "monster_name": "Vampyre Juvinate (Level 90)"
+      }
+    },
+    {
+      "id": "1287-5635",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Adamant sword",
+        "monster_name": "Vampyre Juvinate (Level 90)"
+      }
+    },
+    {
+      "id": "1430-5635",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Adamant mace",
+        "monster_name": "Vampyre Juvinate (Level 90)"
+      }
+    },
+    {
+      "id": "2801-5635",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Clue scroll (medium)",
+        "monster_name": "Vampyre Juvinate (Level 90)"
+      }
+    },
+    {
+      "id": "1641-5635",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Ruby ring",
+        "monster_name": "Vampyre Juvinate (Level 90)"
+      }
+    },
+    {
+      "id": "1515-5635",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Yew logs",
+        "monster_name": "Vampyre Juvinate (Level 90)"
+      }
+    },
+    {
+      "id": "1519-5635",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Willow logs",
+        "monster_name": "Vampyre Juvinate (Level 90)"
+      }
+    },
+    {
+      "id": "560-5635",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Death rune (Regular)",
+        "monster_name": "Vampyre Juvinate (Level 90)"
+      }
+    },
+    {
+      "id": "561-5635",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Vampyre Juvinate (Level 90)"
+      }
+    },
+    {
+      "id": "1145-5635",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Adamant med helm",
+        "monster_name": "Vampyre Juvinate (Level 90)"
+      }
+    },
+    {
+      "id": "1181-5635",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Mithril sq shield",
+        "monster_name": "Vampyre Juvinate (Level 90)"
+      }
+    }
+  ]
+}

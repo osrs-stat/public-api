@@ -1,0 +1,676 @@
+{
+  "data": [
+    {
+      "id": "213-429",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.00946044921875"
+      },
+      "meta": {
+        "item_name": "Grimy kwuarm",
+        "monster_name": "Turoth (Level 85)"
+      }
+    },
+    {
+      "id": "215-429",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.007568359375"
+      },
+      "meta": {
+        "item_name": "Grimy cadantine",
+        "monster_name": "Turoth (Level 85)"
+      }
+    },
+    {
+      "id": "2485-429",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.00567582610733536"
+      },
+      "meta": {
+        "item_name": "Grimy lantadyme",
+        "monster_name": "Turoth (Level 85)"
+      }
+    },
+    {
+      "id": "217-429",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.00567582610733536"
+      },
+      "meta": {
+        "item_name": "Grimy dwarf weed",
+        "monster_name": "Turoth (Level 85)"
+      }
+    },
+    {
+      "id": "5296-429",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0277695497630332"
+      },
+      "meta": {
+        "item_name": "Toadflax seed",
+        "monster_name": "Turoth (Level 85)"
+      }
+    },
+    {
+      "id": "5297-429",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0189062920139823"
+      },
+      "meta": {
+        "item_name": "Irit seed",
+        "monster_name": "Turoth (Level 85)"
+      }
+    },
+    {
+      "id": "5281-429",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0183177022274326"
+      },
+      "meta": {
+        "item_name": "Belladonna seed",
+        "monster_name": "Turoth (Level 85)"
+      }
+    },
+    {
+      "id": "5298-429",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0129967652495379"
+      },
+      "meta": {
+        "item_name": "Avantoe seed",
+        "monster_name": "Turoth (Level 85)"
+      }
+    },
+    {
+      "id": "5106-429",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0129967652495379"
+      },
+      "meta": {
+        "item_name": "Poison ivy seed",
+        "monster_name": "Turoth (Level 85)"
+      }
+    },
+    {
+      "id": "5280-429",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0124117387466902"
+      },
+      "meta": {
+        "item_name": "Cactus seed",
+        "monster_name": "Turoth (Level 85)"
+      }
+    },
+    {
+      "id": "5299-429",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00886105860113422"
+      },
+      "meta": {
+        "item_name": "Kwuarm seed",
+        "monster_name": "Turoth (Level 85)"
+      }
+    },
+    {
+      "id": "22873-429",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00886105860113422"
+      },
+      "meta": {
+        "item_name": "Potato cactus seed",
+        "monster_name": "Turoth (Level 85)"
+      }
+    },
+    {
+      "id": "5300-429",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00590861344537815"
+      },
+      "meta": {
+        "item_name": "Snapdragon seed",
+        "monster_name": "Turoth (Level 85)"
+      }
+    },
+    {
+      "id": "5301-429",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00413602941176471"
+      },
+      "meta": {
+        "item_name": "Cadantine seed",
+        "monster_name": "Turoth (Level 85)"
+      }
+    },
+    {
+      "id": "5302-429",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00295430672268908"
+      },
+      "meta": {
+        "item_name": "Lantadyme seed",
+        "monster_name": "Turoth (Level 85)"
+      }
+    },
+    {
+      "id": "22879-429",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.00236344537815126"
+      },
+      "meta": {
+        "item_name": "Snape grass seed",
+        "monster_name": "Turoth (Level 85)"
+      }
+    },
+    {
+      "id": "5303-429",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00177265851506366"
+      },
+      "meta": {
+        "item_name": "Dwarf weed seed",
+        "monster_name": "Turoth (Level 85)"
+      }
+    },
+    {
+      "id": "5304-429",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00118172268907563"
+      },
+      "meta": {
+        "item_name": "Torstol seed",
+        "monster_name": "Turoth (Level 85)"
+      }
+    },
+    {
+      "id": "1355-429",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Mithril axe",
+        "monster_name": "Turoth (Level 85)"
+      }
+    },
+    {
+      "id": "1069-429",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0546875"
+      },
+      "meta": {
+        "item_name": "Steel platelegs",
+        "monster_name": "Turoth (Level 85)"
+      }
+    },
+    {
+      "id": "526-429",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Bones",
+        "monster_name": "Turoth (Level 85)"
+      }
+    },
+    {
+      "id": "1197-429",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Mithril kiteshield",
+        "monster_name": "Turoth (Level 85)"
+      }
+    },
+    {
+      "id": "1161-429",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Adamant full helm",
+        "monster_name": "Turoth (Level 85)"
+      }
+    },
+    {
+      "id": "1213-429",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Rune dagger (Unpoisoned)",
+        "monster_name": "Turoth (Level 85)"
+      }
+    },
+    {
+      "id": "199-429",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.060546875"
+      },
+      "meta": {
+        "item_name": "Grimy guam leaf",
+        "monster_name": "Turoth (Level 85)"
+      }
+    },
+    {
+      "id": "203-429",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.0340581493460835"
+      },
+      "meta": {
+        "item_name": "Grimy tarromin",
+        "monster_name": "Turoth (Level 85)"
+      }
+    },
+    {
+      "id": "205-429",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.0264888439243137"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Turoth (Level 85)"
+      }
+    },
+    {
+      "id": "207-429",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.0208064862542955"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Turoth (Level 85)"
+      }
+    },
+    {
+      "id": "209-429",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.01513671875"
+      },
+      "meta": {
+        "item_name": "Grimy irit leaf",
+        "monster_name": "Turoth (Level 85)"
+      }
+    },
+    {
+      "id": "211-429",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.0113543131739334"
+      },
+      "meta": {
+        "item_name": "Grimy avantoe",
+        "monster_name": "Turoth (Level 85)"
+      }
+    },
+    {
+      "id": "201-429",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.0454129945621601"
+      },
+      "meta": {
+        "item_name": "Grimy marrentill",
+        "monster_name": "Turoth (Level 85)"
+      }
+    },
+    {
+      "id": "11902-429",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.002"
+      },
+      "meta": {
+        "item_name": "Leaf-bladed sword",
+        "monster_name": "Turoth (Level 85)"
+      }
+    },
+    {
+      "id": "4113-429",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.001953125"
+      },
+      "meta": {
+        "item_name": "Mystic robe bottom (light)",
+        "monster_name": "Turoth (Level 85)"
+      }
+    },
+    {
+      "id": "563-429",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.046875"
+      },
+      "meta": {
+        "item_name": "Law rune",
+        "monster_name": "Turoth (Level 85)"
+      }
+    },
+    {
+      "id": "561-429",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 15,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Turoth (Level 85)"
+      }
+    },
+    {
+      "id": "561-429",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 37,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Turoth (Level 85)"
+      }
+    },
+    {
+      "id": "225-429",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0546875"
+      },
+      "meta": {
+        "item_name": "Limpwurt root",
+        "monster_name": "Turoth (Level 85)"
+      }
+    },
+    {
+      "id": "2722-429",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Clue scroll (hard)",
+        "monster_name": "Turoth (Level 85)"
+      }
+    },
+    {
+      "id": "23083-429",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00792141951837769"
+      },
+      "meta": {
+        "item_name": "Brimstone key",
+        "monster_name": "Turoth (Level 85)"
+      }
+    },
+    {
+      "id": "995-429",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 440,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Turoth (Level 85)"
+      }
+    },
+    {
+      "id": "995-429",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 44,
+        "quantity_max": null,
+        "rarity": "0.2265625"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Turoth (Level 85)"
+      }
+    },
+    {
+      "id": "995-429",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 132,
+        "quantity_max": null,
+        "rarity": "0.09375"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Turoth (Level 85)"
+      }
+    }
+  ]
+}

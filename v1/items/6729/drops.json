@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "id": "6729-2265",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Dagannoth bones",
+        "monster_name": "Dagannoth Supreme"
+      }
+    },
+    {
+      "id": "6729-2266",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Dagannoth bones",
+        "monster_name": "Dagannoth Prime"
+      }
+    },
+    {
+      "id": "6729-2267",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Dagannoth bones",
+        "monster_name": "Dagannoth Rex"
+      }
+    }
+  ]
+}

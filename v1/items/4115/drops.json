@@ -1,0 +1,100 @@
+{
+  "data": [
+    {
+      "id": "4115-459",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.001953125"
+      },
+      "meta": {
+        "item_name": "Mystic gloves (light)",
+        "monster_name": "Desert Lizard"
+      }
+    },
+    {
+      "id": "4115-458",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.001953125"
+      },
+      "meta": {
+        "item_name": "Mystic gloves (light)",
+        "monster_name": "Lizard"
+      }
+    },
+    {
+      "id": "4115-421",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.001953125"
+      },
+      "meta": {
+        "item_name": "Mystic gloves (light)",
+        "monster_name": "Rockslug"
+      }
+    },
+    {
+      "id": "4115-7392",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.001953125"
+      },
+      "meta": {
+        "item_name": "Mystic gloves (light)",
+        "monster_name": "Giant rockslug"
+      }
+    },
+    {
+      "id": "4115-8614",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.001953125"
+      },
+      "meta": {
+        "item_name": "Mystic gloves (light)",
+        "monster_name": "Sulphur Lizard"
+      }
+    },
+    {
+      "id": "4115-462",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.001953125"
+      },
+      "meta": {
+        "item_name": "Mystic gloves (light)",
+        "monster_name": "Small Lizard"
+      }
+    }
+  ]
+}

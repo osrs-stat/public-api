@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "id": "11929-6618",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00390625"
+      },
+      "meta": {
+        "item_name": "Odium shard 2",
+        "monster_name": "Crazy archaeologist"
+      }
+    },
+    {
+      "id": "11929-6618",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Odium shard 2",
+        "monster_name": "Crazy archaeologist"
+      }
+    }
+  ]
+}

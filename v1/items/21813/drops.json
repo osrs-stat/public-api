@@ -1,0 +1,180 @@
+{
+  "data": [
+    {
+      "id": "21813-7940",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0005"
+      },
+      "meta": {
+        "item_name": "Ancient statuette",
+        "monster_name": "Revenant dragon"
+      }
+    },
+    {
+      "id": "21813-7931",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000136425648021828"
+      },
+      "meta": {
+        "item_name": "Ancient statuette",
+        "monster_name": "Revenant goblin"
+      }
+    },
+    {
+      "id": "21813-7881",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0000909090909090909"
+      },
+      "meta": {
+        "item_name": "Ancient statuette",
+        "monster_name": "Revenant imp"
+      }
+    },
+    {
+      "id": "21813-7939",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0005"
+      },
+      "meta": {
+        "item_name": "Ancient statuette",
+        "monster_name": "Revenant knight"
+      }
+    },
+    {
+      "id": "21813-7936",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00040983606557377"
+      },
+      "meta": {
+        "item_name": "Ancient statuette",
+        "monster_name": "Revenant demon"
+      }
+    },
+    {
+      "id": "21813-7935",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00040983606557377"
+      },
+      "meta": {
+        "item_name": "Ancient statuette",
+        "monster_name": "Revenant hellhound"
+      }
+    },
+    {
+      "id": "21813-7934",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00040983606557377"
+      },
+      "meta": {
+        "item_name": "Ancient statuette",
+        "monster_name": "Revenant cyclops"
+      }
+    },
+    {
+      "id": "21813-7933",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000318471337579618"
+      },
+      "meta": {
+        "item_name": "Ancient statuette",
+        "monster_name": "Revenant hobgoblin"
+      }
+    },
+    {
+      "id": "21813-7932",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000318471337579618"
+      },
+      "meta": {
+        "item_name": "Ancient statuette",
+        "monster_name": "Revenant pyrefiend"
+      }
+    },
+    {
+      "id": "21813-7938",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000454545454545455"
+      },
+      "meta": {
+        "item_name": "Ancient statuette",
+        "monster_name": "Revenant dark beast"
+      }
+    },
+    {
+      "id": "21813-7937",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000454545454545455"
+      },
+      "meta": {
+        "item_name": "Ancient statuette",
+        "monster_name": "Revenant ork"
+      }
+    }
+  ]
+}

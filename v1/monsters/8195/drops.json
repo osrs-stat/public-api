@@ -1,0 +1,708 @@
+{
+  "data": [
+    {
+      "id": "564-8195",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 100,
+        "quantity_max": null,
+        "rarity": "0.0508474576271186"
+      },
+      "meta": {
+        "item_name": "Cosmic rune",
+        "monster_name": "Bryophyta"
+      }
+    },
+    {
+      "id": "1163-8195",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0169491525423729"
+      },
+      "meta": {
+        "item_name": "Rune full helm",
+        "monster_name": "Bryophyta"
+      }
+    },
+    {
+      "id": "1391-8195",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.0254237288135593"
+      },
+      "meta": {
+        "item_name": "Battlestaff",
+        "monster_name": "Bryophyta"
+      }
+    },
+    {
+      "id": "211-8195",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00198653921031093"
+      },
+      "meta": {
+        "item_name": "Grimy avantoe",
+        "monster_name": "Bryophyta"
+      }
+    },
+    {
+      "id": "1199-8195",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.00847457627118644"
+      },
+      "meta": {
+        "item_name": "Adamant kiteshield",
+        "monster_name": "Bryophyta"
+      }
+    },
+    {
+      "id": "1185-8195",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0508474576271186"
+      },
+      "meta": {
+        "item_name": "Rune sq shield",
+        "monster_name": "Bryophyta"
+      }
+    },
+    {
+      "id": "1079-8195",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0508474576271186"
+      },
+      "meta": {
+        "item_name": "Rune platelegs",
+        "monster_name": "Bryophyta"
+      }
+    },
+    {
+      "id": "1093-8195",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0508474576271186"
+      },
+      "meta": {
+        "item_name": "Rune plateskirt",
+        "monster_name": "Bryophyta"
+      }
+    },
+    {
+      "id": "1113-8195",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0508474576271186"
+      },
+      "meta": {
+        "item_name": "Rune chainbody",
+        "monster_name": "Bryophyta"
+      }
+    },
+    {
+      "id": "1147-8195",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0254237288135593"
+      },
+      "meta": {
+        "item_name": "Rune med helm",
+        "monster_name": "Bryophyta"
+      }
+    },
+    {
+      "id": "1147-8195",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.0508474576271186"
+      },
+      "meta": {
+        "item_name": "Rune med helm",
+        "monster_name": "Bryophyta"
+      }
+    },
+    {
+      "id": "1289-8195",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.0423728813559322"
+      },
+      "meta": {
+        "item_name": "Rune sword",
+        "monster_name": "Bryophyta"
+      }
+    },
+    {
+      "id": "1303-8195",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0508474576271186"
+      },
+      "meta": {
+        "item_name": "Rune longsword",
+        "monster_name": "Bryophyta"
+      }
+    },
+    {
+      "id": "23182-8195",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Clue scroll (beginner)",
+        "monster_name": "Bryophyta"
+      }
+    },
+    {
+      "id": "532-8195",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Big bones",
+        "monster_name": "Bryophyta"
+      }
+    },
+    {
+      "id": "1123-8195",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.0254237288135593"
+      },
+      "meta": {
+        "item_name": "Adamant platebody",
+        "monster_name": "Bryophyta"
+      }
+    },
+    {
+      "id": "209-8195",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00264830508474576"
+      },
+      "meta": {
+        "item_name": "Grimy irit leaf",
+        "monster_name": "Bryophyta"
+      }
+    },
+    {
+      "id": "213-8195",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0016551906779661"
+      },
+      "meta": {
+        "item_name": "Grimy kwuarm",
+        "monster_name": "Bryophyta"
+      }
+    },
+    {
+      "id": "215-8195",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00132415254237288"
+      },
+      "meta": {
+        "item_name": "Grimy cadantine",
+        "monster_name": "Bryophyta"
+      }
+    },
+    {
+      "id": "207-8195",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0036402819034306"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Bryophyta"
+      }
+    },
+    {
+      "id": "205-8195",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00463446148484438"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Bryophyta"
+      }
+    },
+    {
+      "id": "995-8195",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 8000,
+        "quantity_max": null,
+        "rarity": "0.0169491525423729"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Bryophyta"
+      }
+    },
+    {
+      "id": "995-8195",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10000,
+        "quantity_max": null,
+        "rarity": "0.0423728813559322"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Bryophyta"
+      }
+    },
+    {
+      "id": "2485-8195",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000993036825777647"
+      },
+      "meta": {
+        "item_name": "Grimy lantadyme",
+        "monster_name": "Bryophyta"
+      }
+    },
+    {
+      "id": "217-8195",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000993036825777647"
+      },
+      "meta": {
+        "item_name": "Grimy dwarf weed",
+        "monster_name": "Bryophyta"
+      }
+    },
+    {
+      "id": "203-8195",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00595877954660838"
+      },
+      "meta": {
+        "item_name": "Grimy tarromin",
+        "monster_name": "Bryophyta"
+      }
+    },
+    {
+      "id": "201-8195",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00794541184247744"
+      },
+      "meta": {
+        "item_name": "Grimy marrentill",
+        "monster_name": "Bryophyta"
+      }
+    },
+    {
+      "id": "199-8195",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0105932203389831"
+      },
+      "meta": {
+        "item_name": "Grimy guam leaf",
+        "monster_name": "Bryophyta"
+      }
+    },
+    {
+      "id": "10977-8195",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000199501246882793"
+      },
+      "meta": {
+        "item_name": "Curved bone",
+        "monster_name": "Bryophyta"
+      }
+    },
+    {
+      "id": "6800-8195",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0002"
+      },
+      "meta": {
+        "item_name": "Giant champion scroll",
+        "monster_name": "Bryophyta"
+      }
+    },
+    {
+      "id": "10976-8195",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0025"
+      },
+      "meta": {
+        "item_name": "Long bone",
+        "monster_name": "Bryophyta"
+      }
+    },
+    {
+      "id": "22374-8195",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0625"
+      },
+      "meta": {
+        "item_name": "Mossy key",
+        "monster_name": "Bryophyta"
+      }
+    },
+    {
+      "id": "22372-8195",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00847457627118644"
+      },
+      "meta": {
+        "item_name": "Bryophyta's essence",
+        "monster_name": "Bryophyta"
+      }
+    },
+    {
+      "id": "113-8195",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 15,
+        "quantity_max": null,
+        "rarity": "0.0423728813559322"
+      },
+      "meta": {
+        "item_name": "Strength potion (4 dose)",
+        "monster_name": "Bryophyta"
+      }
+    },
+    {
+      "id": "1617-8195",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.0338983050847458"
+      },
+      "meta": {
+        "item_name": "Uncut diamond",
+        "monster_name": "Bryophyta"
+      }
+    },
+    {
+      "id": "1619-8195",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.0338983050847458"
+      },
+      "meta": {
+        "item_name": "Uncut ruby",
+        "monster_name": "Bryophyta"
+      }
+    },
+    {
+      "id": "2363-8195",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.0508474576271186"
+      },
+      "meta": {
+        "item_name": "Runite bar",
+        "monster_name": "Bryophyta"
+      }
+    },
+    {
+      "id": "2353-8195",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 25,
+        "quantity_max": null,
+        "rarity": "0.0254237288135593"
+      },
+      "meta": {
+        "item_name": "Steel bar",
+        "monster_name": "Bryophyta"
+      }
+    },
+    {
+      "id": "890-8195",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 100,
+        "quantity_max": null,
+        "rarity": "0.00847457627118644"
+      },
+      "meta": {
+        "item_name": "Adamant arrow (Unpoisoned)",
+        "monster_name": "Bryophyta"
+      }
+    },
+    {
+      "id": "565-8195",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 100,
+        "quantity_max": null,
+        "rarity": "0.00847457627118644"
+      },
+      "meta": {
+        "item_name": "Blood rune (Regular)",
+        "monster_name": "Bryophyta"
+      }
+    },
+    {
+      "id": "562-8195",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 100,
+        "quantity_max": null,
+        "rarity": "0.0508474576271186"
+      },
+      "meta": {
+        "item_name": "Chaos rune (Regular)",
+        "monster_name": "Bryophyta"
+      }
+    },
+    {
+      "id": "560-8195",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 100,
+        "quantity_max": null,
+        "rarity": "0.0423728813559322"
+      },
+      "meta": {
+        "item_name": "Death rune (Regular)",
+        "monster_name": "Bryophyta"
+      }
+    },
+    {
+      "id": "561-8195",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 100,
+        "quantity_max": null,
+        "rarity": "0.0677966101694915"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Bryophyta"
+      }
+    },
+    {
+      "id": "563-8195",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 100,
+        "quantity_max": null,
+        "rarity": "0.0508474576271186"
+      },
+      "meta": {
+        "item_name": "Law rune",
+        "monster_name": "Bryophyta"
+      }
+    }
+  ]
+}

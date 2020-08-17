@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "id": "4091-319",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03515625"
+      },
+      "meta": {
+        "item_name": "Mystic robe top",
+        "monster_name": "Corporeal Beast"
+      }
+    },
+    {
+      "id": "4091-494",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Mystic robe top",
+        "monster_name": "Kraken (Kraken)"
+      }
+    }
+  ]
+}

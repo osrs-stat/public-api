@@ -1,0 +1,117 @@
+{
+  "data": {
+    "id": "2207",
+    "type": "monster",
+    "attributes": {
+      "uuid": "2edc7c2f-44cf-4036-b005-05e8ef7d2650",
+      "name": "Growler",
+      "members": true,
+      "release_date": "2013-10-17",
+      "examine": "Defender of the faithful.",
+      "combat_level_override": null,
+      "max_hit_override": null,
+      "target_types": [
+
+      ],
+      "classification_types": [
+
+      ],
+      "poison": false,
+      "immune_poison": false,
+      "immune_venom": false,
+      "slayer_xp": null,
+      "slayer_level": null,
+      "slayer_masters": [
+
+      ],
+      "icon_base64": null
+    },
+    "relationships": {
+      "combat_stat": {
+        "data": {
+          "id": "1ea6b975-d7ef-437a-923b-034420eebb13",
+          "type": "combat_stat"
+        }
+      },
+      "equip_stat": {
+        "data": {
+          "id": "3ccc64e5-e417-42dd-9709-0b202846f08c",
+          "type": "equip_stat"
+        }
+      },
+      "attack_stat": {
+        "data": {
+          "id": "b6a3078c-227f-4eba-9111-fff1b70fe094",
+          "type": "attack_stat"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Growler"
+    },
+    "meta": {
+      "incomplete": true
+    }
+  },
+  "included": [
+    {
+      "id": "b6a3078c-227f-4eba-9111-fff1b70fe094",
+      "type": "attack_stat",
+      "attributes": {
+        "attack_speed": 5,
+        "attack_type": "monster",
+        "special": null,
+        "stances": [
+          {
+            "name": "Monster magic",
+            "style": null,
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": null,
+            "combat_accuracy_stat": "magic_level",
+            "combat_damage_stat": "magic_level",
+            "equip_accuracy_stat": "magic_attack",
+            "equip_damage_stat": "magic_attack",
+            "target_equip_defense_stat": "magic_defense"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1ea6b975-d7ef-437a-923b-034420eebb13",
+      "type": "monster_combat_stat",
+      "attributes": {
+        "hitpoints_level": 146,
+        "attack_level": 100,
+        "strength_level": 101,
+        "defense_level": 120,
+        "magic_level": 150,
+        "ranged_level": 1,
+        "prayer_level": 0
+      }
+    },
+    {
+      "id": "3ccc64e5-e417-42dd-9709-0b202846f08c",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 10,
+        "slash_attack": 10,
+        "crush_attack": 10,
+        "ranged_attack": 0,
+        "magic_attack": 0,
+        "stab_defense": 12,
+        "slash_defense": 14,
+        "crush_defense": 14,
+        "ranged_defense": 5,
+        "magic_defense": 18,
+        "melee_strength": 7,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

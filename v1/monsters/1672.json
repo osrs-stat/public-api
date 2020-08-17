@@ -1,0 +1,119 @@
+{
+  "data": {
+    "id": "1672",
+    "type": "monster",
+    "attributes": {
+      "uuid": "8c851b34-22cb-46d5-ab19-b68bdee3ebe4",
+      "name": "Ahrim the Blighted",
+      "members": true,
+      "release_date": "2005-05-09",
+      "examine": "A vengeful spirit corrupted by dark magic.",
+      "combat_level_override": null,
+      "max_hit_override": 20,
+      "target_types": [
+
+      ],
+      "classification_types": [
+        "boss"
+      ],
+      "poison": false,
+      "immune_poison": false,
+      "immune_venom": false,
+      "slayer_xp": 102.5,
+      "slayer_level": 1,
+      "slayer_masters": [
+        "konar",
+        "nieve",
+        "duradel"
+      ],
+      "icon_base64": null
+    },
+    "relationships": {
+      "combat_stat": {
+        "data": {
+          "id": "b937d9a9-8b93-4376-814a-7f490f55caee",
+          "type": "combat_stat"
+        }
+      },
+      "equip_stat": {
+        "data": {
+          "id": "b287ea69-2a30-453d-9683-65fc23e25bf3",
+          "type": "equip_stat"
+        }
+      },
+      "attack_stat": {
+        "data": {
+          "id": "7e34bb5f-093e-42f2-96c8-6419872fba69",
+          "type": "attack_stat"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Ahrim_the_Blighted"
+    },
+    "meta": {
+      "incomplete": true
+    }
+  },
+  "included": [
+    {
+      "id": "7e34bb5f-093e-42f2-96c8-6419872fba69",
+      "type": "attack_stat",
+      "attributes": {
+        "attack_speed": 6,
+        "attack_type": "monster",
+        "special": null,
+        "stances": [
+          {
+            "name": "Monster magic",
+            "style": null,
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": null,
+            "combat_accuracy_stat": "magic_level",
+            "combat_damage_stat": "magic_level",
+            "equip_accuracy_stat": "magic_attack",
+            "equip_damage_stat": "magic_attack",
+            "target_equip_defense_stat": "magic_defense"
+          }
+        ]
+      }
+    },
+    {
+      "id": "b937d9a9-8b93-4376-814a-7f490f55caee",
+      "type": "monster_combat_stat",
+      "attributes": {
+        "hitpoints_level": 100,
+        "attack_level": 1,
+        "strength_level": 1,
+        "defense_level": 100,
+        "magic_level": 100,
+        "ranged_level": 1,
+        "prayer_level": 0
+      }
+    },
+    {
+      "id": "b287ea69-2a30-453d-9683-65fc23e25bf3",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 0,
+        "slash_attack": 0,
+        "crush_attack": 0,
+        "ranged_attack": -19,
+        "magic_attack": 73,
+        "stab_defense": 103,
+        "slash_defense": 85,
+        "crush_defense": 117,
+        "ranged_defense": 0,
+        "magic_defense": 73,
+        "melee_strength": 68,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

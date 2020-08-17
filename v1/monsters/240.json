@@ -1,0 +1,121 @@
+{
+  "data": {
+    "id": "240",
+    "type": "monster",
+    "attributes": {
+      "uuid": "5e4a322e-3622-4506-b8fa-c813c73beb12",
+      "name": "Black demon (Level 172)",
+      "members": true,
+      "release_date": "2002-02-27",
+      "examine": "A big, scary, jet-black demon.",
+      "combat_level_override": null,
+      "max_hit_override": 18,
+      "target_types": [
+        "demon"
+      ],
+      "classification_types": [
+        "black demon"
+      ],
+      "poison": false,
+      "immune_poison": false,
+      "immune_venom": false,
+      "slayer_xp": 157.0,
+      "slayer_level": 1,
+      "slayer_masters": [
+        "krystilia",
+        "chaeldar",
+        "konar",
+        "nieve",
+        "duradel"
+      ],
+      "icon_base64": null
+    },
+    "relationships": {
+      "combat_stat": {
+        "data": {
+          "id": "b8381d7f-575e-4c8d-8a12-2ca38e06caf8",
+          "type": "combat_stat"
+        }
+      },
+      "equip_stat": {
+        "data": {
+          "id": "2c7ca0af-d749-4b31-945d-4c24dc1b8994",
+          "type": "equip_stat"
+        }
+      },
+      "attack_stat": {
+        "data": {
+          "id": "0889cc5d-53c5-49ef-acef-c2f3475d0a72",
+          "type": "attack_stat"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Black_demon#Level_172"
+    },
+    "meta": {
+      "incomplete": true
+    }
+  },
+  "included": [
+    {
+      "id": "0889cc5d-53c5-49ef-acef-c2f3475d0a72",
+      "type": "attack_stat",
+      "attributes": {
+        "attack_speed": 4,
+        "attack_type": "monster",
+        "special": null,
+        "stances": [
+          {
+            "name": "Monster slash",
+            "style": null,
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": null,
+            "combat_accuracy_stat": "attack_level",
+            "combat_damage_stat": "strength_level",
+            "equip_accuracy_stat": "slash_attack",
+            "equip_damage_stat": "slash_attack",
+            "target_equip_defense_stat": "slash_defense"
+          }
+        ]
+      }
+    },
+    {
+      "id": "b8381d7f-575e-4c8d-8a12-2ca38e06caf8",
+      "type": "monster_combat_stat",
+      "attributes": {
+        "hitpoints_level": 157,
+        "attack_level": 145,
+        "strength_level": 152,
+        "defense_level": 148,
+        "magic_level": 1,
+        "ranged_level": 1,
+        "prayer_level": 0
+      }
+    },
+    {
+      "id": "2c7ca0af-d749-4b31-945d-4c24dc1b8994",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 0,
+        "slash_attack": 0,
+        "crush_attack": 0,
+        "ranged_attack": 0,
+        "magic_attack": 0,
+        "stab_defense": 0,
+        "slash_defense": 0,
+        "crush_defense": 0,
+        "ranged_defense": 0,
+        "magic_defense": -10,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

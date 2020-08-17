@@ -1,0 +1,117 @@
+{
+  "data": {
+    "id": "9047",
+    "type": "monster",
+    "attributes": {
+      "uuid": "89ac7273-2350-416c-a922-0cd73bcb031d",
+      "name": "Corrupted Dragon",
+      "members": true,
+      "release_date": "2019-07-25",
+      "examine": "Whatever it breathes, I don’t want to get in the way of it.",
+      "combat_level_override": 258,
+      "max_hit_override": null,
+      "target_types": [
+
+      ],
+      "classification_types": [
+
+      ],
+      "poison": false,
+      "immune_poison": false,
+      "immune_venom": false,
+      "slayer_xp": null,
+      "slayer_level": null,
+      "slayer_masters": [
+
+      ],
+      "icon_base64": null
+    },
+    "relationships": {
+      "combat_stat": {
+        "data": {
+          "id": "b043da81-a40c-4b4d-a402-568e5d3fb014",
+          "type": "combat_stat"
+        }
+      },
+      "equip_stat": {
+        "data": {
+          "id": "7005fc9a-78dd-460e-a4d0-a967919e1529",
+          "type": "equip_stat"
+        }
+      },
+      "attack_stat": {
+        "data": {
+          "id": "31c5151c-e16f-43e0-bfa3-e29210a58ccb",
+          "type": "attack_stat"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Corrupted_Dragon"
+    },
+    "meta": {
+      "incomplete": true
+    }
+  },
+  "included": [
+    {
+      "id": "31c5151c-e16f-43e0-bfa3-e29210a58ccb",
+      "type": "attack_stat",
+      "attributes": {
+        "attack_speed": 4,
+        "attack_type": "monster",
+        "special": null,
+        "stances": [
+          {
+            "name": "Monster magic",
+            "style": null,
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": null,
+            "combat_accuracy_stat": "magic_level",
+            "combat_damage_stat": "magic_level",
+            "equip_accuracy_stat": "magic_attack",
+            "equip_damage_stat": "magic_attack",
+            "target_equip_defense_stat": "magic_defense"
+          }
+        ]
+      }
+    },
+    {
+      "id": "b043da81-a40c-4b4d-a402-568e5d3fb014",
+      "type": "monster_combat_stat",
+      "attributes": {
+        "hitpoints_level": 100,
+        "attack_level": 147,
+        "strength_level": 147,
+        "defense_level": 98,
+        "magic_level": 98,
+        "ranged_level": 147,
+        "prayer_level": 0
+      }
+    },
+    {
+      "id": "7005fc9a-78dd-460e-a4d0-a967919e1529",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 0,
+        "slash_attack": 0,
+        "crush_attack": 0,
+        "ranged_attack": 0,
+        "magic_attack": 146,
+        "stab_defense": 0,
+        "slash_defense": 0,
+        "crush_defense": 0,
+        "ranged_defense": 0,
+        "magic_defense": 0,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_bonus": 226,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

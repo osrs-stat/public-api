@@ -1,0 +1,73 @@
+{
+  "data": {
+    "id": "577",
+    "type": "item",
+    "attributes": {
+      "uuid": "7bc89f27-c92f-422e-a9cc-360f3a84caf5",
+      "name": "Blue wizard robe",
+      "members": false,
+      "release_date": "2001-01-21",
+      "examine": "I can do magic better in this.",
+      "tradeable": false,
+      "ge_tradeable": false,
+      "lowalch": 6,
+      "highalch": 9,
+      "is_equip": true,
+      "is_weapon": false,
+      "icon_base64": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACGklEQVR4Xu2WMUsDQRCFN+UVKexshGCRwiKIkEIICAEhSBACEoQ0KdKkECwsLCwsBAsrO//tuu9uZm929i65bBJBuIEhyd3t7LfvvRONaautP6uO3a2PVsUG2fXcZsOZzQYTay7G0W9z2rfmbGDN+dCa/ugYYAQyXtnsZln0aFFA8G8JxSBoAOIT1w4D1rHdu2fbnTzZ7HZdQFW1hoJy7tOrxlBQLh3KwUxfPJCHqmup3NW0bAlFQJe9XgqUA7p/DaCwMcNFkFAKQFAKIABjOEAJ6/YDUlB5y+/STmkdWgeeQp4ONHsrgRhKt4SStgFGWshQewE9vMdQVXAMJVUCDFtYAaV321IEI+1y7YNeBaZV4pbZcmCJKpFd2FBYEuVKQsksAYCUCkABBZWSgdxGMrABkAbTKmENgOhefh2gyUDYTA5ywz0ot34L5QHQziJ+zs9xWUoDIru8BfBfA+nAs0pYAwDaPH8G16GcyJHetabC/LD3xQB3b/5RBF6+gQrK/7FkIDzr7iXapvJDbw0DnSy+QiANJbNEG+eH4Jlk5W5AMj+UBw+0/C42YKWqrCPb2Br/rMhSOhC1B1r9hEBV1pESEZBUycdgY5V+81vDFpQncs88fm6FkqoGQCLgDVQSgVYdLuZ/tja3P4AGooA3B9Jhda0X43uTrgOC8npmTcUn5YUNFtdUPG+nmfqUjRduKD3rEDPbautf1S82y0/j5vG9iAAAAABJRU5ErkJggg=="
+    },
+    "relationships": {
+      "equip": {
+        "data": {
+          "id": "7be1a203-cc9b-40fd-ae92-fa9e1146d9cc",
+          "type": "equip"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Blue_wizard_robe"
+    },
+    "meta": {
+      "incomplete": false
+    }
+  },
+  "included": [
+    {
+      "id": "7be1a203-cc9b-40fd-ae92-fa9e1146d9cc",
+      "type": "equip",
+      "attributes": {
+        "slot": "body",
+        "passive_effect": null,
+        "requirements": null
+      },
+      "relationships": {
+        "equip_stat": {
+          "data": {
+            "id": "09a4f730-f894-49e6-9cd8-4bb9bb412221",
+            "type": "equip_stat"
+          }
+        }
+      }
+    },
+    {
+      "id": "09a4f730-f894-49e6-9cd8-4bb9bb412221",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 0,
+        "slash_attack": 0,
+        "crush_attack": 0,
+        "ranged_attack": 0,
+        "magic_attack": 3,
+        "stab_defense": 0,
+        "slash_defense": 0,
+        "crush_defense": 0,
+        "ranged_defense": 0,
+        "magic_defense": 3,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

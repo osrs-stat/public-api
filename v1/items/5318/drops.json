@@ -1,0 +1,100 @@
+{
+  "data": [
+    {
+      "id": "5318-6604",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.046875"
+      },
+      "meta": {
+        "item_name": "Potato seed",
+        "monster_name": "Mammoth"
+      }
+    },
+    {
+      "id": "5318-537",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 4,
+        "quantity_max": null,
+        "rarity": "0.00714285714285714"
+      },
+      "meta": {
+        "item_name": "Potato seed",
+        "monster_name": "https://oldschool.runescape.wiki/w/Zygomite#Level_74"
+      }
+    },
+    {
+      "id": "5318-3114",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Potato seed",
+        "monster_name": "Farmer"
+      }
+    },
+    {
+      "id": "5318-1024",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 4,
+        "quantity_max": null,
+        "rarity": "0.00714285714285714"
+      },
+      "meta": {
+        "item_name": "Potato seed",
+        "monster_name": "https://oldschool.runescape.wiki/w/Zygomite#Level_86"
+      }
+    },
+    {
+      "id": "5318-1024",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 4,
+        "quantity_max": null,
+        "rarity": "0.0072992700729927"
+      },
+      "meta": {
+        "item_name": "Potato seed",
+        "monster_name": "https://oldschool.runescape.wiki/w/Zygomite#Level_86"
+      }
+    },
+    {
+      "id": "5318-537",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 4,
+        "quantity_max": null,
+        "rarity": "0.0072992700729927"
+      },
+      "meta": {
+        "item_name": "Potato seed",
+        "monster_name": "https://oldschool.runescape.wiki/w/Zygomite#Level_74"
+      }
+    }
+  ]
+}

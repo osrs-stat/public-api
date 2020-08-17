@@ -1,0 +1,116 @@
+{
+  "data": [
+    {
+      "id": "11902-428",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.002"
+      },
+      "meta": {
+        "item_name": "Leaf-bladed sword",
+        "monster_name": "Turoth (Level 87)"
+      }
+    },
+    {
+      "id": "11902-10397",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.002"
+      },
+      "meta": {
+        "item_name": "Leaf-bladed sword",
+        "monster_name": "Spiked Turoth"
+      }
+    },
+    {
+      "id": "11902-7405",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00260416666666667"
+      },
+      "meta": {
+        "item_name": "Leaf-bladed sword",
+        "monster_name": "King kurask"
+      }
+    },
+    {
+      "id": "11902-430",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.002"
+      },
+      "meta": {
+        "item_name": "Leaf-bladed sword",
+        "monster_name": "Turoth (Level 83)"
+      }
+    },
+    {
+      "id": "11902-429",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.002"
+      },
+      "meta": {
+        "item_name": "Leaf-bladed sword",
+        "monster_name": "Turoth (Level 85)"
+      }
+    },
+    {
+      "id": "11902-427",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.002"
+      },
+      "meta": {
+        "item_name": "Leaf-bladed sword",
+        "monster_name": "Turoth (Level 89)"
+      }
+    },
+    {
+      "id": "11902-410",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00260416666666667"
+      },
+      "meta": {
+        "item_name": "Leaf-bladed sword",
+        "monster_name": "Kurask"
+      }
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "data": {
+    "id": "87",
+    "type": "item",
+    "attributes": {
+      "uuid": "7d591da0-370d-43b1-a59b-fb54591b0eb2",
+      "name": "Armadyl pendant",
+      "members": true,
+      "release_date": "2002-06-17",
+      "examine": "Worn by followers of Armadyl.",
+      "tradeable": false,
+      "ge_tradeable": false,
+      "lowalch": 4,
+      "highalch": 7,
+      "is_equip": true,
+      "is_weapon": false,
+      "icon_base64": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC70lEQVR4Xu2Wz2sTQRTHM8cecsghsCwsLCEHCUWKVILBUDFUmmIDDYZImhZL7UHwIHioIHgolira5pJArYeoBC8eBPEmHlQEoXgQfyCIIoIXEcG/4LnfmUwyO0nb3c0PEfzCkE0y++bzvvPm7YZC/54Y+R8DE6MzGWPfUUxHKZeMUHY8QpNjkUEBCpjysShfEJ/4fvaEQeeyJp0/adKFnEkrBYtf43c5N58aCCBrLbIXzJWSTZeLFr/Gb/hfTUSHawP6EmtljaA6zMVZi0MAZm0hRqtluwWGATDMw3zcJwEBd+RAmAON2bYfKAGEQMgOQTttb4+bSzG6thjrgAO4hEMsuDMeH/ELxHggZAd3pMUIsNuQYJXleFc4AMEdwMTNAEDISrozMerNYhVMhUNtSXdG7RGyoiFP8Zpi3GrVHdUhfXY36a6p7qgwHuMxnhGA9AL0GECTaB1ISt0qH7EEEIoYxxQW+3HHLbH13dzRZ+4hUdDICrUTMEhToo8hsQBbJdXOqrftEnFQh+ox9x/HuRH1g6wC9AtFwh2c0t5cdm7MHnRqxynA4PUj3EFn1nuYPtODGOUOOe7YgRpYU8JlbFfwpFpiVEw69RMPc5f8BxO9By5P9FSDLTHe6hEMLnkHcoP46fD7iPHnEAKrLumz2nKD4B4J04ftkhJ1pLq025Ag0hWcTumMhOkLUP5w1OXSaCJB9+5EaHMjQpdWwnQ8nabJhNsVFUaC9AEGEg/YUzMzNDs9TbnsFD1+FKWtzQ0OdOO6s3Aq5XKlG4wetQeJFy5APH1i0MsXBjVubVG9WqXtSoXDHE0mXa+lA4SBGL3eMej5M4N2Xhn0sNGgB/U63b+9TXdrNbq6GubbNiQYiNHPHxa9fWPSxw8mff1i0vdvJr1/Z3K34Nz6WnhYMFLilCyV52ixVKK5QoF+/7Lo8yeTu1arDhVGitHywjyHmi8W6XQ+z4t8KpPhp27IMFKdvUeOvwAjJBfuNvS5/zUM/QG7+dqXSmi8EQAAAABJRU5ErkJggg=="
+    },
+    "relationships": {
+      "equip": {
+        "data": {
+          "id": "287fdf50-6959-4310-8f23-d705ed21ce3a",
+          "type": "equip"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Armadyl_pendant"
+    },
+    "meta": {
+      "incomplete": false
+    }
+  },
+  "included": [
+    {
+      "id": "287fdf50-6959-4310-8f23-d705ed21ce3a",
+      "type": "equip",
+      "attributes": {
+        "slot": "amulet",
+        "passive_effect": null,
+        "requirements": null
+      },
+      "relationships": {
+        "equip_stat": {
+          "data": {
+            "id": "625576a3-9a3c-4eeb-bd00-2620bc9c180e",
+            "type": "equip_stat"
+          }
+        }
+      }
+    },
+    {
+      "id": "625576a3-9a3c-4eeb-bd00-2620bc9c180e",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 0,
+        "slash_attack": 0,
+        "crush_attack": 0,
+        "ranged_attack": 0,
+        "magic_attack": 0,
+        "stab_defense": 0,
+        "slash_defense": 0,
+        "crush_defense": 0,
+        "ranged_defense": 0,
+        "magic_defense": 0,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

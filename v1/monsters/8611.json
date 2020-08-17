@@ -1,0 +1,135 @@
+{
+  "data": {
+    "id": "8611",
+    "type": "monster",
+    "attributes": {
+      "uuid": "b172e55e-84b0-4780-8e62-64c264b0651a",
+      "name": "Wyrm (Attacking)",
+      "members": true,
+      "release_date": "2019-01-10",
+      "examine": "Don't let it wyrm its way in.",
+      "combat_level_override": null,
+      "max_hit_override": 13,
+      "target_types": [
+        "dragon"
+      ],
+      "classification_types": [
+        "wyrms"
+      ],
+      "poison": false,
+      "immune_poison": true,
+      "immune_venom": true,
+      "slayer_xp": 133.2,
+      "slayer_level": 62,
+      "slayer_masters": [
+        "chaeldar",
+        "konar",
+        "nieve",
+        "duradel"
+      ],
+      "icon_base64": null
+    },
+    "relationships": {
+      "combat_stat": {
+        "data": {
+          "id": "d92b2e32-5291-4c02-a48f-69b6ce1e98cd",
+          "type": "combat_stat"
+        }
+      },
+      "equip_stat": {
+        "data": {
+          "id": "1f7219cb-ba4f-4860-8875-3bcd58c48d55",
+          "type": "equip_stat"
+        }
+      },
+      "attack_stat": {
+        "data": {
+          "id": "5b5eab0d-9d76-4a76-8bbe-b55650b868ce",
+          "type": "attack_stat"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Wyrm#Attacking"
+    },
+    "meta": {
+      "incomplete": true
+    }
+  },
+  "included": [
+    {
+      "id": "5b5eab0d-9d76-4a76-8bbe-b55650b868ce",
+      "type": "attack_stat",
+      "attributes": {
+        "attack_speed": 4,
+        "attack_type": "monster",
+        "special": null,
+        "stances": [
+          {
+            "name": "Monster slash",
+            "style": null,
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": null,
+            "combat_accuracy_stat": "attack_level",
+            "combat_damage_stat": "strength_level",
+            "equip_accuracy_stat": "slash_attack",
+            "equip_damage_stat": "slash_attack",
+            "target_equip_defense_stat": "slash_defense"
+          },
+          {
+            "name": "Monster magic",
+            "style": null,
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": null,
+            "combat_accuracy_stat": "magic_level",
+            "combat_damage_stat": "magic_level",
+            "equip_accuracy_stat": "magic_attack",
+            "equip_damage_stat": "magic_attack",
+            "target_equip_defense_stat": "magic_defense"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d92b2e32-5291-4c02-a48f-69b6ce1e98cd",
+      "type": "monster_combat_stat",
+      "attributes": {
+        "hitpoints_level": 130,
+        "attack_level": 85,
+        "strength_level": 60,
+        "defense_level": 80,
+        "magic_level": 80,
+        "ranged_level": 80,
+        "prayer_level": 0
+      }
+    },
+    {
+      "id": "1f7219cb-ba4f-4860-8875-3bcd58c48d55",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 0,
+        "slash_attack": 0,
+        "crush_attack": 0,
+        "ranged_attack": 0,
+        "magic_attack": 0,
+        "stab_defense": 20,
+        "slash_defense": 50,
+        "crush_defense": 50,
+        "ranged_defense": 20,
+        "magic_defense": 50,
+        "melee_strength": 30,
+        "ranged_strength": 0,
+        "magic_bonus": 30,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

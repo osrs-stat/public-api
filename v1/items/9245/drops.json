@@ -1,0 +1,84 @@
+{
+  "data": [
+    {
+      "id": "9245-8618",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 35,
+        "quantity_max": 50,
+        "rarity": "0.0099009900990099"
+      },
+      "meta": {
+        "item_name": "Onyx bolts (e)",
+        "monster_name": "Alchemical Hydra (Three heads)"
+      }
+    },
+    {
+      "id": "9245-8617",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 35,
+        "quantity_max": 50,
+        "rarity": "0.0099009900990099"
+      },
+      "meta": {
+        "item_name": "Onyx bolts (e)",
+        "monster_name": "Alchemical Hydra (Four heads)"
+      }
+    },
+    {
+      "id": "9245-8615",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 35,
+        "quantity_max": 50,
+        "rarity": "0.0099009900990099"
+      },
+      "meta": {
+        "item_name": "Onyx bolts (e)",
+        "monster_name": "Alchemical Hydra (Five heads)"
+      }
+    },
+    {
+      "id": "9245-319",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 175,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Onyx bolts (e)",
+        "monster_name": "Corporeal Beast"
+      }
+    },
+    {
+      "id": "9245-8621",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 35,
+        "quantity_max": 50,
+        "rarity": "0.0099009900990099"
+      },
+      "meta": {
+        "item_name": "Onyx bolts (e)",
+        "monster_name": "Alchemical Hydra (Two heads)"
+      }
+    }
+  ]
+}

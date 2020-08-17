@@ -1,0 +1,170 @@
+{
+  "data": {
+    "id": "11791",
+    "type": "item",
+    "attributes": {
+      "uuid": "4328617e-fbce-4d70-93f9-9d6f17a6e052",
+      "name": "Staff of the dead",
+      "members": true,
+      "release_date": "2013-10-17",
+      "examine": "A ghastly weapon with evil origins.",
+      "tradeable": false,
+      "ge_tradeable": false,
+      "lowalch": 400002,
+      "highalch": 600003,
+      "is_equip": true,
+      "is_weapon": true,
+      "icon_base64": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABOklEQVR4Xu3XQUsCQRjGcd8PEYQgLIuIyB6WKELwIEHiwSBhMxDzoNLBworCkthQUULFJDYsKUkQOkUHO0REn+0J14rcDnvSeQ/7h/c0LPwYmGHH5XKaSYTJsIiwldtEobrLAUVQVgKIp2PY07PovxuiUQS/6kNUW0OuuIPh551oFEH2SVgNLyF9sI3a/Tke3q5FogiLngV4FdncpcxxCr3XDm5HbXOEoTyyG2pQgfHcwM1L8xtCUCXJHOsXc2gCuHqqT0EEYX4itIaVX5B1VUCEel/nAiI0BmVUeyVeoMFHlxdI8Mn6G+Hy8YLL7oxzQHY5ILsckF3T95B1dc4RlkOq+XPGBhSKBFHpnvEBrcfD0I0TPqBYMoJS54gPSMtsoNgs8AEl8xovUGo/gdP2IRfQOOGvjP/NCvMF/1nuPq8j++kAAAAASUVORK5CYII="
+    },
+    "relationships": {
+      "equip": {
+        "data": {
+          "id": "8c21e2ab-a295-4146-93c6-e4ea8bbc7406",
+          "type": "equip"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Staff_of_the_dead"
+    },
+    "meta": {
+      "incomplete": false
+    }
+  },
+  "included": [
+    {
+      "id": "8c21e2ab-a295-4146-93c6-e4ea8bbc7406",
+      "type": "equip",
+      "attributes": {
+        "slot": "weapon",
+        "passive_effect": null,
+        "requirements": {
+          "magic_level": 75,
+          "attack_level": 75
+        }
+      },
+      "relationships": {
+        "equip_stat": {
+          "data": {
+            "id": "48e4b2dd-4894-4a7c-9b67-4cba45f4bd63",
+            "type": "equip_stat"
+          }
+        },
+        "attack_stat": {
+          "data": {
+            "id": "148ce98d-6bf1-49db-95f6-7f0e881070d0",
+            "type": "attack_stat"
+          }
+        }
+      }
+    },
+    {
+      "id": "148ce98d-6bf1-49db-95f6-7f0e881070d0",
+      "type": "attack_stat",
+      "attributes": {
+        "attack_speed": 4,
+        "attack_type": "bladed_staff",
+        "special": null,
+        "stances": [
+          {
+            "name": "jab",
+            "style": "accurate",
+            "boosts": {
+              "accuracy": 3
+            },
+            "experience": {
+              "hitpoints": 1.3333,
+              "attack": 4
+            },
+            "combat_accuracy_stat": "attack_level",
+            "combat_damage_stat": "strength_level",
+            "equip_accuracy_stat": "stab_attack",
+            "equip_damage_stat": "stab_attack",
+            "target_equip_defense_stat": "stab_defense"
+          },
+          {
+            "name": "swipe",
+            "style": "aggressive",
+            "boosts": {
+              "damage": 3
+            },
+            "experience": {
+              "hitpoints": 1.3333,
+              "strength": 4
+            },
+            "combat_accuracy_stat": "attack_level",
+            "combat_damage_stat": "strength_level",
+            "equip_accuracy_stat": "slash_attack",
+            "equip_damage_stat": "slash_attack",
+            "target_equip_defense_stat": "slash_defense"
+          },
+          {
+            "name": "fend",
+            "style": "defensive",
+            "boosts": {
+              "defense": 3
+            },
+            "experience": {
+              "hitpoints": 1.3333,
+              "defense": 4
+            },
+            "combat_accuracy_stat": "attack_level",
+            "combat_damage_stat": "strength_level",
+            "equip_accuracy_stat": "crush_attack",
+            "equip_damage_stat": "crush_attack",
+            "target_equip_defense_stat": "crush_defense"
+          },
+          {
+            "name": "spell",
+            "style": "magic",
+            "boosts": null,
+            "experience": {
+              "hitpoints": 1.3333,
+              "magic": 2
+            },
+            "combat_accuracy_stat": "magic_level",
+            "combat_damage_stat": "magic_level",
+            "equip_accuracy_stat": "magic_attack",
+            "equip_damage_stat": "magic_attack",
+            "target_equip_defense_stat": "magic_defense"
+          },
+          {
+            "name": "spell (defensive)",
+            "style": "magic",
+            "boosts": null,
+            "experience": {
+              "hitpoints": 1.3333,
+              "magic": 1.3333,
+              "defense": 1
+            },
+            "combat_accuracy_stat": "magic_level",
+            "combat_damage_stat": "magic_level",
+            "equip_accuracy_stat": "magic_attack",
+            "equip_damage_stat": "magic_attack",
+            "target_equip_defense_stat": "magic_defense"
+          }
+        ]
+      }
+    },
+    {
+      "id": "48e4b2dd-4894-4a7c-9b67-4cba45f4bd63",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 55,
+        "slash_attack": 70,
+        "crush_attack": 0,
+        "ranged_attack": 0,
+        "magic_attack": 17,
+        "stab_defense": 0,
+        "slash_defense": 3,
+        "crush_defense": 3,
+        "ranged_defense": 0,
+        "magic_defense": 17,
+        "melee_strength": 72,
+        "ranged_strength": 0,
+        "magic_bonus": 15,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

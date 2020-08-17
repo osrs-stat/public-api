@@ -1,0 +1,73 @@
+{
+  "data": {
+    "id": "646",
+    "type": "item",
+    "attributes": {
+      "uuid": "49736f36-e03a-4197-8456-fd100ddc88bd",
+      "name": "Pink robe bottoms",
+      "members": true,
+      "release_date": "2002-12-12",
+      "examine": "Made by Tree Gnomes with a thing for pink.",
+      "tradeable": false,
+      "ge_tradeable": false,
+      "lowalch": 72,
+      "highalch": 108,
+      "is_equip": true,
+      "is_weapon": false,
+      "icon_base64": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACHUlEQVR4Xt3XXUsCQRQGYPcHeO+lF+FFhIQUoSRFghhUlPQh9oFZJqXYF5qakhARQVAQERRERFBQEAUR/bpT78rYOLuWxc6uNbCXDg9z3nNmtNn+x1JI/7NkKZQMBWmmz08jPd3U39FObqeTHHa7VSiFLtIrdLwYp91ohLJjoyow4u9VQZ0fOPEXkpdCNxurdJ5K0tFCrIZKDYasACn0kM/SXXaDrlbTdJpM0EFsliqRSRU11OUxs2wKPRW36D63Sbeb63S9lqHLTIpOEgt1qDaHwwyUQq87JXos5L4E5cfHyOtymVG6xiC+bNsTYQp5Os0BvZSLDUGH83NquMtTEzTp87UGaG8mqp5SIhgwB/RcKmhArNPQ/vuz0+opoWyWgDCLADpbXlKHJHKEU0LZJIMUequUayA2h3gQOg1lwymhbAG3W2brf4Iwh0QQJjYrG04JZQt7e2SeUhWEUIsg5Aj3GisbH26pIMwgvZK1BIgPtWUglKtZEAs23kkSgq3NjwjCcBQ7DcGWdIVoQchPMyC8JqWA9ALdCMRPbEl3mjbQ34HYLMKbWwpIDDQDMRRAGI48CJ0WDwwYDdLmh4H4U2IgfloDhDc2y5G48y+XPkgsGw/iL9m14SGjc6QNNH9K/I3Pg9hwxPva4BzVgxhKD4ThyIPQaXgXSckRPpTsO5A4rdFpDGMgyGarbib+h2/uMxzDL7b5Tz9xnz+33gG2/KvHjO1SjQAAAABJRU5ErkJggg=="
+    },
+    "relationships": {
+      "equip": {
+        "data": {
+          "id": "c68afbcf-698b-41b2-88bd-56e94a5d347b",
+          "type": "equip"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Pink_robe_bottoms"
+    },
+    "meta": {
+      "incomplete": false
+    }
+  },
+  "included": [
+    {
+      "id": "c68afbcf-698b-41b2-88bd-56e94a5d347b",
+      "type": "equip",
+      "attributes": {
+        "slot": "legs",
+        "passive_effect": null,
+        "requirements": null
+      },
+      "relationships": {
+        "equip_stat": {
+          "data": {
+            "id": "9cdfdea7-ea44-411f-9664-121677467bcc",
+            "type": "equip_stat"
+          }
+        }
+      }
+    },
+    {
+      "id": "9cdfdea7-ea44-411f-9664-121677467bcc",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 0,
+        "slash_attack": 0,
+        "crush_attack": 0,
+        "ranged_attack": 0,
+        "magic_attack": 0,
+        "stab_defense": 0,
+        "slash_defense": 2,
+        "crush_defense": 2,
+        "ranged_defense": 0,
+        "magic_defense": 0,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

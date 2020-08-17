@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "id": "2495-8610",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0394736842105263"
+      },
+      "meta": {
+        "item_name": "Red d'hide chaps",
+        "monster_name": "Wyrm (Idle)"
+      }
+    },
+    {
+      "id": "2495-8611",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0394736842105263"
+      },
+      "meta": {
+        "item_name": "Red d'hide chaps",
+        "monster_name": "Wyrm (Attacking)"
+      }
+    },
+    {
+      "id": "2495-10398",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0394736842105263"
+      },
+      "meta": {
+        "item_name": "Red d'hide chaps",
+        "monster_name": "Shadow Wyrm"
+      }
+    }
+  ]
+}

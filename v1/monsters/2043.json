@@ -1,0 +1,119 @@
+{
+  "data": {
+    "id": "2043",
+    "type": "monster",
+    "attributes": {
+      "uuid": "f63c8bfb-f0b8-4934-90d3-d31ee33b35ef",
+      "name": "Zulrah (Magma)",
+      "members": true,
+      "release_date": "2015-01-08",
+      "examine": "The crimson hooded serpent of the poison waste.",
+      "combat_level_override": 725,
+      "max_hit_override": 41,
+      "target_types": [
+
+      ],
+      "classification_types": [
+        "boss"
+      ],
+      "poison": true,
+      "immune_poison": false,
+      "immune_venom": false,
+      "slayer_xp": 500.0,
+      "slayer_level": 1,
+      "slayer_masters": [
+        "konar",
+        "nieve",
+        "duradel"
+      ],
+      "icon_base64": null
+    },
+    "relationships": {
+      "combat_stat": {
+        "data": {
+          "id": "731d382e-13a3-4ef8-8d8f-a2a9a8052808",
+          "type": "combat_stat"
+        }
+      },
+      "equip_stat": {
+        "data": {
+          "id": "ed6eb091-f71f-45b1-a59a-80c339e75c29",
+          "type": "equip_stat"
+        }
+      },
+      "attack_stat": {
+        "data": {
+          "id": "eb3e1dfe-50a5-4543-8f63-76d6466c45b1",
+          "type": "attack_stat"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Zulrah#Magma"
+    },
+    "meta": {
+      "incomplete": true
+    }
+  },
+  "included": [
+    {
+      "id": "eb3e1dfe-50a5-4543-8f63-76d6466c45b1",
+      "type": "attack_stat",
+      "attributes": {
+        "attack_speed": 3,
+        "attack_type": "monster",
+        "special": null,
+        "stances": [
+          {
+            "name": "Monster melee",
+            "style": null,
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": null,
+            "combat_accuracy_stat": "attack_level",
+            "combat_damage_stat": "strength_level",
+            "equip_accuracy_stat": "crush_attack",
+            "equip_damage_stat": "crush_attack",
+            "target_equip_defense_stat": "crush_defense"
+          }
+        ]
+      }
+    },
+    {
+      "id": "731d382e-13a3-4ef8-8d8f-a2a9a8052808",
+      "type": "monster_combat_stat",
+      "attributes": {
+        "hitpoints_level": 500,
+        "attack_level": 1,
+        "strength_level": 1,
+        "defense_level": 300,
+        "magic_level": 300,
+        "ranged_level": 300,
+        "prayer_level": 0
+      }
+    },
+    {
+      "id": "ed6eb091-f71f-45b1-a59a-80c339e75c29",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 0,
+        "slash_attack": 0,
+        "crush_attack": 0,
+        "ranged_attack": 50,
+        "magic_attack": 50,
+        "stab_defense": 0,
+        "slash_defense": 0,
+        "crush_defense": 0,
+        "ranged_defense": 300,
+        "magic_defense": 0,
+        "melee_strength": 0,
+        "ranged_strength": 20,
+        "magic_bonus": 20,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

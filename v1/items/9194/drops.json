@@ -1,0 +1,708 @@
+{
+  "data": [
+    {
+      "id": "9194-8071",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 4,
+        "quantity_max": 10,
+        "rarity": "0.000446428571428571"
+      },
+      "meta": {
+        "item_name": "Onyx bolt tips",
+        "monster_name": "Skeleton (Shayzien Crypts) (Range)"
+      }
+    },
+    {
+      "id": "9194-8072",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 4,
+        "quantity_max": 10,
+        "rarity": "0.000446428571428571"
+      },
+      "meta": {
+        "item_name": "Onyx bolt tips",
+        "monster_name": "Skeleton (Shayzien Crypts) (Magic)"
+      }
+    },
+    {
+      "id": "9194-8256",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 6,
+        "quantity_max": 14,
+        "rarity": "0.000491480996068152"
+      },
+      "meta": {
+        "item_name": "Onyx bolt tips",
+        "monster_name": "Vyrewatch (Level 87)"
+      }
+    },
+    {
+      "id": "9194-3718",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 6,
+        "quantity_max": 14,
+        "rarity": "0.000491480996068152"
+      },
+      "meta": {
+        "item_name": "Onyx bolt tips",
+        "monster_name": "Vyrewatch (Level 110)"
+      }
+    },
+    {
+      "id": "9194-3717",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 6,
+        "quantity_max": 14,
+        "rarity": "0.000491480996068152"
+      },
+      "meta": {
+        "item_name": "Onyx bolt tips",
+        "monster_name": "Vyrewatch (Level 105)"
+      }
+    },
+    {
+      "id": "9194-2173",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 4,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Onyx bolt tips",
+        "monster_name": "TzHaar-Ket (Level 149)"
+      }
+    },
+    {
+      "id": "9194-499",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 12,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Onyx bolt tips",
+        "monster_name": "Thermonuclear smoke devil"
+      }
+    },
+    {
+      "id": "9194-8609",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 20,
+        "quantity_max": null,
+        "rarity": "0.0011719207781554"
+      },
+      "meta": {
+        "item_name": "Onyx bolt tips",
+        "monster_name": "Hydra"
+      }
+    },
+    {
+      "id": "9194-7940",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": 10,
+        "rarity": "0.0375471698113208"
+      },
+      "meta": {
+        "item_name": "Onyx bolt tips",
+        "monster_name": "Revenant dragon"
+      }
+    },
+    {
+      "id": "9194-7939",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": 10,
+        "rarity": "0.0350943396226415"
+      },
+      "meta": {
+        "item_name": "Onyx bolt tips",
+        "monster_name": "Revenant knight"
+      }
+    },
+    {
+      "id": "9194-7938",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": 10,
+        "rarity": "0.030188679245283"
+      },
+      "meta": {
+        "item_name": "Onyx bolt tips",
+        "monster_name": "Revenant dark beast"
+      }
+    },
+    {
+      "id": "9194-7937",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": 10,
+        "rarity": "0.0257289879931389"
+      },
+      "meta": {
+        "item_name": "Onyx bolt tips",
+        "monster_name": "Revenant ork"
+      }
+    },
+    {
+      "id": "9194-7936",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": 10,
+        "rarity": "0.021342406433653"
+      },
+      "meta": {
+        "item_name": "Onyx bolt tips",
+        "monster_name": "Revenant demon"
+      }
+    },
+    {
+      "id": "9194-7935",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": 10,
+        "rarity": "0.0194865450046397"
+      },
+      "meta": {
+        "item_name": "Onyx bolt tips",
+        "monster_name": "Revenant hellhound"
+      }
+    },
+    {
+      "id": "9194-8713",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 8,
+        "quantity_max": 10,
+        "rarity": "0.02"
+      },
+      "meta": {
+        "item_name": "Onyx bolt tips",
+        "monster_name": "Sarachnis"
+      }
+    },
+    {
+      "id": "9194-9049",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 4,
+        "quantity_max": 38,
+        "rarity": "0.0555555555555556"
+      },
+      "meta": {
+        "item_name": "Onyx bolt tips",
+        "monster_name": "Zalcano"
+      }
+    },
+    {
+      "id": "9194-9756",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 6,
+        "quantity_max": 14,
+        "rarity": "0.000576036866359447"
+      },
+      "meta": {
+        "item_name": "Onyx bolt tips",
+        "monster_name": "Vyrewatch Sentinel"
+      }
+    },
+    {
+      "id": "9194-10402",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 20,
+        "quantity_max": null,
+        "rarity": "0.0011719207781554"
+      },
+      "meta": {
+        "item_name": "Onyx bolt tips",
+        "monster_name": "Colossal Hydra"
+      }
+    },
+    {
+      "id": "9194-7934",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": 10,
+        "rarity": "0.0176306835756264"
+      },
+      "meta": {
+        "item_name": "Onyx bolt tips",
+        "monster_name": "Revenant cyclops"
+      }
+    },
+    {
+      "id": "9194-7933",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": 10,
+        "rarity": "0.0103352962384329"
+      },
+      "meta": {
+        "item_name": "Onyx bolt tips",
+        "monster_name": "Revenant hobgoblin"
+      }
+    },
+    {
+      "id": "9194-7932",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": 10,
+        "rarity": "0.00913351760605696"
+      },
+      "meta": {
+        "item_name": "Onyx bolt tips",
+        "monster_name": "Revenant pyrefiend"
+      }
+    },
+    {
+      "id": "9194-7931",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": 10,
+        "rarity": "0.00216221781770445"
+      },
+      "meta": {
+        "item_name": "Onyx bolt tips",
+        "monster_name": "Revenant goblin"
+      }
+    },
+    {
+      "id": "9194-7881",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": 10,
+        "rarity": "0.00123499142367067"
+      },
+      "meta": {
+        "item_name": "Onyx bolt tips",
+        "monster_name": "Revenant imp"
+      }
+    },
+    {
+      "id": "9194-7806",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 6,
+        "quantity_max": null,
+        "rarity": "0.046875"
+      },
+      "meta": {
+        "item_name": "Onyx bolt tips",
+        "monster_name": "Deranged archaeologist"
+      }
+    },
+    {
+      "id": "9194-7795",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": 15,
+        "rarity": "0.0298507462686567"
+      },
+      "meta": {
+        "item_name": "Onyx bolt tips",
+        "monster_name": "Ancient Wyvern"
+      }
+    },
+    {
+      "id": "9194-7679",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 4,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Onyx bolt tips",
+        "monster_name": "TzHaar-Ket (Level 221)"
+      }
+    },
+    {
+      "id": "9194-7286",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 40,
+        "quantity_max": null,
+        "rarity": "0.07"
+      },
+      "meta": {
+        "item_name": "Onyx bolt tips",
+        "monster_name": "Skotizo"
+      }
+    },
+    {
+      "id": "9194-6618",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 12,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Onyx bolt tips",
+        "monster_name": "Crazy archaeologist"
+      }
+    },
+    {
+      "id": "9194-6593",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 12,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Onyx bolt tips",
+        "monster_name": "Lava dragon"
+      }
+    },
+    {
+      "id": "9194-6504",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 60,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Onyx bolt tips",
+        "monster_name": "Venenatis"
+      }
+    },
+    {
+      "id": "9194-5908",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.0215827338129496"
+      },
+      "meta": {
+        "item_name": "Onyx bolt tips",
+        "monster_name": "Abyssal Sire (Phase 3 (stage 2))"
+      }
+    },
+    {
+      "id": "9194-5891",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.0215827338129496"
+      },
+      "meta": {
+        "item_name": "Onyx bolt tips",
+        "monster_name": "Abyssal Sire (Phase 3 (stage 1))"
+      }
+    },
+    {
+      "id": "9194-5890",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.0215827338129496"
+      },
+      "meta": {
+        "item_name": "Onyx bolt tips",
+        "monster_name": "Abyssal Sire (Phase 2)"
+      }
+    },
+    {
+      "id": "9194-5886",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.0215827338129496"
+      },
+      "meta": {
+        "item_name": "Onyx bolt tips",
+        "monster_name": "Abyssal Sire (Phase 1)"
+      }
+    },
+    {
+      "id": "9194-3720",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 6,
+        "quantity_max": 14,
+        "rarity": "0.000491480996068152"
+      },
+      "meta": {
+        "item_name": "Onyx bolt tips",
+        "monster_name": "Vyrewatch (Level 125)"
+      }
+    },
+    {
+      "id": "9194-3719",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 6,
+        "quantity_max": 14,
+        "rarity": "0.000491480996068152"
+      },
+      "meta": {
+        "item_name": "Onyx bolt tips",
+        "monster_name": "Vyrewatch (Level 120)"
+      }
+    },
+    {
+      "id": "9194-8061",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": 10,
+        "rarity": "0.0266666666666667"
+      },
+      "meta": {
+        "item_name": "Onyx bolt tips",
+        "monster_name": "Vorkath (Post-quest)"
+      }
+    },
+    {
+      "id": "9194-8060",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 25,
+        "quantity_max": 30,
+        "rarity": "0.0027027027027027"
+      },
+      "meta": {
+        "item_name": "Onyx bolt tips",
+        "monster_name": "Vorkath (Dragon Slayer II)"
+      }
+    },
+    {
+      "id": "9194-8060",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": 10,
+        "rarity": "0.0266666666666667"
+      },
+      "meta": {
+        "item_name": "Onyx bolt tips",
+        "monster_name": "Vorkath (Dragon Slayer II)"
+      }
+    },
+    {
+      "id": "9194-8061",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 25,
+        "quantity_max": 30,
+        "rarity": "0.0027027027027027"
+      },
+      "meta": {
+        "item_name": "Onyx bolt tips",
+        "monster_name": "Vorkath (Post-quest)"
+      }
+    },
+    {
+      "id": "9194-8067",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 4,
+        "quantity_max": 10,
+        "rarity": "0.000446428571428571"
+      },
+      "meta": {
+        "item_name": "Onyx bolt tips",
+        "monster_name": "Zombie (Shayzien Crypts) (Melee)"
+      }
+    },
+    {
+      "id": "9194-8068",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 4,
+        "quantity_max": 10,
+        "rarity": "0.000446428571428571"
+      },
+      "meta": {
+        "item_name": "Onyx bolt tips",
+        "monster_name": "Zombie (Shayzien Crypts) (Range)"
+      }
+    },
+    {
+      "id": "9194-8069",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 4,
+        "quantity_max": 10,
+        "rarity": "0.000446428571428571"
+      },
+      "meta": {
+        "item_name": "Onyx bolt tips",
+        "monster_name": "Zombie (Shayzien Crypts) (Magic)"
+      }
+    },
+    {
+      "id": "9194-8070",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 4,
+        "quantity_max": 10,
+        "rarity": "0.000446428571428571"
+      },
+      "meta": {
+        "item_name": "Onyx bolt tips",
+        "monster_name": "Skeleton (Shayzien Crypts) (Melee)"
+      }
+    }
+  ]
+}

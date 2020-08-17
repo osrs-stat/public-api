@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "id": "1615-8031",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0551181102362205"
+      },
+      "meta": {
+        "item_name": "Dragonstone",
+        "monster_name": "Rune dragon"
+      }
+    },
+    {
+      "id": "1615-8061",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 2,
+        "quantity_max": 3,
+        "rarity": "0.02"
+      },
+      "meta": {
+        "item_name": "Dragonstone",
+        "monster_name": "Vorkath (Post-quest)"
+      }
+    },
+    {
+      "id": "1615-8060",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 2,
+        "quantity_max": 3,
+        "rarity": "0.02"
+      },
+      "meta": {
+        "item_name": "Dragonstone",
+        "monster_name": "Vorkath (Dragon Slayer II)"
+      }
+    }
+  ]
+}

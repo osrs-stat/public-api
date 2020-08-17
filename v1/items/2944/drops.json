@@ -1,0 +1,84 @@
+{
+  "data": [
+    {
+      "id": "2944-529",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Golden key",
+        "monster_name": "Monk of Zamorak (Level 45)"
+      }
+    },
+    {
+      "id": "2944-527",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Golden key",
+        "monster_name": "Monk of Zamorak (Level 22)"
+      }
+    },
+    {
+      "id": "2944-528",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Golden key",
+        "monster_name": "Monk of Zamorak (Level 17)"
+      }
+    },
+    {
+      "id": "2944-8698",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Golden key",
+        "monster_name": "Monk of Zamorak (Level 23)"
+      }
+    },
+    {
+      "id": "2944-3486",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Golden key",
+        "monster_name": "Monk of Zamorak (Level 30)"
+      }
+    }
+  ]
+}

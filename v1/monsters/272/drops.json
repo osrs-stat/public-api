@@ -1,0 +1,532 @@
+{
+  "data": [
+    {
+      "id": "995-272",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 990,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Iron dragon (Normal)"
+      }
+    },
+    {
+      "id": "995-272",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 270,
+        "quantity_max": null,
+        "rarity": "0.15625"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Iron dragon (Normal)"
+      }
+    },
+    {
+      "id": "995-272",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 550,
+        "quantity_max": null,
+        "rarity": "0.078125"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Iron dragon (Normal)"
+      }
+    },
+    {
+      "id": "1357-272",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Adamant axe",
+        "monster_name": "Iron dragon (Normal)"
+      }
+    },
+    {
+      "id": "1317-272",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Adamant 2h sword",
+        "monster_name": "Iron dragon (Normal)"
+      }
+    },
+    {
+      "id": "817-272",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 9,
+        "quantity_max": null,
+        "rarity": "0.0546875"
+      },
+      "meta": {
+        "item_name": "Rune dart (Poison)",
+        "monster_name": "Iron dragon (Normal)"
+      }
+    },
+    {
+      "id": "4087-272",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0009765625"
+      },
+      "meta": {
+        "item_name": "Dragon platelegs",
+        "monster_name": "Iron dragon (Normal)"
+      }
+    },
+    {
+      "id": "4585-272",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0009765625"
+      },
+      "meta": {
+        "item_name": "Dragon plateskirt",
+        "monster_name": "Iron dragon (Normal)"
+      }
+    },
+    {
+      "id": "2351-272",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Iron bar",
+        "monster_name": "Iron dragon (Normal)"
+      }
+    },
+    {
+      "id": "4087-272",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00390625"
+      },
+      "meta": {
+        "item_name": "Dragon platelegs",
+        "monster_name": "Iron dragon (Normal)"
+      }
+    },
+    {
+      "id": "4585-272",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00390625"
+      },
+      "meta": {
+        "item_name": "Dragon plateskirt",
+        "monster_name": "Iron dragon (Normal)"
+      }
+    },
+    {
+      "id": "11286-272",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0001"
+      },
+      "meta": {
+        "item_name": "Draconic visage",
+        "monster_name": "Iron dragon (Normal)"
+      }
+    },
+    {
+      "id": "536-272",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Dragon bones",
+        "monster_name": "Iron dragon (Normal)"
+      }
+    },
+    {
+      "id": "19679-272",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "catacombs-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00298507462686567"
+      },
+      "meta": {
+        "item_name": "Dark totem base",
+        "monster_name": "Iron dragon (Normal)"
+      }
+    },
+    {
+      "id": "19683-272",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "catacombs-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00298507462686567"
+      },
+      "meta": {
+        "item_name": "Dark totem top",
+        "monster_name": "Iron dragon (Normal)"
+      }
+    },
+    {
+      "id": "19681-272",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "catacombs-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00298507462686567"
+      },
+      "meta": {
+        "item_name": "Dark totem middle",
+        "monster_name": "Iron dragon (Normal)"
+      }
+    },
+    {
+      "id": "2722-272",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Clue scroll (hard)",
+        "monster_name": "Iron dragon (Normal)"
+      }
+    },
+    {
+      "id": "23083-272",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0121654501216545"
+      },
+      "meta": {
+        "item_name": "Brimstone key",
+        "monster_name": "Iron dragon (Normal)"
+      }
+    },
+    {
+      "id": "2011-272",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Curry",
+        "monster_name": "Iron dragon (Normal)"
+      }
+    },
+    {
+      "id": "2361-272",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Adamantite bar",
+        "monster_name": "Iron dragon (Normal)"
+      }
+    },
+    {
+      "id": "9431-272",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Runite limbs",
+        "monster_name": "Iron dragon (Normal)"
+      }
+    },
+    {
+      "id": "19677-272",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "catacombs-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00447761194029851"
+      },
+      "meta": {
+        "item_name": "Ancient shard",
+        "monster_name": "Iron dragon (Normal)"
+      }
+    },
+    {
+      "id": "11286-272",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0002"
+      },
+      "meta": {
+        "item_name": "Draconic visage",
+        "monster_name": "Iron dragon (Normal)"
+      }
+    },
+    {
+      "id": "161-272",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0625"
+      },
+      "meta": {
+        "item_name": "Super strength (1 dose)",
+        "monster_name": "Iron dragon (Normal)"
+      }
+    },
+    {
+      "id": "566-272",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Soul rune",
+        "monster_name": "Iron dragon (Normal)"
+      }
+    },
+    {
+      "id": "9143-272",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": 12,
+        "rarity": "0.046875"
+      },
+      "meta": {
+        "item_name": "Adamant bolts (Unpoisoned)",
+        "monster_name": "Iron dragon (Normal)"
+      }
+    },
+    {
+      "id": "565-272",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 15,
+        "quantity_max": null,
+        "rarity": "0.1484375"
+      },
+      "meta": {
+        "item_name": "Blood rune (Regular)",
+        "monster_name": "Iron dragon (Normal)"
+      }
+    },
+    {
+      "id": "830-272",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 4,
+        "quantity_max": null,
+        "rarity": "0.15625"
+      },
+      "meta": {
+        "item_name": "Rune javelin (Unpoisoned)",
+        "monster_name": "Iron dragon (Normal)"
+      }
+    },
+    {
+      "id": "1373-272",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Rune battleaxe",
+        "monster_name": "Iron dragon (Normal)"
+      }
+    },
+    {
+      "id": "1147-272",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Rune med helm",
+        "monster_name": "Iron dragon (Normal)"
+      }
+    },
+    {
+      "id": "1183-272",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Adamant sq shield",
+        "monster_name": "Iron dragon (Normal)"
+      }
+    },
+    {
+      "id": "868-272",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Rune knife (Unpoisoned)",
+        "monster_name": "Iron dragon (Normal)"
+      }
+    },
+    {
+      "id": "1371-272",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Adamant battleaxe",
+        "monster_name": "Iron dragon (Normal)"
+      }
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "id": "6803-3134",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0002"
+      },
+      "meta": {
+        "item_name": "Imp champion scroll",
+        "monster_name": "Imp (GWD)"
+      }
+    },
+    {
+      "id": "6803-5007",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0002"
+      },
+      "meta": {
+        "item_name": "Imp champion scroll",
+        "monster_name": "Imp (Regular)"
+      }
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "id": "4129-412",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Adamant boots",
+        "monster_name": "Gargoyle"
+      }
+    },
+    {
+      "id": "4129-7407",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Adamant boots",
+        "monster_name": "Marble gargoyle"
+      }
+    }
+  ]
+}

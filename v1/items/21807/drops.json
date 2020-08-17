@@ -1,0 +1,180 @@
+{
+  "data": [
+    {
+      "id": "21807-7940",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00075"
+      },
+      "meta": {
+        "item_name": "Ancient emblem",
+        "monster_name": "Revenant dragon"
+      }
+    },
+    {
+      "id": "21807-7939",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00075"
+      },
+      "meta": {
+        "item_name": "Ancient emblem",
+        "monster_name": "Revenant knight"
+      }
+    },
+    {
+      "id": "21807-7881",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000136363636363636"
+      },
+      "meta": {
+        "item_name": "Ancient emblem",
+        "monster_name": "Revenant imp"
+      }
+    },
+    {
+      "id": "21807-7931",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000204638472032742"
+      },
+      "meta": {
+        "item_name": "Ancient emblem",
+        "monster_name": "Revenant goblin"
+      }
+    },
+    {
+      "id": "21807-7932",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000477707006369427"
+      },
+      "meta": {
+        "item_name": "Ancient emblem",
+        "monster_name": "Revenant pyrefiend"
+      }
+    },
+    {
+      "id": "21807-7933",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000477707006369427"
+      },
+      "meta": {
+        "item_name": "Ancient emblem",
+        "monster_name": "Revenant hobgoblin"
+      }
+    },
+    {
+      "id": "21807-7934",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000614754098360656"
+      },
+      "meta": {
+        "item_name": "Ancient emblem",
+        "monster_name": "Revenant cyclops"
+      }
+    },
+    {
+      "id": "21807-7935",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000614754098360656"
+      },
+      "meta": {
+        "item_name": "Ancient emblem",
+        "monster_name": "Revenant hellhound"
+      }
+    },
+    {
+      "id": "21807-7936",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000614754098360656"
+      },
+      "meta": {
+        "item_name": "Ancient emblem",
+        "monster_name": "Revenant demon"
+      }
+    },
+    {
+      "id": "21807-7937",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000681818181818182"
+      },
+      "meta": {
+        "item_name": "Ancient emblem",
+        "monster_name": "Revenant ork"
+      }
+    },
+    {
+      "id": "21807-7938",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000681818181818182"
+      },
+      "meta": {
+        "item_name": "Ancient emblem",
+        "monster_name": "Revenant dark beast"
+      }
+    }
+  ]
+}

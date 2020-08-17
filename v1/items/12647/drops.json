@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "id": "12647-965",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000333333333333333"
+      },
+      "meta": {
+        "item_name": "Kalphite princess (Crawling)",
+        "monster_name": "Kalphite Queen (Airborne)"
+      }
+    },
+    {
+      "id": "12647-963",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000333333333333333"
+      },
+      "meta": {
+        "item_name": "Kalphite princess (Crawling)",
+        "monster_name": "Kalphite Queen (Crawling)"
+      }
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "id": "13179-6612",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0005"
+      },
+      "meta": {
+        "item_name": "Vet'ion jr. (Normal)",
+        "monster_name": "Vet'ion (Reborn)"
+      }
+    },
+    {
+      "id": "13179-6611",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0005"
+      },
+      "meta": {
+        "item_name": "Vet'ion jr. (Normal)",
+        "monster_name": "Vet'ion (Normal)"
+      }
+    }
+  ]
+}

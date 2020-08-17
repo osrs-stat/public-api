@@ -1,0 +1,160 @@
+{
+  "data": {
+    "id": "1333",
+    "type": "item",
+    "attributes": {
+      "uuid": "13c38fa4-7cee-452c-b86d-d1daeb49d846",
+      "name": "Rune scimitar",
+      "members": false,
+      "release_date": "2001-08-13",
+      "examine": "A vicious, curved sword.",
+      "tradeable": false,
+      "ge_tradeable": false,
+      "lowalch": 10240,
+      "highalch": 15360,
+      "is_equip": true,
+      "is_weapon": true,
+      "icon_base64": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABx0lEQVR4XuXWv0vDQBQH8NzYoUOGQHHq6NitUBREQUqx0HQIBX8gSikoVaEIgoKDOrkoUhAEFUQoKohQEAQRBMHF3f/m6bvwmsu7TNLcFfzCEdI05cN7eZc6zv+MAP6JpSBEwMx8Ux75VYMJIdONFYkpL6/L80I+bxoVQibrCzHMXHPLBkjARK2hYSqrG1BtdUyDIsxUsKRh/PaOSZCOmV1sxTD1zV1TIAGlajDAYKsQQ9XBZwdRtbVtE6AQg9UhDFaHVhIsxdEXUKzUtVYlLRWWEirE8FZxCH6O12kroIVtG2LrIgwfcVp4rkIIoC7+q3+MjuGtUquSAkBNMoaqg0c851XhvzLERBPFR1zFpFwVio6h6UnC8LuHnDhGfUfh0WCLMDqG9hTCGGoRRkD/0ovtwvR+4hh+Z0oRcNjJwu2JB8/Xnm0MRoBfzsBeOwvnRy7cdz14ufFsYTC/fynGHSgXMuAXM3C678JbLzcA8W8biJCYoBSCsH0fD9ZAQrbo+3VMYmi0LbVLwNWxC+93OfjqRxUxON5qhHxWsDo48pafGYyA7oErR/3pwpNVGhkQ7j2fjyMC6p2F+42lh5hH/5fHv2E8tiE/Yp8LxRnSGrsAAAAASUVORK5CYII="
+    },
+    "relationships": {
+      "equip": {
+        "data": {
+          "id": "3eef83c5-b856-43c8-a623-39e9758d298c",
+          "type": "equip"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Rune_scimitar"
+    },
+    "meta": {
+      "incomplete": false
+    }
+  },
+  "included": [
+    {
+      "id": "3eef83c5-b856-43c8-a623-39e9758d298c",
+      "type": "equip",
+      "attributes": {
+        "slot": "weapon",
+        "passive_effect": null,
+        "requirements": {
+          "attack_level": 40
+        }
+      },
+      "relationships": {
+        "equip_stat": {
+          "data": {
+            "id": "9ff504f0-dff3-4cb2-a71a-223f3a243bd4",
+            "type": "equip_stat"
+          }
+        },
+        "attack_stat": {
+          "data": {
+            "id": "ee18ac1e-eaa6-442d-ad1d-dad8613c2448",
+            "type": "attack_stat"
+          }
+        }
+      }
+    },
+    {
+      "id": "ee18ac1e-eaa6-442d-ad1d-dad8613c2448",
+      "type": "attack_stat",
+      "attributes": {
+        "attack_speed": 4,
+        "attack_type": "slash_sword",
+        "special": null,
+        "stances": [
+          {
+            "name": "chop",
+            "style": "accurate",
+            "boosts": {
+              "accuracy": 3
+            },
+            "experience": {
+              "hitpoints": 1.3333,
+              "attack": 4
+            },
+            "combat_accuracy_stat": "attack_level",
+            "combat_damage_stat": "strength_level",
+            "equip_accuracy_stat": "slash_attack",
+            "equip_damage_stat": "slash_attack",
+            "target_equip_defense_stat": "slash_defense"
+          },
+          {
+            "name": "slash",
+            "style": "aggressive",
+            "boosts": {
+              "damage": 3
+            },
+            "experience": {
+              "hitpoints": 1.3333,
+              "strength": 4
+            },
+            "combat_accuracy_stat": "attack_level",
+            "combat_damage_stat": "strength_level",
+            "equip_accuracy_stat": "slash_attack",
+            "equip_damage_stat": "slash_attack",
+            "target_equip_defense_stat": "slash_defense"
+          },
+          {
+            "name": "lunge",
+            "style": "controlled",
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": {
+              "hitpoints": 1.3333,
+              "attack": 1.3333,
+              "strength": 1.3333,
+              "defense": 1.3333
+            },
+            "combat_accuracy_stat": "attack_level",
+            "combat_damage_stat": "strength_level",
+            "equip_accuracy_stat": "stab_attack",
+            "equip_damage_stat": "stab_attack",
+            "target_equip_defense_stat": "stab_defense"
+          },
+          {
+            "name": "block",
+            "style": "defensive",
+            "boosts": {
+              "defense": 3
+            },
+            "experience": {
+              "hitpoints": 1.3333,
+              "defense": 4
+            },
+            "combat_accuracy_stat": "attack_level",
+            "combat_damage_stat": "strength_level",
+            "equip_accuracy_stat": "slash_attack",
+            "equip_damage_stat": "slash_attack",
+            "target_equip_defense_stat": "slash_defense"
+          }
+        ]
+      }
+    },
+    {
+      "id": "9ff504f0-dff3-4cb2-a71a-223f3a243bd4",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 7,
+        "slash_attack": 45,
+        "crush_attack": -2,
+        "ranged_attack": 0,
+        "magic_attack": 0,
+        "stab_defense": 0,
+        "slash_defense": 1,
+        "crush_defense": 0,
+        "ranged_defense": 0,
+        "magic_defense": 0,
+        "melee_strength": 44,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

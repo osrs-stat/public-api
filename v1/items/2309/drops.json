@@ -1,0 +1,84 @@
+{
+  "data": [
+    {
+      "id": "2309-5420",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Bread",
+        "monster_name": "Watchman"
+      }
+    },
+    {
+      "id": "2309-5007",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Bread",
+        "monster_name": "Imp (Regular)"
+      }
+    },
+    {
+      "id": "2309-3134",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Bread",
+        "monster_name": "Imp (GWD)"
+      }
+    },
+    {
+      "id": "2309-530",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0072463768115942"
+      },
+      "meta": {
+        "item_name": "Bread",
+        "monster_name": "Tribesman"
+      }
+    },
+    {
+      "id": "2309-516",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Bread",
+        "monster_name": "Black Knight"
+      }
+    }
+  ]
+}

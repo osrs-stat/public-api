@@ -1,0 +1,157 @@
+{
+  "data": {
+    "id": "1269",
+    "type": "item",
+    "attributes": {
+      "uuid": "d8515b4b-ac9b-453b-97aa-cfd2253e7173",
+      "name": "Steel pickaxe",
+      "members": false,
+      "release_date": "2003-05-27",
+      "examine": "Used for mining.",
+      "tradeable": false,
+      "ge_tradeable": false,
+      "lowalch": 200,
+      "highalch": 300,
+      "is_equip": true,
+      "is_weapon": true,
+      "icon_base64": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABcElEQVR4Xu2WzUsCQRjGZ/+ILkGwh4gOEV26deouiGSGFpiJYn4URgR2TW99HKPu/ZtvPDsMOzPuhzqz7Ev0wAPLMuv+/M2LjhB/KwGZLTUBHYaCjncFnewLOj0QRUPZ3365t50OPd1N6GU2o/f5PLp3FIa+oeTLWvV6bm8uWzTqdulxPKLPt1ffQDHIRa22Uve25ZbB0v1goNlzTkDXzSZdNRoG0Hm1mtqdLRHNEKqAYGvS6/kCW56RrMJOElC/3Y5m63k6dQfD/ucVL9DtJAFhtlBcfywW7mDZMe2gujkFpLYfo4B7P99fRUAlw9gGVTGHZ5VKBAZ7aq39qQ4xgXQYfVUSHEw9DIc+LaXbsVfqseEwb56g5F+FDZMHpEeBrftcQkw7uF7FTlo2fU6Lux2P2Wx2CgxjOyXDILEd10H2EMZ2WAzyv53sxEAs7KjtwnmZhR0FxMAOIo+oDH53VCQQygQIkYcpBtsVhxVMmfkFhFayRPTAVZ4AAAAASUVORK5CYII="
+    },
+    "relationships": {
+      "equip": {
+        "data": {
+          "id": "55a74c4c-7b13-418a-aee6-57ce4896d05a",
+          "type": "equip"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Steel_pickaxe"
+    },
+    "meta": {
+      "incomplete": false
+    }
+  },
+  "included": [
+    {
+      "id": "55a74c4c-7b13-418a-aee6-57ce4896d05a",
+      "type": "equip",
+      "attributes": {
+        "slot": "weapon",
+        "passive_effect": null,
+        "requirements": {
+          "attack_level": 5,
+          "mining_level": 6
+        }
+      },
+      "relationships": {
+        "equip_stat": {
+          "data": {
+            "id": "2a4a4316-e279-4008-baf4-ec542dcfd23c",
+            "type": "equip_stat"
+          }
+        },
+        "attack_stat": {
+          "data": {
+            "id": "4f478fd2-f618-4ab6-b6af-74234a30b655",
+            "type": "attack_stat"
+          }
+        }
+      }
+    },
+    {
+      "id": "4f478fd2-f618-4ab6-b6af-74234a30b655",
+      "type": "attack_stat",
+      "attributes": {
+        "attack_speed": 5,
+        "attack_type": "pickaxe",
+        "special": null,
+        "stances": [
+          {
+            "name": "spike",
+            "style": "accurate",
+            "boosts": {
+              "accuracy": 3
+            },
+            "experience": {
+              "hitpoints": 1.3333,
+              "attack": 4
+            },
+            "combat_accuracy_stat": "attack_level",
+            "combat_damage_stat": "strength_level",
+            "equip_accuracy_stat": "stab_attack",
+            "equip_damage_stat": "stab_attack",
+            "target_equip_defense_stat": "stab_defense"
+          },
+          {
+            "name": "impale",
+            "style": "aggressive",
+            "boosts": {
+              "damage": 3
+            },
+            "experience": {
+              "hitpoints": 1.3333,
+              "strength": 4
+            },
+            "combat_accuracy_stat": "attack_level",
+            "combat_damage_stat": "strength_level",
+            "equip_accuracy_stat": "stab_attack",
+            "equip_damage_stat": "stab_attack",
+            "target_equip_defense_stat": "stab_defense"
+          },
+          {
+            "name": "smash",
+            "style": "aggressive",
+            "boosts": {
+              "damage": 3
+            },
+            "experience": {
+              "hitpoints": 1.3333,
+              "strength": 4
+            },
+            "combat_accuracy_stat": "attack_level",
+            "combat_damage_stat": "strength_level",
+            "equip_accuracy_stat": "crush_attack",
+            "equip_damage_stat": "crush_attack",
+            "target_equip_defense_stat": "crush_defense"
+          },
+          {
+            "name": "block",
+            "style": "defensive",
+            "boosts": {
+              "defense": 3
+            },
+            "experience": {
+              "hitpoints": 1.3333,
+              "defense": 4
+            },
+            "combat_accuracy_stat": "attack_level",
+            "combat_damage_stat": "strength_level",
+            "equip_accuracy_stat": "stab_attack",
+            "equip_damage_stat": "stab_attack",
+            "target_equip_defense_stat": "stab_defense"
+          }
+        ]
+      }
+    },
+    {
+      "id": "2a4a4316-e279-4008-baf4-ec542dcfd23c",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 8,
+        "slash_attack": -2,
+        "crush_attack": 6,
+        "ranged_attack": 0,
+        "magic_attack": 0,
+        "stab_defense": 0,
+        "slash_defense": 1,
+        "crush_defense": 0,
+        "ranged_defense": 0,
+        "magic_defense": 0,
+        "melee_strength": 9,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

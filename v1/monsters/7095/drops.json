@@ -1,0 +1,660 @@
+{
+  "data": [
+    {
+      "id": "995-7095",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1171,
+        "quantity_max": 1969,
+        "rarity": "0.125"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Tortured gorilla (Level 142)"
+      }
+    },
+    {
+      "id": "5295-7095",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Ranarr seed",
+        "monster_name": "Tortured gorilla (Level 142)"
+      }
+    },
+    {
+      "id": "10977-7095",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000199501246882793"
+      },
+      "meta": {
+        "item_name": "Curved bone",
+        "monster_name": "Tortured gorilla (Level 142)"
+      }
+    },
+    {
+      "id": "12073-7095",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000666666666666667"
+      },
+      "meta": {
+        "item_name": "Clue scroll (elite)",
+        "monster_name": "Tortured gorilla (Level 142)"
+      }
+    },
+    {
+      "id": "10976-7095",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0025"
+      },
+      "meta": {
+        "item_name": "Long bone",
+        "monster_name": "Tortured gorilla (Level 142)"
+      }
+    },
+    {
+      "id": "2722-7095",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00333333333333333"
+      },
+      "meta": {
+        "item_name": "Clue scroll (hard)",
+        "monster_name": "Tortured gorilla (Level 142)"
+      }
+    },
+    {
+      "id": "143-7095",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Prayer potion (1 dose)",
+        "monster_name": "Tortured gorilla (Level 142)"
+      }
+    },
+    {
+      "id": "385-7095",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Shark",
+        "monster_name": "Tortured gorilla (Level 142)"
+      }
+    },
+    {
+      "id": "19582-7095",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Dragon javelin heads",
+        "monster_name": "Tortured gorilla (Level 142)"
+      }
+    },
+    {
+      "id": "19580-7095",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Rune javelin heads",
+        "monster_name": "Tortured gorilla (Level 142)"
+      }
+    },
+    {
+      "id": "1603-7095",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 2,
+        "quantity_max": 3,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Ruby",
+        "monster_name": "Tortured gorilla (Level 142)"
+      }
+    },
+    {
+      "id": "2361-7095",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 1,
+        "quantity_max": 2,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Adamantite bar",
+        "monster_name": "Tortured gorilla (Level 142)"
+      }
+    },
+    {
+      "id": "19584-7095",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 100,
+        "quantity_max": 299,
+        "rarity": "0.125"
+      },
+      "meta": {
+        "item_name": "Javelin shaft",
+        "monster_name": "Tortured gorilla (Level 142)"
+      }
+    },
+    {
+      "id": "22877-7095",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.001953125"
+      },
+      "meta": {
+        "item_name": "Dragonfruit tree seed",
+        "monster_name": "Tortured gorilla (Level 142)"
+      }
+    },
+    {
+      "id": "5317-7095",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.001953125"
+      },
+      "meta": {
+        "item_name": "Spirit seed",
+        "monster_name": "Tortured gorilla (Level 142)"
+      }
+    },
+    {
+      "id": "5316-7095",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Magic seed",
+        "monster_name": "Tortured gorilla (Level 142)"
+      }
+    },
+    {
+      "id": "5304-7095",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Torstol seed",
+        "monster_name": "Tortured gorilla (Level 142)"
+      }
+    },
+    {
+      "id": "21488-7095",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Mahogany seed",
+        "monster_name": "Tortured gorilla (Level 142)"
+      }
+    },
+    {
+      "id": "5289-7095",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Palm tree seed",
+        "monster_name": "Tortured gorilla (Level 142)"
+      }
+    },
+    {
+      "id": "5315-7095",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Yew seed",
+        "monster_name": "Tortured gorilla (Level 142)"
+      }
+    },
+    {
+      "id": "5314-7095",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Maple seed",
+        "monster_name": "Tortured gorilla (Level 142)"
+      }
+    },
+    {
+      "id": "5313-7095",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Willow seed",
+        "monster_name": "Tortured gorilla (Level 142)"
+      }
+    },
+    {
+      "id": "5288-7095",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Papaya tree seed",
+        "monster_name": "Tortured gorilla (Level 142)"
+      }
+    },
+    {
+      "id": "5321-7095",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 15,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Watermelon seed",
+        "monster_name": "Tortured gorilla (Level 142)"
+      }
+    },
+    {
+      "id": "5300-7095",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Snapdragon seed",
+        "monster_name": "Tortured gorilla (Level 142)"
+      }
+    },
+    {
+      "id": "217-7095",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.125"
+      },
+      "meta": {
+        "item_name": "Grimy dwarf weed",
+        "monster_name": "Tortured gorilla (Level 142)"
+      }
+    },
+    {
+      "id": "213-7095",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.125"
+      },
+      "meta": {
+        "item_name": "Grimy kwuarm",
+        "monster_name": "Tortured gorilla (Level 142)"
+      }
+    },
+    {
+      "id": "215-7095",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.125"
+      },
+      "meta": {
+        "item_name": "Grimy cadantine",
+        "monster_name": "Tortured gorilla (Level 142)"
+      }
+    },
+    {
+      "id": "560-7095",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 12,
+        "quantity_max": 20,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Death rune (Regular)",
+        "monster_name": "Tortured gorilla (Level 142)"
+      }
+    },
+    {
+      "id": "564-7095",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 22,
+        "quantity_max": 30,
+        "rarity": "0.125"
+      },
+      "meta": {
+        "item_name": "Cosmic rune",
+        "monster_name": "Tortured gorilla (Level 142)"
+      }
+    },
+    {
+      "id": "557-7095",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 418,
+        "quantity_max": 599,
+        "rarity": "0.125"
+      },
+      "meta": {
+        "item_name": "Earth rune (Regular)",
+        "monster_name": "Tortured gorilla (Level 142)"
+      }
+    },
+    {
+      "id": "9143-7095",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.125"
+      },
+      "meta": {
+        "item_name": "Adamant bolts (Unpoisoned)",
+        "monster_name": "Tortured gorilla (Level 142)"
+      }
+    },
+    {
+      "id": "1333-7095",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Rune scimitar",
+        "monster_name": "Tortured gorilla (Level 142)"
+      }
+    },
+    {
+      "id": "1147-7095",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Rune med helm",
+        "monster_name": "Tortured gorilla (Level 142)"
+      }
+    },
+    {
+      "id": "19610-7095",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0000666666666666667"
+      },
+      "meta": {
+        "item_name": "Monkey tail",
+        "monster_name": "Tortured gorilla (Level 142)"
+      }
+    },
+    {
+      "id": "19589-7095",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0000666666666666667"
+      },
+      "meta": {
+        "item_name": "Heavy frame",
+        "monster_name": "Tortured gorilla (Level 142)"
+      }
+    },
+    {
+      "id": "19586-7095",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000133333333333333"
+      },
+      "meta": {
+        "item_name": "Light frame",
+        "monster_name": "Tortured gorilla (Level 142)"
+      }
+    },
+    {
+      "id": "19601-7095",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0002"
+      },
+      "meta": {
+        "item_name": "Ballista spring",
+        "monster_name": "Tortured gorilla (Level 142)"
+      }
+    },
+    {
+      "id": "19592-7095",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0002"
+      },
+      "meta": {
+        "item_name": "Ballista limbs",
+        "monster_name": "Tortured gorilla (Level 142)"
+      }
+    },
+    {
+      "id": "19529-7095",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000333333333333333"
+      },
+      "meta": {
+        "item_name": "Zenyte shard",
+        "monster_name": "Tortured gorilla (Level 142)"
+      }
+    },
+    {
+      "id": "532-7095",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Big bones",
+        "monster_name": "Tortured gorilla (Level 142)"
+      }
+    }
+  ]
+}

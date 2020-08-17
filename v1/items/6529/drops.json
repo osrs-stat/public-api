@@ -1,0 +1,100 @@
+{
+  "data": [
+    {
+      "id": "6529-2154",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 71,
+        "rarity": "0.125"
+      },
+      "meta": {
+        "item_name": "Tokkul",
+        "monster_name": "TzHaar-Mej (monster)"
+      }
+    },
+    {
+      "id": "6529-2161",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 16,
+        "rarity": "0.125"
+      },
+      "meta": {
+        "item_name": "Tokkul",
+        "monster_name": "TzHaar-Hur"
+      }
+    },
+    {
+      "id": "6529-2173",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 103,
+        "rarity": "0.125"
+      },
+      "meta": {
+        "item_name": "Tokkul",
+        "monster_name": "TzHaar-Ket (Level 149)"
+      }
+    },
+    {
+      "id": "6529-2161",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 3,
+        "quantity_max": 7,
+        "rarity": "0.933333333333333"
+      },
+      "meta": {
+        "item_name": "Tokkul",
+        "monster_name": "TzHaar-Hur"
+      }
+    },
+    {
+      "id": "6529-2167",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 59,
+        "rarity": "0.125"
+      },
+      "meta": {
+        "item_name": "Tokkul",
+        "monster_name": "TzHaar-Xil"
+      }
+    },
+    {
+      "id": "6529-7679",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 103,
+        "rarity": "0.125"
+      },
+      "meta": {
+        "item_name": "Tokkul",
+        "monster_name": "TzHaar-Ket (Level 221)"
+      }
+    }
+  ]
+}

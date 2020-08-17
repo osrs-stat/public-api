@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "id": "13453-3134",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.04"
+      },
+      "meta": {
+        "item_name": "Ensouled imp head (Drop)",
+        "monster_name": "Imp (GWD)"
+      }
+    },
+    {
+      "id": "13453-5007",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.04"
+      },
+      "meta": {
+        "item_name": "Ensouled imp head (Drop)",
+        "monster_name": "Imp (Regular)"
+      }
+    }
+  ]
+}

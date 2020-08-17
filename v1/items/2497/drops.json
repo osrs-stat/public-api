@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "id": "2497-8609",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Black d'hide chaps",
+        "monster_name": "Hydra"
+      }
+    },
+    {
+      "id": "2497-10402",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Black d'hide chaps",
+        "monster_name": "Colossal Hydra"
+      }
+    }
+  ]
+}

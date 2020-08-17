@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "id": "13200-2043",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0000763009308713566"
+      },
+      "meta": {
+        "item_name": "Tanzanite mutagen",
+        "monster_name": "Zulrah (Magma)"
+      }
+    },
+    {
+      "id": "13200-2044",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0000763009308713566"
+      },
+      "meta": {
+        "item_name": "Tanzanite mutagen",
+        "monster_name": "Zulrah (Tanzanite)"
+      }
+    },
+    {
+      "id": "13200-2042",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0000763009308713566"
+      },
+      "meta": {
+        "item_name": "Tanzanite mutagen",
+        "monster_name": "Zulrah (Serpentine)"
+      }
+    }
+  ]
+}

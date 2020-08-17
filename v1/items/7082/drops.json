@@ -1,0 +1,84 @@
+{
+  "data": [
+    {
+      "id": "7082-2514",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.01"
+      },
+      "meta": {
+        "item_name": "Fried mushrooms",
+        "monster_name": "Ankou (Level 75)"
+      }
+    },
+    {
+      "id": "7082-7864",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.01"
+      },
+      "meta": {
+        "item_name": "Fried mushrooms",
+        "monster_name": "Ankou (Level 98)"
+      }
+    },
+    {
+      "id": "7082-2516",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.01"
+      },
+      "meta": {
+        "item_name": "Fried mushrooms",
+        "monster_name": "Ankou (Level 86)"
+      }
+    },
+    {
+      "id": "7082-7257",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.01"
+      },
+      "meta": {
+        "item_name": "Fried mushrooms",
+        "monster_name": "Ankou (Level 95)"
+      }
+    },
+    {
+      "id": "7082-2515",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.01"
+      },
+      "meta": {
+        "item_name": "Fried mushrooms",
+        "monster_name": "Ankou (Level 82)"
+      }
+    }
+  ]
+}

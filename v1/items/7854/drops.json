@@ -1,0 +1,84 @@
+{
+  "data": [
+    {
+      "id": "7854-1038",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Monkey paw (Unpolished)",
+        "monster_name": "Monkey (monster) (Mos Le'Harmless)"
+      }
+    },
+    {
+      "id": "7854-5281",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Monkey paw (Unpolished)",
+        "monster_name": "Monkey Zombie (Level 98)"
+      }
+    },
+    {
+      "id": "7854-5282",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Monkey paw (Unpolished)",
+        "monster_name": "Monkey Zombie (Level 129)"
+      }
+    },
+    {
+      "id": "7854-5283",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Monkey paw (Unpolished)",
+        "monster_name": "Monkey Zombie (Level 82)"
+      }
+    },
+    {
+      "id": "7854-2848",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Monkey paw (Unpolished)",
+        "monster_name": "Monkey (monster) (Common)"
+      }
+    }
+  ]
+}

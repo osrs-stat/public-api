@@ -1,0 +1,75 @@
+{
+  "data": {
+    "id": "1191",
+    "type": "item",
+    "attributes": {
+      "uuid": "0abeb4ad-d866-4f3f-a9ee-7b8c3226853d",
+      "name": "Iron kiteshield",
+      "members": false,
+      "release_date": "2001-01-04",
+      "examine": "A large metal shield.",
+      "tradeable": false,
+      "ge_tradeable": false,
+      "lowalch": 95,
+      "highalch": 142,
+      "is_equip": true,
+      "is_weapon": false,
+      "icon_base64": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABzElEQVR4Xu3WTUtCQRgF4HuX/YCWgrSIFhFuRJIkURITCRXUUFr0/3/ErTPT6R7HGe+nH0EvnFVGj2feO7co+p9aJ05sLmLi5Ok+Sgat6Ad1VpjFjIdDE6DG7atzwnZB09HIBKjp48lhcdK+SzEKensdm7aAWvVPBvO3QxAyn0wMat6zSWG14+Lk4SbcDsOd4hEStttaLbjsdhS0XS6Tj/XaxIXVgAu3oyBgfCDkc7MxcWHbIXGFJtyOCyImBNIAxD1rNZt5UYfbIchtJwvkYgqBtJ0s0PtikQnSJS+MQTu4e4AizAVpO1mgSpjbhsUwRCE+0Go284Lco+KNXgCDse0Mej2Tl37ftKMohu1kgfSyLNXOc7f7iyHIfar0ImR8oApHhfle5E7nICiE4Q2NEMRm8LNSR4V2FKRHpiACcEw8KmI0wOjelAJhf0IgH8bdHcWU3BtOnDSuoz1UUZAuMj5f4qh09lsiKIRRlC5yxXZ0UpQP5EJ8DQGDa6FiOzrpTQ2QuakD7RCjO1RjO5y0JaDytKOgmtvhpC0B5D7SvlR8zPOMRemrQpfbBSH4AkdoR8ei2Ja+bH3AI7ajo/8HH84JMHb4h/LE/d0/P19JC4F8dfRmiQAAAABJRU5ErkJggg=="
+    },
+    "relationships": {
+      "equip": {
+        "data": {
+          "id": "e79369e8-4e39-4363-b14b-f43e1d451529",
+          "type": "equip"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Iron_kiteshield"
+    },
+    "meta": {
+      "incomplete": false
+    }
+  },
+  "included": [
+    {
+      "id": "e79369e8-4e39-4363-b14b-f43e1d451529",
+      "type": "equip",
+      "attributes": {
+        "slot": "shield",
+        "passive_effect": null,
+        "requirements": {
+          "defense_level": 1
+        }
+      },
+      "relationships": {
+        "equip_stat": {
+          "data": {
+            "id": "e1cca889-240c-48f2-8dd2-ce6d49b22b41",
+            "type": "equip_stat"
+          }
+        }
+      }
+    },
+    {
+      "id": "e1cca889-240c-48f2-8dd2-ce6d49b22b41",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 0,
+        "slash_attack": 0,
+        "crush_attack": 0,
+        "ranged_attack": -2,
+        "magic_attack": -8,
+        "stab_defense": 8,
+        "slash_defense": 10,
+        "crush_defense": 9,
+        "ranged_defense": 9,
+        "magic_defense": -1,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

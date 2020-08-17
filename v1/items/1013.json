@@ -1,0 +1,73 @@
+{
+  "data": {
+    "id": "1013",
+    "type": "item",
+    "attributes": {
+      "uuid": "6a918330-31ee-4c61-975e-21992a205ede",
+      "name": "Pink skirt",
+      "members": false,
+      "release_date": "2001-01-04",
+      "examine": "A ladies skirt.",
+      "tradeable": false,
+      "ge_tradeable": false,
+      "lowalch": 0,
+      "highalch": 1,
+      "is_equip": true,
+      "is_weapon": false,
+      "icon_base64": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACCklEQVR4Xu2X7StDURzHd/4AL7xQ8kpLWpKkLamJSI1GI0a2iXlqzMNEnvJskZSUlJQkJSVJUpIkyZ/10/eso7vr7I66597Iqd/b06ff9+Ge63D8jcNIPrYcRuPVTdRXWUftZVVUX1xGFQVOys/JtQuK0WXvNB13jtBuoJdWfEEOGPHUcqDywkKroRjdDMzReSRBR8HYJ9R0XYsdQIweYst0N7RIV30zdBoao4P2Qdpp6eFQkNBC2Rg9ja7R/fAS3Q4u0HV0lkt30h1PgyrOK7ACitHrRDIr0HpjF3mdLiukywyklS3ZFKJAqcd+oMOOIW7uLX/YqrQxehnfNATaa43yLaECLAUSKUP0RdIQ//22fr4lyGYr0Fl4gpckfIQtQTbFQIzeE9uGQEgaZMOWIJvPVa4y+sZAaGwhG7YE2ULuapVbSgEhZc/xDXocWU0z9kXP1KdsWnMrBXqb3JJu6B8odVKlqJdLAKGLZMauKSpRYezM/jECgrH9JW4VWzIGwgAISQOQtiDFU8R0IJl/MAIqE5Ci6H8FwoaMgEQXDVQ1qAHSyiUDkpUjkjbqbTQb6Kt/sgFpv2mJmmazn7TZgTAAQhfpgeYb2sz2Ubp/tEBaKAGkL0e8r/HvphRItiVZWyNpeBcp8REGkum3JAPSt7WAMRHI4Uhdpv+H/96YDqM94vKfjv6eX3c+AFQYtlb/x/QwAAAAAElFTkSuQmCC"
+    },
+    "relationships": {
+      "equip": {
+        "data": {
+          "id": "cefcf46a-23a8-4953-851a-2926a262c214",
+          "type": "equip"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Pink_skirt"
+    },
+    "meta": {
+      "incomplete": false
+    }
+  },
+  "included": [
+    {
+      "id": "cefcf46a-23a8-4953-851a-2926a262c214",
+      "type": "equip",
+      "attributes": {
+        "slot": "legs",
+        "passive_effect": null,
+        "requirements": null
+      },
+      "relationships": {
+        "equip_stat": {
+          "data": {
+            "id": "f88f69cf-8de3-4ebe-8f2f-0f73984a6b5d",
+            "type": "equip_stat"
+          }
+        }
+      }
+    },
+    {
+      "id": "f88f69cf-8de3-4ebe-8f2f-0f73984a6b5d",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 0,
+        "slash_attack": 0,
+        "crush_attack": 0,
+        "ranged_attack": 0,
+        "magic_attack": 0,
+        "stab_defense": 0,
+        "slash_defense": 0,
+        "crush_defense": 0,
+        "ranged_defense": 0,
+        "magic_defense": 0,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

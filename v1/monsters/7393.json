@@ -1,0 +1,119 @@
+{
+  "data": {
+    "id": "7393",
+    "type": "monster",
+    "attributes": {
+      "uuid": "5c613520-c00a-45f4-8f08-59fec51ccbd2",
+      "name": "Cockathrice",
+      "members": true,
+      "release_date": "2016-09-15",
+      "examine": "Careful where he puts that beak!",
+      "combat_level_override": null,
+      "max_hit_override": null,
+      "target_types": [
+
+      ],
+      "classification_types": [
+        "cockatrice"
+      ],
+      "poison": false,
+      "immune_poison": false,
+      "immune_venom": false,
+      "slayer_xp": 950.0,
+      "slayer_level": 25,
+      "slayer_masters": [
+        "mazchna",
+        "vannaka",
+        "chaeldar"
+      ],
+      "icon_base64": null
+    },
+    "relationships": {
+      "combat_stat": {
+        "data": {
+          "id": "483fec37-34ee-43d4-b8af-8d28e28b4a9c",
+          "type": "combat_stat"
+        }
+      },
+      "equip_stat": {
+        "data": {
+          "id": "416ac563-e3ac-4ca5-8578-f328853a5075",
+          "type": "equip_stat"
+        }
+      },
+      "attack_stat": {
+        "data": {
+          "id": "a98505bf-54c8-4e93-a2af-45150c63ea2a",
+          "type": "attack_stat"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Cockathrice"
+    },
+    "meta": {
+      "incomplete": true
+    }
+  },
+  "included": [
+    {
+      "id": "a98505bf-54c8-4e93-a2af-45150c63ea2a",
+      "type": "attack_stat",
+      "attributes": {
+        "attack_speed": 4,
+        "attack_type": "monster",
+        "special": null,
+        "stances": [
+          {
+            "name": "Monster stab",
+            "style": null,
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": null,
+            "combat_accuracy_stat": "attack_level",
+            "combat_damage_stat": "strength_level",
+            "equip_accuracy_stat": "stab_attack",
+            "equip_damage_stat": "stab_attack",
+            "target_equip_defense_stat": "stab_defense"
+          }
+        ]
+      }
+    },
+    {
+      "id": "483fec37-34ee-43d4-b8af-8d28e28b4a9c",
+      "type": "monster_combat_stat",
+      "attributes": {
+        "hitpoints_level": 95,
+        "attack_level": 63,
+        "strength_level": 78,
+        "defense_level": 78,
+        "magic_level": 1,
+        "ranged_level": 1,
+        "prayer_level": 0
+      }
+    },
+    {
+      "id": "416ac563-e3ac-4ca5-8578-f328853a5075",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 0,
+        "slash_attack": 0,
+        "crush_attack": 0,
+        "ranged_attack": 0,
+        "magic_attack": 0,
+        "stab_defense": 20,
+        "slash_defense": 20,
+        "crush_defense": 0,
+        "ranged_defense": 0,
+        "magic_defense": 20,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

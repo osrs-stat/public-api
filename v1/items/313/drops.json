@@ -1,0 +1,4004 @@
+{
+  "data": [
+    {
+      "id": "313-4109",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Penda"
+      }
+    },
+    {
+      "id": "313-4108",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Ocga"
+      }
+    },
+    {
+      "id": "313-4107",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Breoca"
+      }
+    },
+    {
+      "id": "313-3298",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Man (Cavalier)"
+      }
+    },
+    {
+      "id": "313-3292",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Al-Kharid warrior"
+      }
+    },
+    {
+      "id": "313-3285",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Anja"
+      }
+    },
+    {
+      "id": "313-3284",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Hengel"
+      }
+    },
+    {
+      "id": "313-3282",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Jeff"
+      }
+    },
+    {
+      "id": "313-3281",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Rusty"
+      }
+    },
+    {
+      "id": "313-3280",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Narf"
+      }
+    },
+    {
+      "id": "313-3279",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Cuffs"
+      }
+    },
+    {
+      "id": "313-3266",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Man (Grey)"
+      }
+    },
+    {
+      "id": "313-3265",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Man (Pink)"
+      }
+    },
+    {
+      "id": "313-3264",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Man (Light blue)"
+      }
+    },
+    {
+      "id": "313-3263",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Drunken man"
+      }
+    },
+    {
+      "id": "313-3261",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Man (Black)"
+      }
+    },
+    {
+      "id": "313-3184",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.078125"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Dagannoth spawn"
+      }
+    },
+    {
+      "id": "313-3114",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Farmer"
+      }
+    },
+    {
+      "id": "313-3114",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Farmer"
+      }
+    },
+    {
+      "id": "313-3109",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Man (Backpack)"
+      }
+    },
+    {
+      "id": "313-3108",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Man (Green)"
+      }
+    },
+    {
+      "id": "313-3107",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Man (Red)"
+      }
+    },
+    {
+      "id": "313-3015",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Woman"
+      }
+    },
+    {
+      "id": "313-3014",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Man (Blue)"
+      }
+    },
+    {
+      "id": "313-2592",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 15,
+        "quantity_max": null,
+        "rarity": "0.078125"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Mogre"
+      }
+    },
+    {
+      "id": "313-2592",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.234375"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Mogre"
+      }
+    },
+    {
+      "id": "313-2516",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 60,
+        "quantity_max": null,
+        "rarity": "0.33"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Ankou (Level 86)"
+      }
+    },
+    {
+      "id": "313-2515",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 60,
+        "quantity_max": null,
+        "rarity": "0.33"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Ankou (Level 82)"
+      }
+    },
+    {
+      "id": "313-2514",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 60,
+        "quantity_max": null,
+        "rarity": "0.33"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Ankou (Level 75)"
+      }
+    },
+    {
+      "id": "313-2507",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 7,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie (Level 53)"
+      }
+    },
+    {
+      "id": "313-2507",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 4,
+        "quantity_max": null,
+        "rarity": "0.1953125"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie (Level 53)"
+      }
+    },
+    {
+      "id": "313-2507",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.328125"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie (Level 53)"
+      }
+    },
+    {
+      "id": "313-2507",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 7,
+        "quantity_max": null,
+        "rarity": "0.203125"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie (Level 53)"
+      }
+    },
+    {
+      "id": "313-2507",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.2890625"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie (Level 53)"
+      }
+    },
+    {
+      "id": "313-2504",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 7,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie (Level 44)"
+      }
+    },
+    {
+      "id": "313-2504",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 4,
+        "quantity_max": null,
+        "rarity": "0.1953125"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie (Level 44)"
+      }
+    },
+    {
+      "id": "313-2504",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.328125"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie (Level 44)"
+      }
+    },
+    {
+      "id": "313-2504",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 7,
+        "quantity_max": null,
+        "rarity": "0.203125"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie (Level 44)"
+      }
+    },
+    {
+      "id": "313-2504",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.2890625"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie (Level 44)"
+      }
+    },
+    {
+      "id": "313-2501",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 7,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie (Level 30)"
+      }
+    },
+    {
+      "id": "313-2501",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 4,
+        "quantity_max": null,
+        "rarity": "0.1953125"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie (Level 30)"
+      }
+    },
+    {
+      "id": "313-2501",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.328125"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie (Level 30)"
+      }
+    },
+    {
+      "id": "313-2501",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 7,
+        "quantity_max": null,
+        "rarity": "0.203125"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie (Level 30)"
+      }
+    },
+    {
+      "id": "313-2501",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.2890625"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie (Level 30)"
+      }
+    },
+    {
+      "id": "313-1448",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Thief (Standard)"
+      }
+    },
+    {
+      "id": "313-1298",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Afflicted (Level 30)"
+      }
+    },
+    {
+      "id": "313-1297",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Afflicted (Level 32)"
+      }
+    },
+    {
+      "id": "313-1294",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Afflicted (Level 34)"
+      }
+    },
+    {
+      "id": "313-1293",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Afflicted (Level 37)"
+      }
+    },
+    {
+      "id": "313-1118",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Man (West Ardougne)"
+      }
+    },
+    {
+      "id": "313-1101",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 50,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Giant Sea Snake"
+      }
+    },
+    {
+      "id": "313-1098",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 50,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Sea Snake Hatchling"
+      }
+    },
+    {
+      "id": "313-1097",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 50,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Sea Snake Young"
+      }
+    },
+    {
+      "id": "313-973",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 50,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Dagannoth (Level 92 (1))"
+      }
+    },
+    {
+      "id": "313-970",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 50,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Dagannoth (Level 74 (1))"
+      }
+    },
+    {
+      "id": "313-946",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 7,
+        "quantity_max": null,
+        "rarity": "0.203125"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "https://oldschool.runescape.wiki/w/Ghast#Level_30"
+      }
+    },
+    {
+      "id": "313-624",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie swab (6)"
+      }
+    },
+    {
+      "id": "313-624",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 7,
+        "quantity_max": null,
+        "rarity": "0.1640625"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie swab (6)"
+      }
+    },
+    {
+      "id": "313-623",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie swab (5)"
+      }
+    },
+    {
+      "id": "313-623",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 7,
+        "quantity_max": null,
+        "rarity": "0.1640625"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie swab (5)"
+      }
+    },
+    {
+      "id": "313-622",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie swab (4)"
+      }
+    },
+    {
+      "id": "313-622",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 7,
+        "quantity_max": null,
+        "rarity": "0.1640625"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie swab (4)"
+      }
+    },
+    {
+      "id": "313-621",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie swab (3)"
+      }
+    },
+    {
+      "id": "313-621",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 7,
+        "quantity_max": null,
+        "rarity": "0.1640625"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie swab (3)"
+      }
+    },
+    {
+      "id": "313-620",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie swab (2)"
+      }
+    },
+    {
+      "id": "313-620",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 7,
+        "quantity_max": null,
+        "rarity": "0.1640625"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie swab (2)"
+      }
+    },
+    {
+      "id": "313-619",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie swab (1)"
+      }
+    },
+    {
+      "id": "313-619",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 7,
+        "quantity_max": null,
+        "rarity": "0.1640625"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie swab (1)"
+      }
+    },
+    {
+      "id": "313-618",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.171875"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie pirate (6)"
+      }
+    },
+    {
+      "id": "313-618",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie pirate (6)"
+      }
+    },
+    {
+      "id": "313-618",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 7,
+        "quantity_max": null,
+        "rarity": "0.1640625"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie pirate (6)"
+      }
+    },
+    {
+      "id": "313-617",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.171875"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie pirate (5)"
+      }
+    },
+    {
+      "id": "313-617",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie pirate (5)"
+      }
+    },
+    {
+      "id": "313-617",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 7,
+        "quantity_max": null,
+        "rarity": "0.1640625"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie pirate (5)"
+      }
+    },
+    {
+      "id": "313-616",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.171875"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie pirate (4)"
+      }
+    },
+    {
+      "id": "313-616",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie pirate (4)"
+      }
+    },
+    {
+      "id": "313-616",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 7,
+        "quantity_max": null,
+        "rarity": "0.1640625"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie pirate (4)"
+      }
+    },
+    {
+      "id": "313-615",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.171875"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie pirate (3)"
+      }
+    },
+    {
+      "id": "313-615",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie pirate (3)"
+      }
+    },
+    {
+      "id": "313-615",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 7,
+        "quantity_max": null,
+        "rarity": "0.1640625"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie pirate (3)"
+      }
+    },
+    {
+      "id": "313-614",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.171875"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie pirate (2)"
+      }
+    },
+    {
+      "id": "313-614",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie pirate (2)"
+      }
+    },
+    {
+      "id": "313-614",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 7,
+        "quantity_max": null,
+        "rarity": "0.1640625"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie pirate (2)"
+      }
+    },
+    {
+      "id": "313-599",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.171875"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie pirate (32)"
+      }
+    },
+    {
+      "id": "313-599",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie pirate (32)"
+      }
+    },
+    {
+      "id": "313-599",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 7,
+        "quantity_max": null,
+        "rarity": "0.1640625"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie pirate (32)"
+      }
+    },
+    {
+      "id": "313-597",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.171875"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie pirate (31)"
+      }
+    },
+    {
+      "id": "313-597",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie pirate (31)"
+      }
+    },
+    {
+      "id": "313-597",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 7,
+        "quantity_max": null,
+        "rarity": "0.1640625"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie pirate (31)"
+      }
+    },
+    {
+      "id": "313-595",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.171875"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie pirate (30)"
+      }
+    },
+    {
+      "id": "313-595",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie pirate (30)"
+      }
+    },
+    {
+      "id": "313-595",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 7,
+        "quantity_max": null,
+        "rarity": "0.1640625"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie pirate (30)"
+      }
+    },
+    {
+      "id": "313-593",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.171875"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie pirate (29)"
+      }
+    },
+    {
+      "id": "313-593",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie pirate (29)"
+      }
+    },
+    {
+      "id": "313-593",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 7,
+        "quantity_max": null,
+        "rarity": "0.1640625"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie pirate (29)"
+      }
+    },
+    {
+      "id": "313-592",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.171875"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie pirate (28)"
+      }
+    },
+    {
+      "id": "313-592",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie pirate (28)"
+      }
+    },
+    {
+      "id": "313-592",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 7,
+        "quantity_max": null,
+        "rarity": "0.1640625"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie pirate (28)"
+      }
+    },
+    {
+      "id": "313-590",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.171875"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie pirate (27)"
+      }
+    },
+    {
+      "id": "313-590",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie pirate (27)"
+      }
+    },
+    {
+      "id": "313-590",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 7,
+        "quantity_max": null,
+        "rarity": "0.1640625"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie pirate (27)"
+      }
+    },
+    {
+      "id": "313-588",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.171875"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie pirate (26)"
+      }
+    },
+    {
+      "id": "313-588",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie pirate (26)"
+      }
+    },
+    {
+      "id": "313-588",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 7,
+        "quantity_max": null,
+        "rarity": "0.1640625"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie pirate (26)"
+      }
+    },
+    {
+      "id": "313-586",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.171875"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie pirate (25)"
+      }
+    },
+    {
+      "id": "313-586",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie pirate (25)"
+      }
+    },
+    {
+      "id": "313-586",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 7,
+        "quantity_max": null,
+        "rarity": "0.1640625"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie pirate (25)"
+      }
+    },
+    {
+      "id": "313-584",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.171875"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie pirate (24)"
+      }
+    },
+    {
+      "id": "313-584",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie pirate (24)"
+      }
+    },
+    {
+      "id": "313-584",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 7,
+        "quantity_max": null,
+        "rarity": "0.1640625"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie pirate (24)"
+      }
+    },
+    {
+      "id": "313-582",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.171875"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie pirate (23)"
+      }
+    },
+    {
+      "id": "313-582",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie pirate (23)"
+      }
+    },
+    {
+      "id": "313-582",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 7,
+        "quantity_max": null,
+        "rarity": "0.1640625"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie pirate (23)"
+      }
+    },
+    {
+      "id": "313-581",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.171875"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie pirate (22)"
+      }
+    },
+    {
+      "id": "313-581",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie pirate (22)"
+      }
+    },
+    {
+      "id": "313-581",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 7,
+        "quantity_max": null,
+        "rarity": "0.1640625"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie pirate (22)"
+      }
+    },
+    {
+      "id": "313-580",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.171875"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie pirate (21)"
+      }
+    },
+    {
+      "id": "313-580",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie pirate (21)"
+      }
+    },
+    {
+      "id": "313-580",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 7,
+        "quantity_max": null,
+        "rarity": "0.1640625"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie pirate (21)"
+      }
+    },
+    {
+      "id": "313-579",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.171875"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie pirate (20)"
+      }
+    },
+    {
+      "id": "313-579",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie pirate (20)"
+      }
+    },
+    {
+      "id": "313-579",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 7,
+        "quantity_max": null,
+        "rarity": "0.1640625"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie pirate (20)"
+      }
+    },
+    {
+      "id": "313-578",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.171875"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie pirate (19)"
+      }
+    },
+    {
+      "id": "313-578",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie pirate (19)"
+      }
+    },
+    {
+      "id": "313-578",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 7,
+        "quantity_max": null,
+        "rarity": "0.1640625"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie pirate (19)"
+      }
+    },
+    {
+      "id": "313-577",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.171875"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie pirate (18)"
+      }
+    },
+    {
+      "id": "313-577",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie pirate (18)"
+      }
+    },
+    {
+      "id": "313-577",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 7,
+        "quantity_max": null,
+        "rarity": "0.1640625"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie pirate (18)"
+      }
+    },
+    {
+      "id": "313-576",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.171875"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie pirate (1)"
+      }
+    },
+    {
+      "id": "313-576",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie pirate (1)"
+      }
+    },
+    {
+      "id": "313-576",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 7,
+        "quantity_max": null,
+        "rarity": "0.1640625"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie pirate (1)"
+      }
+    },
+    {
+      "id": "313-575",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.171875"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie pirate (17)"
+      }
+    },
+    {
+      "id": "313-575",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie pirate (17)"
+      }
+    },
+    {
+      "id": "313-575",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 7,
+        "quantity_max": null,
+        "rarity": "0.1640625"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie pirate (17)"
+      }
+    },
+    {
+      "id": "313-574",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.171875"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie pirate (15)"
+      }
+    },
+    {
+      "id": "313-574",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie pirate (15)"
+      }
+    },
+    {
+      "id": "313-574",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 7,
+        "quantity_max": null,
+        "rarity": "0.1640625"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie pirate (15)"
+      }
+    },
+    {
+      "id": "313-573",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.171875"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie pirate (14)"
+      }
+    },
+    {
+      "id": "313-573",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie pirate (14)"
+      }
+    },
+    {
+      "id": "313-573",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 7,
+        "quantity_max": null,
+        "rarity": "0.1640625"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie pirate (14)"
+      }
+    },
+    {
+      "id": "313-572",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.171875"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie pirate (13)"
+      }
+    },
+    {
+      "id": "313-572",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie pirate (13)"
+      }
+    },
+    {
+      "id": "313-572",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 7,
+        "quantity_max": null,
+        "rarity": "0.1640625"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie pirate (13)"
+      }
+    },
+    {
+      "id": "313-571",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.171875"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie pirate (12)"
+      }
+    },
+    {
+      "id": "313-571",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie pirate (12)"
+      }
+    },
+    {
+      "id": "313-571",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 7,
+        "quantity_max": null,
+        "rarity": "0.1640625"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie pirate (12)"
+      }
+    },
+    {
+      "id": "313-569",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.171875"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie pirate (11)"
+      }
+    },
+    {
+      "id": "313-569",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie pirate (11)"
+      }
+    },
+    {
+      "id": "313-569",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 7,
+        "quantity_max": null,
+        "rarity": "0.1640625"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie pirate (11)"
+      }
+    },
+    {
+      "id": "313-568",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.171875"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie pirate (10)"
+      }
+    },
+    {
+      "id": "313-568",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie pirate (10)"
+      }
+    },
+    {
+      "id": "313-568",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 7,
+        "quantity_max": null,
+        "rarity": "0.1640625"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie pirate (10)"
+      }
+    },
+    {
+      "id": "313-567",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.171875"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie pirate (9)"
+      }
+    },
+    {
+      "id": "313-567",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie pirate (9)"
+      }
+    },
+    {
+      "id": "313-567",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 7,
+        "quantity_max": null,
+        "rarity": "0.1640625"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie pirate (9)"
+      }
+    },
+    {
+      "id": "313-565",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.171875"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie pirate (8)"
+      }
+    },
+    {
+      "id": "313-565",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie pirate (8)"
+      }
+    },
+    {
+      "id": "313-565",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 7,
+        "quantity_max": null,
+        "rarity": "0.1640625"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie pirate (8)"
+      }
+    },
+    {
+      "id": "313-563",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.171875"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie pirate (7)"
+      }
+    },
+    {
+      "id": "313-563",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie pirate (7)"
+      }
+    },
+    {
+      "id": "313-563",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 7,
+        "quantity_max": null,
+        "rarity": "0.1640625"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie pirate (7)"
+      }
+    },
+    {
+      "id": "313-561",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.171875"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Sorebones"
+      }
+    },
+    {
+      "id": "313-526",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Rogue (Level 15)"
+      }
+    },
+    {
+      "id": "313-513",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.046875"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Mugger"
+      }
+    },
+    {
+      "id": "313-414",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 7,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Banshee"
+      }
+    },
+    {
+      "id": "313-414",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 15,
+        "quantity_max": null,
+        "rarity": "0.171875"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Banshee"
+      }
+    },
+    {
+      "id": "313-100",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Rock Crab (Active)"
+      }
+    },
+    {
+      "id": "313-68",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.359375"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie (Entrana Dungeon) (5)"
+      }
+    },
+    {
+      "id": "313-67",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.359375"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie (Entrana Dungeon) (4)"
+      }
+    },
+    {
+      "id": "313-66",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.359375"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie (Entrana Dungeon) (3)"
+      }
+    },
+    {
+      "id": "313-65",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.359375"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie (Entrana Dungeon) (2)"
+      }
+    },
+    {
+      "id": "313-64",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.359375"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie (Entrana Dungeon) (1)"
+      }
+    },
+    {
+      "id": "313-49",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 7,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie (Level 24)"
+      }
+    },
+    {
+      "id": "313-49",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 4,
+        "quantity_max": null,
+        "rarity": "0.1953125"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie (Level 24)"
+      }
+    },
+    {
+      "id": "313-49",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.328125"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie (Level 24)"
+      }
+    },
+    {
+      "id": "313-49",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 7,
+        "quantity_max": null,
+        "rarity": "0.203125"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie (Level 24)"
+      }
+    },
+    {
+      "id": "313-49",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.2890625"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie (Level 24)"
+      }
+    },
+    {
+      "id": "313-42",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 7,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie (Level 18)"
+      }
+    },
+    {
+      "id": "313-42",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 4,
+        "quantity_max": null,
+        "rarity": "0.1953125"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie (Level 18)"
+      }
+    },
+    {
+      "id": "313-42",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.328125"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie (Level 18)"
+      }
+    },
+    {
+      "id": "313-42",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.2890625"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie (Level 18)"
+      }
+    },
+    {
+      "id": "313-26",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 7,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie (Level 13)"
+      }
+    },
+    {
+      "id": "313-26",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 4,
+        "quantity_max": null,
+        "rarity": "0.1953125"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie (Level 13)"
+      }
+    },
+    {
+      "id": "313-26",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.328125"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie (Level 13)"
+      }
+    },
+    {
+      "id": "313-26",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 7,
+        "quantity_max": null,
+        "rarity": "0.203125"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie (Level 13)"
+      }
+    },
+    {
+      "id": "313-26",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.2890625"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie (Level 13)"
+      }
+    },
+    {
+      "id": "313-42",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 7,
+        "quantity_max": null,
+        "rarity": "0.203125"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie (Level 18)"
+      }
+    },
+    {
+      "id": "313-8298",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 12,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Swamp Crab (Bloomed)"
+      }
+    },
+    {
+      "id": "313-8297",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 12,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Swamp Crab (Normal)"
+      }
+    },
+    {
+      "id": "313-7916",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Thief (The Warrens)"
+      }
+    },
+    {
+      "id": "313-7864",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 60,
+        "quantity_max": null,
+        "rarity": "0.33"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Ankou (Level 98)"
+      }
+    },
+    {
+      "id": "313-7799",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Ammonite Crab"
+      }
+    },
+    {
+      "id": "313-7488",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 7,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie (Level 72)"
+      }
+    },
+    {
+      "id": "313-7488",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 4,
+        "quantity_max": null,
+        "rarity": "0.1953125"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie (Level 72)"
+      }
+    },
+    {
+      "id": "313-7488",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.328125"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie (Level 72)"
+      }
+    },
+    {
+      "id": "313-7488",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 7,
+        "quantity_max": null,
+        "rarity": "0.203125"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie (Level 72)"
+      }
+    },
+    {
+      "id": "313-7488",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.2890625"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie (Level 72)"
+      }
+    },
+    {
+      "id": "313-7487",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 7,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie (Level 76)"
+      }
+    },
+    {
+      "id": "313-7487",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 4,
+        "quantity_max": null,
+        "rarity": "0.1953125"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie (Level 76)"
+      }
+    },
+    {
+      "id": "313-7487",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.328125"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie (Level 76)"
+      }
+    },
+    {
+      "id": "313-7487",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 7,
+        "quantity_max": null,
+        "rarity": "0.203125"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie (Level 76)"
+      }
+    },
+    {
+      "id": "313-7487",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.2890625"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie (Level 76)"
+      }
+    },
+    {
+      "id": "313-7486",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 7,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie (Level 56)"
+      }
+    },
+    {
+      "id": "313-7486",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 4,
+        "quantity_max": null,
+        "rarity": "0.1953125"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie (Level 56)"
+      }
+    },
+    {
+      "id": "313-7486",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.328125"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie (Level 56)"
+      }
+    },
+    {
+      "id": "313-7486",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 7,
+        "quantity_max": null,
+        "rarity": "0.203125"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie (Level 56)"
+      }
+    },
+    {
+      "id": "313-7486",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.2890625"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie (Level 56)"
+      }
+    },
+    {
+      "id": "313-7485",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 7,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie (Level 70)"
+      }
+    },
+    {
+      "id": "313-7485",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 4,
+        "quantity_max": null,
+        "rarity": "0.1953125"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie (Level 70)"
+      }
+    },
+    {
+      "id": "313-7485",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.328125"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie (Level 70)"
+      }
+    },
+    {
+      "id": "313-7485",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 7,
+        "quantity_max": null,
+        "rarity": "0.203125"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie (Level 70)"
+      }
+    },
+    {
+      "id": "313-7485",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.2890625"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie (Level 70)"
+      }
+    },
+    {
+      "id": "313-7390",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 7,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Screaming banshee"
+      }
+    },
+    {
+      "id": "313-7390",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 15,
+        "quantity_max": null,
+        "rarity": "0.171875"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Screaming banshee"
+      }
+    },
+    {
+      "id": "313-7260",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 50,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Dagannoth (Level 92 (2))"
+      }
+    },
+    {
+      "id": "313-7259",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 50,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Dagannoth (Level 74 (2))"
+      }
+    },
+    {
+      "id": "313-7257",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 60,
+        "quantity_max": null,
+        "rarity": "0.33"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Ankou (Level 95)"
+      }
+    },
+    {
+      "id": "313-6741",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 27,
+        "quantity_max": null,
+        "rarity": "0.125"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie (Sepulcher of Death)"
+      }
+    },
+    {
+      "id": "313-6737",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.125"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "River troll (Level 159)"
+      }
+    },
+    {
+      "id": "313-6736",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.125"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "River troll (Level 120)"
+      }
+    },
+    {
+      "id": "313-6735",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.125"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "River troll (Level 79)"
+      }
+    },
+    {
+      "id": "313-6603",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Rogue (Level 135)"
+      }
+    },
+    {
+      "id": "313-6466",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 7,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie (Tarn's Lair) (Level 81)"
+      }
+    },
+    {
+      "id": "313-6465",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 7,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie (Tarn's Lair) (Level 100)"
+      }
+    },
+    {
+      "id": "313-6464",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 7,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie (Tarn's Lair) (Level 98)"
+      }
+    },
+    {
+      "id": "313-6463",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 7,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie (Tarn's Lair) (Level 95)"
+      }
+    },
+    {
+      "id": "313-6462",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 7,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie (Tarn's Lair) (Level 90)"
+      }
+    },
+    {
+      "id": "313-6461",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 7,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie (Tarn's Lair) (Level 86)"
+      }
+    },
+    {
+      "id": "313-6460",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 7,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie (Tarn's Lair) (Level 85)"
+      }
+    },
+    {
+      "id": "313-6459",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 7,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie (Tarn's Lair) (Level 80)"
+      }
+    },
+    {
+      "id": "313-6458",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 7,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie (Tarn's Lair) (Level 76)"
+      }
+    },
+    {
+      "id": "313-6457",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 7,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie (Tarn's Lair) (Level 72)"
+      }
+    },
+    {
+      "id": "313-6456",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 7,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie (Tarn's Lair) (Level 70)"
+      }
+    },
+    {
+      "id": "313-6455",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 7,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie (Tarn's Lair) (Level 67)"
+      }
+    },
+    {
+      "id": "313-6454",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 7,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie (Tarn's Lair) (Level 61)"
+      }
+    },
+    {
+      "id": "313-6453",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 7,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie (Tarn's Lair) (Level 56)"
+      }
+    },
+    {
+      "id": "313-6452",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 7,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie (Tarn's Lair) (Level 50)"
+      }
+    },
+    {
+      "id": "313-6451",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 7,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie (Tarn's Lair) (Level 47)"
+      }
+    },
+    {
+      "id": "313-6450",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 7,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie (Tarn's Lair) (Level 42)"
+      }
+    },
+    {
+      "id": "313-6449",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 7,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Zombie (Tarn's Lair) (Level 40)"
+      }
+    },
+    {
+      "id": "313-5935",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Sand Crab (Active)"
+      }
+    },
+    {
+      "id": "313-5627",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 7,
+        "quantity_max": null,
+        "rarity": "0.203125"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "https://oldschool.runescape.wiki/w/Ghast#Level_139"
+      }
+    },
+    {
+      "id": "313-5626",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 7,
+        "quantity_max": null,
+        "rarity": "0.203125"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "https://oldschool.runescape.wiki/w/Ghast#Level_109"
+      }
+    },
+    {
+      "id": "313-5625",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 7,
+        "quantity_max": null,
+        "rarity": "0.203125"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "https://oldschool.runescape.wiki/w/Ghast#Level_79"
+      }
+    },
+    {
+      "id": "313-5217",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Thief (Varrock Gang)"
+      }
+    },
+    {
+      "id": "313-4800",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Giant lobster"
+      }
+    },
+    {
+      "id": "313-4247",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Thief (Monk's Friend)"
+      }
+    },
+    {
+      "id": "313-4167",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.1171875"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Outlaw"
+      }
+    },
+    {
+      "id": "313-4111",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Ceolburg"
+      }
+    },
+    {
+      "id": "313-4110",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Hygd"
+      }
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "id": "1731-239",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0546875"
+      },
+      "meta": {
+        "item_name": "Amulet of power",
+        "monster_name": "King Black Dragon"
+      }
+    },
+    {
+      "id": "1731-6618",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0546875"
+      },
+      "meta": {
+        "item_name": "Amulet of power",
+        "monster_name": "Crazy archaeologist"
+      }
+    }
+  ]
+}

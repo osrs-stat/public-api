@@ -1,0 +1,468 @@
+{
+  "data": [
+    {
+      "id": "540-3258",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.046875"
+      },
+      "meta": {
+        "item_name": "Druid's robe top",
+        "monster_name": "Druid"
+      }
+    },
+    {
+      "id": "215-3258",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00634765625"
+      },
+      "meta": {
+        "item_name": "Grimy cadantine",
+        "monster_name": "Druid"
+      }
+    },
+    {
+      "id": "1203-3258",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.046875"
+      },
+      "meta": {
+        "item_name": "Iron dagger (Unpoisoned)",
+        "monster_name": "Druid"
+      }
+    },
+    {
+      "id": "229-3258",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.078125"
+      },
+      "meta": {
+        "item_name": "Vial",
+        "monster_name": "Druid"
+      }
+    },
+    {
+      "id": "563-3258",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Law rune",
+        "monster_name": "Druid"
+      }
+    },
+    {
+      "id": "562-3258",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Chaos rune (Regular)",
+        "monster_name": "Druid"
+      }
+    },
+    {
+      "id": "554-3258",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 9,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Fire rune (Regular)",
+        "monster_name": "Druid"
+      }
+    },
+    {
+      "id": "557-3258",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 9,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Earth rune (Regular)",
+        "monster_name": "Druid"
+      }
+    },
+    {
+      "id": "555-3258",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 9,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Water rune (Regular)",
+        "monster_name": "Druid"
+      }
+    },
+    {
+      "id": "557-3258",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 27,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Earth rune (Regular)",
+        "monster_name": "Druid"
+      }
+    },
+    {
+      "id": "526-3258",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Bones",
+        "monster_name": "Druid"
+      }
+    },
+    {
+      "id": "175-3258",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Antipoison (3 dose)",
+        "monster_name": "Druid"
+      }
+    },
+    {
+      "id": "213-3258",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0079345703125"
+      },
+      "meta": {
+        "item_name": "Grimy kwuarm",
+        "monster_name": "Druid"
+      }
+    },
+    {
+      "id": "211-3258",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00952297233942804"
+      },
+      "meta": {
+        "item_name": "Grimy avantoe",
+        "monster_name": "Druid"
+      }
+    },
+    {
+      "id": "209-3258",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0126953125"
+      },
+      "meta": {
+        "item_name": "Grimy irit leaf",
+        "monster_name": "Druid"
+      }
+    },
+    {
+      "id": "207-3258",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0174506013745704"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Druid"
+      }
+    },
+    {
+      "id": "205-3258",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0222164497429728"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Druid"
+      }
+    },
+    {
+      "id": "203-3258",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0285648994515539"
+      },
+      "meta": {
+        "item_name": "Grimy tarromin",
+        "monster_name": "Druid"
+      }
+    },
+    {
+      "id": "201-3258",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0380883180198762"
+      },
+      "meta": {
+        "item_name": "Grimy marrentill",
+        "monster_name": "Druid"
+      }
+    },
+    {
+      "id": "2485-3258",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0047603702835716"
+      },
+      "meta": {
+        "item_name": "Grimy lantadyme",
+        "monster_name": "Druid"
+      }
+    },
+    {
+      "id": "217-3258",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0047603702835716"
+      },
+      "meta": {
+        "item_name": "Grimy dwarf weed",
+        "monster_name": "Druid"
+      }
+    },
+    {
+      "id": "199-3258",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.05078125"
+      },
+      "meta": {
+        "item_name": "Grimy guam leaf",
+        "monster_name": "Druid"
+      }
+    },
+    {
+      "id": "225-3258",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Limpwurt root",
+        "monster_name": "Druid"
+      }
+    },
+    {
+      "id": "538-3258",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Druid's robe",
+        "monster_name": "Druid"
+      }
+    },
+    {
+      "id": "995-3258",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 20,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Druid"
+      }
+    },
+    {
+      "id": "995-3258",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 15,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Druid"
+      }
+    },
+    {
+      "id": "995-3258",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Druid"
+      }
+    },
+    {
+      "id": "995-3258",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 4,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Druid"
+      }
+    },
+    {
+      "id": "995-3258",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.078125"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Druid"
+      }
+    }
+  ]
+}

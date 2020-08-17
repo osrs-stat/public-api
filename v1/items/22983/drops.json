@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "22983-8617",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00194552529182879"
+      },
+      "meta": {
+        "item_name": "Hydra leather",
+        "monster_name": "Alchemical Hydra (Four heads)"
+      }
+    },
+    {
+      "id": "22983-8621",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00194552529182879"
+      },
+      "meta": {
+        "item_name": "Hydra leather",
+        "monster_name": "Alchemical Hydra (Two heads)"
+      }
+    },
+    {
+      "id": "22983-8618",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00194552529182879"
+      },
+      "meta": {
+        "item_name": "Hydra leather",
+        "monster_name": "Alchemical Hydra (Three heads)"
+      }
+    },
+    {
+      "id": "22983-8615",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00194552529182879"
+      },
+      "meta": {
+        "item_name": "Hydra leather",
+        "monster_name": "Alchemical Hydra (Five heads)"
+      }
+    }
+  ]
+}

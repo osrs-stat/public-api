@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "id": "1067-7878",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Iron platelegs",
+        "monster_name": "Ice giant (Level 67)"
+      }
+    },
+    {
+      "id": "1067-2451",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.9"
+      },
+      "meta": {
+        "item_name": "Iron platelegs",
+        "monster_name": "Animated Iron Armour"
+      }
+    },
+    {
+      "id": "1067-2085",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Iron platelegs",
+        "monster_name": "Ice giant (Level 53)"
+      }
+    }
+  ]
+}

@@ -1,0 +1,596 @@
+{
+  "data": [
+    {
+      "id": "995-292",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 4,
+        "quantity_max": null,
+        "rarity": "0.15625"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Dwarf (Level 20)"
+      }
+    },
+    {
+      "id": "995-292",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 30,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Dwarf (Level 20)"
+      }
+    },
+    {
+      "id": "995-292",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.09375"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Dwarf (Level 20)"
+      }
+    },
+    {
+      "id": "995-292",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 4,
+        "quantity_max": null,
+        "rarity": "0.1796875"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Dwarf (Level 20)"
+      }
+    },
+    {
+      "id": "995-292",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 30,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Dwarf (Level 20)"
+      }
+    },
+    {
+      "id": "995-292",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.1171875"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Dwarf (Level 20)"
+      }
+    },
+    {
+      "id": "2347-292",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.078125"
+      },
+      "meta": {
+        "item_name": "Hammer",
+        "monster_name": "Dwarf (Level 20)"
+      }
+    },
+    {
+      "id": "561-292",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Dwarf (Level 20)"
+      }
+    },
+    {
+      "id": "526-292",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Bones",
+        "monster_name": "Dwarf (Level 20)"
+      }
+    },
+    {
+      "id": "1265-292",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.1015625"
+      },
+      "meta": {
+        "item_name": "Bronze pickaxe",
+        "monster_name": "Dwarf (Level 20)"
+      }
+    },
+    {
+      "id": "1139-292",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Bronze med helm",
+        "monster_name": "Dwarf (Level 20)"
+      }
+    },
+    {
+      "id": "1375-292",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Bronze battleaxe",
+        "monster_name": "Dwarf (Level 20)"
+      }
+    },
+    {
+      "id": "1363-292",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Iron battleaxe",
+        "monster_name": "Dwarf (Level 20)"
+      }
+    },
+    {
+      "id": "877-292",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": 12,
+        "rarity": "0.0546875"
+      },
+      "meta": {
+        "item_name": "Bronze bolts (Unpoisoned)",
+        "monster_name": "Dwarf (Level 20)"
+      }
+    },
+    {
+      "id": "561-292",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Dwarf (Level 20)"
+      }
+    },
+    {
+      "id": "562-292",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Chaos rune (Regular)",
+        "monster_name": "Dwarf (Level 20)"
+      }
+    },
+    {
+      "id": "453-292",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Coal",
+        "monster_name": "Dwarf (Level 20)"
+      }
+    },
+    {
+      "id": "2351-292",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Iron bar",
+        "monster_name": "Dwarf (Level 20)"
+      }
+    },
+    {
+      "id": "436-292",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Copper ore",
+        "monster_name": "Dwarf (Level 20)"
+      }
+    },
+    {
+      "id": "438-292",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Tin ore",
+        "monster_name": "Dwarf (Level 20)"
+      }
+    },
+    {
+      "id": "440-292",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Iron ore",
+        "monster_name": "Dwarf (Level 20)"
+      }
+    },
+    {
+      "id": "2349-292",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0546875"
+      },
+      "meta": {
+        "item_name": "Bronze bar",
+        "monster_name": "Dwarf (Level 20)"
+      }
+    },
+    {
+      "id": "2347-292",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.078125"
+      },
+      "meta": {
+        "item_name": "Hammer",
+        "monster_name": "Dwarf (Level 20)"
+      }
+    },
+    {
+      "id": "877-292",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": 12,
+        "rarity": "0.0546875"
+      },
+      "meta": {
+        "item_name": "Bronze bolts (Unpoisoned)",
+        "monster_name": "Dwarf (Level 20)"
+      }
+    },
+    {
+      "id": "1363-292",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Iron battleaxe",
+        "monster_name": "Dwarf (Level 20)"
+      }
+    },
+    {
+      "id": "562-292",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Chaos rune (Regular)",
+        "monster_name": "Dwarf (Level 20)"
+      }
+    },
+    {
+      "id": "1375-292",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Bronze battleaxe",
+        "monster_name": "Dwarf (Level 20)"
+      }
+    },
+    {
+      "id": "1139-292",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Bronze med helm",
+        "monster_name": "Dwarf (Level 20)"
+      }
+    },
+    {
+      "id": "1265-292",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.1015625"
+      },
+      "meta": {
+        "item_name": "Bronze pickaxe",
+        "monster_name": "Dwarf (Level 20)"
+      }
+    },
+    {
+      "id": "526-292",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Bones",
+        "monster_name": "Dwarf (Level 20)"
+      }
+    },
+    {
+      "id": "23182-292",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.01"
+      },
+      "meta": {
+        "item_name": "Clue scroll (beginner)",
+        "monster_name": "Dwarf (Level 20)"
+      }
+    },
+    {
+      "id": "453-292",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Coal",
+        "monster_name": "Dwarf (Level 20)"
+      }
+    },
+    {
+      "id": "2351-292",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Iron bar",
+        "monster_name": "Dwarf (Level 20)"
+      }
+    },
+    {
+      "id": "436-292",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Copper ore",
+        "monster_name": "Dwarf (Level 20)"
+      }
+    },
+    {
+      "id": "438-292",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Tin ore",
+        "monster_name": "Dwarf (Level 20)"
+      }
+    },
+    {
+      "id": "440-292",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Iron ore",
+        "monster_name": "Dwarf (Level 20)"
+      }
+    },
+    {
+      "id": "2349-292",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0546875"
+      },
+      "meta": {
+        "item_name": "Bronze bar",
+        "monster_name": "Dwarf (Level 20)"
+      }
+    }
+  ]
+}

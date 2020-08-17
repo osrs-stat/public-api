@@ -1,0 +1,84 @@
+{
+  "data": [
+    {
+      "id": "9244-3162",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": 10,
+        "rarity": "0.062992125984252"
+      },
+      "meta": {
+        "item_name": "Dragonstone bolts (e)",
+        "monster_name": "Kree'arra"
+      }
+    },
+    {
+      "id": "9244-8617",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 100,
+        "quantity_max": 120,
+        "rarity": "0.0198019801980198"
+      },
+      "meta": {
+        "item_name": "Dragonstone bolts (e)",
+        "monster_name": "Alchemical Hydra (Four heads)"
+      }
+    },
+    {
+      "id": "9244-8618",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 100,
+        "quantity_max": 120,
+        "rarity": "0.0198019801980198"
+      },
+      "meta": {
+        "item_name": "Dragonstone bolts (e)",
+        "monster_name": "Alchemical Hydra (Three heads)"
+      }
+    },
+    {
+      "id": "9244-8621",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 100,
+        "quantity_max": 120,
+        "rarity": "0.0198019801980198"
+      },
+      "meta": {
+        "item_name": "Dragonstone bolts (e)",
+        "monster_name": "Alchemical Hydra (Two heads)"
+      }
+    },
+    {
+      "id": "9244-8615",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 100,
+        "quantity_max": 120,
+        "rarity": "0.0198019801980198"
+      },
+      "meta": {
+        "item_name": "Dragonstone bolts (e)",
+        "monster_name": "Alchemical Hydra (Five heads)"
+      }
+    }
+  ]
+}

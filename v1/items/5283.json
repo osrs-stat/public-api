@@ -1,0 +1,31 @@
+{
+  "data": {
+    "id": "5283",
+    "type": "item",
+    "attributes": {
+      "uuid": "4aabc4d6-1ec3-439a-a747-fa6fe659a784",
+      "name": "Apple tree seed",
+      "members": true,
+      "release_date": "2005-06-06",
+      "examine": "Plant in a plantpot of soil to grow a sapling.",
+      "tradeable": false,
+      "ge_tradeable": false,
+      "lowalch": 5,
+      "highalch": 7,
+      "is_equip": false,
+      "is_weapon": false,
+      "icon_base64": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAAj0lEQVR4Xu3TsQqDQBCEYbdMaREQQThCCIeksBCCgiQgBAsLCyFF3v85RvbEBF/AvWI+2P5nYJOEiIjoSIL1oiAYHg75+RRDlGBsL+jrAs09D0GVc1ZRgk/vMXXXsJAGeZdarvQP2laqfWa5kuD7LjG/br+gZ1VYBikJQRqzfZrGGAapfYhxzCqaECIioogsqUBCe5K7CHYAAAAASUVORK5CYII="
+    },
+    "relationships": {
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Apple_tree_seed"
+    },
+    "meta": {
+      "incomplete": false
+    }
+  },
+  "included": [
+
+  ]
+}

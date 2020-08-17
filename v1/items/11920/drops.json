@@ -1,0 +1,116 @@
+{
+  "data": [
+    {
+      "id": "11920-2054",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00390625"
+      },
+      "meta": {
+        "item_name": "Dragon pickaxe",
+        "monster_name": "Chaos Elemental"
+      }
+    },
+    {
+      "id": "11920-6503",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.005859375"
+      },
+      "meta": {
+        "item_name": "Dragon pickaxe",
+        "monster_name": "Callisto"
+      }
+    },
+    {
+      "id": "11920-6504",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.005859375"
+      },
+      "meta": {
+        "item_name": "Dragon pickaxe",
+        "monster_name": "Venenatis"
+      }
+    },
+    {
+      "id": "11920-6611",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.005859375"
+      },
+      "meta": {
+        "item_name": "Dragon pickaxe",
+        "monster_name": "Vet'ion (Normal)"
+      }
+    },
+    {
+      "id": "11920-6612",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.005859375"
+      },
+      "meta": {
+        "item_name": "Dragon pickaxe",
+        "monster_name": "Vet'ion (Reborn)"
+      }
+    },
+    {
+      "id": "11920-239",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000666666666666667"
+      },
+      "meta": {
+        "item_name": "Dragon pickaxe",
+        "monster_name": "King Black Dragon"
+      }
+    },
+    {
+      "id": "11920-239",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00133333333333333"
+      },
+      "meta": {
+        "item_name": "Dragon pickaxe",
+        "monster_name": "King Black Dragon"
+      }
+    }
+  ]
+}

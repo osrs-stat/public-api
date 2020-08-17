@@ -1,0 +1,31 @@
+{
+  "data": {
+    "id": "5282",
+    "type": "item",
+    "attributes": {
+      "uuid": "35f31c4c-7165-4804-bb8e-af2c28f77ee0",
+      "name": "Mushroom spore",
+      "members": true,
+      "release_date": "2005-06-06",
+      "examine": "A Bittercap mushroom spore - plant in a mushroom patch.",
+      "tradeable": false,
+      "ge_tradeable": false,
+      "lowalch": 34,
+      "highalch": 51,
+      "is_equip": false,
+      "is_weapon": false,
+      "icon_base64": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAAeElEQVR4XmNgGAWjYBSMglEwCkbBYAKM/1HxgALG/+sXlP338zD972Cl9V9PS2GgHcX4f+eK2v8FaT7/U2OcwY4xUFAAY3SVdAKM/3evqvu/fEbh/wktSXAHoauiM0CknwEOHQSAOWRQOGYUjIJRMApGwSgYBZgAAOdVLyibKAKFAAAAAElFTkSuQmCC"
+    },
+    "relationships": {
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Mushroom_spore"
+    },
+    "meta": {
+      "incomplete": false
+    }
+  },
+  "included": [
+
+  ]
+}

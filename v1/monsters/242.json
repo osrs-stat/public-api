@@ -1,0 +1,121 @@
+{
+  "data": {
+    "id": "242",
+    "type": "monster",
+    "attributes": {
+      "uuid": "636a6523-eed6-4bf9-99b0-aae55de35698",
+      "name": "Baby blue dragon (2)",
+      "members": true,
+      "release_date": "2002-02-27",
+      "examine": "Young but still dangerous.",
+      "combat_level_override": null,
+      "max_hit_override": null,
+      "target_types": [
+        "dragon"
+      ],
+      "classification_types": [
+        "blue dragon"
+      ],
+      "poison": false,
+      "immune_poison": false,
+      "immune_venom": false,
+      "slayer_xp": 50.0,
+      "slayer_level": 1,
+      "slayer_masters": [
+        "vannaka",
+        "chaeldar",
+        "konar",
+        "nieve",
+        "duradel"
+      ],
+      "icon_base64": null
+    },
+    "relationships": {
+      "combat_stat": {
+        "data": {
+          "id": "109d6200-8bc1-401e-8744-4fda87bf90fc",
+          "type": "combat_stat"
+        }
+      },
+      "equip_stat": {
+        "data": {
+          "id": "c6029265-1eef-4108-9fdc-24ab2ca2a694",
+          "type": "equip_stat"
+        }
+      },
+      "attack_stat": {
+        "data": {
+          "id": "9849e30a-06f0-47d5-b82c-7e3d9003a4fc",
+          "type": "attack_stat"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Baby_blue_dragon#2"
+    },
+    "meta": {
+      "incomplete": true
+    }
+  },
+  "included": [
+    {
+      "id": "9849e30a-06f0-47d5-b82c-7e3d9003a4fc",
+      "type": "attack_stat",
+      "attributes": {
+        "attack_speed": 4,
+        "attack_type": "monster",
+        "special": null,
+        "stances": [
+          {
+            "name": "Monster slash",
+            "style": null,
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": null,
+            "combat_accuracy_stat": "attack_level",
+            "combat_damage_stat": "strength_level",
+            "equip_accuracy_stat": "slash_attack",
+            "equip_damage_stat": "slash_attack",
+            "target_equip_defense_stat": "slash_defense"
+          }
+        ]
+      }
+    },
+    {
+      "id": "109d6200-8bc1-401e-8744-4fda87bf90fc",
+      "type": "monster_combat_stat",
+      "attributes": {
+        "hitpoints_level": 50,
+        "attack_level": 40,
+        "strength_level": 40,
+        "defense_level": 40,
+        "magic_level": 1,
+        "ranged_level": 1,
+        "prayer_level": 0
+      }
+    },
+    {
+      "id": "c6029265-1eef-4108-9fdc-24ab2ca2a694",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 0,
+        "slash_attack": 0,
+        "crush_attack": 0,
+        "ranged_attack": 0,
+        "magic_attack": 0,
+        "stab_defense": 30,
+        "slash_defense": 50,
+        "crush_defense": 50,
+        "ranged_defense": 30,
+        "magic_defense": 40,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

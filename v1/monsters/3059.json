@@ -1,0 +1,117 @@
+{
+  "data": {
+    "id": "3059",
+    "type": "monster",
+    "attributes": {
+      "uuid": "9b73c2e8-3ce1-4a12-a784-e402412d7702",
+      "name": "Barbarian (Level 10 (Siegfried))",
+      "members": false,
+      "release_date": "2001-01-04",
+      "examine": "Siegfried, a young guard in the Barbarian Village.",
+      "combat_level_override": null,
+      "max_hit_override": null,
+      "target_types": [
+
+      ],
+      "classification_types": [
+
+      ],
+      "poison": false,
+      "immune_poison": false,
+      "immune_venom": false,
+      "slayer_xp": null,
+      "slayer_level": null,
+      "slayer_masters": [
+
+      ],
+      "icon_base64": null
+    },
+    "relationships": {
+      "combat_stat": {
+        "data": {
+          "id": "86e0e7e2-9099-452f-ac09-97a318866172",
+          "type": "combat_stat"
+        }
+      },
+      "equip_stat": {
+        "data": {
+          "id": "d2c3802f-456a-467f-993b-03517c5911cd",
+          "type": "equip_stat"
+        }
+      },
+      "attack_stat": {
+        "data": {
+          "id": "11e812a3-1724-4d1c-b0e4-8f12a7e0c144",
+          "type": "attack_stat"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Barbarian#Level_10_(Siegfried)"
+    },
+    "meta": {
+      "incomplete": true
+    }
+  },
+  "included": [
+    {
+      "id": "11e812a3-1724-4d1c-b0e4-8f12a7e0c144",
+      "type": "attack_stat",
+      "attributes": {
+        "attack_speed": 4,
+        "attack_type": "monster",
+        "special": null,
+        "stances": [
+          {
+            "name": "Monster crush",
+            "style": null,
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": null,
+            "combat_accuracy_stat": "attack_level",
+            "combat_damage_stat": "strength_level",
+            "equip_accuracy_stat": "crush_attack",
+            "equip_damage_stat": "crush_attack",
+            "target_equip_defense_stat": "crush_defense"
+          }
+        ]
+      }
+    },
+    {
+      "id": "86e0e7e2-9099-452f-ac09-97a318866172",
+      "type": "monster_combat_stat",
+      "attributes": {
+        "hitpoints_level": 18,
+        "attack_level": 8,
+        "strength_level": 7,
+        "defense_level": 3,
+        "magic_level": 1,
+        "ranged_level": 1,
+        "prayer_level": 0
+      }
+    },
+    {
+      "id": "d2c3802f-456a-467f-993b-03517c5911cd",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 9,
+        "slash_attack": 9,
+        "crush_attack": 9,
+        "ranged_attack": 0,
+        "magic_attack": 0,
+        "stab_defense": 0,
+        "slash_defense": 3,
+        "crush_defense": 2,
+        "ranged_defense": 2,
+        "magic_defense": -3,
+        "melee_strength": 15,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "data": {
+    "id": "1097",
+    "type": "item",
+    "attributes": {
+      "uuid": "1198183a-0ebc-4946-95e0-0b3fd80b5119",
+      "name": "Studded chaps",
+      "members": false,
+      "release_date": "2003-12-01",
+      "examine": "Those studs should provide a bit more protection.",
+      "tradeable": false,
+      "ge_tradeable": false,
+      "lowalch": 300,
+      "highalch": 450,
+      "is_equip": true,
+      "is_weapon": false,
+      "icon_base64": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABnUlEQVR4Xu3XTWuDQBAGYD32kMMehEUQFhEJIiKSIAGhkNISQimlFHrpoYf+mNz7g6e+q7Pq9uPUrAY6MORikoedd3cTz7vs8un3dlo+NVcebdsu2k49jyKrHaNa0CamuowoTyWlcUAqEiSDlWk8UyrlAuXT9S4xoCoPDWiMWgzIRtnvPkN9BfHYTIaEp0F4dYDy6elY08NhS/e3FR32JTX1mopMTUDjcJ95dFNQ+FgYUBJLisKgA7WvjHELOuYTkEZZIPsT/rgG0MfpRPJuvRwQ8iP3qQGNzyGHW38AIT8ARc+V3mkzHY4DCOMKmoTUy2YhoHZ1RK1IvdZ6ZFkadvmZI0PYYcCI9nCM33ZTUL/1nYIQaGBWmdSNHAEUCGHaEQjV3fbIDzBYIYCQIcY4zRDuMj6DsErIEIMY5RyEFdKgPtSLAOHawNgwMmx9+3fRokDoRYEYMwsoeW90jr4D2e8+Q/l006QaxXfZGMQohyBUt0r4CQsQj+0fNFQ3Ng3qb3yMbXYQH46coxlBKPu//LQdbflp8Zf+1PbzF1+fLo7tTauaAt8AAAAASUVORK5CYII="
+    },
+    "relationships": {
+      "equip": {
+        "data": {
+          "id": "87cd2ad1-417a-4fb3-9036-10521e3bb4cf",
+          "type": "equip"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Studded_chaps"
+    },
+    "meta": {
+      "incomplete": false
+    }
+  },
+  "included": [
+    {
+      "id": "87cd2ad1-417a-4fb3-9036-10521e3bb4cf",
+      "type": "equip",
+      "attributes": {
+        "slot": "legs",
+        "passive_effect": null,
+        "requirements": {
+          "ranged_level": 20,
+          "defense_level": 1
+        }
+      },
+      "relationships": {
+        "equip_stat": {
+          "data": {
+            "id": "1d407ae2-4544-486f-a765-a2bc58e9423b",
+            "type": "equip_stat"
+          }
+        }
+      }
+    },
+    {
+      "id": "1d407ae2-4544-486f-a765-a2bc58e9423b",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 0,
+        "slash_attack": 0,
+        "crush_attack": 0,
+        "ranged_attack": 6,
+        "magic_attack": -5,
+        "stab_defense": 15,
+        "slash_defense": 16,
+        "crush_defense": 17,
+        "ranged_defense": 16,
+        "magic_defense": 6,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

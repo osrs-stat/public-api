@@ -1,0 +1,548 @@
+{
+  "data": [
+    {
+      "id": "207-469",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0214776632302405"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Killerwatt (Attacking)"
+      }
+    },
+    {
+      "id": "592-469",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Ashes",
+        "monster_name": "Killerwatt (Attacking)"
+      }
+    },
+    {
+      "id": "1387-469",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0142857142857143"
+      },
+      "meta": {
+        "item_name": "Staff of fire",
+        "monster_name": "Killerwatt (Attacking)"
+      }
+    },
+    {
+      "id": "1381-469",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0142857142857143"
+      },
+      "meta": {
+        "item_name": "Staff of air",
+        "monster_name": "Killerwatt (Attacking)"
+      }
+    },
+    {
+      "id": "1393-469",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00714285714285714"
+      },
+      "meta": {
+        "item_name": "Fire battlestaff",
+        "monster_name": "Killerwatt (Attacking)"
+      }
+    },
+    {
+      "id": "1397-469",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00714285714285714"
+      },
+      "meta": {
+        "item_name": "Air battlestaff",
+        "monster_name": "Killerwatt (Attacking)"
+      }
+    },
+    {
+      "id": "1401-469",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.001953125"
+      },
+      "meta": {
+        "item_name": "Mystic fire staff",
+        "monster_name": "Killerwatt (Attacking)"
+      }
+    },
+    {
+      "id": "556-469",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.0214285714285714"
+      },
+      "meta": {
+        "item_name": "Air rune (Regular)",
+        "monster_name": "Killerwatt (Attacking)"
+      }
+    },
+    {
+      "id": "556-469",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 17,
+        "quantity_max": null,
+        "rarity": "0.0142857142857143"
+      },
+      "meta": {
+        "item_name": "Air rune (Regular)",
+        "monster_name": "Killerwatt (Attacking)"
+      }
+    },
+    {
+      "id": "554-469",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 18,
+        "quantity_max": null,
+        "rarity": "0.0357142857142857"
+      },
+      "meta": {
+        "item_name": "Fire rune (Regular)",
+        "monster_name": "Killerwatt (Attacking)"
+      }
+    },
+    {
+      "id": "554-469",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 45,
+        "quantity_max": null,
+        "rarity": "0.0571428571428571"
+      },
+      "meta": {
+        "item_name": "Fire rune (Regular)",
+        "monster_name": "Killerwatt (Attacking)"
+      }
+    },
+    {
+      "id": "561-469",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 8,
+        "quantity_max": null,
+        "rarity": "0.0785714285714286"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Killerwatt (Attacking)"
+      }
+    },
+    {
+      "id": "561-469",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 37,
+        "quantity_max": null,
+        "rarity": "0.00714285714285714"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Killerwatt (Attacking)"
+      }
+    },
+    {
+      "id": "562-469",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 4,
+        "quantity_max": null,
+        "rarity": "0.0642857142857143"
+      },
+      "meta": {
+        "item_name": "Chaos rune (Regular)",
+        "monster_name": "Killerwatt (Attacking)"
+      }
+    },
+    {
+      "id": "560-469",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.0214285714285714"
+      },
+      "meta": {
+        "item_name": "Death rune (Regular)",
+        "monster_name": "Killerwatt (Attacking)"
+      }
+    },
+    {
+      "id": "4694-469",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.0142857142857143"
+      },
+      "meta": {
+        "item_name": "Steam rune",
+        "monster_name": "Killerwatt (Attacking)"
+      }
+    },
+    {
+      "id": "2-469",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.0142857142857143"
+      },
+      "meta": {
+        "item_name": "Cannonball",
+        "monster_name": "Killerwatt (Attacking)"
+      }
+    },
+    {
+      "id": "569-469",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.00714285714285714"
+      },
+      "meta": {
+        "item_name": "Fire orb",
+        "monster_name": "Killerwatt (Attacking)"
+      }
+    },
+    {
+      "id": "1781-469",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 4,
+        "quantity_max": null,
+        "rarity": "0.00714285714285714"
+      },
+      "meta": {
+        "item_name": "Soda ash",
+        "monster_name": "Killerwatt (Attacking)"
+      }
+    },
+    {
+      "id": "199-469",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0625"
+      },
+      "meta": {
+        "item_name": "Grimy guam leaf",
+        "monster_name": "Killerwatt (Attacking)"
+      }
+    },
+    {
+      "id": "201-469",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0468779298706169"
+      },
+      "meta": {
+        "item_name": "Grimy marrentill",
+        "monster_name": "Killerwatt (Attacking)"
+      }
+    },
+    {
+      "id": "203-469",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0351567993249895"
+      },
+      "meta": {
+        "item_name": "Grimy tarromin",
+        "monster_name": "Killerwatt (Attacking)"
+      }
+    },
+    {
+      "id": "205-469",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0273433227605819"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Killerwatt (Attacking)"
+      }
+    },
+    {
+      "id": "209-469",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Grimy irit leaf",
+        "monster_name": "Killerwatt (Attacking)"
+      }
+    },
+    {
+      "id": "211-469",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0117205813408345"
+      },
+      "meta": {
+        "item_name": "Grimy avantoe",
+        "monster_name": "Killerwatt (Attacking)"
+      }
+    },
+    {
+      "id": "213-469",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.009765625"
+      },
+      "meta": {
+        "item_name": "Grimy kwuarm",
+        "monster_name": "Killerwatt (Attacking)"
+      }
+    },
+    {
+      "id": "215-469",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Grimy cadantine",
+        "monster_name": "Killerwatt (Attacking)"
+      }
+    },
+    {
+      "id": "2485-469",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00585891727208812"
+      },
+      "meta": {
+        "item_name": "Grimy lantadyme",
+        "monster_name": "Killerwatt (Attacking)"
+      }
+    },
+    {
+      "id": "217-469",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00585891727208812"
+      },
+      "meta": {
+        "item_name": "Grimy dwarf weed",
+        "monster_name": "Killerwatt (Attacking)"
+      }
+    },
+    {
+      "id": "995-469",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 76,
+        "quantity_max": null,
+        "rarity": "0.00714285714285714"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Killerwatt (Attacking)"
+      }
+    },
+    {
+      "id": "995-469",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 127,
+        "quantity_max": null,
+        "rarity": "0.00714285714285714"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Killerwatt (Attacking)"
+      }
+    },
+    {
+      "id": "995-469",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 200,
+        "quantity_max": null,
+        "rarity": "0.0785714285714286"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Killerwatt (Attacking)"
+      }
+    },
+    {
+      "id": "995-469",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 11,
+        "quantity_max": null,
+        "rarity": "0.164285714285714"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Killerwatt (Attacking)"
+      }
+    },
+    {
+      "id": "995-469",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 44,
+        "quantity_max": null,
+        "rarity": "0.2"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Killerwatt (Attacking)"
+      }
+    }
+  ]
+}

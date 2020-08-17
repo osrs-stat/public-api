@@ -1,0 +1,119 @@
+{
+  "data": {
+    "id": "2524",
+    "type": "monster",
+    "attributes": {
+      "uuid": "b7ceb6a9-85ac-4e2f-955f-f2521e634076",
+      "name": "Skeleton (Level 85)",
+      "members": false,
+      "release_date": "2006-07-04",
+      "examine": "Could do with gaining a few pounds.",
+      "combat_level_override": null,
+      "max_hit_override": null,
+      "target_types": [
+        "undead"
+      ],
+      "classification_types": [
+        "skeleton"
+      ],
+      "poison": false,
+      "immune_poison": false,
+      "immune_venom": false,
+      "slayer_xp": 77.0,
+      "slayer_level": 1,
+      "slayer_masters": [
+        "turael",
+        "krystilia",
+        "mazchna"
+      ],
+      "icon_base64": null
+    },
+    "relationships": {
+      "combat_stat": {
+        "data": {
+          "id": "24e169c7-ac23-46ff-b88c-07bac7faf53b",
+          "type": "combat_stat"
+        }
+      },
+      "equip_stat": {
+        "data": {
+          "id": "442845be-74e5-4414-8f82-26220b957f98",
+          "type": "equip_stat"
+        }
+      },
+      "attack_stat": {
+        "data": {
+          "id": "1205e540-e96c-42a1-b01b-2081cb605529",
+          "type": "attack_stat"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Skeleton#Level_85"
+    },
+    "meta": {
+      "incomplete": true
+    }
+  },
+  "included": [
+    {
+      "id": "1205e540-e96c-42a1-b01b-2081cb605529",
+      "type": "attack_stat",
+      "attributes": {
+        "attack_speed": 4,
+        "attack_type": "monster",
+        "special": null,
+        "stances": [
+          {
+            "name": "Monster melee",
+            "style": null,
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": null,
+            "combat_accuracy_stat": "attack_level",
+            "combat_damage_stat": "strength_level",
+            "equip_accuracy_stat": "crush_attack",
+            "equip_damage_stat": "crush_attack",
+            "target_equip_defense_stat": "crush_defense"
+          }
+        ]
+      }
+    },
+    {
+      "id": "24e169c7-ac23-46ff-b88c-07bac7faf53b",
+      "type": "monster_combat_stat",
+      "attributes": {
+        "hitpoints_level": 77,
+        "attack_level": 74,
+        "strength_level": 74,
+        "defense_level": 74,
+        "magic_level": 1,
+        "ranged_level": 1,
+        "prayer_level": 0
+      }
+    },
+    {
+      "id": "442845be-74e5-4414-8f82-26220b957f98",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 15,
+        "slash_attack": 15,
+        "crush_attack": 15,
+        "ranged_attack": 0,
+        "magic_attack": 0,
+        "stab_defense": 79,
+        "slash_defense": 31,
+        "crush_defense": 20,
+        "ranged_defense": 70,
+        "magic_defense": 5,
+        "melee_strength": 14,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

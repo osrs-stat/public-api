@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "7836-2854",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.25"
+      },
+      "meta": {
+        "item_name": "Rat bone (Unpolished)",
+        "monster_name": "Rat (Level 1)"
+      }
+    },
+    {
+      "id": "526-2854",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Bones",
+        "monster_name": "Rat (Level 1)"
+      }
+    },
+    {
+      "id": "11941-2854",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0666666666666667"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Rat (Level 1)"
+      }
+    },
+    {
+      "id": "300-2854",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Rat's tail",
+        "monster_name": "Rat (Level 1)"
+      }
+    }
+  ]
+}

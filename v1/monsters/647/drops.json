@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "id": "2859-647",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Wolf bones",
+        "monster_name": "Ice wolf (Level 132)"
+      }
+    },
+    {
+      "id": "7830-647",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.25"
+      },
+      "meta": {
+        "item_name": "Wolf bone (Unpolished)",
+        "monster_name": "Ice wolf (Level 132)"
+      }
+    }
+  ]
+}

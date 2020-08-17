@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "id": "3185-5283",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Monkey bones (small zombie)",
+        "monster_name": "Monkey Zombie (Level 82)"
+      }
+    },
+    {
+      "id": "3185-5282",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Monkey bones (small zombie)",
+        "monster_name": "Monkey Zombie (Level 129)"
+      }
+    },
+    {
+      "id": "3185-5281",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Monkey bones (small zombie)",
+        "monster_name": "Monkey Zombie (Level 98)"
+      }
+    }
+  ]
+}

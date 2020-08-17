@@ -1,0 +1,132 @@
+{
+  "data": [
+    {
+      "id": "1753-7868",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Green dragonhide",
+        "monster_name": "Green dragon (Level 88)"
+      }
+    },
+    {
+      "id": "1753-8060",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 25,
+        "quantity_max": 30,
+        "rarity": "0.0466666666666667"
+      },
+      "meta": {
+        "item_name": "Green dragonhide",
+        "monster_name": "Vorkath (Dragon Slayer II)"
+      }
+    },
+    {
+      "id": "1753-8061",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 25,
+        "quantity_max": 30,
+        "rarity": "0.0466666666666667"
+      },
+      "meta": {
+        "item_name": "Green dragonhide",
+        "monster_name": "Vorkath (Post-quest)"
+      }
+    },
+    {
+      "id": "1753-260",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Green dragonhide",
+        "monster_name": "Green dragon (Level 79)"
+      }
+    },
+    {
+      "id": "1753-260",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Green dragonhide",
+        "monster_name": "Green dragon (Level 79)"
+      }
+    },
+    {
+      "id": "1753-319",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 100,
+        "quantity_max": null,
+        "rarity": "0.03515625"
+      },
+      "meta": {
+        "item_name": "Green dragonhide",
+        "monster_name": "Corporeal Beast"
+      }
+    },
+    {
+      "id": "1753-7868",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Green dragonhide",
+        "monster_name": "Green dragon (Level 88)"
+      }
+    },
+    {
+      "id": "1753-2918",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Green dragonhide",
+        "monster_name": "Brutal green dragon"
+      }
+    }
+  ]
+}

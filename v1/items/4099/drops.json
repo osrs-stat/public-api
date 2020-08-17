@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "id": "4099-443",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.001953125"
+      },
+      "meta": {
+        "item_name": "Mystic hat (dark)",
+        "monster_name": "Infernal Mage"
+      }
+    },
+    {
+      "id": "4099-7396",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.001953125"
+      },
+      "meta": {
+        "item_name": "Mystic hat (dark)",
+        "monster_name": "Malevolent Mage"
+      }
+    }
+  ]
+}

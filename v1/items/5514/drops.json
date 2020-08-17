@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "id": "5514-2586",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0238095238095238"
+      },
+      "meta": {
+        "item_name": "Giant pouch (New)",
+        "monster_name": "Abyssal walker"
+      }
+    },
+    {
+      "id": "5514-2584",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0238095238095238"
+      },
+      "meta": {
+        "item_name": "Giant pouch (New)",
+        "monster_name": "Abyssal leech"
+      }
+    },
+    {
+      "id": "5514-2585",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0238095238095238"
+      },
+      "meta": {
+        "item_name": "Giant pouch (New)",
+        "monster_name": "Abyssal guardian"
+      }
+    }
+  ]
+}

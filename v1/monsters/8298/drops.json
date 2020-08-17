@@ -1,0 +1,404 @@
+{
+  "data": [
+    {
+      "id": "1265-8298",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.09375"
+      },
+      "meta": {
+        "item_name": "Bronze pickaxe",
+        "monster_name": "Swamp Crab (Bloomed)"
+      }
+    },
+    {
+      "id": "2677-8298",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0104166666666667"
+      },
+      "meta": {
+        "item_name": "Clue scroll (easy)",
+        "monster_name": "Swamp Crab (Bloomed)"
+      }
+    },
+    {
+      "id": "405-8298",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Casket",
+        "monster_name": "Swamp Crab (Bloomed)"
+      }
+    },
+    {
+      "id": "1969-8298",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Spinach roll",
+        "monster_name": "Swamp Crab (Bloomed)"
+      }
+    },
+    {
+      "id": "3239-8298",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 2,
+        "rarity": "0.0703125"
+      },
+      "meta": {
+        "item_name": "Bark",
+        "monster_name": "Swamp Crab (Bloomed)"
+      }
+    },
+    {
+      "id": "403-8298",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Edible seaweed",
+        "monster_name": "Swamp Crab (Bloomed)"
+      }
+    },
+    {
+      "id": "313-8298",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 12,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Swamp Crab (Bloomed)"
+      }
+    },
+    {
+      "id": "1755-8298",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Chisel",
+        "monster_name": "Swamp Crab (Bloomed)"
+      }
+    },
+    {
+      "id": "946-8298",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 4,
+        "quantity_max": null,
+        "rarity": "0.2265625"
+      },
+      "meta": {
+        "item_name": "Knife",
+        "monster_name": "Swamp Crab (Bloomed)"
+      }
+    },
+    {
+      "id": "401-8298",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": 8,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Seaweed",
+        "monster_name": "Swamp Crab (Bloomed)"
+      }
+    },
+    {
+      "id": "1515-8298",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Yew logs",
+        "monster_name": "Swamp Crab (Bloomed)"
+      }
+    },
+    {
+      "id": "2970-8298",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Mort myre fungus",
+        "monster_name": "Swamp Crab (Bloomed)"
+      }
+    },
+    {
+      "id": "1519-8298",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Willow logs",
+        "monster_name": "Swamp Crab (Bloomed)"
+      }
+    },
+    {
+      "id": "453-8298",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Coal",
+        "monster_name": "Swamp Crab (Bloomed)"
+      }
+    },
+    {
+      "id": "440-8298",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Iron ore",
+        "monster_name": "Swamp Crab (Bloomed)"
+      }
+    },
+    {
+      "id": "438-8298",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 4,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Tin ore",
+        "monster_name": "Swamp Crab (Bloomed)"
+      }
+    },
+    {
+      "id": "436-8298",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 4,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Copper ore",
+        "monster_name": "Swamp Crab (Bloomed)"
+      }
+    },
+    {
+      "id": "1521-8298",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 4,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Oak logs",
+        "monster_name": "Swamp Crab (Bloomed)"
+      }
+    },
+    {
+      "id": "1511-8298",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 8,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Logs",
+        "monster_name": "Swamp Crab (Bloomed)"
+      }
+    },
+    {
+      "id": "1349-8298",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Iron axe",
+        "monster_name": "Swamp Crab (Bloomed)"
+      }
+    },
+    {
+      "id": "1351-8298",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.046875"
+      },
+      "meta": {
+        "item_name": "Bronze axe",
+        "monster_name": "Swamp Crab (Bloomed)"
+      }
+    },
+    {
+      "id": "2970-8298",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Mort myre fungus",
+        "monster_name": "Swamp Crab (Bloomed)"
+      }
+    },
+    {
+      "id": "995-8298",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 120,
+        "quantity_max": null,
+        "rarity": "0.046875"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Swamp Crab (Bloomed)"
+      }
+    },
+    {
+      "id": "995-8298",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 42,
+        "quantity_max": null,
+        "rarity": "0.0625"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Swamp Crab (Bloomed)"
+      }
+    },
+    {
+      "id": "995-8298",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 4,
+        "quantity_max": 10,
+        "rarity": "0.1484375"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Swamp Crab (Bloomed)"
+      }
+    }
+  ]
+}

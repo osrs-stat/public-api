@@ -1,0 +1,132 @@
+{
+  "data": [
+    {
+      "id": "23871-9048",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Weapon frame (corrupted)",
+        "monster_name": "Corrupted Dark Beast"
+      }
+    },
+    {
+      "id": "23871-9040",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.125"
+      },
+      "meta": {
+        "item_name": "Weapon frame (corrupted)",
+        "monster_name": "Corrupted Rat"
+      }
+    },
+    {
+      "id": "23871-9047",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Weapon frame (corrupted)",
+        "monster_name": "Corrupted Dragon"
+      }
+    },
+    {
+      "id": "23871-9046",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Weapon frame (corrupted)",
+        "monster_name": "Corrupted Bear"
+      }
+    },
+    {
+      "id": "23871-9045",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.125"
+      },
+      "meta": {
+        "item_name": "Weapon frame (corrupted)",
+        "monster_name": "Corrupted Wolf"
+      }
+    },
+    {
+      "id": "23871-9044",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.125"
+      },
+      "meta": {
+        "item_name": "Weapon frame (corrupted)",
+        "monster_name": "Corrupted Scorpion"
+      }
+    },
+    {
+      "id": "23871-9043",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.125"
+      },
+      "meta": {
+        "item_name": "Weapon frame (corrupted)",
+        "monster_name": "Corrupted Unicorn"
+      }
+    },
+    {
+      "id": "23871-9041",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.125"
+      },
+      "meta": {
+        "item_name": "Weapon frame (corrupted)",
+        "monster_name": "Corrupted Spider"
+      }
+    }
+  ]
+}

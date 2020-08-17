@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "id": "163-2205",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.062992125984252"
+      },
+      "meta": {
+        "item_name": "Super defence (3 dose)",
+        "monster_name": "Commander Zilyana"
+      }
+    },
+    {
+      "id": "163-3162",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.062992125984252"
+      },
+      "meta": {
+        "item_name": "Super defence (3 dose)",
+        "monster_name": "Kree'arra"
+      }
+    }
+  ]
+}

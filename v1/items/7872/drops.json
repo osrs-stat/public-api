@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "id": "7872-7251",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.25"
+      },
+      "meta": {
+        "item_name": "Fire giant bone (Unpolished)",
+        "monster_name": "Fire giant (Level 109)"
+      }
+    },
+    {
+      "id": "7872-2075",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.25"
+      },
+      "meta": {
+        "item_name": "Fire giant bone (Unpolished)",
+        "monster_name": "Fire giant (Level 86)"
+      }
+    },
+    {
+      "id": "7872-7252",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.25"
+      },
+      "meta": {
+        "item_name": "Fire giant bone (Unpolished)",
+        "monster_name": "Fire giant (Level 104)"
+      }
+    }
+  ]
+}

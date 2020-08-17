@@ -1,0 +1,117 @@
+{
+  "data": {
+    "id": "8703",
+    "type": "monster",
+    "attributes": {
+      "uuid": "8eaf1391-60e3-4bf4-8bc3-e3770e7a6e07",
+      "name": "Temple Spider",
+      "members": true,
+      "release_date": "2019-07-04",
+      "examine": "Preys on unsuspecting adventurers.",
+      "combat_level_override": null,
+      "max_hit_override": null,
+      "target_types": [
+
+      ],
+      "classification_types": [
+        "spider"
+      ],
+      "poison": false,
+      "immune_poison": false,
+      "immune_venom": false,
+      "slayer_xp": 70.0,
+      "slayer_level": 1,
+      "slayer_masters": [
+        "turael"
+      ],
+      "icon_base64": null
+    },
+    "relationships": {
+      "combat_stat": {
+        "data": {
+          "id": "f3579116-a4d0-4d08-9911-9484f1005848",
+          "type": "combat_stat"
+        }
+      },
+      "equip_stat": {
+        "data": {
+          "id": "0aeebbd3-aa57-4879-ad04-83725ea9104c",
+          "type": "equip_stat"
+        }
+      },
+      "attack_stat": {
+        "data": {
+          "id": "acc5b29f-5ad1-4df0-82bd-092062b9990f",
+          "type": "attack_stat"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Temple_Spider"
+    },
+    "meta": {
+      "incomplete": true
+    }
+  },
+  "included": [
+    {
+      "id": "acc5b29f-5ad1-4df0-82bd-092062b9990f",
+      "type": "attack_stat",
+      "attributes": {
+        "attack_speed": 4,
+        "attack_type": "monster",
+        "special": null,
+        "stances": [
+          {
+            "name": "Monster crush",
+            "style": null,
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": null,
+            "combat_accuracy_stat": "attack_level",
+            "combat_damage_stat": "strength_level",
+            "equip_accuracy_stat": "crush_attack",
+            "equip_damage_stat": "crush_attack",
+            "target_equip_defense_stat": "crush_defense"
+          }
+        ]
+      }
+    },
+    {
+      "id": "f3579116-a4d0-4d08-9911-9484f1005848",
+      "type": "monster_combat_stat",
+      "attributes": {
+        "hitpoints_level": 70,
+        "attack_level": 120,
+        "strength_level": 50,
+        "defense_level": 10,
+        "magic_level": 1,
+        "ranged_level": 1,
+        "prayer_level": 0
+      }
+    },
+    {
+      "id": "0aeebbd3-aa57-4879-ad04-83725ea9104c",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 0,
+        "slash_attack": 0,
+        "crush_attack": 0,
+        "ranged_attack": 0,
+        "magic_attack": 0,
+        "stab_defense": 20,
+        "slash_defense": 30,
+        "crush_defense": 10,
+        "ranged_defense": 20,
+        "magic_defense": 25,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "id": "646-6076",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Pink robe bottoms",
+        "monster_name": "Tortoise (With riders)"
+      }
+    },
+    {
+      "id": "646-6075",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Pink robe bottoms",
+        "monster_name": "Tortoise (No riders)"
+      }
+    }
+  ]
+}

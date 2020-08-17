@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "id": "21838-7989",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000833333333333333"
+      },
+      "meta": {
+        "item_name": "Shaman mask",
+        "monster_name": "Ogress Warrior"
+      }
+    },
+    {
+      "id": "21838-7991",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000833333333333333"
+      },
+      "meta": {
+        "item_name": "Shaman mask",
+        "monster_name": "Ogress Shaman"
+      }
+    }
+  ]
+}

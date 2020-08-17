@@ -1,0 +1,180 @@
+{
+  "data": [
+    {
+      "id": "327-3950",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Raw sardine",
+        "monster_name": "Warrior (Rellekka)"
+      }
+    },
+    {
+      "id": "327-6735",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Raw sardine",
+        "monster_name": "River troll (Level 79)"
+      }
+    },
+    {
+      "id": "327-6736",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Raw sardine",
+        "monster_name": "River troll (Level 120)"
+      }
+    },
+    {
+      "id": "327-6737",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Raw sardine",
+        "monster_name": "River troll (Level 159)"
+      }
+    },
+    {
+      "id": "327-7259",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Raw sardine",
+        "monster_name": "Dagannoth (Level 74 (2))"
+      }
+    },
+    {
+      "id": "327-7260",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Raw sardine",
+        "monster_name": "Dagannoth (Level 92 (2))"
+      }
+    },
+    {
+      "id": "327-970",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Raw sardine",
+        "monster_name": "Dagannoth (Level 74 (1))"
+      }
+    },
+    {
+      "id": "327-973",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Raw sardine",
+        "monster_name": "Dagannoth (Level 92 (1))"
+      }
+    },
+    {
+      "id": "327-2592",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Raw sardine",
+        "monster_name": "Mogre"
+      }
+    },
+    {
+      "id": "327-3184",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.078125"
+      },
+      "meta": {
+        "item_name": "Raw sardine",
+        "monster_name": "Dagannoth spawn"
+      }
+    },
+    {
+      "id": "327-3949",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Raw sardine",
+        "monster_name": "Market Guard"
+      }
+    }
+  ]
+}

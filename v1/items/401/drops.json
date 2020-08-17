@@ -1,0 +1,564 @@
+{
+  "data": [
+    {
+      "id": "401-3185",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 10,
+        "rarity": "0.234375"
+      },
+      "meta": {
+        "item_name": "Seaweed",
+        "monster_name": "Dagannoth (Waterbirth Island) (Level 90)"
+      }
+    },
+    {
+      "id": "401-4800",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Seaweed",
+        "monster_name": "Giant lobster"
+      }
+    },
+    {
+      "id": "401-4800",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Seaweed",
+        "monster_name": "Giant lobster"
+      }
+    },
+    {
+      "id": "401-4800",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Seaweed",
+        "monster_name": "Giant lobster"
+      }
+    },
+    {
+      "id": "401-5935",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Seaweed",
+        "monster_name": "Sand Crab (Active)"
+      }
+    },
+    {
+      "id": "401-5935",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Seaweed",
+        "monster_name": "Sand Crab (Active)"
+      }
+    },
+    {
+      "id": "401-5935",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Seaweed",
+        "monster_name": "Sand Crab (Active)"
+      }
+    },
+    {
+      "id": "401-7259",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Seaweed",
+        "monster_name": "Dagannoth (Level 74 (2))"
+      }
+    },
+    {
+      "id": "401-5944",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.078125"
+      },
+      "meta": {
+        "item_name": "Seaweed",
+        "monster_name": "Rock lobster"
+      }
+    },
+    {
+      "id": "401-3184",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.078125"
+      },
+      "meta": {
+        "item_name": "Seaweed",
+        "monster_name": "Dagannoth spawn"
+      }
+    },
+    {
+      "id": "401-970",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Seaweed",
+        "monster_name": "Dagannoth (Level 74 (1))"
+      }
+    },
+    {
+      "id": "401-973",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Seaweed",
+        "monster_name": "Dagannoth (Level 92 (1))"
+      }
+    },
+    {
+      "id": "401-1097",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Seaweed",
+        "monster_name": "Sea Snake Young"
+      }
+    },
+    {
+      "id": "401-1098",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Seaweed",
+        "monster_name": "Sea Snake Hatchling"
+      }
+    },
+    {
+      "id": "401-1101",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Seaweed",
+        "monster_name": "Giant Sea Snake"
+      }
+    },
+    {
+      "id": "401-1874",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 3,
+        "quantity_max": 9,
+        "rarity": "0.078125"
+      },
+      "meta": {
+        "item_name": "Seaweed",
+        "monster_name": "Ice troll runt"
+      }
+    },
+    {
+      "id": "401-1875",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 3,
+        "quantity_max": 9,
+        "rarity": "0.078125"
+      },
+      "meta": {
+        "item_name": "Seaweed",
+        "monster_name": "Ice troll male"
+      }
+    },
+    {
+      "id": "401-1876",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 3,
+        "quantity_max": 9,
+        "rarity": "0.078125"
+      },
+      "meta": {
+        "item_name": "Seaweed",
+        "monster_name": "Ice troll female"
+      }
+    },
+    {
+      "id": "401-1877",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 3,
+        "quantity_max": 9,
+        "rarity": "0.078125"
+      },
+      "meta": {
+        "item_name": "Seaweed",
+        "monster_name": "Ice troll grunt"
+      }
+    },
+    {
+      "id": "401-2259",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 10,
+        "rarity": "0.234375"
+      },
+      "meta": {
+        "item_name": "Seaweed",
+        "monster_name": "Dagannoth (Waterbirth Island) (Level 88)"
+      }
+    },
+    {
+      "id": "401-2592",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Seaweed",
+        "monster_name": "Mogre"
+      }
+    },
+    {
+      "id": "401-2916",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 20,
+        "quantity_max": 30,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Seaweed",
+        "monster_name": "Waterfiend"
+      }
+    },
+    {
+      "id": "401-2994",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Seaweed",
+        "monster_name": "Giant lobster (Ghosts Ahoy)"
+      }
+    },
+    {
+      "id": "401-7796",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 6,
+        "quantity_max": null,
+        "rarity": "0.0677966101694915"
+      },
+      "meta": {
+        "item_name": "Seaweed",
+        "monster_name": "Lobstrosity"
+      }
+    },
+    {
+      "id": "401-7799",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Seaweed",
+        "monster_name": "Ammonite Crab"
+      }
+    },
+    {
+      "id": "401-7799",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Seaweed",
+        "monster_name": "Ammonite Crab"
+      }
+    },
+    {
+      "id": "401-7799",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Seaweed",
+        "monster_name": "Ammonite Crab"
+      }
+    },
+    {
+      "id": "401-8297",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": 8,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Seaweed",
+        "monster_name": "Swamp Crab (Normal)"
+      }
+    },
+    {
+      "id": "401-8298",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": 8,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Seaweed",
+        "monster_name": "Swamp Crab (Bloomed)"
+      }
+    },
+    {
+      "id": "401-7260",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Seaweed",
+        "monster_name": "Dagannoth (Level 92 (2))"
+      }
+    },
+    {
+      "id": "401-100",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Seaweed",
+        "monster_name": "Rock Crab (Active)"
+      }
+    },
+    {
+      "id": "401-100",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Seaweed",
+        "monster_name": "Rock Crab (Active)"
+      }
+    },
+    {
+      "id": "401-100",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Seaweed",
+        "monster_name": "Rock Crab (Active)"
+      }
+    },
+    {
+      "id": "401-492",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 30,
+        "quantity_max": null,
+        "rarity": "0.03"
+      },
+      "meta": {
+        "item_name": "Seaweed",
+        "monster_name": "Cave kraken"
+      }
+    },
+    {
+      "id": "401-494",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 125,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Seaweed",
+        "monster_name": "Kraken (Kraken)"
+      }
+    }
+  ]
+}

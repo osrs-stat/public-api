@@ -1,0 +1,75 @@
+{
+  "data": {
+    "id": "1061",
+    "type": "item",
+    "attributes": {
+      "uuid": "93267185-9ec0-4b8f-96fd-0a2061801d5e",
+      "name": "Leather boots",
+      "members": false,
+      "release_date": "2001-01-04",
+      "examine": "Comfortable leather boots.",
+      "tradeable": false,
+      "ge_tradeable": false,
+      "lowalch": 2,
+      "highalch": 3,
+      "is_equip": true,
+      "is_weapon": false,
+      "icon_base64": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACBElEQVR4XtWWQWvCQBCF3R/QgwdBBEFEREREilIKlhZ66aGHHgo9lP7/n5HyNrzk7exGQzZtcOBhMJuZb9+MG0ej2wxXxBosXPG8XRWv+7UXrqGBAEuY82bpYd4OmwgM96B/gKphCPR+3HooBcN17FbvztUwD6t5APRx2lX6fNxX7ihgz60NYe6XM39NZ1RcQwACqYuaC+oA5aLCKels8RqfuAf34KaKMIfFwstWvRAuSmZlh5q7J5AV1sBpAtmKV8L52VBxZjjU6o7KghCGre8IhHDF1/kQiEB0B0VQ0EKpCA6Y3XyaB/TzcvL6fjpWLhGARfgdB9pK3ckEQpRQcAdA1h0WsDOlUnfWs0l/QCl3WICwKRh1ZzEZ5wOhXQrEQloAa+x9St3pDYjzo+6gyHR85wvwB6BrUu5wfRaQdYezwx2zCME5Tyl3MoFimEtFbGvVIbu2A1AMcw0o9Yy2DOs7AoWJ9YCzBQCkg81Za9M2W7Uhahi+IggFIE2uvxq2izOkLbYzR4dauFTC6C6ZvGm3bJXOjz08U8+0gEGEQOoSCnCnTG5hUq+WPwHiCayJ66SxO7ZdqVO6JRCifA1Yd3gyQykYO8yp+ekAw6j/+9rEYdJ45pralQFThhZVhUnTQLZd8XOZwWRxUlfNmg6zAvUOcz1q9yzQADBltGvvQNHc3huPX6bokJRDq+VBAAAAAElFTkSuQmCC"
+    },
+    "relationships": {
+      "equip": {
+        "data": {
+          "id": "9d547bee-a199-48e2-b505-c9ee2cedf6ce",
+          "type": "equip"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Leather_boots"
+    },
+    "meta": {
+      "incomplete": false
+    }
+  },
+  "included": [
+    {
+      "id": "9d547bee-a199-48e2-b505-c9ee2cedf6ce",
+      "type": "equip",
+      "attributes": {
+        "slot": "boots",
+        "passive_effect": null,
+        "requirements": {
+          "defense_level": 1
+        }
+      },
+      "relationships": {
+        "equip_stat": {
+          "data": {
+            "id": "d781f786-708c-49f7-a1b8-a0677f0717d6",
+            "type": "equip_stat"
+          }
+        }
+      }
+    },
+    {
+      "id": "d781f786-708c-49f7-a1b8-a0677f0717d6",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 0,
+        "slash_attack": 0,
+        "crush_attack": 0,
+        "ranged_attack": 0,
+        "magic_attack": 0,
+        "stab_defense": 0,
+        "slash_defense": 1,
+        "crush_defense": 1,
+        "ranged_defense": 0,
+        "magic_defense": 0,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

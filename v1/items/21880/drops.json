@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "21880-8061",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 30,
+        "quantity_max": 60,
+        "rarity": "0.02"
+      },
+      "meta": {
+        "item_name": "Wrath rune",
+        "monster_name": "Vorkath (Post-quest)"
+      }
+    },
+    {
+      "id": "21880-8060",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 30,
+        "quantity_max": 60,
+        "rarity": "0.02"
+      },
+      "meta": {
+        "item_name": "Wrath rune",
+        "monster_name": "Vorkath (Dragon Slayer II)"
+      }
+    },
+    {
+      "id": "21880-8031",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 30,
+        "quantity_max": 50,
+        "rarity": "0.062992125984252"
+      },
+      "meta": {
+        "item_name": "Wrath rune",
+        "monster_name": "Rune dragon"
+      }
+    },
+    {
+      "id": "21880-8030",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": 30,
+        "rarity": "0.0727272727272727"
+      },
+      "meta": {
+        "item_name": "Wrath rune",
+        "monster_name": "Adamant dragon"
+      }
+    }
+  ]
+}

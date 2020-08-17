@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "id": "7866-3135",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.25"
+      },
+      "meta": {
+        "item_name": "Werewolf bone (Unpolished)",
+        "monster_name": "Werewolf (Level 93)"
+      }
+    },
+    {
+      "id": "7866-2593",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.25"
+      },
+      "meta": {
+        "item_name": "Werewolf bone (Unpolished)",
+        "monster_name": "Werewolf (Level 88)"
+      }
+    }
+  ]
+}

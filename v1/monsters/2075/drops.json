@@ -1,0 +1,692 @@
+{
+  "data": [
+    {
+      "id": "199-2075",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.037109375"
+      },
+      "meta": {
+        "item_name": "Grimy guam leaf",
+        "monster_name": "Fire giant (Level 86)"
+      }
+    },
+    {
+      "id": "19683-2075",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "catacombs-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0025706940874036"
+      },
+      "meta": {
+        "item_name": "Dark totem top",
+        "monster_name": "Fire giant (Level 86)"
+      }
+    },
+    {
+      "id": "19681-2075",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "catacombs-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0025706940874036"
+      },
+      "meta": {
+        "item_name": "Dark totem middle",
+        "monster_name": "Fire giant (Level 86)"
+      }
+    },
+    {
+      "id": "19679-2075",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "catacombs-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0025706940874036"
+      },
+      "meta": {
+        "item_name": "Dark totem base",
+        "monster_name": "Fire giant (Level 86)"
+      }
+    },
+    {
+      "id": "19677-2075",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "catacombs-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0038560411311054"
+      },
+      "meta": {
+        "item_name": "Ancient shard",
+        "monster_name": "Fire giant (Level 86)"
+      }
+    },
+    {
+      "id": "6800-2075",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0002"
+      },
+      "meta": {
+        "item_name": "Giant champion scroll",
+        "monster_name": "Fire giant (Level 86)"
+      }
+    },
+    {
+      "id": "10977-2075",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000199501246882793"
+      },
+      "meta": {
+        "item_name": "Curved bone",
+        "monster_name": "Fire giant (Level 86)"
+      }
+    },
+    {
+      "id": "10976-2075",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0025"
+      },
+      "meta": {
+        "item_name": "Long bone",
+        "monster_name": "Fire giant (Level 86)"
+      }
+    },
+    {
+      "id": "23083-2075",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00718390804597701"
+      },
+      "meta": {
+        "item_name": "Brimstone key",
+        "monster_name": "Fire giant (Level 86)"
+      }
+    },
+    {
+      "id": "13474-2075",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.05"
+      },
+      "meta": {
+        "item_name": "Ensouled giant head (Drop)",
+        "monster_name": "Fire giant (Level 86)"
+      }
+    },
+    {
+      "id": "7872-2075",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.25"
+      },
+      "meta": {
+        "item_name": "Fire giant bone (Unpolished)",
+        "monster_name": "Fire giant (Level 86)"
+      }
+    },
+    {
+      "id": "11941-2075",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Fire giant (Level 86)"
+      }
+    },
+    {
+      "id": "1353-2075",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Steel axe",
+        "monster_name": "Fire giant (Level 86)"
+      }
+    },
+    {
+      "id": "532-2075",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Big bones",
+        "monster_name": "Fire giant (Level 86)"
+      }
+    },
+    {
+      "id": "2353-2075",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Steel bar",
+        "monster_name": "Fire giant (Level 86)"
+      }
+    },
+    {
+      "id": "117-2075",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Strength potion (2 dose)",
+        "monster_name": "Fire giant (Level 86)"
+      }
+    },
+    {
+      "id": "23490-2075",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0102040816326531"
+      },
+      "meta": {
+        "item_name": "Larran's key",
+        "monster_name": "Fire giant (Level 86)"
+      }
+    },
+    {
+      "id": "217-2075",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00347873213030232"
+      },
+      "meta": {
+        "item_name": "Grimy dwarf weed",
+        "monster_name": "Fire giant (Level 86)"
+      }
+    },
+    {
+      "id": "2485-2075",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00347873213030232"
+      },
+      "meta": {
+        "item_name": "Grimy lantadyme",
+        "monster_name": "Fire giant (Level 86)"
+      }
+    },
+    {
+      "id": "21257-2075",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00431034482758621"
+      },
+      "meta": {
+        "item_name": "Slayer's enchantment",
+        "monster_name": "Fire giant (Level 86)"
+      }
+    },
+    {
+      "id": "215-2075",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.004638671875"
+      },
+      "meta": {
+        "item_name": "Grimy cadantine",
+        "monster_name": "Fire giant (Level 86)"
+      }
+    },
+    {
+      "id": "213-2075",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00579833984375"
+      },
+      "meta": {
+        "item_name": "Grimy kwuarm",
+        "monster_name": "Fire giant (Level 86)"
+      }
+    },
+    {
+      "id": "379-2075",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Lobster",
+        "monster_name": "Fire giant (Level 86)"
+      }
+    },
+    {
+      "id": "563-2075",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Law rune",
+        "monster_name": "Fire giant (Level 86)"
+      }
+    },
+    {
+      "id": "554-2075",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 37,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Fire rune (Regular)",
+        "monster_name": "Fire giant (Level 86)"
+      }
+    },
+    {
+      "id": "565-2075",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Blood rune (Regular)",
+        "monster_name": "Fire giant (Level 86)"
+      }
+    },
+    {
+      "id": "892-2075",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 12,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Rune arrow (Unpoisoned)",
+        "monster_name": "Fire giant (Level 86)"
+      }
+    },
+    {
+      "id": "562-2075",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.0546875"
+      },
+      "meta": {
+        "item_name": "Chaos rune (Regular)",
+        "monster_name": "Fire giant (Level 86)"
+      }
+    },
+    {
+      "id": "554-2075",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 150,
+        "quantity_max": null,
+        "rarity": "0.078125"
+      },
+      "meta": {
+        "item_name": "Fire rune (Regular)",
+        "monster_name": "Fire giant (Level 86)"
+      }
+    },
+    {
+      "id": "1333-2075",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Rune scimitar",
+        "monster_name": "Fire giant (Level 86)"
+      }
+    },
+    {
+      "id": "1393-2075",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Fire battlestaff",
+        "monster_name": "Fire giant (Level 86)"
+      }
+    },
+    {
+      "id": "1181-2075",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Mithril sq shield",
+        "monster_name": "Fire giant (Level 86)"
+      }
+    },
+    {
+      "id": "209-2075",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00927734375"
+      },
+      "meta": {
+        "item_name": "Grimy irit leaf",
+        "monster_name": "Fire giant (Level 86)"
+      }
+    },
+    {
+      "id": "207-2075",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0127523625429553"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Fire giant (Level 86)"
+      }
+    },
+    {
+      "id": "205-2075",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0162350978890955"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Fire giant (Level 86)"
+      }
+    },
+    {
+      "id": "203-2075",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0208743495992125"
+      },
+      "meta": {
+        "item_name": "Grimy tarromin",
+        "monster_name": "Fire giant (Level 86)"
+      }
+    },
+    {
+      "id": "201-2075",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0278337708606788"
+      },
+      "meta": {
+        "item_name": "Grimy marrentill",
+        "monster_name": "Fire giant (Level 86)"
+      }
+    },
+    {
+      "id": "211-2075",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00695909517112049"
+      },
+      "meta": {
+        "item_name": "Grimy avantoe",
+        "monster_name": "Fire giant (Level 86)"
+      }
+    },
+    {
+      "id": "995-2075",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 25,
+        "quantity_max": null,
+        "rarity": "0.046875"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Fire giant (Level 86)"
+      }
+    },
+    {
+      "id": "995-2075",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 50,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Fire giant (Level 86)"
+      }
+    },
+    {
+      "id": "995-2075",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 300,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Fire giant (Level 86)"
+      }
+    },
+    {
+      "id": "995-2075",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 15,
+        "quantity_max": null,
+        "rarity": "0.0546875"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Fire giant (Level 86)"
+      }
+    },
+    {
+      "id": "995-2075",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 60,
+        "quantity_max": null,
+        "rarity": "0.3125"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Fire giant (Level 86)"
+      }
+    }
+  ]
+}

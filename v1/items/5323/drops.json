@@ -1,0 +1,84 @@
+{
+  "data": [
+    {
+      "id": "5323-6604",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.0125"
+      },
+      "meta": {
+        "item_name": "Strawberry seed",
+        "monster_name": "Mammoth"
+      }
+    },
+    {
+      "id": "5323-1024",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 4,
+        "quantity_max": null,
+        "rarity": "0.0785714285714286"
+      },
+      "meta": {
+        "item_name": "Strawberry seed",
+        "monster_name": "https://oldschool.runescape.wiki/w/Zygomite#Level_86"
+      }
+    },
+    {
+      "id": "5323-1024",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 4,
+        "quantity_max": null,
+        "rarity": "0.0802919708029197"
+      },
+      "meta": {
+        "item_name": "Strawberry seed",
+        "monster_name": "https://oldschool.runescape.wiki/w/Zygomite#Level_86"
+      }
+    },
+    {
+      "id": "5323-537",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 4,
+        "quantity_max": null,
+        "rarity": "0.0785714285714286"
+      },
+      "meta": {
+        "item_name": "Strawberry seed",
+        "monster_name": "https://oldschool.runescape.wiki/w/Zygomite#Level_74"
+      }
+    },
+    {
+      "id": "5323-537",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 4,
+        "quantity_max": null,
+        "rarity": "0.0802919708029197"
+      },
+      "meta": {
+        "item_name": "Strawberry seed",
+        "monster_name": "https://oldschool.runescape.wiki/w/Zygomite#Level_74"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "data": {
+    "id": "10532",
+    "type": "item",
+    "attributes": {
+      "uuid": "63d0eb9c-8199-4c4a-bf68-c0bda6ec0030",
+      "name": "Red egg",
+      "members": true,
+      "release_date": "2007-01-04",
+      "examine": "Will explode when fired!",
+      "tradeable": false,
+      "ge_tradeable": false,
+      "lowalch": null,
+      "highalch": null,
+      "is_equip": false,
+      "is_weapon": false,
+      "icon_base64": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABpklEQVR4Xu2XIU8DQRCFb+WJFSeakCZNqpAEg0OhEDUYDAaBQZAgEAgEgqSCH73su+3Lzi67vYqdu5AwyeTaXJP78t6bnWvX/ZdaGRd78TLuedW7J993Q780lHGvZ3bsl5V19x7oxnZLQRn35kE+1qEB9eiBdrZ3V/0iUMa9e4hPD7P3jc+wDrZde6CL+aHMqMzXoSUQbINK591sUKk6uMI+ACFHtzaoRKDL7VYTKmYHynxvhgTo4ZAjqATbNvoqpeqgaRkmDcGGbVBJ2qakUqoOgQDHScN5BNugEsOtqFJUh0C4EkjaVgp3Y5WiOrld+A5Q3KdtMtxKKv22S6pDINpWC3dDlcphlnZxhcA2hns2oJo6BOKyVcxRPJmngAAjFSLQ0DZHpwFRnRyIuw0KNVLJVPMDoNwueUAqrZGQIQmUq1MDgkIqocaDsbtydY4BKU4ZyowwpwKV1kdzIJ7UUzC115DGQKgQ7ikg5fzkFQJeg5HLVWHcSzUNxPwojHutwtTlhyFgmB+llXGsTFEd2oX7M9iVl/wbnTZBZoQJJR+cd/7bP10/rF5LJ0ehk/oAAAAASUVORK5CYII="
+    },
+    "relationships": {
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Red_egg"
+    },
+    "meta": {
+      "incomplete": false
+    }
+  },
+  "included": [
+
+  ]
+}

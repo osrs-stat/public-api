@@ -1,0 +1,75 @@
+{
+  "data": {
+    "id": "826",
+    "type": "item",
+    "attributes": {
+      "uuid": "2753f575-7a3b-4e6f-96ba-cdc57ddc94b6",
+      "name": "Iron javelin (Unpoisoned)",
+      "members": true,
+      "release_date": "2004-01-21",
+      "examine": "An iron tipped javelin.",
+      "tradeable": false,
+      "ge_tradeable": false,
+      "lowalch": 2,
+      "highalch": 3,
+      "is_equip": true,
+      "is_weapon": false,
+      "icon_base64": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAA4klEQVR4Xu3WwQqCQBAGYOdNPEWEhEQdOghLS6IgQiAVRBAIHYIg6NbLT8zGJqt354f6YVhWPXzMLGoU/WaI+1eUIhDiTZa5tX935BBXec6Fta5kn8axFoq4LougoEAeowQKMVtjcLrjD7Vqdy5lwm2VBBBVjJRyVySgmMZM9A+wxxzsVLs7HQZgVCFGeVQhBmpUp3yGg/mPahhynwQpGZV6dzwGoDvE13r+LYiDLJDbLsV4AQrk3iwGvxT9J0dIh5FVGSMhh5GCwDz2S1cwmOdxhYCREL/OaxSMDxTmEyiMZt53txImB+RxNQAAAABJRU5ErkJggg=="
+    },
+    "relationships": {
+      "equip": {
+        "data": {
+          "id": "155bf9f3-35a3-46ca-83ba-0d062400d502",
+          "type": "equip"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Iron_javelin#Unpoisoned"
+    },
+    "meta": {
+      "incomplete": false
+    }
+  },
+  "included": [
+    {
+      "id": "155bf9f3-35a3-46ca-83ba-0d062400d502",
+      "type": "equip",
+      "attributes": {
+        "slot": "ammo",
+        "passive_effect": null,
+        "requirements": {
+          "ranged_level": 1
+        }
+      },
+      "relationships": {
+        "equip_stat": {
+          "data": {
+            "id": "a7741163-ae53-4fec-9c8e-830bf095d138",
+            "type": "equip_stat"
+          }
+        }
+      }
+    },
+    {
+      "id": "a7741163-ae53-4fec-9c8e-830bf095d138",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 0,
+        "slash_attack": 0,
+        "crush_attack": 0,
+        "ranged_attack": 0,
+        "magic_attack": 0,
+        "stab_defense": 0,
+        "slash_defense": 0,
+        "crush_defense": 0,
+        "ranged_defense": 0,
+        "magic_defense": 0,
+        "melee_strength": 0,
+        "ranged_strength": 42,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

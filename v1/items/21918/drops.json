@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "id": "21918-8030",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.001"
+      },
+      "meta": {
+        "item_name": "Dragon limbs",
+        "monster_name": "Adamant dragon"
+      }
+    },
+    {
+      "id": "21918-8031",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00125"
+      },
+      "meta": {
+        "item_name": "Dragon limbs",
+        "monster_name": "Rune dragon"
+      }
+    }
+  ]
+}

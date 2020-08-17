@@ -1,0 +1,31 @@
+{
+  "data": {
+    "id": "22881",
+    "type": "item",
+    "attributes": {
+      "uuid": "e36056bb-4f21-4f5c-bc8e-6593a314b95a",
+      "name": "Attas seed",
+      "members": true,
+      "release_date": "2019-01-10",
+      "examine": "Plant this in an anima farming patch.",
+      "tradeable": false,
+      "ge_tradeable": false,
+      "lowalch": 400,
+      "highalch": 600,
+      "is_equip": false,
+      "is_weapon": false,
+      "icon_base64": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAAYElEQVR4XmNgGAWjYBSMglEwCkbBKMADGP8j8IADxv/J6W7/E9SU/svKig4GRzH+75gY9D+32Pd/eIztfwdnvcHhKGRsoKAAxuiq6ApgjhgUjhkFo2AUjIJRMApGASYAAJN5INRKey3hAAAAAElFTkSuQmCC"
+    },
+    "relationships": {
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Attas_seed"
+    },
+    "meta": {
+      "incomplete": false
+    }
+  },
+  "included": [
+
+  ]
+}

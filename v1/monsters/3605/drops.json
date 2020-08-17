@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "10859-3605",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.1"
+      },
+      "meta": {
+        "item_name": "Tea flask",
+        "monster_name": "Newtroost"
+      }
+    },
+    {
+      "id": "221-3605",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 4,
+        "quantity_max": 10,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Eye of newt",
+        "monster_name": "Newtroost"
+      }
+    },
+    {
+      "id": "526-3605",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Bones",
+        "monster_name": "Newtroost"
+      }
+    },
+    {
+      "id": "10882-3605",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.15"
+      },
+      "meta": {
+        "item_name": "Rune satchel",
+        "monster_name": "Newtroost"
+      }
+    }
+  ]
+}

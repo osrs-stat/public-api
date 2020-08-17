@@ -1,0 +1,75 @@
+{
+  "data": {
+    "id": "13379",
+    "type": "item",
+    "attributes": {
+      "uuid": "55fabea5-504b-4828-86c4-07aa51fab775",
+      "name": "Shayzien helm (5)",
+      "members": true,
+      "release_date": "2016-01-07",
+      "examine": "Dress like a tier 5 Shayzien soldier.",
+      "tradeable": false,
+      "ge_tradeable": false,
+      "lowalch": 28,
+      "highalch": 42,
+      "is_equip": true,
+      "is_weapon": false,
+      "icon_base64": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC3UlEQVR4XsWW0UtTcRTH93v0wYc9DGQgjBFDxhhjOMSx4WWxyxIHOsYSm6HLJtmwqTUEC7NlRRTzrcgIoehBjB7CYAWBb5UP1UtP/S/fzvldr97dzV7a/Xngy7b7cM9n33N+5/xcrq6EgP2J4mAAE0LA43FbfisPgXAkYIEQiMSCSGjRs4AS0EfjGAj5sViblgDlGxeRpmcmYMTnUwUlkM2nMJyIYLyQPnbn2tIUMtmkaiCBmfmcTByicp0kFqisFDE6oakHKi3kZWI7EJeOn3v7PWqB5iqFjkDLayXkp3T4/F7Z7EYpHQ+jec3EVqDVe2VMXh6TMFE6bYpcMpzgPmotjcDtzeuYLF5AnJpdKRAn5gbm5jWhWPWnVczOjSOtD0sgRUNS4MHWikzMCT3uzvL198Pb1ye/Owwl0NheM4A6gJwm00X727oQoi2ZVaFgsO1ZO1jXw/i3+Wy2JVla01CmkXDO728DsQI51OgC3358xPefTRz++oTnO3ex8aiCKg3HYil73D+d5JhLB1/3ULtzBcurM3j5po7SbBZ52nE6nbICHf8UffLm551nd8gBl2gQEgirdmsa9ceLcnpPjGuIDQZx/ujoM5C8AagoWYX6ZYH22nw5B20kKl3h0q3TnOKRwA7x3psg15QA5ejq8bCxhGevNyQUJ6+tX8UmuTXW24NUrwuxHhfCJCVAv/8c4vPBK2y/3cR9ami+I/GO4/WROAJh8ZBUAMRhHP/dDw28IJe4X4J0g+RyBVwGDDukFGj/yzb29rfQPNjBGpUrQw1slok/eSYpBXpH7uy+f4Kbfb1YJfHVI3PUPyw7kAllf1MXQ6BJLjFQlXTJ3YPhwUFEw2G5RgYCgZbJbTrkoEscAmO6LlfHSDzeAmR1hsWldNghDmPhppJJJIaGJJAdxAqkAOrfNwCWeSJNKSkbO8QlY9lhTACr7G/ocnR2SZEbp0VrWc4Yxgh7Wf4H5i9XO14RhiBzhwAAAABJRU5ErkJggg=="
+    },
+    "relationships": {
+      "equip": {
+        "data": {
+          "id": "f43e4179-8955-44b6-8329-783c2880fe74",
+          "type": "equip"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Shayzien_helm_(5)"
+    },
+    "meta": {
+      "incomplete": false
+    }
+  },
+  "included": [
+    {
+      "id": "f43e4179-8955-44b6-8329-783c2880fe74",
+      "type": "equip",
+      "attributes": {
+        "slot": "head",
+        "passive_effect": null,
+        "requirements": {
+          "defense_level": 20
+        }
+      },
+      "relationships": {
+        "equip_stat": {
+          "data": {
+            "id": "b48ec687-7e6c-41f1-b199-002e3d7b89f1",
+            "type": "equip_stat"
+          }
+        }
+      }
+    },
+    {
+      "id": "b48ec687-7e6c-41f1-b199-002e3d7b89f1",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 0,
+        "slash_attack": 0,
+        "crush_attack": 0,
+        "ranged_attack": -2,
+        "magic_attack": -6,
+        "stab_defense": 10,
+        "slash_defense": 14,
+        "crush_defense": 12,
+        "ranged_defense": 13,
+        "magic_defense": -2,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

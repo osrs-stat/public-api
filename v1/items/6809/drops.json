@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "6809-465",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.001953125"
+      },
+      "meta": {
+        "item_name": "Granite legs",
+        "monster_name": "Skeletal Wyvern (2)"
+      }
+    },
+    {
+      "id": "6809-468",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.001953125"
+      },
+      "meta": {
+        "item_name": "Granite legs",
+        "monster_name": "Skeletal Wyvern (1)"
+      }
+    },
+    {
+      "id": "6809-467",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.001953125"
+      },
+      "meta": {
+        "item_name": "Granite legs",
+        "monster_name": "Skeletal Wyvern (4)"
+      }
+    },
+    {
+      "id": "6809-466",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.001953125"
+      },
+      "meta": {
+        "item_name": "Granite legs",
+        "monster_name": "Skeletal Wyvern (3)"
+      }
+    }
+  ]
+}

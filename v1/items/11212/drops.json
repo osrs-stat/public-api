@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "id": "11212-7806",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 60,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Dragon arrow (Unpoisoned)",
+        "monster_name": "Deranged archaeologist"
+      }
+    },
+    {
+      "id": "11212-6618",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 75,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Dragon arrow (Unpoisoned)",
+        "monster_name": "Crazy archaeologist"
+      }
+    }
+  ]
+}

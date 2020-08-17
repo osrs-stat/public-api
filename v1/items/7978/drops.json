@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "id": "7978-7405",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000333333333333333"
+      },
+      "meta": {
+        "item_name": "Kurask head",
+        "monster_name": "King kurask"
+      }
+    },
+    {
+      "id": "7978-410",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000333333333333333"
+      },
+      "meta": {
+        "item_name": "Kurask head",
+        "monster_name": "Kurask"
+      }
+    }
+  ]
+}

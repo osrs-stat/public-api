@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "325-531",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Sardine",
+        "monster_name": "Dark warrior (Level 8)"
+      }
+    },
+    {
+      "id": "325-6606",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Sardine",
+        "monster_name": "Dark warrior (Level 145)"
+      }
+    },
+    {
+      "id": "325-6606",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Sardine",
+        "monster_name": "Dark warrior (Level 145)"
+      }
+    },
+    {
+      "id": "325-531",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Sardine",
+        "monster_name": "Dark warrior (Level 8)"
+      }
+    }
+  ]
+}

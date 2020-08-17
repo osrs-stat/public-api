@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "23835-9026",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.125"
+      },
+      "meta": {
+        "item_name": "Grym leaf (corrupted)",
+        "monster_name": "Crystalline Rat"
+      }
+    },
+    {
+      "id": "23835-9041",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.125"
+      },
+      "meta": {
+        "item_name": "Grym leaf (corrupted)",
+        "monster_name": "Corrupted Spider"
+      }
+    },
+    {
+      "id": "23835-9027",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.125"
+      },
+      "meta": {
+        "item_name": "Grym leaf (corrupted)",
+        "monster_name": "Crystalline Spider"
+      }
+    },
+    {
+      "id": "23835-9040",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.125"
+      },
+      "meta": {
+        "item_name": "Grym leaf (corrupted)",
+        "monster_name": "Corrupted Rat"
+      }
+    }
+  ]
+}

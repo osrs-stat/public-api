@@ -1,0 +1,75 @@
+{
+  "data": {
+    "id": "4129",
+    "type": "item",
+    "attributes": {
+      "uuid": "ef14ac03-b397-48fb-b5e6-30b59d992b88",
+      "name": "Adamant boots",
+      "members": true,
+      "release_date": "2005-01-26",
+      "examine": "These will protect my feet.",
+      "tradeable": false,
+      "ge_tradeable": false,
+      "lowalch": 768,
+      "highalch": 1152,
+      "is_equip": true,
+      "is_weapon": false,
+      "icon_base64": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACaklEQVR4Xu2UQWvbQBCFs8ceeujBYAQBIYwxIRgTFIxFTEVMjF2ckBoTSik5lEKh//8+1VvlSbMrCSQ5jaHtwKDLzu43783o7Ox//L1hJM+TRw6yis9tnhisBEE+rK5ll17JdDRQYG8GaGQzD4vcr+cF0GY5k1UylXR+IZPwgwSDdzWArwppZJdENgHztE0qQIvLQOLJUKLgfQGk1fw40/YeBWfkcTmySSgfCI8BCNYRCOC+tVrJI+ByIK2QTnZfB9RkLZTUZztCGTmk4wJKg2g78AjmB4+0sZZnCTQLw7ZQORCSD2kQJh/x1Wyy9gggRKkSH9RW6Ud8IJyrs5ZAhOkIhDDyZXdjbbAdvzyooaLLqBbIt5ZAPdVhGHn+nDpQHNLFbCzTSSijcFiZN9/euoHuAWRk/3Mv998fZP11I7eHW0k+JXKdQcWZKoQ5DwYyHGRD/byT7bet/VJFKslZC8ehBFHQByibn1+HCsxivbDK+ED5Cufprzv+PzfxxKnrCFTCoGPALO+XrYB0ExrGPw9F85pWkf0UfzxamLunOwuUZnMEKG3XxShwgACjLUYNGrhKY1vD84RpuWUlDC71gbQ6PhBgUIsZQp09/6Ioz2t1WsNwODUQbSNQEwxtJlDdAnRWB5fWQaFbXx1tlQYqlsBroIM6iGYgJGeBQBxkDYM6zg+BetqFcIF4OWdIX94EQ7tw3reLNS3tYhhnDvTKV/8hzYr686ZBOsAwyp8cN4Xduh2WS0A19bxR0R6qVEM/qtO9uATyN5I/w2rNK4SWunqxcWYNitKuPwLTLlwV69V84/BVPCnMPxG/AVg3dq86kT68AAAAAElFTkSuQmCC"
+    },
+    "relationships": {
+      "equip": {
+        "data": {
+          "id": "b0e021c9-689f-4bce-8d0d-6438a761d482",
+          "type": "equip"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Adamant_boots"
+    },
+    "meta": {
+      "incomplete": false
+    }
+  },
+  "included": [
+    {
+      "id": "b0e021c9-689f-4bce-8d0d-6438a761d482",
+      "type": "equip",
+      "attributes": {
+        "slot": "boots",
+        "passive_effect": null,
+        "requirements": {
+          "defense_level": 30
+        }
+      },
+      "relationships": {
+        "equip_stat": {
+          "data": {
+            "id": "9d052192-e673-4a0b-8f23-1474acbace28",
+            "type": "equip_stat"
+          }
+        }
+      }
+    },
+    {
+      "id": "9d052192-e673-4a0b-8f23-1474acbace28",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 0,
+        "slash_attack": 0,
+        "crush_attack": 0,
+        "ranged_attack": -1,
+        "magic_attack": -3,
+        "stab_defense": 10,
+        "slash_defense": 11,
+        "crush_defense": 12,
+        "ranged_defense": 0,
+        "magic_defense": 0,
+        "melee_strength": 1,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "8848-2464",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.02"
+      },
+      "meta": {
+        "item_name": "Mithril defender (Normal)",
+        "monster_name": "Cyclops (Level 76)"
+      }
+    },
+    {
+      "id": "8848-2235",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.02"
+      },
+      "meta": {
+        "item_name": "Mithril defender (Normal)",
+        "monster_name": "Cyclops (Level 81)"
+      }
+    },
+    {
+      "id": "8848-2137",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.02"
+      },
+      "meta": {
+        "item_name": "Mithril defender (Normal)",
+        "monster_name": "Cyclops (Level 106)"
+      }
+    },
+    {
+      "id": "8848-2097",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.02"
+      },
+      "meta": {
+        "item_name": "Mithril defender (Normal)",
+        "monster_name": "Cyclops (Level 56)"
+      }
+    }
+  ]
+}

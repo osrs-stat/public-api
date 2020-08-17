@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "id": "1442-1556",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.05"
+      },
+      "meta": {
+        "item_name": "Fire talisman",
+        "monster_name": "Fire wizard"
+      }
+    },
+    {
+      "id": "554-1556",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": 10,
+        "rarity": "0.95"
+      },
+      "meta": {
+        "item_name": "Fire rune (Regular)",
+        "monster_name": "Fire wizard"
+      }
+    },
+    {
+      "id": "592-1556",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Ashes",
+        "monster_name": "Fire wizard"
+      }
+    }
+  ]
+}

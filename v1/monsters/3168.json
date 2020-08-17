@@ -1,0 +1,121 @@
+{
+  "data": {
+    "id": "3168",
+    "type": "monster",
+    "attributes": {
+      "uuid": "2cb7055f-767f-4d88-8156-8c7246bca738",
+      "name": "Spiritual mage (Armadyl)",
+      "members": true,
+      "release_date": "2013-10-17",
+      "examine": "A mage who serves Armadyl above all else - even death.",
+      "combat_level_override": 122,
+      "max_hit_override": 17,
+      "target_types": [
+
+      ],
+      "classification_types": [
+        "spiritual creatures"
+      ],
+      "poison": false,
+      "immune_poison": false,
+      "immune_venom": false,
+      "slayer_xp": 75.0,
+      "slayer_level": 83,
+      "slayer_masters": [
+        "krystilia",
+        "vannaka",
+        "chaeldar",
+        "nieve",
+        "duradel"
+      ],
+      "icon_base64": null
+    },
+    "relationships": {
+      "combat_stat": {
+        "data": {
+          "id": "1854f410-4731-4f30-8dad-2adeb4e9721c",
+          "type": "combat_stat"
+        }
+      },
+      "equip_stat": {
+        "data": {
+          "id": "bd4cbb92-c155-4c33-a43b-01c6ed049ee6",
+          "type": "equip_stat"
+        }
+      },
+      "attack_stat": {
+        "data": {
+          "id": "d0e1b3ea-3af9-4e4b-81dd-f6471ad508d1",
+          "type": "attack_stat"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Spiritual_mage#Armadyl"
+    },
+    "meta": {
+      "incomplete": true
+    }
+  },
+  "included": [
+    {
+      "id": "d0e1b3ea-3af9-4e4b-81dd-f6471ad508d1",
+      "type": "attack_stat",
+      "attributes": {
+        "attack_speed": 4,
+        "attack_type": "monster",
+        "special": null,
+        "stances": [
+          {
+            "name": "Monster magic",
+            "style": null,
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": null,
+            "combat_accuracy_stat": "magic_level",
+            "combat_damage_stat": "magic_level",
+            "equip_accuracy_stat": "magic_attack",
+            "equip_damage_stat": "magic_attack",
+            "target_equip_defense_stat": "magic_defense"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1854f410-4731-4f30-8dad-2adeb4e9721c",
+      "type": "monster_combat_stat",
+      "attributes": {
+        "hitpoints_level": 75,
+        "attack_level": 1,
+        "strength_level": 1,
+        "defense_level": 111,
+        "magic_level": 150,
+        "ranged_level": 1,
+        "prayer_level": 0
+      }
+    },
+    {
+      "id": "bd4cbb92-c155-4c33-a43b-01c6ed049ee6",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 0,
+        "slash_attack": 0,
+        "crush_attack": 0,
+        "ranged_attack": 0,
+        "magic_attack": 0,
+        "stab_defense": 9,
+        "slash_defense": 12,
+        "crush_defense": 5,
+        "ranged_defense": 28,
+        "magic_defense": 45,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

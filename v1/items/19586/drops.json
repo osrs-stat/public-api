@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "id": "19586-7144",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00133333333333333"
+      },
+      "meta": {
+        "item_name": "Light frame",
+        "monster_name": "Demonic gorilla"
+      }
+    },
+    {
+      "id": "19586-7095",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000133333333333333"
+      },
+      "meta": {
+        "item_name": "Light frame",
+        "monster_name": "Tortured gorilla (Level 142)"
+      }
+    },
+    {
+      "id": "19586-7150",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000133333333333333"
+      },
+      "meta": {
+        "item_name": "Light frame",
+        "monster_name": "Tortured gorilla (Level 141)"
+      }
+    }
+  ]
+}

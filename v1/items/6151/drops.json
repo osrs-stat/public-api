@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "id": "6151-2261",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Rock-shell gloves",
+        "monster_name": "Giant Rock Crab"
+      }
+    },
+    {
+      "id": "6151-7266",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Rock-shell gloves",
+        "monster_name": "King Sand Crab (Active)"
+      }
+    }
+  ]
+}

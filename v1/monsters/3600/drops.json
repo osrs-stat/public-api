@@ -1,0 +1,100 @@
+{
+  "data": [
+    {
+      "id": "10859-3600",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.1"
+      },
+      "meta": {
+        "item_name": "Tea flask",
+        "monster_name": "Frogeel"
+      }
+    },
+    {
+      "id": "10977-3600",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000199501246882793"
+      },
+      "meta": {
+        "item_name": "Curved bone",
+        "monster_name": "Frogeel"
+      }
+    },
+    {
+      "id": "10877-3600",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.15"
+      },
+      "meta": {
+        "item_name": "Plain satchel",
+        "monster_name": "Frogeel"
+      }
+    },
+    {
+      "id": "10976-3600",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0025"
+      },
+      "meta": {
+        "item_name": "Long bone",
+        "monster_name": "Frogeel"
+      }
+    },
+    {
+      "id": "526-3600",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Bones",
+        "monster_name": "Frogeel"
+      }
+    },
+    {
+      "id": "5001-3600",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": 10,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Raw cave eel",
+        "monster_name": "Frogeel"
+      }
+    }
+  ]
+}

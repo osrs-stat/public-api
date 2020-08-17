@@ -1,0 +1,117 @@
+{
+  "data": {
+    "id": "1118",
+    "type": "monster",
+    "attributes": {
+      "uuid": "cbc3147c-74fa-47cc-a903-4e74a26ed940",
+      "name": "Man (West Ardougne)",
+      "members": false,
+      "release_date": "2001-01-04",
+      "examine": "One of Gielinor's many citizens.",
+      "combat_level_override": 4,
+      "max_hit_override": null,
+      "target_types": [
+
+      ],
+      "classification_types": [
+
+      ],
+      "poison": false,
+      "immune_poison": false,
+      "immune_venom": false,
+      "slayer_xp": null,
+      "slayer_level": null,
+      "slayer_masters": [
+
+      ],
+      "icon_base64": null
+    },
+    "relationships": {
+      "combat_stat": {
+        "data": {
+          "id": "cabbc3ba-073b-4e23-8c03-5289b5241035",
+          "type": "combat_stat"
+        }
+      },
+      "equip_stat": {
+        "data": {
+          "id": "c90a2cf4-281f-49f3-89b1-5ac41ad7e88b",
+          "type": "equip_stat"
+        }
+      },
+      "attack_stat": {
+        "data": {
+          "id": "09ce54dd-75bb-4e52-ad71-fce39f03b907",
+          "type": "attack_stat"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Man#West_Ardougne"
+    },
+    "meta": {
+      "incomplete": true
+    }
+  },
+  "included": [
+    {
+      "id": "09ce54dd-75bb-4e52-ad71-fce39f03b907",
+      "type": "attack_stat",
+      "attributes": {
+        "attack_speed": 4,
+        "attack_type": "monster",
+        "special": null,
+        "stances": [
+          {
+            "name": "Monster crush",
+            "style": null,
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": null,
+            "combat_accuracy_stat": "attack_level",
+            "combat_damage_stat": "strength_level",
+            "equip_accuracy_stat": "crush_attack",
+            "equip_damage_stat": "crush_attack",
+            "target_equip_defense_stat": "crush_defense"
+          }
+        ]
+      }
+    },
+    {
+      "id": "cabbc3ba-073b-4e23-8c03-5289b5241035",
+      "type": "monster_combat_stat",
+      "attributes": {
+        "hitpoints_level": 7,
+        "attack_level": 1,
+        "strength_level": 1,
+        "defense_level": 1,
+        "magic_level": 1,
+        "ranged_level": 1,
+        "prayer_level": 0
+      }
+    },
+    {
+      "id": "c90a2cf4-281f-49f3-89b1-5ac41ad7e88b",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 0,
+        "slash_attack": 0,
+        "crush_attack": 0,
+        "ranged_attack": 0,
+        "magic_attack": 0,
+        "stab_defense": -21,
+        "slash_defense": -21,
+        "crush_defense": -21,
+        "ranged_defense": -21,
+        "magic_defense": -21,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

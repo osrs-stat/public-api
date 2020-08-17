@@ -1,0 +1,452 @@
+{
+  "data": [
+    {
+      "id": "5288-8061",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00111982082866741"
+      },
+      "meta": {
+        "item_name": "Papaya tree seed",
+        "monster_name": "Vorkath (Post-quest)"
+      }
+    },
+    {
+      "id": "5288-8060",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00111982082866741"
+      },
+      "meta": {
+        "item_name": "Papaya tree seed",
+        "monster_name": "Vorkath (Dragon Slayer II)"
+      }
+    },
+    {
+      "id": "5288-7806",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000437430011198208"
+      },
+      "meta": {
+        "item_name": "Papaya tree seed",
+        "monster_name": "Deranged archaeologist"
+      }
+    },
+    {
+      "id": "5288-7795",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000835687185572696"
+      },
+      "meta": {
+        "item_name": "Papaya tree seed",
+        "monster_name": "Ancient Wyvern"
+      }
+    },
+    {
+      "id": "5288-7794",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000455290475323256"
+      },
+      "meta": {
+        "item_name": "Papaya tree seed",
+        "monster_name": "Spitting Wyvern"
+      }
+    },
+    {
+      "id": "5288-7793",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000455290475323256"
+      },
+      "meta": {
+        "item_name": "Papaya tree seed",
+        "monster_name": "Taloned Wyvern"
+      }
+    },
+    {
+      "id": "5288-7792",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000455290475323256"
+      },
+      "meta": {
+        "item_name": "Papaya tree seed",
+        "monster_name": "Long-tailed Wyvern"
+      }
+    },
+    {
+      "id": "5288-7150",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Papaya tree seed",
+        "monster_name": "Tortured gorilla (Level 141)"
+      }
+    },
+    {
+      "id": "5288-7144",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.00279955207166853"
+      },
+      "meta": {
+        "item_name": "Papaya tree seed",
+        "monster_name": "Demonic gorilla"
+      }
+    },
+    {
+      "id": "5288-7095",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Papaya tree seed",
+        "monster_name": "Tortured gorilla (Level 142)"
+      }
+    },
+    {
+      "id": "5288-6766",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00111982082866741"
+      },
+      "meta": {
+        "item_name": "Papaya tree seed",
+        "monster_name": "Lizardman shaman (Standard)"
+      }
+    },
+    {
+      "id": "5288-6604",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0015625"
+      },
+      "meta": {
+        "item_name": "Papaya tree seed",
+        "monster_name": "Mammoth"
+      }
+    },
+    {
+      "id": "5288-5908",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.00201406623861046"
+      },
+      "meta": {
+        "item_name": "Papaya tree seed",
+        "monster_name": "Abyssal Sire (Phase 3 (stage 2))"
+      }
+    },
+    {
+      "id": "5288-5891",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.00201406623861046"
+      },
+      "meta": {
+        "item_name": "Papaya tree seed",
+        "monster_name": "Abyssal Sire (Phase 3 (stage 1))"
+      }
+    },
+    {
+      "id": "5288-5890",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.00201406623861046"
+      },
+      "meta": {
+        "item_name": "Papaya tree seed",
+        "monster_name": "Abyssal Sire (Phase 2)"
+      }
+    },
+    {
+      "id": "5288-5886",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.00201406623861046"
+      },
+      "meta": {
+        "item_name": "Papaya tree seed",
+        "monster_name": "Abyssal Sire (Phase 1)"
+      }
+    },
+    {
+      "id": "5288-2044",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.0241935483870968"
+      },
+      "meta": {
+        "item_name": "Papaya tree seed",
+        "monster_name": "Zulrah (Tanzanite)"
+      }
+    },
+    {
+      "id": "5288-2043",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.0241935483870968"
+      },
+      "meta": {
+        "item_name": "Papaya tree seed",
+        "monster_name": "Zulrah (Magma)"
+      }
+    },
+    {
+      "id": "5288-2042",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.0241935483870968"
+      },
+      "meta": {
+        "item_name": "Papaya tree seed",
+        "monster_name": "Zulrah (Serpentine)"
+      }
+    },
+    {
+      "id": "5288-963",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Papaya tree seed",
+        "monster_name": "Kalphite Queen (Crawling)"
+      }
+    },
+    {
+      "id": "5288-965",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Papaya tree seed",
+        "monster_name": "Kalphite Queen (Airborne)"
+      }
+    },
+    {
+      "id": "5288-8618",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": 3,
+        "rarity": "0.00110873349373011"
+      },
+      "meta": {
+        "item_name": "Papaya tree seed",
+        "monster_name": "Alchemical Hydra (Three heads)"
+      }
+    },
+    {
+      "id": "5288-8617",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": 3,
+        "rarity": "0.00110873349373011"
+      },
+      "meta": {
+        "item_name": "Papaya tree seed",
+        "monster_name": "Alchemical Hydra (Four heads)"
+      }
+    },
+    {
+      "id": "5288-8615",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": 3,
+        "rarity": "0.00110873349373011"
+      },
+      "meta": {
+        "item_name": "Papaya tree seed",
+        "monster_name": "Alchemical Hydra (Five heads)"
+      }
+    },
+    {
+      "id": "5288-8583",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.0375"
+      },
+      "meta": {
+        "item_name": "Papaya tree seed",
+        "monster_name": "Hespori"
+      }
+    },
+    {
+      "id": "5288-8565",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00111982082866741"
+      },
+      "meta": {
+        "item_name": "Papaya tree seed",
+        "monster_name": "Lizardman shaman (Lizardman Temple)"
+      }
+    },
+    {
+      "id": "5288-8713",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.01"
+      },
+      "meta": {
+        "item_name": "Papaya tree seed",
+        "monster_name": "Sarachnis"
+      }
+    },
+    {
+      "id": "5288-8621",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": 3,
+        "rarity": "0.00110873349373011"
+      },
+      "meta": {
+        "item_name": "Papaya tree seed",
+        "monster_name": "Alchemical Hydra (Two heads)"
+      }
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "id": "534-1871",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Babydragon bones",
+        "monster_name": "Baby black dragon"
+      }
+    },
+    {
+      "id": "23083-1871",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00633713561470215"
+      },
+      "meta": {
+        "item_name": "Brimstone key",
+        "monster_name": "Baby black dragon"
+      }
+    }
+  ]
+}

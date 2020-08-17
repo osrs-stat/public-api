@@ -1,0 +1,118 @@
+{
+  "data": {
+    "id": "3908",
+    "type": "monster",
+    "attributes": {
+      "uuid": "a29400be-c683-47c3-9e56-e4dbdea0209b",
+      "name": "Bear Cub (1)",
+      "members": true,
+      "release_date": "2004-11-02",
+      "examine": "Cute. But deadly.",
+      "combat_level_override": null,
+      "max_hit_override": null,
+      "target_types": [
+
+      ],
+      "classification_types": [
+        "bear"
+      ],
+      "poison": false,
+      "immune_poison": false,
+      "immune_venom": false,
+      "slayer_xp": 20.0,
+      "slayer_level": 1,
+      "slayer_masters": [
+        "turael",
+        "mazchna"
+      ],
+      "icon_base64": null
+    },
+    "relationships": {
+      "combat_stat": {
+        "data": {
+          "id": "18bcf1fc-af6f-4886-a4b7-2abbbf6ad128",
+          "type": "combat_stat"
+        }
+      },
+      "equip_stat": {
+        "data": {
+          "id": "f2685533-878d-4b91-9b9c-fc212f7392d4",
+          "type": "equip_stat"
+        }
+      },
+      "attack_stat": {
+        "data": {
+          "id": "fe321f1a-8ca7-496a-aefa-e6e92ec36d24",
+          "type": "attack_stat"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Bear_Cub#1"
+    },
+    "meta": {
+      "incomplete": true
+    }
+  },
+  "included": [
+    {
+      "id": "fe321f1a-8ca7-496a-aefa-e6e92ec36d24",
+      "type": "attack_stat",
+      "attributes": {
+        "attack_speed": 4,
+        "attack_type": "monster",
+        "special": null,
+        "stances": [
+          {
+            "name": "Monster slash",
+            "style": null,
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": null,
+            "combat_accuracy_stat": "attack_level",
+            "combat_damage_stat": "strength_level",
+            "equip_accuracy_stat": "slash_attack",
+            "equip_damage_stat": "slash_attack",
+            "target_equip_defense_stat": "slash_defense"
+          }
+        ]
+      }
+    },
+    {
+      "id": "18bcf1fc-af6f-4886-a4b7-2abbbf6ad128",
+      "type": "monster_combat_stat",
+      "attributes": {
+        "hitpoints_level": 20,
+        "attack_level": 10,
+        "strength_level": 15,
+        "defense_level": 10,
+        "magic_level": 1,
+        "ranged_level": 1,
+        "prayer_level": 0
+      }
+    },
+    {
+      "id": "f2685533-878d-4b91-9b9c-fc212f7392d4",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 0,
+        "slash_attack": 0,
+        "crush_attack": 0,
+        "ranged_attack": 0,
+        "magic_attack": 0,
+        "stab_defense": 0,
+        "slash_defense": 0,
+        "crush_defense": 0,
+        "ranged_defense": 0,
+        "magic_defense": 0,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

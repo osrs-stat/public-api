@@ -1,0 +1,452 @@
+{
+  "data": [
+    {
+      "id": "2357-7407",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 10,
+        "quantity_max": 15,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Gold bar",
+        "monster_name": "Marble gargoyle"
+      }
+    },
+    {
+      "id": "451-7407",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Runite ore",
+        "monster_name": "Marble gargoyle"
+      }
+    },
+    {
+      "id": "2359-7407",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 15,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Mithril bar",
+        "monster_name": "Marble gargoyle"
+      }
+    },
+    {
+      "id": "995-7407",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10000,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Marble gargoyle"
+      }
+    },
+    {
+      "id": "995-7407",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 500,
+        "quantity_max": 1000,
+        "rarity": "0.15625"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Marble gargoyle"
+      }
+    },
+    {
+      "id": "995-7407",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 400,
+        "quantity_max": 800,
+        "rarity": "0.21875"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Marble gargoyle"
+      }
+    },
+    {
+      "id": "560-7407",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 15,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Death rune (Regular)",
+        "monster_name": "Marble gargoyle"
+      }
+    },
+    {
+      "id": "444-7407",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 10,
+        "quantity_max": 20,
+        "rarity": "0.078125"
+      },
+      "meta": {
+        "item_name": "Gold ore",
+        "monster_name": "Marble gargoyle"
+      }
+    },
+    {
+      "id": "7936-7407",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 150,
+        "quantity_max": null,
+        "rarity": "0.046875"
+      },
+      "meta": {
+        "item_name": "Pure essence",
+        "monster_name": "Marble gargoyle"
+      }
+    },
+    {
+      "id": "2353-7407",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 15,
+        "quantity_max": null,
+        "rarity": "0.046875"
+      },
+      "meta": {
+        "item_name": "Steel bar",
+        "monster_name": "Marble gargoyle"
+      }
+    },
+    {
+      "id": "20724-7407",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "superior-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00192901234567901"
+      },
+      "meta": {
+        "item_name": "Imbued heart",
+        "monster_name": "Marble gargoyle"
+      }
+    },
+    {
+      "id": "21270-7407",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "superior-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00192901234567901"
+      },
+      "meta": {
+        "item_name": "Eternal gem",
+        "monster_name": "Marble gargoyle"
+      }
+    },
+    {
+      "id": "20736-7407",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "superior-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00578703703703704"
+      },
+      "meta": {
+        "item_name": "Dust battlestaff",
+        "monster_name": "Marble gargoyle"
+      }
+    },
+    {
+      "id": "20730-7407",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "superior-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00578703703703704"
+      },
+      "meta": {
+        "item_name": "Mist battlestaff",
+        "monster_name": "Marble gargoyle"
+      }
+    },
+    {
+      "id": "21724-7407",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00666666666666667"
+      },
+      "meta": {
+        "item_name": "Brittle key",
+        "monster_name": "Marble gargoyle"
+      }
+    },
+    {
+      "id": "23083-7407",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0249003984063745"
+      },
+      "meta": {
+        "item_name": "Brimstone key",
+        "monster_name": "Marble gargoyle"
+      }
+    },
+    {
+      "id": "2722-7407",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.078125"
+      },
+      "meta": {
+        "item_name": "Clue scroll (hard)",
+        "monster_name": "Marble gargoyle"
+      }
+    },
+    {
+      "id": "4153-7407",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00390625"
+      },
+      "meta": {
+        "item_name": "Granite maul (Normal)",
+        "monster_name": "Marble gargoyle"
+      }
+    },
+    {
+      "id": "4101-7407",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.001953125"
+      },
+      "meta": {
+        "item_name": "Mystic robe top (dark)",
+        "monster_name": "Marble gargoyle"
+      }
+    },
+    {
+      "id": "1073-7407",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Adamant platelegs",
+        "monster_name": "Marble gargoyle"
+      }
+    },
+    {
+      "id": "1163-7407",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Rune full helm",
+        "monster_name": "Marble gargoyle"
+      }
+    },
+    {
+      "id": "1319-7407",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Rune 2h sword",
+        "monster_name": "Marble gargoyle"
+      }
+    },
+    {
+      "id": "4129-7407",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Adamant boots",
+        "monster_name": "Marble gargoyle"
+      }
+    },
+    {
+      "id": "1373-7407",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Rune battleaxe",
+        "monster_name": "Marble gargoyle"
+      }
+    },
+    {
+      "id": "1079-7407",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Rune platelegs",
+        "monster_name": "Marble gargoyle"
+      }
+    },
+    {
+      "id": "554-7407",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 75,
+        "quantity_max": null,
+        "rarity": "0.078125"
+      },
+      "meta": {
+        "item_name": "Fire rune (Regular)",
+        "monster_name": "Marble gargoyle"
+      }
+    },
+    {
+      "id": "562-7407",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 30,
+        "quantity_max": null,
+        "rarity": "0.0625"
+      },
+      "meta": {
+        "item_name": "Chaos rune (Regular)",
+        "monster_name": "Marble gargoyle"
+      }
+    },
+    {
+      "id": "554-7407",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 150,
+        "quantity_max": null,
+        "rarity": "0.046875"
+      },
+      "meta": {
+        "item_name": "Fire rune (Regular)",
+        "monster_name": "Marble gargoyle"
+      }
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "data": [
+    {
+      "id": "7975-448",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.002"
+      },
+      "meta": {
+        "item_name": "Crawling hand (item)",
+        "monster_name": "Crawling Hand (Level 8)"
+      }
+    },
+    {
+      "id": "7975-450",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.002"
+      },
+      "meta": {
+        "item_name": "Crawling hand (item)",
+        "monster_name": "Crawling Hand (Level 7)"
+      }
+    },
+    {
+      "id": "7975-453",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.002"
+      },
+      "meta": {
+        "item_name": "Crawling hand (item)",
+        "monster_name": "Crawling Hand (Level 12 (1))"
+      }
+    },
+    {
+      "id": "7975-454",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.002"
+      },
+      "meta": {
+        "item_name": "Crawling hand (item)",
+        "monster_name": "Crawling Hand (Level 12 (2))"
+      }
+    },
+    {
+      "id": "7975-7388",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.002"
+      },
+      "meta": {
+        "item_name": "Crawling hand (item)",
+        "monster_name": "Crushing hand"
+      }
+    }
+  ]
+}

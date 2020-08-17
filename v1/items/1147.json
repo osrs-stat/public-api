@@ -1,0 +1,75 @@
+{
+  "data": {
+    "id": "1147",
+    "type": "item",
+    "attributes": {
+      "uuid": "b0b1014e-7ee2-4252-ac92-ba30dae708f4",
+      "name": "Rune med helm",
+      "members": false,
+      "release_date": "2001-07-26",
+      "examine": "A medium sized helmet.",
+      "tradeable": false,
+      "ge_tradeable": false,
+      "lowalch": 7680,
+      "highalch": 11520,
+      "is_equip": true,
+      "is_weapon": false,
+      "icon_base64": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACtUlEQVR4Xu2X0WvTUBTGcx/7kIc8FEqhEESK9KGMYRHHBmUFKaOTrWAp1slQx1BRJ3Mw5oSBG8MXwQdB8I893i/xuzm7ZpYl7YThgQ+SNM395Zzv3HsTBP/jZoeR6bq2MDLY2ZP+9mt5sLUrvcmOdEdPZWX4RJbWR3JvbSid/sPrgjKyvrufSEOtjp85KAAt9gay0O3PO1tGNt8cysarg0SAWnv+1kEBaHlj7IDaKz1pLXXlTmd5HlBGhu8+OhEMUABi2QiE7BCmuXhfbrXvztJfRkb7J/Lo/ScnQAGIZSMQPAT/EIgwcast9WZLavFtaQRBGSgj44PPTgAjnAaCh2hqDZQHE1ZrCdBCHF8Vysjk6FweH545aTBkCR6iqQlE/6BcAPJhCgIZ2Tr+4gQwDQcoZAkeIpBvaA1UrTccDI4LAX2Po0Q/rH5a+WCAgrlRsrwOWw0D6VQCadrM6OwUBuLAXxuRfLtE5/VQjq32aqG8qFZkElVk02oQVhIgZkjDFAaiV9hVGNzXqdWJ1QcL9NICbVuYkZXuMviHIBDOCwERBEatRlEiXEOZ/EkRbZ/nIx8IxwWBECZ90G8YLXQUj/01jVAAQskIoVUYSA9MIWsY1L+u2x9zEUqm5yAK54WBUBakXQ+MyZBAuMdXHpCvUkB+NniND00fnC68KBt+g4c4D+VBlQLCIHhbDeXDoIxcQtAE6DK9jmld/O+VIgNCCZJuyYFB56GM9JAG8qFKwCAyoMTcakIjDOYpLLJc09Bl7DC99aAKlopxORB/R6k4J/E+GhpA/n6oRHYQ04E4SeotCID0bpGlK5kdxHQg7on0iq+3rxDum0F2GGYqkPYPDQ0BSoPMAIaRTXoXH5x+gXALqzdo/OKYMUgW+W+ZfZ/RP1xY5wrz9/hz6fiHMGno7OVn8obEL0CtlWSDRTwqAAAAAElFTkSuQmCC"
+    },
+    "relationships": {
+      "equip": {
+        "data": {
+          "id": "b97ea76c-a4d3-4eec-84c3-e01eb350187a",
+          "type": "equip"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Rune_med_helm"
+    },
+    "meta": {
+      "incomplete": false
+    }
+  },
+  "included": [
+    {
+      "id": "b97ea76c-a4d3-4eec-84c3-e01eb350187a",
+      "type": "equip",
+      "attributes": {
+        "slot": "head",
+        "passive_effect": null,
+        "requirements": {
+          "defense_level": 40
+        }
+      },
+      "relationships": {
+        "equip_stat": {
+          "data": {
+            "id": "f2360102-f27c-4174-9409-9082707e5b14",
+            "type": "equip_stat"
+          }
+        }
+      }
+    },
+    {
+      "id": "f2360102-f27c-4174-9409-9082707e5b14",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 0,
+        "slash_attack": 0,
+        "crush_attack": 0,
+        "ranged_attack": -1,
+        "magic_attack": -3,
+        "stab_defense": 22,
+        "slash_defense": 23,
+        "crush_defense": 21,
+        "ranged_defense": 22,
+        "magic_defense": -1,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

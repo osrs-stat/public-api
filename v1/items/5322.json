@@ -1,0 +1,31 @@
+{
+  "data": {
+    "id": "5322",
+    "type": "item",
+    "attributes": {
+      "uuid": "75ae7017-21e6-496f-a6ab-aa5460c196fe",
+      "name": "Tomato seed",
+      "members": true,
+      "release_date": "2005-06-06",
+      "examine": "A tomato seed - plant in an allotment.",
+      "tradeable": false,
+      "ge_tradeable": false,
+      "lowalch": 1,
+      "highalch": 2,
+      "is_equip": false,
+      "is_weapon": false,
+      "icon_base64": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAA1ElEQVR4XmNgGAWjYBSMglEwCkbBYAKM/xF4QAHEEc0pNv+TfXT+W+pIDaSjGP+fmB37f1tv6P/FdT7/+/Kc/ueGGIEdZKCgMBCOYvx/d23u/7Pz4/7vnhD2f1mD7/+JBc7/q2ItByqUGP/f31T2/86arP/Xlib/PzQ16v/a1oD/M8vcBiqUICF0Y3nK//MLEv4fmxnzf9+kcHAUDpCDQIDx/5UlSf9Pz4kDhxAo6mCOGTAHXVyUCE7csBw3gI6BAVSHDLBjIGDQOGQUjIJRMAqGMwAACkp4OOKuUxEAAAAASUVORK5CYII="
+    },
+    "relationships": {
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Tomato_seed"
+    },
+    "meta": {
+      "incomplete": false
+    }
+  },
+  "included": [
+
+  ]
+}

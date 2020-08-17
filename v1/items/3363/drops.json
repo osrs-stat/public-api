@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "3363-2649",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Thin snail",
+        "monster_name": "Myre Blamish Snail (Pointed)"
+      }
+    },
+    {
+      "id": "3363-2651",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Thin snail",
+        "monster_name": "Ochre Blamish Snail (Pointed)"
+      }
+    },
+    {
+      "id": "3363-2646",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Thin snail",
+        "monster_name": "Ochre Blamish Snail (Round)"
+      }
+    },
+    {
+      "id": "3363-2634",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Thin snail",
+        "monster_name": "Myre Blamish Snail (Round)"
+      }
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "id": "1603-7095",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 2,
+        "quantity_max": 3,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Ruby",
+        "monster_name": "Tortured gorilla (Level 142)"
+      }
+    },
+    {
+      "id": "1603-7150",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 2,
+        "quantity_max": 3,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Ruby",
+        "monster_name": "Tortured gorilla (Level 141)"
+      }
+    }
+  ]
+}

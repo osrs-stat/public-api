@@ -1,0 +1,73 @@
+{
+  "data": {
+    "id": "10878",
+    "type": "item",
+    "attributes": {
+      "uuid": "3aa1d34b-27f2-42e1-a91b-7bb5713ad669",
+      "name": "Green satchel",
+      "members": true,
+      "release_date": "2007-02-19",
+      "examine": "I can keep my grub in here!",
+      "tradeable": false,
+      "ge_tradeable": false,
+      "lowalch": 40,
+      "highalch": 60,
+      "is_equip": true,
+      "is_weapon": false,
+      "icon_base64": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACf0lEQVR4Xu2W3WvaYBjFff8AL7wQglAIUkIJJYg0SEOkYlCipAFlc6FzMtysjIEr22AtpVC2lX0w2GCM/blnO094tZbuakZvPHBAiJgf5/kyl9tqq63+JYVlb1QKvz5P8OXqCa7fDuDX9jYJpZCc9xC/DPHoVYKz0wj9Tg2HB9YmoBRaFxF6sy66kwDBsI7OsIPZ8y4C38GBU14XVNon365H+HT5GNG0jfaogWbioxZV4XW9FGi/DNsqZQ21APnwLsHV64c4n/UExotduGEFe4cWduwSnD1zDlQxzSygFKbDNiZJgPGgKSBvXhxLifx+TWCqgYOyYyJsVrIGUvj99RTf3z+VdJLYF5DpqI3xSRPDB3U4DVtKVjDyaHg27N1SVkBKIGiONksWt1yMBg0kPR/9bg1RqyqpHA08SalQLKwHiPuGfUPHoSsQQd0R8zPHv30SwqpY2DWNLIDSibq5OBGgnzfPBIb7hmViaQjChJjU8TiWfmJCGQApaV6aQEznx8fxHIi9w5dqGO4h0zJh7Jekn/iMSa0QiFokxHTYP7QGYtl2SkXppXDchO3aKFoGHNsUIA2zQiAqBeKEsalpjjuB2DsEIgwXpBu4KJh/y1U2loDu/uJ/Ss3T0c1NoMkwkB7itBGKJ4RjX9wpwijmBYa7KE15pVLzdLidaQ3Eyz6IPQGi2Tt5I4WhfTe9/CtOKT0XLBv/XmgTiFedTc1EuHc0SAqgEDWrWQBRi4Oq9xC39OKiKzmm4VFlCWgQeVkB5XL6JfTlWV+A9MvuTyRdG5kBad0GWx5pJSdFQ6wNSGsZRkth2KvPF6p2Crgxpenc9v3wa5QGuO2739lqqyz0B1vGDUCq7V8uAAAAAElFTkSuQmCC"
+    },
+    "relationships": {
+      "equip": {
+        "data": {
+          "id": "e51b4dda-8b00-4ec0-8161-e72f130fb461",
+          "type": "equip"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Green_satchel"
+    },
+    "meta": {
+      "incomplete": false
+    }
+  },
+  "included": [
+    {
+      "id": "e51b4dda-8b00-4ec0-8161-e72f130fb461",
+      "type": "equip",
+      "attributes": {
+        "slot": "shield",
+        "passive_effect": null,
+        "requirements": null
+      },
+      "relationships": {
+        "equip_stat": {
+          "data": {
+            "id": "6a921d5a-9678-4b63-902a-07d289046045",
+            "type": "equip_stat"
+          }
+        }
+      }
+    },
+    {
+      "id": "6a921d5a-9678-4b63-902a-07d289046045",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 0,
+        "slash_attack": 0,
+        "crush_attack": 0,
+        "ranged_attack": 0,
+        "magic_attack": 0,
+        "stab_defense": 0,
+        "slash_defense": 0,
+        "crush_defense": 0,
+        "ranged_defense": 0,
+        "magic_defense": 0,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

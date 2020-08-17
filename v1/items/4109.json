@@ -1,0 +1,76 @@
+{
+  "data": {
+    "id": "4109",
+    "type": "item",
+    "attributes": {
+      "uuid": "e9055270-0353-4a9c-87ea-00b5a0807175",
+      "name": "Mystic hat (light)",
+      "members": true,
+      "release_date": "2005-01-26",
+      "examine": "A bright magical hat.",
+      "tradeable": false,
+      "ge_tradeable": false,
+      "lowalch": 6000,
+      "highalch": 9000,
+      "is_equip": true,
+      "is_weapon": false,
+      "icon_base64": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADKElEQVR4Xu2XXUiTYRTH917uwotdDIYgeOVl7EKRQkEmyZIKFdRwKWZmWGYqy/woxPxIW9pQpuH8Kl1NFG0yNJUUv4WhOTMckoKZVpddaIoX/zzPy7tN7cLgdTPqD+fivXmeH+ec/3nOK5H8178jDq7wujjMmhXoN8jRUiw7DWAcxpoV6NTJYdHLUZyXh4zUVG+CcSw73dVyBlZbUYGi3FzcTE7G5QtqT0O5sjPSuF+2ri601ddBX16OwpwcREdGMiClv7+noPjsvGtQsItnRkdh7TDjhcHAShcXFeV5oMF6Obt0yW6HbWIcw1YrLCYTy5AmNtbTQCS+ee02G6aGhzHY04POlhbkZ2fhWkKCN4BIHL5tbGBsYICV7JWxAQ+1WtxISsT5sDBPNzaJw+fVVSzOzaGnvd3ZQ7dSUnAxIsIbWeLwaWkJc9NTGOnrYz1U9qAQmWlp3nEawVBTk8uohzqam1D3VOcNp3H4ur6O5cVFzE5NModRyZpqaqB7VIx7dzKQGB8PVWioJ/qIw/fNTaw4HHg/M8Mautf8mg3GZ2VlzPbU1MK0pgydYJY4bG9tsew4PixgemSETWlzo5GVqrSgAFnp6bgSE4OQ4OCTKJn7esHh5/b2ESCyO5WqqqSEzaDrVzVQh4dDLuM3ABGAXAC0Xgixs7NzBIgGIjnLqNc7X3tq5rOBgfBTSMQA2n+X2hSwmRSY71DgY7cvHG98sbu7ewSI3DU+NMia+Xl1FRuINKFpIAb4S8QCIh0sE8XvgGgYjr7tR1drKwxPKp1vWJBSiTMBkgNQh2/4Y7mcwWFv4RIfdjX25lUsvqytsTeM7E6zh3ah+3czoYmUQn1OClWQBCFKV4ZEyJK7OB7GDejHhB+z/JDFwhxmyJchL8UHqdFSxEVIEa2SOrMrMowg/nB3oOVeX+eSJgBlaXgobZIPSm/7oFrrvmuLUDp3CSWkIKAV60Ggx5k8hC5bxr6NRTK8LJU5d25a6ESHIrmDTbbyQHQ5/XkQgKlcDnMlv2sTiLVWzpY52i6FDfPwmaLIHey4Qfs3xYlBkQQXHScEMNf3KdCpgvlr9QsAQPV+epThXgAAAABJRU5ErkJggg=="
+    },
+    "relationships": {
+      "equip": {
+        "data": {
+          "id": "3c08b431-7864-4460-8b82-c1770a4f8373",
+          "type": "equip"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Mystic_hat_(light)"
+    },
+    "meta": {
+      "incomplete": false
+    }
+  },
+  "included": [
+    {
+      "id": "3c08b431-7864-4460-8b82-c1770a4f8373",
+      "type": "equip",
+      "attributes": {
+        "slot": "head",
+        "passive_effect": null,
+        "requirements": {
+          "magic_level": 40,
+          "defense_level": 20
+        }
+      },
+      "relationships": {
+        "equip_stat": {
+          "data": {
+            "id": "a5199feb-4f1f-4165-9bb3-f9d801c8b778",
+            "type": "equip_stat"
+          }
+        }
+      }
+    },
+    {
+      "id": "a5199feb-4f1f-4165-9bb3-f9d801c8b778",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 0,
+        "slash_attack": 0,
+        "crush_attack": 0,
+        "ranged_attack": 0,
+        "magic_attack": 4,
+        "stab_defense": 0,
+        "slash_defense": 0,
+        "crush_defense": 0,
+        "ranged_defense": 0,
+        "magic_defense": 4,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "data": [
+    {
+      "id": "2491-10400",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0117647058823529"
+      },
+      "meta": {
+        "item_name": "Black d'hide vambraces",
+        "monster_name": "Guardian Drake"
+      }
+    },
+    {
+      "id": "2491-8612",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0117647058823529"
+      },
+      "meta": {
+        "item_name": "Black d'hide vambraces",
+        "monster_name": "Drake"
+      }
+    },
+    {
+      "id": "2491-7249",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Black d'hide vambraces",
+        "monster_name": "Dust devil (Level 110)"
+      }
+    },
+    {
+      "id": "2491-7406",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Black d'hide vambraces",
+        "monster_name": "Nuclear smoke devil"
+      }
+    },
+    {
+      "id": "2491-7404",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Black d'hide vambraces",
+        "monster_name": "Choke devil"
+      }
+    },
+    {
+      "id": "2491-498",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Black d'hide vambraces",
+        "monster_name": "Smoke devil"
+      }
+    },
+    {
+      "id": "2491-423",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Black d'hide vambraces",
+        "monster_name": "Dust devil (Level 93)"
+      }
+    },
+    {
+      "id": "2491-7275",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Black d'hide vambraces",
+        "monster_name": "Brutal black dragon"
+      }
+    }
+  ]
+}

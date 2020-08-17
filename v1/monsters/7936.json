@@ -1,0 +1,147 @@
+{
+  "data": {
+    "id": "7936",
+    "type": "monster",
+    "attributes": {
+      "uuid": "7ddb75cc-1836-4b90-b1cb-fb13d3d417c4",
+      "name": "Revenant demon",
+      "members": true,
+      "release_date": "2017-11-23",
+      "examine": "The ghost of a demon slain long ago.",
+      "combat_level_override": null,
+      "max_hit_override": 18,
+      "target_types": [
+        "undead"
+      ],
+      "classification_types": [
+        "revenant"
+      ],
+      "poison": false,
+      "immune_poison": false,
+      "immune_venom": false,
+      "slayer_xp": 86.0,
+      "slayer_level": 1,
+      "slayer_masters": [
+        "krystilia"
+      ],
+      "icon_base64": null
+    },
+    "relationships": {
+      "combat_stat": {
+        "data": {
+          "id": "e6573cb4-ca53-4c8f-b091-dda7c8f3b8c3",
+          "type": "combat_stat"
+        }
+      },
+      "equip_stat": {
+        "data": {
+          "id": "ba702e5d-9dcb-4e6b-9336-892e1b570bf0",
+          "type": "equip_stat"
+        }
+      },
+      "attack_stat": {
+        "data": {
+          "id": "cb4df9b6-f8c4-4568-a2dc-c00d19808a3c",
+          "type": "attack_stat"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Revenant_demon"
+    },
+    "meta": {
+      "incomplete": true
+    }
+  },
+  "included": [
+    {
+      "id": "cb4df9b6-f8c4-4568-a2dc-c00d19808a3c",
+      "type": "attack_stat",
+      "attributes": {
+        "attack_speed": 5,
+        "attack_type": "monster",
+        "special": null,
+        "stances": [
+          {
+            "name": "Monster crush",
+            "style": null,
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": null,
+            "combat_accuracy_stat": "attack_level",
+            "combat_damage_stat": "strength_level",
+            "equip_accuracy_stat": "crush_attack",
+            "equip_damage_stat": "crush_attack",
+            "target_equip_defense_stat": "crush_defense"
+          },
+          {
+            "name": "Monster ranged",
+            "style": null,
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": null,
+            "combat_accuracy_stat": "ranged_level",
+            "combat_damage_stat": "ranged_level",
+            "equip_accuracy_stat": "ranged_attack",
+            "equip_damage_stat": "ranged_attack",
+            "target_equip_defense_stat": "ranged_defense"
+          },
+          {
+            "name": "Monster magic",
+            "style": null,
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": null,
+            "combat_accuracy_stat": "magic_level",
+            "combat_damage_stat": "magic_level",
+            "equip_accuracy_stat": "magic_attack",
+            "equip_damage_stat": "magic_attack",
+            "target_equip_defense_stat": "magic_defense"
+          }
+        ]
+      }
+    },
+    {
+      "id": "e6573cb4-ca53-4c8f-b091-dda7c8f3b8c3",
+      "type": "monster_combat_stat",
+      "attributes": {
+        "hitpoints_level": 80,
+        "attack_level": 83,
+        "strength_level": 76,
+        "defense_level": 80,
+        "magic_level": 120,
+        "ranged_level": 80,
+        "prayer_level": 0
+      }
+    },
+    {
+      "id": "ba702e5d-9dcb-4e6b-9336-892e1b570bf0",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 30,
+        "slash_attack": 30,
+        "crush_attack": 30,
+        "ranged_attack": 40,
+        "magic_attack": 50,
+        "stab_defense": 124,
+        "slash_defense": 118,
+        "crush_defense": 130,
+        "ranged_defense": 90,
+        "magic_defense": 85,
+        "melee_strength": 50,
+        "ranged_strength": 30,
+        "magic_bonus": 24,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

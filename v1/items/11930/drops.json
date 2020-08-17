@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "id": "11930-6615",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Odium shard 3",
+        "monster_name": "Scorpia"
+      }
+    },
+    {
+      "id": "11930-6615",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00390625"
+      },
+      "meta": {
+        "item_name": "Odium shard 3",
+        "monster_name": "Scorpia"
+      }
+    }
+  ]
+}

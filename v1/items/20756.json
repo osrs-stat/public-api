@@ -1,0 +1,140 @@
+{
+  "data": {
+    "id": "20756",
+    "type": "item",
+    "attributes": {
+      "uuid": "420cc42d-5ef8-4b57-b187-1b37ce28cccd",
+      "name": "Hill giant club",
+      "members": false,
+      "release_date": "2016-10-06",
+      "examine": "A brutal weapon popular among giants.",
+      "tradeable": false,
+      "ge_tradeable": false,
+      "lowalch": 24000,
+      "highalch": 36000,
+      "is_equip": true,
+      "is_weapon": true,
+      "icon_base64": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABeUlEQVR4Xu2WX0sCQRTFd75GT0tEiISIJGFsJEphsUlKLT6IUCFCRX+IIIigb37jzHCd0fFhX+aOxB447Ivgb8+9c2aTpNL/kSLrqDIQbw85fS6u6ef1NhaUAZnddGk+6dPTbBATSlGRH9P44ogmw8yD+nocSUMpynstbYaajk7ovujRYnq+hPp9L6SgFHU7depnDQ01PGvrxBjKTQq/baZpaChFndY+Ze2ahhqcNj0oNymBlBQdHuxqAwxpAYpHCDDsFaBe7i7p+3kcGsoCMZSbFoPxsiMpgX1ahYIBhbTYGCNGCKiP+ZXEPrntbOymBiMxhkJSgVNKEryxa/xhfW9nxUgLI8Syi0D5Mmk1aqk2p4a0sFdoc3EoTmuTAWVPXgSwdQOCq8FeMcJgvsz1w2ACtVBG5gpiMIECLSNTFShV9FaUhfdlqgLFipMYqRrWZasCY8QXQ/Rld6sCLY92F/7Q2ywXDCcQz8B3YDkxmO2vLdFWwVSqFFp/OR5XfCMcPpAAAAAASUVORK5CYII="
+    },
+    "relationships": {
+      "equip": {
+        "data": {
+          "id": "5e4582ee-96fd-4f61-a1d7-d3dd2b1ebc2b",
+          "type": "equip"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Hill_giant_club"
+    },
+    "meta": {
+      "incomplete": false
+    }
+  },
+  "included": [
+    {
+      "id": "5e4582ee-96fd-4f61-a1d7-d3dd2b1ebc2b",
+      "type": "equip",
+      "attributes": {
+        "slot": "weapon_2h",
+        "passive_effect": null,
+        "requirements": {
+          "attack_level": 40
+        }
+      },
+      "relationships": {
+        "equip_stat": {
+          "data": {
+            "id": "24c6f735-6250-4a29-ad9e-dcebd5cf5515",
+            "type": "equip_stat"
+          }
+        },
+        "attack_stat": {
+          "data": {
+            "id": "205fcda0-6e92-4f35-bbcb-1f5ab3c575f7",
+            "type": "attack_stat"
+          }
+        }
+      }
+    },
+    {
+      "id": "205fcda0-6e92-4f35-bbcb-1f5ab3c575f7",
+      "type": "attack_stat",
+      "attributes": {
+        "attack_speed": 7,
+        "attack_type": "blunt_weapon",
+        "special": null,
+        "stances": [
+          {
+            "name": "pound",
+            "style": "accurate",
+            "boosts": {
+              "accuracy": 3
+            },
+            "experience": {
+              "hitpoints": 1.3333,
+              "attack": 4
+            },
+            "combat_accuracy_stat": "attack_level",
+            "combat_damage_stat": "strength_level",
+            "equip_accuracy_stat": "crush_attack",
+            "equip_damage_stat": "crush_attack",
+            "target_equip_defense_stat": "crush_defense"
+          },
+          {
+            "name": "pummel",
+            "style": "aggressive",
+            "boosts": {
+              "damage": 3
+            },
+            "experience": {
+              "hitpoints": 1.3333,
+              "strength": 4
+            },
+            "combat_accuracy_stat": "attack_level",
+            "combat_damage_stat": "strength_level",
+            "equip_accuracy_stat": "crush_attack",
+            "equip_damage_stat": "crush_attack",
+            "target_equip_defense_stat": "crush_defense"
+          },
+          {
+            "name": "block",
+            "style": "defensive",
+            "boosts": {
+              "defense": 3
+            },
+            "experience": {
+              "hitpoints": 1.3333,
+              "defense": 4
+            },
+            "combat_accuracy_stat": "attack_level",
+            "combat_damage_stat": "strength_level",
+            "equip_accuracy_stat": "crush_attack",
+            "equip_damage_stat": "crush_attack",
+            "target_equip_defense_stat": "crush_defense"
+          }
+        ]
+      }
+    },
+    {
+      "id": "24c6f735-6250-4a29-ad9e-dcebd5cf5515",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": -4,
+        "slash_attack": 50,
+        "crush_attack": 65,
+        "ranged_attack": 0,
+        "magic_attack": -4,
+        "stab_defense": 0,
+        "slash_defense": 0,
+        "crush_defense": 0,
+        "ranged_defense": -1,
+        "magic_defense": 0,
+        "melee_strength": 70,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

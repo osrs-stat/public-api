@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "21643-7792",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000390625"
+      },
+      "meta": {
+        "item_name": "Granite boots",
+        "monster_name": "Long-tailed Wyvern"
+      }
+    },
+    {
+      "id": "21643-7794",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000390625"
+      },
+      "meta": {
+        "item_name": "Granite boots",
+        "monster_name": "Spitting Wyvern"
+      }
+    },
+    {
+      "id": "21643-7795",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00166666666666667"
+      },
+      "meta": {
+        "item_name": "Granite boots",
+        "monster_name": "Ancient Wyvern"
+      }
+    },
+    {
+      "id": "21643-7793",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000390625"
+      },
+      "meta": {
+        "item_name": "Granite boots",
+        "monster_name": "Taloned Wyvern"
+      }
+    }
+  ]
+}

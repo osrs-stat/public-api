@@ -1,0 +1,117 @@
+{
+  "data": {
+    "id": "2451",
+    "type": "monster",
+    "attributes": {
+      "uuid": "da96b8e6-eb2c-41f1-b9b9-600232340e12",
+      "name": "Animated Iron Armour",
+      "members": true,
+      "release_date": "2006-06-12",
+      "examine": "Animated iron armour.",
+      "combat_level_override": null,
+      "max_hit_override": null,
+      "target_types": [
+
+      ],
+      "classification_types": [
+
+      ],
+      "poison": false,
+      "immune_poison": false,
+      "immune_venom": true,
+      "slayer_xp": null,
+      "slayer_level": null,
+      "slayer_masters": [
+
+      ],
+      "icon_base64": null
+    },
+    "relationships": {
+      "combat_stat": {
+        "data": {
+          "id": "94ffacdf-9e59-4c93-be7f-4b9907bedb98",
+          "type": "combat_stat"
+        }
+      },
+      "equip_stat": {
+        "data": {
+          "id": "c8c05742-5008-43e9-84fa-375521196f46",
+          "type": "equip_stat"
+        }
+      },
+      "attack_stat": {
+        "data": {
+          "id": "b88c2672-f825-4496-9a17-e254aaf5d8e6",
+          "type": "attack_stat"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Animated_Iron_Armour"
+    },
+    "meta": {
+      "incomplete": true
+    }
+  },
+  "included": [
+    {
+      "id": "b88c2672-f825-4496-9a17-e254aaf5d8e6",
+      "type": "attack_stat",
+      "attributes": {
+        "attack_speed": 4,
+        "attack_type": "monster",
+        "special": null,
+        "stances": [
+          {
+            "name": "Monster crush",
+            "style": null,
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": null,
+            "combat_accuracy_stat": "attack_level",
+            "combat_damage_stat": "strength_level",
+            "equip_accuracy_stat": "crush_attack",
+            "equip_damage_stat": "crush_attack",
+            "target_equip_defense_stat": "crush_defense"
+          }
+        ]
+      }
+    },
+    {
+      "id": "94ffacdf-9e59-4c93-be7f-4b9907bedb98",
+      "type": "monster_combat_stat",
+      "attributes": {
+        "hitpoints_level": 20,
+        "attack_level": 20,
+        "strength_level": 20,
+        "defense_level": 20,
+        "magic_level": 1,
+        "ranged_level": 1,
+        "prayer_level": 0
+      }
+    },
+    {
+      "id": "c8c05742-5008-43e9-84fa-375521196f46",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 4,
+        "slash_attack": 4,
+        "crush_attack": 4,
+        "ranged_attack": 0,
+        "magic_attack": 0,
+        "stab_defense": 50,
+        "slash_defense": 25,
+        "crush_defense": 19,
+        "ranged_defense": 400,
+        "magic_defense": 400,
+        "melee_strength": 5,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

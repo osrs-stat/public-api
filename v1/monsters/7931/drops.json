@@ -1,0 +1,724 @@
+{
+  "data": [
+    {
+      "id": "1391-7931",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.00270277227213056"
+      },
+      "meta": {
+        "item_name": "Battlestaff",
+        "monster_name": "Revenant goblin"
+      }
+    },
+    {
+      "id": "1515-7931",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 60,
+        "quantity_max": 100,
+        "rarity": "0.00162166336327833"
+      },
+      "meta": {
+        "item_name": "Yew logs",
+        "monster_name": "Revenant goblin"
+      }
+    },
+    {
+      "id": "1215-7931",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000540554454426111"
+      },
+      "meta": {
+        "item_name": "Dragon dagger (Unpoisoned)",
+        "monster_name": "Revenant goblin"
+      }
+    },
+    {
+      "id": "1305-7931",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000540554454426111"
+      },
+      "meta": {
+        "item_name": "Dragon longsword",
+        "monster_name": "Revenant goblin"
+      }
+    },
+    {
+      "id": "1513-7931",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 15,
+        "quantity_max": 25,
+        "rarity": "0.00108110890885222"
+      },
+      "meta": {
+        "item_name": "Magic logs",
+        "monster_name": "Revenant goblin"
+      }
+    },
+    {
+      "id": "1631-7931",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 5,
+        "quantity_max": 7,
+        "rarity": "0.00108110890885222"
+      },
+      "meta": {
+        "item_name": "Uncut dragonstone",
+        "monster_name": "Revenant goblin"
+      }
+    },
+    {
+      "id": "5316-7931",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": 9,
+        "rarity": "0.000136425648021828"
+      },
+      "meta": {
+        "item_name": "Magic seed",
+        "monster_name": "Revenant goblin"
+      }
+    },
+    {
+      "id": "21802-7931",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00378388118098278"
+      },
+      "meta": {
+        "item_name": "Revenant cave teleport",
+        "monster_name": "Revenant goblin"
+      }
+    },
+    {
+      "id": "3024-7931",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 3,
+        "quantity_max": 5,
+        "rarity": "0.00216221781770445"
+      },
+      "meta": {
+        "item_name": "Super restore (4 dose)",
+        "monster_name": "Revenant goblin"
+      }
+    },
+    {
+      "id": "9193-7931",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 40,
+        "quantity_max": 70,
+        "rarity": "0.00216221781770445"
+      },
+      "meta": {
+        "item_name": "Dragonstone bolt tips",
+        "monster_name": "Revenant goblin"
+      }
+    },
+    {
+      "id": "9194-7931",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": 10,
+        "rarity": "0.00216221781770445"
+      },
+      "meta": {
+        "item_name": "Onyx bolt tips",
+        "monster_name": "Revenant goblin"
+      }
+    },
+    {
+      "id": "563-7931",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 80,
+        "quantity_max": 120,
+        "rarity": "0.00108110890885222"
+      },
+      "meta": {
+        "item_name": "Law rune",
+        "monster_name": "Revenant goblin"
+      }
+    },
+    {
+      "id": "560-7931",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 60,
+        "quantity_max": 100,
+        "rarity": "0.00162166336327833"
+      },
+      "meta": {
+        "item_name": "Death rune (Regular)",
+        "monster_name": "Revenant goblin"
+      }
+    },
+    {
+      "id": "565-7931",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 60,
+        "quantity_max": 100,
+        "rarity": "0.00162166336327833"
+      },
+      "meta": {
+        "item_name": "Blood rune (Regular)",
+        "monster_name": "Revenant goblin"
+      }
+    },
+    {
+      "id": "11941-7931",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Revenant goblin"
+      }
+    },
+    {
+      "id": "23490-7931",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000731261425959781"
+      },
+      "meta": {
+        "item_name": "Larran's key",
+        "monster_name": "Revenant goblin"
+      }
+    },
+    {
+      "id": "21257-7931",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00323624595469256"
+      },
+      "meta": {
+        "item_name": "Slayer's enchantment",
+        "monster_name": "Revenant goblin"
+      }
+    },
+    {
+      "id": "391-7931",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 30,
+        "quantity_max": 50,
+        "rarity": "0.00162166336327833"
+      },
+      "meta": {
+        "item_name": "Manta ray",
+        "monster_name": "Revenant goblin"
+      }
+    },
+    {
+      "id": "8782-7931",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 15,
+        "quantity_max": 25,
+        "rarity": "0.00270277227213056"
+      },
+      "meta": {
+        "item_name": "Mahogany plank",
+        "monster_name": "Revenant goblin"
+      }
+    },
+    {
+      "id": "1747-7931",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 10,
+        "quantity_max": 15,
+        "rarity": "0.00324332672655667"
+      },
+      "meta": {
+        "item_name": "Black dragonhide",
+        "monster_name": "Revenant goblin"
+      }
+    },
+    {
+      "id": "2363-7931",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 3,
+        "quantity_max": 5,
+        "rarity": "0.00324332672655667"
+      },
+      "meta": {
+        "item_name": "Runite bar",
+        "monster_name": "Revenant goblin"
+      }
+    },
+    {
+      "id": "451-7931",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 3,
+        "quantity_max": 6,
+        "rarity": "0.00324332672655667"
+      },
+      "meta": {
+        "item_name": "Runite ore",
+        "monster_name": "Revenant goblin"
+      }
+    },
+    {
+      "id": "2361-7931",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 8,
+        "quantity_max": 12,
+        "rarity": "0.00324332672655667"
+      },
+      "meta": {
+        "item_name": "Adamantite bar",
+        "monster_name": "Revenant goblin"
+      }
+    },
+    {
+      "id": "453-7931",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 50,
+        "quantity_max": 100,
+        "rarity": "0.00324332672655667"
+      },
+      "meta": {
+        "item_name": "Coal",
+        "monster_name": "Revenant goblin"
+      }
+    },
+    {
+      "id": "1149-7931",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000443383356070941"
+      },
+      "meta": {
+        "item_name": "Dragon med helm",
+        "monster_name": "Revenant goblin"
+      }
+    },
+    {
+      "id": "21820-7931",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 5,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Revenant ether",
+        "monster_name": "Revenant goblin"
+      }
+    },
+    {
+      "id": "22557-7931",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0000136425648021828"
+      },
+      "meta": {
+        "item_name": "Amulet of avarice",
+        "monster_name": "Revenant goblin"
+      }
+    },
+    {
+      "id": "22547-7931",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00000682128240109141"
+      },
+      "meta": {
+        "item_name": "Craw's bow (Uncharged)",
+        "monster_name": "Revenant goblin"
+      }
+    },
+    {
+      "id": "22552-7931",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00000682128240109141"
+      },
+      "meta": {
+        "item_name": "Thammaron's sceptre (Uncharged)",
+        "monster_name": "Revenant goblin"
+      }
+    },
+    {
+      "id": "22557-7931",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00000682128240109141"
+      },
+      "meta": {
+        "item_name": "Amulet of avarice",
+        "monster_name": "Revenant goblin"
+      }
+    },
+    {
+      "id": "21807-7931",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000204638472032742"
+      },
+      "meta": {
+        "item_name": "Ancient emblem",
+        "monster_name": "Revenant goblin"
+      }
+    },
+    {
+      "id": "21810-7931",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000170532060027285"
+      },
+      "meta": {
+        "item_name": "Ancient totem",
+        "monster_name": "Revenant goblin"
+      }
+    },
+    {
+      "id": "21813-7931",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000136425648021828"
+      },
+      "meta": {
+        "item_name": "Ancient statuette",
+        "monster_name": "Revenant goblin"
+      }
+    },
+    {
+      "id": "21804-7931",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000102319236016371"
+      },
+      "meta": {
+        "item_name": "Ancient crystal",
+        "monster_name": "Revenant goblin"
+      }
+    },
+    {
+      "id": "22299-7931",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0000682128240109141"
+      },
+      "meta": {
+        "item_name": "Ancient medallion",
+        "monster_name": "Revenant goblin"
+      }
+    },
+    {
+      "id": "22302-7931",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000034106412005457"
+      },
+      "meta": {
+        "item_name": "Ancient effigy",
+        "monster_name": "Revenant goblin"
+      }
+    },
+    {
+      "id": "22305-7931",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000034106412005457"
+      },
+      "meta": {
+        "item_name": "Ancient relic",
+        "monster_name": "Revenant goblin"
+      }
+    },
+    {
+      "id": "21817-7931",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00810831681639167"
+      },
+      "meta": {
+        "item_name": "Bracelet of ethereum (Uncharged)",
+        "monster_name": "Revenant goblin"
+      }
+    },
+    {
+      "id": "1163-7931",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00108110890885222"
+      },
+      "meta": {
+        "item_name": "Rune full helm",
+        "monster_name": "Revenant goblin"
+      }
+    },
+    {
+      "id": "1127-7931",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00108110890885222"
+      },
+      "meta": {
+        "item_name": "Rune platebody",
+        "monster_name": "Revenant goblin"
+      }
+    },
+    {
+      "id": "1079-7931",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00108110890885222"
+      },
+      "meta": {
+        "item_name": "Rune platelegs",
+        "monster_name": "Revenant goblin"
+      }
+    },
+    {
+      "id": "1201-7931",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00108110890885222"
+      },
+      "meta": {
+        "item_name": "Rune kiteshield",
+        "monster_name": "Revenant goblin"
+      }
+    },
+    {
+      "id": "1347-7931",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00108110890885222"
+      },
+      "meta": {
+        "item_name": "Rune warhammer",
+        "monster_name": "Revenant goblin"
+      }
+    },
+    {
+      "id": "4087-7931",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000540554454426111"
+      },
+      "meta": {
+        "item_name": "Dragon platelegs",
+        "monster_name": "Revenant goblin"
+      }
+    },
+    {
+      "id": "4585-7931",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000540554454426111"
+      },
+      "meta": {
+        "item_name": "Dragon plateskirt",
+        "monster_name": "Revenant goblin"
+      }
+    }
+  ]
+}

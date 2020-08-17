@@ -1,0 +1,1428 @@
+{
+  "data": [
+    {
+      "id": "5300-467",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Snapdragon seed",
+        "monster_name": "Skeletal Wyvern (4)"
+      }
+    },
+    {
+      "id": "5300-468",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Snapdragon seed",
+        "monster_name": "Skeletal Wyvern (1)"
+      }
+    },
+    {
+      "id": "5300-492",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00126050420168067"
+      },
+      "meta": {
+        "item_name": "Snapdragon seed",
+        "monster_name": "Cave kraken"
+      }
+    },
+    {
+      "id": "5300-499",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Snapdragon seed",
+        "monster_name": "Thermonuclear smoke devil"
+      }
+    },
+    {
+      "id": "5300-794",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000656512605042017"
+      },
+      "meta": {
+        "item_name": "Snapdragon seed",
+        "monster_name": "Scarab mage (Level 93)"
+      }
+    },
+    {
+      "id": "5300-795",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000656512605042017"
+      },
+      "meta": {
+        "item_name": "Snapdragon seed",
+        "monster_name": "Locust rider (Lancer)"
+      }
+    },
+    {
+      "id": "5300-796",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000656512605042017"
+      },
+      "meta": {
+        "item_name": "Snapdragon seed",
+        "monster_name": "Locust rider (Ranger)"
+      }
+    },
+    {
+      "id": "5300-799",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000656512605042017"
+      },
+      "meta": {
+        "item_name": "Snapdragon seed",
+        "monster_name": "Scarab mage (Level 66 (Quest))"
+      }
+    },
+    {
+      "id": "5300-800",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000656512605042017"
+      },
+      "meta": {
+        "item_name": "Snapdragon seed",
+        "monster_name": "Locust rider (Lancer (Quest))"
+      }
+    },
+    {
+      "id": "5300-801",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000656512605042017"
+      },
+      "meta": {
+        "item_name": "Snapdragon seed",
+        "monster_name": "Locust rider (Ranger (Quest))"
+      }
+    },
+    {
+      "id": "5300-970",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00590861344537815"
+      },
+      "meta": {
+        "item_name": "Snapdragon seed",
+        "monster_name": "Dagannoth (Level 74 (1))"
+      }
+    },
+    {
+      "id": "5300-973",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00590861344537815"
+      },
+      "meta": {
+        "item_name": "Snapdragon seed",
+        "monster_name": "Dagannoth (Level 92 (1))"
+      }
+    },
+    {
+      "id": "5300-1047",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00590861344537815"
+      },
+      "meta": {
+        "item_name": "Snapdragon seed",
+        "monster_name": "Cave horror"
+      }
+    },
+    {
+      "id": "5300-1861",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00459558823529412"
+      },
+      "meta": {
+        "item_name": "Snapdragon seed",
+        "monster_name": "Tree spirit (Level 14)"
+      }
+    },
+    {
+      "id": "5300-1863",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00459558823529412"
+      },
+      "meta": {
+        "item_name": "Snapdragon seed",
+        "monster_name": "Tree spirit (Level 49)"
+      }
+    },
+    {
+      "id": "5300-1864",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00459558823529412"
+      },
+      "meta": {
+        "item_name": "Snapdragon seed",
+        "monster_name": "Tree spirit (Level 79)"
+      }
+    },
+    {
+      "id": "5300-1865",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00459558823529412"
+      },
+      "meta": {
+        "item_name": "Snapdragon seed",
+        "monster_name": "Tree spirit (Level 120)"
+      }
+    },
+    {
+      "id": "5300-1866",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00459558823529412"
+      },
+      "meta": {
+        "item_name": "Snapdragon seed",
+        "monster_name": "Tree spirit (Level 159)"
+      }
+    },
+    {
+      "id": "5300-2042",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00806451612903226"
+      },
+      "meta": {
+        "item_name": "Snapdragon seed",
+        "monster_name": "Zulrah (Serpentine)"
+      }
+    },
+    {
+      "id": "5300-2043",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00806451612903226"
+      },
+      "meta": {
+        "item_name": "Snapdragon seed",
+        "monster_name": "Zulrah (Magma)"
+      }
+    },
+    {
+      "id": "5300-2044",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00806451612903226"
+      },
+      "meta": {
+        "item_name": "Snapdragon seed",
+        "monster_name": "Zulrah (Tanzanite)"
+      }
+    },
+    {
+      "id": "5300-2215",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.062992125984252"
+      },
+      "meta": {
+        "item_name": "Snapdragon seed",
+        "monster_name": "General Graardor"
+      }
+    },
+    {
+      "id": "5300-2259",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000328256302521008"
+      },
+      "meta": {
+        "item_name": "Snapdragon seed",
+        "monster_name": "Dagannoth (Waterbirth Island) (Level 88)"
+      }
+    },
+    {
+      "id": "5300-2261",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000328256302521008"
+      },
+      "meta": {
+        "item_name": "Snapdragon seed",
+        "monster_name": "Giant Rock Crab"
+      }
+    },
+    {
+      "id": "5300-2265",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00229779411764706"
+      },
+      "meta": {
+        "item_name": "Snapdragon seed",
+        "monster_name": "Dagannoth Supreme"
+      }
+    },
+    {
+      "id": "5300-2266",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00229779411764706"
+      },
+      "meta": {
+        "item_name": "Snapdragon seed",
+        "monster_name": "Dagannoth Prime"
+      }
+    },
+    {
+      "id": "5300-2916",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00131302521008403"
+      },
+      "meta": {
+        "item_name": "Snapdragon seed",
+        "monster_name": "Waterfiend"
+      }
+    },
+    {
+      "id": "5300-3185",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000328256302521008"
+      },
+      "meta": {
+        "item_name": "Snapdragon seed",
+        "monster_name": "Dagannoth (Waterbirth Island) (Level 90)"
+      }
+    },
+    {
+      "id": "5300-3428",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00525210084033613"
+      },
+      "meta": {
+        "item_name": "Snapdragon seed",
+        "monster_name": "Iorwerth Archer (Male)"
+      }
+    },
+    {
+      "id": "5300-3429",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00525210084033613"
+      },
+      "meta": {
+        "item_name": "Snapdragon seed",
+        "monster_name": "Iorwerth Warrior (Male)"
+      }
+    },
+    {
+      "id": "5300-4005",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00131302521008403"
+      },
+      "meta": {
+        "item_name": "Snapdragon seed",
+        "monster_name": "Dark beast"
+      }
+    },
+    {
+      "id": "5300-5886",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.00402858360640416"
+      },
+      "meta": {
+        "item_name": "Snapdragon seed",
+        "monster_name": "Abyssal Sire (Phase 1)"
+      }
+    },
+    {
+      "id": "5300-5890",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.00402858360640416"
+      },
+      "meta": {
+        "item_name": "Snapdragon seed",
+        "monster_name": "Abyssal Sire (Phase 2)"
+      }
+    },
+    {
+      "id": "5300-5891",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.00402858360640416"
+      },
+      "meta": {
+        "item_name": "Snapdragon seed",
+        "monster_name": "Abyssal Sire (Phase 3 (stage 1))"
+      }
+    },
+    {
+      "id": "5300-5908",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.00402858360640416"
+      },
+      "meta": {
+        "item_name": "Snapdragon seed",
+        "monster_name": "Abyssal Sire (Phase 3 (stage 2))"
+      }
+    },
+    {
+      "id": "5300-5938",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000328256302521008"
+      },
+      "meta": {
+        "item_name": "Snapdragon seed",
+        "monster_name": "Wallasalki"
+      }
+    },
+    {
+      "id": "5300-6503",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Snapdragon seed",
+        "monster_name": "Callisto"
+      }
+    },
+    {
+      "id": "5300-6766",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00223989248516071"
+      },
+      "meta": {
+        "item_name": "Snapdragon seed",
+        "monster_name": "Lizardman shaman (Standard)"
+      }
+    },
+    {
+      "id": "5300-7095",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Snapdragon seed",
+        "monster_name": "Tortured gorilla (Level 142)"
+      }
+    },
+    {
+      "id": "5300-7144",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.00559973121290178"
+      },
+      "meta": {
+        "item_name": "Snapdragon seed",
+        "monster_name": "Demonic gorilla"
+      }
+    },
+    {
+      "id": "5300-7150",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Snapdragon seed",
+        "monster_name": "Tortured gorilla (Level 141)"
+      }
+    },
+    {
+      "id": "5300-7259",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00590861344537815"
+      },
+      "meta": {
+        "item_name": "Snapdragon seed",
+        "monster_name": "Dagannoth (Level 74 (2))"
+      }
+    },
+    {
+      "id": "5300-7260",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00590861344537815"
+      },
+      "meta": {
+        "item_name": "Snapdragon seed",
+        "monster_name": "Dagannoth (Level 92 (2))"
+      }
+    },
+    {
+      "id": "5300-7266",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000328256302521008"
+      },
+      "meta": {
+        "item_name": "Snapdragon seed",
+        "monster_name": "King Sand Crab (Active)"
+      }
+    },
+    {
+      "id": "5300-7272",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00426733193277311"
+      },
+      "meta": {
+        "item_name": "Snapdragon seed",
+        "monster_name": "Twisted Banshee"
+      }
+    },
+    {
+      "id": "5300-7278",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00164128151260504"
+      },
+      "meta": {
+        "item_name": "Snapdragon seed",
+        "monster_name": "Greater Nechryael"
+      }
+    },
+    {
+      "id": "5300-7279",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00525210084033613"
+      },
+      "meta": {
+        "item_name": "Snapdragon seed",
+        "monster_name": "Deviant spectre"
+      }
+    },
+    {
+      "id": "5300-7391",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00426733193277311"
+      },
+      "meta": {
+        "item_name": "Snapdragon seed",
+        "monster_name": "Screaming twisted banshee"
+      }
+    },
+    {
+      "id": "5300-7401",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00590861344537815"
+      },
+      "meta": {
+        "item_name": "Snapdragon seed",
+        "monster_name": "Cave abomination"
+      }
+    },
+    {
+      "id": "5300-7402",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00623686974789916"
+      },
+      "meta": {
+        "item_name": "Snapdragon seed",
+        "monster_name": "Abhorrent spectre"
+      }
+    },
+    {
+      "id": "5300-7403",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00525210084033613"
+      },
+      "meta": {
+        "item_name": "Snapdragon seed",
+        "monster_name": "Repugnant spectre"
+      }
+    },
+    {
+      "id": "5300-7405",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00508267823258336"
+      },
+      "meta": {
+        "item_name": "Snapdragon seed",
+        "monster_name": "King kurask"
+      }
+    },
+    {
+      "id": "5300-7409",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00131302521008403"
+      },
+      "meta": {
+        "item_name": "Snapdragon seed",
+        "monster_name": "Night beast"
+      }
+    },
+    {
+      "id": "5300-7411",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00164128151260504"
+      },
+      "meta": {
+        "item_name": "Snapdragon seed",
+        "monster_name": "Nechryarch"
+      }
+    },
+    {
+      "id": "5300-7792",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000910580950646512"
+      },
+      "meta": {
+        "item_name": "Snapdragon seed",
+        "monster_name": "Long-tailed Wyvern"
+      }
+    },
+    {
+      "id": "5300-7793",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000910580950646512"
+      },
+      "meta": {
+        "item_name": "Snapdragon seed",
+        "monster_name": "Taloned Wyvern"
+      }
+    },
+    {
+      "id": "5300-7794",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000910580950646512"
+      },
+      "meta": {
+        "item_name": "Snapdragon seed",
+        "monster_name": "Spitting Wyvern"
+      }
+    },
+    {
+      "id": "5300-7795",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00167156155609008"
+      },
+      "meta": {
+        "item_name": "Snapdragon seed",
+        "monster_name": "Ancient Wyvern"
+      }
+    },
+    {
+      "id": "5300-7796",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00178037316621564"
+      },
+      "meta": {
+        "item_name": "Snapdragon seed",
+        "monster_name": "Lobstrosity"
+      }
+    },
+    {
+      "id": "5300-7797",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Snapdragon seed",
+        "monster_name": "Ancient Zygomite"
+      }
+    },
+    {
+      "id": "5300-7806",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000874958002015903"
+      },
+      "meta": {
+        "item_name": "Snapdragon seed",
+        "monster_name": "Deranged archaeologist"
+      }
+    },
+    {
+      "id": "5300-8060",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00223989248516071"
+      },
+      "meta": {
+        "item_name": "Snapdragon seed",
+        "monster_name": "Vorkath (Dragon Slayer II)"
+      }
+    },
+    {
+      "id": "5300-8061",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00223989248516071"
+      },
+      "meta": {
+        "item_name": "Snapdragon seed",
+        "monster_name": "Vorkath (Post-quest)"
+      }
+    },
+    {
+      "id": "5300-8565",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00223989248516071"
+      },
+      "meta": {
+        "item_name": "Snapdragon seed",
+        "monster_name": "Lizardman shaman (Lizardman Temple)"
+      }
+    },
+    {
+      "id": "5300-8583",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.025"
+      },
+      "meta": {
+        "item_name": "Snapdragon seed",
+        "monster_name": "Hespori"
+      }
+    },
+    {
+      "id": "5300-8609",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00131302521008403"
+      },
+      "meta": {
+        "item_name": "Snapdragon seed",
+        "monster_name": "Hydra"
+      }
+    },
+    {
+      "id": "5300-8610",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00165855816010615"
+      },
+      "meta": {
+        "item_name": "Snapdragon seed",
+        "monster_name": "Wyrm (Idle)"
+      }
+    },
+    {
+      "id": "5300-8611",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00165855816010615"
+      },
+      "meta": {
+        "item_name": "Snapdragon seed",
+        "monster_name": "Wyrm (Attacking)"
+      }
+    },
+    {
+      "id": "5300-8612",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000494315373208107"
+      },
+      "meta": {
+        "item_name": "Snapdragon seed",
+        "monster_name": "Drake"
+      }
+    },
+    {
+      "id": "5300-8615",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": 3,
+        "rarity": "0.00221771533184229"
+      },
+      "meta": {
+        "item_name": "Snapdragon seed",
+        "monster_name": "Alchemical Hydra (Five heads)"
+      }
+    },
+    {
+      "id": "5300-8617",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": 3,
+        "rarity": "0.00221771533184229"
+      },
+      "meta": {
+        "item_name": "Snapdragon seed",
+        "monster_name": "Alchemical Hydra (Four heads)"
+      }
+    },
+    {
+      "id": "5300-8618",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": 3,
+        "rarity": "0.00221771533184229"
+      },
+      "meta": {
+        "item_name": "Snapdragon seed",
+        "monster_name": "Alchemical Hydra (Three heads)"
+      }
+    },
+    {
+      "id": "5300-8621",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": 3,
+        "rarity": "0.00221771533184229"
+      },
+      "meta": {
+        "item_name": "Snapdragon seed",
+        "monster_name": "Alchemical Hydra (Two heads)"
+      }
+    },
+    {
+      "id": "5300-8713",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000840336134453781"
+      },
+      "meta": {
+        "item_name": "Snapdragon seed",
+        "monster_name": "Sarachnis"
+      }
+    },
+    {
+      "id": "5300-8759",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00525210084033613"
+      },
+      "meta": {
+        "item_name": "Snapdragon seed",
+        "monster_name": "Iorwerth Warrior (Female)"
+      }
+    },
+    {
+      "id": "5300-8760",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00525210084033613"
+      },
+      "meta": {
+        "item_name": "Snapdragon seed",
+        "monster_name": "Iorwerth Archer (Female)"
+      }
+    },
+    {
+      "id": "5300-10397",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00590861344537815"
+      },
+      "meta": {
+        "item_name": "Snapdragon seed",
+        "monster_name": "Spiked Turoth"
+      }
+    },
+    {
+      "id": "5300-10398",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00165855816010615"
+      },
+      "meta": {
+        "item_name": "Snapdragon seed",
+        "monster_name": "Shadow Wyrm"
+      }
+    },
+    {
+      "id": "5300-10400",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000494315373208107"
+      },
+      "meta": {
+        "item_name": "Snapdragon seed",
+        "monster_name": "Guardian Drake"
+      }
+    },
+    {
+      "id": "5300-10402",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00131302521008403"
+      },
+      "meta": {
+        "item_name": "Snapdragon seed",
+        "monster_name": "Colossal Hydra"
+      }
+    },
+    {
+      "id": "5300-466",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Snapdragon seed",
+        "monster_name": "Skeletal Wyvern (3)"
+      }
+    },
+    {
+      "id": "5300-465",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Snapdragon seed",
+        "monster_name": "Skeletal Wyvern (2)"
+      }
+    },
+    {
+      "id": "5300-430",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00590861344537815"
+      },
+      "meta": {
+        "item_name": "Snapdragon seed",
+        "monster_name": "Turoth (Level 83)"
+      }
+    },
+    {
+      "id": "5300-429",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00590861344537815"
+      },
+      "meta": {
+        "item_name": "Snapdragon seed",
+        "monster_name": "Turoth (Level 85)"
+      }
+    },
+    {
+      "id": "5300-428",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00590861344537815"
+      },
+      "meta": {
+        "item_name": "Snapdragon seed",
+        "monster_name": "Turoth (Level 87)"
+      }
+    },
+    {
+      "id": "5300-427",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00590861344537815"
+      },
+      "meta": {
+        "item_name": "Snapdragon seed",
+        "monster_name": "Turoth (Level 89)"
+      }
+    },
+    {
+      "id": "5300-410",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00508267823258336"
+      },
+      "meta": {
+        "item_name": "Snapdragon seed",
+        "monster_name": "Kurask"
+      }
+    },
+    {
+      "id": "5300-8",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00651984931903796"
+      },
+      "meta": {
+        "item_name": "Snapdragon seed",
+        "monster_name": "Nechryael"
+      }
+    },
+    {
+      "id": "5300-2",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00623686974789916"
+      },
+      "meta": {
+        "item_name": "Snapdragon seed",
+        "monster_name": "Aberrant spectre"
+      }
+    }
+  ]
+}

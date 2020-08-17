@@ -1,0 +1,75 @@
+{
+  "data": {
+    "id": "1179",
+    "type": "item",
+    "attributes": {
+      "uuid": "cd8383e0-69c8-4877-a632-039c62bb245d",
+      "name": "Black sq shield",
+      "members": false,
+      "release_date": "2001-12-08",
+      "examine": "A medium square shield.",
+      "tradeable": false,
+      "ge_tradeable": false,
+      "lowalch": 460,
+      "highalch": 691,
+      "is_equip": true,
+      "is_weapon": false,
+      "icon_base64": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABvklEQVR4Xu3XTUsCURQG4Jnl/IBAggGREBGRIRAJDKQIDDJQIoOwhZCLhBa2EVtUkAv7UkQjioh+6Ylz5YzXmTs605w0qBfe/eN7xi9N+8/fiQ7eXXh0SCWTdrcsDXIpDTIJDdIxbdGwaUwiHre7FovZjZsLgemwnk7PBUVNUxQX+2FYMBB2NRIRZzRX2GFjjBdIPpcTRMW1JrDQcYNU68ggFSaXzQqQFY2GQU0w80CqdfBkCJIxIUA6lDYNFyYISD5VSAxGvY7f54fW2cnneU4lrxMEJK9Db332dYI+P7TO/m6BZ52MZYUCMa6jw2HecIFU5/IC0ToHxSLfOn5AqueHQPRFy7ZOEJAKc1Qu867jBZp1LvoJUq1U+Nf5DggxiGLBHG9PY2TQrHMRCCHY05Mqz6lwHfwglOsHJJ+LdR0EeRVxexsGFDKGEkSYs1qNZ53P0Qg+hkN4Hwzgrd+H114PXp4e4fnhXnR013WhnCD8Xc2wDsX5z8HdXqcjSigCEea8XudYZxJ6ZV4lWPf6ykYhBIv/PBjX8R+C3bbbcNNqCRRiLhoN3nWCZ7zWZbMpupR1nJHPuHSMnF+F4c4XgFXBV2Nxn4AAAAAASUVORK5CYII="
+    },
+    "relationships": {
+      "equip": {
+        "data": {
+          "id": "7e0f3a1e-0b97-45f3-84b8-230ebefcc71d",
+          "type": "equip"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Black_sq_shield"
+    },
+    "meta": {
+      "incomplete": false
+    }
+  },
+  "included": [
+    {
+      "id": "7e0f3a1e-0b97-45f3-84b8-230ebefcc71d",
+      "type": "equip",
+      "attributes": {
+        "slot": "shield",
+        "passive_effect": null,
+        "requirements": {
+          "defense_level": 10
+        }
+      },
+      "relationships": {
+        "equip_stat": {
+          "data": {
+            "id": "6ad8d4f7-c452-40ab-9372-b1c6f8132da8",
+            "type": "equip_stat"
+          }
+        }
+      }
+    },
+    {
+      "id": "6ad8d4f7-c452-40ab-9372-b1c6f8132da8",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 0,
+        "slash_attack": 0,
+        "crush_attack": 0,
+        "ranged_attack": -2,
+        "magic_attack": -6,
+        "stab_defense": 15,
+        "slash_defense": 16,
+        "crush_defense": 14,
+        "ranged_defense": 15,
+        "magic_defense": 0,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

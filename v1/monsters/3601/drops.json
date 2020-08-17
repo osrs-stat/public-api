@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "237-3601",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": 4,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Unicorn horn",
+        "monster_name": "Unicow"
+      }
+    },
+    {
+      "id": "10878-3601",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.15"
+      },
+      "meta": {
+        "item_name": "Green satchel",
+        "monster_name": "Unicow"
+      }
+    },
+    {
+      "id": "10859-3601",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.1"
+      },
+      "meta": {
+        "item_name": "Tea flask",
+        "monster_name": "Unicow"
+      }
+    },
+    {
+      "id": "526-3601",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Bones",
+        "monster_name": "Unicow"
+      }
+    }
+  ]
+}

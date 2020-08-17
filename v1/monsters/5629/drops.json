@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "id": "7800-5629",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Snail shell",
+        "monster_name": "Giant snail (Level 109)"
+      }
+    },
+    {
+      "id": "10996-5629",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.02"
+      },
+      "meta": {
+        "item_name": "Perfect snail shell",
+        "monster_name": "Giant snail (Level 109)"
+      }
+    }
+  ]
+}

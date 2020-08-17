@@ -1,0 +1,132 @@
+{
+  "data": [
+    {
+      "id": "5952-6504",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Antidote++ (4 dose)",
+        "monster_name": "Venenatis"
+      }
+    },
+    {
+      "id": "5952-2043",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.0362903225806452"
+      },
+      "meta": {
+        "item_name": "Antidote++ (4 dose)",
+        "monster_name": "Zulrah (Magma)"
+      }
+    },
+    {
+      "id": "5952-2042",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.0362903225806452"
+      },
+      "meta": {
+        "item_name": "Antidote++ (4 dose)",
+        "monster_name": "Zulrah (Serpentine)"
+      }
+    },
+    {
+      "id": "5952-2054",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.078125"
+      },
+      "meta": {
+        "item_name": "Antidote++ (4 dose)",
+        "monster_name": "Chaos Elemental"
+      }
+    },
+    {
+      "id": "5952-494",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Antidote++ (4 dose)",
+        "monster_name": "Kraken (Kraken)"
+      }
+    },
+    {
+      "id": "5952-319",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 40,
+        "quantity_max": null,
+        "rarity": "0.01953125"
+      },
+      "meta": {
+        "item_name": "Antidote++ (4 dose)",
+        "monster_name": "Corporeal Beast"
+      }
+    },
+    {
+      "id": "5952-492",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03"
+      },
+      "meta": {
+        "item_name": "Antidote++ (4 dose)",
+        "monster_name": "Cave kraken"
+      }
+    },
+    {
+      "id": "5952-2044",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.0362903225806452"
+      },
+      "meta": {
+        "item_name": "Antidote++ (4 dose)",
+        "monster_name": "Zulrah (Tanzanite)"
+      }
+    }
+  ]
+}

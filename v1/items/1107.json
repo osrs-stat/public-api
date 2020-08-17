@@ -1,0 +1,75 @@
+{
+  "data": {
+    "id": "1107",
+    "type": "item",
+    "attributes": {
+      "uuid": "6d04163a-3272-49c4-8c55-7902981e853e",
+      "name": "Black chainbody",
+      "members": false,
+      "release_date": "2001-12-08",
+      "examine": "A series of connected metal rings.",
+      "tradeable": false,
+      "ge_tradeable": false,
+      "lowalch": 576,
+      "highalch": 864,
+      "is_equip": true,
+      "is_weapon": false,
+      "icon_base64": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABSklEQVR4Xu2XwYrCQBBE9RM8eBdZREQkiIusKIqiePD/fydLTSjT6Thq4pSnNBRJV3D6zdgz0V6viy6+Gv28UCxePU8WRaHhYBBUFq6q/lwSZaGmEkGVQNv1ulb0mY/PZqNRaqh+vlwsQoH9ZhP0m2Uh/1ut7j6gmB93u/x6OimAitX5GY8rq0FAK8BYH1ByoPlsFjSdTO55zAecDAhCMQIwj/nMpUBtJAdi03p5n7kMiNsahXDPPOYjh2RAdvdw6/tV8j7gZEA4d5oIE+AkMIYf9YNI09QJV6kAOh8O4YrDDvfMYz5y6cFodxGK4rXgV8P7+OrkQOwR5jGfuQyIxe1KWSjvy8+htpIBsTdwpZ756CdpU98ul0phmz/yASTtIfuL0Ba28r4UiI3aVDIgzhiyecxnLgBC1P/uvKvEr40yOHAb+bG6+DT+AdNXUavSX0CNAAAAAElFTkSuQmCC"
+    },
+    "relationships": {
+      "equip": {
+        "data": {
+          "id": "53855985-6ae5-4db4-b08f-8dacf25f554d",
+          "type": "equip"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Black_chainbody"
+    },
+    "meta": {
+      "incomplete": false
+    }
+  },
+  "included": [
+    {
+      "id": "53855985-6ae5-4db4-b08f-8dacf25f554d",
+      "type": "equip",
+      "attributes": {
+        "slot": "body",
+        "passive_effect": null,
+        "requirements": {
+          "defense_level": 10
+        }
+      },
+      "relationships": {
+        "equip_stat": {
+          "data": {
+            "id": "45bf2a1d-fa89-48eb-adf2-21b149856bca",
+            "type": "equip_stat"
+          }
+        }
+      }
+    },
+    {
+      "id": "45bf2a1d-fa89-48eb-adf2-21b149856bca",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 0,
+        "slash_attack": 0,
+        "crush_attack": 0,
+        "ranged_attack": 0,
+        "magic_attack": -15,
+        "stab_defense": 22,
+        "slash_defense": 32,
+        "crush_defense": 39,
+        "ranged_defense": 24,
+        "magic_defense": -3,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

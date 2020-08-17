@@ -1,0 +1,20 @@
+{
+  "data": [
+    {
+      "id": "2440-2054",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.1"
+      },
+      "meta": {
+        "item_name": "Super strength (4 dose)",
+        "monster_name": "Chaos Elemental"
+      }
+    }
+  ]
+}

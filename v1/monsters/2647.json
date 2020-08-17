@@ -1,0 +1,117 @@
+{
+  "data": {
+    "id": "2647",
+    "type": "monster",
+    "attributes": {
+      "uuid": "a692a975-8686-403d-b4b2-0ab4a311f480",
+      "name": "Bruise Blamish Snail (Round)",
+      "members": true,
+      "release_date": "2004-10-14",
+      "examine": "A bruise blue coloured blamish snail, these types are said to spit acid.",
+      "combat_level_override": null,
+      "max_hit_override": null,
+      "target_types": [
+
+      ],
+      "classification_types": [
+
+      ],
+      "poison": false,
+      "immune_poison": false,
+      "immune_venom": false,
+      "slayer_xp": null,
+      "slayer_level": null,
+      "slayer_masters": [
+
+      ],
+      "icon_base64": null
+    },
+    "relationships": {
+      "combat_stat": {
+        "data": {
+          "id": "fb175e3c-0dd3-4b17-a86f-d039f0356a64",
+          "type": "combat_stat"
+        }
+      },
+      "equip_stat": {
+        "data": {
+          "id": "e2b6d25a-92d4-4636-98f9-f1ba9da9ef57",
+          "type": "equip_stat"
+        }
+      },
+      "attack_stat": {
+        "data": {
+          "id": "61b02291-c337-420c-bcfe-16f17f412bc0",
+          "type": "attack_stat"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Bruise_Blamish_Snail#Round"
+    },
+    "meta": {
+      "incomplete": true
+    }
+  },
+  "included": [
+    {
+      "id": "61b02291-c337-420c-bcfe-16f17f412bc0",
+      "type": "attack_stat",
+      "attributes": {
+        "attack_speed": 6,
+        "attack_type": "monster",
+        "special": null,
+        "stances": [
+          {
+            "name": "Monster ranged",
+            "style": null,
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": null,
+            "combat_accuracy_stat": "ranged_level",
+            "combat_damage_stat": "ranged_level",
+            "equip_accuracy_stat": "ranged_attack",
+            "equip_damage_stat": "ranged_attack",
+            "target_equip_defense_stat": "ranged_defense"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fb175e3c-0dd3-4b17-a86f-d039f0356a64",
+      "type": "monster_combat_stat",
+      "attributes": {
+        "hitpoints_level": 12,
+        "attack_level": 0,
+        "strength_level": 0,
+        "defense_level": 40,
+        "magic_level": 1,
+        "ranged_level": 15,
+        "prayer_level": 0
+      }
+    },
+    {
+      "id": "e2b6d25a-92d4-4636-98f9-f1ba9da9ef57",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 10,
+        "slash_attack": 10,
+        "crush_attack": 10,
+        "ranged_attack": 0,
+        "magic_attack": 0,
+        "stab_defense": 5,
+        "slash_defense": 5,
+        "crush_defense": 30,
+        "ranged_defense": 50,
+        "magic_defense": 5,
+        "melee_strength": 10,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

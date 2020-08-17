@@ -1,0 +1,692 @@
+{
+  "data": [
+    {
+      "id": "2722-9258",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0520833333333333"
+      },
+      "meta": {
+        "item_name": "Clue scroll (hard)",
+        "monster_name": "Basilisk Sentinel"
+      }
+    },
+    {
+      "id": "23083-9258",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0258264462809917"
+      },
+      "meta": {
+        "item_name": "Brimstone key",
+        "monster_name": "Basilisk Sentinel"
+      }
+    },
+    {
+      "id": "7899-9258",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.25"
+      },
+      "meta": {
+        "item_name": "Basilisk bone (Unpolished)",
+        "monster_name": "Basilisk Sentinel"
+      }
+    },
+    {
+      "id": "449-9258",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 1,
+        "quantity_max": 2,
+        "rarity": "0.0192307692307692"
+      },
+      "meta": {
+        "item_name": "Adamantite ore",
+        "monster_name": "Basilisk Sentinel"
+      }
+    },
+    {
+      "id": "565-9258",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 8,
+        "quantity_max": 20,
+        "rarity": "0.0576923076923077"
+      },
+      "meta": {
+        "item_name": "Blood rune (Regular)",
+        "monster_name": "Basilisk Sentinel"
+      }
+    },
+    {
+      "id": "560-9258",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": 25,
+        "rarity": "0.0576923076923077"
+      },
+      "meta": {
+        "item_name": "Death rune (Regular)",
+        "monster_name": "Basilisk Sentinel"
+      }
+    },
+    {
+      "id": "563-9258",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 20,
+        "quantity_max": 30,
+        "rarity": "0.115384615384615"
+      },
+      "meta": {
+        "item_name": "Law rune",
+        "monster_name": "Basilisk Sentinel"
+      }
+    },
+    {
+      "id": "561-9258",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 15,
+        "quantity_max": 30,
+        "rarity": "0.115384615384615"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Basilisk Sentinel"
+      }
+    },
+    {
+      "id": "9075-9258",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 15,
+        "quantity_max": 35,
+        "rarity": "0.115384615384615"
+      },
+      "meta": {
+        "item_name": "Astral rune",
+        "monster_name": "Basilisk Sentinel"
+      }
+    },
+    {
+      "id": "1147-9258",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0192307692307692"
+      },
+      "meta": {
+        "item_name": "Rune med helm",
+        "monster_name": "Basilisk Sentinel"
+      }
+    },
+    {
+      "id": "1247-9258",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0192307692307692"
+      },
+      "meta": {
+        "item_name": "Rune spear (Unpoisoned)",
+        "monster_name": "Basilisk Sentinel"
+      }
+    },
+    {
+      "id": "1333-9258",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0192307692307692"
+      },
+      "meta": {
+        "item_name": "Rune scimitar",
+        "monster_name": "Basilisk Sentinel"
+      }
+    },
+    {
+      "id": "1213-9258",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0192307692307692"
+      },
+      "meta": {
+        "item_name": "Rune dagger (Unpoisoned)",
+        "monster_name": "Basilisk Sentinel"
+      }
+    },
+    {
+      "id": "1373-9258",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0192307692307692"
+      },
+      "meta": {
+        "item_name": "Rune battleaxe",
+        "monster_name": "Basilisk Sentinel"
+      }
+    },
+    {
+      "id": "1359-9258",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0384615384615385"
+      },
+      "meta": {
+        "item_name": "Rune axe",
+        "monster_name": "Basilisk Sentinel"
+      }
+    },
+    {
+      "id": "1199-9258",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0192307692307692"
+      },
+      "meta": {
+        "item_name": "Adamant kiteshield",
+        "monster_name": "Basilisk Sentinel"
+      }
+    },
+    {
+      "id": "1073-9258",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0192307692307692"
+      },
+      "meta": {
+        "item_name": "Adamant platelegs",
+        "monster_name": "Basilisk Sentinel"
+      }
+    },
+    {
+      "id": "532-9258",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Big bones",
+        "monster_name": "Basilisk Sentinel"
+      }
+    },
+    {
+      "id": "20736-9258",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "superior-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00398089171974522"
+      },
+      "meta": {
+        "item_name": "Dust battlestaff",
+        "monster_name": "Basilisk Sentinel"
+      }
+    },
+    {
+      "id": "21270-9258",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "superior-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00132696390658174"
+      },
+      "meta": {
+        "item_name": "Eternal gem",
+        "monster_name": "Basilisk Sentinel"
+      }
+    },
+    {
+      "id": "20724-9258",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "superior-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00132696390658174"
+      },
+      "meta": {
+        "item_name": "Imbued heart",
+        "monster_name": "Basilisk Sentinel"
+      }
+    },
+    {
+      "id": "995-9258",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 500,
+        "quantity_max": 2498,
+        "rarity": "0.134615384615385"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Basilisk Sentinel"
+      }
+    },
+    {
+      "id": "20730-9258",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "superior-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00398089171974522"
+      },
+      "meta": {
+        "item_name": "Mist battlestaff",
+        "monster_name": "Basilisk Sentinel"
+      }
+    },
+    {
+      "id": "219-9258",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0108179838162962"
+      },
+      "meta": {
+        "item_name": "Grimy torstol",
+        "monster_name": "Basilisk Sentinel"
+      }
+    },
+    {
+      "id": "207-9258",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0144230769230769"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Basilisk Sentinel"
+      }
+    },
+    {
+      "id": "3051-9258",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0144230769230769"
+      },
+      "meta": {
+        "item_name": "Grimy snapdragon",
+        "monster_name": "Basilisk Sentinel"
+      }
+    },
+    {
+      "id": "211-9258",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0180288461538462"
+      },
+      "meta": {
+        "item_name": "Grimy avantoe",
+        "monster_name": "Basilisk Sentinel"
+      }
+    },
+    {
+      "id": "217-9258",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00135205783202033"
+      },
+      "meta": {
+        "item_name": "Grimy dwarf weed",
+        "monster_name": "Basilisk Sentinel"
+      }
+    },
+    {
+      "id": "2485-9258",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00135205783202033"
+      },
+      "meta": {
+        "item_name": "Grimy lantadyme",
+        "monster_name": "Basilisk Sentinel"
+      }
+    },
+    {
+      "id": "215-9258",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00180288461538462"
+      },
+      "meta": {
+        "item_name": "Grimy cadantine",
+        "monster_name": "Basilisk Sentinel"
+      }
+    },
+    {
+      "id": "213-9258",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00225360576923077"
+      },
+      "meta": {
+        "item_name": "Grimy kwuarm",
+        "monster_name": "Basilisk Sentinel"
+      }
+    },
+    {
+      "id": "211-9258",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00270474954019258"
+      },
+      "meta": {
+        "item_name": "Grimy avantoe",
+        "monster_name": "Basilisk Sentinel"
+      }
+    },
+    {
+      "id": "209-9258",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00360576923076923"
+      },
+      "meta": {
+        "item_name": "Grimy irit leaf",
+        "monster_name": "Basilisk Sentinel"
+      }
+    },
+    {
+      "id": "207-9258",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0049563838223632"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Basilisk Sentinel"
+      }
+    },
+    {
+      "id": "205-9258",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00630999756013428"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Basilisk Sentinel"
+      }
+    },
+    {
+      "id": "203-9258",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00811310753653603"
+      },
+      "meta": {
+        "item_name": "Grimy tarromin",
+        "monster_name": "Basilisk Sentinel"
+      }
+    },
+    {
+      "id": "201-9258",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0108179838162962"
+      },
+      "meta": {
+        "item_name": "Grimy marrentill",
+        "monster_name": "Basilisk Sentinel"
+      }
+    },
+    {
+      "id": "199-9258",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0144230769230769"
+      },
+      "meta": {
+        "item_name": "Grimy guam leaf",
+        "monster_name": "Basilisk Sentinel"
+      }
+    },
+    {
+      "id": "10977-9258",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000199501246882793"
+      },
+      "meta": {
+        "item_name": "Curved bone",
+        "monster_name": "Basilisk Sentinel"
+      }
+    },
+    {
+      "id": "24268-9258",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.001"
+      },
+      "meta": {
+        "item_name": "Basilisk jaw",
+        "monster_name": "Basilisk Sentinel"
+      }
+    },
+    {
+      "id": "10976-9258",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0025"
+      },
+      "meta": {
+        "item_name": "Long bone",
+        "monster_name": "Basilisk Sentinel"
+      }
+    },
+    {
+      "id": "7977-9258",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.001"
+      },
+      "meta": {
+        "item_name": "Basilisk head",
+        "monster_name": "Basilisk Sentinel"
+      }
+    },
+    {
+      "id": "4109-9258",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00390625"
+      },
+      "meta": {
+        "item_name": "Mystic hat (light)",
+        "monster_name": "Basilisk Sentinel"
+      }
+    }
+  ]
+}

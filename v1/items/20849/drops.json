@@ -1,0 +1,180 @@
+{
+  "data": [
+    {
+      "id": "20849-8610",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 75,
+        "quantity_max": 150,
+        "rarity": "0.0001"
+      },
+      "meta": {
+        "item_name": "Dragon thrownaxe",
+        "monster_name": "Wyrm (Idle)"
+      }
+    },
+    {
+      "id": "20849-10402",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 200,
+        "quantity_max": 400,
+        "rarity": "0.0001"
+      },
+      "meta": {
+        "item_name": "Dragon thrownaxe",
+        "monster_name": "Colossal Hydra"
+      }
+    },
+    {
+      "id": "20849-10400",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 100,
+        "quantity_max": 200,
+        "rarity": "0.0001"
+      },
+      "meta": {
+        "item_name": "Dragon thrownaxe",
+        "monster_name": "Guardian Drake"
+      }
+    },
+    {
+      "id": "20849-10398",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 75,
+        "quantity_max": 150,
+        "rarity": "0.0001"
+      },
+      "meta": {
+        "item_name": "Dragon thrownaxe",
+        "monster_name": "Shadow Wyrm"
+      }
+    },
+    {
+      "id": "20849-8621",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 500,
+        "quantity_max": 1000,
+        "rarity": "0.0005"
+      },
+      "meta": {
+        "item_name": "Dragon thrownaxe",
+        "monster_name": "Alchemical Hydra (Two heads)"
+      }
+    },
+    {
+      "id": "20849-8618",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 500,
+        "quantity_max": 1000,
+        "rarity": "0.0005"
+      },
+      "meta": {
+        "item_name": "Dragon thrownaxe",
+        "monster_name": "Alchemical Hydra (Three heads)"
+      }
+    },
+    {
+      "id": "20849-8617",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 500,
+        "quantity_max": 1000,
+        "rarity": "0.0005"
+      },
+      "meta": {
+        "item_name": "Dragon thrownaxe",
+        "monster_name": "Alchemical Hydra (Four heads)"
+      }
+    },
+    {
+      "id": "20849-8615",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 500,
+        "quantity_max": 1000,
+        "rarity": "0.0005"
+      },
+      "meta": {
+        "item_name": "Dragon thrownaxe",
+        "monster_name": "Alchemical Hydra (Five heads)"
+      }
+    },
+    {
+      "id": "20849-8612",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 100,
+        "quantity_max": 200,
+        "rarity": "0.0001"
+      },
+      "meta": {
+        "item_name": "Dragon thrownaxe",
+        "monster_name": "Drake"
+      }
+    },
+    {
+      "id": "20849-8611",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 75,
+        "quantity_max": 150,
+        "rarity": "0.0001"
+      },
+      "meta": {
+        "item_name": "Dragon thrownaxe",
+        "monster_name": "Wyrm (Attacking)"
+      }
+    },
+    {
+      "id": "20849-8609",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 200,
+        "quantity_max": 400,
+        "rarity": "0.0001"
+      },
+      "meta": {
+        "item_name": "Dragon thrownaxe",
+        "monster_name": "Hydra"
+      }
+    }
+  ]
+}

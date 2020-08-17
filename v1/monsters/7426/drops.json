@@ -1,0 +1,228 @@
+{
+  "data": [
+    {
+      "id": "559-7426",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.0714285714285714"
+      },
+      "meta": {
+        "item_name": "Body rune",
+        "monster_name": "Zamorak crafter"
+      }
+    },
+    {
+      "id": "565-7426",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 4,
+        "quantity_max": null,
+        "rarity": "0.0285714285714286"
+      },
+      "meta": {
+        "item_name": "Blood rune (Regular)",
+        "monster_name": "Zamorak crafter"
+      }
+    },
+    {
+      "id": "562-7426",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 4,
+        "quantity_max": null,
+        "rarity": "0.0714285714285714"
+      },
+      "meta": {
+        "item_name": "Chaos rune (Regular)",
+        "monster_name": "Zamorak crafter"
+      }
+    },
+    {
+      "id": "557-7426",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 6,
+        "quantity_max": null,
+        "rarity": "0.0714285714285714"
+      },
+      "meta": {
+        "item_name": "Earth rune (Regular)",
+        "monster_name": "Zamorak crafter"
+      }
+    },
+    {
+      "id": "995-7426",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 50,
+        "quantity_max": null,
+        "rarity": "0.142857142857143"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Zamorak crafter"
+      }
+    },
+    {
+      "id": "554-7426",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.142857142857143"
+      },
+      "meta": {
+        "item_name": "Fire rune (Regular)",
+        "monster_name": "Zamorak crafter"
+      }
+    },
+    {
+      "id": "563-7426",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.0142857142857143"
+      },
+      "meta": {
+        "item_name": "Law rune",
+        "monster_name": "Zamorak crafter"
+      }
+    },
+    {
+      "id": "561-7426",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.0285714285714286"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Zamorak crafter"
+      }
+    },
+    {
+      "id": "560-7426",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.0285714285714286"
+      },
+      "meta": {
+        "item_name": "Death rune (Regular)",
+        "monster_name": "Zamorak crafter"
+      }
+    },
+    {
+      "id": "7936-7426",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.0714285714285714"
+      },
+      "meta": {
+        "item_name": "Pure essence",
+        "monster_name": "Zamorak crafter"
+      }
+    },
+    {
+      "id": "555-7426",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.142857142857143"
+      },
+      "meta": {
+        "item_name": "Water rune (Regular)",
+        "monster_name": "Zamorak crafter"
+      }
+    },
+    {
+      "id": "566-7426",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.0285714285714286"
+      },
+      "meta": {
+        "item_name": "Soul rune",
+        "monster_name": "Zamorak crafter"
+      }
+    },
+    {
+      "id": "556-7426",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.142857142857143"
+      },
+      "meta": {
+        "item_name": "Air rune (Regular)",
+        "monster_name": "Zamorak crafter"
+      }
+    },
+    {
+      "id": "7936-7426",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.0142857142857143"
+      },
+      "meta": {
+        "item_name": "Pure essence",
+        "monster_name": "Zamorak crafter"
+      }
+    }
+  ]
+}

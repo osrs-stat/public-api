@@ -1,0 +1,76 @@
+{
+  "data": {
+    "id": "11830",
+    "type": "item",
+    "attributes": {
+      "uuid": "bb7337df-fd63-4c04-a16e-c6226b7c3076",
+      "name": "Armadyl chainskirt",
+      "members": true,
+      "release_date": "2013-10-17",
+      "examine": "A chainskirt of great craftsmanship.",
+      "tradeable": false,
+      "ge_tradeable": false,
+      "lowalch": 115960,
+      "highalch": 173940,
+      "is_equip": true,
+      "is_weapon": false,
+      "icon_base64": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACqUlEQVR4Xt2XYUvTURTGdz/CXggjGIwRIiIioozESBBliAsVN2NrYEsN08YwM52NGDq1xtgit1aDttbEoHLku6Lv9sRz1l2zGfTmf0cduG/uXtwfz3nOc/6z2f7tUvjzMV4KhbQfb18EcZiYRnT5OuZ9/fAMOtHX4+gElMJZJYJaMYzs/ix2YhMIB4Yx6nHD5bQL0IDLZR7q+LiM15kAUvEphMPL8PnmYbd3dQJIoVqto1T6gGr+tqi0uhpDMHgHU1OznQE6PT3HycmXpkobG7uIRO7D7w9hcnLapI8Uzs+/o17/hs9nX0WldLogyoyNTcDjGUV//yC6u3tMQSmsP3gkJxp9LKosLIRFlZGRGxgYGEZvb58cQ61rtIseKpc/NhVaWYmKsdkyqqXbZjFQA6ZW+wVTePUe2ewb8ZCGomKcOGNAlcongSkWa2JqAiUSh4jFdmTa2EaCGQHiZFEdDZPLlaRlR0cvsfskJVD0l44Bi42tpF1UJ59/hy67/dKztfVUWri29tBqlVTb439zLFdJn98fbodoHCpkoUoshZmZALzem3A4rjT3Fz3DYGQGOZ0EMATD8Q6F7goUw9DtviqPMyj5G0eeAWmxf3QpbG4mxLAcbw2l7zldhB0f95oDSibT2N5OyuOLi/eaIcg7jjzv5uZuYWjo2k8fWV5KglC3SIcgc0jvt1aFjKjEHGKLqAiNzbtnz/OSPwQkmKGWsZSsi729zIXWMK2pHD2kIY0BZTJF8RLbo78SDw5y0ja2kd9GRoG4v7i36BUqwrtUKoulpXXJJ0PLVZeSTwzuLKqjgzEe328CGW8ZtzzbQw/pYGwF0nfGgOghGpjrgt/QrUDMJX1nDIgTpcOR+6sVqHXyDAGxLv6fbzzcfmcQyGbTD7Y+fNndf1M/AGB/gqvNr8xNAAAAAElFTkSuQmCC"
+    },
+    "relationships": {
+      "equip": {
+        "data": {
+          "id": "ab53f873-b44c-49f5-8a29-64ac2390ef84",
+          "type": "equip"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Armadyl_chainskirt"
+    },
+    "meta": {
+      "incomplete": false
+    }
+  },
+  "included": [
+    {
+      "id": "ab53f873-b44c-49f5-8a29-64ac2390ef84",
+      "type": "equip",
+      "attributes": {
+        "slot": "legs",
+        "passive_effect": null,
+        "requirements": {
+          "ranged_level": 70,
+          "defense_level": 70
+        }
+      },
+      "relationships": {
+        "equip_stat": {
+          "data": {
+            "id": "23e65063-1ca4-4603-bc7c-465e5265cbd0",
+            "type": "equip_stat"
+          }
+        }
+      }
+    },
+    {
+      "id": "23e65063-1ca4-4603-bc7c-465e5265cbd0",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": -6,
+        "slash_attack": -6,
+        "crush_attack": -6,
+        "ranged_attack": 20,
+        "magic_attack": -10,
+        "stab_defense": 32,
+        "slash_defense": 26,
+        "crush_defense": 34,
+        "ranged_defense": 33,
+        "magic_defense": 40,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 1
+      }
+    }
+  ]
+}

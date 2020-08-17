@@ -1,0 +1,84 @@
+{
+  "data": [
+    {
+      "id": "4694-2916",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 40,
+        "quantity_max": 60,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Steam rune",
+        "monster_name": "Waterfiend"
+      }
+    },
+    {
+      "id": "4694-469",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.0142857142857143"
+      },
+      "meta": {
+        "item_name": "Steam rune",
+        "monster_name": "Killerwatt (Attacking)"
+      }
+    },
+    {
+      "id": "4694-470",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.0142857142857143"
+      },
+      "meta": {
+        "item_name": "Steam rune",
+        "monster_name": "Killerwatt (Idle)"
+      }
+    },
+    {
+      "id": "4694-2918",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 37,
+        "quantity_max": null,
+        "rarity": "0.046875"
+      },
+      "meta": {
+        "item_name": "Steam rune",
+        "monster_name": "Brutal green dragon"
+      }
+    },
+    {
+      "id": "4694-492",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 7,
+        "quantity_max": null,
+        "rarity": "0.03"
+      },
+      "meta": {
+        "item_name": "Steam rune",
+        "monster_name": "Cave kraken"
+      }
+    }
+  ]
+}

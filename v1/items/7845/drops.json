@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "id": "7845-2094",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.25"
+      },
+      "meta": {
+        "item_name": "Jogre bone (Unpolished)",
+        "monster_name": "Jogre (Normal)"
+      }
+    },
+    {
+      "id": "7845-2234",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.25"
+      },
+      "meta": {
+        "item_name": "Jogre bone (Unpolished)",
+        "monster_name": "Jogre (GWD)"
+      }
+    }
+  ]
+}

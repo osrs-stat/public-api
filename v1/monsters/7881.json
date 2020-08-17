@@ -1,0 +1,150 @@
+{
+  "data": {
+    "id": "7881",
+    "type": "monster",
+    "attributes": {
+      "uuid": "0dbf7511-daa5-4400-b1fd-993da9dd07b4",
+      "name": "Revenant imp",
+      "members": true,
+      "release_date": "2017-11-23",
+      "examine": "The ghost of an imp slain long ago.",
+      "combat_level_override": null,
+      "max_hit_override": 5,
+      "target_types": [
+        "undead"
+      ],
+      "classification_types": [
+        "revenant",
+        "ghost"
+      ],
+      "poison": false,
+      "immune_poison": false,
+      "immune_venom": false,
+      "slayer_xp": 10.0,
+      "slayer_level": 1,
+      "slayer_masters": [
+        "turael",
+        "krystilia",
+        "mazchna"
+      ],
+      "icon_base64": null
+    },
+    "relationships": {
+      "combat_stat": {
+        "data": {
+          "id": "9b98e38a-ca96-45c7-a4dd-ebe07ee7be92",
+          "type": "combat_stat"
+        }
+      },
+      "equip_stat": {
+        "data": {
+          "id": "9e8693fa-0928-4f0f-af12-2fa0423ce197",
+          "type": "equip_stat"
+        }
+      },
+      "attack_stat": {
+        "data": {
+          "id": "50b4a098-e389-45e9-9354-15ee98029646",
+          "type": "attack_stat"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Revenant_imp"
+    },
+    "meta": {
+      "incomplete": true
+    }
+  },
+  "included": [
+    {
+      "id": "50b4a098-e389-45e9-9354-15ee98029646",
+      "type": "attack_stat",
+      "attributes": {
+        "attack_speed": 5,
+        "attack_type": "monster",
+        "special": null,
+        "stances": [
+          {
+            "name": "Monster stab",
+            "style": null,
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": null,
+            "combat_accuracy_stat": "attack_level",
+            "combat_damage_stat": "strength_level",
+            "equip_accuracy_stat": "stab_attack",
+            "equip_damage_stat": "stab_attack",
+            "target_equip_defense_stat": "stab_defense"
+          },
+          {
+            "name": "Monster ranged",
+            "style": null,
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": null,
+            "combat_accuracy_stat": "ranged_level",
+            "combat_damage_stat": "ranged_level",
+            "equip_accuracy_stat": "ranged_attack",
+            "equip_damage_stat": "ranged_attack",
+            "target_equip_defense_stat": "ranged_defense"
+          },
+          {
+            "name": "Monster magic",
+            "style": null,
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": null,
+            "combat_accuracy_stat": "magic_level",
+            "combat_damage_stat": "magic_level",
+            "equip_accuracy_stat": "magic_attack",
+            "equip_damage_stat": "magic_attack",
+            "target_equip_defense_stat": "magic_defense"
+          }
+        ]
+      }
+    },
+    {
+      "id": "9b98e38a-ca96-45c7-a4dd-ebe07ee7be92",
+      "type": "monster_combat_stat",
+      "attributes": {
+        "hitpoints_level": 10,
+        "attack_level": 5,
+        "strength_level": 5,
+        "defense_level": 4,
+        "magic_level": 9,
+        "ranged_level": 5,
+        "prayer_level": 0
+      }
+    },
+    {
+      "id": "9e8693fa-0928-4f0f-af12-2fa0423ce197",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 0,
+        "slash_attack": 0,
+        "crush_attack": 0,
+        "ranged_attack": 0,
+        "magic_attack": 5,
+        "stab_defense": 0,
+        "slash_defense": 0,
+        "crush_defense": 0,
+        "ranged_defense": 0,
+        "magic_defense": 5,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

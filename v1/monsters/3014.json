@@ -1,0 +1,117 @@
+{
+  "data": {
+    "id": "3014",
+    "type": "monster",
+    "attributes": {
+      "uuid": "a77b85e1-5b66-495f-8268-fcc136509f9f",
+      "name": "Man (Blue)",
+      "members": false,
+      "release_date": "2001-01-04",
+      "examine": "One of Gielinor's many citizens.",
+      "combat_level_override": null,
+      "max_hit_override": null,
+      "target_types": [
+
+      ],
+      "classification_types": [
+
+      ],
+      "poison": false,
+      "immune_poison": false,
+      "immune_venom": false,
+      "slayer_xp": null,
+      "slayer_level": null,
+      "slayer_masters": [
+
+      ],
+      "icon_base64": null
+    },
+    "relationships": {
+      "combat_stat": {
+        "data": {
+          "id": "d7605de9-1aad-4b83-82d2-88730e697c2b",
+          "type": "combat_stat"
+        }
+      },
+      "equip_stat": {
+        "data": {
+          "id": "4d42f97b-814a-48c4-9a83-783742759ff4",
+          "type": "equip_stat"
+        }
+      },
+      "attack_stat": {
+        "data": {
+          "id": "f6912191-1e4a-4373-9e8f-c4ecda2b9671",
+          "type": "attack_stat"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Man#Blue"
+    },
+    "meta": {
+      "incomplete": true
+    }
+  },
+  "included": [
+    {
+      "id": "f6912191-1e4a-4373-9e8f-c4ecda2b9671",
+      "type": "attack_stat",
+      "attributes": {
+        "attack_speed": 4,
+        "attack_type": "monster",
+        "special": null,
+        "stances": [
+          {
+            "name": "Monster crush",
+            "style": null,
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": null,
+            "combat_accuracy_stat": "attack_level",
+            "combat_damage_stat": "strength_level",
+            "equip_accuracy_stat": "crush_attack",
+            "equip_damage_stat": "crush_attack",
+            "target_equip_defense_stat": "crush_defense"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d7605de9-1aad-4b83-82d2-88730e697c2b",
+      "type": "monster_combat_stat",
+      "attributes": {
+        "hitpoints_level": 7,
+        "attack_level": 1,
+        "strength_level": 1,
+        "defense_level": 1,
+        "magic_level": 1,
+        "ranged_level": 1,
+        "prayer_level": 0
+      }
+    },
+    {
+      "id": "4d42f97b-814a-48c4-9a83-783742759ff4",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 0,
+        "slash_attack": 0,
+        "crush_attack": 0,
+        "ranged_attack": 0,
+        "magic_attack": 0,
+        "stab_defense": -21,
+        "slash_defense": -21,
+        "crush_defense": -21,
+        "ranged_defense": -21,
+        "magic_defense": -21,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

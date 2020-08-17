@@ -1,0 +1,708 @@
+{
+  "data": [
+    {
+      "id": "213-7404",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00244140625"
+      },
+      "meta": {
+        "item_name": "Grimy kwuarm",
+        "monster_name": "Choke devil"
+      }
+    },
+    {
+      "id": "995-7404",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2000,
+        "quantity_max": 4000,
+        "rarity": "0.25"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Choke devil"
+      }
+    },
+    {
+      "id": "20724-7404",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "superior-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00147405660377359"
+      },
+      "meta": {
+        "item_name": "Imbued heart",
+        "monster_name": "Choke devil"
+      }
+    },
+    {
+      "id": "21270-7404",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "superior-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00147405660377359"
+      },
+      "meta": {
+        "item_name": "Eternal gem",
+        "monster_name": "Choke devil"
+      }
+    },
+    {
+      "id": "20736-7404",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "superior-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00442216981132075"
+      },
+      "meta": {
+        "item_name": "Dust battlestaff",
+        "monster_name": "Choke devil"
+      }
+    },
+    {
+      "id": "20730-7404",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "superior-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00442216981132075"
+      },
+      "meta": {
+        "item_name": "Mist battlestaff",
+        "monster_name": "Choke devil"
+      }
+    },
+    {
+      "id": "217-7404",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00146472931802203"
+      },
+      "meta": {
+        "item_name": "Grimy dwarf weed",
+        "monster_name": "Choke devil"
+      }
+    },
+    {
+      "id": "2485-7404",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00146472931802203"
+      },
+      "meta": {
+        "item_name": "Grimy lantadyme",
+        "monster_name": "Choke devil"
+      }
+    },
+    {
+      "id": "215-7404",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.001953125"
+      },
+      "meta": {
+        "item_name": "Grimy cadantine",
+        "monster_name": "Choke devil"
+      }
+    },
+    {
+      "id": "211-7404",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00293014533520863"
+      },
+      "meta": {
+        "item_name": "Grimy avantoe",
+        "monster_name": "Choke devil"
+      }
+    },
+    {
+      "id": "209-7404",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00390625"
+      },
+      "meta": {
+        "item_name": "Grimy irit leaf",
+        "monster_name": "Choke devil"
+      }
+    },
+    {
+      "id": "207-7404",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00536941580756014"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Choke devil"
+      }
+    },
+    {
+      "id": "205-7404",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00683583069014547"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Choke devil"
+      }
+    },
+    {
+      "id": "203-7404",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00878919983124736"
+      },
+      "meta": {
+        "item_name": "Grimy tarromin",
+        "monster_name": "Choke devil"
+      }
+    },
+    {
+      "id": "201-7404",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0117194824676542"
+      },
+      "meta": {
+        "item_name": "Grimy marrentill",
+        "monster_name": "Choke devil"
+      }
+    },
+    {
+      "id": "199-7404",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Grimy guam leaf",
+        "monster_name": "Choke devil"
+      }
+    },
+    {
+      "id": "19683-7404",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "catacombs-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Dark totem top",
+        "monster_name": "Choke devil"
+      }
+    },
+    {
+      "id": "19681-7404",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "catacombs-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Dark totem middle",
+        "monster_name": "Choke devil"
+      }
+    },
+    {
+      "id": "19679-7404",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "catacombs-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Dark totem base",
+        "monster_name": "Choke devil"
+      }
+    },
+    {
+      "id": "19677-7404",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "catacombs-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0075"
+      },
+      "meta": {
+        "item_name": "Ancient shard",
+        "monster_name": "Choke devil"
+      }
+    },
+    {
+      "id": "23083-7404",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0186011904761905"
+      },
+      "meta": {
+        "item_name": "Brimstone key",
+        "monster_name": "Choke devil"
+      }
+    },
+    {
+      "id": "2361-7404",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 4,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Adamantite bar",
+        "monster_name": "Choke devil"
+      }
+    },
+    {
+      "id": "2359-7404",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Mithril bar",
+        "monster_name": "Choke devil"
+      }
+    },
+    {
+      "id": "1883-7404",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 4,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Ugthanki kebab (smelling)",
+        "monster_name": "Choke devil"
+      }
+    },
+    {
+      "id": "566-7404",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 50,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Soul rune",
+        "monster_name": "Choke devil"
+      }
+    },
+    {
+      "id": "566-7404",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 20,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Soul rune",
+        "monster_name": "Choke devil"
+      }
+    },
+    {
+      "id": "892-7404",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 12,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Rune arrow (Unpoisoned)",
+        "monster_name": "Choke devil"
+      }
+    },
+    {
+      "id": "562-7404",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 80,
+        "quantity_max": null,
+        "rarity": "0.0546875"
+      },
+      "meta": {
+        "item_name": "Chaos rune (Regular)",
+        "monster_name": "Choke devil"
+      }
+    },
+    {
+      "id": "554-7404",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 50,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Fire rune (Regular)",
+        "monster_name": "Choke devil"
+      }
+    },
+    {
+      "id": "554-7404",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 300,
+        "quantity_max": null,
+        "rarity": "0.078125"
+      },
+      "meta": {
+        "item_name": "Fire rune (Regular)",
+        "monster_name": "Choke devil"
+      }
+    },
+    {
+      "id": "557-7404",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 300,
+        "quantity_max": null,
+        "rarity": "0.078125"
+      },
+      "meta": {
+        "item_name": "Earth rune (Regular)",
+        "monster_name": "Choke devil"
+      }
+    },
+    {
+      "id": "4696-7404",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 200,
+        "quantity_max": null,
+        "rarity": "0.078125"
+      },
+      "meta": {
+        "item_name": "Dust rune",
+        "monster_name": "Choke devil"
+      }
+    },
+    {
+      "id": "3140-7404",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000030517578125"
+      },
+      "meta": {
+        "item_name": "Dragon chainbody",
+        "monster_name": "Choke devil"
+      }
+    },
+    {
+      "id": "20736-7404",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00025"
+      },
+      "meta": {
+        "item_name": "Dust battlestaff",
+        "monster_name": "Choke devil"
+      }
+    },
+    {
+      "id": "1215-7404",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Dragon dagger (Unpoisoned)",
+        "monster_name": "Choke devil"
+      }
+    },
+    {
+      "id": "1407-7404",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Mystic earth staff",
+        "monster_name": "Choke devil"
+      }
+    },
+    {
+      "id": "1405-7404",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Mystic air staff",
+        "monster_name": "Choke devil"
+      }
+    },
+    {
+      "id": "1399-7404",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Earth battlestaff",
+        "monster_name": "Choke devil"
+      }
+    },
+    {
+      "id": "1397-7404",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Air battlestaff",
+        "monster_name": "Choke devil"
+      }
+    },
+    {
+      "id": "2491-7404",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Black d'hide vambraces",
+        "monster_name": "Choke devil"
+      }
+    },
+    {
+      "id": "2489-7404",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Red d'hide vambraces",
+        "monster_name": "Choke devil"
+      }
+    },
+    {
+      "id": "1213-7404",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Rune dagger (Unpoisoned)",
+        "monster_name": "Choke devil"
+      }
+    },
+    {
+      "id": "1357-7404",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Adamant axe",
+        "monster_name": "Choke devil"
+      }
+    },
+    {
+      "id": "526-7404",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Bones",
+        "monster_name": "Choke devil"
+      }
+    }
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "data": {
+    "id": "6914",
+    "type": "monster",
+    "attributes": {
+      "uuid": "bb9ec247-8a2b-44d5-92a7-85698f2a51e7",
+      "name": "Lizardman (Level 53)",
+      "members": true,
+      "release_date": "2016-01-07",
+      "examine": "From a race created during the darker days of Kourend.",
+      "combat_level_override": null,
+      "max_hit_override": 7,
+      "target_types": [
+
+      ],
+      "classification_types": [
+        "lizardmen"
+      ],
+      "poison": true,
+      "immune_poison": true,
+      "immune_venom": true,
+      "slayer_xp": 60.0,
+      "slayer_level": 1,
+      "slayer_masters": [
+        "chaeldar",
+        "konar",
+        "nieve",
+        "duradel"
+      ],
+      "icon_base64": null
+    },
+    "relationships": {
+      "combat_stat": {
+        "data": {
+          "id": "d2610328-992c-4067-af34-26500a6808ee",
+          "type": "combat_stat"
+        }
+      },
+      "equip_stat": {
+        "data": {
+          "id": "07b45951-dbf9-4e4b-b2af-3c4d484aab34",
+          "type": "equip_stat"
+        }
+      },
+      "attack_stat": {
+        "data": {
+          "id": "e86cc2c9-4d97-452c-9efe-4bb45e02938f",
+          "type": "attack_stat"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Lizardman#Level_53"
+    },
+    "meta": {
+      "incomplete": true
+    }
+  },
+  "included": [
+    {
+      "id": "e86cc2c9-4d97-452c-9efe-4bb45e02938f",
+      "type": "attack_stat",
+      "attributes": {
+        "attack_speed": 4,
+        "attack_type": "monster",
+        "special": null,
+        "stances": [
+          {
+            "name": "Monster crush",
+            "style": null,
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": null,
+            "combat_accuracy_stat": "attack_level",
+            "combat_damage_stat": "strength_level",
+            "equip_accuracy_stat": "crush_attack",
+            "equip_damage_stat": "crush_attack",
+            "target_equip_defense_stat": "crush_defense"
+          },
+          {
+            "name": "Monster ranged",
+            "style": null,
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": null,
+            "combat_accuracy_stat": "ranged_level",
+            "combat_damage_stat": "ranged_level",
+            "equip_accuracy_stat": "ranged_attack",
+            "equip_damage_stat": "ranged_attack",
+            "target_equip_defense_stat": "ranged_defense"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d2610328-992c-4067-af34-26500a6808ee",
+      "type": "monster_combat_stat",
+      "attributes": {
+        "hitpoints_level": 60,
+        "attack_level": 43,
+        "strength_level": 43,
+        "defense_level": 43,
+        "magic_level": 1,
+        "ranged_level": 43,
+        "prayer_level": 0
+      }
+    },
+    {
+      "id": "07b45951-dbf9-4e4b-b2af-3c4d484aab34",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 22,
+        "slash_attack": 22,
+        "crush_attack": 22,
+        "ranged_attack": 22,
+        "magic_attack": 0,
+        "stab_defense": -10,
+        "slash_defense": 25,
+        "crush_defense": 0,
+        "ranged_defense": 0,
+        "magic_defense": 0,
+        "melee_strength": 20,
+        "ranged_strength": 20,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

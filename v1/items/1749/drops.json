@@ -1,0 +1,180 @@
+{
+  "data": [
+    {
+      "id": "1749-249",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Red dragonhide",
+        "monster_name": "Red dragon (3)"
+      }
+    },
+    {
+      "id": "1749-247",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Red dragonhide",
+        "monster_name": "Red dragon (1)"
+      }
+    },
+    {
+      "id": "1749-248",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Red dragonhide",
+        "monster_name": "Red dragon (2)"
+      }
+    },
+    {
+      "id": "1749-250",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Red dragonhide",
+        "monster_name": "Red dragon (4)"
+      }
+    },
+    {
+      "id": "1749-251",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Red dragonhide",
+        "monster_name": "Red dragon (5)"
+      }
+    },
+    {
+      "id": "1749-6503",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 75,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Red dragonhide",
+        "monster_name": "Callisto"
+      }
+    },
+    {
+      "id": "1749-6618",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Red dragonhide",
+        "monster_name": "Crazy archaeologist"
+      }
+    },
+    {
+      "id": "1749-7274",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Red dragonhide",
+        "monster_name": "Brutal red dragon"
+      }
+    },
+    {
+      "id": "1749-8060",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 20,
+        "quantity_max": 25,
+        "rarity": "0.0466666666666667"
+      },
+      "meta": {
+        "item_name": "Red dragonhide",
+        "monster_name": "Vorkath (Dragon Slayer II)"
+      }
+    },
+    {
+      "id": "1749-8061",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 20,
+        "quantity_max": 25,
+        "rarity": "0.0466666666666667"
+      },
+      "meta": {
+        "item_name": "Red dragonhide",
+        "monster_name": "Vorkath (Post-quest)"
+      }
+    },
+    {
+      "id": "1749-8713",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 15,
+        "quantity_max": 25,
+        "rarity": "0.05"
+      },
+      "meta": {
+        "item_name": "Red dragonhide",
+        "monster_name": "Sarachnis"
+      }
+    }
+  ]
+}

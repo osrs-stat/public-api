@@ -1,0 +1,168 @@
+{
+  "data": {
+    "id": "1257",
+    "type": "item",
+    "attributes": {
+      "uuid": "d5fca93d-efdc-409d-9ebf-c35176617c8f",
+      "name": "Mithril spear (Poison)",
+      "members": true,
+      "release_date": "2003-04-14",
+      "examine": "A poisoned mithril tipped spear.",
+      "tradeable": false,
+      "ge_tradeable": false,
+      "lowalch": 338,
+      "highalch": 507,
+      "is_equip": true,
+      "is_weapon": true,
+      "icon_base64": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABD0lEQVR4XuWXMQrCQBBFs6XFFnsAwcraxsIbiFhaCYKgIiJisFIIaCGkCAQsPO/I32VIyAEyH/wQBLV4vLeJmGX/NSfdd4wGECfXwsfX7qc9z0lRBXmUXm6vBDQZjSyhnDzrEKHUkDlQfQ4RanMaWAM5+eZByoOXYuNlPMzsgWDntfUynzZ2jICcfC5B3jsv+wUBDFJVxxBTGcNgKRXstFN1v9XTmoNMkQrnRg+yMQyWgGCHIhVgcJApUiGT3ubGMBhZKtjBRZEKZ0btGMNgyQ6gKFKpnXxlbsfFRGrHGAZLdgBEkUrt3NcEqfDggx2aVGqHIpXaofl5UDsEMFi6s5Yz81Ttpb/EBHaaUcFY7AcR7BD/JvOsNQAAAABJRU5ErkJggg=="
+    },
+    "relationships": {
+      "equip": {
+        "data": {
+          "id": "9a3066da-148e-4514-823e-3efcf81307e8",
+          "type": "equip"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Mithril_spear#Poison"
+    },
+    "meta": {
+      "incomplete": false
+    }
+  },
+  "included": [
+    {
+      "id": "9a3066da-148e-4514-823e-3efcf81307e8",
+      "type": "equip",
+      "attributes": {
+        "slot": "weapon_2h",
+        "passive_effect": null,
+        "requirements": {
+          "attack_level": 20
+        }
+      },
+      "relationships": {
+        "equip_stat": {
+          "data": {
+            "id": "b7a3cb1e-67a2-46b3-bc52-e1f2bcf8ed43",
+            "type": "equip_stat"
+          }
+        },
+        "attack_stat": {
+          "data": {
+            "id": "f3ffa2b0-9e70-4d00-9aaf-9fbc745d1ae1",
+            "type": "attack_stat"
+          }
+        }
+      }
+    },
+    {
+      "id": "f3ffa2b0-9e70-4d00-9aaf-9fbc745d1ae1",
+      "type": "attack_stat",
+      "attributes": {
+        "attack_speed": 5,
+        "attack_type": "spear",
+        "special": null,
+        "stances": [
+          {
+            "name": "lunge",
+            "style": "controlled",
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": {
+              "hitpoints": 1.3333,
+              "attack": 1.3333,
+              "strength": 1.3333,
+              "defense": 1.3333
+            },
+            "combat_accuracy_stat": "attack_level",
+            "combat_damage_stat": "strength_level",
+            "equip_accuracy_stat": "stab_attack",
+            "equip_damage_stat": "stab_attack",
+            "target_equip_defense_stat": "stab_defense"
+          },
+          {
+            "name": "swipe",
+            "style": "controlled",
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": {
+              "hitpoints": 1.3333,
+              "attack": 1.3333,
+              "strength": 1.3333,
+              "defense": 1.3333
+            },
+            "combat_accuracy_stat": "attack_level",
+            "combat_damage_stat": "strength_level",
+            "equip_accuracy_stat": "slash_attack",
+            "equip_damage_stat": "slash_attack",
+            "target_equip_defense_stat": "slash_defense"
+          },
+          {
+            "name": "pound",
+            "style": "controlled",
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": {
+              "hitpoints": 1.3333,
+              "attack": 1.3333,
+              "strength": 1.3333,
+              "defense": 1.3333
+            },
+            "combat_accuracy_stat": "attack_level",
+            "combat_damage_stat": "strength_level",
+            "equip_accuracy_stat": "crush_attack",
+            "equip_damage_stat": "crush_attack",
+            "target_equip_defense_stat": "crush_defense"
+          },
+          {
+            "name": "block",
+            "style": "defensive",
+            "boosts": {
+              "defense": 3
+            },
+            "experience": {
+              "hitpoints": 1.3333,
+              "defense": 4
+            },
+            "combat_accuracy_stat": "attack_level",
+            "combat_damage_stat": "strength_level",
+            "equip_accuracy_stat": "stab_attack",
+            "equip_damage_stat": "stab_attack",
+            "target_equip_defense_stat": "stab_defense"
+          }
+        ]
+      }
+    },
+    {
+      "id": "b7a3cb1e-67a2-46b3-bc52-e1f2bcf8ed43",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 17,
+        "slash_attack": 17,
+        "crush_attack": 17,
+        "ranged_attack": 0,
+        "magic_attack": 0,
+        "stab_defense": 1,
+        "slash_defense": 1,
+        "crush_defense": 0,
+        "ranged_defense": 0,
+        "magic_defense": 0,
+        "melee_strength": 18,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

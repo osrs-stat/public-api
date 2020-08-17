@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "id": "3355-2649",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Blamish myre shell (pointed)",
+        "monster_name": "Myre Blamish Snail (Pointed)"
+      }
+    },
+    {
+      "id": "3355-2634",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Blamish myre shell (pointed)",
+        "monster_name": "Myre Blamish Snail (Round)"
+      }
+    }
+  ]
+}

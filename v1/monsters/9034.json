@@ -1,0 +1,117 @@
+{
+  "data": {
+    "id": "9034",
+    "type": "monster",
+    "attributes": {
+      "uuid": "210b113b-1f04-43c9-b9a1-acca4caa3781",
+      "name": "Crystalline Dark Beast",
+      "members": true,
+      "release_date": "2019-07-25",
+      "examine": "It doesn't look so dark with all those crystals.",
+      "combat_level_override": 172,
+      "max_hit_override": null,
+      "target_types": [
+
+      ],
+      "classification_types": [
+
+      ],
+      "poison": false,
+      "immune_poison": false,
+      "immune_venom": false,
+      "slayer_xp": null,
+      "slayer_level": null,
+      "slayer_masters": [
+
+      ],
+      "icon_base64": null
+    },
+    "relationships": {
+      "combat_stat": {
+        "data": {
+          "id": "598519d3-b781-4ff9-ae58-cffb01894e6d",
+          "type": "combat_stat"
+        }
+      },
+      "equip_stat": {
+        "data": {
+          "id": "b7e7fd52-0191-4d39-ab75-86ee4da37a04",
+          "type": "equip_stat"
+        }
+      },
+      "attack_stat": {
+        "data": {
+          "id": "30355de8-3acd-4f93-a793-5685b537c014",
+          "type": "attack_stat"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Crystalline_Dark_Beast"
+    },
+    "meta": {
+      "incomplete": true
+    }
+  },
+  "included": [
+    {
+      "id": "30355de8-3acd-4f93-a793-5685b537c014",
+      "type": "attack_stat",
+      "attributes": {
+        "attack_speed": 4,
+        "attack_type": "monster",
+        "special": null,
+        "stances": [
+          {
+            "name": "Monster ranged",
+            "style": null,
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": null,
+            "combat_accuracy_stat": "ranged_level",
+            "combat_damage_stat": "ranged_level",
+            "equip_accuracy_stat": "ranged_attack",
+            "equip_damage_stat": "ranged_attack",
+            "target_equip_defense_stat": "ranged_defense"
+          }
+        ]
+      }
+    },
+    {
+      "id": "598519d3-b781-4ff9-ae58-cffb01894e6d",
+      "type": "monster_combat_stat",
+      "attributes": {
+        "hitpoints_level": 100,
+        "attack_level": 98,
+        "strength_level": 98,
+        "defense_level": 98,
+        "magic_level": 98,
+        "ranged_level": 98,
+        "prayer_level": 0
+      }
+    },
+    {
+      "id": "b7e7fd52-0191-4d39-ab75-86ee4da37a04",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 0,
+        "slash_attack": 0,
+        "crush_attack": 0,
+        "ranged_attack": 54,
+        "magic_attack": 0,
+        "stab_defense": 0,
+        "slash_defense": 0,
+        "crush_defense": 0,
+        "ranged_defense": 0,
+        "magic_defense": 0,
+        "melee_strength": 0,
+        "ranged_strength": 106,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

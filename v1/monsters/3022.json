@@ -1,0 +1,118 @@
+{
+  "data": {
+    "id": "3022",
+    "type": "monster",
+    "attributes": {
+      "uuid": "d18697b3-4741-4633-b5be-7311cbd2bb29",
+      "name": "Ice spider",
+      "members": true,
+      "release_date": "2002-02-27",
+      "examine": "I think this spider has been genetically modified.",
+      "combat_level_override": null,
+      "max_hit_override": null,
+      "target_types": [
+
+      ],
+      "classification_types": [
+        "spider"
+      ],
+      "poison": false,
+      "immune_poison": false,
+      "immune_venom": false,
+      "slayer_xp": 65.0,
+      "slayer_level": 1,
+      "slayer_masters": [
+        "turael",
+        "krystilia"
+      ],
+      "icon_base64": null
+    },
+    "relationships": {
+      "combat_stat": {
+        "data": {
+          "id": "7608f2ec-7280-4738-a1e3-c32a27e08019",
+          "type": "combat_stat"
+        }
+      },
+      "equip_stat": {
+        "data": {
+          "id": "0bc624fe-c65e-4496-86a5-af2708775b83",
+          "type": "equip_stat"
+        }
+      },
+      "attack_stat": {
+        "data": {
+          "id": "7a243a19-4040-4177-a4bc-ccc68a0b5603",
+          "type": "attack_stat"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Ice_spider"
+    },
+    "meta": {
+      "incomplete": true
+    }
+  },
+  "included": [
+    {
+      "id": "7a243a19-4040-4177-a4bc-ccc68a0b5603",
+      "type": "attack_stat",
+      "attributes": {
+        "attack_speed": 4,
+        "attack_type": "monster",
+        "special": null,
+        "stances": [
+          {
+            "name": "Monster crush",
+            "style": null,
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": null,
+            "combat_accuracy_stat": "attack_level",
+            "combat_damage_stat": "strength_level",
+            "equip_accuracy_stat": "crush_attack",
+            "equip_damage_stat": "crush_attack",
+            "target_equip_defense_stat": "crush_defense"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7608f2ec-7280-4738-a1e3-c32a27e08019",
+      "type": "monster_combat_stat",
+      "attributes": {
+        "hitpoints_level": 65,
+        "attack_level": 50,
+        "strength_level": 55,
+        "defense_level": 43,
+        "magic_level": 1,
+        "ranged_level": 1,
+        "prayer_level": 0
+      }
+    },
+    {
+      "id": "0bc624fe-c65e-4496-86a5-af2708775b83",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 0,
+        "slash_attack": 0,
+        "crush_attack": 0,
+        "ranged_attack": 0,
+        "magic_attack": 0,
+        "stab_defense": 20,
+        "slash_defense": 17,
+        "crush_defense": 12,
+        "ranged_defense": 13,
+        "magic_defense": 13,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

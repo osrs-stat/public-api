@@ -1,0 +1,75 @@
+{
+  "data": {
+    "id": "9295",
+    "type": "item",
+    "attributes": {
+      "uuid": "298c016b-7aa7-45f5-921f-35b91728e22d",
+      "name": "Steel bolts (Poison+)",
+      "members": true,
+      "release_date": "2006-07-31",
+      "examine": "Some poisoned steel bolts.",
+      "tradeable": false,
+      "ge_tradeable": false,
+      "lowalch": 3,
+      "highalch": 4,
+      "is_equip": true,
+      "is_weapon": false,
+      "icon_base64": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAA5klEQVR4Xu2WvQrCMBSFc9/ER3DwNQQnBzeLi1q12qqIP3Vp1UFb0EF08FGP3BYUnZzMGfJBCCTLx0luboxxOATfKxYR1IMaSKQEyWqJZqNRCFUrFZtSgluWYTrwXzLWhfI0RdDtMqSjCHabNfxOh0fosI3R8zwGIcE9zxHPZjz357zfI+z3GdJRyvtDk46W+zqKeNLRcm+3WjxC+jrTHNf1dGQpdUWQJQlLOop89K7v3T8jeDwuPJ1dZbRVhBPrj2Epo2MxDorZspCiv0HBfDRkETKmFCjTohB6Q1Pyb6hkHA7HDzwBMS6uk9jYDR4AAAAASUVORK5CYII="
+    },
+    "relationships": {
+      "equip": {
+        "data": {
+          "id": "e5822b15-f1bd-4a11-a61e-f0ba14306c53",
+          "type": "equip"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Steel_bolts#Poison+"
+    },
+    "meta": {
+      "incomplete": false
+    }
+  },
+  "included": [
+    {
+      "id": "e5822b15-f1bd-4a11-a61e-f0ba14306c53",
+      "type": "equip",
+      "attributes": {
+        "slot": "ammo",
+        "passive_effect": null,
+        "requirements": {
+          "ranged_level": 31
+        }
+      },
+      "relationships": {
+        "equip_stat": {
+          "data": {
+            "id": "1b3b3dc5-04e3-4720-879c-46fba8ec11d1",
+            "type": "equip_stat"
+          }
+        }
+      }
+    },
+    {
+      "id": "1b3b3dc5-04e3-4720-879c-46fba8ec11d1",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 0,
+        "slash_attack": 0,
+        "crush_attack": 0,
+        "ranged_attack": 0,
+        "magic_attack": 0,
+        "stab_defense": 0,
+        "slash_defense": 0,
+        "crush_defense": 0,
+        "ranged_defense": 0,
+        "magic_defense": 0,
+        "melee_strength": 0,
+        "ranged_strength": 64,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

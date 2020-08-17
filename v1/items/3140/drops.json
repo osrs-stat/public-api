@@ -1,0 +1,132 @@
+{
+  "data": [
+    {
+      "id": "3140-7404",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000030517578125"
+      },
+      "meta": {
+        "item_name": "Dragon chainbody",
+        "monster_name": "Choke devil"
+      }
+    },
+    {
+      "id": "3140-498",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000030517578125"
+      },
+      "meta": {
+        "item_name": "Dragon chainbody",
+        "monster_name": "Smoke devil"
+      }
+    },
+    {
+      "id": "3140-965",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Dragon chainbody",
+        "monster_name": "Kalphite Queen (Airborne)"
+      }
+    },
+    {
+      "id": "3140-963",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Dragon chainbody",
+        "monster_name": "Kalphite Queen (Crawling)"
+      }
+    },
+    {
+      "id": "3140-499",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0005"
+      },
+      "meta": {
+        "item_name": "Dragon chainbody",
+        "monster_name": "Thermonuclear smoke devil"
+      }
+    },
+    {
+      "id": "3140-423",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000030517578125"
+      },
+      "meta": {
+        "item_name": "Dragon chainbody",
+        "monster_name": "Dust devil (Level 93)"
+      }
+    },
+    {
+      "id": "3140-7249",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000030517578125"
+      },
+      "meta": {
+        "item_name": "Dragon chainbody",
+        "monster_name": "Dust devil (Level 110)"
+      }
+    },
+    {
+      "id": "3140-7406",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000030517578125"
+      },
+      "meta": {
+        "item_name": "Dragon chainbody",
+        "monster_name": "Nuclear smoke devil"
+      }
+    }
+  ]
+}

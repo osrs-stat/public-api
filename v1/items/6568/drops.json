@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "6568-2173",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.001953125"
+      },
+      "meta": {
+        "item_name": "Obsidian cape",
+        "monster_name": "TzHaar-Ket (Level 149)"
+      }
+    },
+    {
+      "id": "6568-2167",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.001953125"
+      },
+      "meta": {
+        "item_name": "Obsidian cape",
+        "monster_name": "TzHaar-Xil"
+      }
+    },
+    {
+      "id": "6568-2154",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000244140625"
+      },
+      "meta": {
+        "item_name": "Obsidian cape",
+        "monster_name": "TzHaar-Mej (monster)"
+      }
+    },
+    {
+      "id": "6568-7679",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.001953125"
+      },
+      "meta": {
+        "item_name": "Obsidian cape",
+        "monster_name": "TzHaar-Ket (Level 221)"
+      }
+    }
+  ]
+}

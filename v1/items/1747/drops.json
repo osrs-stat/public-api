@@ -1,0 +1,340 @@
+{
+  "data": [
+    {
+      "id": "1747-7935",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 10,
+        "quantity_max": 15,
+        "rarity": "0.0292298175069595"
+      },
+      "meta": {
+        "item_name": "Black dragonhide",
+        "monster_name": "Revenant hellhound"
+      }
+    },
+    {
+      "id": "1747-7934",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 10,
+        "quantity_max": 15,
+        "rarity": "0.0264460253634395"
+      },
+      "meta": {
+        "item_name": "Black dragonhide",
+        "monster_name": "Revenant cyclops"
+      }
+    },
+    {
+      "id": "1747-7806",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 8,
+        "quantity_max": null,
+        "rarity": "0.046875"
+      },
+      "meta": {
+        "item_name": "Black dragonhide",
+        "monster_name": "Deranged archaeologist"
+      }
+    },
+    {
+      "id": "1747-239",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Black dragonhide",
+        "monster_name": "King Black Dragon"
+      }
+    },
+    {
+      "id": "1747-252",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Black dragonhide",
+        "monster_name": "Black dragon (Level 227)"
+      }
+    },
+    {
+      "id": "1747-252",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Black dragonhide",
+        "monster_name": "Black dragon (Level 227)"
+      }
+    },
+    {
+      "id": "1747-6593",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Black dragonhide",
+        "monster_name": "Lava dragon"
+      }
+    },
+    {
+      "id": "1747-8061",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 15,
+        "quantity_max": 25,
+        "rarity": "0.0466666666666667"
+      },
+      "meta": {
+        "item_name": "Black dragonhide",
+        "monster_name": "Vorkath (Post-quest)"
+      }
+    },
+    {
+      "id": "1747-8060",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 15,
+        "quantity_max": 25,
+        "rarity": "0.0466666666666667"
+      },
+      "meta": {
+        "item_name": "Black dragonhide",
+        "monster_name": "Vorkath (Dragon Slayer II)"
+      }
+    },
+    {
+      "id": "1747-7940",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 10,
+        "quantity_max": 15,
+        "rarity": "0.0563207547169811"
+      },
+      "meta": {
+        "item_name": "Black dragonhide",
+        "monster_name": "Revenant dragon"
+      }
+    },
+    {
+      "id": "1747-7275",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Black dragonhide",
+        "monster_name": "Brutal black dragon"
+      }
+    },
+    {
+      "id": "1747-7933",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 10,
+        "quantity_max": 15,
+        "rarity": "0.0155029443576493"
+      },
+      "meta": {
+        "item_name": "Black dragonhide",
+        "monster_name": "Revenant hobgoblin"
+      }
+    },
+    {
+      "id": "1747-7931",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 10,
+        "quantity_max": 15,
+        "rarity": "0.00324332672655667"
+      },
+      "meta": {
+        "item_name": "Black dragonhide",
+        "monster_name": "Revenant goblin"
+      }
+    },
+    {
+      "id": "1747-7881",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 10,
+        "quantity_max": 15,
+        "rarity": "0.001852487135506"
+      },
+      "meta": {
+        "item_name": "Black dragonhide",
+        "monster_name": "Revenant imp"
+      }
+    },
+    {
+      "id": "1747-7932",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 10,
+        "quantity_max": 15,
+        "rarity": "0.0137002764090854"
+      },
+      "meta": {
+        "item_name": "Black dragonhide",
+        "monster_name": "Revenant pyrefiend"
+      }
+    },
+    {
+      "id": "1747-7861",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Black dragonhide",
+        "monster_name": "Black dragon (Level 247)"
+      }
+    },
+    {
+      "id": "1747-7861",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Black dragonhide",
+        "monster_name": "Black dragon (Level 247)"
+      }
+    },
+    {
+      "id": "1747-7939",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 10,
+        "quantity_max": 15,
+        "rarity": "0.0526415094339623"
+      },
+      "meta": {
+        "item_name": "Black dragonhide",
+        "monster_name": "Revenant knight"
+      }
+    },
+    {
+      "id": "1747-7937",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 10,
+        "quantity_max": 15,
+        "rarity": "0.0385934819897084"
+      },
+      "meta": {
+        "item_name": "Black dragonhide",
+        "monster_name": "Revenant ork"
+      }
+    },
+    {
+      "id": "1747-7938",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 10,
+        "quantity_max": 15,
+        "rarity": "0.0452830188679245"
+      },
+      "meta": {
+        "item_name": "Black dragonhide",
+        "monster_name": "Revenant dark beast"
+      }
+    },
+    {
+      "id": "1747-7936",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 10,
+        "quantity_max": 15,
+        "rarity": "0.0320136096504794"
+      },
+      "meta": {
+        "item_name": "Black dragonhide",
+        "monster_name": "Revenant demon"
+      }
+    }
+  ]
+}

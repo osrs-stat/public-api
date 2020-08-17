@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "id": "3192-1834",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Iron halberd",
+        "monster_name": "Gorak (Level 145)"
+      }
+    },
+    {
+      "id": "3192-3141",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Iron halberd",
+        "monster_name": "Gorak (Level 149)"
+      }
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "6032-6898",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 45,
+        "quantity_max": 80,
+        "rarity": "0.125"
+      },
+      "meta": {
+        "item_name": "Compost",
+        "monster_name": "Gangster (Level 50)"
+      }
+    },
+    {
+      "id": "6032-6896",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 45,
+        "quantity_max": 80,
+        "rarity": "0.125"
+      },
+      "meta": {
+        "item_name": "Compost",
+        "monster_name": "Gangster (Level 45)"
+      }
+    },
+    {
+      "id": "6032-6900",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 60,
+        "quantity_max": 80,
+        "rarity": "0.125"
+      },
+      "meta": {
+        "item_name": "Compost",
+        "monster_name": "Gang boss (Female)"
+      }
+    },
+    {
+      "id": "6032-6902",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 60,
+        "quantity_max": 80,
+        "rarity": "0.125"
+      },
+      "meta": {
+        "item_name": "Compost",
+        "monster_name": "Gang boss (Male)"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "data": {
+    "id": "66",
+    "type": "item",
+    "attributes": {
+      "uuid": "508912ea-930e-404f-90a4-37d2f2e97a64",
+      "name": "Yew longbow (u)",
+      "members": true,
+      "release_date": "2002-03-25",
+      "examine": "An unstrung yew longbow; I need a bowstring for this.",
+      "tradeable": false,
+      "ge_tradeable": false,
+      "lowalch": 256,
+      "highalch": 384,
+      "is_equip": false,
+      "is_weapon": false,
+      "icon_base64": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABBUlEQVR4XtWXsQrCUAxF+8YOHToIjv0EP8XNoauLToIgCoKCioJQFCkIBQdFKCiI4OTiJPhXkRgetQ/3XM9Wsxxu0qR6XglD5WdVDJ3SCokUjJihcSegfAMlJiLrUYgjVouij0Sz4WOJWYl+O/ghpiRn03LF7gcrp8S32LRbDL78roqhViyzBSLESPtuO+W2FRiK6z5tZ4ApvS5VlJQYWaDPM5jUchDSIweTmvcC/d1URtYB0JvHyOK8ZmBSyRBsHXDrgIQYQ8cVWNv4AMOltE9kltyKEoayBdhw862zUm5VCUPpBCwlPr5Wyq0qIVJQKfHXgJVyq0rIjeOEQFKSfy0wMn/NGxgNwhqYlhmeAAAAAElFTkSuQmCC"
+    },
+    "relationships": {
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Yew_longbow_(u)"
+    },
+    "meta": {
+      "incomplete": false
+    }
+  },
+  "included": [
+
+  ]
+}

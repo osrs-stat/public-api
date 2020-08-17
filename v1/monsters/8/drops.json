@@ -1,0 +1,580 @@
+{
+  "data": [
+    {
+      "id": "995-8",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1500,
+        "quantity_max": 2000,
+        "rarity": "0.0905172413793103"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Nechryael"
+      }
+    },
+    {
+      "id": "995-8",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5000,
+        "quantity_max": null,
+        "rarity": "0.00862068965517241"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Nechryael"
+      }
+    },
+    {
+      "id": "995-8",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 500,
+        "quantity_max": 999,
+        "rarity": "0.021551724137931"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Nechryael"
+      }
+    },
+    {
+      "id": "995-8",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2500,
+        "quantity_max": 2999,
+        "rarity": "0.0517241379310345"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Nechryael"
+      }
+    },
+    {
+      "id": "995-8",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 3000,
+        "quantity_max": 3500,
+        "rarity": "0.0258620689655172"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Nechryael"
+      }
+    },
+    {
+      "id": "995-8",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1000,
+        "quantity_max": 1499,
+        "rarity": "0.112068965517241"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Nechryael"
+      }
+    },
+    {
+      "id": "560-8",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.0517241379310345"
+      },
+      "meta": {
+        "item_name": "Death rune (Regular)",
+        "monster_name": "Nechryael"
+      }
+    },
+    {
+      "id": "5280-8",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0136957117204857"
+      },
+      "meta": {
+        "item_name": "Cactus seed",
+        "monster_name": "Nechryael"
+      }
+    },
+    {
+      "id": "5304-8",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00130396986380759"
+      },
+      "meta": {
+        "item_name": "Torstol seed",
+        "monster_name": "Nechryael"
+      }
+    },
+    {
+      "id": "5299-8",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00977771983573431"
+      },
+      "meta": {
+        "item_name": "Kwuarm seed",
+        "monster_name": "Nechryael"
+      }
+    },
+    {
+      "id": "560-8",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.0517241379310345"
+      },
+      "meta": {
+        "item_name": "Death rune (Regular)",
+        "monster_name": "Nechryael"
+      }
+    },
+    {
+      "id": "5303-8",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00195603698213921"
+      },
+      "meta": {
+        "item_name": "Dwarf weed seed",
+        "monster_name": "Nechryael"
+      }
+    },
+    {
+      "id": "22873-8",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00977771983573431"
+      },
+      "meta": {
+        "item_name": "Potato cactus seed",
+        "monster_name": "Nechryael"
+      }
+    },
+    {
+      "id": "5300-8",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00651984931903796"
+      },
+      "meta": {
+        "item_name": "Snapdragon seed",
+        "monster_name": "Nechryael"
+      }
+    },
+    {
+      "id": "5301-8",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00456389452332657"
+      },
+      "meta": {
+        "item_name": "Cadantine seed",
+        "monster_name": "Nechryael"
+      }
+    },
+    {
+      "id": "5100-8",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0517241379310345"
+      },
+      "meta": {
+        "item_name": "Limpwurt seed",
+        "monster_name": "Nechryael"
+      }
+    },
+    {
+      "id": "5302-8",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00325992465951898"
+      },
+      "meta": {
+        "item_name": "Lantadyme seed",
+        "monster_name": "Nechryael"
+      }
+    },
+    {
+      "id": "563-8",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 25,
+        "quantity_max": 35,
+        "rarity": "0.0431034482758621"
+      },
+      "meta": {
+        "item_name": "Law rune",
+        "monster_name": "Nechryael"
+      }
+    },
+    {
+      "id": "565-8",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 15,
+        "quantity_max": 20,
+        "rarity": "0.0344827586206897"
+      },
+      "meta": {
+        "item_name": "Blood rune (Regular)",
+        "monster_name": "Nechryael"
+      }
+    },
+    {
+      "id": "1761-8",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 25,
+        "quantity_max": null,
+        "rarity": "0.0344827586206897"
+      },
+      "meta": {
+        "item_name": "Soft clay",
+        "monster_name": "Nechryael"
+      }
+    },
+    {
+      "id": "361-8",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0258620689655172"
+      },
+      "meta": {
+        "item_name": "Tuna",
+        "monster_name": "Nechryael"
+      }
+    },
+    {
+      "id": "22879-8",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.00260793972761518"
+      },
+      "meta": {
+        "item_name": "Snape grass seed",
+        "monster_name": "Nechryael"
+      }
+    },
+    {
+      "id": "23083-8",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0128865979381443"
+      },
+      "meta": {
+        "item_name": "Brimstone key",
+        "monster_name": "Nechryael"
+      }
+    },
+    {
+      "id": "2722-8",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Clue scroll (hard)",
+        "monster_name": "Nechryael"
+      }
+    },
+    {
+      "id": "5296-8",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0306422618074849"
+      },
+      "meta": {
+        "item_name": "Toadflax seed",
+        "monster_name": "Nechryael"
+      }
+    },
+    {
+      "id": "5297-8",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0208621153257735"
+      },
+      "meta": {
+        "item_name": "Irit seed",
+        "monster_name": "Nechryael"
+      }
+    },
+    {
+      "id": "5281-8",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0202126369406153"
+      },
+      "meta": {
+        "item_name": "Belladonna seed",
+        "monster_name": "Nechryael"
+      }
+    },
+    {
+      "id": "5298-8",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0143412582063866"
+      },
+      "meta": {
+        "item_name": "Avantoe seed",
+        "monster_name": "Nechryael"
+      }
+    },
+    {
+      "id": "5106-8",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0143412582063866"
+      },
+      "meta": {
+        "item_name": "Poison ivy seed",
+        "monster_name": "Nechryael"
+      }
+    },
+    {
+      "id": "592-8",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Ashes",
+        "monster_name": "Nechryael"
+      }
+    },
+    {
+      "id": "1073-8",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0344827586206897"
+      },
+      "meta": {
+        "item_name": "Adamant platelegs",
+        "monster_name": "Nechryael"
+      }
+    },
+    {
+      "id": "1319-8",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0344827586206897"
+      },
+      "meta": {
+        "item_name": "Rune 2h sword",
+        "monster_name": "Nechryael"
+      }
+    },
+    {
+      "id": "1163-8",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0258620689655172"
+      },
+      "meta": {
+        "item_name": "Rune full helm",
+        "monster_name": "Nechryael"
+      }
+    },
+    {
+      "id": "1199-8",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0172413793103448"
+      },
+      "meta": {
+        "item_name": "Adamant kiteshield",
+        "monster_name": "Nechryael"
+      }
+    },
+    {
+      "id": "4131-8",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00862068965517241"
+      },
+      "meta": {
+        "item_name": "Rune boots",
+        "monster_name": "Nechryael"
+      }
+    },
+    {
+      "id": "562-8",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 37,
+        "quantity_max": null,
+        "rarity": "0.0689655172413793"
+      },
+      "meta": {
+        "item_name": "Chaos rune (Regular)",
+        "monster_name": "Nechryael"
+      }
+    }
+  ]
+}

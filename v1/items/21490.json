@@ -1,0 +1,31 @@
+{
+  "data": {
+    "id": "21490",
+    "type": "item",
+    "attributes": {
+      "uuid": "765f348c-168a-49b2-a6f3-8e0f5982dcfd",
+      "name": "Seaweed spore",
+      "members": true,
+      "release_date": "2017-09-07",
+      "examine": "A seaweed spore - plant in a seaweed patch.",
+      "tradeable": false,
+      "ge_tradeable": false,
+      "lowalch": 8,
+      "highalch": 12,
+      "is_equip": false,
+      "is_weapon": false,
+      "icon_base64": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAAfklEQVR4XmNgGAWjYBSMglEwCkbBYAKM/1HxgALG/61HJv93SvL8bxXm8N/Aw3SgHcX4f9Lp+f+j21P/h9bG/vfKCwI7yEBBYaAcxfh/4cU1/wuX1/5Pn1X8P6E/e6AdBAKoaQjkmAF2EAMDzBGDwjGjYBSMglEwCkbBKMAEADHRNbCBbGqKAAAAAElFTkSuQmCC"
+    },
+    "relationships": {
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Seaweed_spore"
+    },
+    "meta": {
+      "incomplete": false
+    }
+  },
+  "included": [
+
+  ]
+}

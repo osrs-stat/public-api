@@ -1,0 +1,20 @@
+{
+  "data": [
+    {
+      "id": "9380-8030",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 20,
+        "quantity_max": 40,
+        "rarity": "0.1"
+      },
+      "meta": {
+        "item_name": "Adamant bolts(unf)",
+        "monster_name": "Adamant dragon"
+      }
+    }
+  ]
+}

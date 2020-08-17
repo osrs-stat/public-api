@@ -1,0 +1,73 @@
+{
+  "data": {
+    "id": "2912",
+    "type": "item",
+    "attributes": {
+      "uuid": "6dc11937-d932-4ee1-a1e9-9fd07499f8fc",
+      "name": "Red gloves",
+      "members": false,
+      "release_date": "2004-06-29",
+      "examine": "These will keep my hands warm!",
+      "tradeable": false,
+      "ge_tradeable": false,
+      "lowalch": 200,
+      "highalch": 300,
+      "is_equip": true,
+      "is_weapon": false,
+      "icon_base64": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABrUlEQVR4Xu2VIU8EMRCFW7liBeISDMkpJMHgUCgEBoPBIDAIEgSCf1/6Onnp7LR7bIHtmn3Jy15ub2++e52Zc27XLsiH7M3lw/thDB/nY/iM3hjOh9fDkPwWDSjtDaAyEKGQFo3718djTygfXs6GZA2l3TmlDKStU4M7QvnwHAGsAWEhO0EJ0JMx3iMIXrOXOvSTTwCPFRNGA9mn/1kZ5mEszaQ6pTOFua8Y7/8hndbN6lPRu9GFm8GlqzXuA7gRSECw8r+KtT9nee42guB6Fa94ra2hGoBkQmrLTJsjjM/yF/N5GAnRNbCFQD6dMQqgF+zO4ELjSLNXOEGEkkKSkgbTgIuB2HgswqngDmEi7AU2KAvkIj5cOpegtAm1GAj0eiI4qgTDVU8Nd0u9gEDRFi4f86zk7HUD6skAjB5n3CPwHNBFBIE1GFwmOqsMZRvR7hcLW//Fdhprx3tS0ow1A4zHSCCmNO2nqVjc2n7uhKZnr617rJbSiv/gZcww+oFbuJZS43G0yUYsRaZQtvEJZL9rZQkU+4pQq6bzszIU09ooHa1fj/J6KntsVx99A29yE/qsEwoAAAAAAElFTkSuQmCC"
+    },
+    "relationships": {
+      "equip": {
+        "data": {
+          "id": "0f19e71a-7bdb-4e2e-b76c-3dc435e27220",
+          "type": "equip"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Red_gloves"
+    },
+    "meta": {
+      "incomplete": false
+    }
+  },
+  "included": [
+    {
+      "id": "0f19e71a-7bdb-4e2e-b76c-3dc435e27220",
+      "type": "equip",
+      "attributes": {
+        "slot": "gloves",
+        "passive_effect": null,
+        "requirements": null
+      },
+      "relationships": {
+        "equip_stat": {
+          "data": {
+            "id": "f8b4f4d6-4f2c-418e-8786-ef9014816d48",
+            "type": "equip_stat"
+          }
+        }
+      }
+    },
+    {
+      "id": "f8b4f4d6-4f2c-418e-8786-ef9014816d48",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 0,
+        "slash_attack": 0,
+        "crush_attack": 0,
+        "ranged_attack": 0,
+        "magic_attack": 0,
+        "stab_defense": 0,
+        "slash_defense": 1,
+        "crush_defense": 2,
+        "ranged_defense": 0,
+        "magic_defense": 0,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

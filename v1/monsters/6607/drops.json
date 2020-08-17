@@ -1,0 +1,596 @@
+{
+  "data": [
+    {
+      "id": "23490-6607",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0111111111111111"
+      },
+      "meta": {
+        "item_name": "Larran's key",
+        "monster_name": "Elder Chaos druid"
+      }
+    },
+    {
+      "id": "995-6607",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 250,
+        "quantity_max": null,
+        "rarity": "0.0465116279069767"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Elder Chaos druid"
+      }
+    },
+    {
+      "id": "995-6607",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 80,
+        "quantity_max": null,
+        "rarity": "0.0542635658914729"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Elder Chaos druid"
+      }
+    },
+    {
+      "id": "2485-6607",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 4,
+        "rarity": "0.00999195193689446"
+      },
+      "meta": {
+        "item_name": "Grimy lantadyme",
+        "monster_name": "Elder Chaos druid"
+      }
+    },
+    {
+      "id": "217-6607",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 4,
+        "rarity": "0.00999195193689446"
+      },
+      "meta": {
+        "item_name": "Grimy dwarf weed",
+        "monster_name": "Elder Chaos druid"
+      }
+    },
+    {
+      "id": "21257-6607",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.005"
+      },
+      "meta": {
+        "item_name": "Slayer's enchantment",
+        "monster_name": "Elder Chaos druid"
+      }
+    },
+    {
+      "id": "526-6607",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Bones",
+        "monster_name": "Elder Chaos druid"
+      }
+    },
+    {
+      "id": "1035-6607",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00281888653981677"
+      },
+      "meta": {
+        "item_name": "Zamorak monk top",
+        "monster_name": "Elder Chaos druid"
+      }
+    },
+    {
+      "id": "1033-6607",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00281888653981677"
+      },
+      "meta": {
+        "item_name": "Zamorak monk bottom",
+        "monster_name": "Elder Chaos druid"
+      }
+    },
+    {
+      "id": "20595-6607",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000704721634954193"
+      },
+      "meta": {
+        "item_name": "Elder chaos hood",
+        "monster_name": "Elder Chaos druid"
+      }
+    },
+    {
+      "id": "20520-6607",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000704721634954193"
+      },
+      "meta": {
+        "item_name": "Elder chaos robe",
+        "monster_name": "Elder Chaos druid"
+      }
+    },
+    {
+      "id": "20517-6607",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000704721634954193"
+      },
+      "meta": {
+        "item_name": "Elder chaos top",
+        "monster_name": "Elder Chaos druid"
+      }
+    },
+    {
+      "id": "9142-6607",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 8,
+        "quantity_max": 28,
+        "rarity": "0.0465116279069767"
+      },
+      "meta": {
+        "item_name": "Mithril bolts (Unpoisoned)",
+        "monster_name": "Elder Chaos druid"
+      }
+    },
+    {
+      "id": "563-6607",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 6,
+        "quantity_max": null,
+        "rarity": "0.0542635658914729"
+      },
+      "meta": {
+        "item_name": "Law rune",
+        "monster_name": "Elder Chaos druid"
+      }
+    },
+    {
+      "id": "556-6607",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 56,
+        "quantity_max": null,
+        "rarity": "0.0387596899224806"
+      },
+      "meta": {
+        "item_name": "Air rune (Regular)",
+        "monster_name": "Elder Chaos druid"
+      }
+    },
+    {
+      "id": "559-6607",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 19,
+        "quantity_max": null,
+        "rarity": "0.0387596899224806"
+      },
+      "meta": {
+        "item_name": "Body rune",
+        "monster_name": "Elder Chaos druid"
+      }
+    },
+    {
+      "id": "562-6607",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 7,
+        "quantity_max": null,
+        "rarity": "0.0387596899224806"
+      },
+      "meta": {
+        "item_name": "Chaos rune (Regular)",
+        "monster_name": "Elder Chaos druid"
+      }
+    },
+    {
+      "id": "557-6607",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 19,
+        "quantity_max": null,
+        "rarity": "0.0387596899224806"
+      },
+      "meta": {
+        "item_name": "Earth rune (Regular)",
+        "monster_name": "Elder Chaos druid"
+      }
+    },
+    {
+      "id": "558-6607",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 22,
+        "quantity_max": null,
+        "rarity": "0.0387596899224806"
+      },
+      "meta": {
+        "item_name": "Mind rune",
+        "monster_name": "Elder Chaos druid"
+      }
+    },
+    {
+      "id": "561-6607",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 12,
+        "quantity_max": null,
+        "rarity": "0.00775193798449612"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Elder Chaos druid"
+      }
+    },
+    {
+      "id": "227-6607",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 4,
+        "quantity_max": null,
+        "rarity": "0.0775193798449612"
+      },
+      "meta": {
+        "item_name": "Vial of water",
+        "monster_name": "Elder Chaos druid"
+      }
+    },
+    {
+      "id": "1295-6607",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0387596899224806"
+      },
+      "meta": {
+        "item_name": "Steel longsword",
+        "monster_name": "Elder Chaos druid"
+      }
+    },
+    {
+      "id": "11940-6607",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": 24,
+        "rarity": "0.0155038759689922"
+      },
+      "meta": {
+        "item_name": "Dark fishing bait",
+        "monster_name": "Elder Chaos druid"
+      }
+    },
+    {
+      "id": "231-6607",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 4,
+        "quantity_max": null,
+        "rarity": "0.00775193798449612"
+      },
+      "meta": {
+        "item_name": "Snape grass",
+        "monster_name": "Elder Chaos druid"
+      }
+    },
+    {
+      "id": "1594-6607",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00775193798449612"
+      },
+      "meta": {
+        "item_name": "Unholy mould",
+        "monster_name": "Elder Chaos druid"
+      }
+    },
+    {
+      "id": "13471-6607",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.05"
+      },
+      "meta": {
+        "item_name": "Ensouled chaos druid head (Drop)",
+        "monster_name": "Elder Chaos druid"
+      }
+    },
+    {
+      "id": "11941-6607",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Elder Chaos druid"
+      }
+    },
+    {
+      "id": "2722-6607",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Clue scroll (hard)",
+        "monster_name": "Elder Chaos druid"
+      }
+    },
+    {
+      "id": "199-6607",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 4,
+        "rarity": "0.106589147286822"
+      },
+      "meta": {
+        "item_name": "Grimy guam leaf",
+        "monster_name": "Elder Chaos druid"
+      }
+    },
+    {
+      "id": "201-6607",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 4,
+        "rarity": "0.0799468571436878"
+      },
+      "meta": {
+        "item_name": "Grimy marrentill",
+        "monster_name": "Elder Chaos druid"
+      }
+    },
+    {
+      "id": "203-6607",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 4,
+        "rarity": "0.0599573321821526"
+      },
+      "meta": {
+        "item_name": "Grimy tarromin",
+        "monster_name": "Elder Chaos druid"
+      }
+    },
+    {
+      "id": "205-6607",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 4,
+        "rarity": "0.0466320233126202"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Elder Chaos druid"
+      }
+    },
+    {
+      "id": "207-6607",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 4,
+        "rarity": "0.0366285729507978"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Elder Chaos druid"
+      }
+    },
+    {
+      "id": "209-6607",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 4,
+        "rarity": "0.0266472868217054"
+      },
+      "meta": {
+        "item_name": "Grimy irit leaf",
+        "monster_name": "Elder Chaos druid"
+      }
+    },
+    {
+      "id": "211-6607",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 4,
+        "rarity": "0.0199885883332061"
+      },
+      "meta": {
+        "item_name": "Grimy avantoe",
+        "monster_name": "Elder Chaos druid"
+      }
+    },
+    {
+      "id": "213-6607",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 4,
+        "rarity": "0.0166545542635659"
+      },
+      "meta": {
+        "item_name": "Grimy kwuarm",
+        "monster_name": "Elder Chaos druid"
+      }
+    },
+    {
+      "id": "215-6607",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 4,
+        "rarity": "0.0133236434108527"
+      },
+      "meta": {
+        "item_name": "Grimy cadantine",
+        "monster_name": "Elder Chaos druid"
+      }
+    }
+  ]
+}

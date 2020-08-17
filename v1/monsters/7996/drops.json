@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "id": "526-7996",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Bones",
+        "monster_name": "Corrupt Lizardman (Hard)"
+      }
+    },
+    {
+      "id": "13383-7996",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Xerician fabric",
+        "monster_name": "Corrupt Lizardman (Hard)"
+      }
+    }
+  ]
+}

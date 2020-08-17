@@ -1,0 +1,118 @@
+{
+  "data": {
+    "id": "2999",
+    "type": "monster",
+    "attributes": {
+      "uuid": "8a9ac546-2a12-4821-b6c5-b668d23fb52b",
+      "name": "Tortured soul",
+      "members": true,
+      "release_date": "2005-02-15",
+      "examine": "This poor soul cannot understand why it has not passed to the next world.",
+      "combat_level_override": null,
+      "max_hit_override": null,
+      "target_types": [
+        "undead"
+      ],
+      "classification_types": [
+        "ghost"
+      ],
+      "poison": false,
+      "immune_poison": false,
+      "immune_venom": false,
+      "slayer_xp": 51.0,
+      "slayer_level": 1,
+      "slayer_masters": [
+        "turael",
+        "mazchna"
+      ],
+      "icon_base64": null
+    },
+    "relationships": {
+      "combat_stat": {
+        "data": {
+          "id": "9c4e160e-9c15-438c-88f6-c8997b327732",
+          "type": "combat_stat"
+        }
+      },
+      "equip_stat": {
+        "data": {
+          "id": "6b0eccaf-bf0d-4210-8b3b-44755ac757c9",
+          "type": "equip_stat"
+        }
+      },
+      "attack_stat": {
+        "data": {
+          "id": "47325322-fb23-416d-a989-c42ab34e0a50",
+          "type": "attack_stat"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Tortured_soul"
+    },
+    "meta": {
+      "incomplete": true
+    }
+  },
+  "included": [
+    {
+      "id": "47325322-fb23-416d-a989-c42ab34e0a50",
+      "type": "attack_stat",
+      "attributes": {
+        "attack_speed": 4,
+        "attack_type": "monster",
+        "special": null,
+        "stances": [
+          {
+            "name": "Monster crush",
+            "style": null,
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": null,
+            "combat_accuracy_stat": "attack_level",
+            "combat_damage_stat": "strength_level",
+            "equip_accuracy_stat": "crush_attack",
+            "equip_damage_stat": "crush_attack",
+            "target_equip_defense_stat": "crush_defense"
+          }
+        ]
+      }
+    },
+    {
+      "id": "9c4e160e-9c15-438c-88f6-c8997b327732",
+      "type": "monster_combat_stat",
+      "attributes": {
+        "hitpoints_level": 51,
+        "attack_level": 52,
+        "strength_level": 62,
+        "defense_level": 38,
+        "magic_level": 1,
+        "ranged_level": 1,
+        "prayer_level": 0
+      }
+    },
+    {
+      "id": "6b0eccaf-bf0d-4210-8b3b-44755ac757c9",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 0,
+        "slash_attack": 0,
+        "crush_attack": 0,
+        "ranged_attack": 0,
+        "magic_attack": 0,
+        "stab_defense": 0,
+        "slash_defense": 0,
+        "crush_defense": 0,
+        "ranged_defense": 0,
+        "magic_defense": 0,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

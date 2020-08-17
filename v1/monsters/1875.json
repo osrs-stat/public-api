@@ -1,0 +1,120 @@
+{
+  "data": {
+    "id": "1875",
+    "type": "monster",
+    "attributes": {
+      "uuid": "3576a749-2a1c-4818-9379-506268f8dad9",
+      "name": "Ice troll male",
+      "members": true,
+      "release_date": "2007-02-06",
+      "examine": "A male troll wielding a large club.",
+      "combat_level_override": null,
+      "max_hit_override": null,
+      "target_types": [
+
+      ],
+      "classification_types": [
+        "troll"
+      ],
+      "poison": false,
+      "immune_poison": false,
+      "immune_venom": false,
+      "slayer_xp": 84.0,
+      "slayer_level": 1,
+      "slayer_masters": [
+        "vannaka",
+        "chaeldar",
+        "nieve",
+        "duradel"
+      ],
+      "icon_base64": null
+    },
+    "relationships": {
+      "combat_stat": {
+        "data": {
+          "id": "1bc3961f-4855-4a4c-acea-169baa9ba319",
+          "type": "combat_stat"
+        }
+      },
+      "equip_stat": {
+        "data": {
+          "id": "43f1f9f7-2738-421e-bb4d-5fbbf32c884f",
+          "type": "equip_stat"
+        }
+      },
+      "attack_stat": {
+        "data": {
+          "id": "89a66895-3962-45db-85ee-712d2dc14902",
+          "type": "attack_stat"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Ice_troll_male"
+    },
+    "meta": {
+      "incomplete": true
+    }
+  },
+  "included": [
+    {
+      "id": "89a66895-3962-45db-85ee-712d2dc14902",
+      "type": "attack_stat",
+      "attributes": {
+        "attack_speed": 4,
+        "attack_type": "monster",
+        "special": null,
+        "stances": [
+          {
+            "name": "Monster crush",
+            "style": null,
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": null,
+            "combat_accuracy_stat": "attack_level",
+            "combat_damage_stat": "strength_level",
+            "equip_accuracy_stat": "crush_attack",
+            "equip_damage_stat": "crush_attack",
+            "target_equip_defense_stat": "crush_defense"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1bc3961f-4855-4a4c-acea-169baa9ba319",
+      "type": "monster_combat_stat",
+      "attributes": {
+        "hitpoints_level": 80,
+        "attack_level": 80,
+        "strength_level": 80,
+        "defense_level": 40,
+        "magic_level": 1,
+        "ranged_level": 1,
+        "prayer_level": 0
+      }
+    },
+    {
+      "id": "43f1f9f7-2738-421e-bb4d-5fbbf32c884f",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 60,
+        "slash_attack": 60,
+        "crush_attack": 60,
+        "ranged_attack": 0,
+        "magic_attack": 0,
+        "stab_defense": 30,
+        "slash_defense": 60,
+        "crush_defense": 30,
+        "ranged_defense": 0,
+        "magic_defense": 0,
+        "melee_strength": 60,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

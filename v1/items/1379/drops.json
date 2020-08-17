@@ -1,0 +1,516 @@
+{
+  "data": [
+    {
+      "id": "1379-443",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0625"
+      },
+      "meta": {
+        "item_name": "Staff",
+        "monster_name": "Infernal Mage"
+      }
+    },
+    {
+      "id": "1379-7396",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0625"
+      },
+      "meta": {
+        "item_name": "Staff",
+        "monster_name": "Malevolent Mage"
+      }
+    },
+    {
+      "id": "1379-3262",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Staff",
+        "monster_name": "Barbarian (Level 8)"
+      }
+    },
+    {
+      "id": "1379-3257",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0625"
+      },
+      "meta": {
+        "item_name": "Staff",
+        "monster_name": "Wizard"
+      }
+    },
+    {
+      "id": "1379-3072",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Staff",
+        "monster_name": "Barbarian (Level 9 (Sieglinde))"
+      }
+    },
+    {
+      "id": "1379-3071",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Staff",
+        "monster_name": "Barbarian (Level 10 (Edelschwarz))"
+      }
+    },
+    {
+      "id": "1379-3070",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Staff",
+        "monster_name": "Barbarian (Level 10 (Gutrune))"
+      }
+    },
+    {
+      "id": "1379-3069",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Staff",
+        "monster_name": "Barbarian (Level 17 (Brunnhilde))"
+      }
+    },
+    {
+      "id": "1379-3068",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Staff",
+        "monster_name": "Barbarian (Level 15 (Aitan))"
+      }
+    },
+    {
+      "id": "1379-3067",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Staff",
+        "monster_name": "Barbarian (Level 10 (Adolpho))"
+      }
+    },
+    {
+      "id": "1379-3066",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Staff",
+        "monster_name": "Barbarian (Level 10 (Adelino))"
+      }
+    },
+    {
+      "id": "1379-3065",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Staff",
+        "monster_name": "Barbarian (Level 10 (Acelin))"
+      }
+    },
+    {
+      "id": "1379-3064",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Staff",
+        "monster_name": "Barbarian (Level 10 (Wotan))"
+      }
+    },
+    {
+      "id": "1379-3062",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Staff",
+        "monster_name": "Barbarian (Level 17 (Minarch))"
+      }
+    },
+    {
+      "id": "1379-3061",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Staff",
+        "monster_name": "Barbarian (Level 10 (Hagen))"
+      }
+    },
+    {
+      "id": "1379-3060",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Staff",
+        "monster_name": "Barbarian (Level 10 (Lydspor))"
+      }
+    },
+    {
+      "id": "1379-3059",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Staff",
+        "monster_name": "Barbarian (Level 10 (Siegfried))"
+      }
+    },
+    {
+      "id": "1379-3058",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Staff",
+        "monster_name": "Barbarian (Level 17 (Siegmund))"
+      }
+    },
+    {
+      "id": "1379-3057",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Staff",
+        "monster_name": "Barbarian (Level 17 (Fasolt))"
+      }
+    },
+    {
+      "id": "1379-3056",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Staff",
+        "monster_name": "Barbarian (Level 10 (Fafner))"
+      }
+    },
+    {
+      "id": "1379-3055",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Staff",
+        "monster_name": "Barbarian (Level 17 (Alberich))"
+      }
+    },
+    {
+      "id": "1379-2058",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Staff",
+        "monster_name": "Dark wizard (Level 11)"
+      }
+    },
+    {
+      "id": "1379-2058",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0625"
+      },
+      "meta": {
+        "item_name": "Staff",
+        "monster_name": "Dark wizard (Level 11)"
+      }
+    },
+    {
+      "id": "1379-2057",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Staff",
+        "monster_name": "Dark wizard (Level 22)"
+      }
+    },
+    {
+      "id": "1379-2057",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0625"
+      },
+      "meta": {
+        "item_name": "Staff",
+        "monster_name": "Dark wizard (Level 22)"
+      }
+    },
+    {
+      "id": "1379-2056",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Staff",
+        "monster_name": "Dark wizard (Level 23)"
+      }
+    },
+    {
+      "id": "1379-2056",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0625"
+      },
+      "meta": {
+        "item_name": "Staff",
+        "monster_name": "Dark wizard (Level 23)"
+      }
+    },
+    {
+      "id": "1379-1025",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0625"
+      },
+      "meta": {
+        "item_name": "Staff",
+        "monster_name": "Necromancer"
+      }
+    },
+    {
+      "id": "1379-512",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Staff",
+        "monster_name": "Dark wizard (Level 7)"
+      }
+    },
+    {
+      "id": "1379-512",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0625"
+      },
+      "meta": {
+        "item_name": "Staff",
+        "monster_name": "Dark wizard (Level 7)"
+      }
+    },
+    {
+      "id": "1379-510",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Staff",
+        "monster_name": "Dark wizard (Level 20)"
+      }
+    },
+    {
+      "id": "1379-510",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0625"
+      },
+      "meta": {
+        "item_name": "Staff",
+        "monster_name": "Dark wizard (Level 20)"
+      }
+    }
+  ]
+}

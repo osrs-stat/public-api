@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "id": "139-7806",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0625"
+      },
+      "meta": {
+        "item_name": "Prayer potion (3 dose)",
+        "monster_name": "Deranged archaeologist"
+      }
+    },
+    {
+      "id": "139-7144",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.08"
+      },
+      "meta": {
+        "item_name": "Prayer potion (3 dose)",
+        "monster_name": "Demonic gorilla"
+      }
+    }
+  ]
+}

@@ -1,0 +1,180 @@
+{
+  "data": [
+    {
+      "id": "21820-7881",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 4,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Revenant ether",
+        "monster_name": "Revenant imp"
+      }
+    },
+    {
+      "id": "21820-7931",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 5,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Revenant ether",
+        "monster_name": "Revenant goblin"
+      }
+    },
+    {
+      "id": "21820-7933",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 9,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Revenant ether",
+        "monster_name": "Revenant hobgoblin"
+      }
+    },
+    {
+      "id": "21820-7934",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 10,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Revenant ether",
+        "monster_name": "Revenant cyclops"
+      }
+    },
+    {
+      "id": "21820-7935",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 10,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Revenant ether",
+        "monster_name": "Revenant hellhound"
+      }
+    },
+    {
+      "id": "21820-7936",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 11,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Revenant ether",
+        "monster_name": "Revenant demon"
+      }
+    },
+    {
+      "id": "21820-7937",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 11,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Revenant ether",
+        "monster_name": "Revenant ork"
+      }
+    },
+    {
+      "id": "21820-7938",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 12,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Revenant ether",
+        "monster_name": "Revenant dark beast"
+      }
+    },
+    {
+      "id": "21820-7939",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 12,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Revenant ether",
+        "monster_name": "Revenant knight"
+      }
+    },
+    {
+      "id": "21820-7940",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 13,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Revenant ether",
+        "monster_name": "Revenant dragon"
+      }
+    },
+    {
+      "id": "21820-7932",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 8,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Revenant ether",
+        "monster_name": "Revenant pyrefiend"
+      }
+    }
+  ]
+}

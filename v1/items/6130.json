@@ -1,0 +1,75 @@
+{
+  "data": {
+    "id": "6130",
+    "type": "item",
+    "attributes": {
+      "uuid": "a3c51670-61d2-4632-b16c-69886a87456e",
+      "name": "Rock-shell legs",
+      "members": true,
+      "release_date": "2005-08-01",
+      "examine": "Some tough leggings made from rock crab parts.",
+      "tradeable": false,
+      "ge_tradeable": false,
+      "lowalch": 25600,
+      "highalch": 38400,
+      "is_equip": true,
+      "is_weapon": false,
+      "icon_base64": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABj0lEQVR4Xt2XYUsCQRCG3Z/QByGE4AgJCQmJJAzDMAyRkgwxKYTC//8bJp6N17tOr2/OigPD7R4c+zDzzrtaqx1HBNudSSLYaPRgg8Gd9Xo3dt25slbrwprN81RQwbrdTgRpty8jSJadWaNxGoE6WeYJFazfv40JFECqDkD1+ol3lXIgMnGVgs3nL1E7ZBmqqCM3oNlsYtPp2J4nT1HQStrHU9VyalsONB4/xkkbDu8jHE8BSUcOVdoGomWsi0CCSQIEBGt5UhGo/PUe4i8QEGinuE4KpAlDQwJi0pIA0S5V5CCAANAdlhxI7ZIRauyTAOHUwDBRXBWkTJL2sXcFQjuaKqoBgPxILRRU+es9RIgwSo24PElAqpBDlYJ9f33EtskUq945wBDBVqv3zeGIWECIvfjOHYg2cTgXqYCYNNrm+CPtF2ixeN0AqUJ4k4BcNfQfEJPnfpftAlqvPzdAzsZIhJ1AmKPc2x1ouXyrBHLUj6IayNmDFNtAJPtEQET+Xz5vT3nvHDq4eHh5fzTxA+TE96WJsf8jAAAAAElFTkSuQmCC"
+    },
+    "relationships": {
+      "equip": {
+        "data": {
+          "id": "52065d9d-1c1e-4d4f-8221-051aa4d4cecb",
+          "type": "equip"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Rock-shell_legs"
+    },
+    "meta": {
+      "incomplete": false
+    }
+  },
+  "included": [
+    {
+      "id": "52065d9d-1c1e-4d4f-8221-051aa4d4cecb",
+      "type": "equip",
+      "attributes": {
+        "slot": "legs",
+        "passive_effect": null,
+        "requirements": {
+          "defense_level": 40
+        }
+      },
+      "relationships": {
+        "equip_stat": {
+          "data": {
+            "id": "a95e28c2-4960-45b3-918a-ce75a7f87efd",
+            "type": "equip_stat"
+          }
+        }
+      }
+    },
+    {
+      "id": "a95e28c2-4960-45b3-918a-ce75a7f87efd",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 0,
+        "slash_attack": 0,
+        "crush_attack": 0,
+        "ranged_attack": -7,
+        "magic_attack": -21,
+        "stab_defense": 51,
+        "slash_defense": 49,
+        "crush_defense": 47,
+        "ranged_defense": 49,
+        "magic_defense": -4,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

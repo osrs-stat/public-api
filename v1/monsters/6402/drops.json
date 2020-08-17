@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "id": "6319-6402",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Proboscis",
+        "monster_name": "Mosquito swarm (Level 20)"
+      }
+    },
+    {
+      "id": "6319-6402",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Proboscis",
+        "monster_name": "Mosquito swarm (Level 20)"
+      }
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "data": {
+    "id": "5420",
+    "type": "monster",
+    "attributes": {
+      "uuid": "8760ebbe-9371-4534-979e-8af33c236efc",
+      "name": "Watchman",
+      "members": true,
+      "release_date": "2003-05-07",
+      "examine": "Watches stuff. But who watches him?",
+      "combat_level_override": null,
+      "max_hit_override": null,
+      "target_types": [
+
+      ],
+      "classification_types": [
+
+      ],
+      "poison": false,
+      "immune_poison": false,
+      "immune_venom": false,
+      "slayer_xp": null,
+      "slayer_level": null,
+      "slayer_masters": [
+
+      ],
+      "icon_base64": null
+    },
+    "relationships": {
+      "combat_stat": {
+        "data": {
+          "id": "b343dd41-ede1-4e24-9833-c08f10e8ea6d",
+          "type": "combat_stat"
+        }
+      },
+      "equip_stat": {
+        "data": {
+          "id": "3c7e57c6-cbd3-4c71-9687-5e13fcdcea71",
+          "type": "equip_stat"
+        }
+      },
+      "attack_stat": {
+        "data": {
+          "id": "e9539009-68e9-4129-acb1-6877ea342c85",
+          "type": "attack_stat"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Watchman"
+    },
+    "meta": {
+      "incomplete": true
+    }
+  },
+  "included": [
+    {
+      "id": "e9539009-68e9-4129-acb1-6877ea342c85",
+      "type": "attack_stat",
+      "attributes": {
+        "attack_speed": 6,
+        "attack_type": "monster",
+        "special": null,
+        "stances": [
+          {
+            "name": "Monster melee",
+            "style": null,
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": null,
+            "combat_accuracy_stat": "attack_level",
+            "combat_damage_stat": "strength_level",
+            "equip_accuracy_stat": "crush_attack",
+            "equip_damage_stat": "crush_attack",
+            "target_equip_defense_stat": "crush_defense"
+          }
+        ]
+      }
+    },
+    {
+      "id": "b343dd41-ede1-4e24-9833-c08f10e8ea6d",
+      "type": "monster_combat_stat",
+      "attributes": {
+        "hitpoints_level": 22,
+        "attack_level": 31,
+        "strength_level": 31,
+        "defense_level": 31,
+        "magic_level": 1,
+        "ranged_level": 1,
+        "prayer_level": 0
+      }
+    },
+    {
+      "id": "3c7e57c6-cbd3-4c71-9687-5e13fcdcea71",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 0,
+        "slash_attack": 0,
+        "crush_attack": 0,
+        "ranged_attack": 0,
+        "magic_attack": 0,
+        "stab_defense": 24,
+        "slash_defense": 14,
+        "crush_defense": 19,
+        "ranged_defense": 16,
+        "magic_defense": -4,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

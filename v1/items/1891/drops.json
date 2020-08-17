@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "1891-6307",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Cake (Full)",
+        "monster_name": "Culinaromancer (Hard)"
+      }
+    },
+    {
+      "id": "1891-4878",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Cake (Full)",
+        "monster_name": "Culinaromancer (Normal)"
+      }
+    },
+    {
+      "id": "1891-3950",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Cake (Full)",
+        "monster_name": "Warrior (Rellekka)"
+      }
+    },
+    {
+      "id": "1891-3949",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Cake (Full)",
+        "monster_name": "Market Guard"
+      }
+    }
+  ]
+}

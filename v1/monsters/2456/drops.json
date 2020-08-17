@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "1163-2456",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Rune full helm",
+        "monster_name": "Animated Rune Armour"
+      }
+    },
+    {
+      "id": "8851-2456",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 40,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Warrior guild token",
+        "monster_name": "Animated Rune Armour"
+      }
+    },
+    {
+      "id": "1079-2456",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Rune platelegs",
+        "monster_name": "Animated Rune Armour"
+      }
+    },
+    {
+      "id": "1127-2456",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Rune platebody",
+        "monster_name": "Animated Rune Armour"
+      }
+    }
+  ]
+}

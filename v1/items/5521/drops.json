@@ -1,0 +1,116 @@
+{
+  "data": [
+    {
+      "id": "5521-2585",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.01171875"
+      },
+      "meta": {
+        "item_name": "Binding necklace",
+        "monster_name": "Abyssal guardian"
+      }
+    },
+    {
+      "id": "5521-5908",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 25,
+        "quantity_max": null,
+        "rarity": "0.0287769784172662"
+      },
+      "meta": {
+        "item_name": "Binding necklace",
+        "monster_name": "Abyssal Sire (Phase 3 (stage 2))"
+      }
+    },
+    {
+      "id": "5521-5891",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 25,
+        "quantity_max": null,
+        "rarity": "0.0287769784172662"
+      },
+      "meta": {
+        "item_name": "Binding necklace",
+        "monster_name": "Abyssal Sire (Phase 3 (stage 1))"
+      }
+    },
+    {
+      "id": "5521-2584",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.01171875"
+      },
+      "meta": {
+        "item_name": "Binding necklace",
+        "monster_name": "Abyssal leech"
+      }
+    },
+    {
+      "id": "5521-5890",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 25,
+        "quantity_max": null,
+        "rarity": "0.0287769784172662"
+      },
+      "meta": {
+        "item_name": "Binding necklace",
+        "monster_name": "Abyssal Sire (Phase 2)"
+      }
+    },
+    {
+      "id": "5521-5886",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 25,
+        "quantity_max": null,
+        "rarity": "0.0287769784172662"
+      },
+      "meta": {
+        "item_name": "Binding necklace",
+        "monster_name": "Abyssal Sire (Phase 1)"
+      }
+    },
+    {
+      "id": "5521-2586",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.01171875"
+      },
+      "meta": {
+        "item_name": "Binding necklace",
+        "monster_name": "Abyssal walker"
+      }
+    }
+  ]
+}

@@ -1,0 +1,772 @@
+{
+  "data": [
+    {
+      "id": "5302-410",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00254133911629168"
+      },
+      "meta": {
+        "item_name": "Lantadyme seed",
+        "monster_name": "Kurask"
+      }
+    },
+    {
+      "id": "5301-410",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00355787476280835"
+      },
+      "meta": {
+        "item_name": "Cadantine seed",
+        "monster_name": "Kurask"
+      }
+    },
+    {
+      "id": "5300-410",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00508267823258336"
+      },
+      "meta": {
+        "item_name": "Snapdragon seed",
+        "monster_name": "Kurask"
+      }
+    },
+    {
+      "id": "22873-410",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00762241600097567"
+      },
+      "meta": {
+        "item_name": "Potato cactus seed",
+        "monster_name": "Kurask"
+      }
+    },
+    {
+      "id": "5299-410",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00762241600097567"
+      },
+      "meta": {
+        "item_name": "Kwuarm seed",
+        "monster_name": "Kurask"
+      }
+    },
+    {
+      "id": "5280-410",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0106767645132819"
+      },
+      "meta": {
+        "item_name": "Cactus seed",
+        "monster_name": "Kurask"
+      }
+    },
+    {
+      "id": "5106-410",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0111800131178821"
+      },
+      "meta": {
+        "item_name": "Poison ivy seed",
+        "monster_name": "Kurask"
+      }
+    },
+    {
+      "id": "5298-410",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0111800131178821"
+      },
+      "meta": {
+        "item_name": "Avantoe seed",
+        "monster_name": "Kurask"
+      }
+    },
+    {
+      "id": "5281-410",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0157571632063936"
+      },
+      "meta": {
+        "item_name": "Belladonna seed",
+        "monster_name": "Kurask"
+      }
+    },
+    {
+      "id": "5297-410",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0162634770012751"
+      },
+      "meta": {
+        "item_name": "Irit seed",
+        "monster_name": "Kurask"
+      }
+    },
+    {
+      "id": "5296-410",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0238877847423941"
+      },
+      "meta": {
+        "item_name": "Toadflax seed",
+        "monster_name": "Kurask"
+      }
+    },
+    {
+      "id": "217-410",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.00340195196443826"
+      },
+      "meta": {
+        "item_name": "Grimy dwarf weed",
+        "monster_name": "Kurask"
+      }
+    },
+    {
+      "id": "2485-410",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.00340195196443826"
+      },
+      "meta": {
+        "item_name": "Grimy lantadyme",
+        "monster_name": "Kurask"
+      }
+    },
+    {
+      "id": "215-410",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.00453629032258065"
+      },
+      "meta": {
+        "item_name": "Grimy cadantine",
+        "monster_name": "Kurask"
+      }
+    },
+    {
+      "id": "213-410",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.00567036290322581"
+      },
+      "meta": {
+        "item_name": "Grimy kwuarm",
+        "monster_name": "Kurask"
+      }
+    },
+    {
+      "id": "211-410",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.0068054988430652"
+      },
+      "meta": {
+        "item_name": "Grimy avantoe",
+        "monster_name": "Kurask"
+      }
+    },
+    {
+      "id": "209-410",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.00907258064516129"
+      },
+      "meta": {
+        "item_name": "Grimy irit leaf",
+        "monster_name": "Kurask"
+      }
+    },
+    {
+      "id": "207-410",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.0124709012304623"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Kurask"
+      }
+    },
+    {
+      "id": "23962-410",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0416666666666667"
+      },
+      "meta": {
+        "item_name": "Crystal shard",
+        "monster_name": "Kurask"
+      }
+    },
+    {
+      "id": "205-410",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.0158767680545314"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Kurask"
+      }
+    },
+    {
+      "id": "203-410",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.02041362541451"
+      },
+      "meta": {
+        "item_name": "Grimy tarromin",
+        "monster_name": "Kurask"
+      }
+    },
+    {
+      "id": "201-410",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.0272194431506808"
+      },
+      "meta": {
+        "item_name": "Grimy marrentill",
+        "monster_name": "Kurask"
+      }
+    },
+    {
+      "id": "199-410",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.0362903225806452"
+      },
+      "meta": {
+        "item_name": "Grimy guam leaf",
+        "monster_name": "Kurask"
+      }
+    },
+    {
+      "id": "7978-410",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000333333333333333"
+      },
+      "meta": {
+        "item_name": "Kurask head",
+        "monster_name": "Kurask"
+      }
+    },
+    {
+      "id": "2722-410",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Clue scroll (hard)",
+        "monster_name": "Kurask"
+      }
+    },
+    {
+      "id": "23083-410",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0126518218623482"
+      },
+      "meta": {
+        "item_name": "Brimstone key",
+        "monster_name": "Kurask"
+      }
+    },
+    {
+      "id": "532-410",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 20,
+        "quantity_max": null,
+        "rarity": "0.0403225806451613"
+      },
+      "meta": {
+        "item_name": "Big bones",
+        "monster_name": "Kurask"
+      }
+    },
+    {
+      "id": "5100-410",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0483870967741935"
+      },
+      "meta": {
+        "item_name": "Limpwurt seed",
+        "monster_name": "Kurask"
+      }
+    },
+    {
+      "id": "1779-410",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 100,
+        "quantity_max": null,
+        "rarity": "0.0483870967741935"
+      },
+      "meta": {
+        "item_name": "Flax",
+        "monster_name": "Kurask"
+      }
+    },
+    {
+      "id": "239-410",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 12,
+        "quantity_max": null,
+        "rarity": "0.0483870967741935"
+      },
+      "meta": {
+        "item_name": "White berries",
+        "monster_name": "Kurask"
+      }
+    },
+    {
+      "id": "5972-410",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.032258064516129"
+      },
+      "meta": {
+        "item_name": "Papaya fruit",
+        "monster_name": "Kurask"
+      }
+    },
+    {
+      "id": "526-410",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Bones",
+        "monster_name": "Kurask"
+      }
+    },
+    {
+      "id": "1197-410",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0241935483870968"
+      },
+      "meta": {
+        "item_name": "Mithril kiteshield",
+        "monster_name": "Kurask"
+      }
+    },
+    {
+      "id": "1303-410",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0241935483870968"
+      },
+      "meta": {
+        "item_name": "Rune longsword",
+        "monster_name": "Kurask"
+      }
+    },
+    {
+      "id": "1123-410",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0241935483870968"
+      },
+      "meta": {
+        "item_name": "Adamant platebody",
+        "monster_name": "Kurask"
+      }
+    },
+    {
+      "id": "1359-410",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0241935483870968"
+      },
+      "meta": {
+        "item_name": "Rune axe",
+        "monster_name": "Kurask"
+      }
+    },
+    {
+      "id": "11902-410",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00260416666666667"
+      },
+      "meta": {
+        "item_name": "Leaf-bladed sword",
+        "monster_name": "Kurask"
+      }
+    },
+    {
+      "id": "4111-410",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.001953125"
+      },
+      "meta": {
+        "item_name": "Mystic robe top (light)",
+        "monster_name": "Kurask"
+      }
+    },
+    {
+      "id": "20727-410",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000974658869395711"
+      },
+      "meta": {
+        "item_name": "Leaf-bladed battleaxe",
+        "monster_name": "Kurask"
+      }
+    },
+    {
+      "id": "561-410",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.0806451612903226"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Kurask"
+      }
+    },
+    {
+      "id": "561-410",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 15,
+        "quantity_max": null,
+        "rarity": "0.0564516129032258"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Kurask"
+      }
+    },
+    {
+      "id": "561-410",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 30,
+        "quantity_max": null,
+        "rarity": "0.032258064516129"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Kurask"
+      }
+    },
+    {
+      "id": "5974-410",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.032258064516129"
+      },
+      "meta": {
+        "item_name": "Coconut",
+        "monster_name": "Kurask"
+      }
+    },
+    {
+      "id": "5304-410",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00101653564651667"
+      },
+      "meta": {
+        "item_name": "Torstol seed",
+        "monster_name": "Kurask"
+      }
+    },
+    {
+      "id": "5303-410",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00152486753983971"
+      },
+      "meta": {
+        "item_name": "Dwarf weed seed",
+        "monster_name": "Kurask"
+      }
+    },
+    {
+      "id": "22879-410",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.00203307129303334"
+      },
+      "meta": {
+        "item_name": "Snape grass seed",
+        "monster_name": "Kurask"
+      }
+    },
+    {
+      "id": "995-410",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10000,
+        "quantity_max": null,
+        "rarity": "0.0403225806451613"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Kurask"
+      }
+    },
+    {
+      "id": "995-410",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2000,
+        "quantity_max": 3000,
+        "rarity": "0.129032258064516"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Kurask"
+      }
+    }
+  ]
+}

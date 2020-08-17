@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "id": "7908-8701",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Big frog leg (Unpolished)",
+        "monster_name": "Big frog (Level 10)"
+      }
+    },
+    {
+      "id": "7908-478",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Big frog leg (Unpolished)",
+        "monster_name": "Big frog (Level 24)"
+      }
+    }
+  ]
+}

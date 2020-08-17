@@ -1,0 +1,117 @@
+{
+  "data": {
+    "id": "518",
+    "type": "monster",
+    "attributes": {
+      "uuid": "c3034c6f-80c1-43d5-8c7f-e37b6ca10edd",
+      "name": "Highwayman",
+      "members": false,
+      "release_date": "2001-01-21",
+      "examine": "He holds up passers by.",
+      "combat_level_override": null,
+      "max_hit_override": null,
+      "target_types": [
+
+      ],
+      "classification_types": [
+
+      ],
+      "poison": false,
+      "immune_poison": false,
+      "immune_venom": false,
+      "slayer_xp": null,
+      "slayer_level": null,
+      "slayer_masters": [
+
+      ],
+      "icon_base64": null
+    },
+    "relationships": {
+      "combat_stat": {
+        "data": {
+          "id": "29f52cde-9650-4f2c-b75e-4a09e810930c",
+          "type": "combat_stat"
+        }
+      },
+      "equip_stat": {
+        "data": {
+          "id": "036c9831-67b5-4c14-9a51-31aaddb04fc5",
+          "type": "equip_stat"
+        }
+      },
+      "attack_stat": {
+        "data": {
+          "id": "0ca3d57c-0de2-449b-8fd6-209787662b99",
+          "type": "attack_stat"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Highwayman"
+    },
+    "meta": {
+      "incomplete": true
+    }
+  },
+  "included": [
+    {
+      "id": "0ca3d57c-0de2-449b-8fd6-209787662b99",
+      "type": "attack_stat",
+      "attributes": {
+        "attack_speed": 4,
+        "attack_type": "monster",
+        "special": null,
+        "stances": [
+          {
+            "name": "Monster stab",
+            "style": null,
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": null,
+            "combat_accuracy_stat": "attack_level",
+            "combat_damage_stat": "strength_level",
+            "equip_accuracy_stat": "stab_attack",
+            "equip_damage_stat": "stab_attack",
+            "target_equip_defense_stat": "stab_defense"
+          }
+        ]
+      }
+    },
+    {
+      "id": "29f52cde-9650-4f2c-b75e-4a09e810930c",
+      "type": "monster_combat_stat",
+      "attributes": {
+        "hitpoints_level": 13,
+        "attack_level": 2,
+        "strength_level": 2,
+        "defense_level": 4,
+        "magic_level": 1,
+        "ranged_level": 1,
+        "prayer_level": 0
+      }
+    },
+    {
+      "id": "036c9831-67b5-4c14-9a51-31aaddb04fc5",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 6,
+        "slash_attack": 6,
+        "crush_attack": 6,
+        "ranged_attack": 0,
+        "magic_attack": 0,
+        "stab_defense": 0,
+        "slash_defense": 3,
+        "crush_defense": 2,
+        "ranged_defense": 2,
+        "magic_defense": 0,
+        "melee_strength": 7,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

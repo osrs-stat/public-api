@@ -1,0 +1,308 @@
+{
+  "data": [
+    {
+      "id": "995-6902",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 600,
+        "quantity_max": 800,
+        "rarity": "0.125"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Gang boss (Male)"
+      }
+    },
+    {
+      "id": "13395-6902",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.125"
+      },
+      "meta": {
+        "item_name": "Intelligence",
+        "monster_name": "Gang boss (Male)"
+      }
+    },
+    {
+      "id": "2722-6902",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0153846153846154"
+      },
+      "meta": {
+        "item_name": "Clue scroll (hard)",
+        "monster_name": "Gang boss (Male)"
+      }
+    },
+    {
+      "id": "8778-6902",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 10,
+        "quantity_max": 20,
+        "rarity": "0.125"
+      },
+      "meta": {
+        "item_name": "Oak plank",
+        "monster_name": "Gang boss (Male)"
+      }
+    },
+    {
+      "id": "8780-6902",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 5,
+        "quantity_max": 10,
+        "rarity": "0.125"
+      },
+      "meta": {
+        "item_name": "Teak plank",
+        "monster_name": "Gang boss (Male)"
+      }
+    },
+    {
+      "id": "526-6902",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Bones",
+        "monster_name": "Gang boss (Male)"
+      }
+    },
+    {
+      "id": "1151-6902",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Black med helm",
+        "monster_name": "Gang boss (Male)"
+      }
+    },
+    {
+      "id": "1107-6902",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Black chainbody",
+        "monster_name": "Gang boss (Male)"
+      }
+    },
+    {
+      "id": "1089-6902",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Black plateskirt",
+        "monster_name": "Gang boss (Male)"
+      }
+    },
+    {
+      "id": "1327-6902",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Black scimitar",
+        "monster_name": "Gang boss (Male)"
+      }
+    },
+    {
+      "id": "1333-6902",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0125"
+      },
+      "meta": {
+        "item_name": "Rune scimitar",
+        "monster_name": "Gang boss (Male)"
+      }
+    },
+    {
+      "id": "564-6902",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 30,
+        "quantity_max": 60,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Cosmic rune",
+        "monster_name": "Gang boss (Male)"
+      }
+    },
+    {
+      "id": "215-6902",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Grimy cadantine",
+        "monster_name": "Gang boss (Male)"
+      }
+    },
+    {
+      "id": "217-6902",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Grimy dwarf weed",
+        "monster_name": "Gang boss (Male)"
+      }
+    },
+    {
+      "id": "213-6902",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Grimy kwuarm",
+        "monster_name": "Gang boss (Male)"
+      }
+    },
+    {
+      "id": "2485-6902",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Grimy lantadyme",
+        "monster_name": "Gang boss (Male)"
+      }
+    },
+    {
+      "id": "2357-6902",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 8,
+        "quantity_max": 16,
+        "rarity": "0.125"
+      },
+      "meta": {
+        "item_name": "Gold bar",
+        "monster_name": "Gang boss (Male)"
+      }
+    },
+    {
+      "id": "6032-6902",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 60,
+        "quantity_max": 80,
+        "rarity": "0.125"
+      },
+      "meta": {
+        "item_name": "Compost",
+        "monster_name": "Gang boss (Male)"
+      }
+    },
+    {
+      "id": "8782-6902",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 4,
+        "quantity_max": 8,
+        "rarity": "0.125"
+      },
+      "meta": {
+        "item_name": "Mahogany plank",
+        "monster_name": "Gang boss (Male)"
+      }
+    }
+  ]
+}

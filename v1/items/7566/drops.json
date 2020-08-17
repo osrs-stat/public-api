@@ -1,0 +1,20 @@
+{
+  "data": [
+    {
+      "id": "7566-3604",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 3,
+        "quantity_max": 7,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Raw jubbly",
+        "monster_name": "Jubster"
+      }
+    }
+  ]
+}

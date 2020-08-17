@@ -1,0 +1,564 @@
+{
+  "data": [
+    {
+      "id": "563-8703",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.01"
+      },
+      "meta": {
+        "item_name": "Law rune",
+        "monster_name": "Temple Spider"
+      }
+    },
+    {
+      "id": "566-8703",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.01"
+      },
+      "meta": {
+        "item_name": "Soul rune",
+        "monster_name": "Temple Spider"
+      }
+    },
+    {
+      "id": "223-8703",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 3,
+        "quantity_max": 5,
+        "rarity": "0.08"
+      },
+      "meta": {
+        "item_name": "Red spiders' eggs",
+        "monster_name": "Temple Spider"
+      }
+    },
+    {
+      "id": "183-8703",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.08"
+      },
+      "meta": {
+        "item_name": "Superantipoison (2 dose)",
+        "monster_name": "Temple Spider"
+      }
+    },
+    {
+      "id": "5937-8703",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.02"
+      },
+      "meta": {
+        "item_name": "Weapon poison(+)",
+        "monster_name": "Temple Spider"
+      }
+    },
+    {
+      "id": "23510-8703",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "forthos-dungeon-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0333333333333333"
+      },
+      "meta": {
+        "item_name": "Tattered moon page",
+        "monster_name": "Temple Spider"
+      }
+    },
+    {
+      "id": "23512-8703",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "forthos-dungeon-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0333333333333333"
+      },
+      "meta": {
+        "item_name": "Tattered sun page",
+        "monster_name": "Temple Spider"
+      }
+    },
+    {
+      "id": "23514-8703",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "forthos-dungeon-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0333333333333333"
+      },
+      "meta": {
+        "item_name": "Tattered temple page",
+        "monster_name": "Temple Spider"
+      }
+    },
+    {
+      "id": "2485-8703",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00351535036325287"
+      },
+      "meta": {
+        "item_name": "Grimy lantadyme",
+        "monster_name": "Temple Spider"
+      }
+    },
+    {
+      "id": "215-8703",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0046875"
+      },
+      "meta": {
+        "item_name": "Grimy cadantine",
+        "monster_name": "Temple Spider"
+      }
+    },
+    {
+      "id": "213-8703",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.005859375"
+      },
+      "meta": {
+        "item_name": "Grimy kwuarm",
+        "monster_name": "Temple Spider"
+      }
+    },
+    {
+      "id": "23499-8703",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "forthos-dungeon-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.01"
+      },
+      "meta": {
+        "item_name": "Grubby key",
+        "monster_name": "Temple Spider"
+      }
+    },
+    {
+      "id": "2722-8703",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "forthos-dungeon-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.005"
+      },
+      "meta": {
+        "item_name": "Clue scroll (hard)",
+        "monster_name": "Temple Spider"
+      }
+    },
+    {
+      "id": "995-8703",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 400,
+        "quantity_max": 600,
+        "rarity": "0.17"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Temple Spider"
+      }
+    },
+    {
+      "id": "23083-8703",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00444444444444444"
+      },
+      "meta": {
+        "item_name": "Brimstone key",
+        "monster_name": "Temple Spider"
+      }
+    },
+    {
+      "id": "199-8703",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0375"
+      },
+      "meta": {
+        "item_name": "Grimy guam leaf",
+        "monster_name": "Temple Spider"
+      }
+    },
+    {
+      "id": "217-8703",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00351535036325287"
+      },
+      "meta": {
+        "item_name": "Grimy dwarf weed",
+        "monster_name": "Temple Spider"
+      }
+    },
+    {
+      "id": "1301-8703",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.04"
+      },
+      "meta": {
+        "item_name": "Adamant longsword",
+        "monster_name": "Temple Spider"
+      }
+    },
+    {
+      "id": "1213-8703",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.01"
+      },
+      "meta": {
+        "item_name": "Rune dagger (Unpoisoned)",
+        "monster_name": "Temple Spider"
+      }
+    },
+    {
+      "id": "1147-8703",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.01"
+      },
+      "meta": {
+        "item_name": "Rune med helm",
+        "monster_name": "Temple Spider"
+      }
+    },
+    {
+      "id": "556-8703",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 30,
+        "quantity_max": 50,
+        "rarity": "0.05"
+      },
+      "meta": {
+        "item_name": "Air rune (Regular)",
+        "monster_name": "Temple Spider"
+      }
+    },
+    {
+      "id": "557-8703",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 30,
+        "quantity_max": 50,
+        "rarity": "0.05"
+      },
+      "meta": {
+        "item_name": "Earth rune (Regular)",
+        "monster_name": "Temple Spider"
+      }
+    },
+    {
+      "id": "554-8703",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 30,
+        "quantity_max": 50,
+        "rarity": "0.05"
+      },
+      "meta": {
+        "item_name": "Fire rune (Regular)",
+        "monster_name": "Temple Spider"
+      }
+    },
+    {
+      "id": "555-8703",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 30,
+        "quantity_max": 50,
+        "rarity": "0.05"
+      },
+      "meta": {
+        "item_name": "Water rune (Regular)",
+        "monster_name": "Temple Spider"
+      }
+    },
+    {
+      "id": "562-8703",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": 15,
+        "rarity": "0.02"
+      },
+      "meta": {
+        "item_name": "Chaos rune (Regular)",
+        "monster_name": "Temple Spider"
+      }
+    },
+    {
+      "id": "564-8703",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": 15,
+        "rarity": "0.02"
+      },
+      "meta": {
+        "item_name": "Cosmic rune",
+        "monster_name": "Temple Spider"
+      }
+    },
+    {
+      "id": "560-8703",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": 15,
+        "rarity": "0.02"
+      },
+      "meta": {
+        "item_name": "Death rune (Regular)",
+        "monster_name": "Temple Spider"
+      }
+    },
+    {
+      "id": "561-8703",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": 15,
+        "rarity": "0.02"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Temple Spider"
+      }
+    },
+    {
+      "id": "211-8703",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0070323488045007"
+      },
+      "meta": {
+        "item_name": "Grimy avantoe",
+        "monster_name": "Temple Spider"
+      }
+    },
+    {
+      "id": "1145-8703",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.04"
+      },
+      "meta": {
+        "item_name": "Adamant med helm",
+        "monster_name": "Temple Spider"
+      }
+    },
+    {
+      "id": "201-8703",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0281267579223701"
+      },
+      "meta": {
+        "item_name": "Grimy marrentill",
+        "monster_name": "Temple Spider"
+      }
+    },
+    {
+      "id": "203-8703",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0210940795949937"
+      },
+      "meta": {
+        "item_name": "Grimy tarromin",
+        "monster_name": "Temple Spider"
+      }
+    },
+    {
+      "id": "205-8703",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0164059936563491"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Temple Spider"
+      }
+    },
+    {
+      "id": "207-8703",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0128865979381443"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Temple Spider"
+      }
+    },
+    {
+      "id": "209-8703",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.009375"
+      },
+      "meta": {
+        "item_name": "Grimy irit leaf",
+        "monster_name": "Temple Spider"
+      }
+    }
+  ]
+}

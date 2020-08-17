@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "21257-7860",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Slayer's enchantment",
+        "monster_name": "Porazdir"
+      }
+    },
+    {
+      "id": "21799-7860",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Demon's heart",
+        "monster_name": "Porazdir"
+      }
+    },
+    {
+      "id": "11941-7860",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Porazdir"
+      }
+    },
+    {
+      "id": "23490-7860",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0142857142857143"
+      },
+      "meta": {
+        "item_name": "Larran's key",
+        "monster_name": "Porazdir"
+      }
+    }
+  ]
+}

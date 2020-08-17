@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "id": "12921-2044",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00025"
+      },
+      "meta": {
+        "item_name": "Pet snakeling (Normal)",
+        "monster_name": "Zulrah (Tanzanite)"
+      }
+    },
+    {
+      "id": "12921-2043",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00025"
+      },
+      "meta": {
+        "item_name": "Pet snakeling (Normal)",
+        "monster_name": "Zulrah (Magma)"
+      }
+    },
+    {
+      "id": "12921-2042",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00025"
+      },
+      "meta": {
+        "item_name": "Pet snakeling (Normal)",
+        "monster_name": "Zulrah (Serpentine)"
+      }
+    }
+  ]
+}

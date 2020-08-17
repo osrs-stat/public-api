@@ -1,0 +1,132 @@
+{
+  "data": [
+    {
+      "id": "23858-9047",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Corrupted teleport crystal",
+        "monster_name": "Corrupted Dragon"
+      }
+    },
+    {
+      "id": "23858-9044",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Corrupted teleport crystal",
+        "monster_name": "Corrupted Scorpion"
+      }
+    },
+    {
+      "id": "23858-9043",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Corrupted teleport crystal",
+        "monster_name": "Corrupted Unicorn"
+      }
+    },
+    {
+      "id": "23858-9041",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Corrupted teleport crystal",
+        "monster_name": "Corrupted Spider"
+      }
+    },
+    {
+      "id": "23858-9040",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Corrupted teleport crystal",
+        "monster_name": "Corrupted Rat"
+      }
+    },
+    {
+      "id": "23858-9045",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Corrupted teleport crystal",
+        "monster_name": "Corrupted Wolf"
+      }
+    },
+    {
+      "id": "23858-9046",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Corrupted teleport crystal",
+        "monster_name": "Corrupted Bear"
+      }
+    },
+    {
+      "id": "23858-9048",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Corrupted teleport crystal",
+        "monster_name": "Corrupted Dark Beast"
+      }
+    }
+  ]
+}

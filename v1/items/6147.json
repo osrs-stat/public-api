@@ -1,0 +1,73 @@
+{
+  "data": {
+    "id": "6147",
+    "type": "item",
+    "attributes": {
+      "uuid": "446738d2-c834-49dc-9a03-c1b53fcdf048",
+      "name": "Skeletal boots",
+      "members": true,
+      "release_date": "2005-08-01",
+      "examine": "Some finely crafted Fremennik boots, made from the bones of a wallasalki.",
+      "tradeable": false,
+      "ge_tradeable": false,
+      "lowalch": 260,
+      "highalch": 390,
+      "is_equip": true,
+      "is_weapon": false,
+      "icon_base64": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADhElEQVR4Xu1X/UtUQRR1/oR+EEIIlpCQkJBQwlAMQ1lERcUvWhZELSmtLLEyEZGSFBHFtEwztcw0rUURxY8slcwQ6k+6cWa4u7PzdtZ9rCCEFwZ/8J3rueec++aZkHBax1aCnOfESlBhQT7l5mZTVtYVupx2iVJSLpwUKUHV1WVUWVlCxcVeysu7Rjk5VyWZNI9HHhOhylTzWMgLqqvzkd9fRT5fhSRWWlpAnW2PgoRMhCohny8vL5IDZGamH5eigva+bdD22gqtL32h5YVPtDgzRW0tzVEIqSFACKrCathcXlIUBRNzCdr/sU07G2u0ubJEq18/0+y7MWq522hpLqihoSaoKtuMAaoryiwYVyXoYG8nqNLS/EeafjNCd+prLc2VoiAPNeenJ2jy9TA9fnCP/DeqLBhXJehwf0+qtLW6LO0aHx6kOr/P0lwR2lgOSPJzU+M0MTIkCdkxrkrQn9/7ktBaYFH+gZH+XvJVVViaC/q5vSUJBeZmpL0YoL31ITXU1lgwrkrQ38MD2t1clxbAroGe7igBVZmDZSA083aUxoYG5FY23aoP5igc46qUZbArMPteTtv7rJMKvflWQr92v8vnYRkIjQ720/OOp9TceDveHCm7sGFojnC+7Ouh7s52ys3JtjRWS4AFgKKwDIRedHVQ6/2meHOkArqyOCezA3VgV1f7E8rMSLc0VopiCLwisGWwDKpi9ePIkcoCh5Ol7+vuknmItvZQCJnDi3Thw6TcMuAQbOQoMu7IEnJKbBZWHWF+NdAnJ+WNKS7wyuYmDhkCFoSQO2BhNVYfg3COwnFRS1mFYEJ2NIVCIIQsQPrk5POUlHSWEhPPGM2VssgQhtGxUPZmjd/tG1vIVz3uH1yK+NzAzY67CBdkRkaa/PQwCYWah4ZB9qAurz6GgbL2V4ajQmS83utBQiaZ1NSLMgtOQiIiBs/jpscQ+AmcK0I6GV0dkGFC3DhkmfqAY6yJA8YlIac6kaxCY31iJqRjcfRhWCU8D7tiJmRahYY6GV0dJoSjE7L14GcRaPtLNazCp4xGSCcFHL4gTUI6KeCZkH51HEnIbGgjxcQ4O0zItA2EcNguHI/nXCzqoEKW6c1MUkws1NSZH3Mh2F4eIAZ1uMz/EESwMZPCCW8qrER4CLaWMTGSUaWD+A+ax9nU+Yx5nJg4yiQZqbH5+0jHxJzWf1P/ABCuL9+2o/tRAAAAAElFTkSuQmCC"
+    },
+    "relationships": {
+      "equip": {
+        "data": {
+          "id": "ffbc8b7d-48a9-4c9c-8caf-e3111bd191d1",
+          "type": "equip"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Skeletal_boots"
+    },
+    "meta": {
+      "incomplete": false
+    }
+  },
+  "included": [
+    {
+      "id": "ffbc8b7d-48a9-4c9c-8caf-e3111bd191d1",
+      "type": "equip",
+      "attributes": {
+        "slot": "boots",
+        "passive_effect": null,
+        "requirements": null
+      },
+      "relationships": {
+        "equip_stat": {
+          "data": {
+            "id": "91c9f6bf-5968-4d6f-87af-bbc04fbd451d",
+            "type": "equip_stat"
+          }
+        }
+      }
+    },
+    {
+      "id": "91c9f6bf-5968-4d6f-87af-bbc04fbd451d",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 0,
+        "slash_attack": 0,
+        "crush_attack": 0,
+        "ranged_attack": 0,
+        "magic_attack": 0,
+        "stab_defense": 0,
+        "slash_defense": 1,
+        "crush_defense": 1,
+        "ranged_defense": 0,
+        "magic_defense": 0,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

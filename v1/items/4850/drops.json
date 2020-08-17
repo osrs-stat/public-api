@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "4850-872",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Ogre coffin key",
+        "monster_name": "Skogre"
+      }
+    },
+    {
+      "id": "4850-6611",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Ogre coffin key",
+        "monster_name": "Vet'ion (Normal)"
+      }
+    },
+    {
+      "id": "4850-6612",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Ogre coffin key",
+        "monster_name": "Vet'ion (Reborn)"
+      }
+    },
+    {
+      "id": "4850-866",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Ogre coffin key",
+        "monster_name": "Zogre"
+      }
+    }
+  ]
+}

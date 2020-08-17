@@ -1,0 +1,100 @@
+{
+  "data": [
+    {
+      "id": "11936-963",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.111111111111111"
+      },
+      "meta": {
+        "item_name": "Dark crab",
+        "monster_name": "Kalphite Queen (Crawling)"
+      }
+    },
+    {
+      "id": "11936-6612",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 8,
+        "quantity_max": null,
+        "rarity": "0.078125"
+      },
+      "meta": {
+        "item_name": "Dark crab",
+        "monster_name": "Vet'ion (Reborn)"
+      }
+    },
+    {
+      "id": "11936-6611",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 8,
+        "quantity_max": null,
+        "rarity": "0.078125"
+      },
+      "meta": {
+        "item_name": "Dark crab",
+        "monster_name": "Vet'ion (Normal)"
+      }
+    },
+    {
+      "id": "11936-6504",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 8,
+        "quantity_max": null,
+        "rarity": "0.078125"
+      },
+      "meta": {
+        "item_name": "Dark crab",
+        "monster_name": "Venenatis"
+      }
+    },
+    {
+      "id": "11936-6503",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 8,
+        "quantity_max": null,
+        "rarity": "0.078125"
+      },
+      "meta": {
+        "item_name": "Dark crab",
+        "monster_name": "Callisto"
+      }
+    },
+    {
+      "id": "11936-965",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.111111111111111"
+      },
+      "meta": {
+        "item_name": "Dark crab",
+        "monster_name": "Kalphite Queen (Airborne)"
+      }
+    }
+  ]
+}

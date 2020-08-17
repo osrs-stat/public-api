@@ -1,0 +1,180 @@
+{
+  "data": [
+    {
+      "id": "22804-8610",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 75,
+        "quantity_max": 150,
+        "rarity": "0.0001"
+      },
+      "meta": {
+        "item_name": "Dragon knife (Unpoisoned)",
+        "monster_name": "Wyrm (Idle)"
+      }
+    },
+    {
+      "id": "22804-10402",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 200,
+        "quantity_max": 400,
+        "rarity": "0.0000999900009999"
+      },
+      "meta": {
+        "item_name": "Dragon knife (Unpoisoned)",
+        "monster_name": "Colossal Hydra"
+      }
+    },
+    {
+      "id": "22804-10400",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 100,
+        "quantity_max": 200,
+        "rarity": "0.0001"
+      },
+      "meta": {
+        "item_name": "Dragon knife (Unpoisoned)",
+        "monster_name": "Guardian Drake"
+      }
+    },
+    {
+      "id": "22804-10398",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 75,
+        "quantity_max": 150,
+        "rarity": "0.0001"
+      },
+      "meta": {
+        "item_name": "Dragon knife (Unpoisoned)",
+        "monster_name": "Shadow Wyrm"
+      }
+    },
+    {
+      "id": "22804-8621",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 500,
+        "quantity_max": 1000,
+        "rarity": "0.000499750124937531"
+      },
+      "meta": {
+        "item_name": "Dragon knife (Unpoisoned)",
+        "monster_name": "Alchemical Hydra (Two heads)"
+      }
+    },
+    {
+      "id": "22804-8618",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 500,
+        "quantity_max": 1000,
+        "rarity": "0.000499750124937531"
+      },
+      "meta": {
+        "item_name": "Dragon knife (Unpoisoned)",
+        "monster_name": "Alchemical Hydra (Three heads)"
+      }
+    },
+    {
+      "id": "22804-8617",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 500,
+        "quantity_max": 1000,
+        "rarity": "0.000499750124937531"
+      },
+      "meta": {
+        "item_name": "Dragon knife (Unpoisoned)",
+        "monster_name": "Alchemical Hydra (Four heads)"
+      }
+    },
+    {
+      "id": "22804-8615",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 500,
+        "quantity_max": 1000,
+        "rarity": "0.000499750124937531"
+      },
+      "meta": {
+        "item_name": "Dragon knife (Unpoisoned)",
+        "monster_name": "Alchemical Hydra (Five heads)"
+      }
+    },
+    {
+      "id": "22804-8612",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 100,
+        "quantity_max": 200,
+        "rarity": "0.0001"
+      },
+      "meta": {
+        "item_name": "Dragon knife (Unpoisoned)",
+        "monster_name": "Drake"
+      }
+    },
+    {
+      "id": "22804-8611",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 75,
+        "quantity_max": 150,
+        "rarity": "0.0001"
+      },
+      "meta": {
+        "item_name": "Dragon knife (Unpoisoned)",
+        "monster_name": "Wyrm (Attacking)"
+      }
+    },
+    {
+      "id": "22804-8609",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 200,
+        "quantity_max": 400,
+        "rarity": "0.0000999900009999"
+      },
+      "meta": {
+        "item_name": "Dragon knife (Unpoisoned)",
+        "monster_name": "Hydra"
+      }
+    }
+  ]
+}

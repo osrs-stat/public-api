@@ -1,0 +1,20 @@
+{
+  "data": [
+    {
+      "id": "23517-8713",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "forthos-dungeon-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.05"
+      },
+      "meta": {
+        "item_name": "Giant egg sac (Full)",
+        "monster_name": "Sarachnis"
+      }
+    }
+  ]
+}

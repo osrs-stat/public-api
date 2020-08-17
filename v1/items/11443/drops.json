@@ -1,0 +1,132 @@
+{
+  "data": [
+    {
+      "id": "11443-1537",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Strength mix (2 dose)",
+        "monster_name": "Skeleton hero"
+      }
+    },
+    {
+      "id": "11443-5565",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Strength mix (2 dose)",
+        "monster_name": "Berserk barbarian spirit"
+      }
+    },
+    {
+      "id": "11443-5564",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Strength mix (2 dose)",
+        "monster_name": "Enraged barbarian spirit"
+      }
+    },
+    {
+      "id": "11443-5563",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Strength mix (2 dose)",
+        "monster_name": "Angry barbarian spirit"
+      }
+    },
+    {
+      "id": "11443-1541",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Strength mix (2 dose)",
+        "monster_name": "Skeleton thug"
+      }
+    },
+    {
+      "id": "11443-1540",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Strength mix (2 dose)",
+        "monster_name": "Skeleton heavy"
+      }
+    },
+    {
+      "id": "11443-1539",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Strength mix (2 dose)",
+        "monster_name": "Skeleton warlord"
+      }
+    },
+    {
+      "id": "11443-1538",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Strength mix (2 dose)",
+        "monster_name": "Skeleton brute"
+      }
+    }
+  ]
+}

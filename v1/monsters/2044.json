@@ -1,0 +1,134 @@
+{
+  "data": {
+    "id": "2044",
+    "type": "monster",
+    "attributes": {
+      "uuid": "44d24d59-c1ae-40b8-a282-dbcfd8cefa7a",
+      "name": "Zulrah (Tanzanite)",
+      "members": true,
+      "release_date": "2015-01-08",
+      "examine": "The turquoise hooded serpent of the poison waste.",
+      "combat_level_override": 725,
+      "max_hit_override": 41,
+      "target_types": [
+
+      ],
+      "classification_types": [
+        "boss"
+      ],
+      "poison": true,
+      "immune_poison": false,
+      "immune_venom": false,
+      "slayer_xp": 500.0,
+      "slayer_level": 1,
+      "slayer_masters": [
+        "konar",
+        "nieve",
+        "duradel"
+      ],
+      "icon_base64": null
+    },
+    "relationships": {
+      "combat_stat": {
+        "data": {
+          "id": "79533d2b-fe8d-4570-ba9a-8fe402a4a47f",
+          "type": "combat_stat"
+        }
+      },
+      "equip_stat": {
+        "data": {
+          "id": "c6daf79b-7b82-4f06-8565-48d0c65ace5b",
+          "type": "equip_stat"
+        }
+      },
+      "attack_stat": {
+        "data": {
+          "id": "df7bc906-cc3c-4d9e-a7ae-d60dc71dcba4",
+          "type": "attack_stat"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Zulrah#Tanzanite"
+    },
+    "meta": {
+      "incomplete": true
+    }
+  },
+  "included": [
+    {
+      "id": "df7bc906-cc3c-4d9e-a7ae-d60dc71dcba4",
+      "type": "attack_stat",
+      "attributes": {
+        "attack_speed": 3,
+        "attack_type": "monster",
+        "special": null,
+        "stances": [
+          {
+            "name": "Monster ranged",
+            "style": null,
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": null,
+            "combat_accuracy_stat": "ranged_level",
+            "combat_damage_stat": "ranged_level",
+            "equip_accuracy_stat": "ranged_attack",
+            "equip_damage_stat": "ranged_attack",
+            "target_equip_defense_stat": "ranged_defense"
+          },
+          {
+            "name": "Monster magic",
+            "style": null,
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": null,
+            "combat_accuracy_stat": "magic_level",
+            "combat_damage_stat": "magic_level",
+            "equip_accuracy_stat": "magic_attack",
+            "equip_damage_stat": "magic_attack",
+            "target_equip_defense_stat": "magic_defense"
+          }
+        ]
+      }
+    },
+    {
+      "id": "79533d2b-fe8d-4570-ba9a-8fe402a4a47f",
+      "type": "monster_combat_stat",
+      "attributes": {
+        "hitpoints_level": 500,
+        "attack_level": 1,
+        "strength_level": 1,
+        "defense_level": 300,
+        "magic_level": 300,
+        "ranged_level": 300,
+        "prayer_level": 0
+      }
+    },
+    {
+      "id": "c6daf79b-7b82-4f06-8565-48d0c65ace5b",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 0,
+        "slash_attack": 0,
+        "crush_attack": 0,
+        "ranged_attack": 50,
+        "magic_attack": 50,
+        "stab_defense": 0,
+        "slash_defense": 0,
+        "crush_defense": 0,
+        "ranged_defense": 0,
+        "magic_defense": 300,
+        "melee_strength": 0,
+        "ranged_strength": 20,
+        "magic_bonus": 20,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

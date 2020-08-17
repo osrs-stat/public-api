@@ -1,0 +1,117 @@
+{
+  "data": {
+    "id": "2978",
+    "type": "monster",
+    "attributes": {
+      "uuid": "ae8dc4fb-e5a7-4fa6-8be2-321cfc8877c8",
+      "name": "Big Snake",
+      "members": true,
+      "release_date": "2006-03-15",
+      "examine": "A big snake.",
+      "combat_level_override": null,
+      "max_hit_override": null,
+      "target_types": [
+
+      ],
+      "classification_types": [
+
+      ],
+      "poison": true,
+      "immune_poison": false,
+      "immune_venom": false,
+      "slayer_xp": null,
+      "slayer_level": null,
+      "slayer_masters": [
+
+      ],
+      "icon_base64": null
+    },
+    "relationships": {
+      "combat_stat": {
+        "data": {
+          "id": "54798eaa-39d4-4c97-9a36-d145cbe6b57c",
+          "type": "combat_stat"
+        }
+      },
+      "equip_stat": {
+        "data": {
+          "id": "573182ec-3590-4904-b32f-782bd5fff08f",
+          "type": "equip_stat"
+        }
+      },
+      "attack_stat": {
+        "data": {
+          "id": "fe6782ec-befd-481e-8212-89ecd199682c",
+          "type": "attack_stat"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Big_Snake"
+    },
+    "meta": {
+      "incomplete": true
+    }
+  },
+  "included": [
+    {
+      "id": "fe6782ec-befd-481e-8212-89ecd199682c",
+      "type": "attack_stat",
+      "attributes": {
+        "attack_speed": 6,
+        "attack_type": "monster",
+        "special": null,
+        "stances": [
+          {
+            "name": "Monster stab",
+            "style": null,
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": null,
+            "combat_accuracy_stat": "attack_level",
+            "combat_damage_stat": "strength_level",
+            "equip_accuracy_stat": "stab_attack",
+            "equip_damage_stat": "stab_attack",
+            "target_equip_defense_stat": "stab_defense"
+          }
+        ]
+      }
+    },
+    {
+      "id": "54798eaa-39d4-4c97-9a36-d145cbe6b57c",
+      "type": "monster_combat_stat",
+      "attributes": {
+        "hitpoints_level": 120,
+        "attack_level": 60,
+        "strength_level": 60,
+        "defense_level": 60,
+        "magic_level": 1,
+        "ranged_level": 1,
+        "prayer_level": 0
+      }
+    },
+    {
+      "id": "573182ec-3590-4904-b32f-782bd5fff08f",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 66,
+        "slash_attack": 66,
+        "crush_attack": 66,
+        "ranged_attack": 0,
+        "magic_attack": 0,
+        "stab_defense": 0,
+        "slash_defense": 0,
+        "crush_defense": 0,
+        "ranged_defense": 0,
+        "magic_defense": 0,
+        "melee_strength": 62,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

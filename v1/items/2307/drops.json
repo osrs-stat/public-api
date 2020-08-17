@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "id": "2307-5007",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Bread dough",
+        "monster_name": "Imp (Regular)"
+      }
+    },
+    {
+      "id": "2307-3134",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Bread dough",
+        "monster_name": "Imp (GWD)"
+      }
+    }
+  ]
+}

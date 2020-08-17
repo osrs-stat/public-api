@@ -1,0 +1,73 @@
+{
+  "data": {
+    "id": "6067",
+    "type": "item",
+    "attributes": {
+      "uuid": "1979740e-cad6-4f62-a47e-c5935b629284",
+      "name": "Mourner trousers (Repaired)",
+      "members": true,
+      "release_date": "2005-07-19",
+      "examine": "A pair of mourner trousers.",
+      "tradeable": false,
+      "ge_tradeable": false,
+      "lowalch": 40,
+      "highalch": 60,
+      "is_equip": true,
+      "is_weapon": false,
+      "icon_base64": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABPElEQVR4Xu2XsQoCMRBEkzJFPkE4RMTSxkawsRARLSwUQRARRSwECwsLC/98ZRNWN7lLeZsTHJjC0bCPuSSqUr8vDWmLS0Ov23XutNvORav1cQYoDcelgf3CwHZmYD0xsBwbmI+88f1+UUhBabisjHMKKhtQFRQCTYceKl5Zk0IgDkUtEZBQS2UgNLVEj02wpXAPkWMgakigJX/CYqeA4tU16AuEENxZgWIYzPhJywKEAOQ/0Fflrw10I4HocswOhCeLLsdGAuHrxgDRXSQKxIdzINrYWYD4qUKA68YGmSgQDed7pirDz8ara5CG29YGLY0HqjITaknDfWddI7SXUpnYzw8czhtJZQIwKA2Pgw0aSWViQM+TdQDYCAKkMjGg19kPp8eUyoSAUOFfZz+4nAkCKUUD+eCq7K+69Aac0fzskk7EbQAAAABJRU5ErkJggg=="
+    },
+    "relationships": {
+      "equip": {
+        "data": {
+          "id": "fe1b3a78-240d-4aef-be7f-ed053b096bea",
+          "type": "equip"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Mourner_trousers#Repaired"
+    },
+    "meta": {
+      "incomplete": false
+    }
+  },
+  "included": [
+    {
+      "id": "fe1b3a78-240d-4aef-be7f-ed053b096bea",
+      "type": "equip",
+      "attributes": {
+        "slot": "legs",
+        "passive_effect": null,
+        "requirements": null
+      },
+      "relationships": {
+        "equip_stat": {
+          "data": {
+            "id": "104e15a7-3fcf-4b84-8ea1-e7395ba7b3b9",
+            "type": "equip_stat"
+          }
+        }
+      }
+    },
+    {
+      "id": "104e15a7-3fcf-4b84-8ea1-e7395ba7b3b9",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 0,
+        "slash_attack": 0,
+        "crush_attack": 0,
+        "ranged_attack": 0,
+        "magic_attack": 0,
+        "stab_defense": 0,
+        "slash_defense": 0,
+        "crush_defense": 0,
+        "ranged_defense": 0,
+        "magic_defense": 0,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

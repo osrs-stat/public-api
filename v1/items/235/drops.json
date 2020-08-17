@@ -1,0 +1,116 @@
+{
+  "data": [
+    {
+      "id": "235-406",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Unicorn horn dust",
+        "monster_name": "Cave crawler"
+      }
+    },
+    {
+      "id": "235-481",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Unicorn horn dust",
+        "monster_name": "Cave bug (Level 6)"
+      }
+    },
+    {
+      "id": "235-481",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Unicorn horn dust",
+        "monster_name": "Cave bug (Level 6)"
+      }
+    },
+    {
+      "id": "235-483",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Unicorn horn dust",
+        "monster_name": "Cave bug (Level 96)"
+      }
+    },
+    {
+      "id": "235-483",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Unicorn horn dust",
+        "monster_name": "Cave bug (Level 96)"
+      }
+    },
+    {
+      "id": "235-532",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Unicorn horn dust",
+        "monster_name": "Chaos druid warrior"
+      }
+    },
+    {
+      "id": "235-7389",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Unicorn horn dust",
+        "monster_name": "Chasm Crawler"
+      }
+    }
+  ]
+}

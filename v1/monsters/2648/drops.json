@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "id": "3365-2648",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Lean snail",
+        "monster_name": "Bark Blamish Snail"
+      }
+    },
+    {
+      "id": "3353-2648",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Blamish bark shell",
+        "monster_name": "Bark Blamish Snail"
+      }
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "id": "526-1377",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Bones",
+        "monster_name": "The Kendal (Normal)"
+      }
+    },
+    {
+      "id": "4502-1377",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Bearhead",
+        "monster_name": "The Kendal (Normal)"
+      }
+    }
+  ]
+}

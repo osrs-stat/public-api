@@ -1,0 +1,660 @@
+{
+  "data": [
+    {
+      "id": "803-1834",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Mithril thrownaxe",
+        "monster_name": "Gorak (Level 145)"
+      }
+    },
+    {
+      "id": "2722-1834",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Clue scroll (hard)",
+        "monster_name": "Gorak (Level 145)"
+      }
+    },
+    {
+      "id": "9016-1834",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Gorak claws",
+        "monster_name": "Gorak (Level 145)"
+      }
+    },
+    {
+      "id": "532-1834",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Big bones",
+        "monster_name": "Gorak (Level 145)"
+      }
+    },
+    {
+      "id": "213-1834",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0048828125"
+      },
+      "meta": {
+        "item_name": "Grimy kwuarm",
+        "monster_name": "Gorak (Level 145)"
+      }
+    },
+    {
+      "id": "211-1834",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00586029067041725"
+      },
+      "meta": {
+        "item_name": "Grimy avantoe",
+        "monster_name": "Gorak (Level 145)"
+      }
+    },
+    {
+      "id": "209-1834",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Grimy irit leaf",
+        "monster_name": "Gorak (Level 145)"
+      }
+    },
+    {
+      "id": "207-1834",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0107388316151203"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Gorak (Level 145)"
+      }
+    },
+    {
+      "id": "205-1834",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0136716613802909"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Gorak (Level 145)"
+      }
+    },
+    {
+      "id": "203-1834",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0175783996624947"
+      },
+      "meta": {
+        "item_name": "Grimy tarromin",
+        "monster_name": "Gorak (Level 145)"
+      }
+    },
+    {
+      "id": "201-1834",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234389649353085"
+      },
+      "meta": {
+        "item_name": "Grimy marrentill",
+        "monster_name": "Gorak (Level 145)"
+      }
+    },
+    {
+      "id": "199-1834",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Grimy guam leaf",
+        "monster_name": "Gorak (Level 145)"
+      }
+    },
+    {
+      "id": "10977-1834",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000199501246882793"
+      },
+      "meta": {
+        "item_name": "Curved bone",
+        "monster_name": "Gorak (Level 145)"
+      }
+    },
+    {
+      "id": "10976-1834",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0025"
+      },
+      "meta": {
+        "item_name": "Long bone",
+        "monster_name": "Gorak (Level 145)"
+      }
+    },
+    {
+      "id": "2722-1834",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Clue scroll (hard)",
+        "monster_name": "Gorak (Level 145)"
+      }
+    },
+    {
+      "id": "11942-1834",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0166666666666667"
+      },
+      "meta": {
+        "item_name": "Ecumenical key",
+        "monster_name": "Gorak (Level 145)"
+      }
+    },
+    {
+      "id": "11941-1834",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Gorak (Level 145)"
+      }
+    },
+    {
+      "id": "2570-1834",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Ring of life",
+        "monster_name": "Gorak (Level 145)"
+      }
+    },
+    {
+      "id": "5625-1834",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 4,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Mithril arrow (Poison++)",
+        "monster_name": "Gorak (Level 145)"
+      }
+    },
+    {
+      "id": "9016-1834",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Gorak claws",
+        "monster_name": "Gorak (Level 145)"
+      }
+    },
+    {
+      "id": "1113-1834",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Rune chainbody",
+        "monster_name": "Gorak (Level 145)"
+      }
+    },
+    {
+      "id": "1069-1834",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Steel platelegs",
+        "monster_name": "Gorak (Level 145)"
+      }
+    },
+    {
+      "id": "1083-1834",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Steel plateskirt",
+        "monster_name": "Gorak (Level 145)"
+      }
+    },
+    {
+      "id": "1199-1834",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Adamant kiteshield",
+        "monster_name": "Gorak (Level 145)"
+      }
+    },
+    {
+      "id": "217-1834",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00292945863604406"
+      },
+      "meta": {
+        "item_name": "Grimy dwarf weed",
+        "monster_name": "Gorak (Level 145)"
+      }
+    },
+    {
+      "id": "2485-1834",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00292945863604406"
+      },
+      "meta": {
+        "item_name": "Grimy lantadyme",
+        "monster_name": "Gorak (Level 145)"
+      }
+    },
+    {
+      "id": "1365-1834",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Steel battleaxe",
+        "monster_name": "Gorak (Level 145)"
+      }
+    },
+    {
+      "id": "215-1834",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00390625"
+      },
+      "meta": {
+        "item_name": "Grimy cadantine",
+        "monster_name": "Gorak (Level 145)"
+      }
+    },
+    {
+      "id": "802-1834",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Steel thrownaxe",
+        "monster_name": "Gorak (Level 145)"
+      }
+    },
+    {
+      "id": "1309-1834",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Iron 2h sword",
+        "monster_name": "Gorak (Level 145)"
+      }
+    },
+    {
+      "id": "5670-1834",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Bronze dagger (Poison+)",
+        "monster_name": "Gorak (Level 145)"
+      }
+    },
+    {
+      "id": "3192-1834",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Iron halberd",
+        "monster_name": "Gorak (Level 145)"
+      }
+    },
+    {
+      "id": "532-1834",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Big bones",
+        "monster_name": "Gorak (Level 145)"
+      }
+    },
+    {
+      "id": "10976-1834",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0025"
+      },
+      "meta": {
+        "item_name": "Long bone",
+        "monster_name": "Gorak (Level 145)"
+      }
+    },
+    {
+      "id": "10977-1834",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000199501246882793"
+      },
+      "meta": {
+        "item_name": "Curved bone",
+        "monster_name": "Gorak (Level 145)"
+      }
+    },
+    {
+      "id": "995-1834",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 132,
+        "quantity_max": null,
+        "rarity": "0.1953125"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Gorak (Level 145)"
+      }
+    },
+    {
+      "id": "995-1834",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 97,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Gorak (Level 145)"
+      }
+    },
+    {
+      "id": "995-1834",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 475,
+        "quantity_max": null,
+        "rarity": "0.0625"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Gorak (Level 145)"
+      }
+    },
+    {
+      "id": "995-1834",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 286,
+        "quantity_max": null,
+        "rarity": "0.078125"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Gorak (Level 145)"
+      }
+    },
+    {
+      "id": "995-1834",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 27,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Gorak (Level 145)"
+      }
+    },
+    {
+      "id": "995-1834",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 104,
+        "quantity_max": null,
+        "rarity": "0.2265625"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Gorak (Level 145)"
+      }
+    }
+  ]
+}

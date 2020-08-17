@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "id": "12938-2043",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 4,
+        "quantity_max": null,
+        "rarity": "0.0604838709677419"
+      },
+      "meta": {
+        "item_name": "Zul-andra teleport",
+        "monster_name": "Zulrah (Magma)"
+      }
+    },
+    {
+      "id": "12938-2044",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 4,
+        "quantity_max": null,
+        "rarity": "0.0604838709677419"
+      },
+      "meta": {
+        "item_name": "Zul-andra teleport",
+        "monster_name": "Zulrah (Tanzanite)"
+      }
+    },
+    {
+      "id": "12938-2042",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 4,
+        "quantity_max": null,
+        "rarity": "0.0604838709677419"
+      },
+      "meta": {
+        "item_name": "Zul-andra teleport",
+        "monster_name": "Zulrah (Serpentine)"
+      }
+    }
+  ]
+}

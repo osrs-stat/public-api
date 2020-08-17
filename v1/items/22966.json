@@ -1,0 +1,31 @@
+{
+  "data": {
+    "id": "22966",
+    "type": "item",
+    "attributes": {
+      "uuid": "ee7e2b8e-e9fc-42fd-9657-c04c91737b3d",
+      "name": "Hydra's claw",
+      "members": true,
+      "release_date": "2019-01-10",
+      "examine": "The claw of a ferocious hydra.",
+      "tradeable": false,
+      "ge_tradeable": false,
+      "lowalch": 60000,
+      "highalch": 90000,
+      "is_equip": false,
+      "is_weapon": false,
+      "icon_base64": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABS0lEQVR4Xu3WzQrCMBAEYHtTPKkoIghFpIiIFFFE8Gm8ePL9j5GNrt1Omiax9eeQgbmoTb5si9rpxMT8VRJV3a+lvPEhz9Vuu1XLxUKl87maTae6H0LhqRN1HfV0T/v9C7NZr0ug8WCgP5unaRsoc3MsYlZZVsK0BDIRt0nfaBUGp0Ol6xvctgcEN6deht1XfTEmKghmYiTiXQyDuJ4oP8z5eNQgxLhAtJ4EOZ6p4nmpw7w7HSq9FzAlPxBNJwTD30N0La/rOSU3iG8Vg2wYRtDrVLlGFQolz7hBrlslEfQ6Xm8DWaZUD5LTkRjc0NVGIImqmg5u5qoNYwFR7KgfYDgmCh9k3Kyu8mAMCsBwyr9hcjp4K+uKEJwO7upI8ePKGJycTyWCGzgdmeIPlzxhSBHRAENJNEaeLrQtIDDm6UKLKzbORxaNiYn5Ye6vo9I9htmK0wAAAABJRU5ErkJggg=="
+    },
+    "relationships": {
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Hydra's_claw"
+    },
+    "meta": {
+      "incomplete": false
+    }
+  },
+  "included": [
+
+  ]
+}

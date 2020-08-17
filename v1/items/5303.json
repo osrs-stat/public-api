@@ -1,0 +1,31 @@
+{
+  "data": {
+    "id": "5303",
+    "type": "item",
+    "attributes": {
+      "uuid": "5e1f93a8-0982-455d-bd5e-730d0d53a95d",
+      "name": "Dwarf weed seed",
+      "members": true,
+      "release_date": "2005-06-06",
+      "examine": "A dwarf weed seed - plant in a herb patch.",
+      "tradeable": false,
+      "ge_tradeable": false,
+      "lowalch": 2,
+      "highalch": 3,
+      "is_equip": false,
+      "is_weapon": false,
+      "icon_base64": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAAlUlEQVR4Xu3TsQrCMBSF4dwxY4ZAEYQMHR2K6FAQBEGhi4OLSweHvv8rHMkNqeCuN8P54IyBn4Q4R0RERC0RfGZOkHYem94jbp11lGC8B93+GtYwoyjB+RkxLR1ur7Ic1R+8hhlEicbUoMsccXpEHKegMUNKuu9TP1aiclC+rfx0hjGVrEENxFTlyzcSUzQVQ0REf/AGJAFJ5MIVhocAAAAASUVORK5CYII="
+    },
+    "relationships": {
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Dwarf_weed_seed"
+    },
+    "meta": {
+      "incomplete": false
+    }
+  },
+  "included": [
+
+  ]
+}

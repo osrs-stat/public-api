@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "7842-4367",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.25"
+      },
+      "meta": {
+        "item_name": "Ogre ribs (Unpolished)",
+        "monster_name": "Gorad"
+      }
+    },
+    {
+      "id": "7842-2233",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.25"
+      },
+      "meta": {
+        "item_name": "Ogre ribs (Unpolished)",
+        "monster_name": "Ogre (Level 58)"
+      }
+    },
+    {
+      "id": "7842-1153",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.25"
+      },
+      "meta": {
+        "item_name": "Ogre ribs (Unpolished)",
+        "monster_name": "Ogre (Level 63)"
+      }
+    },
+    {
+      "id": "7842-136",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.25"
+      },
+      "meta": {
+        "item_name": "Ogre ribs (Unpolished)",
+        "monster_name": "Ogre (Level 53)"
+      }
+    }
+  ]
+}

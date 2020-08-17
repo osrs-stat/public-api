@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "id": "21798-7859",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Ent's roots",
+        "monster_name": "Derwen"
+      }
+    },
+    {
+      "id": "11941-7859",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Derwen"
+      }
+    }
+  ]
+}

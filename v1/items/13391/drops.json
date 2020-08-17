@@ -1,0 +1,132 @@
+{
+  "data": [
+    {
+      "id": "13391-6914",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.179487179487179"
+      },
+      "meta": {
+        "item_name": "Lizardman fang",
+        "monster_name": "Lizardman (Level 53)"
+      }
+    },
+    {
+      "id": "13391-6766",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": 14,
+        "rarity": "0.076"
+      },
+      "meta": {
+        "item_name": "Lizardman fang",
+        "monster_name": "Lizardman shaman (Standard)"
+      }
+    },
+    {
+      "id": "13391-6914",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.114942528735632"
+      },
+      "meta": {
+        "item_name": "Lizardman fang",
+        "monster_name": "Lizardman (Level 53)"
+      }
+    },
+    {
+      "id": "13391-6916",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.114942528735632"
+      },
+      "meta": {
+        "item_name": "Lizardman fang",
+        "monster_name": "Lizardman (Level 62)"
+      }
+    },
+    {
+      "id": "13391-6916",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.179487179487179"
+      },
+      "meta": {
+        "item_name": "Lizardman fang",
+        "monster_name": "Lizardman (Level 62)"
+      }
+    },
+    {
+      "id": "13391-6918",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.208955223880597"
+      },
+      "meta": {
+        "item_name": "Lizardman fang",
+        "monster_name": "Lizardman brute (Standard)"
+      }
+    },
+    {
+      "id": "13391-8564",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.208955223880597"
+      },
+      "meta": {
+        "item_name": "Lizardman fang",
+        "monster_name": "Lizardman brute (Battlefront)"
+      }
+    },
+    {
+      "id": "13391-8565",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": 14,
+        "rarity": "0.076"
+      },
+      "meta": {
+        "item_name": "Lizardman fang",
+        "monster_name": "Lizardman shaman (Lizardman Temple)"
+      }
+    }
+  ]
+}

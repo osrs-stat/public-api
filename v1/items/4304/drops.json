@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "4304-2536",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00909090909090909"
+      },
+      "meta": {
+        "item_name": "Ham cloak",
+        "monster_name": "H.A.M. Guard (Level 12)"
+      }
+    },
+    {
+      "id": "4304-4522",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.006"
+      },
+      "meta": {
+        "item_name": "Ham cloak",
+        "monster_name": "Guard (H.A.M. storeroom)"
+      }
+    },
+    {
+      "id": "4304-2538",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00909090909090909"
+      },
+      "meta": {
+        "item_name": "Ham cloak",
+        "monster_name": "H.A.M. Guard (Level 22)"
+      }
+    },
+    {
+      "id": "4304-2537",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00909090909090909"
+      },
+      "meta": {
+        "item_name": "Ham cloak",
+        "monster_name": "H.A.M. Guard (Level 18)"
+      }
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "data": {
+    "id": "13368",
+    "type": "item",
+    "attributes": {
+      "uuid": "1abca5fc-75f6-41e1-bb3c-79616639aaf7",
+      "name": "Shayzien boots (3)",
+      "members": true,
+      "release_date": "2016-01-07",
+      "examine": "Dress like a tier 3 Shayzien soldier.",
+      "tradeable": false,
+      "ge_tradeable": false,
+      "lowalch": 18,
+      "highalch": 27,
+      "is_equip": true,
+      "is_weapon": false,
+      "icon_base64": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABy0lEQVR4Xt2WwWrCQBCG4zEHDzkIUhBEihQpIkWRilJRKilIj7300kMvff8HmOaPHd382Y1ZNVE68J3czX7OzkwSBP8/GpKl9sgKtKIoQ81SeQEGa0bdbl1SNyXklhmGgfSDQDoJVxWaJyKThKsLxc1QVs3gdoRuLkMMC2WpJBry/hbLdyvMyRyjAqmGbDcbiddr+YzCtH5wTXywiwtd4SHlEHldLmW1WMhHtCtmrRs+3MaZQtnXgYq8zGYyn05l+5edIiGzns4s8nzRqsjzeCyT0WifHRayjYAzuy4vA1TkaTiUx8FAHvr9vRCvNeGu8xSyywBT5L7XS8Fhruty4dFpbhlgioBup5PKYAT8eIyAklkqlgGmiIKrQOd9JR2HruM9NkoI+cvctdspkEHnYSah67TQeb+nEML91WdeFf+GUYDuQ8HrkNS60mLmPSrFBrmA9c6c3z92UaAyKHi0OsuYLa+oUIksHULlVJBFFJXRLBbJcIa8hA7hlgGYSxgFPAZYiPedKFQsA0wZmxCvN2U8hY7LAFOGhXht5TIuIV5jUtlVAZ7cgDuTOSE7GsUtDxkVsh1YBJ9UOrIPyf9blwQ/p7Lgg68iUXf8Aj1S2qNA52BiAAAAAElFTkSuQmCC"
+    },
+    "relationships": {
+      "equip": {
+        "data": {
+          "id": "57a9a580-3c9c-4582-9fa5-6afeef17bfb8",
+          "type": "equip"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Shayzien_boots_(3)"
+    },
+    "meta": {
+      "incomplete": false
+    }
+  },
+  "included": [
+    {
+      "id": "57a9a580-3c9c-4582-9fa5-6afeef17bfb8",
+      "type": "equip",
+      "attributes": {
+        "slot": "boots",
+        "passive_effect": null,
+        "requirements": {
+          "defense_level": 20
+        }
+      },
+      "relationships": {
+        "equip_stat": {
+          "data": {
+            "id": "42b6ad50-c2fd-45f0-b125-c5145ceaf8bd",
+            "type": "equip_stat"
+          }
+        }
+      }
+    },
+    {
+      "id": "42b6ad50-c2fd-45f0-b125-c5145ceaf8bd",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 0,
+        "slash_attack": 0,
+        "crush_attack": 0,
+        "ranged_attack": -1,
+        "magic_attack": -2,
+        "stab_defense": 4,
+        "slash_defense": 5,
+        "crush_defense": 6,
+        "ranged_defense": 0,
+        "magic_defense": 0,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

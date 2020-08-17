@@ -1,0 +1,150 @@
+{
+  "data": {
+    "id": "7931",
+    "type": "monster",
+    "attributes": {
+      "uuid": "a856ba68-c331-4a7e-9d22-fcd7e38e4869",
+      "name": "Revenant goblin",
+      "members": true,
+      "release_date": "2017-11-23",
+      "examine": "The ghost of a goblin slain long ago.",
+      "combat_level_override": null,
+      "max_hit_override": 3,
+      "target_types": [
+        "undead"
+      ],
+      "classification_types": [
+        "revenant",
+        "ghost"
+      ],
+      "poison": false,
+      "immune_poison": false,
+      "immune_venom": false,
+      "slayer_xp": 14.0,
+      "slayer_level": 1,
+      "slayer_masters": [
+        "turael",
+        "krystilia",
+        "mazchna"
+      ],
+      "icon_base64": null
+    },
+    "relationships": {
+      "combat_stat": {
+        "data": {
+          "id": "b4461627-ee16-4a9d-9fa6-e64b88efdda6",
+          "type": "combat_stat"
+        }
+      },
+      "equip_stat": {
+        "data": {
+          "id": "24e91962-30d0-420c-bc64-142d0f74436d",
+          "type": "equip_stat"
+        }
+      },
+      "attack_stat": {
+        "data": {
+          "id": "4e291e31-082b-4ef8-827d-a1002a172cd5",
+          "type": "attack_stat"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Revenant_goblin"
+    },
+    "meta": {
+      "incomplete": true
+    }
+  },
+  "included": [
+    {
+      "id": "4e291e31-082b-4ef8-827d-a1002a172cd5",
+      "type": "attack_stat",
+      "attributes": {
+        "attack_speed": 5,
+        "attack_type": "monster",
+        "special": null,
+        "stances": [
+          {
+            "name": "Monster crush",
+            "style": null,
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": null,
+            "combat_accuracy_stat": "attack_level",
+            "combat_damage_stat": "strength_level",
+            "equip_accuracy_stat": "crush_attack",
+            "equip_damage_stat": "crush_attack",
+            "target_equip_defense_stat": "crush_defense"
+          },
+          {
+            "name": "Monster ranged",
+            "style": null,
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": null,
+            "combat_accuracy_stat": "ranged_level",
+            "combat_damage_stat": "ranged_level",
+            "equip_accuracy_stat": "ranged_attack",
+            "equip_damage_stat": "ranged_attack",
+            "target_equip_defense_stat": "ranged_defense"
+          },
+          {
+            "name": "Monster magic",
+            "style": null,
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": null,
+            "combat_accuracy_stat": "magic_level",
+            "combat_damage_stat": "magic_level",
+            "equip_accuracy_stat": "magic_attack",
+            "equip_damage_stat": "magic_attack",
+            "target_equip_defense_stat": "magic_defense"
+          }
+        ]
+      }
+    },
+    {
+      "id": "b4461627-ee16-4a9d-9fa6-e64b88efdda6",
+      "type": "monster_combat_stat",
+      "attributes": {
+        "hitpoints_level": 14,
+        "attack_level": 13,
+        "strength_level": 14,
+        "defense_level": 14,
+        "magic_level": 12,
+        "ranged_level": 15,
+        "prayer_level": 0
+      }
+    },
+    {
+      "id": "24e91962-30d0-420c-bc64-142d0f74436d",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 6,
+        "slash_attack": 6,
+        "crush_attack": 6,
+        "ranged_attack": 21,
+        "magic_attack": 37,
+        "stab_defense": 25,
+        "slash_defense": 28,
+        "crush_defense": 31,
+        "ranged_defense": 31,
+        "magic_defense": 1,
+        "melee_strength": 8,
+        "ranged_strength": 12,
+        "magic_bonus": 12,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

@@ -1,0 +1,852 @@
+{
+  "data": [
+    {
+      "id": "1440-5938",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00892857142857143"
+      },
+      "meta": {
+        "item_name": "Earth talisman",
+        "monster_name": "Wallasalki"
+      }
+    },
+    {
+      "id": "1446-5938",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00892857142857143"
+      },
+      "meta": {
+        "item_name": "Body talisman",
+        "monster_name": "Wallasalki"
+      }
+    },
+    {
+      "id": "1438-5938",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00892857142857143"
+      },
+      "meta": {
+        "item_name": "Air talisman",
+        "monster_name": "Wallasalki"
+      }
+    },
+    {
+      "id": "2801-5938",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Clue scroll (medium)",
+        "monster_name": "Wallasalki"
+      }
+    },
+    {
+      "id": "359-5938",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 2,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Raw tuna",
+        "monster_name": "Wallasalki"
+      }
+    },
+    {
+      "id": "353-5938",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 2,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Raw mackerel",
+        "monster_name": "Wallasalki"
+      }
+    },
+    {
+      "id": "345-5938",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 2,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Raw herring",
+        "monster_name": "Wallasalki"
+      }
+    },
+    {
+      "id": "6163-5938",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Skull piece",
+        "monster_name": "Wallasalki"
+      }
+    },
+    {
+      "id": "526-5938",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Bones",
+        "monster_name": "Wallasalki"
+      }
+    },
+    {
+      "id": "6153-5938",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Skeletal gloves",
+        "monster_name": "Wallasalki"
+      }
+    },
+    {
+      "id": "6147-5938",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Skeletal boots",
+        "monster_name": "Wallasalki"
+      }
+    },
+    {
+      "id": "556-5938",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 10,
+        "rarity": "0.078125"
+      },
+      "meta": {
+        "item_name": "Air rune (Regular)",
+        "monster_name": "Wallasalki"
+      }
+    },
+    {
+      "id": "558-5938",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 10,
+        "rarity": "0.078125"
+      },
+      "meta": {
+        "item_name": "Mind rune",
+        "monster_name": "Wallasalki"
+      }
+    },
+    {
+      "id": "555-5938",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 10,
+        "rarity": "0.078125"
+      },
+      "meta": {
+        "item_name": "Water rune (Regular)",
+        "monster_name": "Wallasalki"
+      }
+    },
+    {
+      "id": "557-5938",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 10,
+        "rarity": "0.078125"
+      },
+      "meta": {
+        "item_name": "Earth rune (Regular)",
+        "monster_name": "Wallasalki"
+      }
+    },
+    {
+      "id": "562-5938",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 10,
+        "rarity": "0.078125"
+      },
+      "meta": {
+        "item_name": "Chaos rune (Regular)",
+        "monster_name": "Wallasalki"
+      }
+    },
+    {
+      "id": "560-5938",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 10,
+        "rarity": "0.078125"
+      },
+      "meta": {
+        "item_name": "Death rune (Regular)",
+        "monster_name": "Wallasalki"
+      }
+    },
+    {
+      "id": "565-5938",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 5,
+        "rarity": "0.078125"
+      },
+      "meta": {
+        "item_name": "Blood rune (Regular)",
+        "monster_name": "Wallasalki"
+      }
+    },
+    {
+      "id": "886-5938",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 10,
+        "rarity": "0.078125"
+      },
+      "meta": {
+        "item_name": "Steel arrow (Unpoisoned)",
+        "monster_name": "Wallasalki"
+      }
+    },
+    {
+      "id": "7936-5938",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 9,
+        "quantity_max": null,
+        "rarity": "0.078125"
+      },
+      "meta": {
+        "item_name": "Pure essence",
+        "monster_name": "Wallasalki"
+      }
+    },
+    {
+      "id": "6167-5938",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Fibula piece",
+        "monster_name": "Wallasalki"
+      }
+    },
+    {
+      "id": "6165-5938",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Ribcage piece",
+        "monster_name": "Wallasalki"
+      }
+    },
+    {
+      "id": "5300-5938",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000328256302521008"
+      },
+      "meta": {
+        "item_name": "Snapdragon seed",
+        "monster_name": "Wallasalki"
+      }
+    },
+    {
+      "id": "22873-5938",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000492281033396345"
+      },
+      "meta": {
+        "item_name": "Potato cactus seed",
+        "monster_name": "Wallasalki"
+      }
+    },
+    {
+      "id": "5299-5938",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000492281033396345"
+      },
+      "meta": {
+        "item_name": "Kwuarm seed",
+        "monster_name": "Wallasalki"
+      }
+    },
+    {
+      "id": "1452-5938",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00267857142857143"
+      },
+      "meta": {
+        "item_name": "Chaos talisman",
+        "monster_name": "Wallasalki"
+      }
+    },
+    {
+      "id": "1444-5938",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00892857142857143"
+      },
+      "meta": {
+        "item_name": "Water talisman",
+        "monster_name": "Wallasalki"
+      }
+    },
+    {
+      "id": "1448-5938",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00892857142857143"
+      },
+      "meta": {
+        "item_name": "Mind talisman",
+        "monster_name": "Wallasalki"
+      }
+    },
+    {
+      "id": "1442-5938",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00892857142857143"
+      },
+      "meta": {
+        "item_name": "Fire talisman",
+        "monster_name": "Wallasalki"
+      }
+    },
+    {
+      "id": "203-5938",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0109864997890592"
+      },
+      "meta": {
+        "item_name": "Grimy tarromin",
+        "monster_name": "Wallasalki"
+      }
+    },
+    {
+      "id": "201-5938",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0146493530845678"
+      },
+      "meta": {
+        "item_name": "Grimy marrentill",
+        "monster_name": "Wallasalki"
+      }
+    },
+    {
+      "id": "199-5938",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.01953125"
+      },
+      "meta": {
+        "item_name": "Grimy guam leaf",
+        "monster_name": "Wallasalki"
+      }
+    },
+    {
+      "id": "1462-5938",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00267857142857143"
+      },
+      "meta": {
+        "item_name": "Nature talisman",
+        "monster_name": "Wallasalki"
+      }
+    },
+    {
+      "id": "1454-5938",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00357142857142857"
+      },
+      "meta": {
+        "item_name": "Cosmic talisman",
+        "monster_name": "Wallasalki"
+      }
+    },
+    {
+      "id": "5280-5938",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000689541041482789"
+      },
+      "meta": {
+        "item_name": "Cactus seed",
+        "monster_name": "Wallasalki"
+      }
+    },
+    {
+      "id": "5304-5938",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0000656512605042017"
+      },
+      "meta": {
+        "item_name": "Torstol seed",
+        "monster_name": "Wallasalki"
+      }
+    },
+    {
+      "id": "5303-5938",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0000984810286146477"
+      },
+      "meta": {
+        "item_name": "Dwarf weed seed",
+        "monster_name": "Wallasalki"
+      }
+    },
+    {
+      "id": "22879-5938",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.000131302521008403"
+      },
+      "meta": {
+        "item_name": "Snape grass seed",
+        "monster_name": "Wallasalki"
+      }
+    },
+    {
+      "id": "5302-5938",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000164128151260504"
+      },
+      "meta": {
+        "item_name": "Lantadyme seed",
+        "monster_name": "Wallasalki"
+      }
+    },
+    {
+      "id": "5301-5938",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000229779411764706"
+      },
+      "meta": {
+        "item_name": "Cadantine seed",
+        "monster_name": "Wallasalki"
+      }
+    },
+    {
+      "id": "5106-5938",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000722042513863216"
+      },
+      "meta": {
+        "item_name": "Poison ivy seed",
+        "monster_name": "Wallasalki"
+      }
+    },
+    {
+      "id": "5298-5938",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000722042513863216"
+      },
+      "meta": {
+        "item_name": "Avantoe seed",
+        "monster_name": "Wallasalki"
+      }
+    },
+    {
+      "id": "5281-5938",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00101765012374626"
+      },
+      "meta": {
+        "item_name": "Belladonna seed",
+        "monster_name": "Wallasalki"
+      }
+    },
+    {
+      "id": "5297-5938",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00105034955633235"
+      },
+      "meta": {
+        "item_name": "Irit seed",
+        "monster_name": "Wallasalki"
+      }
+    },
+    {
+      "id": "5296-5938",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00154275276461295"
+      },
+      "meta": {
+        "item_name": "Toadflax seed",
+        "monster_name": "Wallasalki"
+      }
+    },
+    {
+      "id": "217-5938",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00183091164752754"
+      },
+      "meta": {
+        "item_name": "Grimy dwarf weed",
+        "monster_name": "Wallasalki"
+      }
+    },
+    {
+      "id": "2485-5938",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00183091164752754"
+      },
+      "meta": {
+        "item_name": "Grimy lantadyme",
+        "monster_name": "Wallasalki"
+      }
+    },
+    {
+      "id": "215-5938",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00244140625"
+      },
+      "meta": {
+        "item_name": "Grimy cadantine",
+        "monster_name": "Wallasalki"
+      }
+    },
+    {
+      "id": "213-5938",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0030517578125"
+      },
+      "meta": {
+        "item_name": "Grimy kwuarm",
+        "monster_name": "Wallasalki"
+      }
+    },
+    {
+      "id": "211-5938",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00366268166901078"
+      },
+      "meta": {
+        "item_name": "Grimy avantoe",
+        "monster_name": "Wallasalki"
+      }
+    },
+    {
+      "id": "209-5938",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0048828125"
+      },
+      "meta": {
+        "item_name": "Grimy irit leaf",
+        "monster_name": "Wallasalki"
+      }
+    },
+    {
+      "id": "207-5938",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00671176975945017"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Wallasalki"
+      }
+    },
+    {
+      "id": "205-5938",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00854478836268183"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Wallasalki"
+      }
+    }
+  ]
+}

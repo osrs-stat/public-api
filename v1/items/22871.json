@@ -1,0 +1,31 @@
+{
+  "data": {
+    "id": "22871",
+    "type": "item",
+    "attributes": {
+      "uuid": "9283fcfe-6732-4bc6-9509-6fc084635b26",
+      "name": "Redwood tree seed",
+      "members": true,
+      "release_date": "2019-01-10",
+      "examine": "Plant this in a plantpot of soil to grow a sapling.",
+      "tradeable": false,
+      "ge_tradeable": false,
+      "lowalch": 260,
+      "highalch": 390,
+      "is_equip": false,
+      "is_weapon": false,
+      "icon_base64": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAAzklEQVR4XmNgGAWjYBSMglEwCkbBYAOM/yF4wAHEIQE6Kv+dVWQH2lGM/8t8nP9nWRn8j02x/G8iKwF2kIGCwkA4ivF/e5jP/ypny//RuUb/PdQU/muICv7XkYI4Cl01jQHj/ylxIf9bvWz/p1ZZ/i92MP0fbaT1P9zcAB5CdA4lxv/Ls+P+d/jY/29wswI7qNDD/n+2s81ARRnj/zV5if9nJoX9748O/N8U5Pm/PtBjoEIHBmDZHIEH0DEQAHMAMkZXMwpGwSgYBaNguAIAADNeil8eYEEAAAAASUVORK5CYII="
+    },
+    "relationships": {
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Redwood_tree_seed"
+    },
+    "meta": {
+      "incomplete": false
+    }
+  },
+  "included": [
+
+  ]
+}

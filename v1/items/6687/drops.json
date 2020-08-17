@@ -1,0 +1,84 @@
+{
+  "data": [
+    {
+      "id": "6687-5890",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 6,
+        "quantity_max": null,
+        "rarity": "0.0143884892086331"
+      },
+      "meta": {
+        "item_name": "Saradomin brew (3 dose)",
+        "monster_name": "Abyssal Sire (Phase 2)"
+      }
+    },
+    {
+      "id": "6687-2205",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.047244094488189"
+      },
+      "meta": {
+        "item_name": "Saradomin brew (3 dose)",
+        "monster_name": "Commander Zilyana"
+      }
+    },
+    {
+      "id": "6687-5908",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 6,
+        "quantity_max": null,
+        "rarity": "0.0143884892086331"
+      },
+      "meta": {
+        "item_name": "Saradomin brew (3 dose)",
+        "monster_name": "Abyssal Sire (Phase 3 (stage 2))"
+      }
+    },
+    {
+      "id": "6687-5891",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 6,
+        "quantity_max": null,
+        "rarity": "0.0143884892086331"
+      },
+      "meta": {
+        "item_name": "Saradomin brew (3 dose)",
+        "monster_name": "Abyssal Sire (Phase 3 (stage 1))"
+      }
+    },
+    {
+      "id": "6687-5886",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 6,
+        "quantity_max": null,
+        "rarity": "0.0143884892086331"
+      },
+      "meta": {
+        "item_name": "Saradomin brew (3 dose)",
+        "monster_name": "Abyssal Sire (Phase 1)"
+      }
+    }
+  ]
+}

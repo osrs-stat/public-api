@@ -1,0 +1,20 @@
+{
+  "data": [
+    {
+      "id": "23528-8713",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "forthos-dungeon-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00260416666666667"
+      },
+      "meta": {
+        "item_name": "Sarachnis cudgel",
+        "monster_name": "Sarachnis"
+      }
+    }
+  ]
+}

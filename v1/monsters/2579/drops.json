@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "id": "2832-2579",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Key (Treasure Trails) (Medium)",
+        "monster_name": "Monk (Level 5)"
+      }
+    },
+    {
+      "id": "526-2579",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Bones",
+        "monster_name": "Monk (Level 5)"
+      }
+    }
+  ]
+}

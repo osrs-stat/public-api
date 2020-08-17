@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "1157-2452",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.9"
+      },
+      "meta": {
+        "item_name": "Steel full helm",
+        "monster_name": "Animated Steel Armour"
+      }
+    },
+    {
+      "id": "1069-2452",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Steel platelegs",
+        "monster_name": "Animated Steel Armour"
+      }
+    },
+    {
+      "id": "1119-2452",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Steel platebody",
+        "monster_name": "Animated Steel Armour"
+      }
+    },
+    {
+      "id": "8851-2452",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 15,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Warrior guild token",
+        "monster_name": "Animated Steel Armour"
+      }
+    }
+  ]
+}

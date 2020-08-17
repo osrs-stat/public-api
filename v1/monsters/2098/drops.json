@@ -1,0 +1,804 @@
+{
+  "data": [
+    {
+      "id": "563-2098",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Law rune",
+        "monster_name": "Hill Giant"
+      }
+    },
+    {
+      "id": "10977-2098",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000199501246882793"
+      },
+      "meta": {
+        "item_name": "Curved bone",
+        "monster_name": "Hill Giant"
+      }
+    },
+    {
+      "id": "555-2098",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 7,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Water rune (Regular)",
+        "monster_name": "Hill Giant"
+      }
+    },
+    {
+      "id": "554-2098",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 15,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Fire rune (Regular)",
+        "monster_name": "Hill Giant"
+      }
+    },
+    {
+      "id": "884-2098",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.046875"
+      },
+      "meta": {
+        "item_name": "Iron arrow (Unpoisoned)",
+        "monster_name": "Hill Giant"
+      }
+    },
+    {
+      "id": "1295-2098",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Steel longsword",
+        "monster_name": "Hill Giant"
+      }
+    },
+    {
+      "id": "1191-2098",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Iron kiteshield",
+        "monster_name": "Hill Giant"
+      }
+    },
+    {
+      "id": "1153-2098",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Iron full helm",
+        "monster_name": "Hill Giant"
+      }
+    },
+    {
+      "id": "1203-2098",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Iron dagger (Unpoisoned)",
+        "monster_name": "Hill Giant"
+      }
+    },
+    {
+      "id": "532-2098",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Big bones",
+        "monster_name": "Hill Giant"
+      }
+    },
+    {
+      "id": "211-2098",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00256387716830755"
+      },
+      "meta": {
+        "item_name": "Grimy avantoe",
+        "monster_name": "Hill Giant"
+      }
+    },
+    {
+      "id": "209-2098",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00341796875"
+      },
+      "meta": {
+        "item_name": "Grimy irit leaf",
+        "monster_name": "Hill Giant"
+      }
+    },
+    {
+      "id": "207-2098",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00469823883161512"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Hill Giant"
+      }
+    },
+    {
+      "id": "205-2098",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00598135185387728"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Hill Giant"
+      }
+    },
+    {
+      "id": "203-2098",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00769054985234144"
+      },
+      "meta": {
+        "item_name": "Grimy tarromin",
+        "monster_name": "Hill Giant"
+      }
+    },
+    {
+      "id": "21257-2098",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00342465753424658"
+      },
+      "meta": {
+        "item_name": "Slayer's enchantment",
+        "monster_name": "Hill Giant"
+      }
+    },
+    {
+      "id": "23490-2098",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00109745390693591"
+      },
+      "meta": {
+        "item_name": "Larran's key",
+        "monster_name": "Hill Giant"
+      }
+    },
+    {
+      "id": "217-2098",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00128163815326928"
+      },
+      "meta": {
+        "item_name": "Grimy dwarf weed",
+        "monster_name": "Hill Giant"
+      }
+    },
+    {
+      "id": "2485-2098",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00128163815326928"
+      },
+      "meta": {
+        "item_name": "Grimy lantadyme",
+        "monster_name": "Hill Giant"
+      }
+    },
+    {
+      "id": "215-2098",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.001708984375"
+      },
+      "meta": {
+        "item_name": "Grimy cadantine",
+        "monster_name": "Hill Giant"
+      }
+    },
+    {
+      "id": "213-2098",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00213623046875"
+      },
+      "meta": {
+        "item_name": "Grimy kwuarm",
+        "monster_name": "Hill Giant"
+      }
+    },
+    {
+      "id": "23083-2098",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000879662209711471"
+      },
+      "meta": {
+        "item_name": "Brimstone key",
+        "monster_name": "Hill Giant"
+      }
+    },
+    {
+      "id": "19677-2098",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "catacombs-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0032258064516129"
+      },
+      "meta": {
+        "item_name": "Ancient shard",
+        "monster_name": "Hill Giant"
+      }
+    },
+    {
+      "id": "19679-2098",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "catacombs-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0021505376344086"
+      },
+      "meta": {
+        "item_name": "Dark totem base",
+        "monster_name": "Hill Giant"
+      }
+    },
+    {
+      "id": "19681-2098",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "catacombs-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0021505376344086"
+      },
+      "meta": {
+        "item_name": "Dark totem middle",
+        "monster_name": "Hill Giant"
+      }
+    },
+    {
+      "id": "19683-2098",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "catacombs-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0021505376344086"
+      },
+      "meta": {
+        "item_name": "Dark totem top",
+        "monster_name": "Hill Giant"
+      }
+    },
+    {
+      "id": "199-2098",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.013671875"
+      },
+      "meta": {
+        "item_name": "Grimy guam leaf",
+        "monster_name": "Hill Giant"
+      }
+    },
+    {
+      "id": "201-2098",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0102545471591974"
+      },
+      "meta": {
+        "item_name": "Grimy marrentill",
+        "monster_name": "Hill Giant"
+      }
+    },
+    {
+      "id": "886-2098",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Steel arrow (Unpoisoned)",
+        "monster_name": "Hill Giant"
+      }
+    },
+    {
+      "id": "558-2098",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Mind rune",
+        "monster_name": "Hill Giant"
+      }
+    },
+    {
+      "id": "564-2098",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Cosmic rune",
+        "monster_name": "Hill Giant"
+      }
+    },
+    {
+      "id": "561-2098",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 6,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Hill Giant"
+      }
+    },
+    {
+      "id": "562-2098",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Chaos rune (Regular)",
+        "monster_name": "Hill Giant"
+      }
+    },
+    {
+      "id": "560-2098",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Death rune (Regular)",
+        "monster_name": "Hill Giant"
+      }
+    },
+    {
+      "id": "225-2098",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0859375"
+      },
+      "meta": {
+        "item_name": "Limpwurt root",
+        "monster_name": "Hill Giant"
+      }
+    },
+    {
+      "id": "1917-2098",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.046875"
+      },
+      "meta": {
+        "item_name": "Beer",
+        "monster_name": "Hill Giant"
+      }
+    },
+    {
+      "id": "1446-2098",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Body talisman",
+        "monster_name": "Hill Giant"
+      }
+    },
+    {
+      "id": "20754-2098",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Giant key",
+        "monster_name": "Hill Giant"
+      }
+    },
+    {
+      "id": "11941-2098",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.2"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Hill Giant"
+      }
+    },
+    {
+      "id": "13474-2098",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.04"
+      },
+      "meta": {
+        "item_name": "Ensouled giant head (Drop)",
+        "monster_name": "Hill Giant"
+      }
+    },
+    {
+      "id": "23182-2098",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.02"
+      },
+      "meta": {
+        "item_name": "Clue scroll (beginner)",
+        "monster_name": "Hill Giant"
+      }
+    },
+    {
+      "id": "10976-2098",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0025"
+      },
+      "meta": {
+        "item_name": "Long bone",
+        "monster_name": "Hill Giant"
+      }
+    },
+    {
+      "id": "6800-2098",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0002"
+      },
+      "meta": {
+        "item_name": "Giant champion scroll",
+        "monster_name": "Hill Giant"
+      }
+    },
+    {
+      "id": "995-2098",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 8,
+        "quantity_max": null,
+        "rarity": "0.046875"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Hill Giant"
+      }
+    },
+    {
+      "id": "995-2098",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.0546875"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Hill Giant"
+      }
+    },
+    {
+      "id": "995-2098",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 15,
+        "quantity_max": null,
+        "rarity": "0.0625"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Hill Giant"
+      }
+    },
+    {
+      "id": "995-2098",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 52,
+        "quantity_max": null,
+        "rarity": "0.078125"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Hill Giant"
+      }
+    },
+    {
+      "id": "995-2098",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 38,
+        "quantity_max": null,
+        "rarity": "0.109375"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Hill Giant"
+      }
+    },
+    {
+      "id": "995-2098",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.140625"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Hill Giant"
+      }
+    },
+    {
+      "id": "995-2098",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 88,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Hill Giant"
+      }
+    }
+  ]
+}

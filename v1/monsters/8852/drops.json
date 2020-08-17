@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "id": "526-8852",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Bones",
+        "monster_name": "https://oldschool.runescape.wiki/w/Knight_of_Ardougne#Level_53"
+      }
+    },
+    {
+      "id": "995-8852",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 50,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "https://oldschool.runescape.wiki/w/Knight_of_Ardougne#Level_53"
+      }
+    }
+  ]
+}

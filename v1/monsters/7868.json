@@ -1,0 +1,119 @@
+{
+  "data": {
+    "id": "7868",
+    "type": "monster",
+    "attributes": {
+      "uuid": "7a21d8ea-85c4-437f-86aa-febdafafac3a",
+      "name": "Green dragon (Level 88)",
+      "members": true,
+      "release_date": "2017-11-23",
+      "examine": "Must be related to Elvarg.",
+      "combat_level_override": null,
+      "max_hit_override": null,
+      "target_types": [
+        "dragon",
+        "fiery"
+      ],
+      "classification_types": [
+        "green dragon"
+      ],
+      "poison": false,
+      "immune_poison": false,
+      "immune_venom": false,
+      "slayer_xp": 100.0,
+      "slayer_level": 1,
+      "slayer_masters": [
+        "krystilia",
+        "vannaka"
+      ],
+      "icon_base64": null
+    },
+    "relationships": {
+      "combat_stat": {
+        "data": {
+          "id": "dccf71ea-7cfa-4307-aa30-234af3a06066",
+          "type": "combat_stat"
+        }
+      },
+      "equip_stat": {
+        "data": {
+          "id": "3d082048-6d3d-4af0-bff5-abba65d8002a",
+          "type": "equip_stat"
+        }
+      },
+      "attack_stat": {
+        "data": {
+          "id": "947280ff-8d5f-4b60-8087-c76269aad5c8",
+          "type": "attack_stat"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Green_dragon#Level_88"
+    },
+    "meta": {
+      "incomplete": true
+    }
+  },
+  "included": [
+    {
+      "id": "947280ff-8d5f-4b60-8087-c76269aad5c8",
+      "type": "attack_stat",
+      "attributes": {
+        "attack_speed": 4,
+        "attack_type": "monster",
+        "special": null,
+        "stances": [
+          {
+            "name": "Monster slash",
+            "style": null,
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": null,
+            "combat_accuracy_stat": "attack_level",
+            "combat_damage_stat": "strength_level",
+            "equip_accuracy_stat": "slash_attack",
+            "equip_damage_stat": "slash_attack",
+            "target_equip_defense_stat": "slash_defense"
+          }
+        ]
+      }
+    },
+    {
+      "id": "dccf71ea-7cfa-4307-aa30-234af3a06066",
+      "type": "monster_combat_stat",
+      "attributes": {
+        "hitpoints_level": 100,
+        "attack_level": 68,
+        "strength_level": 75,
+        "defense_level": 68,
+        "magic_level": 75,
+        "ranged_level": 1,
+        "prayer_level": 0
+      }
+    },
+    {
+      "id": "3d082048-6d3d-4af0-bff5-abba65d8002a",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 0,
+        "slash_attack": 0,
+        "crush_attack": 0,
+        "ranged_attack": 0,
+        "magic_attack": 0,
+        "stab_defense": 20,
+        "slash_defense": 40,
+        "crush_defense": 40,
+        "ranged_defense": 20,
+        "magic_defense": 30,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

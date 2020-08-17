@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "13465-2837",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0285714285714286"
+      },
+      "meta": {
+        "item_name": "Ensouled unicorn head (Drop)",
+        "monster_name": "Unicorn"
+      }
+    },
+    {
+      "id": "7821-2837",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Unicorn bone (Unpolished)",
+        "monster_name": "Unicorn"
+      }
+    },
+    {
+      "id": "237-2837",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Unicorn horn",
+        "monster_name": "Unicorn"
+      }
+    },
+    {
+      "id": "526-2837",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Bones",
+        "monster_name": "Unicorn"
+      }
+    }
+  ]
+}

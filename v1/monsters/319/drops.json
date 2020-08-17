@@ -1,0 +1,596 @@
+{
+  "data": [
+    {
+      "id": "12816-319",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0002"
+      },
+      "meta": {
+        "item_name": "Pet dark core",
+        "monster_name": "Corporeal Beast"
+      }
+    },
+    {
+      "id": "12823-319",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000732600732600733"
+      },
+      "meta": {
+        "item_name": "Spectral sigil",
+        "monster_name": "Corporeal Beast"
+      }
+    },
+    {
+      "id": "12827-319",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000732600732600733"
+      },
+      "meta": {
+        "item_name": "Arcane sigil",
+        "monster_name": "Corporeal Beast"
+      }
+    },
+    {
+      "id": "12819-319",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000244200244200244"
+      },
+      "meta": {
+        "item_name": "Elysian sigil",
+        "monster_name": "Corporeal Beast"
+      }
+    },
+    {
+      "id": "4091-319",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03515625"
+      },
+      "meta": {
+        "item_name": "Mystic robe top",
+        "monster_name": "Corporeal Beast"
+      }
+    },
+    {
+      "id": "4093-319",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03515625"
+      },
+      "meta": {
+        "item_name": "Mystic robe bottom",
+        "monster_name": "Corporeal Beast"
+      }
+    },
+    {
+      "id": "1405-319",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Mystic air staff",
+        "monster_name": "Corporeal Beast"
+      }
+    },
+    {
+      "id": "1403-319",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Mystic water staff",
+        "monster_name": "Corporeal Beast"
+      }
+    },
+    {
+      "id": "1407-319",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Mystic earth staff",
+        "monster_name": "Corporeal Beast"
+      }
+    },
+    {
+      "id": "1401-319",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Mystic fire staff",
+        "monster_name": "Corporeal Beast"
+      }
+    },
+    {
+      "id": "566-319",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 250,
+        "quantity_max": null,
+        "rarity": "0.0625"
+      },
+      "meta": {
+        "item_name": "Soul rune",
+        "monster_name": "Corporeal Beast"
+      }
+    },
+    {
+      "id": "9144-319",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 250,
+        "quantity_max": null,
+        "rarity": "0.046875"
+      },
+      "meta": {
+        "item_name": "Runite bolts (Unpoisoned)",
+        "monster_name": "Corporeal Beast"
+      }
+    },
+    {
+      "id": "12073-319",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.005"
+      },
+      "meta": {
+        "item_name": "Clue scroll (elite)",
+        "monster_name": "Corporeal Beast"
+      }
+    },
+    {
+      "id": "560-319",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 300,
+        "quantity_max": null,
+        "rarity": "0.04296875"
+      },
+      "meta": {
+        "item_name": "Death rune (Regular)",
+        "monster_name": "Corporeal Beast"
+      }
+    },
+    {
+      "id": "9245-319",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 175,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Onyx bolts (e)",
+        "monster_name": "Corporeal Beast"
+      }
+    },
+    {
+      "id": "2-319",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2000,
+        "quantity_max": null,
+        "rarity": "0.033203125"
+      },
+      "meta": {
+        "item_name": "Cannonball",
+        "monster_name": "Corporeal Beast"
+      }
+    },
+    {
+      "id": "890-319",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 750,
+        "quantity_max": null,
+        "rarity": "0.033203125"
+      },
+      "meta": {
+        "item_name": "Adamant arrow (Unpoisoned)",
+        "monster_name": "Corporeal Beast"
+      }
+    },
+    {
+      "id": "563-319",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 250,
+        "quantity_max": null,
+        "rarity": "0.033203125"
+      },
+      "meta": {
+        "item_name": "Law rune",
+        "monster_name": "Corporeal Beast"
+      }
+    },
+    {
+      "id": "564-319",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 500,
+        "quantity_max": null,
+        "rarity": "0.033203125"
+      },
+      "meta": {
+        "item_name": "Cosmic rune",
+        "monster_name": "Corporeal Beast"
+      }
+    },
+    {
+      "id": "383-319",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 70,
+        "quantity_max": null,
+        "rarity": "0.041015625"
+      },
+      "meta": {
+        "item_name": "Raw shark",
+        "monster_name": "Corporeal Beast"
+      }
+    },
+    {
+      "id": "7936-319",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 2500,
+        "quantity_max": null,
+        "rarity": "0.041015625"
+      },
+      "meta": {
+        "item_name": "Pure essence",
+        "monster_name": "Corporeal Beast"
+      }
+    },
+    {
+      "id": "2361-319",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 35,
+        "quantity_max": null,
+        "rarity": "0.03515625"
+      },
+      "meta": {
+        "item_name": "Adamantite bar",
+        "monster_name": "Corporeal Beast"
+      }
+    },
+    {
+      "id": "1753-319",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 100,
+        "quantity_max": null,
+        "rarity": "0.03515625"
+      },
+      "meta": {
+        "item_name": "Green dragonhide",
+        "monster_name": "Corporeal Beast"
+      }
+    },
+    {
+      "id": "449-319",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 125,
+        "quantity_max": null,
+        "rarity": "0.033203125"
+      },
+      "meta": {
+        "item_name": "Adamantite ore",
+        "monster_name": "Corporeal Beast"
+      }
+    },
+    {
+      "id": "451-319",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 20,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Runite ore",
+        "monster_name": "Corporeal Beast"
+      }
+    },
+    {
+      "id": "8780-319",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 100,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Teak plank",
+        "monster_name": "Corporeal Beast"
+      }
+    },
+    {
+      "id": "6332-319",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 150,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Mahogany logs",
+        "monster_name": "Corporeal Beast"
+      }
+    },
+    {
+      "id": "1513-319",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 75,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Magic logs",
+        "monster_name": "Corporeal Beast"
+      }
+    },
+    {
+      "id": "7060-319",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 30,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Tuna potato",
+        "monster_name": "Corporeal Beast"
+      }
+    },
+    {
+      "id": "239-319",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 120,
+        "quantity_max": null,
+        "rarity": "0.033203125"
+      },
+      "meta": {
+        "item_name": "White berries",
+        "monster_name": "Corporeal Beast"
+      }
+    },
+    {
+      "id": "9735-319",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 120,
+        "quantity_max": null,
+        "rarity": "0.033203125"
+      },
+      "meta": {
+        "item_name": "Desert goat horn",
+        "monster_name": "Corporeal Beast"
+      }
+    },
+    {
+      "id": "5321-319",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 24,
+        "quantity_max": null,
+        "rarity": "0.029296875"
+      },
+      "meta": {
+        "item_name": "Watermelon seed",
+        "monster_name": "Corporeal Beast"
+      }
+    },
+    {
+      "id": "5952-319",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 40,
+        "quantity_max": null,
+        "rarity": "0.01953125"
+      },
+      "meta": {
+        "item_name": "Antidote++ (4 dose)",
+        "monster_name": "Corporeal Beast"
+      }
+    },
+    {
+      "id": "12829-319",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Spirit shield",
+        "monster_name": "Corporeal Beast"
+      }
+    },
+    {
+      "id": "5295-319",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.009765625"
+      },
+      "meta": {
+        "item_name": "Ranarr seed",
+        "monster_name": "Corporeal Beast"
+      }
+    },
+    {
+      "id": "12833-319",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.005859375"
+      },
+      "meta": {
+        "item_name": "Holy elixir",
+        "monster_name": "Corporeal Beast"
+      }
+    },
+    {
+      "id": "995-319",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 20000,
+        "quantity_max": 50000,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Corporeal Beast"
+      }
+    }
+  ]
+}

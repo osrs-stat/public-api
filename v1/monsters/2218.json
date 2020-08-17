@@ -1,0 +1,117 @@
+{
+  "data": {
+    "id": "2218",
+    "type": "monster",
+    "attributes": {
+      "uuid": "e6ded23e-6770-4fd3-b144-c4c4799aeb59",
+      "name": "Sergeant Grimspike",
+      "members": true,
+      "release_date": "2013-10-17",
+      "examine": "A battle-honed goblin.",
+      "combat_level_override": null,
+      "max_hit_override": null,
+      "target_types": [
+
+      ],
+      "classification_types": [
+        "goblin"
+      ],
+      "poison": false,
+      "immune_poison": false,
+      "immune_venom": false,
+      "slayer_xp": 146.0,
+      "slayer_level": 1,
+      "slayer_masters": [
+        "turael"
+      ],
+      "icon_base64": null
+    },
+    "relationships": {
+      "combat_stat": {
+        "data": {
+          "id": "999b368f-f0cd-4f64-8c95-a74f4bfca4de",
+          "type": "combat_stat"
+        }
+      },
+      "equip_stat": {
+        "data": {
+          "id": "d1ae88d0-4f0f-4114-8be2-3d985a3fd04e",
+          "type": "equip_stat"
+        }
+      },
+      "attack_stat": {
+        "data": {
+          "id": "b226ce88-61c5-4b57-a2ec-e84dd9105a98",
+          "type": "attack_stat"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Sergeant_Grimspike"
+    },
+    "meta": {
+      "incomplete": true
+    }
+  },
+  "included": [
+    {
+      "id": "b226ce88-61c5-4b57-a2ec-e84dd9105a98",
+      "type": "attack_stat",
+      "attributes": {
+        "attack_speed": 5,
+        "attack_type": "monster",
+        "special": null,
+        "stances": [
+          {
+            "name": "Monster ranged",
+            "style": null,
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": null,
+            "combat_accuracy_stat": "ranged_level",
+            "combat_damage_stat": "ranged_level",
+            "equip_accuracy_stat": "ranged_attack",
+            "equip_damage_stat": "ranged_attack",
+            "target_equip_defense_stat": "ranged_defense"
+          }
+        ]
+      }
+    },
+    {
+      "id": "999b368f-f0cd-4f64-8c95-a74f4bfca4de",
+      "type": "monster_combat_stat",
+      "attributes": {
+        "hitpoints_level": 146,
+        "attack_level": 80,
+        "strength_level": 80,
+        "defense_level": 132,
+        "magic_level": 50,
+        "ranged_level": 150,
+        "prayer_level": 0
+      }
+    },
+    {
+      "id": "d1ae88d0-4f0f-4114-8be2-3d985a3fd04e",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 0,
+        "slash_attack": 0,
+        "crush_attack": 0,
+        "ranged_attack": 20,
+        "magic_attack": 0,
+        "stab_defense": 0,
+        "slash_defense": 0,
+        "crush_defense": 0,
+        "ranged_defense": 0,
+        "magic_defense": 0,
+        "melee_strength": 0,
+        "ranged_strength": 20,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "7218-5862",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.046875"
+      },
+      "meta": {
+        "item_name": "Summer pie (Full)",
+        "monster_name": "Cerberus"
+      }
+    },
+    {
+      "id": "7218-2208",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.062992125984252"
+      },
+      "meta": {
+        "item_name": "Summer pie (Full)",
+        "monster_name": "Bree"
+      }
+    },
+    {
+      "id": "7218-2207",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.062992125984252"
+      },
+      "meta": {
+        "item_name": "Summer pie (Full)",
+        "monster_name": "Growler"
+      }
+    },
+    {
+      "id": "7218-2206",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.062992125984252"
+      },
+      "meta": {
+        "item_name": "Summer pie (Full)",
+        "monster_name": "Starlight"
+      }
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "data": {
+    "id": "22557",
+    "type": "item",
+    "attributes": {
+      "uuid": "1c29f8cc-9cfb-42da-a0f7-4642d78532b9",
+      "name": "Amulet of avarice",
+      "members": true,
+      "release_date": "2018-07-26",
+      "examine": "A hauntingly beautiful amulet bearing the shape of a skull.",
+      "tradeable": false,
+      "ge_tradeable": false,
+      "lowalch": 18000,
+      "highalch": 27000,
+      "is_equip": true,
+      "is_weapon": false,
+      "icon_base64": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACTUlEQVR4Xu2WT2sTQRjGs0cPc5jDwrBQCEGCBAlF8DuIB0GhUlCKQopETSko9V/8A6ZGCIRWKC0E2lAJSAqKEhpUeqkWCqWgiOBF8Js87sw6ye7MlK7JTvTQHzyQw+w7v33nHTap1BGJ4mCwWMHByVxuoFiQisqE317d/KAkKKXLjKfTvfyNXAJHeLBMeJVJTn1WrRN+PibxZFTU7plk4tQx0C82RJGUKiVrqatioAupK+JxJHQY/5WQftsGr6UI9RMHs4iUGVjoRDarJSpnTlgk3JUhZCTBBsczmV7CcurGpgzZFZVAqPEii/mHGSzO0YicGlM3E5XZfcOw3WbYajF0my7eNlxsLLloPKeolynKJYLSFNGOTCZRmV+fPfzY8vDtvYf9DhNynVUX63UqsvSUojpHcPd6IBSekYTmReJgz+/I1NgdXB17gEL6ET4su6JLsjuNxxRrtb4U71TQFSs4+LLJsPeO4T5dE0K8Q1KIS5xxL+McK2DRF6vcIihOHOt1Sa2WAA6+f+wfFReTQq0FV0hcJLO4QsookipKkwSF89aEHPzseNh9yYQU79T2aiC0UXPRehYcGT+i2j2KlXkakbEgxHGw/4rh685pfOqOY7Od18JFqjMET64R3P5zyyzJcBzsNBlO5fORdP35aTdzIuVpIoQsXG8TjiYj87ruD7V/VHxu1KuuVkmQQGjSm8WEdxMXvGJEar1CcemstSE2EQjN0Dpu0JoQmiYV8dvS9+kw9K+1lBjRzJjQ/wuF52XEMhJdRF0xcv6FyG+HYZ2kArzfwAAAAABJRU5ErkJggg=="
+    },
+    "relationships": {
+      "equip": {
+        "data": {
+          "id": "d5d6b362-0b10-4dc0-a32a-6229ae0f992e",
+          "type": "equip"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Amulet_of_avarice"
+    },
+    "meta": {
+      "incomplete": false
+    }
+  },
+  "included": [
+    {
+      "id": "d5d6b362-0b10-4dc0-a32a-6229ae0f992e",
+      "type": "equip",
+      "attributes": {
+        "slot": "amulet",
+        "passive_effect": null,
+        "requirements": null
+      },
+      "relationships": {
+        "equip_stat": {
+          "data": {
+            "id": "79e27869-638d-4af6-a4c4-e32169c642ec",
+            "type": "equip_stat"
+          }
+        }
+      }
+    },
+    {
+      "id": "79e27869-638d-4af6-a4c4-e32169c642ec",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 10,
+        "slash_attack": 10,
+        "crush_attack": 10,
+        "ranged_attack": 10,
+        "magic_attack": 10,
+        "stab_defense": 3,
+        "slash_defense": 3,
+        "crush_defense": 3,
+        "ranged_defense": 3,
+        "magic_defense": 3,
+        "melee_strength": 6,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 3
+      }
+    }
+  ]
+}

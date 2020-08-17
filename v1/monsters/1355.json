@@ -1,0 +1,117 @@
+{
+  "data": {
+    "id": "1355",
+    "type": "monster",
+    "attributes": {
+      "uuid": "0d41f5a4-a8b4-4665-8269-ab5c3bb0cae5",
+      "name": "Dwarf gang member (Level 48)",
+      "members": true,
+      "release_date": "2005-02-28",
+      "examine": "A short stout menacing fellow.",
+      "combat_level_override": null,
+      "max_hit_override": null,
+      "target_types": [
+
+      ],
+      "classification_types": [
+        "dwarf"
+      ],
+      "poison": false,
+      "immune_poison": false,
+      "immune_venom": false,
+      "slayer_xp": 25.0,
+      "slayer_level": 1,
+      "slayer_masters": [
+        "turael"
+      ],
+      "icon_base64": null
+    },
+    "relationships": {
+      "combat_stat": {
+        "data": {
+          "id": "a87e1e01-2fdd-4a12-b4ac-1c193bbab9ff",
+          "type": "combat_stat"
+        }
+      },
+      "equip_stat": {
+        "data": {
+          "id": "837e0cac-caaa-47d7-a5d7-d7efecd26093",
+          "type": "equip_stat"
+        }
+      },
+      "attack_stat": {
+        "data": {
+          "id": "0cc7dc06-1ec1-4490-8da2-e92c5276c186",
+          "type": "attack_stat"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Dwarf_gang_member#Level_48"
+    },
+    "meta": {
+      "incomplete": true
+    }
+  },
+  "included": [
+    {
+      "id": "0cc7dc06-1ec1-4490-8da2-e92c5276c186",
+      "type": "attack_stat",
+      "attributes": {
+        "attack_speed": 5,
+        "attack_type": "monster",
+        "special": null,
+        "stances": [
+          {
+            "name": "Monster crush",
+            "style": null,
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": null,
+            "combat_accuracy_stat": "attack_level",
+            "combat_damage_stat": "strength_level",
+            "equip_accuracy_stat": "crush_attack",
+            "equip_damage_stat": "crush_attack",
+            "target_equip_defense_stat": "crush_defense"
+          }
+        ]
+      }
+    },
+    {
+      "id": "a87e1e01-2fdd-4a12-b4ac-1c193bbab9ff",
+      "type": "monster_combat_stat",
+      "attributes": {
+        "hitpoints_level": 25,
+        "attack_level": 80,
+        "strength_level": 30,
+        "defense_level": 25,
+        "magic_level": 1,
+        "ranged_level": 1,
+        "prayer_level": 0
+      }
+    },
+    {
+      "id": "837e0cac-caaa-47d7-a5d7-d7efecd26093",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 0,
+        "slash_attack": 0,
+        "crush_attack": 0,
+        "ranged_attack": 0,
+        "magic_attack": 0,
+        "stab_defense": 7,
+        "slash_defense": 7,
+        "crush_defense": 0,
+        "ranged_defense": 7,
+        "magic_defense": 0,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

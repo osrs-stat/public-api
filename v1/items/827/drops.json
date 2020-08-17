@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "id": "827-2094",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.0155038759689922"
+      },
+      "meta": {
+        "item_name": "Steel javelin (Unpoisoned)",
+        "monster_name": "Jogre (Normal)"
+      }
+    },
+    {
+      "id": "827-2234",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.0155038759689922"
+      },
+      "meta": {
+        "item_name": "Steel javelin (Unpoisoned)",
+        "monster_name": "Jogre (GWD)"
+      }
+    },
+    {
+      "id": "827-530",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.0217391304347826"
+      },
+      "meta": {
+        "item_name": "Steel javelin (Unpoisoned)",
+        "monster_name": "Tribesman"
+      }
+    }
+  ]
+}

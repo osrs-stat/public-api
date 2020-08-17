@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "id": "9438-498",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Crossbow string",
+        "monster_name": "Smoke devil"
+      }
+    },
+    {
+      "id": "9438-7406",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Crossbow string",
+        "monster_name": "Nuclear smoke devil"
+      }
+    }
+  ]
+}

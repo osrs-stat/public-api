@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "id": "7979-7241",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000166666666666667"
+      },
+      "meta": {
+        "item_name": "Abyssal head",
+        "monster_name": "Abyssal demon (Catacombs of Kourend)"
+      }
+    },
+    {
+      "id": "7979-7410",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000166666666666667"
+      },
+      "meta": {
+        "item_name": "Abyssal head",
+        "monster_name": "Greater abyssal demon"
+      }
+    },
+    {
+      "id": "7979-415",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000166666666666667"
+      },
+      "meta": {
+        "item_name": "Abyssal head",
+        "monster_name": "Abyssal demon (Standard)"
+      }
+    }
+  ]
+}

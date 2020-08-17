@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "id": "117-2075",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Strength potion (2 dose)",
+        "monster_name": "Fire giant (Level 86)"
+      }
+    },
+    {
+      "id": "117-7251",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Strength potion (2 dose)",
+        "monster_name": "Fire giant (Level 109)"
+      }
+    },
+    {
+      "id": "117-7252",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Strength potion (2 dose)",
+        "monster_name": "Fire giant (Level 104)"
+      }
+    }
+  ]
+}

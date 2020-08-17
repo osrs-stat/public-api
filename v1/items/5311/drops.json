@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "id": "5311-6604",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 4,
+        "quantity_max": null,
+        "rarity": "0.003125"
+      },
+      "meta": {
+        "item_name": "Wildblood seed",
+        "monster_name": "Mammoth"
+      }
+    },
+    {
+      "id": "5311-8583",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": 20,
+        "rarity": "0.025"
+      },
+      "meta": {
+        "item_name": "Wildblood seed",
+        "monster_name": "Hespori"
+      }
+    }
+  ]
+}

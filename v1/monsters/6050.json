@@ -1,0 +1,117 @@
+{
+  "data": {
+    "id": "6050",
+    "type": "monster",
+    "attributes": {
+      "uuid": "136753cc-779d-4d33-a5a1-d3d00a224408",
+      "name": "Black Guard Berserker (Red)",
+      "members": true,
+      "release_date": "2005-05-31",
+      "examine": "An elite member of the Black Guard.",
+      "combat_level_override": null,
+      "max_hit_override": null,
+      "target_types": [
+
+      ],
+      "classification_types": [
+        "dwarf"
+      ],
+      "poison": false,
+      "immune_poison": false,
+      "immune_venom": false,
+      "slayer_xp": 50.0,
+      "slayer_level": 1,
+      "slayer_masters": [
+        "turael"
+      ],
+      "icon_base64": null
+    },
+    "relationships": {
+      "combat_stat": {
+        "data": {
+          "id": "39e9106a-b798-4784-9e43-89efbb23c545",
+          "type": "combat_stat"
+        }
+      },
+      "equip_stat": {
+        "data": {
+          "id": "a53e431c-32e7-45fd-bbda-a42c85fd06d4",
+          "type": "equip_stat"
+        }
+      },
+      "attack_stat": {
+        "data": {
+          "id": "ae685938-490e-4fa9-8df6-04d99fca2495",
+          "type": "attack_stat"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Black_Guard_Berserker#Red"
+    },
+    "meta": {
+      "incomplete": true
+    }
+  },
+  "included": [
+    {
+      "id": "ae685938-490e-4fa9-8df6-04d99fca2495",
+      "type": "attack_stat",
+      "attributes": {
+        "attack_speed": 3,
+        "attack_type": "monster",
+        "special": null,
+        "stances": [
+          {
+            "name": "Monster crush",
+            "style": null,
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": null,
+            "combat_accuracy_stat": "attack_level",
+            "combat_damage_stat": "strength_level",
+            "equip_accuracy_stat": "crush_attack",
+            "equip_damage_stat": "crush_attack",
+            "target_equip_defense_stat": "crush_defense"
+          }
+        ]
+      }
+    },
+    {
+      "id": "39e9106a-b798-4784-9e43-89efbb23c545",
+      "type": "monster_combat_stat",
+      "attributes": {
+        "hitpoints_level": 50,
+        "attack_level": 60,
+        "strength_level": 60,
+        "defense_level": 60,
+        "magic_level": 1,
+        "ranged_level": 1,
+        "prayer_level": 0
+      }
+    },
+    {
+      "id": "a53e431c-32e7-45fd-bbda-a42c85fd06d4",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 55,
+        "slash_attack": 55,
+        "crush_attack": 55,
+        "ranged_attack": 0,
+        "magic_attack": 0,
+        "stab_defense": 60,
+        "slash_defense": 60,
+        "crush_defense": 60,
+        "ranged_defense": 60,
+        "magic_defense": 0,
+        "melee_strength": 55,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

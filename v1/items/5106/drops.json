@@ -1,0 +1,948 @@
+{
+  "data": [
+    {
+      "id": "5106-4005",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00288817005545287"
+      },
+      "meta": {
+        "item_name": "Poison ivy seed",
+        "monster_name": "Dark beast"
+      }
+    },
+    {
+      "id": "5106-6604",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Poison ivy seed",
+        "monster_name": "Mammoth"
+      }
+    },
+    {
+      "id": "5106-7259",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0129967652495379"
+      },
+      "meta": {
+        "item_name": "Poison ivy seed",
+        "monster_name": "Dagannoth (Level 74 (2))"
+      }
+    },
+    {
+      "id": "5106-7260",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0129967652495379"
+      },
+      "meta": {
+        "item_name": "Poison ivy seed",
+        "monster_name": "Dagannoth (Level 92 (2))"
+      }
+    },
+    {
+      "id": "5106-7266",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000722042513863216"
+      },
+      "meta": {
+        "item_name": "Poison ivy seed",
+        "monster_name": "King Sand Crab (Active)"
+      }
+    },
+    {
+      "id": "5106-7272",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00938655268022181"
+      },
+      "meta": {
+        "item_name": "Poison ivy seed",
+        "monster_name": "Twisted Banshee"
+      }
+    },
+    {
+      "id": "5106-7278",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00361021256931608"
+      },
+      "meta": {
+        "item_name": "Poison ivy seed",
+        "monster_name": "Greater Nechryael"
+      }
+    },
+    {
+      "id": "5106-7279",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0115526802218115"
+      },
+      "meta": {
+        "item_name": "Poison ivy seed",
+        "monster_name": "Deviant spectre"
+      }
+    },
+    {
+      "id": "5106-7391",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00938655268022181"
+      },
+      "meta": {
+        "item_name": "Poison ivy seed",
+        "monster_name": "Screaming twisted banshee"
+      }
+    },
+    {
+      "id": "5106-7401",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0129967652495379"
+      },
+      "meta": {
+        "item_name": "Poison ivy seed",
+        "monster_name": "Cave abomination"
+      }
+    },
+    {
+      "id": "5106-7402",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0137188077634011"
+      },
+      "meta": {
+        "item_name": "Poison ivy seed",
+        "monster_name": "Abhorrent spectre"
+      }
+    },
+    {
+      "id": "5106-7403",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0115526802218115"
+      },
+      "meta": {
+        "item_name": "Poison ivy seed",
+        "monster_name": "Repugnant spectre"
+      }
+    },
+    {
+      "id": "5106-7405",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0111800131178821"
+      },
+      "meta": {
+        "item_name": "Poison ivy seed",
+        "monster_name": "King kurask"
+      }
+    },
+    {
+      "id": "5106-7409",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00288817005545287"
+      },
+      "meta": {
+        "item_name": "Poison ivy seed",
+        "monster_name": "Night beast"
+      }
+    },
+    {
+      "id": "5106-7411",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00361021256931608"
+      },
+      "meta": {
+        "item_name": "Poison ivy seed",
+        "monster_name": "Nechryarch"
+      }
+    },
+    {
+      "id": "5106-7796",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00391616278705473"
+      },
+      "meta": {
+        "item_name": "Poison ivy seed",
+        "monster_name": "Lobstrosity"
+      }
+    },
+    {
+      "id": "5106-2916",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00288817005545287"
+      },
+      "meta": {
+        "item_name": "Poison ivy seed",
+        "monster_name": "Waterfiend"
+      }
+    },
+    {
+      "id": "5106-2266",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00505429759704251"
+      },
+      "meta": {
+        "item_name": "Poison ivy seed",
+        "monster_name": "Dagannoth Prime"
+      }
+    },
+    {
+      "id": "5106-2265",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00505429759704251"
+      },
+      "meta": {
+        "item_name": "Poison ivy seed",
+        "monster_name": "Dagannoth Supreme"
+      }
+    },
+    {
+      "id": "5106-2261",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000722042513863216"
+      },
+      "meta": {
+        "item_name": "Poison ivy seed",
+        "monster_name": "Giant Rock Crab"
+      }
+    },
+    {
+      "id": "5106-2259",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000722042513863216"
+      },
+      "meta": {
+        "item_name": "Poison ivy seed",
+        "monster_name": "Dagannoth (Waterbirth Island) (Level 88)"
+      }
+    },
+    {
+      "id": "5106-1866",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.010108595194085"
+      },
+      "meta": {
+        "item_name": "Poison ivy seed",
+        "monster_name": "Tree spirit (Level 159)"
+      }
+    },
+    {
+      "id": "5106-1865",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.010108595194085"
+      },
+      "meta": {
+        "item_name": "Poison ivy seed",
+        "monster_name": "Tree spirit (Level 120)"
+      }
+    },
+    {
+      "id": "5106-1864",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.010108595194085"
+      },
+      "meta": {
+        "item_name": "Poison ivy seed",
+        "monster_name": "Tree spirit (Level 79)"
+      }
+    },
+    {
+      "id": "5106-1863",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.010108595194085"
+      },
+      "meta": {
+        "item_name": "Poison ivy seed",
+        "monster_name": "Tree spirit (Level 49)"
+      }
+    },
+    {
+      "id": "5106-1861",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.010108595194085"
+      },
+      "meta": {
+        "item_name": "Poison ivy seed",
+        "monster_name": "Tree spirit (Level 14)"
+      }
+    },
+    {
+      "id": "5106-1047",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0129967652495379"
+      },
+      "meta": {
+        "item_name": "Poison ivy seed",
+        "monster_name": "Cave horror"
+      }
+    },
+    {
+      "id": "5106-973",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0129967652495379"
+      },
+      "meta": {
+        "item_name": "Poison ivy seed",
+        "monster_name": "Dagannoth (Level 92 (1))"
+      }
+    },
+    {
+      "id": "5106-970",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0129967652495379"
+      },
+      "meta": {
+        "item_name": "Poison ivy seed",
+        "monster_name": "Dagannoth (Level 74 (1))"
+      }
+    },
+    {
+      "id": "5106-801",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00144408502772643"
+      },
+      "meta": {
+        "item_name": "Poison ivy seed",
+        "monster_name": "Locust rider (Ranger (Quest))"
+      }
+    },
+    {
+      "id": "5106-800",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00144408502772643"
+      },
+      "meta": {
+        "item_name": "Poison ivy seed",
+        "monster_name": "Locust rider (Lancer (Quest))"
+      }
+    },
+    {
+      "id": "5106-799",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00144408502772643"
+      },
+      "meta": {
+        "item_name": "Poison ivy seed",
+        "monster_name": "Scarab mage (Level 66 (Quest))"
+      }
+    },
+    {
+      "id": "5106-796",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00144408502772643"
+      },
+      "meta": {
+        "item_name": "Poison ivy seed",
+        "monster_name": "Locust rider (Ranger)"
+      }
+    },
+    {
+      "id": "5106-795",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00144408502772643"
+      },
+      "meta": {
+        "item_name": "Poison ivy seed",
+        "monster_name": "Locust rider (Lancer)"
+      }
+    },
+    {
+      "id": "5106-794",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00144408502772643"
+      },
+      "meta": {
+        "item_name": "Poison ivy seed",
+        "monster_name": "Scarab mage (Level 93)"
+      }
+    },
+    {
+      "id": "5106-492",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00277264325323475"
+      },
+      "meta": {
+        "item_name": "Poison ivy seed",
+        "monster_name": "Cave kraken"
+      }
+    },
+    {
+      "id": "5106-430",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0129967652495379"
+      },
+      "meta": {
+        "item_name": "Poison ivy seed",
+        "monster_name": "Turoth (Level 83)"
+      }
+    },
+    {
+      "id": "5106-429",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0129967652495379"
+      },
+      "meta": {
+        "item_name": "Poison ivy seed",
+        "monster_name": "Turoth (Level 85)"
+      }
+    },
+    {
+      "id": "5106-428",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0129967652495379"
+      },
+      "meta": {
+        "item_name": "Poison ivy seed",
+        "monster_name": "Turoth (Level 87)"
+      }
+    },
+    {
+      "id": "5106-427",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0129967652495379"
+      },
+      "meta": {
+        "item_name": "Poison ivy seed",
+        "monster_name": "Turoth (Level 89)"
+      }
+    },
+    {
+      "id": "5106-410",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0111800131178821"
+      },
+      "meta": {
+        "item_name": "Poison ivy seed",
+        "monster_name": "Kurask"
+      }
+    },
+    {
+      "id": "5106-8",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0143412582063866"
+      },
+      "meta": {
+        "item_name": "Poison ivy seed",
+        "monster_name": "Nechryael"
+      }
+    },
+    {
+      "id": "5106-2",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0137188077634011"
+      },
+      "meta": {
+        "item_name": "Poison ivy seed",
+        "monster_name": "Aberrant spectre"
+      }
+    },
+    {
+      "id": "5106-5938",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000722042513863216"
+      },
+      "meta": {
+        "item_name": "Poison ivy seed",
+        "monster_name": "Wallasalki"
+      }
+    },
+    {
+      "id": "5106-8583",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 8,
+        "quantity_max": 16,
+        "rarity": "0.025"
+      },
+      "meta": {
+        "item_name": "Poison ivy seed",
+        "monster_name": "Hespori"
+      }
+    },
+    {
+      "id": "5106-8609",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00288817005545287"
+      },
+      "meta": {
+        "item_name": "Poison ivy seed",
+        "monster_name": "Hydra"
+      }
+    },
+    {
+      "id": "5106-8610",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00364821480688783"
+      },
+      "meta": {
+        "item_name": "Poison ivy seed",
+        "monster_name": "Wyrm (Idle)"
+      }
+    },
+    {
+      "id": "5106-8611",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00364821480688783"
+      },
+      "meta": {
+        "item_name": "Poison ivy seed",
+        "monster_name": "Wyrm (Attacking)"
+      }
+    },
+    {
+      "id": "5106-8612",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0010873110796999"
+      },
+      "meta": {
+        "item_name": "Poison ivy seed",
+        "monster_name": "Drake"
+      }
+    },
+    {
+      "id": "5106-8713",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00184842883548983"
+      },
+      "meta": {
+        "item_name": "Poison ivy seed",
+        "monster_name": "Sarachnis"
+      }
+    },
+    {
+      "id": "5106-8759",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0115526802218115"
+      },
+      "meta": {
+        "item_name": "Poison ivy seed",
+        "monster_name": "Iorwerth Warrior (Female)"
+      }
+    },
+    {
+      "id": "5106-8760",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0115526802218115"
+      },
+      "meta": {
+        "item_name": "Poison ivy seed",
+        "monster_name": "Iorwerth Archer (Female)"
+      }
+    },
+    {
+      "id": "5106-10397",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0129967652495379"
+      },
+      "meta": {
+        "item_name": "Poison ivy seed",
+        "monster_name": "Spiked Turoth"
+      }
+    },
+    {
+      "id": "5106-10398",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00364821480688783"
+      },
+      "meta": {
+        "item_name": "Poison ivy seed",
+        "monster_name": "Shadow Wyrm"
+      }
+    },
+    {
+      "id": "5106-10400",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0010873110796999"
+      },
+      "meta": {
+        "item_name": "Poison ivy seed",
+        "monster_name": "Guardian Drake"
+      }
+    },
+    {
+      "id": "5106-10402",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00288817005545287"
+      },
+      "meta": {
+        "item_name": "Poison ivy seed",
+        "monster_name": "Colossal Hydra"
+      }
+    },
+    {
+      "id": "5106-3429",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0115526802218115"
+      },
+      "meta": {
+        "item_name": "Poison ivy seed",
+        "monster_name": "Iorwerth Warrior (Male)"
+      }
+    },
+    {
+      "id": "5106-3428",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0115526802218115"
+      },
+      "meta": {
+        "item_name": "Poison ivy seed",
+        "monster_name": "Iorwerth Archer (Male)"
+      }
+    },
+    {
+      "id": "5106-3185",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000722042513863216"
+      },
+      "meta": {
+        "item_name": "Poison ivy seed",
+        "monster_name": "Dagannoth (Waterbirth Island) (Level 90)"
+      }
+    }
+  ]
+}

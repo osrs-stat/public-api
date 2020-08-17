@@ -1,0 +1,484 @@
+{
+  "data": [
+    {
+      "id": "1127-7936",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0106712032168265"
+      },
+      "meta": {
+        "item_name": "Rune platebody",
+        "monster_name": "Revenant demon"
+      }
+    },
+    {
+      "id": "1127-7938",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0150943396226415"
+      },
+      "meta": {
+        "item_name": "Rune platebody",
+        "monster_name": "Revenant dark beast"
+      }
+    },
+    {
+      "id": "1127-7939",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0175471698113208"
+      },
+      "meta": {
+        "item_name": "Rune platebody",
+        "monster_name": "Revenant knight"
+      }
+    },
+    {
+      "id": "1127-7940",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0187735849056604"
+      },
+      "meta": {
+        "item_name": "Rune platebody",
+        "monster_name": "Revenant dragon"
+      }
+    },
+    {
+      "id": "1127-8031",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0708661417322835"
+      },
+      "meta": {
+        "item_name": "Rune platebody",
+        "monster_name": "Rune dragon"
+      }
+    },
+    {
+      "id": "1127-8609",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Rune platebody",
+        "monster_name": "Hydra"
+      }
+    },
+    {
+      "id": "1127-8615",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0594059405940594"
+      },
+      "meta": {
+        "item_name": "Rune platebody",
+        "monster_name": "Alchemical Hydra (Five heads)"
+      }
+    },
+    {
+      "id": "1127-8617",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0594059405940594"
+      },
+      "meta": {
+        "item_name": "Rune platebody",
+        "monster_name": "Alchemical Hydra (Four heads)"
+      }
+    },
+    {
+      "id": "1127-8618",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0594059405940594"
+      },
+      "meta": {
+        "item_name": "Rune platebody",
+        "monster_name": "Alchemical Hydra (Three heads)"
+      }
+    },
+    {
+      "id": "1127-8621",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0594059405940594"
+      },
+      "meta": {
+        "item_name": "Rune platebody",
+        "monster_name": "Alchemical Hydra (Two heads)"
+      }
+    },
+    {
+      "id": "1127-5908",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.0287769784172662"
+      },
+      "meta": {
+        "item_name": "Rune platebody",
+        "monster_name": "Abyssal Sire (Phase 3 (stage 2))"
+      }
+    },
+    {
+      "id": "1127-7273",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Rune platebody",
+        "monster_name": "Brutal blue dragon"
+      }
+    },
+    {
+      "id": "1127-7274",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Rune platebody",
+        "monster_name": "Brutal red dragon"
+      }
+    },
+    {
+      "id": "1127-7275",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Rune platebody",
+        "monster_name": "Brutal black dragon"
+      }
+    },
+    {
+      "id": "1127-8713",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.02"
+      },
+      "meta": {
+        "item_name": "Rune platebody",
+        "monster_name": "Sarachnis"
+      }
+    },
+    {
+      "id": "1127-10402",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Rune platebody",
+        "monster_name": "Colossal Hydra"
+      }
+    },
+    {
+      "id": "1127-5886",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.0287769784172662"
+      },
+      "meta": {
+        "item_name": "Rune platebody",
+        "monster_name": "Abyssal Sire (Phase 1)"
+      }
+    },
+    {
+      "id": "1127-5862",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Rune platebody",
+        "monster_name": "Cerberus"
+      }
+    },
+    {
+      "id": "1127-2456",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Rune platebody",
+        "monster_name": "Animated Rune Armour"
+      }
+    },
+    {
+      "id": "1127-7937",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0128644939965695"
+      },
+      "meta": {
+        "item_name": "Rune platebody",
+        "monster_name": "Revenant ork"
+      }
+    },
+    {
+      "id": "1127-5890",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.0287769784172662"
+      },
+      "meta": {
+        "item_name": "Rune platebody",
+        "monster_name": "Abyssal Sire (Phase 2)"
+      }
+    },
+    {
+      "id": "1127-5891",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.0287769784172662"
+      },
+      "meta": {
+        "item_name": "Rune platebody",
+        "monster_name": "Abyssal Sire (Phase 3 (stage 1))"
+      }
+    },
+    {
+      "id": "1127-2215",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.062992125984252"
+      },
+      "meta": {
+        "item_name": "Rune platebody",
+        "monster_name": "General Graardor"
+      }
+    },
+    {
+      "id": "1127-7286",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.07"
+      },
+      "meta": {
+        "item_name": "Rune platebody",
+        "monster_name": "Skotizo"
+      }
+    },
+    {
+      "id": "1127-7881",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000617495711835335"
+      },
+      "meta": {
+        "item_name": "Rune platebody",
+        "monster_name": "Revenant imp"
+      }
+    },
+    {
+      "id": "1127-7931",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00108110890885222"
+      },
+      "meta": {
+        "item_name": "Rune platebody",
+        "monster_name": "Revenant goblin"
+      }
+    },
+    {
+      "id": "1127-7932",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00456675880302848"
+      },
+      "meta": {
+        "item_name": "Rune platebody",
+        "monster_name": "Revenant pyrefiend"
+      }
+    },
+    {
+      "id": "1127-7933",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00516764811921644"
+      },
+      "meta": {
+        "item_name": "Rune platebody",
+        "monster_name": "Revenant hobgoblin"
+      }
+    },
+    {
+      "id": "1127-7934",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00881534178781318"
+      },
+      "meta": {
+        "item_name": "Rune platebody",
+        "monster_name": "Revenant cyclops"
+      }
+    },
+    {
+      "id": "1127-7935",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00974327250231983"
+      },
+      "meta": {
+        "item_name": "Rune platebody",
+        "monster_name": "Revenant hellhound"
+      }
+    }
+  ]
+}

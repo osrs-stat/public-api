@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "13450-2848",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0285714285714286"
+      },
+      "meta": {
+        "item_name": "Ensouled monkey head (Drop)",
+        "monster_name": "Monkey (monster) (Common)"
+      }
+    },
+    {
+      "id": "3179-2848",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Monkey bones (small ninja)",
+        "monster_name": "Monkey (monster) (Common)"
+      }
+    },
+    {
+      "id": "3166-2848",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Monkey corpse",
+        "monster_name": "Monkey (monster) (Common)"
+      }
+    },
+    {
+      "id": "7854-2848",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Monkey paw (Unpolished)",
+        "monster_name": "Monkey (monster) (Common)"
+      }
+    }
+  ]
+}

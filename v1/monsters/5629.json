@@ -1,0 +1,117 @@
+{
+  "data": {
+    "id": "5629",
+    "type": "monster",
+    "attributes": {
+      "uuid": "e861fc4c-469f-4cae-92dc-4609fbbdcc04",
+      "name": "Giant snail (Level 109)",
+      "members": true,
+      "release_date": "2006-03-28",
+      "examine": "Euew.",
+      "combat_level_override": null,
+      "max_hit_override": null,
+      "target_types": [
+
+      ],
+      "classification_types": [
+
+      ],
+      "poison": false,
+      "immune_poison": false,
+      "immune_venom": false,
+      "slayer_xp": null,
+      "slayer_level": null,
+      "slayer_masters": [
+
+      ],
+      "icon_base64": null
+    },
+    "relationships": {
+      "combat_stat": {
+        "data": {
+          "id": "cb1958fd-8bd3-44e9-a6f5-27e1a0a4fea1",
+          "type": "combat_stat"
+        }
+      },
+      "equip_stat": {
+        "data": {
+          "id": "44a05ede-ff6a-45b4-9f54-4b559633acc5",
+          "type": "equip_stat"
+        }
+      },
+      "attack_stat": {
+        "data": {
+          "id": "f4ac1e3b-cc9d-42d1-93c1-c9d78d806983",
+          "type": "attack_stat"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Giant_snail#Level_109"
+    },
+    "meta": {
+      "incomplete": true
+    }
+  },
+  "included": [
+    {
+      "id": "f4ac1e3b-cc9d-42d1-93c1-c9d78d806983",
+      "type": "attack_stat",
+      "attributes": {
+        "attack_speed": 4,
+        "attack_type": "monster",
+        "special": null,
+        "stances": [
+          {
+            "name": "Monster ranged",
+            "style": null,
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": null,
+            "combat_accuracy_stat": "ranged_level",
+            "combat_damage_stat": "ranged_level",
+            "equip_accuracy_stat": "ranged_attack",
+            "equip_damage_stat": "ranged_attack",
+            "target_equip_defense_stat": "ranged_defense"
+          }
+        ]
+      }
+    },
+    {
+      "id": "cb1958fd-8bd3-44e9-a6f5-27e1a0a4fea1",
+      "type": "monster_combat_stat",
+      "attributes": {
+        "hitpoints_level": 150,
+        "attack_level": 30,
+        "strength_level": 30,
+        "defense_level": 75,
+        "magic_level": 30,
+        "ranged_level": 110,
+        "prayer_level": 0
+      }
+    },
+    {
+      "id": "44a05ede-ff6a-45b4-9f54-4b559633acc5",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 0,
+        "slash_attack": 0,
+        "crush_attack": 0,
+        "ranged_attack": 0,
+        "magic_attack": 0,
+        "stab_defense": 0,
+        "slash_defense": 0,
+        "crush_defense": 0,
+        "ranged_defense": 0,
+        "magic_defense": 0,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

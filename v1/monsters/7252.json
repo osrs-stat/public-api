@@ -1,0 +1,122 @@
+{
+  "data": {
+    "id": "7252",
+    "type": "monster",
+    "attributes": {
+      "uuid": "7e15d9a9-c73b-4fb0-919d-90a7abf65ab3",
+      "name": "Fire giant (Level 104)",
+      "members": true,
+      "release_date": "2016-06-09",
+      "examine": "A very large elemental adversary.",
+      "combat_level_override": null,
+      "max_hit_override": null,
+      "target_types": [
+        "fiery"
+      ],
+      "classification_types": [
+        "fire giant"
+      ],
+      "poison": false,
+      "immune_poison": false,
+      "immune_venom": false,
+      "slayer_xp": 133.5,
+      "slayer_level": 1,
+      "slayer_masters": [
+        "krystilia",
+        "vannaka",
+        "chaeldar",
+        "konar",
+        "nieve",
+        "duradel"
+      ],
+      "icon_base64": null
+    },
+    "relationships": {
+      "combat_stat": {
+        "data": {
+          "id": "6267ad1b-ba70-46a2-be98-ab875c2d31a3",
+          "type": "combat_stat"
+        }
+      },
+      "equip_stat": {
+        "data": {
+          "id": "0f6ee614-dc42-4508-bd01-af884b9d7923",
+          "type": "equip_stat"
+        }
+      },
+      "attack_stat": {
+        "data": {
+          "id": "e684dc1d-4473-4a75-ab89-1c3a81b326af",
+          "type": "attack_stat"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Fire_giant#Level_104"
+    },
+    "meta": {
+      "incomplete": true
+    }
+  },
+  "included": [
+    {
+      "id": "e684dc1d-4473-4a75-ab89-1c3a81b326af",
+      "type": "attack_stat",
+      "attributes": {
+        "attack_speed": 5,
+        "attack_type": "monster",
+        "special": null,
+        "stances": [
+          {
+            "name": "Monster slash",
+            "style": null,
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": null,
+            "combat_accuracy_stat": "attack_level",
+            "combat_damage_stat": "strength_level",
+            "equip_accuracy_stat": "slash_attack",
+            "equip_damage_stat": "slash_attack",
+            "target_equip_defense_stat": "slash_defense"
+          }
+        ]
+      }
+    },
+    {
+      "id": "6267ad1b-ba70-46a2-be98-ab875c2d31a3",
+      "type": "monster_combat_stat",
+      "attributes": {
+        "hitpoints_level": 130,
+        "attack_level": 65,
+        "strength_level": 65,
+        "defense_level": 120,
+        "magic_level": 1,
+        "ranged_level": 1,
+        "prayer_level": 0
+      }
+    },
+    {
+      "id": "0f6ee614-dc42-4508-bd01-af884b9d7923",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 50,
+        "slash_attack": 50,
+        "crush_attack": 50,
+        "ranged_attack": 0,
+        "magic_attack": 0,
+        "stab_defense": 20,
+        "slash_defense": 10,
+        "crush_defense": 10,
+        "ranged_defense": -10,
+        "magic_defense": 50,
+        "melee_strength": 20,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

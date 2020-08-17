@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "id": "300-2492",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Rat's tail",
+        "monster_name": "Rat (Level 1 (SoS))"
+      }
+    },
+    {
+      "id": "300-2854",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Rat's tail",
+        "monster_name": "Rat (Level 1)"
+      }
+    }
+  ]
+}

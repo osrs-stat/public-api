@@ -1,0 +1,132 @@
+{
+  "data": {
+    "id": "983",
+    "type": "monster",
+    "attributes": {
+      "uuid": "77ba9db0-526c-4b51-8685-4c6d7e229ae7",
+      "name": "Dagannoth mother (Normal)",
+      "members": true,
+      "release_date": "2004-11-17",
+      "examine": "A horror from the ocean depths.",
+      "combat_level_override": null,
+      "max_hit_override": 0,
+      "target_types": [
+
+      ],
+      "classification_types": [
+
+      ],
+      "poison": false,
+      "immune_poison": true,
+      "immune_venom": true,
+      "slayer_xp": null,
+      "slayer_level": null,
+      "slayer_masters": [
+
+      ],
+      "icon_base64": null
+    },
+    "relationships": {
+      "combat_stat": {
+        "data": {
+          "id": "6a5e70d8-1c3a-43ee-a0bb-775ba43097b0",
+          "type": "combat_stat"
+        }
+      },
+      "equip_stat": {
+        "data": {
+          "id": "3956a2f2-5631-4344-8fd4-733fb3427798",
+          "type": "equip_stat"
+        }
+      },
+      "attack_stat": {
+        "data": {
+          "id": "a540ca61-5253-4327-831b-78dd234e0623",
+          "type": "attack_stat"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Dagannoth_mother#Normal"
+    },
+    "meta": {
+      "incomplete": true
+    }
+  },
+  "included": [
+    {
+      "id": "a540ca61-5253-4327-831b-78dd234e0623",
+      "type": "attack_stat",
+      "attributes": {
+        "attack_speed": 4,
+        "attack_type": "monster",
+        "special": null,
+        "stances": [
+          {
+            "name": "Monster melee",
+            "style": null,
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": null,
+            "combat_accuracy_stat": "attack_level",
+            "combat_damage_stat": "strength_level",
+            "equip_accuracy_stat": "crush_attack",
+            "equip_damage_stat": "crush_attack",
+            "target_equip_defense_stat": "crush_defense"
+          },
+          {
+            "name": "Monster ranged",
+            "style": null,
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": null,
+            "combat_accuracy_stat": "ranged_level",
+            "combat_damage_stat": "ranged_level",
+            "equip_accuracy_stat": "ranged_attack",
+            "equip_damage_stat": "ranged_attack",
+            "target_equip_defense_stat": "ranged_defense"
+          }
+        ]
+      }
+    },
+    {
+      "id": "6a5e70d8-1c3a-43ee-a0bb-775ba43097b0",
+      "type": "monster_combat_stat",
+      "attributes": {
+        "hitpoints_level": 120,
+        "attack_level": 78,
+        "strength_level": 78,
+        "defense_level": 81,
+        "magic_level": 1,
+        "ranged_level": 50,
+        "prayer_level": 0
+      }
+    },
+    {
+      "id": "3956a2f2-5631-4344-8fd4-733fb3427798",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 0,
+        "slash_attack": 0,
+        "crush_attack": 0,
+        "ranged_attack": 0,
+        "magic_attack": 0,
+        "stab_defense": 150,
+        "slash_defense": 150,
+        "crush_defense": 150,
+        "ranged_defense": 50,
+        "magic_defense": 50,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

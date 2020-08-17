@@ -1,0 +1,134 @@
+{
+  "data": {
+    "id": "6762",
+    "type": "monster",
+    "attributes": {
+      "uuid": "308c0731-a300-4852-a466-149ba7471ed7",
+      "name": "Pyrelord (1)",
+      "members": true,
+      "release_date": "2020-02-06",
+      "examine": "A large fire demon.",
+      "combat_level_override": null,
+      "max_hit_override": 5,
+      "target_types": [
+        "demon"
+      ],
+      "classification_types": [
+        "pyrefiend"
+      ],
+      "poison": false,
+      "immune_poison": false,
+      "immune_venom": false,
+      "slayer_xp": 80.0,
+      "slayer_level": 30,
+      "slayer_masters": [
+        "mazchna",
+        "vannaka",
+        "chaeldar"
+      ],
+      "icon_base64": null
+    },
+    "relationships": {
+      "combat_stat": {
+        "data": {
+          "id": "df1fd27d-93c2-4e0a-a899-e8ae05868d39",
+          "type": "combat_stat"
+        }
+      },
+      "equip_stat": {
+        "data": {
+          "id": "d7045162-ba59-4e7e-ad87-37a985a535f1",
+          "type": "equip_stat"
+        }
+      },
+      "attack_stat": {
+        "data": {
+          "id": "c818b25f-7278-4ea2-b4eb-895a2a7be900",
+          "type": "attack_stat"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Pyrelord#1"
+    },
+    "meta": {
+      "incomplete": true
+    }
+  },
+  "included": [
+    {
+      "id": "c818b25f-7278-4ea2-b4eb-895a2a7be900",
+      "type": "attack_stat",
+      "attributes": {
+        "attack_speed": 4,
+        "attack_type": "monster",
+        "special": null,
+        "stances": [
+          {
+            "name": "Monster melee",
+            "style": null,
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": null,
+            "combat_accuracy_stat": "attack_level",
+            "combat_damage_stat": "strength_level",
+            "equip_accuracy_stat": "crush_attack",
+            "equip_damage_stat": "crush_attack",
+            "target_equip_defense_stat": "crush_defense"
+          },
+          {
+            "name": "Monster magic",
+            "style": null,
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": null,
+            "combat_accuracy_stat": "magic_level",
+            "combat_damage_stat": "magic_level",
+            "equip_accuracy_stat": "magic_attack",
+            "equip_damage_stat": "magic_attack",
+            "target_equip_defense_stat": "magic_defense"
+          }
+        ]
+      }
+    },
+    {
+      "id": "df1fd27d-93c2-4e0a-a899-e8ae05868d39",
+      "type": "monster_combat_stat",
+      "attributes": {
+        "hitpoints_level": 80,
+        "attack_level": 60,
+        "strength_level": 40,
+        "defense_level": 30,
+        "magic_level": 1,
+        "ranged_level": 1,
+        "prayer_level": 0
+      }
+    },
+    {
+      "id": "d7045162-ba59-4e7e-ad87-37a985a535f1",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 0,
+        "slash_attack": 0,
+        "crush_attack": 0,
+        "ranged_attack": 0,
+        "magic_attack": 0,
+        "stab_defense": 10,
+        "slash_defense": 10,
+        "crush_defense": 10,
+        "ranged_defense": 10,
+        "magic_defense": 0,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

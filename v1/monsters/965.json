@@ -1,0 +1,154 @@
+{
+  "data": {
+    "id": "965",
+    "type": "monster",
+    "attributes": {
+      "uuid": "3069f803-759d-4d87-8583-0eb71e2b1d3f",
+      "name": "Kalphite Queen (Airborne)",
+      "members": true,
+      "release_date": "2004-09-07",
+      "examine": "I don't think insect repellent will work...",
+      "combat_level_override": null,
+      "max_hit_override": 31,
+      "target_types": [
+        "kalphite"
+      ],
+      "classification_types": [
+        "kalphite",
+        "boss"
+      ],
+      "poison": false,
+      "immune_poison": false,
+      "immune_venom": false,
+      "slayer_xp": 535.5,
+      "slayer_level": 1,
+      "slayer_masters": [
+        "turael",
+        "mazchna",
+        "vannaka",
+        "chaeldar",
+        "konar",
+        "nieve",
+        "duradel"
+      ],
+      "icon_base64": null
+    },
+    "relationships": {
+      "combat_stat": {
+        "data": {
+          "id": "c17fe9fa-c7f3-4cbf-8046-40d9128b635e",
+          "type": "combat_stat"
+        }
+      },
+      "equip_stat": {
+        "data": {
+          "id": "5bf3835a-8265-4f39-a899-2cd74b21cca7",
+          "type": "equip_stat"
+        }
+      },
+      "attack_stat": {
+        "data": {
+          "id": "fc920076-765a-4f88-999c-d6156b99fa73",
+          "type": "attack_stat"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Kalphite_Queen#Airborne"
+    },
+    "meta": {
+      "incomplete": true
+    }
+  },
+  "included": [
+    {
+      "id": "fc920076-765a-4f88-999c-d6156b99fa73",
+      "type": "attack_stat",
+      "attributes": {
+        "attack_speed": 4,
+        "attack_type": "monster",
+        "special": null,
+        "stances": [
+          {
+            "name": "Monster stab",
+            "style": null,
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": null,
+            "combat_accuracy_stat": "attack_level",
+            "combat_damage_stat": "strength_level",
+            "equip_accuracy_stat": "stab_attack",
+            "equip_damage_stat": "stab_attack",
+            "target_equip_defense_stat": "stab_defense"
+          },
+          {
+            "name": "Monster ranged",
+            "style": null,
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": null,
+            "combat_accuracy_stat": "ranged_level",
+            "combat_damage_stat": "ranged_level",
+            "equip_accuracy_stat": "ranged_attack",
+            "equip_damage_stat": "ranged_attack",
+            "target_equip_defense_stat": "ranged_defense"
+          },
+          {
+            "name": "Monster magic",
+            "style": null,
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": null,
+            "combat_accuracy_stat": "magic_level",
+            "combat_damage_stat": "magic_level",
+            "equip_accuracy_stat": "magic_attack",
+            "equip_damage_stat": "magic_attack",
+            "target_equip_defense_stat": "magic_defense"
+          }
+        ]
+      }
+    },
+    {
+      "id": "c17fe9fa-c7f3-4cbf-8046-40d9128b635e",
+      "type": "monster_combat_stat",
+      "attributes": {
+        "hitpoints_level": 255,
+        "attack_level": 300,
+        "strength_level": 300,
+        "defense_level": 300,
+        "magic_level": 150,
+        "ranged_level": 1,
+        "prayer_level": 0
+      }
+    },
+    {
+      "id": "5bf3835a-8265-4f39-a899-2cd74b21cca7",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 0,
+        "slash_attack": 0,
+        "crush_attack": 0,
+        "ranged_attack": 0,
+        "magic_attack": 0,
+        "stab_defense": 100,
+        "slash_defense": 100,
+        "crush_defense": 100,
+        "ranged_defense": 10,
+        "magic_defense": 10,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

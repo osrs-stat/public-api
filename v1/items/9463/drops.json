@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "id": "9463-7792",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.016260162601626"
+      },
+      "meta": {
+        "item_name": "Adamant crossbow (u)",
+        "monster_name": "Long-tailed Wyvern"
+      }
+    },
+    {
+      "id": "9463-7793",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.016260162601626"
+      },
+      "meta": {
+        "item_name": "Adamant crossbow (u)",
+        "monster_name": "Taloned Wyvern"
+      }
+    },
+    {
+      "id": "9463-7794",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.016260162601626"
+      },
+      "meta": {
+        "item_name": "Adamant crossbow (u)",
+        "monster_name": "Spitting Wyvern"
+      }
+    }
+  ]
+}

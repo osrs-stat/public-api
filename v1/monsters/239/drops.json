@@ -1,0 +1,500 @@
+{
+  "data": [
+    {
+      "id": "385-239",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 4,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Shark",
+        "monster_name": "King Black Dragon"
+      }
+    },
+    {
+      "id": "536-239",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Dragon bones",
+        "monster_name": "King Black Dragon"
+      }
+    },
+    {
+      "id": "1747-239",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Black dragonhide",
+        "monster_name": "King Black Dragon"
+      }
+    },
+    {
+      "id": "11920-239",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000666666666666667"
+      },
+      "meta": {
+        "item_name": "Dragon pickaxe",
+        "monster_name": "King Black Dragon"
+      }
+    },
+    {
+      "id": "1303-239",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.078125"
+      },
+      "meta": {
+        "item_name": "Rune longsword",
+        "monster_name": "King Black Dragon"
+      }
+    },
+    {
+      "id": "1123-239",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0703125"
+      },
+      "meta": {
+        "item_name": "Adamant platebody",
+        "monster_name": "King Black Dragon"
+      }
+    },
+    {
+      "id": "1199-239",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Adamant kiteshield",
+        "monster_name": "King Black Dragon"
+      }
+    },
+    {
+      "id": "1149-239",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Dragon med helm",
+        "monster_name": "King Black Dragon"
+      }
+    },
+    {
+      "id": "554-239",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 300,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Fire rune (Regular)",
+        "monster_name": "King Black Dragon"
+      }
+    },
+    {
+      "id": "556-239",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 300,
+        "quantity_max": null,
+        "rarity": "0.078125"
+      },
+      "meta": {
+        "item_name": "Air rune (Regular)",
+        "monster_name": "King Black Dragon"
+      }
+    },
+    {
+      "id": "884-239",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 690,
+        "quantity_max": null,
+        "rarity": "0.078125"
+      },
+      "meta": {
+        "item_name": "Iron arrow (Unpoisoned)",
+        "monster_name": "King Black Dragon"
+      }
+    },
+    {
+      "id": "9144-239",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": 20,
+        "rarity": "0.078125"
+      },
+      "meta": {
+        "item_name": "Runite bolts (Unpoisoned)",
+        "monster_name": "King Black Dragon"
+      }
+    },
+    {
+      "id": "563-239",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 30,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Law rune",
+        "monster_name": "King Black Dragon"
+      }
+    },
+    {
+      "id": "565-239",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 30,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Blood rune (Regular)",
+        "monster_name": "King Black Dragon"
+      }
+    },
+    {
+      "id": "1515-239",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 150,
+        "quantity_max": null,
+        "rarity": "0.078125"
+      },
+      "meta": {
+        "item_name": "Yew logs",
+        "monster_name": "King Black Dragon"
+      }
+    },
+    {
+      "id": "2361-239",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Adamantite bar",
+        "monster_name": "King Black Dragon"
+      }
+    },
+    {
+      "id": "2363-239",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Runite bar",
+        "monster_name": "King Black Dragon"
+      }
+    },
+    {
+      "id": "444-239",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 100,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Gold ore",
+        "monster_name": "King Black Dragon"
+      }
+    },
+    {
+      "id": "1731-239",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0546875"
+      },
+      "meta": {
+        "item_name": "Amulet of power",
+        "monster_name": "King Black Dragon"
+      }
+    },
+    {
+      "id": "11237-239",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": 14,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Dragon arrowtips",
+        "monster_name": "King Black Dragon"
+      }
+    },
+    {
+      "id": "11232-239",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": 14,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Dragon dart tip",
+        "monster_name": "King Black Dragon"
+      }
+    },
+    {
+      "id": "19582-239",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 15,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Dragon javelin heads",
+        "monster_name": "King Black Dragon"
+      }
+    },
+    {
+      "id": "9431-239",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Runite limbs",
+        "monster_name": "King Black Dragon"
+      }
+    },
+    {
+      "id": "19812-239",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Key (Treasure Trails) (Elite)",
+        "monster_name": "King Black Dragon"
+      }
+    },
+    {
+      "id": "23083-239",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0154320987654321"
+      },
+      "meta": {
+        "item_name": "Brimstone key",
+        "monster_name": "King Black Dragon"
+      }
+    },
+    {
+      "id": "7980-239",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Kbd heads",
+        "monster_name": "King Black Dragon"
+      }
+    },
+    {
+      "id": "12073-239",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00222222222222222"
+      },
+      "meta": {
+        "item_name": "Clue scroll (elite)",
+        "monster_name": "King Black Dragon"
+      }
+    },
+    {
+      "id": "12653-239",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000333333333333333"
+      },
+      "meta": {
+        "item_name": "Prince black dragon",
+        "monster_name": "King Black Dragon"
+      }
+    },
+    {
+      "id": "11286-239",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0002"
+      },
+      "meta": {
+        "item_name": "Draconic visage",
+        "monster_name": "King Black Dragon"
+      }
+    },
+    {
+      "id": "11920-239",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00133333333333333"
+      },
+      "meta": {
+        "item_name": "Dragon pickaxe",
+        "monster_name": "King Black Dragon"
+      }
+    },
+    {
+      "id": "11286-239",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0008"
+      },
+      "meta": {
+        "item_name": "Draconic visage",
+        "monster_name": "King Black Dragon"
+      }
+    }
+  ]
+}

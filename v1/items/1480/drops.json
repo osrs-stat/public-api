@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "1480-1367",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Rock (elemental)",
+        "monster_name": "Earth elemental (Ore)"
+      }
+    },
+    {
+      "id": "1480-1367",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Rock (elemental)",
+        "monster_name": "Earth elemental (Ore)"
+      }
+    },
+    {
+      "id": "1480-1366",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Rock (elemental)",
+        "monster_name": "Earth elemental (Normal)"
+      }
+    },
+    {
+      "id": "1480-1366",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Rock (elemental)",
+        "monster_name": "Earth elemental (Normal)"
+      }
+    }
+  ]
+}

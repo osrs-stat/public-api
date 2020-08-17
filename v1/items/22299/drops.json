@@ -1,0 +1,180 @@
+{
+  "data": [
+    {
+      "id": "22299-7932",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000159235668789809"
+      },
+      "meta": {
+        "item_name": "Ancient medallion",
+        "monster_name": "Revenant pyrefiend"
+      }
+    },
+    {
+      "id": "22299-7935",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000204918032786885"
+      },
+      "meta": {
+        "item_name": "Ancient medallion",
+        "monster_name": "Revenant hellhound"
+      }
+    },
+    {
+      "id": "22299-7934",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000204918032786885"
+      },
+      "meta": {
+        "item_name": "Ancient medallion",
+        "monster_name": "Revenant cyclops"
+      }
+    },
+    {
+      "id": "22299-7933",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000159235668789809"
+      },
+      "meta": {
+        "item_name": "Ancient medallion",
+        "monster_name": "Revenant hobgoblin"
+      }
+    },
+    {
+      "id": "22299-7931",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0000682128240109141"
+      },
+      "meta": {
+        "item_name": "Ancient medallion",
+        "monster_name": "Revenant goblin"
+      }
+    },
+    {
+      "id": "22299-7881",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0000454545454545455"
+      },
+      "meta": {
+        "item_name": "Ancient medallion",
+        "monster_name": "Revenant imp"
+      }
+    },
+    {
+      "id": "22299-7940",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00025"
+      },
+      "meta": {
+        "item_name": "Ancient medallion",
+        "monster_name": "Revenant dragon"
+      }
+    },
+    {
+      "id": "22299-7939",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00025"
+      },
+      "meta": {
+        "item_name": "Ancient medallion",
+        "monster_name": "Revenant knight"
+      }
+    },
+    {
+      "id": "22299-7938",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000227272727272727"
+      },
+      "meta": {
+        "item_name": "Ancient medallion",
+        "monster_name": "Revenant dark beast"
+      }
+    },
+    {
+      "id": "22299-7937",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000227272727272727"
+      },
+      "meta": {
+        "item_name": "Ancient medallion",
+        "monster_name": "Revenant ork"
+      }
+    },
+    {
+      "id": "22299-7936",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000204918032786885"
+      },
+      "meta": {
+        "item_name": "Ancient medallion",
+        "monster_name": "Revenant demon"
+      }
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "id": "579-3134",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0625"
+      },
+      "meta": {
+        "item_name": "Blue wizard hat",
+        "monster_name": "Imp (GWD)"
+      }
+    },
+    {
+      "id": "579-3257",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Blue wizard hat",
+        "monster_name": "Wizard"
+      }
+    },
+    {
+      "id": "579-5007",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0625"
+      },
+      "meta": {
+        "item_name": "Blue wizard hat",
+        "monster_name": "Imp (Regular)"
+      }
+    }
+  ]
+}

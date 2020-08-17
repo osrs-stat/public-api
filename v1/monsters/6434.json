@@ -1,0 +1,117 @@
+{
+  "data": {
+    "id": "6434",
+    "type": "monster",
+    "attributes": {
+      "uuid": "74744e6b-3981-479c-b867-34cfd9939a8b",
+      "name": "Cave goblin (monster) (Blue)",
+      "members": true,
+      "release_date": "2005-03-14",
+      "examine": "A goblin with big bulging eyes.",
+      "combat_level_override": null,
+      "max_hit_override": null,
+      "target_types": [
+
+      ],
+      "classification_types": [
+        "goblin"
+      ],
+      "poison": false,
+      "immune_poison": false,
+      "immune_venom": false,
+      "slayer_xp": 10.0,
+      "slayer_level": 1,
+      "slayer_masters": [
+        "turael"
+      ],
+      "icon_base64": null
+    },
+    "relationships": {
+      "combat_stat": {
+        "data": {
+          "id": "5f1dfc21-2ba0-485c-8d03-98cecaa1eaca",
+          "type": "combat_stat"
+        }
+      },
+      "equip_stat": {
+        "data": {
+          "id": "d0bf8ff8-1f68-45c5-97c9-f2471162a491",
+          "type": "equip_stat"
+        }
+      },
+      "attack_stat": {
+        "data": {
+          "id": "822c68d1-818e-4838-bf1a-15db9a8b66aa",
+          "type": "attack_stat"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Cave_goblin_(monster)#Blue"
+    },
+    "meta": {
+      "incomplete": true
+    }
+  },
+  "included": [
+    {
+      "id": "822c68d1-818e-4838-bf1a-15db9a8b66aa",
+      "type": "attack_stat",
+      "attributes": {
+        "attack_speed": 4,
+        "attack_type": "monster",
+        "special": null,
+        "stances": [
+          {
+            "name": "Monster crush",
+            "style": null,
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": null,
+            "combat_accuracy_stat": "attack_level",
+            "combat_damage_stat": "strength_level",
+            "equip_accuracy_stat": "crush_attack",
+            "equip_damage_stat": "crush_attack",
+            "target_equip_defense_stat": "crush_defense"
+          }
+        ]
+      }
+    },
+    {
+      "id": "5f1dfc21-2ba0-485c-8d03-98cecaa1eaca",
+      "type": "monster_combat_stat",
+      "attributes": {
+        "hitpoints_level": 10,
+        "attack_level": 1,
+        "strength_level": 1,
+        "defense_level": 1,
+        "magic_level": 1,
+        "ranged_level": 1,
+        "prayer_level": 0
+      }
+    },
+    {
+      "id": "d0bf8ff8-1f68-45c5-97c9-f2471162a491",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 0,
+        "slash_attack": 0,
+        "crush_attack": 0,
+        "ranged_attack": 0,
+        "magic_attack": 0,
+        "stab_defense": 0,
+        "slash_defense": 0,
+        "crush_defense": 0,
+        "ranged_defense": 0,
+        "magic_defense": 0,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "data": {
+    "id": "884",
+    "type": "item",
+    "attributes": {
+      "uuid": "8acdd5c7-4173-490c-9947-02377f99381d",
+      "name": "Iron arrow (Unpoisoned)",
+      "members": false,
+      "release_date": "2002-03-25",
+      "examine": "Arrows with iron heads.",
+      "tradeable": false,
+      "ge_tradeable": false,
+      "lowalch": 1,
+      "highalch": 1,
+      "is_equip": true,
+      "is_weapon": false,
+      "icon_base64": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAAvklEQVR4Xu2WMQvCMBCFc2MHx4JjJ4fi4BAHC0VooUhxcXHuJg7+//FJkoZqChkccgHvg0cg3PDxckOU+h8ILllAuA4DTlrnIEW4jSO6tsW+rq3Qoao4pQiPacKl722yELrrAuemsWEWcjK7rZp3x8mwC32KsMv4dhhFPOt2womESDsxpJ0Y0k4MaSeGtBOD8Co3X0LhREIWGXOamLtwKhFrmWPBukOEZ+meKZRhEjL4NrL4DTq8QBYygiD8wBvm/621bCDQvAAAAABJRU5ErkJggg=="
+    },
+    "relationships": {
+      "equip": {
+        "data": {
+          "id": "d4eedae4-a0bb-407e-bc1a-1612ac6fdf94",
+          "type": "equip"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Iron_arrow#Unpoisoned"
+    },
+    "meta": {
+      "incomplete": false
+    }
+  },
+  "included": [
+    {
+      "id": "d4eedae4-a0bb-407e-bc1a-1612ac6fdf94",
+      "type": "equip",
+      "attributes": {
+        "slot": "ammo",
+        "passive_effect": null,
+        "requirements": {
+          "ranged_level": 1
+        }
+      },
+      "relationships": {
+        "equip_stat": {
+          "data": {
+            "id": "102f42bc-57f0-4d7f-b366-dc12febf936e",
+            "type": "equip_stat"
+          }
+        }
+      }
+    },
+    {
+      "id": "102f42bc-57f0-4d7f-b366-dc12febf936e",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 0,
+        "slash_attack": 0,
+        "crush_attack": 0,
+        "ranged_attack": 0,
+        "magic_attack": 0,
+        "stab_defense": 0,
+        "slash_defense": 0,
+        "crush_defense": 0,
+        "ranged_defense": 0,
+        "magic_defense": 0,
+        "melee_strength": 0,
+        "ranged_strength": 10,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

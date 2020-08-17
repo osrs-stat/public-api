@@ -1,0 +1,708 @@
+{
+  "data": [
+    {
+      "id": "227-3939",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.09765625"
+      },
+      "meta": {
+        "item_name": "Vial of water",
+        "monster_name": "Borrokar"
+      }
+    },
+    {
+      "id": "227-3938",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.09765625"
+      },
+      "meta": {
+        "item_name": "Vial of water",
+        "monster_name": "Freidir"
+      }
+    },
+    {
+      "id": "227-2631",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.09765625"
+      },
+      "meta": {
+        "item_name": "Vial of water",
+        "monster_name": "Zoja"
+      }
+    },
+    {
+      "id": "227-6443",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Vial of water",
+        "monster_name": "Skeleton (Tarn's Lair) (Level 81)"
+      }
+    },
+    {
+      "id": "227-6442",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Vial of water",
+        "monster_name": "Skeleton (Tarn's Lair) (Level 77)"
+      }
+    },
+    {
+      "id": "227-3944",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.09765625"
+      },
+      "meta": {
+        "item_name": "Vial of water",
+        "monster_name": "Jennella"
+      }
+    },
+    {
+      "id": "227-3943",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.09765625"
+      },
+      "meta": {
+        "item_name": "Vial of water",
+        "monster_name": "Lensa"
+      }
+    },
+    {
+      "id": "227-3940",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.09765625"
+      },
+      "meta": {
+        "item_name": "Vial of water",
+        "monster_name": "Lanzig"
+      }
+    },
+    {
+      "id": "227-2632",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.09765625"
+      },
+      "meta": {
+        "item_name": "Vial of water",
+        "monster_name": "Liliya"
+      }
+    },
+    {
+      "id": "227-2916",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 40,
+        "quantity_max": 50,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Vial of water",
+        "monster_name": "Waterfiend"
+      }
+    },
+    {
+      "id": "227-2999",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Vial of water",
+        "monster_name": "Tortured soul"
+      }
+    },
+    {
+      "id": "227-304",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Vial of water",
+        "monster_name": "Salarin the twisted"
+      }
+    },
+    {
+      "id": "227-406",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.1015625"
+      },
+      "meta": {
+        "item_name": "Vial of water",
+        "monster_name": "Cave crawler"
+      }
+    },
+    {
+      "id": "227-492",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 50,
+        "quantity_max": null,
+        "rarity": "0.02"
+      },
+      "meta": {
+        "item_name": "Vial of water",
+        "monster_name": "Cave kraken"
+      }
+    },
+    {
+      "id": "227-520",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.078125"
+      },
+      "meta": {
+        "item_name": "Vial of water",
+        "monster_name": "Chaos druid"
+      }
+    },
+    {
+      "id": "227-532",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Vial of water",
+        "monster_name": "Chaos druid warrior"
+      }
+    },
+    {
+      "id": "227-1370",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Vial of water",
+        "monster_name": "Water elemental"
+      }
+    },
+    {
+      "id": "227-2613",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.09765625"
+      },
+      "meta": {
+        "item_name": "Vial of water",
+        "monster_name": "Boris"
+      }
+    },
+    {
+      "id": "227-2614",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.09765625"
+      },
+      "meta": {
+        "item_name": "Vial of water",
+        "monster_name": "Imre"
+      }
+    },
+    {
+      "id": "227-2615",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.09765625"
+      },
+      "meta": {
+        "item_name": "Vial of water",
+        "monster_name": "Yuri"
+      }
+    },
+    {
+      "id": "227-2616",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.09765625"
+      },
+      "meta": {
+        "item_name": "Vial of water",
+        "monster_name": "Joseph"
+      }
+    },
+    {
+      "id": "227-2617",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.09765625"
+      },
+      "meta": {
+        "item_name": "Vial of water",
+        "monster_name": "Nikolai"
+      }
+    },
+    {
+      "id": "227-2618",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.09765625"
+      },
+      "meta": {
+        "item_name": "Vial of water",
+        "monster_name": "Eduard"
+      }
+    },
+    {
+      "id": "227-2619",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.09765625"
+      },
+      "meta": {
+        "item_name": "Vial of water",
+        "monster_name": "Lev"
+      }
+    },
+    {
+      "id": "227-2620",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.09765625"
+      },
+      "meta": {
+        "item_name": "Vial of water",
+        "monster_name": "Georgy"
+      }
+    },
+    {
+      "id": "227-2621",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.09765625"
+      },
+      "meta": {
+        "item_name": "Vial of water",
+        "monster_name": "Svetlana"
+      }
+    },
+    {
+      "id": "227-2622",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.09765625"
+      },
+      "meta": {
+        "item_name": "Vial of water",
+        "monster_name": "Irina"
+      }
+    },
+    {
+      "id": "227-2623",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.09765625"
+      },
+      "meta": {
+        "item_name": "Vial of water",
+        "monster_name": "Alexis"
+      }
+    },
+    {
+      "id": "227-2624",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.09765625"
+      },
+      "meta": {
+        "item_name": "Vial of water",
+        "monster_name": "Milla"
+      }
+    },
+    {
+      "id": "227-2625",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.09765625"
+      },
+      "meta": {
+        "item_name": "Vial of water",
+        "monster_name": "Galina"
+      }
+    },
+    {
+      "id": "227-2626",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.09765625"
+      },
+      "meta": {
+        "item_name": "Vial of water",
+        "monster_name": "Sofiya"
+      }
+    },
+    {
+      "id": "227-2627",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.09765625"
+      },
+      "meta": {
+        "item_name": "Vial of water",
+        "monster_name": "Ksenia"
+      }
+    },
+    {
+      "id": "227-2628",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.09765625"
+      },
+      "meta": {
+        "item_name": "Vial of water",
+        "monster_name": "Yadviga"
+      }
+    },
+    {
+      "id": "227-2629",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.09765625"
+      },
+      "meta": {
+        "item_name": "Vial of water",
+        "monster_name": "Nikita"
+      }
+    },
+    {
+      "id": "227-2630",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.09765625"
+      },
+      "meta": {
+        "item_name": "Vial of water",
+        "monster_name": "Vera"
+      }
+    },
+    {
+      "id": "227-7389",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.1015625"
+      },
+      "meta": {
+        "item_name": "Vial of water",
+        "monster_name": "Chasm Crawler"
+      }
+    },
+    {
+      "id": "227-6607",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 4,
+        "quantity_max": null,
+        "rarity": "0.0775193798449612"
+      },
+      "meta": {
+        "item_name": "Vial of water",
+        "monster_name": "Elder Chaos druid"
+      }
+    },
+    {
+      "id": "227-6468",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Vial of water",
+        "monster_name": "Skeleton (Tarn's Lair) (Level 87)"
+      }
+    },
+    {
+      "id": "227-6467",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Vial of water",
+        "monster_name": "Skeleton (Tarn's Lair) (Level 72)"
+      }
+    },
+    {
+      "id": "227-6448",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Vial of water",
+        "monster_name": "Skeleton (Tarn's Lair) (Level 40)"
+      }
+    },
+    {
+      "id": "227-6447",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Vial of water",
+        "monster_name": "Skeleton (Tarn's Lair) (Level 63)"
+      }
+    },
+    {
+      "id": "227-6446",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Vial of water",
+        "monster_name": "Skeleton (Tarn's Lair) (Level 42 (Hammer))"
+      }
+    },
+    {
+      "id": "227-6445",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Vial of water",
+        "monster_name": "Skeleton (Tarn's Lair) (Level 59)"
+      }
+    },
+    {
+      "id": "227-6444",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Vial of water",
+        "monster_name": "Skeleton (Tarn's Lair) (Level 42 (Sword))"
+      }
+    }
+  ]
+}

@@ -1,0 +1,628 @@
+{
+  "data": [
+    {
+      "id": "451-2042",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.0443548387096774"
+      },
+      "meta": {
+        "item_name": "Runite ore",
+        "monster_name": "Zulrah (Serpentine)"
+      }
+    },
+    {
+      "id": "451-9756",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.021505376344086"
+      },
+      "meta": {
+        "item_name": "Runite ore",
+        "monster_name": "Vyrewatch Sentinel"
+      }
+    },
+    {
+      "id": "451-9049",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 3,
+        "quantity_max": 26,
+        "rarity": "0.0555555555555556"
+      },
+      "meta": {
+        "item_name": "Runite ore",
+        "monster_name": "Zalcano"
+      }
+    },
+    {
+      "id": "451-8713",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 4,
+        "quantity_max": 6,
+        "rarity": "0.01"
+      },
+      "meta": {
+        "item_name": "Runite ore",
+        "monster_name": "Sarachnis"
+      }
+    },
+    {
+      "id": "451-8565",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 3,
+        "quantity_max": 5,
+        "rarity": "0.016"
+      },
+      "meta": {
+        "item_name": "Runite ore",
+        "monster_name": "Lizardman shaman (Lizardman Temple)"
+      }
+    },
+    {
+      "id": "451-8031",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 2,
+        "quantity_max": 5,
+        "rarity": "0.047244094488189"
+      },
+      "meta": {
+        "item_name": "Runite ore",
+        "monster_name": "Rune dragon"
+      }
+    },
+    {
+      "id": "451-7940",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 3,
+        "quantity_max": 6,
+        "rarity": "0.0563207547169811"
+      },
+      "meta": {
+        "item_name": "Runite ore",
+        "monster_name": "Revenant dragon"
+      }
+    },
+    {
+      "id": "451-7939",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 3,
+        "quantity_max": 6,
+        "rarity": "0.0526415094339623"
+      },
+      "meta": {
+        "item_name": "Runite ore",
+        "monster_name": "Revenant knight"
+      }
+    },
+    {
+      "id": "451-7938",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 3,
+        "quantity_max": 6,
+        "rarity": "0.0452830188679245"
+      },
+      "meta": {
+        "item_name": "Runite ore",
+        "monster_name": "Revenant dark beast"
+      }
+    },
+    {
+      "id": "451-7937",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 3,
+        "quantity_max": 6,
+        "rarity": "0.0385934819897084"
+      },
+      "meta": {
+        "item_name": "Runite ore",
+        "monster_name": "Revenant ork"
+      }
+    },
+    {
+      "id": "451-7936",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 3,
+        "quantity_max": 6,
+        "rarity": "0.0320136096504794"
+      },
+      "meta": {
+        "item_name": "Runite ore",
+        "monster_name": "Revenant demon"
+      }
+    },
+    {
+      "id": "451-7935",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 3,
+        "quantity_max": 6,
+        "rarity": "0.0292298175069595"
+      },
+      "meta": {
+        "item_name": "Runite ore",
+        "monster_name": "Revenant hellhound"
+      }
+    },
+    {
+      "id": "451-7934",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 3,
+        "quantity_max": 6,
+        "rarity": "0.0264460253634395"
+      },
+      "meta": {
+        "item_name": "Runite ore",
+        "monster_name": "Revenant cyclops"
+      }
+    },
+    {
+      "id": "451-7933",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 3,
+        "quantity_max": 6,
+        "rarity": "0.0155029443576493"
+      },
+      "meta": {
+        "item_name": "Runite ore",
+        "monster_name": "Revenant hobgoblin"
+      }
+    },
+    {
+      "id": "451-7932",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 3,
+        "quantity_max": 6,
+        "rarity": "0.0137002764090854"
+      },
+      "meta": {
+        "item_name": "Runite ore",
+        "monster_name": "Revenant pyrefiend"
+      }
+    },
+    {
+      "id": "451-7931",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 3,
+        "quantity_max": 6,
+        "rarity": "0.00324332672655667"
+      },
+      "meta": {
+        "item_name": "Runite ore",
+        "monster_name": "Revenant goblin"
+      }
+    },
+    {
+      "id": "451-7881",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 3,
+        "quantity_max": 6,
+        "rarity": "0.001852487135506"
+      },
+      "meta": {
+        "item_name": "Runite ore",
+        "monster_name": "Revenant imp"
+      }
+    },
+    {
+      "id": "451-7795",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 2,
+        "quantity_max": 3,
+        "rarity": "0.0223880597014925"
+      },
+      "meta": {
+        "item_name": "Runite ore",
+        "monster_name": "Ancient Wyvern"
+      }
+    },
+    {
+      "id": "451-7794",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 1,
+        "quantity_max": 2,
+        "rarity": "0.024390243902439"
+      },
+      "meta": {
+        "item_name": "Runite ore",
+        "monster_name": "Spitting Wyvern"
+      }
+    },
+    {
+      "id": "451-7793",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 1,
+        "quantity_max": 2,
+        "rarity": "0.024390243902439"
+      },
+      "meta": {
+        "item_name": "Runite ore",
+        "monster_name": "Taloned Wyvern"
+      }
+    },
+    {
+      "id": "451-7792",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 1,
+        "quantity_max": 2,
+        "rarity": "0.024390243902439"
+      },
+      "meta": {
+        "item_name": "Runite ore",
+        "monster_name": "Long-tailed Wyvern"
+      }
+    },
+    {
+      "id": "451-7409",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Runite ore",
+        "monster_name": "Night beast"
+      }
+    },
+    {
+      "id": "451-7407",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Runite ore",
+        "monster_name": "Marble gargoyle"
+      }
+    },
+    {
+      "id": "451-7275",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Runite ore",
+        "monster_name": "Brutal black dragon"
+      }
+    },
+    {
+      "id": "451-7273",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Runite ore",
+        "monster_name": "Brutal blue dragon"
+      }
+    },
+    {
+      "id": "451-7274",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Runite ore",
+        "monster_name": "Brutal red dragon"
+      }
+    },
+    {
+      "id": "451-6766",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 3,
+        "quantity_max": 5,
+        "rarity": "0.016"
+      },
+      "meta": {
+        "item_name": "Runite ore",
+        "monster_name": "Lizardman shaman (Standard)"
+      }
+    },
+    {
+      "id": "451-6730",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Runite ore",
+        "monster_name": "Rock golem (monster) (Level 159)"
+      }
+    },
+    {
+      "id": "451-6729",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Runite ore",
+        "monster_name": "Rock golem (monster) (Level 120)"
+      }
+    },
+    {
+      "id": "451-5908",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 6,
+        "quantity_max": null,
+        "rarity": "0.0287769784172662"
+      },
+      "meta": {
+        "item_name": "Runite ore",
+        "monster_name": "Abyssal Sire (Phase 3 (stage 2))"
+      }
+    },
+    {
+      "id": "451-5891",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 6,
+        "quantity_max": null,
+        "rarity": "0.0287769784172662"
+      },
+      "meta": {
+        "item_name": "Runite ore",
+        "monster_name": "Abyssal Sire (Phase 3 (stage 1))"
+      }
+    },
+    {
+      "id": "451-5890",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 6,
+        "quantity_max": null,
+        "rarity": "0.0287769784172662"
+      },
+      "meta": {
+        "item_name": "Runite ore",
+        "monster_name": "Abyssal Sire (Phase 2)"
+      }
+    },
+    {
+      "id": "451-5886",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 6,
+        "quantity_max": null,
+        "rarity": "0.0287769784172662"
+      },
+      "meta": {
+        "item_name": "Runite ore",
+        "monster_name": "Abyssal Sire (Phase 1)"
+      }
+    },
+    {
+      "id": "451-5862",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Runite ore",
+        "monster_name": "Cerberus"
+      }
+    },
+    {
+      "id": "451-4005",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Runite ore",
+        "monster_name": "Dark beast"
+      }
+    },
+    {
+      "id": "451-2044",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.0443548387096774"
+      },
+      "meta": {
+        "item_name": "Runite ore",
+        "monster_name": "Zulrah (Tanzanite)"
+      }
+    },
+    {
+      "id": "451-2043",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.0443548387096774"
+      },
+      "meta": {
+        "item_name": "Runite ore",
+        "monster_name": "Zulrah (Magma)"
+      }
+    },
+    {
+      "id": "451-412",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Runite ore",
+        "monster_name": "Gargoyle"
+      }
+    },
+    {
+      "id": "451-319",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 20,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Runite ore",
+        "monster_name": "Corporeal Beast"
+      }
+    }
+  ]
+}

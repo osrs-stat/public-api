@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "id": "556-1559",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": 10,
+        "rarity": "0.95"
+      },
+      "meta": {
+        "item_name": "Air rune (Regular)",
+        "monster_name": "Air wizard"
+      }
+    },
+    {
+      "id": "592-1559",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Ashes",
+        "monster_name": "Air wizard"
+      }
+    },
+    {
+      "id": "1438-1559",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.05"
+      },
+      "meta": {
+        "item_name": "Air talisman",
+        "monster_name": "Air wizard"
+      }
+    }
+  ]
+}

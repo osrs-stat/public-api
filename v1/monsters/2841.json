@@ -1,0 +1,119 @@
+{
+  "data": {
+    "id": "2841",
+    "type": "monster",
+    "attributes": {
+      "uuid": "b5b8ffa0-e0d4-4848-81b2-225e1817bc04",
+      "name": "Ice warrior",
+      "members": false,
+      "release_date": "2001-05-24",
+      "examine": "A cold-hearted elemental warrior.",
+      "combat_level_override": null,
+      "max_hit_override": null,
+      "target_types": [
+
+      ],
+      "classification_types": [
+        "ice warrior"
+      ],
+      "poison": false,
+      "immune_poison": false,
+      "immune_venom": false,
+      "slayer_xp": 59.0,
+      "slayer_level": 1,
+      "slayer_masters": [
+        "krystilia",
+        "mazchna",
+        "vannaka"
+      ],
+      "icon_base64": null
+    },
+    "relationships": {
+      "combat_stat": {
+        "data": {
+          "id": "b2544a5e-9e63-42d3-9296-ea7bd5a8bd5e",
+          "type": "combat_stat"
+        }
+      },
+      "equip_stat": {
+        "data": {
+          "id": "23fe8fdd-adcc-4a87-a883-b0ce58b49d68",
+          "type": "equip_stat"
+        }
+      },
+      "attack_stat": {
+        "data": {
+          "id": "16052594-bf5b-42c1-b409-17cc8cb0c2ed",
+          "type": "attack_stat"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Ice_warrior"
+    },
+    "meta": {
+      "incomplete": true
+    }
+  },
+  "included": [
+    {
+      "id": "16052594-bf5b-42c1-b409-17cc8cb0c2ed",
+      "type": "attack_stat",
+      "attributes": {
+        "attack_speed": 4,
+        "attack_type": "monster",
+        "special": null,
+        "stances": [
+          {
+            "name": "Monster melee",
+            "style": null,
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": null,
+            "combat_accuracy_stat": "attack_level",
+            "combat_damage_stat": "strength_level",
+            "equip_accuracy_stat": "crush_attack",
+            "equip_damage_stat": "crush_attack",
+            "target_equip_defense_stat": "crush_defense"
+          }
+        ]
+      }
+    },
+    {
+      "id": "b2544a5e-9e63-42d3-9296-ea7bd5a8bd5e",
+      "type": "monster_combat_stat",
+      "attributes": {
+        "hitpoints_level": 59,
+        "attack_level": 47,
+        "strength_level": 47,
+        "defense_level": 47,
+        "magic_level": 1,
+        "ranged_level": 1,
+        "prayer_level": 0
+      }
+    },
+    {
+      "id": "23fe8fdd-adcc-4a87-a883-b0ce58b49d68",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 0,
+        "slash_attack": 0,
+        "crush_attack": 0,
+        "ranged_attack": 0,
+        "magic_attack": 0,
+        "stab_defense": 30,
+        "slash_defense": 40,
+        "crush_defense": 20,
+        "ranged_defense": 30,
+        "magic_defense": 10,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

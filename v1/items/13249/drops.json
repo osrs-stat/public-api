@@ -1,0 +1,20 @@
+{
+  "data": [
+    {
+      "id": "13249-5862",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Key master teleport",
+        "monster_name": "Cerberus"
+      }
+    }
+  ]
+}

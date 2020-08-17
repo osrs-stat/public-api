@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "id": "19610-7150",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0000666666666666667"
+      },
+      "meta": {
+        "item_name": "Monkey tail",
+        "monster_name": "Tortured gorilla (Level 141)"
+      }
+    },
+    {
+      "id": "19610-7144",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000666666666666667"
+      },
+      "meta": {
+        "item_name": "Monkey tail",
+        "monster_name": "Demonic gorilla"
+      }
+    },
+    {
+      "id": "19610-7095",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0000666666666666667"
+      },
+      "meta": {
+        "item_name": "Monkey tail",
+        "monster_name": "Tortured gorilla (Level 142)"
+      }
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "id": "13456-2481",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.02"
+      },
+      "meta": {
+        "item_name": "Ensouled minotaur head (Drop)",
+        "monster_name": "Minotaur (Level 12)"
+      }
+    },
+    {
+      "id": "13456-2483",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.02"
+      },
+      "meta": {
+        "item_name": "Ensouled minotaur head (Drop)",
+        "monster_name": "Minotaur (Level 27)"
+      }
+    }
+  ]
+}

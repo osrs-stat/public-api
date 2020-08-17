@@ -1,0 +1,84 @@
+{
+  "data": [
+    {
+      "id": "13391-6918",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.208955223880597"
+      },
+      "meta": {
+        "item_name": "Lizardman fang",
+        "monster_name": "Lizardman brute (Standard)"
+      }
+    },
+    {
+      "id": "526-6918",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Bones",
+        "monster_name": "Lizardman brute (Standard)"
+      }
+    },
+    {
+      "id": "23083-6918",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00406834825061025"
+      },
+      "meta": {
+        "item_name": "Brimstone key",
+        "monster_name": "Lizardman brute (Standard)"
+      }
+    },
+    {
+      "id": "13392-6918",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.004"
+      },
+      "meta": {
+        "item_name": "Xeric's talisman (Inert)",
+        "monster_name": "Lizardman brute (Standard)"
+      }
+    },
+    {
+      "id": "13383-6918",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.119402985074627"
+      },
+      "meta": {
+        "item_name": "Xerician fabric",
+        "monster_name": "Lizardman brute (Standard)"
+      }
+    }
+  ]
+}

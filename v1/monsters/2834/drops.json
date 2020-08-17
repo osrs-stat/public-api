@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "id": "7827-2834",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Giant bat wing (Unpolished)",
+        "monster_name": "Giant bat"
+      }
+    },
+    {
+      "id": "530-2834",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Bat bones",
+        "monster_name": "Giant bat"
+      }
+    },
+    {
+      "id": "11941-2834",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.2"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Giant bat"
+      }
+    }
+  ]
+}

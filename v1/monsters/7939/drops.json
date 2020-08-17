@@ -1,0 +1,724 @@
+{
+  "data": [
+    {
+      "id": "21813-7939",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0005"
+      },
+      "meta": {
+        "item_name": "Ancient statuette",
+        "monster_name": "Revenant knight"
+      }
+    },
+    {
+      "id": "23490-7939",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0111111111111111"
+      },
+      "meta": {
+        "item_name": "Larran's key",
+        "monster_name": "Revenant knight"
+      }
+    },
+    {
+      "id": "11941-7939",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Revenant knight"
+      }
+    },
+    {
+      "id": "565-7939",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 60,
+        "quantity_max": 100,
+        "rarity": "0.0263207547169811"
+      },
+      "meta": {
+        "item_name": "Blood rune (Regular)",
+        "monster_name": "Revenant knight"
+      }
+    },
+    {
+      "id": "560-7939",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 60,
+        "quantity_max": 100,
+        "rarity": "0.0263207547169811"
+      },
+      "meta": {
+        "item_name": "Death rune (Regular)",
+        "monster_name": "Revenant knight"
+      }
+    },
+    {
+      "id": "563-7939",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 80,
+        "quantity_max": 120,
+        "rarity": "0.0175471698113208"
+      },
+      "meta": {
+        "item_name": "Law rune",
+        "monster_name": "Revenant knight"
+      }
+    },
+    {
+      "id": "9194-7939",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": 10,
+        "rarity": "0.0350943396226415"
+      },
+      "meta": {
+        "item_name": "Onyx bolt tips",
+        "monster_name": "Revenant knight"
+      }
+    },
+    {
+      "id": "9193-7939",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 40,
+        "quantity_max": 70,
+        "rarity": "0.0350943396226415"
+      },
+      "meta": {
+        "item_name": "Dragonstone bolt tips",
+        "monster_name": "Revenant knight"
+      }
+    },
+    {
+      "id": "3024-7939",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 3,
+        "quantity_max": 5,
+        "rarity": "0.0350943396226415"
+      },
+      "meta": {
+        "item_name": "Super restore (4 dose)",
+        "monster_name": "Revenant knight"
+      }
+    },
+    {
+      "id": "21802-7939",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0614150943396226"
+      },
+      "meta": {
+        "item_name": "Revenant cave teleport",
+        "monster_name": "Revenant knight"
+      }
+    },
+    {
+      "id": "5316-7939",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": 9,
+        "rarity": "0.0005"
+      },
+      "meta": {
+        "item_name": "Magic seed",
+        "monster_name": "Revenant knight"
+      }
+    },
+    {
+      "id": "1631-7939",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 5,
+        "quantity_max": 7,
+        "rarity": "0.0175471698113208"
+      },
+      "meta": {
+        "item_name": "Uncut dragonstone",
+        "monster_name": "Revenant knight"
+      }
+    },
+    {
+      "id": "1513-7939",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 15,
+        "quantity_max": 25,
+        "rarity": "0.0175471698113208"
+      },
+      "meta": {
+        "item_name": "Magic logs",
+        "monster_name": "Revenant knight"
+      }
+    },
+    {
+      "id": "1515-7939",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 60,
+        "quantity_max": 100,
+        "rarity": "0.0263207547169811"
+      },
+      "meta": {
+        "item_name": "Yew logs",
+        "monster_name": "Revenant knight"
+      }
+    },
+    {
+      "id": "391-7939",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 30,
+        "quantity_max": 50,
+        "rarity": "0.0263207547169811"
+      },
+      "meta": {
+        "item_name": "Manta ray",
+        "monster_name": "Revenant knight"
+      }
+    },
+    {
+      "id": "8782-7939",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 15,
+        "quantity_max": 25,
+        "rarity": "0.0438679245283019"
+      },
+      "meta": {
+        "item_name": "Mahogany plank",
+        "monster_name": "Revenant knight"
+      }
+    },
+    {
+      "id": "1747-7939",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 10,
+        "quantity_max": 15,
+        "rarity": "0.0526415094339623"
+      },
+      "meta": {
+        "item_name": "Black dragonhide",
+        "monster_name": "Revenant knight"
+      }
+    },
+    {
+      "id": "2363-7939",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 3,
+        "quantity_max": 5,
+        "rarity": "0.0526415094339623"
+      },
+      "meta": {
+        "item_name": "Runite bar",
+        "monster_name": "Revenant knight"
+      }
+    },
+    {
+      "id": "451-7939",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 3,
+        "quantity_max": 6,
+        "rarity": "0.0526415094339623"
+      },
+      "meta": {
+        "item_name": "Runite ore",
+        "monster_name": "Revenant knight"
+      }
+    },
+    {
+      "id": "2361-7939",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 8,
+        "quantity_max": 12,
+        "rarity": "0.0526415094339623"
+      },
+      "meta": {
+        "item_name": "Adamantite bar",
+        "monster_name": "Revenant knight"
+      }
+    },
+    {
+      "id": "453-7939",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 50,
+        "quantity_max": 100,
+        "rarity": "0.0526415094339623"
+      },
+      "meta": {
+        "item_name": "Coal",
+        "monster_name": "Revenant knight"
+      }
+    },
+    {
+      "id": "1149-7939",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.001625"
+      },
+      "meta": {
+        "item_name": "Dragon med helm",
+        "monster_name": "Revenant knight"
+      }
+    },
+    {
+      "id": "1305-7939",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00877358490566038"
+      },
+      "meta": {
+        "item_name": "Dragon longsword",
+        "monster_name": "Revenant knight"
+      }
+    },
+    {
+      "id": "1215-7939",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00877358490566038"
+      },
+      "meta": {
+        "item_name": "Dragon dagger (Unpoisoned)",
+        "monster_name": "Revenant knight"
+      }
+    },
+    {
+      "id": "4585-7939",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00877358490566038"
+      },
+      "meta": {
+        "item_name": "Dragon plateskirt",
+        "monster_name": "Revenant knight"
+      }
+    },
+    {
+      "id": "4087-7939",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00877358490566038"
+      },
+      "meta": {
+        "item_name": "Dragon platelegs",
+        "monster_name": "Revenant knight"
+      }
+    },
+    {
+      "id": "1347-7939",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0175471698113208"
+      },
+      "meta": {
+        "item_name": "Rune warhammer",
+        "monster_name": "Revenant knight"
+      }
+    },
+    {
+      "id": "1201-7939",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0175471698113208"
+      },
+      "meta": {
+        "item_name": "Rune kiteshield",
+        "monster_name": "Revenant knight"
+      }
+    },
+    {
+      "id": "1079-7939",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0175471698113208"
+      },
+      "meta": {
+        "item_name": "Rune platelegs",
+        "monster_name": "Revenant knight"
+      }
+    },
+    {
+      "id": "1127-7939",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0175471698113208"
+      },
+      "meta": {
+        "item_name": "Rune platebody",
+        "monster_name": "Revenant knight"
+      }
+    },
+    {
+      "id": "1163-7939",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0175471698113208"
+      },
+      "meta": {
+        "item_name": "Rune full helm",
+        "monster_name": "Revenant knight"
+      }
+    },
+    {
+      "id": "21817-7939",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.131603773584906"
+      },
+      "meta": {
+        "item_name": "Bracelet of ethereum (Uncharged)",
+        "monster_name": "Revenant knight"
+      }
+    },
+    {
+      "id": "1391-7939",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.0438679245283019"
+      },
+      "meta": {
+        "item_name": "Battlestaff",
+        "monster_name": "Revenant knight"
+      }
+    },
+    {
+      "id": "22305-7939",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000125"
+      },
+      "meta": {
+        "item_name": "Ancient relic",
+        "monster_name": "Revenant knight"
+      }
+    },
+    {
+      "id": "22302-7939",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000125"
+      },
+      "meta": {
+        "item_name": "Ancient effigy",
+        "monster_name": "Revenant knight"
+      }
+    },
+    {
+      "id": "22299-7939",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00025"
+      },
+      "meta": {
+        "item_name": "Ancient medallion",
+        "monster_name": "Revenant knight"
+      }
+    },
+    {
+      "id": "21804-7939",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000375"
+      },
+      "meta": {
+        "item_name": "Ancient crystal",
+        "monster_name": "Revenant knight"
+      }
+    },
+    {
+      "id": "21257-7939",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00485436893203883"
+      },
+      "meta": {
+        "item_name": "Slayer's enchantment",
+        "monster_name": "Revenant knight"
+      }
+    },
+    {
+      "id": "21810-7939",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000625"
+      },
+      "meta": {
+        "item_name": "Ancient totem",
+        "monster_name": "Revenant knight"
+      }
+    },
+    {
+      "id": "21807-7939",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00075"
+      },
+      "meta": {
+        "item_name": "Ancient emblem",
+        "monster_name": "Revenant knight"
+      }
+    },
+    {
+      "id": "22557-7939",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000025"
+      },
+      "meta": {
+        "item_name": "Amulet of avarice",
+        "monster_name": "Revenant knight"
+      }
+    },
+    {
+      "id": "22552-7939",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000025"
+      },
+      "meta": {
+        "item_name": "Thammaron's sceptre (Uncharged)",
+        "monster_name": "Revenant knight"
+      }
+    },
+    {
+      "id": "22547-7939",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000025"
+      },
+      "meta": {
+        "item_name": "Craw's bow (Uncharged)",
+        "monster_name": "Revenant knight"
+      }
+    },
+    {
+      "id": "22557-7939",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00005"
+      },
+      "meta": {
+        "item_name": "Amulet of avarice",
+        "monster_name": "Revenant knight"
+      }
+    },
+    {
+      "id": "21820-7939",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 12,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Revenant ether",
+        "monster_name": "Revenant knight"
+      }
+    }
+  ]
+}

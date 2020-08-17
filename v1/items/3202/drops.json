@@ -1,0 +1,84 @@
+{
+  "data": [
+    {
+      "id": "3202-5862",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Rune halberd",
+        "monster_name": "Cerberus"
+      }
+    },
+    {
+      "id": "3202-2243",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078740157480315"
+      },
+      "meta": {
+        "item_name": "Rune halberd",
+        "monster_name": "Spiritual warrior (Bandos)"
+      }
+    },
+    {
+      "id": "3202-3166",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078740157480315"
+      },
+      "meta": {
+        "item_name": "Rune halberd",
+        "monster_name": "Spiritual warrior (Armadyl)"
+      }
+    },
+    {
+      "id": "3202-3159",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078740157480315"
+      },
+      "meta": {
+        "item_name": "Rune halberd",
+        "monster_name": "Spiritual warrior (Zamorak)"
+      }
+    },
+    {
+      "id": "3202-2210",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078740157480315"
+      },
+      "meta": {
+        "item_name": "Rune halberd",
+        "monster_name": "Spiritual warrior (Saradomin)"
+      }
+    }
+  ]
+}

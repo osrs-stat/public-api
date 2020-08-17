@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "id": "1617-1362",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Uncut diamond",
+        "monster_name": "Slagilith (Normal)"
+      }
+    },
+    {
+      "id": "449-1362",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Adamantite ore",
+        "monster_name": "Slagilith (Normal)"
+      }
+    },
+    {
+      "id": "1619-1362",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Uncut ruby",
+        "monster_name": "Slagilith (Normal)"
+      }
+    }
+  ]
+}

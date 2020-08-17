@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "7893-5126",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.25"
+      },
+      "meta": {
+        "item_name": "Experiment bone (Unpolished)",
+        "monster_name": "Experiment No.2"
+      }
+    },
+    {
+      "id": "7893-1273",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.25"
+      },
+      "meta": {
+        "item_name": "Experiment bone (Unpolished)",
+        "monster_name": "Experiment (Level 51)"
+      }
+    },
+    {
+      "id": "7893-1275",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.25"
+      },
+      "meta": {
+        "item_name": "Experiment bone (Unpolished)",
+        "monster_name": "Experiment (Level 25 (sheep))"
+      }
+    },
+    {
+      "id": "7893-1274",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.25"
+      },
+      "meta": {
+        "item_name": "Experiment bone (Unpolished)",
+        "monster_name": "Experiment (Level 25 (spider))"
+      }
+    }
+  ]
+}

@@ -1,0 +1,836 @@
+{
+  "data": [
+    {
+      "id": "5106-6604",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Poison ivy seed",
+        "monster_name": "Mammoth"
+      }
+    },
+    {
+      "id": "5105-6604",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Whiteberry seed",
+        "monster_name": "Mammoth"
+      }
+    },
+    {
+      "id": "5104-6604",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.021875"
+      },
+      "meta": {
+        "item_name": "Jangerberry seed",
+        "monster_name": "Mammoth"
+      }
+    },
+    {
+      "id": "5103-6604",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.025"
+      },
+      "meta": {
+        "item_name": "Dwellberry seed",
+        "monster_name": "Mammoth"
+      }
+    },
+    {
+      "id": "5102-6604",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Cadavaberry seed",
+        "monster_name": "Mammoth"
+      }
+    },
+    {
+      "id": "5101-6604",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.046875"
+      },
+      "meta": {
+        "item_name": "Redberry seed",
+        "monster_name": "Mammoth"
+      }
+    },
+    {
+      "id": "5321-6604",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.003125"
+      },
+      "meta": {
+        "item_name": "Watermelon seed",
+        "monster_name": "Mammoth"
+      }
+    },
+    {
+      "id": "2801-6604",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Clue scroll (medium)",
+        "monster_name": "Mammoth"
+      }
+    },
+    {
+      "id": "5320-6604",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Sweetcorn seed",
+        "monster_name": "Mammoth"
+      }
+    },
+    {
+      "id": "5322-6604",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.021875"
+      },
+      "meta": {
+        "item_name": "Tomato seed",
+        "monster_name": "Mammoth"
+      }
+    },
+    {
+      "id": "5324-6604",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.025"
+      },
+      "meta": {
+        "item_name": "Cabbage seed",
+        "monster_name": "Mammoth"
+      }
+    },
+    {
+      "id": "886-6604",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 15,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Steel arrow (Unpoisoned)",
+        "monster_name": "Mammoth"
+      }
+    },
+    {
+      "id": "5323-6604",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.0125"
+      },
+      "meta": {
+        "item_name": "Strawberry seed",
+        "monster_name": "Mammoth"
+      }
+    },
+    {
+      "id": "10976-6604",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0025"
+      },
+      "meta": {
+        "item_name": "Long bone",
+        "monster_name": "Mammoth"
+      }
+    },
+    {
+      "id": "10977-6604",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000199501246882793"
+      },
+      "meta": {
+        "item_name": "Curved bone",
+        "monster_name": "Mammoth"
+      }
+    },
+    {
+      "id": "199-6604",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Grimy guam leaf",
+        "monster_name": "Mammoth"
+      }
+    },
+    {
+      "id": "201-6604",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0117194824676542"
+      },
+      "meta": {
+        "item_name": "Grimy marrentill",
+        "monster_name": "Mammoth"
+      }
+    },
+    {
+      "id": "143-6604",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Prayer potion (1 dose)",
+        "monster_name": "Mammoth"
+      }
+    },
+    {
+      "id": "5100-6604",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Limpwurt seed",
+        "monster_name": "Mammoth"
+      }
+    },
+    {
+      "id": "203-6604",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00878919983124736"
+      },
+      "meta": {
+        "item_name": "Grimy tarromin",
+        "monster_name": "Mammoth"
+      }
+    },
+    {
+      "id": "205-6604",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00683583069014547"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Mammoth"
+      }
+    },
+    {
+      "id": "207-6604",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00536941580756014"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Mammoth"
+      }
+    },
+    {
+      "id": "209-6604",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00390625"
+      },
+      "meta": {
+        "item_name": "Grimy irit leaf",
+        "monster_name": "Mammoth"
+      }
+    },
+    {
+      "id": "211-6604",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00293014533520863"
+      },
+      "meta": {
+        "item_name": "Grimy avantoe",
+        "monster_name": "Mammoth"
+      }
+    },
+    {
+      "id": "213-6604",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00244140625"
+      },
+      "meta": {
+        "item_name": "Grimy kwuarm",
+        "monster_name": "Mammoth"
+      }
+    },
+    {
+      "id": "215-6604",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.001953125"
+      },
+      "meta": {
+        "item_name": "Grimy cadantine",
+        "monster_name": "Mammoth"
+      }
+    },
+    {
+      "id": "2485-6604",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00146472931802203"
+      },
+      "meta": {
+        "item_name": "Grimy lantadyme",
+        "monster_name": "Mammoth"
+      }
+    },
+    {
+      "id": "217-6604",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00146472931802203"
+      },
+      "meta": {
+        "item_name": "Grimy dwarf weed",
+        "monster_name": "Mammoth"
+      }
+    },
+    {
+      "id": "23490-6604",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.01"
+      },
+      "meta": {
+        "item_name": "Larran's key",
+        "monster_name": "Mammoth"
+      }
+    },
+    {
+      "id": "21257-6604",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00462962962962963"
+      },
+      "meta": {
+        "item_name": "Slayer's enchantment",
+        "monster_name": "Mammoth"
+      }
+    },
+    {
+      "id": "5312-6604",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Acorn",
+        "monster_name": "Mammoth"
+      }
+    },
+    {
+      "id": "5288-6604",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0015625"
+      },
+      "meta": {
+        "item_name": "Papaya tree seed",
+        "monster_name": "Mammoth"
+      }
+    },
+    {
+      "id": "5287-6604",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0046875"
+      },
+      "meta": {
+        "item_name": "Pineapple seed",
+        "monster_name": "Mammoth"
+      }
+    },
+    {
+      "id": "5286-6604",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.009375"
+      },
+      "meta": {
+        "item_name": "Curry tree seed",
+        "monster_name": "Mammoth"
+      }
+    },
+    {
+      "id": "5319-6604",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Onion seed",
+        "monster_name": "Mammoth"
+      }
+    },
+    {
+      "id": "5318-6604",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.046875"
+      },
+      "meta": {
+        "item_name": "Potato seed",
+        "monster_name": "Mammoth"
+      }
+    },
+    {
+      "id": "532-6604",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Big bones",
+        "monster_name": "Mammoth"
+      }
+    },
+    {
+      "id": "5285-6604",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Orange tree seed",
+        "monster_name": "Mammoth"
+      }
+    },
+    {
+      "id": "5284-6604",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.01875"
+      },
+      "meta": {
+        "item_name": "Banana tree seed",
+        "monster_name": "Mammoth"
+      }
+    },
+    {
+      "id": "5283-6604",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.028125"
+      },
+      "meta": {
+        "item_name": "Apple tree seed",
+        "monster_name": "Mammoth"
+      }
+    },
+    {
+      "id": "5311-6604",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 4,
+        "quantity_max": null,
+        "rarity": "0.003125"
+      },
+      "meta": {
+        "item_name": "Wildblood seed",
+        "monster_name": "Mammoth"
+      }
+    },
+    {
+      "id": "5310-6604",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 4,
+        "quantity_max": null,
+        "rarity": "0.0125"
+      },
+      "meta": {
+        "item_name": "Krandorian seed",
+        "monster_name": "Mammoth"
+      }
+    },
+    {
+      "id": "5309-6604",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 4,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Yanillian seed",
+        "monster_name": "Mammoth"
+      }
+    },
+    {
+      "id": "5306-6604",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 4,
+        "quantity_max": null,
+        "rarity": "0.021875"
+      },
+      "meta": {
+        "item_name": "Jute seed",
+        "monster_name": "Mammoth"
+      }
+    },
+    {
+      "id": "5308-6604",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 4,
+        "quantity_max": null,
+        "rarity": "0.025"
+      },
+      "meta": {
+        "item_name": "Asgarnian seed",
+        "monster_name": "Mammoth"
+      }
+    },
+    {
+      "id": "5307-6604",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 4,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Hammerstone seed",
+        "monster_name": "Mammoth"
+      }
+    },
+    {
+      "id": "5305-6604",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 4,
+        "quantity_max": null,
+        "rarity": "0.046875"
+      },
+      "meta": {
+        "item_name": "Barley seed",
+        "monster_name": "Mammoth"
+      }
+    },
+    {
+      "id": "11941-6604",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Mammoth"
+      }
+    },
+    {
+      "id": "379-6604",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Lobster",
+        "monster_name": "Mammoth"
+      }
+    },
+    {
+      "id": "11940-6604",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 12,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Dark fishing bait",
+        "monster_name": "Mammoth"
+      }
+    },
+    {
+      "id": "995-6604",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 30,
+        "quantity_max": null,
+        "rarity": "0.1015625"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Mammoth"
+      }
+    },
+    {
+      "id": "995-6604",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 180,
+        "quantity_max": null,
+        "rarity": "0.0546875"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Mammoth"
+      }
+    }
+  ]
+}

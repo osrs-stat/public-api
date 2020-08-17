@@ -1,0 +1,20 @@
+{
+  "data": [
+    {
+      "id": "10882-3605",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.15"
+      },
+      "meta": {
+        "item_name": "Rune satchel",
+        "monster_name": "Newtroost"
+      }
+    }
+  ]
+}

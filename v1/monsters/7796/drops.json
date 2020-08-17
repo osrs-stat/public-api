@@ -1,0 +1,772 @@
+{
+  "data": [
+    {
+      "id": "5300-7796",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00178037316621564"
+      },
+      "meta": {
+        "item_name": "Snapdragon seed",
+        "monster_name": "Lobstrosity"
+      }
+    },
+    {
+      "id": "995-7796",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1000,
+        "quantity_max": null,
+        "rarity": "0.076271186440678"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Lobstrosity"
+      }
+    },
+    {
+      "id": "5304-7796",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000356074633243128"
+      },
+      "meta": {
+        "item_name": "Torstol seed",
+        "monster_name": "Lobstrosity"
+      }
+    },
+    {
+      "id": "5303-7796",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000534134392486225"
+      },
+      "meta": {
+        "item_name": "Dwarf weed seed",
+        "monster_name": "Lobstrosity"
+      }
+    },
+    {
+      "id": "22879-7796",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.000712149266486256"
+      },
+      "meta": {
+        "item_name": "Snape grass seed",
+        "monster_name": "Lobstrosity"
+      }
+    },
+    {
+      "id": "5302-7796",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000890186583107819"
+      },
+      "meta": {
+        "item_name": "Lantadyme seed",
+        "monster_name": "Lobstrosity"
+      }
+    },
+    {
+      "id": "5301-7796",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00124626121635095"
+      },
+      "meta": {
+        "item_name": "Cadantine seed",
+        "monster_name": "Lobstrosity"
+      }
+    },
+    {
+      "id": "22873-7796",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00266999882520052"
+      },
+      "meta": {
+        "item_name": "Potato cactus seed",
+        "monster_name": "Lobstrosity"
+      }
+    },
+    {
+      "id": "5299-7796",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00266999882520052"
+      },
+      "meta": {
+        "item_name": "Kwuarm seed",
+        "monster_name": "Lobstrosity"
+      }
+    },
+    {
+      "id": "5280-7796",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00373988361482191"
+      },
+      "meta": {
+        "item_name": "Cactus seed",
+        "monster_name": "Lobstrosity"
+      }
+    },
+    {
+      "id": "5106-7796",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00391616278705473"
+      },
+      "meta": {
+        "item_name": "Poison ivy seed",
+        "monster_name": "Lobstrosity"
+      }
+    },
+    {
+      "id": "5298-7796",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00391616278705473"
+      },
+      "meta": {
+        "item_name": "Avantoe seed",
+        "monster_name": "Lobstrosity"
+      }
+    },
+    {
+      "id": "5281-7796",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00551945829828477"
+      },
+      "meta": {
+        "item_name": "Belladonna seed",
+        "monster_name": "Lobstrosity"
+      }
+    },
+    {
+      "id": "5297-7796",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.005696811152989"
+      },
+      "meta": {
+        "item_name": "Irit seed",
+        "monster_name": "Lobstrosity"
+      }
+    },
+    {
+      "id": "5296-7796",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00836747262162958"
+      },
+      "meta": {
+        "item_name": "Toadflax seed",
+        "monster_name": "Lobstrosity"
+      }
+    },
+    {
+      "id": "217-7796",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00278050311217741"
+      },
+      "meta": {
+        "item_name": "Grimy dwarf weed",
+        "monster_name": "Lobstrosity"
+      }
+    },
+    {
+      "id": "2485-7796",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00278050311217741"
+      },
+      "meta": {
+        "item_name": "Grimy lantadyme",
+        "monster_name": "Lobstrosity"
+      }
+    },
+    {
+      "id": "215-7796",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00370762711864407"
+      },
+      "meta": {
+        "item_name": "Grimy cadantine",
+        "monster_name": "Lobstrosity"
+      }
+    },
+    {
+      "id": "213-7796",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00463453389830508"
+      },
+      "meta": {
+        "item_name": "Grimy kwuarm",
+        "monster_name": "Lobstrosity"
+      }
+    },
+    {
+      "id": "211-7796",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00556230978887061"
+      },
+      "meta": {
+        "item_name": "Grimy avantoe",
+        "monster_name": "Lobstrosity"
+      }
+    },
+    {
+      "id": "209-7796",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00741525423728814"
+      },
+      "meta": {
+        "item_name": "Grimy irit leaf",
+        "monster_name": "Lobstrosity"
+      }
+    },
+    {
+      "id": "207-7796",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0101927893296057"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Lobstrosity"
+      }
+    },
+    {
+      "id": "205-7796",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0129764921575643"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Lobstrosity"
+      }
+    },
+    {
+      "id": "203-7796",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0166845827305035"
+      },
+      "meta": {
+        "item_name": "Grimy tarromin",
+        "monster_name": "Lobstrosity"
+      }
+    },
+    {
+      "id": "201-7796",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0222471531589368"
+      },
+      "meta": {
+        "item_name": "Grimy marrentill",
+        "monster_name": "Lobstrosity"
+      }
+    },
+    {
+      "id": "199-7796",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0296610169491525"
+      },
+      "meta": {
+        "item_name": "Grimy guam leaf",
+        "monster_name": "Lobstrosity"
+      }
+    },
+    {
+      "id": "2677-7796",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Clue scroll (easy)",
+        "monster_name": "Lobstrosity"
+      }
+    },
+    {
+      "id": "21568-7796",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00142857142857143"
+      },
+      "meta": {
+        "item_name": "Unidentified rare fossil",
+        "monster_name": "Lobstrosity"
+      }
+    },
+    {
+      "id": "21566-7796",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00571428571428571"
+      },
+      "meta": {
+        "item_name": "Unidentified large fossil",
+        "monster_name": "Lobstrosity"
+      }
+    },
+    {
+      "id": "21564-7796",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00714285714285714"
+      },
+      "meta": {
+        "item_name": "Unidentified medium fossil",
+        "monster_name": "Lobstrosity"
+      }
+    },
+    {
+      "id": "21562-7796",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0142857142857143"
+      },
+      "meta": {
+        "item_name": "Unidentified small fossil",
+        "monster_name": "Lobstrosity"
+      }
+    },
+    {
+      "id": "21555-7796",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": 14,
+        "rarity": "0.257142857142857"
+      },
+      "meta": {
+        "item_name": "Numulite",
+        "monster_name": "Lobstrosity"
+      }
+    },
+    {
+      "id": "413-7796",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0338983050847458"
+      },
+      "meta": {
+        "item_name": "Oyster pearls",
+        "monster_name": "Lobstrosity"
+      }
+    },
+    {
+      "id": "11326-7796",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.0423728813559322"
+      },
+      "meta": {
+        "item_name": "Caviar",
+        "monster_name": "Lobstrosity"
+      }
+    },
+    {
+      "id": "2152-7796",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.0508474576271186"
+      },
+      "meta": {
+        "item_name": "Toad's legs",
+        "monster_name": "Lobstrosity"
+      }
+    },
+    {
+      "id": "401-7796",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 6,
+        "quantity_max": null,
+        "rarity": "0.0677966101694915"
+      },
+      "meta": {
+        "item_name": "Seaweed",
+        "monster_name": "Lobstrosity"
+      }
+    },
+    {
+      "id": "21504-7796",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 6,
+        "quantity_max": null,
+        "rarity": "0.0677966101694915"
+      },
+      "meta": {
+        "item_name": "Giant seaweed",
+        "monster_name": "Lobstrosity"
+      }
+    },
+    {
+      "id": "21655-7796",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0677966101694915"
+      },
+      "meta": {
+        "item_name": "Pufferfish",
+        "monster_name": "Lobstrosity"
+      }
+    },
+    {
+      "id": "21490-7796",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.0508474576271186"
+      },
+      "meta": {
+        "item_name": "Seaweed spore",
+        "monster_name": "Lobstrosity"
+      }
+    },
+    {
+      "id": "217-7796",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00920245398773006"
+      },
+      "meta": {
+        "item_name": "Grimy dwarf weed",
+        "monster_name": "Lobstrosity"
+      }
+    },
+    {
+      "id": "2485-7796",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00953389830508475"
+      },
+      "meta": {
+        "item_name": "Grimy lantadyme",
+        "monster_name": "Lobstrosity"
+      }
+    },
+    {
+      "id": "215-7796",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0127118644067797"
+      },
+      "meta": {
+        "item_name": "Grimy cadantine",
+        "monster_name": "Lobstrosity"
+      }
+    },
+    {
+      "id": "213-7796",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0158898305084746"
+      },
+      "meta": {
+        "item_name": "Grimy kwuarm",
+        "monster_name": "Lobstrosity"
+      }
+    },
+    {
+      "id": "561-7796",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.0508474576271186"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Lobstrosity"
+      }
+    },
+    {
+      "id": "560-7796",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.0423728813559322"
+      },
+      "meta": {
+        "item_name": "Death rune (Regular)",
+        "monster_name": "Lobstrosity"
+      }
+    },
+    {
+      "id": "562-7796",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 20,
+        "quantity_max": null,
+        "rarity": "0.0677966101694915"
+      },
+      "meta": {
+        "item_name": "Chaos rune (Regular)",
+        "monster_name": "Lobstrosity"
+      }
+    },
+    {
+      "id": "555-7796",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 100,
+        "quantity_max": null,
+        "rarity": "0.0677966101694915"
+      },
+      "meta": {
+        "item_name": "Water rune (Regular)",
+        "monster_name": "Lobstrosity"
+      }
+    },
+    {
+      "id": "377-7796",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Raw lobster",
+        "monster_name": "Lobstrosity"
+      }
+    }
+  ]
+}

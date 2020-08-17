@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "8851-2451",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Warrior guild token",
+        "monster_name": "Animated Iron Armour"
+      }
+    },
+    {
+      "id": "1067-2451",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.9"
+      },
+      "meta": {
+        "item_name": "Iron platelegs",
+        "monster_name": "Animated Iron Armour"
+      }
+    },
+    {
+      "id": "1115-2451",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Iron platebody",
+        "monster_name": "Animated Iron Armour"
+      }
+    },
+    {
+      "id": "1153-2451",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Iron full helm",
+        "monster_name": "Animated Iron Armour"
+      }
+    }
+  ]
+}

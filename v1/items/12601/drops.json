@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "id": "12601-6612",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.001953125"
+      },
+      "meta": {
+        "item_name": "Ring of the gods",
+        "monster_name": "Vet'ion (Reborn)"
+      }
+    },
+    {
+      "id": "12601-6611",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.001953125"
+      },
+      "meta": {
+        "item_name": "Ring of the gods",
+        "monster_name": "Vet'ion (Normal)"
+      }
+    }
+  ]
+}

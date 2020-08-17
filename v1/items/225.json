@@ -1,0 +1,31 @@
+{
+  "data": {
+    "id": "225",
+    "type": "item",
+    "attributes": {
+      "uuid": "6b0796e8-ce40-451a-8e6d-33fa10d65d58",
+      "name": "Limpwurt root",
+      "members": false,
+      "release_date": "2001-02-05",
+      "examine": "The root of a limpwurt plant.",
+      "tradeable": false,
+      "ge_tradeable": false,
+      "lowalch": 2,
+      "highalch": 4,
+      "is_equip": false,
+      "is_weapon": false,
+      "icon_base64": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABlElEQVR4Xu2VQUsDMRSEmx8hSE9FSpEiZZEWQQRBoQdPnjyIh4KiUIVCoaCoUCgFBUEQBP/tk0mY3WxSvXST9LADj0C2bL6+N5ltNGrVqlRKVlcSKfl43de1fMxkPu3JbNyVyXUnBZSSr0Vf3p8zWcx68vTQlentrtxdtWV0saOBslYrJpQBQncA9DLZ00D3o046oO/lIB8XgDAuAN1cttMA/bwdyOe87/knERBU+AhA8BGA4KMyULSbV/aRbewCSOnOYT8ClO8jGptdwR5Ao0K5PiIQ9ngDI0IZINdHOBx7hOIzAgU0vB+QACIgxslnHOnJ4Xa8LrEbNpzrseGxAQrYJUjpw3EoALAyApDcfwMF/SCbFwMCHrK/azbQ2Wkzh2AXGabuG9eW/69NYZwukD1WP0wrFl7MwkEAgbewng+bGsYOU0ZFMCBfKgciDG+enU9RgWwQFMPUhSpXULmHmSIUxoeVsXE02AoPZXvL9hggCMLcCm70/+XfSnSMmeX+OopWdS1xl1yZbhWQG6CNgqlVlX4BNS/weusyLRwAAAAASUVORK5CYII="
+    },
+    "relationships": {
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Limpwurt_root"
+    },
+    "meta": {
+      "incomplete": false
+    }
+  },
+  "included": [
+
+  ]
+}

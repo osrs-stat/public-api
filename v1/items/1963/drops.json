@@ -1,0 +1,100 @@
+{
+  "data": [
+    {
+      "id": "1963-2085",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Banana",
+        "monster_name": "Ice giant (Level 53)"
+      }
+    },
+    {
+      "id": "1963-6308",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Banana",
+        "monster_name": "Agrith-Na-Na (Hard)"
+      }
+    },
+    {
+      "id": "1963-7118",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.1"
+      },
+      "meta": {
+        "item_name": "Banana",
+        "monster_name": "Maniacal monkey"
+      }
+    },
+    {
+      "id": "1963-7119",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.1"
+      },
+      "meta": {
+        "item_name": "Banana",
+        "monster_name": "Maniacal Monkey Archer"
+      }
+    },
+    {
+      "id": "1963-7878",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Banana",
+        "monster_name": "Ice giant (Level 67)"
+      }
+    },
+    {
+      "id": "1963-4880",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Banana",
+        "monster_name": "Agrith-Na-Na (Normal)"
+      }
+    }
+  ]
+}

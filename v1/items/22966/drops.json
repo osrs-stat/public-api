@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "22966-8615",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000999000999000999"
+      },
+      "meta": {
+        "item_name": "Hydra's claw",
+        "monster_name": "Alchemical Hydra (Five heads)"
+      }
+    },
+    {
+      "id": "22966-8617",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000999000999000999"
+      },
+      "meta": {
+        "item_name": "Hydra's claw",
+        "monster_name": "Alchemical Hydra (Four heads)"
+      }
+    },
+    {
+      "id": "22966-8618",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000999000999000999"
+      },
+      "meta": {
+        "item_name": "Hydra's claw",
+        "monster_name": "Alchemical Hydra (Three heads)"
+      }
+    },
+    {
+      "id": "22966-8621",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000999000999000999"
+      },
+      "meta": {
+        "item_name": "Hydra's claw",
+        "monster_name": "Alchemical Hydra (Two heads)"
+      }
+    }
+  ]
+}

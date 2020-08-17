@@ -1,0 +1,117 @@
+{
+  "data": {
+    "id": "2213",
+    "type": "monster",
+    "attributes": {
+      "uuid": "52138531-3885-4089-9b41-4c0211df2bef",
+      "name": "Knight of Saradomin (Level 103)",
+      "members": true,
+      "release_date": "2013-10-17",
+      "examine": "A valiant knight.",
+      "combat_level_override": 103,
+      "max_hit_override": null,
+      "target_types": [
+
+      ],
+      "classification_types": [
+
+      ],
+      "poison": false,
+      "immune_poison": false,
+      "immune_venom": false,
+      "slayer_xp": null,
+      "slayer_level": null,
+      "slayer_masters": [
+
+      ],
+      "icon_base64": null
+    },
+    "relationships": {
+      "combat_stat": {
+        "data": {
+          "id": "8f959374-7c2a-44e7-85d1-8569972f83b2",
+          "type": "combat_stat"
+        }
+      },
+      "equip_stat": {
+        "data": {
+          "id": "07fc6064-b879-456c-8057-1ccb908d8c95",
+          "type": "equip_stat"
+        }
+      },
+      "attack_stat": {
+        "data": {
+          "id": "8e1b3d92-cec4-45e5-ab29-f36dc4f53ced",
+          "type": "attack_stat"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Knight_of_Saradomin#Level_103"
+    },
+    "meta": {
+      "incomplete": true
+    }
+  },
+  "included": [
+    {
+      "id": "8e1b3d92-cec4-45e5-ab29-f36dc4f53ced",
+      "type": "attack_stat",
+      "attributes": {
+        "attack_speed": 6,
+        "attack_type": "monster",
+        "special": null,
+        "stances": [
+          {
+            "name": "Monster crush",
+            "style": null,
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": null,
+            "combat_accuracy_stat": "attack_level",
+            "combat_damage_stat": "strength_level",
+            "equip_accuracy_stat": "crush_attack",
+            "equip_damage_stat": "crush_attack",
+            "target_equip_defense_stat": "crush_defense"
+          }
+        ]
+      }
+    },
+    {
+      "id": "8f959374-7c2a-44e7-85d1-8569972f83b2",
+      "type": "monster_combat_stat",
+      "attributes": {
+        "hitpoints_level": 135,
+        "attack_level": 70,
+        "strength_level": 85,
+        "defense_level": 70,
+        "magic_level": 60,
+        "ranged_level": 1,
+        "prayer_level": 0
+      }
+    },
+    {
+      "id": "07fc6064-b879-456c-8057-1ccb908d8c95",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 8,
+        "slash_attack": 8,
+        "crush_attack": 8,
+        "ranged_attack": 0,
+        "magic_attack": 0,
+        "stab_defense": 10,
+        "slash_defense": 10,
+        "crush_defense": 7,
+        "ranged_defense": 13,
+        "magic_defense": 0,
+        "melee_strength": 8,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

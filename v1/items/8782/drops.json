@@ -1,0 +1,276 @@
+{
+  "data": [
+    {
+      "id": "8782-7931",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 15,
+        "quantity_max": 25,
+        "rarity": "0.00270277227213056"
+      },
+      "meta": {
+        "item_name": "Mahogany plank",
+        "monster_name": "Revenant goblin"
+      }
+    },
+    {
+      "id": "8782-7932",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 15,
+        "quantity_max": 25,
+        "rarity": "0.0114168970075712"
+      },
+      "meta": {
+        "item_name": "Mahogany plank",
+        "monster_name": "Revenant pyrefiend"
+      }
+    },
+    {
+      "id": "8782-7933",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 15,
+        "quantity_max": 25,
+        "rarity": "0.0129191202980411"
+      },
+      "meta": {
+        "item_name": "Mahogany plank",
+        "monster_name": "Revenant hobgoblin"
+      }
+    },
+    {
+      "id": "8782-7934",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 15,
+        "quantity_max": 25,
+        "rarity": "0.0220383544695329"
+      },
+      "meta": {
+        "item_name": "Mahogany plank",
+        "monster_name": "Revenant cyclops"
+      }
+    },
+    {
+      "id": "8782-7935",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 15,
+        "quantity_max": 25,
+        "rarity": "0.0243581812557996"
+      },
+      "meta": {
+        "item_name": "Mahogany plank",
+        "monster_name": "Revenant hellhound"
+      }
+    },
+    {
+      "id": "8782-7936",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 15,
+        "quantity_max": 25,
+        "rarity": "0.0266780080420662"
+      },
+      "meta": {
+        "item_name": "Mahogany plank",
+        "monster_name": "Revenant demon"
+      }
+    },
+    {
+      "id": "8782-7937",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 15,
+        "quantity_max": 25,
+        "rarity": "0.0321612349914237"
+      },
+      "meta": {
+        "item_name": "Mahogany plank",
+        "monster_name": "Revenant ork"
+      }
+    },
+    {
+      "id": "8782-7938",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 15,
+        "quantity_max": 25,
+        "rarity": "0.0377358490566038"
+      },
+      "meta": {
+        "item_name": "Mahogany plank",
+        "monster_name": "Revenant dark beast"
+      }
+    },
+    {
+      "id": "8782-7939",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 15,
+        "quantity_max": 25,
+        "rarity": "0.0438679245283019"
+      },
+      "meta": {
+        "item_name": "Mahogany plank",
+        "monster_name": "Revenant knight"
+      }
+    },
+    {
+      "id": "8782-7940",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 15,
+        "quantity_max": 25,
+        "rarity": "0.0469339622641509"
+      },
+      "meta": {
+        "item_name": "Mahogany plank",
+        "monster_name": "Revenant dragon"
+      }
+    },
+    {
+      "id": "8782-8633",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Mahogany plank",
+        "monster_name": "The Mimic"
+      }
+    },
+    {
+      "id": "8782-6896",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 4,
+        "quantity_max": 8,
+        "rarity": "0.125"
+      },
+      "meta": {
+        "item_name": "Mahogany plank",
+        "monster_name": "Gangster (Level 45)"
+      }
+    },
+    {
+      "id": "8782-6898",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 4,
+        "quantity_max": 8,
+        "rarity": "0.125"
+      },
+      "meta": {
+        "item_name": "Mahogany plank",
+        "monster_name": "Gangster (Level 50)"
+      }
+    },
+    {
+      "id": "8782-6900",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 4,
+        "quantity_max": 8,
+        "rarity": "0.125"
+      },
+      "meta": {
+        "item_name": "Mahogany plank",
+        "monster_name": "Gang boss (Female)"
+      }
+    },
+    {
+      "id": "8782-6902",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 4,
+        "quantity_max": 8,
+        "rarity": "0.125"
+      },
+      "meta": {
+        "item_name": "Mahogany plank",
+        "monster_name": "Gang boss (Male)"
+      }
+    },
+    {
+      "id": "8782-7286",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 150,
+        "quantity_max": null,
+        "rarity": "0.07"
+      },
+      "meta": {
+        "item_name": "Mahogany plank",
+        "monster_name": "Skotizo"
+      }
+    },
+    {
+      "id": "8782-7881",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 15,
+        "quantity_max": 25,
+        "rarity": "0.00154373927958834"
+      },
+      "meta": {
+        "item_name": "Mahogany plank",
+        "monster_name": "Revenant imp"
+      }
+    }
+  ]
+}

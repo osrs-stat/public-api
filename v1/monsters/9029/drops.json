@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "23866-9029",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 50,
+        "quantity_max": 105,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Crystal shards",
+        "monster_name": "Crystalline Unicorn"
+      }
+    },
+    {
+      "id": "23904-9029",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Teleport crystal (The Gauntlet)",
+        "monster_name": "Crystalline Unicorn"
+      }
+    },
+    {
+      "id": "23834-9029",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.125"
+      },
+      "meta": {
+        "item_name": "Weapon frame",
+        "monster_name": "Crystalline Unicorn"
+      }
+    },
+    {
+      "id": "23872-9029",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 4,
+        "quantity_max": null,
+        "rarity": "0.125"
+      },
+      "meta": {
+        "item_name": "Raw paddlefish",
+        "monster_name": "Crystalline Unicorn"
+      }
+    }
+  ]
+}

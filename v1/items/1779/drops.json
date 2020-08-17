@@ -1,0 +1,84 @@
+{
+  "data": [
+    {
+      "id": "1779-2044",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 1000,
+        "quantity_max": null,
+        "rarity": "0.0403225806451613"
+      },
+      "meta": {
+        "item_name": "Flax",
+        "monster_name": "Zulrah (Tanzanite)"
+      }
+    },
+    {
+      "id": "1779-2043",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 1000,
+        "quantity_max": null,
+        "rarity": "0.0403225806451613"
+      },
+      "meta": {
+        "item_name": "Flax",
+        "monster_name": "Zulrah (Magma)"
+      }
+    },
+    {
+      "id": "1779-2042",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 1000,
+        "quantity_max": null,
+        "rarity": "0.0403225806451613"
+      },
+      "meta": {
+        "item_name": "Flax",
+        "monster_name": "Zulrah (Serpentine)"
+      }
+    },
+    {
+      "id": "1779-410",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 100,
+        "quantity_max": null,
+        "rarity": "0.0483870967741935"
+      },
+      "meta": {
+        "item_name": "Flax",
+        "monster_name": "Kurask"
+      }
+    },
+    {
+      "id": "1779-7405",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 100,
+        "quantity_max": null,
+        "rarity": "0.0483870967741935"
+      },
+      "meta": {
+        "item_name": "Flax",
+        "monster_name": "King kurask"
+      }
+    }
+  ]
+}

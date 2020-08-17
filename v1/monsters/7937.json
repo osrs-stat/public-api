@@ -1,0 +1,147 @@
+{
+  "data": {
+    "id": "7937",
+    "type": "monster",
+    "attributes": {
+      "uuid": "cd5cb6d1-e6c9-4c09-b592-cee731b08500",
+      "name": "Revenant ork",
+      "members": true,
+      "release_date": "2017-11-23",
+      "examine": "The ghost of an ork slain long ago.",
+      "combat_level_override": null,
+      "max_hit_override": 20,
+      "target_types": [
+        "undead"
+      ],
+      "classification_types": [
+        "revenant"
+      ],
+      "poison": false,
+      "immune_poison": false,
+      "immune_venom": false,
+      "slayer_xp": 115.0,
+      "slayer_level": 1,
+      "slayer_masters": [
+        "krystilia"
+      ],
+      "icon_base64": null
+    },
+    "relationships": {
+      "combat_stat": {
+        "data": {
+          "id": "da15ac06-87fa-48cc-b16d-3ba73f810520",
+          "type": "combat_stat"
+        }
+      },
+      "equip_stat": {
+        "data": {
+          "id": "a31b3c00-77e5-4462-af56-1a6546baa140",
+          "type": "equip_stat"
+        }
+      },
+      "attack_stat": {
+        "data": {
+          "id": "d64c448d-c337-4c9e-8cc1-a6ef40dc411f",
+          "type": "attack_stat"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Revenant_ork"
+    },
+    "meta": {
+      "incomplete": true
+    }
+  },
+  "included": [
+    {
+      "id": "d64c448d-c337-4c9e-8cc1-a6ef40dc411f",
+      "type": "attack_stat",
+      "attributes": {
+        "attack_speed": 5,
+        "attack_type": "monster",
+        "special": null,
+        "stances": [
+          {
+            "name": "Monster slash",
+            "style": null,
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": null,
+            "combat_accuracy_stat": "attack_level",
+            "combat_damage_stat": "strength_level",
+            "equip_accuracy_stat": "slash_attack",
+            "equip_damage_stat": "slash_attack",
+            "target_equip_defense_stat": "slash_defense"
+          },
+          {
+            "name": "Monster ranged",
+            "style": null,
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": null,
+            "combat_accuracy_stat": "ranged_level",
+            "combat_damage_stat": "ranged_level",
+            "equip_accuracy_stat": "ranged_attack",
+            "equip_damage_stat": "ranged_attack",
+            "target_equip_defense_stat": "ranged_defense"
+          },
+          {
+            "name": "Monster magic",
+            "style": null,
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": null,
+            "combat_accuracy_stat": "magic_level",
+            "combat_damage_stat": "magic_level",
+            "equip_accuracy_stat": "magic_attack",
+            "equip_damage_stat": "magic_attack",
+            "target_equip_defense_stat": "magic_defense"
+          }
+        ]
+      }
+    },
+    {
+      "id": "da15ac06-87fa-48cc-b16d-3ba73f810520",
+      "type": "monster_combat_stat",
+      "attributes": {
+        "hitpoints_level": 105,
+        "attack_level": 99,
+        "strength_level": 100,
+        "defense_level": 60,
+        "magic_level": 110,
+        "ranged_level": 130,
+        "prayer_level": 0
+      }
+    },
+    {
+      "id": "a31b3c00-77e5-4462-af56-1a6546baa140",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 60,
+        "slash_attack": 60,
+        "crush_attack": 60,
+        "ranged_attack": 50,
+        "magic_attack": 0,
+        "stab_defense": 148,
+        "slash_defense": 150,
+        "crush_defense": 146,
+        "ranged_defense": 148,
+        "magic_defense": 50,
+        "melee_strength": 55,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

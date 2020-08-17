@@ -1,0 +1,31 @@
+{
+  "data": {
+    "id": "6306",
+    "type": "item",
+    "attributes": {
+      "uuid": "ffd31499-b7c9-4210-bb0e-5343a0915099",
+      "name": "Trading sticks",
+      "members": true,
+      "release_date": "2005-08-09",
+      "examine": "Karamja currency.",
+      "tradeable": false,
+      "ge_tradeable": false,
+      "lowalch": 0,
+      "highalch": 0,
+      "is_equip": false,
+      "is_weapon": false,
+      "icon_base64": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABLElEQVR4XmNgGAWjYMAA4390kQEEjP8nbnL4P4gchXCQgYLCQDuK8X//Bnuwg6bvch4MoYRw0NQdTlAHoWO6AlQHgXBJv8n/skkm/yummv6vnW1Ob0chHDR5mwPcMdUzzOGOAaUrOqctSKIGYVCowBzTttRmIBM64/9pDaEojgGF3IA6qKvU7392tA2GYwbAQYz/F7RH/69Mc/0f4qYHz10D5hgQrknS+Z8YhJqIB8Qx/YUm/ysTtP7HeCr8N9cSHNg0M7sl/H9rgdf/cFdgaKghHDMADoI4BpSI08Ot/tsYKQ2sY0AJuL8y8H9erO1/D1uNgXXMkp7Y/1NqQ/6XpTjDc9QAOQYEGP+v7E/4P7MpDCNHoaukI0DU4oPAMRAwgOXMKBgFo2AU0B0AAKlv6XkAI94KAAAAAElFTkSuQmCC"
+    },
+    "relationships": {
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Trading_sticks"
+    },
+    "meta": {
+      "incomplete": false
+    }
+  },
+  "included": [
+
+  ]
+}

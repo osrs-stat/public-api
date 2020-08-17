@@ -1,0 +1,756 @@
+{
+  "data": [
+    {
+      "id": "5290-2043",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.0241935483870968"
+      },
+      "meta": {
+        "item_name": "Calquat tree seed",
+        "monster_name": "Zulrah (Magma)"
+      }
+    },
+    {
+      "id": "5288-2043",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.0241935483870968"
+      },
+      "meta": {
+        "item_name": "Papaya tree seed",
+        "monster_name": "Zulrah (Magma)"
+      }
+    },
+    {
+      "id": "5289-2043",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0241935483870968"
+      },
+      "meta": {
+        "item_name": "Palm tree seed",
+        "monster_name": "Zulrah (Magma)"
+      }
+    },
+    {
+      "id": "269-2043",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.00806451612903226"
+      },
+      "meta": {
+        "item_name": "Torstol",
+        "monster_name": "Zulrah (Magma)"
+      }
+    },
+    {
+      "id": "2998-2043",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 25,
+        "quantity_max": null,
+        "rarity": "0.00806451612903226"
+      },
+      "meta": {
+        "item_name": "Toadflax",
+        "monster_name": "Zulrah (Magma)"
+      }
+    },
+    {
+      "id": "267-2043",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 30,
+        "quantity_max": null,
+        "rarity": "0.00806451612903226"
+      },
+      "meta": {
+        "item_name": "Dwarf weed",
+        "monster_name": "Zulrah (Magma)"
+      }
+    },
+    {
+      "id": "3000-2043",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.00806451612903226"
+      },
+      "meta": {
+        "item_name": "Snapdragon",
+        "monster_name": "Zulrah (Magma)"
+      }
+    },
+    {
+      "id": "562-2043",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 500,
+        "quantity_max": null,
+        "rarity": "0.0483870967741935"
+      },
+      "meta": {
+        "item_name": "Chaos rune (Regular)",
+        "monster_name": "Zulrah (Magma)"
+      }
+    },
+    {
+      "id": "563-2043",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 200,
+        "quantity_max": null,
+        "rarity": "0.0483870967741935"
+      },
+      "meta": {
+        "item_name": "Law rune",
+        "monster_name": "Zulrah (Magma)"
+      }
+    },
+    {
+      "id": "560-2043",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 300,
+        "quantity_max": null,
+        "rarity": "0.0483870967741935"
+      },
+      "meta": {
+        "item_name": "Death rune (Regular)",
+        "monster_name": "Zulrah (Magma)"
+      }
+    },
+    {
+      "id": "3204-2043",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00806451612903226"
+      },
+      "meta": {
+        "item_name": "Dragon halberd",
+        "monster_name": "Zulrah (Magma)"
+      }
+    },
+    {
+      "id": "1149-2043",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00806451612903226"
+      },
+      "meta": {
+        "item_name": "Dragon med helm",
+        "monster_name": "Zulrah (Magma)"
+      }
+    },
+    {
+      "id": "1391-2043",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.0403225806451613"
+      },
+      "meta": {
+        "item_name": "Battlestaff",
+        "monster_name": "Zulrah (Magma)"
+      }
+    },
+    {
+      "id": "13201-2043",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0000763009308713566"
+      },
+      "meta": {
+        "item_name": "Magma mutagen",
+        "monster_name": "Zulrah (Magma)"
+      }
+    },
+    {
+      "id": "13200-2043",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0000763009308713566"
+      },
+      "meta": {
+        "item_name": "Tanzanite mutagen",
+        "monster_name": "Zulrah (Magma)"
+      }
+    },
+    {
+      "id": "6571-2043",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0009765625"
+      },
+      "meta": {
+        "item_name": "Uncut onyx",
+        "monster_name": "Zulrah (Magma)"
+      }
+    },
+    {
+      "id": "12927-2043",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0009765625"
+      },
+      "meta": {
+        "item_name": "Serpentine visage",
+        "monster_name": "Zulrah (Magma)"
+      }
+    },
+    {
+      "id": "12932-2043",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0009765625"
+      },
+      "meta": {
+        "item_name": "Magic fang",
+        "monster_name": "Zulrah (Magma)"
+      }
+    },
+    {
+      "id": "12922-2043",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0009765625"
+      },
+      "meta": {
+        "item_name": "Tanzanite fang",
+        "monster_name": "Zulrah (Magma)"
+      }
+    },
+    {
+      "id": "12934-2043",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 100,
+        "quantity_max": 299,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Zulrah's scales",
+        "monster_name": "Zulrah (Magma)"
+      }
+    },
+    {
+      "id": "5300-2043",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00806451612903226"
+      },
+      "meta": {
+        "item_name": "Snapdragon seed",
+        "monster_name": "Zulrah (Magma)"
+      }
+    },
+    {
+      "id": "5303-2043",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.00806451612903226"
+      },
+      "meta": {
+        "item_name": "Dwarf weed seed",
+        "monster_name": "Zulrah (Magma)"
+      }
+    },
+    {
+      "id": "5304-2043",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00806451612903226"
+      },
+      "meta": {
+        "item_name": "Torstol seed",
+        "monster_name": "Zulrah (Magma)"
+      }
+    },
+    {
+      "id": "5317-2043",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00403225806451613"
+      },
+      "meta": {
+        "item_name": "Spirit seed",
+        "monster_name": "Zulrah (Magma)"
+      }
+    },
+    {
+      "id": "6289-2043",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 35,
+        "quantity_max": null,
+        "rarity": "0.0443548387096774"
+      },
+      "meta": {
+        "item_name": "Snakeskin",
+        "monster_name": "Zulrah (Magma)"
+      }
+    },
+    {
+      "id": "451-2043",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.0443548387096774"
+      },
+      "meta": {
+        "item_name": "Runite ore",
+        "monster_name": "Zulrah (Magma)"
+      }
+    },
+    {
+      "id": "7936-2043",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 1500,
+        "quantity_max": null,
+        "rarity": "0.0403225806451613"
+      },
+      "meta": {
+        "item_name": "Pure essence",
+        "monster_name": "Zulrah (Magma)"
+      }
+    },
+    {
+      "id": "1779-2043",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 1000,
+        "quantity_max": null,
+        "rarity": "0.0403225806451613"
+      },
+      "meta": {
+        "item_name": "Flax",
+        "monster_name": "Zulrah (Magma)"
+      }
+    },
+    {
+      "id": "1515-2043",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 35,
+        "quantity_max": null,
+        "rarity": "0.0403225806451613"
+      },
+      "meta": {
+        "item_name": "Yew logs",
+        "monster_name": "Zulrah (Magma)"
+      }
+    },
+    {
+      "id": "2361-2043",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 20,
+        "quantity_max": null,
+        "rarity": "0.032258064516129"
+      },
+      "meta": {
+        "item_name": "Adamantite bar",
+        "monster_name": "Zulrah (Magma)"
+      }
+    },
+    {
+      "id": "453-2043",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 200,
+        "quantity_max": null,
+        "rarity": "0.032258064516129"
+      },
+      "meta": {
+        "item_name": "Coal",
+        "monster_name": "Zulrah (Magma)"
+      }
+    },
+    {
+      "id": "536-2043",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 12,
+        "quantity_max": null,
+        "rarity": "0.032258064516129"
+      },
+      "meta": {
+        "item_name": "Dragon bones",
+        "monster_name": "Zulrah (Magma)"
+      }
+    },
+    {
+      "id": "6332-2043",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 50,
+        "quantity_max": null,
+        "rarity": "0.032258064516129"
+      },
+      "meta": {
+        "item_name": "Mahogany logs",
+        "monster_name": "Zulrah (Magma)"
+      }
+    },
+    {
+      "id": "12938-2043",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 4,
+        "quantity_max": null,
+        "rarity": "0.0604838709677419"
+      },
+      "meta": {
+        "item_name": "Zul-andra teleport",
+        "monster_name": "Zulrah (Magma)"
+      }
+    },
+    {
+      "id": "391-2043",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 35,
+        "quantity_max": null,
+        "rarity": "0.0483870967741935"
+      },
+      "meta": {
+        "item_name": "Manta ray",
+        "monster_name": "Zulrah (Magma)"
+      }
+    },
+    {
+      "id": "5952-2043",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.0362903225806452"
+      },
+      "meta": {
+        "item_name": "Antidote++ (4 dose)",
+        "monster_name": "Zulrah (Magma)"
+      }
+    },
+    {
+      "id": "9193-2043",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 12,
+        "quantity_max": null,
+        "rarity": "0.032258064516129"
+      },
+      "meta": {
+        "item_name": "Dragonstone bolt tips",
+        "monster_name": "Zulrah (Magma)"
+      }
+    },
+    {
+      "id": "1987-2043",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 250,
+        "quantity_max": null,
+        "rarity": "0.0241935483870968"
+      },
+      "meta": {
+        "item_name": "Grapes",
+        "monster_name": "Zulrah (Magma)"
+      }
+    },
+    {
+      "id": "5974-2043",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 20,
+        "quantity_max": null,
+        "rarity": "0.0241935483870968"
+      },
+      "meta": {
+        "item_name": "Coconut",
+        "monster_name": "Zulrah (Magma)"
+      }
+    },
+    {
+      "id": "1939-2043",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1000,
+        "quantity_max": null,
+        "rarity": "0.0201612903225806"
+      },
+      "meta": {
+        "item_name": "Swamp tar",
+        "monster_name": "Zulrah (Magma)"
+      }
+    },
+    {
+      "id": "12934-2043",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 500,
+        "quantity_max": null,
+        "rarity": "0.0201612903225806"
+      },
+      "meta": {
+        "item_name": "Zulrah's scales",
+        "monster_name": "Zulrah (Magma)"
+      }
+    },
+    {
+      "id": "23083-2043",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "-0.04"
+      },
+      "meta": {
+        "item_name": "Brimstone key",
+        "monster_name": "Zulrah (Magma)"
+      }
+    },
+    {
+      "id": "12073-2043",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0133333333333333"
+      },
+      "meta": {
+        "item_name": "Clue scroll (elite)",
+        "monster_name": "Zulrah (Magma)"
+      }
+    },
+    {
+      "id": "12936-2043",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000333333333333333"
+      },
+      "meta": {
+        "item_name": "Jar of swamp",
+        "monster_name": "Zulrah (Magma)"
+      }
+    },
+    {
+      "id": "12921-2043",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00025"
+      },
+      "meta": {
+        "item_name": "Pet snakeling (Normal)",
+        "monster_name": "Zulrah (Magma)"
+      }
+    },
+    {
+      "id": "5296-2043",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.00806451612903226"
+      },
+      "meta": {
+        "item_name": "Toadflax seed",
+        "monster_name": "Zulrah (Magma)"
+      }
+    },
+    {
+      "id": "5316-2043",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0161290322580645"
+      },
+      "meta": {
+        "item_name": "Magic seed",
+        "monster_name": "Zulrah (Magma)"
+      }
+    }
+  ]
+}

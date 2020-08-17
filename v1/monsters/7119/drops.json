@@ -1,0 +1,180 @@
+{
+  "data": [
+    {
+      "id": "143-7119",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.1"
+      },
+      "meta": {
+        "item_name": "Prayer potion (1 dose)",
+        "monster_name": "Maniacal Monkey Archer"
+      }
+    },
+    {
+      "id": "954-7119",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.05"
+      },
+      "meta": {
+        "item_name": "Rope",
+        "monster_name": "Maniacal Monkey Archer"
+      }
+    },
+    {
+      "id": "5626-7119",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.05"
+      },
+      "meta": {
+        "item_name": "Adamant arrow (Poison++)",
+        "monster_name": "Maniacal Monkey Archer"
+      }
+    },
+    {
+      "id": "177-7119",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.1"
+      },
+      "meta": {
+        "item_name": "Antipoison (2 dose)",
+        "monster_name": "Maniacal Monkey Archer"
+      }
+    },
+    {
+      "id": "365-7119",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.2"
+      },
+      "meta": {
+        "item_name": "Bass",
+        "monster_name": "Maniacal Monkey Archer"
+      }
+    },
+    {
+      "id": "3179-7119",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Monkey bones (small ninja)",
+        "monster_name": "Maniacal Monkey Archer"
+      }
+    },
+    {
+      "id": "1325-7119",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.1"
+      },
+      "meta": {
+        "item_name": "Steel scimitar",
+        "monster_name": "Maniacal Monkey Archer"
+      }
+    },
+    {
+      "id": "853-7119",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.05"
+      },
+      "meta": {
+        "item_name": "Maple shortbow",
+        "monster_name": "Maniacal Monkey Archer"
+      }
+    },
+    {
+      "id": "8778-7119",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.15"
+      },
+      "meta": {
+        "item_name": "Oak plank",
+        "monster_name": "Maniacal Monkey Archer"
+      }
+    },
+    {
+      "id": "199-7119",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.1"
+      },
+      "meta": {
+        "item_name": "Grimy guam leaf",
+        "monster_name": "Maniacal Monkey Archer"
+      }
+    },
+    {
+      "id": "1963-7119",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.1"
+      },
+      "meta": {
+        "item_name": "Banana",
+        "monster_name": "Maniacal Monkey Archer"
+      }
+    }
+  ]
+}

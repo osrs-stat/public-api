@@ -1,0 +1,143 @@
+{
+  "data": {
+    "id": "861",
+    "type": "item",
+    "attributes": {
+      "uuid": "5f772cb2-c690-4e13-b8e4-219e36917f24",
+      "name": "Magic shortbow",
+      "members": true,
+      "release_date": "2002-03-25",
+      "examine": "Short and magical, but still effective.",
+      "tradeable": false,
+      "ge_tradeable": false,
+      "lowalch": 640,
+      "highalch": 960,
+      "is_equip": true,
+      "is_weapon": true,
+      "icon_base64": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABNklEQVR4Xu2WSwrCMBBAmyN0UZBCoUfwBi5EUBBBQXTRRUGpiCKCC48f83HaZJIKtiZx0QezKEk6j8xMaRQNDGAItUcQCE2KLR2VexnHQkR6LkNIMZndmsazieV2CB3nuQh8ygEy4a2qaLJZaslx4JMOkCIQ8WpeC+GdHtBleM8EEmpKBCH6hzVzvJj6FtJFQCaQULsMH2sxYX6E7CVqEhPxrVFH3qGQ/Vb0UX4LsZF3LPRZBvYIGd4/bMIcCZklapVho85LBWfMPb2xi+iJ5DOXwWteZPRETYnMtZ/xZYmQjP6u3pgiapnUCCKjCvCPHfzPgIwqhN/WE1MmvZ9oej0IkVpGaVwIZ7eTPW80e1w0ES7RJuCogQFSiwQSwJBaBif3JICRTQtCeDUQzhq0O38lMzDQkRdTVLE1oAevyQAAAABJRU5ErkJggg=="
+    },
+    "relationships": {
+      "equip": {
+        "data": {
+          "id": "0e9e3d22-c9f3-4695-a7f2-220618bb55f8",
+          "type": "equip"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Magic_shortbow"
+    },
+    "meta": {
+      "incomplete": false
+    }
+  },
+  "included": [
+    {
+      "id": "0e9e3d22-c9f3-4695-a7f2-220618bb55f8",
+      "type": "equip",
+      "attributes": {
+        "slot": "weapon_2h",
+        "passive_effect": null,
+        "requirements": {
+          "ranged_level": 50
+        }
+      },
+      "relationships": {
+        "equip_stat": {
+          "data": {
+            "id": "a6da9365-d8f3-471f-b5cc-7752b5071219",
+            "type": "equip_stat"
+          }
+        },
+        "attack_stat": {
+          "data": {
+            "id": "5a6d2e8a-5a9e-4f69-9655-050fabec3c0e",
+            "type": "attack_stat"
+          }
+        }
+      }
+    },
+    {
+      "id": "5a6d2e8a-5a9e-4f69-9655-050fabec3c0e",
+      "type": "attack_stat",
+      "attributes": {
+        "attack_speed": 4,
+        "attack_type": "bow",
+        "special": null,
+        "stances": [
+          {
+            "name": "accurate",
+            "style": null,
+            "boosts": {
+              "accuracy": 3,
+              "damage": 3
+            },
+            "experience": {
+              "hitpoints": 1.3333,
+              "ranged": 2
+            },
+            "combat_accuracy_stat": "ranged_level",
+            "combat_damage_stat": "ranged_level",
+            "equip_accuracy_stat": "ranged_attack",
+            "equip_damage_stat": "ranged_attack",
+            "target_equip_defense_stat": "ranged_defense"
+          },
+          {
+            "name": "rapid",
+            "style": null,
+            "boosts": {
+              "attack_speed": 1
+            },
+            "experience": {
+              "hitpoints": 1.3333,
+              "ranged": 2
+            },
+            "combat_accuracy_stat": "ranged_level",
+            "combat_damage_stat": "ranged_level",
+            "equip_accuracy_stat": "ranged_attack",
+            "equip_damage_stat": "ranged_attack",
+            "target_equip_defense_stat": "ranged_defense"
+          },
+          {
+            "name": "longrange",
+            "style": null,
+            "boosts": {
+              "defense": 3,
+              "attack_range": 2
+            },
+            "experience": {
+              "hitpoints": 1.3333,
+              "ranged": 1.3333,
+              "defense": 1.3333
+            },
+            "combat_accuracy_stat": "ranged_level",
+            "combat_damage_stat": "ranged_level",
+            "equip_accuracy_stat": "ranged_attack",
+            "equip_damage_stat": "ranged_attack",
+            "target_equip_defense_stat": "ranged_defense"
+          }
+        ]
+      }
+    },
+    {
+      "id": "a6da9365-d8f3-471f-b5cc-7752b5071219",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 0,
+        "slash_attack": 0,
+        "crush_attack": 0,
+        "ranged_attack": 69,
+        "magic_attack": 0,
+        "stab_defense": 0,
+        "slash_defense": 0,
+        "crush_defense": 0,
+        "ranged_defense": 0,
+        "magic_defense": 0,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

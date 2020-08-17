@@ -1,0 +1,117 @@
+{
+  "data": {
+    "id": "3010",
+    "type": "monster",
+    "attributes": {
+      "uuid": "e1689b1d-9f63-49d0-93ed-70f861cb478b",
+      "name": "Guard (Varrock)",
+      "members": false,
+      "release_date": "2001-01-04",
+      "examine": "He tries to keep order around here. His Bizarre uniform isn't helping.",
+      "combat_level_override": null,
+      "max_hit_override": 4,
+      "target_types": [
+
+      ],
+      "classification_types": [
+
+      ],
+      "poison": false,
+      "immune_poison": false,
+      "immune_venom": false,
+      "slayer_xp": null,
+      "slayer_level": null,
+      "slayer_masters": [
+
+      ],
+      "icon_base64": null
+    },
+    "relationships": {
+      "combat_stat": {
+        "data": {
+          "id": "a02b7d28-8515-47ca-8679-a63f849df3ba",
+          "type": "combat_stat"
+        }
+      },
+      "equip_stat": {
+        "data": {
+          "id": "d23a07b8-7eab-4169-9c88-b2f0f6c3d715",
+          "type": "equip_stat"
+        }
+      },
+      "attack_stat": {
+        "data": {
+          "id": "94512652-df22-4a54-99e9-ff90d942fa39",
+          "type": "attack_stat"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Guard#Varrock"
+    },
+    "meta": {
+      "incomplete": true
+    }
+  },
+  "included": [
+    {
+      "id": "94512652-df22-4a54-99e9-ff90d942fa39",
+      "type": "attack_stat",
+      "attributes": {
+        "attack_speed": 4,
+        "attack_type": "monster",
+        "special": null,
+        "stances": [
+          {
+            "name": "Monster crush",
+            "style": null,
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": null,
+            "combat_accuracy_stat": "attack_level",
+            "combat_damage_stat": "strength_level",
+            "equip_accuracy_stat": "crush_attack",
+            "equip_damage_stat": "crush_attack",
+            "target_equip_defense_stat": "crush_defense"
+          }
+        ]
+      }
+    },
+    {
+      "id": "a02b7d28-8515-47ca-8679-a63f849df3ba",
+      "type": "monster_combat_stat",
+      "attributes": {
+        "hitpoints_level": 22,
+        "attack_level": 19,
+        "strength_level": 18,
+        "defense_level": 14,
+        "magic_level": 1,
+        "ranged_level": 1,
+        "prayer_level": 0
+      }
+    },
+    {
+      "id": "d23a07b8-7eab-4169-9c88-b2f0f6c3d715",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 4,
+        "slash_attack": 4,
+        "crush_attack": 4,
+        "ranged_attack": 0,
+        "magic_attack": 0,
+        "stab_defense": 18,
+        "slash_defense": 25,
+        "crush_defense": 19,
+        "ranged_defense": 20,
+        "magic_defense": -4,
+        "melee_strength": 5,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

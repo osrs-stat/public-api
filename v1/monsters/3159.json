@@ -1,0 +1,121 @@
+{
+  "data": {
+    "id": "3159",
+    "type": "monster",
+    "attributes": {
+      "uuid": "900e7072-e71d-4e15-841e-1f7bb61de55e",
+      "name": "Spiritual warrior (Zamorak)",
+      "members": true,
+      "release_date": "2013-10-17",
+      "examine": "Warrior of Zamorak.",
+      "combat_level_override": null,
+      "max_hit_override": null,
+      "target_types": [
+
+      ],
+      "classification_types": [
+        "spiritual creatures"
+      ],
+      "poison": false,
+      "immune_poison": false,
+      "immune_venom": false,
+      "slayer_xp": 100.0,
+      "slayer_level": 68,
+      "slayer_masters": [
+        "krystilia",
+        "vannaka",
+        "chaeldar",
+        "nieve",
+        "duradel"
+      ],
+      "icon_base64": null
+    },
+    "relationships": {
+      "combat_stat": {
+        "data": {
+          "id": "4fc17ba2-a1f0-4f68-b784-c8c0d26452fd",
+          "type": "combat_stat"
+        }
+      },
+      "equip_stat": {
+        "data": {
+          "id": "8942ae05-85ec-4902-9313-e64cd2705c13",
+          "type": "equip_stat"
+        }
+      },
+      "attack_stat": {
+        "data": {
+          "id": "77810a6a-6564-4199-bb76-ba0eabb69396",
+          "type": "attack_stat"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Spiritual_warrior#Zamorak"
+    },
+    "meta": {
+      "incomplete": true
+    }
+  },
+  "included": [
+    {
+      "id": "77810a6a-6564-4199-bb76-ba0eabb69396",
+      "type": "attack_stat",
+      "attributes": {
+        "attack_speed": 5,
+        "attack_type": "monster",
+        "special": null,
+        "stances": [
+          {
+            "name": "Monster melee",
+            "style": null,
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": null,
+            "combat_accuracy_stat": "attack_level",
+            "combat_damage_stat": "strength_level",
+            "equip_accuracy_stat": "crush_attack",
+            "equip_damage_stat": "crush_attack",
+            "target_equip_defense_stat": "crush_defense"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4fc17ba2-a1f0-4f68-b784-c8c0d26452fd",
+      "type": "monster_combat_stat",
+      "attributes": {
+        "hitpoints_level": 100,
+        "attack_level": 100,
+        "strength_level": 100,
+        "defense_level": 100,
+        "magic_level": 1,
+        "ranged_level": 1,
+        "prayer_level": 0
+      }
+    },
+    {
+      "id": "8942ae05-85ec-4902-9313-e64cd2705c13",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 0,
+        "slash_attack": 0,
+        "crush_attack": 0,
+        "ranged_attack": 0,
+        "magic_attack": 0,
+        "stab_defense": 0,
+        "slash_defense": 0,
+        "crush_defense": 0,
+        "ranged_defense": 0,
+        "magic_defense": 0,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

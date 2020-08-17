@@ -1,0 +1,31 @@
+{
+  "data": {
+    "id": "1601",
+    "type": "item",
+    "attributes": {
+      "uuid": "1dedcf90-0495-40bf-9c7b-92b952c9687b",
+      "name": "Diamond",
+      "members": false,
+      "release_date": "2001-01-23",
+      "examine": "This looks valuable.",
+      "tradeable": false,
+      "ge_tradeable": false,
+      "lowalch": 800,
+      "highalch": 1200,
+      "is_equip": false,
+      "is_weapon": false,
+      "icon_base64": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABb0lEQVR4Xu3WzUrDQBQF4M6b9BECPkI3bgsFwXUXSrsQqtts3SpNFkKhSKgEVwUFBcHW+PdYY++Mk9w5TWPVGeMiBw6FQCYf9waaVqtJkyZVERKv1Bgh43gs/xhFDytvHJ+r36DdVsU7PUTIKDpTTaZT1XQ2k+9vmby7nasiEk/wECFfX5arLlaQp89mqkeHB2v1jBL5ZDRqmaNoUlSO2et28xXiSY6iQc/Zo5qQKQeZEsYzCKezUDCD45jTMPQNKsdwhEERxpRAO0Hg4z3iIL0mXBH14f7GAlENyOGUbAwi+Jo21SGowCBgW8x+r+dybUJep6kqIrbFmDqaUgG6ShLVn2C8gkwRUIXhKHzCN1MOuojGawjEDPt9gDj50xXycjKxQIQx/QqDkF9iKNUgjirDOITw6LWVYUw5BqeCpzmIBnFAeHJslTC7nY7PqWCEHA0GG4sYvNtTiq/Af4DRKR5qf6bWgsHwd6V2TJO68wFZjBPZfZ9WyAAAAABJRU5ErkJggg=="
+    },
+    "relationships": {
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Diamond"
+    },
+    "meta": {
+      "incomplete": false
+    }
+  },
+  "included": [
+
+  ]
+}

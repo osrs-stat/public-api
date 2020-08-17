@@ -1,0 +1,132 @@
+{
+  "data": {
+    "id": "797",
+    "type": "monster",
+    "attributes": {
+      "uuid": "cf4e720e-30e5-4d30-b854-98804c4638ac",
+      "name": "Giant scarab (Normal)",
+      "members": true,
+      "release_date": "2007-01-10",
+      "examine": "A huge scarab beast.",
+      "combat_level_override": null,
+      "max_hit_override": 20,
+      "target_types": [
+
+      ],
+      "classification_types": [
+        "scabarites"
+      ],
+      "poison": true,
+      "immune_poison": true,
+      "immune_venom": true,
+      "slayer_xp": 137.0,
+      "slayer_level": 1,
+      "slayer_masters": [
+        "nieve"
+      ],
+      "icon_base64": null
+    },
+    "relationships": {
+      "combat_stat": {
+        "data": {
+          "id": "f3475520-dfea-4dcb-ba19-9197ad4a6b87",
+          "type": "combat_stat"
+        }
+      },
+      "equip_stat": {
+        "data": {
+          "id": "0d76d404-4a66-4f13-9241-91560ca9c061",
+          "type": "equip_stat"
+        }
+      },
+      "attack_stat": {
+        "data": {
+          "id": "031b4c63-b758-430c-8511-1b6a2588eb78",
+          "type": "attack_stat"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Giant_scarab#Normal"
+    },
+    "meta": {
+      "incomplete": true
+    }
+  },
+  "included": [
+    {
+      "id": "031b4c63-b758-430c-8511-1b6a2588eb78",
+      "type": "attack_stat",
+      "attributes": {
+        "attack_speed": 4,
+        "attack_type": "monster",
+        "special": null,
+        "stances": [
+          {
+            "name": "Monster crush",
+            "style": null,
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": null,
+            "combat_accuracy_stat": "attack_level",
+            "combat_damage_stat": "strength_level",
+            "equip_accuracy_stat": "crush_attack",
+            "equip_damage_stat": "crush_attack",
+            "target_equip_defense_stat": "crush_defense"
+          },
+          {
+            "name": "Monster ranged",
+            "style": null,
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": null,
+            "combat_accuracy_stat": "ranged_level",
+            "combat_damage_stat": "ranged_level",
+            "equip_accuracy_stat": "ranged_attack",
+            "equip_damage_stat": "ranged_attack",
+            "target_equip_defense_stat": "ranged_defense"
+          }
+        ]
+      }
+    },
+    {
+      "id": "f3475520-dfea-4dcb-ba19-9197ad4a6b87",
+      "type": "monster_combat_stat",
+      "attributes": {
+        "hitpoints_level": 130,
+        "attack_level": 169,
+        "strength_level": 190,
+        "defense_level": 169,
+        "magic_level": 1,
+        "ranged_level": 190,
+        "prayer_level": 0
+      }
+    },
+    {
+      "id": "0d76d404-4a66-4f13-9241-91560ca9c061",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 0,
+        "slash_attack": 0,
+        "crush_attack": 0,
+        "ranged_attack": 0,
+        "magic_attack": 0,
+        "stab_defense": 70,
+        "slash_defense": 99,
+        "crush_defense": 99,
+        "ranged_defense": 149,
+        "magic_defense": 159,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

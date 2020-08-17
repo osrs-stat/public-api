@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "7896-3420",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.25"
+      },
+      "meta": {
+        "item_name": "Rabbit bone (Unpolished)",
+        "monster_name": "Rabbit (Level 2)"
+      }
+    },
+    {
+      "id": "7896-3902",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.25"
+      },
+      "meta": {
+        "item_name": "Rabbit bone (Unpolished)",
+        "monster_name": "Bunny (1)"
+      }
+    },
+    {
+      "id": "7896-3903",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.25"
+      },
+      "meta": {
+        "item_name": "Rabbit bone (Unpolished)",
+        "monster_name": "Bunny (2)"
+      }
+    },
+    {
+      "id": "7896-1852",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.25"
+      },
+      "meta": {
+        "item_name": "Rabbit bone (Unpolished)",
+        "monster_name": "Rabbit (Level 1)"
+      }
+    }
+  ]
+}

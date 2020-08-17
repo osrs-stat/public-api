@@ -1,0 +1,31 @@
+{
+  "data": {
+    "id": "8780",
+    "type": "item",
+    "attributes": {
+      "uuid": "cd343bb2-4964-4865-979f-fda0f496b4c1",
+      "name": "Teak plank",
+      "members": true,
+      "release_date": "2006-05-31",
+      "examine": "A plank of fine teak.",
+      "tradeable": false,
+      "ge_tradeable": false,
+      "lowalch": 200,
+      "highalch": 300,
+      "is_equip": false,
+      "is_weapon": false,
+      "icon_base64": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABZElEQVR4Xu2XTUvDQBRFO/+kiEiRIkUsUmlBBKFIKlZKDFpKNZiFH1AJulAUUbp24aI/98nLMOYlzaQu7B0XXsgy5HDe5UIqlf/Aoih9nEfRbbBJV36DosGGazBFk+FWAsQwYb9O416dzg7WBRgULmuHgRjmpFujwf4aHe2uktdZQUGldhhI2mEgA9Nu1hKgRrW6bCgNJO0wkLQz7He+YZYMlLXDQNKOAQLBcOxlNueSdvJv/3IUxaPmwjKD7GiYsjIzUHDYxtopKjMDwe08nG/PlTl/Lid2ysoMtVNUZrk9zuzYtgdux3YuhvG9HYQdRY9h60dldmanaHsu/D2snUXbA7NjO5e0cz3qurFTVGYGgtsp2574soex8xy1EqB8mfPncmLHVuanm2OEHRNFs2k0Z0duD8iOjP6F+XwLaXp/mrHzHgdIO2n0BzXYx8uYXu98moSeCzvZSDDnMDIG5E/AIPIFAVguag3IzL4AAAAASUVORK5CYII="
+    },
+    "relationships": {
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Teak_plank"
+    },
+    "meta": {
+      "incomplete": false
+    }
+  },
+  "included": [
+
+  ]
+}

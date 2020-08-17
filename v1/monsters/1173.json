@@ -1,0 +1,117 @@
+{
+  "data": {
+    "id": "1173",
+    "type": "monster",
+    "attributes": {
+      "uuid": "3d61e5cc-88d0-447c-b790-d3143ed35dc1",
+      "name": "Chicken",
+      "members": false,
+      "release_date": "2001-01-04",
+      "examine": "Yep. Definitely a chicken.",
+      "combat_level_override": null,
+      "max_hit_override": null,
+      "target_types": [
+
+      ],
+      "classification_types": [
+        "bird"
+      ],
+      "poison": false,
+      "immune_poison": false,
+      "immune_venom": false,
+      "slayer_xp": 3.0,
+      "slayer_level": 1,
+      "slayer_masters": [
+        "turael"
+      ],
+      "icon_base64": null
+    },
+    "relationships": {
+      "combat_stat": {
+        "data": {
+          "id": "ba393ed9-66e9-4c58-8795-169a9db8a570",
+          "type": "combat_stat"
+        }
+      },
+      "equip_stat": {
+        "data": {
+          "id": "a000ce25-c481-429d-9306-b6daf2097989",
+          "type": "equip_stat"
+        }
+      },
+      "attack_stat": {
+        "data": {
+          "id": "84224b5b-0b79-4d7f-a353-179b3ac9f784",
+          "type": "attack_stat"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Chicken"
+    },
+    "meta": {
+      "incomplete": true
+    }
+  },
+  "included": [
+    {
+      "id": "84224b5b-0b79-4d7f-a353-179b3ac9f784",
+      "type": "attack_stat",
+      "attributes": {
+        "attack_speed": 4,
+        "attack_type": "monster",
+        "special": null,
+        "stances": [
+          {
+            "name": "Monster stab",
+            "style": null,
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": null,
+            "combat_accuracy_stat": "attack_level",
+            "combat_damage_stat": "strength_level",
+            "equip_accuracy_stat": "stab_attack",
+            "equip_damage_stat": "stab_attack",
+            "target_equip_defense_stat": "stab_defense"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ba393ed9-66e9-4c58-8795-169a9db8a570",
+      "type": "monster_combat_stat",
+      "attributes": {
+        "hitpoints_level": 3,
+        "attack_level": 1,
+        "strength_level": 1,
+        "defense_level": 1,
+        "magic_level": 1,
+        "ranged_level": 1,
+        "prayer_level": 0
+      }
+    },
+    {
+      "id": "a000ce25-c481-429d-9306-b6daf2097989",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": -47,
+        "slash_attack": -47,
+        "crush_attack": -47,
+        "ranged_attack": 0,
+        "magic_attack": 0,
+        "stab_defense": -42,
+        "slash_defense": -42,
+        "crush_defense": -42,
+        "ranged_defense": -42,
+        "magic_defense": -42,
+        "melee_strength": -42,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

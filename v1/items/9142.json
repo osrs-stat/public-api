@@ -1,0 +1,75 @@
+{
+  "data": {
+    "id": "9142",
+    "type": "item",
+    "attributes": {
+      "uuid": "ef913046-a48b-4acd-aceb-405920cc8359",
+      "name": "Mithril bolts (Unpoisoned)",
+      "members": true,
+      "release_date": "2006-07-31",
+      "examine": "Mithril crossbow bolts.",
+      "tradeable": false,
+      "ge_tradeable": false,
+      "lowalch": 8,
+      "highalch": 12,
+      "is_equip": true,
+      "is_weapon": false,
+      "icon_base64": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAA1ElEQVR4Xu2WsQrCMBRF8/6knyBihw4FqbTYoVJK6VA6FBEEddEufoh7P/XKM2Ahk5O5Qw6EQMhwuC95iTGBgMBd8YigLAeQSAna9oI43n2EVlHkU0owjs9vOirjXajv7yj2PUM6iqBpzsjzjksoTSsGIcEwTFznp+tuyLKWIR1FUNcnnnTccrk7/owtV5IUPELV4chTLm2GJFddsW8XSTqKcHXmeX5hvdkyCFkZ7T3T4+pbyMro0JddZ89Civ4GhUnIGCtg06IQWqC58gtUMoFA4AfeRzeh9p48S7sAAAAASUVORK5CYII="
+    },
+    "relationships": {
+      "equip": {
+        "data": {
+          "id": "e39c761f-021b-48f8-b15f-85d04703a177",
+          "type": "equip"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Mithril_bolts#Unpoisoned"
+    },
+    "meta": {
+      "incomplete": false
+    }
+  },
+  "included": [
+    {
+      "id": "e39c761f-021b-48f8-b15f-85d04703a177",
+      "type": "equip",
+      "attributes": {
+        "slot": "ammo",
+        "passive_effect": null,
+        "requirements": {
+          "ranged_level": 36
+        }
+      },
+      "relationships": {
+        "equip_stat": {
+          "data": {
+            "id": "3a391169-2284-4255-a951-0b1d7a88b3d5",
+            "type": "equip_stat"
+          }
+        }
+      }
+    },
+    {
+      "id": "3a391169-2284-4255-a951-0b1d7a88b3d5",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 0,
+        "slash_attack": 0,
+        "crush_attack": 0,
+        "ranged_attack": 0,
+        "magic_attack": 0,
+        "stab_defense": 0,
+        "slash_defense": 0,
+        "crush_defense": 0,
+        "ranged_defense": 0,
+        "magic_defense": 0,
+        "melee_strength": 0,
+        "ranged_strength": 82,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "data": {
+    "id": "581",
+    "type": "item",
+    "attributes": {
+      "uuid": "e21a3584-08b2-4d2d-a343-3d058e5deb52",
+      "name": "Black robe",
+      "members": false,
+      "release_date": "2001-01-25",
+      "examine": "I can do magic better in this.",
+      "tradeable": false,
+      "ge_tradeable": false,
+      "lowalch": 5,
+      "highalch": 7,
+      "is_equip": true,
+      "is_weapon": false,
+      "icon_base64": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABS0lEQVR4Xu2W0QqDMAxF9QP2OJDBQIaM4YPsQRgDHwT//5sctaTGa1NrrRsDL1w2dUlO0ghLkkOHvqa0X+fdpAsURTb4ej0PxussO028A5hOWJYXY4LAaxtQZLC0r6p8MAey2QdqBAtS2tf1zQAhFL9Pz/jRcSPQM89DoDQQQknGKaGjAvlA8aPjC78bkC8UQdC0ECoq0BIUPzYJKHCx7ftjW3QEQijcrcApzQurxD5TIwD6RNDNQJQsFIjnoSltBqKRS0AcijegYt6vu3n+EyAORcUxF93HqoKm+0NJdILUdGyzBLRxSvL+KDfNYyhgA/MB4g1GAWrb0gAtQXEghAoC4iagrquiAI1r4JQdhoB0R2MBFxSfKv5uxZTkt2gaTH+23MYGdgRKEvXdxxLQdOpOzTulQI9gQfN8q3Jil96BDmGuGDkPHforfQB8EOiS/GmjUQAAAABJRU5ErkJggg=="
+    },
+    "relationships": {
+      "equip": {
+        "data": {
+          "id": "bfccb4ec-7fbc-4adc-bca8-035318e21a44",
+          "type": "equip"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Black_robe"
+    },
+    "meta": {
+      "incomplete": false
+    }
+  },
+  "included": [
+    {
+      "id": "bfccb4ec-7fbc-4adc-bca8-035318e21a44",
+      "type": "equip",
+      "attributes": {
+        "slot": "body",
+        "passive_effect": null,
+        "requirements": null
+      },
+      "relationships": {
+        "equip_stat": {
+          "data": {
+            "id": "269f9ed2-deb5-4201-9164-da0fbf6a7517",
+            "type": "equip_stat"
+          }
+        }
+      }
+    },
+    {
+      "id": "269f9ed2-deb5-4201-9164-da0fbf6a7517",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 0,
+        "slash_attack": 0,
+        "crush_attack": 0,
+        "ranged_attack": 0,
+        "magic_attack": 3,
+        "stab_defense": 0,
+        "slash_defense": 0,
+        "crush_defense": 0,
+        "ranged_defense": 0,
+        "magic_defense": 3,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

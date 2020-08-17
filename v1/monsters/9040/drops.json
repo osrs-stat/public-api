@@ -1,0 +1,84 @@
+{
+  "data": [
+    {
+      "id": "23824-9040",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": 30,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Corrupted shards",
+        "monster_name": "Corrupted Rat"
+      }
+    },
+    {
+      "id": "23858-9040",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Corrupted teleport crystal",
+        "monster_name": "Corrupted Rat"
+      }
+    },
+    {
+      "id": "23871-9040",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.125"
+      },
+      "meta": {
+        "item_name": "Weapon frame (corrupted)",
+        "monster_name": "Corrupted Rat"
+      }
+    },
+    {
+      "id": "23835-9040",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.125"
+      },
+      "meta": {
+        "item_name": "Grym leaf (corrupted)",
+        "monster_name": "Corrupted Rat"
+      }
+    },
+    {
+      "id": "23872-9040",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.125"
+      },
+      "meta": {
+        "item_name": "Raw paddlefish",
+        "monster_name": "Corrupted Rat"
+      }
+    }
+  ]
+}

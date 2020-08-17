@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "id": "3098-4088",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Black claws",
+        "monster_name": "Soldier (Burthorpe)"
+      }
+    },
+    {
+      "id": "3098-7266",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Black claws",
+        "monster_name": "King Sand Crab (Active)"
+      }
+    },
+    {
+      "id": "3098-2261",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Black claws",
+        "monster_name": "Giant Rock Crab"
+      }
+    }
+  ]
+}

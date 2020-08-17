@@ -1,0 +1,84 @@
+{
+  "data": [
+    {
+      "id": "13369-6909",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Shayzien helm (3)",
+        "monster_name": "Soldier (tier 3)"
+      }
+    },
+    {
+      "id": "13371-6909",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Shayzien platebody (3)",
+        "monster_name": "Soldier (tier 3)"
+      }
+    },
+    {
+      "id": "13370-6909",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Shayzien greaves (3)",
+        "monster_name": "Soldier (tier 3)"
+      }
+    },
+    {
+      "id": "13367-6909",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Shayzien gloves (3)",
+        "monster_name": "Soldier (tier 3)"
+      }
+    },
+    {
+      "id": "13368-6909",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Shayzien boots (3)",
+        "monster_name": "Soldier (tier 3)"
+      }
+    }
+  ]
+}

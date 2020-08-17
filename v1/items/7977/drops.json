@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "7977-9293",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.001"
+      },
+      "meta": {
+        "item_name": "Basilisk head",
+        "monster_name": "Basilisk Knight"
+      }
+    },
+    {
+      "id": "7977-9258",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.001"
+      },
+      "meta": {
+        "item_name": "Basilisk head",
+        "monster_name": "Basilisk Sentinel"
+      }
+    },
+    {
+      "id": "7977-7395",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0005"
+      },
+      "meta": {
+        "item_name": "Basilisk head",
+        "monster_name": "Monstrous basilisk"
+      }
+    },
+    {
+      "id": "7977-417",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0005"
+      },
+      "meta": {
+        "item_name": "Basilisk head",
+        "monster_name": "Basilisk"
+      }
+    }
+  ]
+}

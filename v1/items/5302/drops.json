@@ -1,0 +1,948 @@
+{
+  "data": [
+    {
+      "id": "5302-1866",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00229779411764706"
+      },
+      "meta": {
+        "item_name": "Lantadyme seed",
+        "monster_name": "Tree spirit (Level 159)"
+      }
+    },
+    {
+      "id": "5302-2259",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000164128151260504"
+      },
+      "meta": {
+        "item_name": "Lantadyme seed",
+        "monster_name": "Dagannoth (Waterbirth Island) (Level 88)"
+      }
+    },
+    {
+      "id": "5302-2261",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000164128151260504"
+      },
+      "meta": {
+        "item_name": "Lantadyme seed",
+        "monster_name": "Giant Rock Crab"
+      }
+    },
+    {
+      "id": "5302-2265",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00114889705882353"
+      },
+      "meta": {
+        "item_name": "Lantadyme seed",
+        "monster_name": "Dagannoth Supreme"
+      }
+    },
+    {
+      "id": "5302-2266",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00114889705882353"
+      },
+      "meta": {
+        "item_name": "Lantadyme seed",
+        "monster_name": "Dagannoth Prime"
+      }
+    },
+    {
+      "id": "5302-2916",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000656512605042017"
+      },
+      "meta": {
+        "item_name": "Lantadyme seed",
+        "monster_name": "Waterfiend"
+      }
+    },
+    {
+      "id": "5302-3129",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.062992125984252"
+      },
+      "meta": {
+        "item_name": "Lantadyme seed",
+        "monster_name": "K'ril Tsutsaroth"
+      }
+    },
+    {
+      "id": "5302-3185",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000164128151260504"
+      },
+      "meta": {
+        "item_name": "Lantadyme seed",
+        "monster_name": "Dagannoth (Waterbirth Island) (Level 90)"
+      }
+    },
+    {
+      "id": "5302-3428",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00262605042016807"
+      },
+      "meta": {
+        "item_name": "Lantadyme seed",
+        "monster_name": "Iorwerth Archer (Male)"
+      }
+    },
+    {
+      "id": "5302-3429",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00262605042016807"
+      },
+      "meta": {
+        "item_name": "Lantadyme seed",
+        "monster_name": "Iorwerth Warrior (Male)"
+      }
+    },
+    {
+      "id": "5302-4005",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000656512605042017"
+      },
+      "meta": {
+        "item_name": "Lantadyme seed",
+        "monster_name": "Dark beast"
+      }
+    },
+    {
+      "id": "5302-5938",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000164128151260504"
+      },
+      "meta": {
+        "item_name": "Lantadyme seed",
+        "monster_name": "Wallasalki"
+      }
+    },
+    {
+      "id": "5302-7259",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00295430672268908"
+      },
+      "meta": {
+        "item_name": "Lantadyme seed",
+        "monster_name": "Dagannoth (Level 74 (2))"
+      }
+    },
+    {
+      "id": "5302-7260",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00295430672268908"
+      },
+      "meta": {
+        "item_name": "Lantadyme seed",
+        "monster_name": "Dagannoth (Level 92 (2))"
+      }
+    },
+    {
+      "id": "5302-7266",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000164128151260504"
+      },
+      "meta": {
+        "item_name": "Lantadyme seed",
+        "monster_name": "King Sand Crab (Active)"
+      }
+    },
+    {
+      "id": "5302-7272",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00213366596638655"
+      },
+      "meta": {
+        "item_name": "Lantadyme seed",
+        "monster_name": "Twisted Banshee"
+      }
+    },
+    {
+      "id": "5302-7278",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000820640756302521"
+      },
+      "meta": {
+        "item_name": "Lantadyme seed",
+        "monster_name": "Greater Nechryael"
+      }
+    },
+    {
+      "id": "5302-7279",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00262605042016807"
+      },
+      "meta": {
+        "item_name": "Lantadyme seed",
+        "monster_name": "Deviant spectre"
+      }
+    },
+    {
+      "id": "5302-7391",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00213366596638655"
+      },
+      "meta": {
+        "item_name": "Lantadyme seed",
+        "monster_name": "Screaming twisted banshee"
+      }
+    },
+    {
+      "id": "5302-7401",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00295430672268908"
+      },
+      "meta": {
+        "item_name": "Lantadyme seed",
+        "monster_name": "Cave abomination"
+      }
+    },
+    {
+      "id": "5302-7402",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00311843487394958"
+      },
+      "meta": {
+        "item_name": "Lantadyme seed",
+        "monster_name": "Abhorrent spectre"
+      }
+    },
+    {
+      "id": "5302-7403",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00262605042016807"
+      },
+      "meta": {
+        "item_name": "Lantadyme seed",
+        "monster_name": "Repugnant spectre"
+      }
+    },
+    {
+      "id": "5302-7405",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00254133911629168"
+      },
+      "meta": {
+        "item_name": "Lantadyme seed",
+        "monster_name": "King kurask"
+      }
+    },
+    {
+      "id": "5302-7409",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000656512605042017"
+      },
+      "meta": {
+        "item_name": "Lantadyme seed",
+        "monster_name": "Night beast"
+      }
+    },
+    {
+      "id": "5302-7411",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000820640756302521"
+      },
+      "meta": {
+        "item_name": "Lantadyme seed",
+        "monster_name": "Nechryarch"
+      }
+    },
+    {
+      "id": "5302-7796",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000890186583107819"
+      },
+      "meta": {
+        "item_name": "Lantadyme seed",
+        "monster_name": "Lobstrosity"
+      }
+    },
+    {
+      "id": "5302-8583",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": 5,
+        "rarity": "0.0375"
+      },
+      "meta": {
+        "item_name": "Lantadyme seed",
+        "monster_name": "Hespori"
+      }
+    },
+    {
+      "id": "5302-8610",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000829279080053074"
+      },
+      "meta": {
+        "item_name": "Lantadyme seed",
+        "monster_name": "Wyrm (Idle)"
+      }
+    },
+    {
+      "id": "5302-8611",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000829279080053074"
+      },
+      "meta": {
+        "item_name": "Lantadyme seed",
+        "monster_name": "Wyrm (Attacking)"
+      }
+    },
+    {
+      "id": "5302-8612",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000247157686604053"
+      },
+      "meta": {
+        "item_name": "Lantadyme seed",
+        "monster_name": "Drake"
+      }
+    },
+    {
+      "id": "5302-8713",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000420168067226891"
+      },
+      "meta": {
+        "item_name": "Lantadyme seed",
+        "monster_name": "Sarachnis"
+      }
+    },
+    {
+      "id": "5302-8759",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00262605042016807"
+      },
+      "meta": {
+        "item_name": "Lantadyme seed",
+        "monster_name": "Iorwerth Warrior (Female)"
+      }
+    },
+    {
+      "id": "5302-8760",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00262605042016807"
+      },
+      "meta": {
+        "item_name": "Lantadyme seed",
+        "monster_name": "Iorwerth Archer (Female)"
+      }
+    },
+    {
+      "id": "5302-10397",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00295430672268908"
+      },
+      "meta": {
+        "item_name": "Lantadyme seed",
+        "monster_name": "Spiked Turoth"
+      }
+    },
+    {
+      "id": "5302-10398",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000829279080053074"
+      },
+      "meta": {
+        "item_name": "Lantadyme seed",
+        "monster_name": "Shadow Wyrm"
+      }
+    },
+    {
+      "id": "5302-10400",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000247157686604053"
+      },
+      "meta": {
+        "item_name": "Lantadyme seed",
+        "monster_name": "Guardian Drake"
+      }
+    },
+    {
+      "id": "5302-10402",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000656512605042017"
+      },
+      "meta": {
+        "item_name": "Lantadyme seed",
+        "monster_name": "Colossal Hydra"
+      }
+    },
+    {
+      "id": "5302-1864",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00229779411764706"
+      },
+      "meta": {
+        "item_name": "Lantadyme seed",
+        "monster_name": "Tree spirit (Level 79)"
+      }
+    },
+    {
+      "id": "5302-1863",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00229779411764706"
+      },
+      "meta": {
+        "item_name": "Lantadyme seed",
+        "monster_name": "Tree spirit (Level 49)"
+      }
+    },
+    {
+      "id": "5302-1861",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00229779411764706"
+      },
+      "meta": {
+        "item_name": "Lantadyme seed",
+        "monster_name": "Tree spirit (Level 14)"
+      }
+    },
+    {
+      "id": "5302-1047",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00295430672268908"
+      },
+      "meta": {
+        "item_name": "Lantadyme seed",
+        "monster_name": "Cave horror"
+      }
+    },
+    {
+      "id": "5302-973",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00295430672268908"
+      },
+      "meta": {
+        "item_name": "Lantadyme seed",
+        "monster_name": "Dagannoth (Level 92 (1))"
+      }
+    },
+    {
+      "id": "5302-8609",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000656512605042017"
+      },
+      "meta": {
+        "item_name": "Lantadyme seed",
+        "monster_name": "Hydra"
+      }
+    },
+    {
+      "id": "5302-970",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00295430672268908"
+      },
+      "meta": {
+        "item_name": "Lantadyme seed",
+        "monster_name": "Dagannoth (Level 74 (1))"
+      }
+    },
+    {
+      "id": "5302-801",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000328256302521008"
+      },
+      "meta": {
+        "item_name": "Lantadyme seed",
+        "monster_name": "Locust rider (Ranger (Quest))"
+      }
+    },
+    {
+      "id": "5302-800",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000328256302521008"
+      },
+      "meta": {
+        "item_name": "Lantadyme seed",
+        "monster_name": "Locust rider (Lancer (Quest))"
+      }
+    },
+    {
+      "id": "5302-799",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000328256302521008"
+      },
+      "meta": {
+        "item_name": "Lantadyme seed",
+        "monster_name": "Scarab mage (Level 66 (Quest))"
+      }
+    },
+    {
+      "id": "5302-796",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000328256302521008"
+      },
+      "meta": {
+        "item_name": "Lantadyme seed",
+        "monster_name": "Locust rider (Ranger)"
+      }
+    },
+    {
+      "id": "5302-795",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000328256302521008"
+      },
+      "meta": {
+        "item_name": "Lantadyme seed",
+        "monster_name": "Locust rider (Lancer)"
+      }
+    },
+    {
+      "id": "5302-794",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000328256302521008"
+      },
+      "meta": {
+        "item_name": "Lantadyme seed",
+        "monster_name": "Scarab mage (Level 93)"
+      }
+    },
+    {
+      "id": "5302-492",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000630252100840336"
+      },
+      "meta": {
+        "item_name": "Lantadyme seed",
+        "monster_name": "Cave kraken"
+      }
+    },
+    {
+      "id": "5302-430",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00295430672268908"
+      },
+      "meta": {
+        "item_name": "Lantadyme seed",
+        "monster_name": "Turoth (Level 83)"
+      }
+    },
+    {
+      "id": "5302-429",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00295430672268908"
+      },
+      "meta": {
+        "item_name": "Lantadyme seed",
+        "monster_name": "Turoth (Level 85)"
+      }
+    },
+    {
+      "id": "5302-428",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00295430672268908"
+      },
+      "meta": {
+        "item_name": "Lantadyme seed",
+        "monster_name": "Turoth (Level 87)"
+      }
+    },
+    {
+      "id": "5302-427",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00295430672268908"
+      },
+      "meta": {
+        "item_name": "Lantadyme seed",
+        "monster_name": "Turoth (Level 89)"
+      }
+    },
+    {
+      "id": "5302-410",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00254133911629168"
+      },
+      "meta": {
+        "item_name": "Lantadyme seed",
+        "monster_name": "Kurask"
+      }
+    },
+    {
+      "id": "5302-8",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00325992465951898"
+      },
+      "meta": {
+        "item_name": "Lantadyme seed",
+        "monster_name": "Nechryael"
+      }
+    },
+    {
+      "id": "5302-2",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00311843487394958"
+      },
+      "meta": {
+        "item_name": "Lantadyme seed",
+        "monster_name": "Aberrant spectre"
+      }
+    },
+    {
+      "id": "5302-1865",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00229779411764706"
+      },
+      "meta": {
+        "item_name": "Lantadyme seed",
+        "monster_name": "Tree spirit (Level 120)"
+      }
+    }
+  ]
+}

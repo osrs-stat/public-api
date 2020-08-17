@@ -1,0 +1,468 @@
+{
+  "data": [
+    {
+      "id": "1617-7416",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.0423728813559322"
+      },
+      "meta": {
+        "item_name": "Uncut diamond",
+        "monster_name": "Obor"
+      }
+    },
+    {
+      "id": "1617-465",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Uncut diamond",
+        "monster_name": "Skeletal Wyvern (2)"
+      }
+    },
+    {
+      "id": "1617-466",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Uncut diamond",
+        "monster_name": "Skeletal Wyvern (3)"
+      }
+    },
+    {
+      "id": "1617-467",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Uncut diamond",
+        "monster_name": "Skeletal Wyvern (4)"
+      }
+    },
+    {
+      "id": "1617-468",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Uncut diamond",
+        "monster_name": "Skeletal Wyvern (1)"
+      }
+    },
+    {
+      "id": "1617-963",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 25,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Uncut diamond",
+        "monster_name": "Kalphite Queen (Crawling)"
+      }
+    },
+    {
+      "id": "1617-965",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 25,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Uncut diamond",
+        "monster_name": "Kalphite Queen (Airborne)"
+      }
+    },
+    {
+      "id": "1617-1362",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Uncut diamond",
+        "monster_name": "Slagilith (Normal)"
+      }
+    },
+    {
+      "id": "1617-2161",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00512820512820513"
+      },
+      "meta": {
+        "item_name": "Uncut diamond",
+        "monster_name": "TzHaar-Hur"
+      }
+    },
+    {
+      "id": "1617-2167",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Uncut diamond",
+        "monster_name": "TzHaar-Xil"
+      }
+    },
+    {
+      "id": "1617-2173",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Uncut diamond",
+        "monster_name": "TzHaar-Ket (Level 149)"
+      }
+    },
+    {
+      "id": "1617-2916",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Uncut diamond",
+        "monster_name": "Waterfiend"
+      }
+    },
+    {
+      "id": "1617-5862",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Uncut diamond",
+        "monster_name": "Cerberus"
+      }
+    },
+    {
+      "id": "1617-5886",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 15,
+        "quantity_max": null,
+        "rarity": "0.0359712230215827"
+      },
+      "meta": {
+        "item_name": "Uncut diamond",
+        "monster_name": "Abyssal Sire (Phase 1)"
+      }
+    },
+    {
+      "id": "1617-5890",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 15,
+        "quantity_max": null,
+        "rarity": "0.0359712230215827"
+      },
+      "meta": {
+        "item_name": "Uncut diamond",
+        "monster_name": "Abyssal Sire (Phase 2)"
+      }
+    },
+    {
+      "id": "1617-5891",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 15,
+        "quantity_max": null,
+        "rarity": "0.0359712230215827"
+      },
+      "meta": {
+        "item_name": "Uncut diamond",
+        "monster_name": "Abyssal Sire (Phase 3 (stage 1))"
+      }
+    },
+    {
+      "id": "1617-5908",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 15,
+        "quantity_max": null,
+        "rarity": "0.0359712230215827"
+      },
+      "meta": {
+        "item_name": "Uncut diamond",
+        "monster_name": "Abyssal Sire (Phase 3 (stage 2))"
+      }
+    },
+    {
+      "id": "1617-6324",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Uncut diamond",
+        "monster_name": "Slagilith (Hard)"
+      }
+    },
+    {
+      "id": "1617-6503",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.0546875"
+      },
+      "meta": {
+        "item_name": "Uncut diamond",
+        "monster_name": "Callisto"
+      }
+    },
+    {
+      "id": "1617-6504",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.0546875"
+      },
+      "meta": {
+        "item_name": "Uncut diamond",
+        "monster_name": "Venenatis"
+      }
+    },
+    {
+      "id": "1617-6611",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.0546875"
+      },
+      "meta": {
+        "item_name": "Uncut diamond",
+        "monster_name": "Vet'ion (Normal)"
+      }
+    },
+    {
+      "id": "1617-6612",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.0546875"
+      },
+      "meta": {
+        "item_name": "Uncut diamond",
+        "monster_name": "Vet'ion (Reborn)"
+      }
+    },
+    {
+      "id": "1617-7679",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Uncut diamond",
+        "monster_name": "TzHaar-Ket (Level 221)"
+      }
+    },
+    {
+      "id": "1617-7806",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Uncut diamond",
+        "monster_name": "Deranged archaeologist"
+      }
+    },
+    {
+      "id": "1617-7989",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0344827586206897"
+      },
+      "meta": {
+        "item_name": "Uncut diamond",
+        "monster_name": "Ogress Warrior"
+      }
+    },
+    {
+      "id": "1617-7991",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0344827586206897"
+      },
+      "meta": {
+        "item_name": "Uncut diamond",
+        "monster_name": "Ogress Shaman"
+      }
+    },
+    {
+      "id": "1617-8195",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.0338983050847458"
+      },
+      "meta": {
+        "item_name": "Uncut diamond",
+        "monster_name": "Bryophyta"
+      }
+    },
+    {
+      "id": "1617-8713",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 20,
+        "quantity_max": 30,
+        "rarity": "0.01"
+      },
+      "meta": {
+        "item_name": "Uncut diamond",
+        "monster_name": "Sarachnis"
+      }
+    },
+    {
+      "id": "1617-9049",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 2,
+        "quantity_max": 19,
+        "rarity": "0.0555555555555556"
+      },
+      "meta": {
+        "item_name": "Uncut diamond",
+        "monster_name": "Zalcano"
+      }
+    }
+  ]
+}

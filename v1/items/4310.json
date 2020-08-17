@@ -1,0 +1,73 @@
+{
+  "data": {
+    "id": "4310",
+    "type": "item",
+    "attributes": {
+      "uuid": "408ae95c-a393-4154-bf98-807258377743",
+      "name": "Ham boots",
+      "members": true,
+      "release_date": "2005-02-22",
+      "examine": "HAM boots as worn by the Humans Against Monsters group.",
+      "tradeable": false,
+      "ge_tradeable": false,
+      "lowalch": 30,
+      "highalch": 45,
+      "is_equip": true,
+      "is_weapon": false,
+      "icon_base64": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACpUlEQVR4XtWWv0scURSFZ8oppphOAoJF2CKFhKAIIgQWDBEUkiAiKGLAJkUgRYoUKSwCKQKBFIJg4Z/65HvDmblzZ8Zd9y1ZvHDZ3dmZe793zvsxWfY8Iw/9XFnk4Ws5Dd/K/fC9fBc/+b0iwBrmqtiLMD/Lw/CjPOiAfSnexvwPUC0MCciv8kO4Lo8aMJLvfbWWrlweRw3IWbETv9P8d/kp/KmOm/xbnTTqoJpUXLK1XZiTYisWppFPrnMPAJpnKCgVBaZ6l8XuIlB5Y4e1xacaCYaGXOM/1ENNLJbN/E/t1xsbMX3XRyJvCo0lkFIEKEZOjinJPSgpIN9xRuSdeWKTUVt1ZqlISj2sXxCIyMNNddZJgKw6KIIVWOYtFqDAUedj8SYN6L76HPO2Og//qtNGHQBowoiB1DWbAGluAc69h8VmChBRQ42p8754FRsAynXU0G5uV5fUmWaTdKC76mJUnb3sZWzAXiTrBKU9yKqj+5cKRCMmKA02sxexAZbKOoHoSLHqbGeAJALRDAWwS+rQBKD1rIoNtABknWC8OhpAEpAaafnSRCOmgaAELuuG1JlkaylAfRh7lDChGbWaWGvtxAeIexOBahg/L7S50QQbpJK1zT6j+z38E4G6hYf2E40aIK0cFLLbg59v3mLfdSRaGIp6IM0JGmjUPPPY5unnnBSaQ6UahompU9q+QgzZJaukjlajNknNuSEg330g8jhCiuoQFRDF7RLWDi0YqcNzWmV+U1xgH+oDSSVvV1u0Xu5WWXugCsjaO6ddivq1w6rj7bIw1ip/1lm7pOgTYRTtu68/j7pFa3VkldSUXRqEVXQBmDpsU5vdoq3Ffr5Zu/rPJYaK9Yu29gpIq8u/ri4NZna06tn9KuFlPj3ms3dFMW7vM48HUNXosIgfcx8AAAAASUVORK5CYII="
+    },
+    "relationships": {
+      "equip": {
+        "data": {
+          "id": "6f1a7748-558c-4586-b62b-8558758df002",
+          "type": "equip"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Ham_boots"
+    },
+    "meta": {
+      "incomplete": false
+    }
+  },
+  "included": [
+    {
+      "id": "6f1a7748-558c-4586-b62b-8558758df002",
+      "type": "equip",
+      "attributes": {
+        "slot": "boots",
+        "passive_effect": null,
+        "requirements": null
+      },
+      "relationships": {
+        "equip_stat": {
+          "data": {
+            "id": "8892c2fb-741c-4597-9cf2-538b70eb9d7b",
+            "type": "equip_stat"
+          }
+        }
+      }
+    },
+    {
+      "id": "8892c2fb-741c-4597-9cf2-538b70eb9d7b",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 0,
+        "slash_attack": 0,
+        "crush_attack": 0,
+        "ranged_attack": 0,
+        "magic_attack": 0,
+        "stab_defense": 0,
+        "slash_defense": 1,
+        "crush_defense": 1,
+        "ranged_defense": 0,
+        "magic_defense": 0,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

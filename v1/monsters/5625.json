@@ -1,0 +1,117 @@
+{
+  "data": {
+    "id": "5625",
+    "type": "monster",
+    "attributes": {
+      "uuid": "8d18e559-7323-4a64-98eb-39b6b4adf39d",
+      "name": "https://oldschool.runescape.wiki/w/Ghast#Level_79",
+      "members": true,
+      "release_date": "2004-07-13",
+      "examine": "Aaargh... a Ghast!",
+      "combat_level_override": 79,
+      "max_hit_override": null,
+      "target_types": [
+        "undead"
+      ],
+      "classification_types": [
+
+      ],
+      "poison": false,
+      "immune_poison": true,
+      "immune_venom": true,
+      "slayer_xp": null,
+      "slayer_level": null,
+      "slayer_masters": [
+
+      ],
+      "icon_base64": null
+    },
+    "relationships": {
+      "combat_stat": {
+        "data": {
+          "id": "14cd8b53-b00d-42e0-9c96-1cba10d2b6e9",
+          "type": "combat_stat"
+        }
+      },
+      "equip_stat": {
+        "data": {
+          "id": "8d1a4afd-f699-4933-868a-cc6d10f8f5f6",
+          "type": "equip_stat"
+        }
+      },
+      "attack_stat": {
+        "data": {
+          "id": "4e05230d-f556-4a28-9ce0-3eb977e97a06",
+          "type": "attack_stat"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Ghast#Level_79"
+    },
+    "meta": {
+      "incomplete": true
+    }
+  },
+  "included": [
+    {
+      "id": "4e05230d-f556-4a28-9ce0-3eb977e97a06",
+      "type": "attack_stat",
+      "attributes": {
+        "attack_speed": 4,
+        "attack_type": "monster",
+        "special": null,
+        "stances": [
+          {
+            "name": "Monster slash",
+            "style": null,
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": null,
+            "combat_accuracy_stat": "attack_level",
+            "combat_damage_stat": "strength_level",
+            "equip_accuracy_stat": "slash_attack",
+            "equip_damage_stat": "slash_attack",
+            "target_equip_defense_stat": "slash_defense"
+          }
+        ]
+      }
+    },
+    {
+      "id": "14cd8b53-b00d-42e0-9c96-1cba10d2b6e9",
+      "type": "monster_combat_stat",
+      "attributes": {
+        "hitpoints_level": 22,
+        "attack_level": 22,
+        "strength_level": 22,
+        "defense_level": 18,
+        "magic_level": 1,
+        "ranged_level": 1,
+        "prayer_level": 0
+      }
+    },
+    {
+      "id": "8d1a4afd-f699-4933-868a-cc6d10f8f5f6",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 0,
+        "slash_attack": 0,
+        "crush_attack": 0,
+        "ranged_attack": 0,
+        "magic_attack": 0,
+        "stab_defense": 0,
+        "slash_defense": 0,
+        "crush_defense": 0,
+        "ranged_defense": 0,
+        "magic_defense": 0,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

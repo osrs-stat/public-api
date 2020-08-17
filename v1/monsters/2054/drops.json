@@ -1,0 +1,676 @@
+{
+  "data": [
+    {
+      "id": "6685-2054",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Saradomin brew (4 dose)",
+        "monster_name": "Chaos Elemental"
+      }
+    },
+    {
+      "id": "11995-2054",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00333333333333333"
+      },
+      "meta": {
+        "item_name": "Pet chaos elemental",
+        "monster_name": "Chaos Elemental"
+      }
+    },
+    {
+      "id": "12073-2054",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.005"
+      },
+      "meta": {
+        "item_name": "Clue scroll (elite)",
+        "monster_name": "Chaos Elemental"
+      }
+    },
+    {
+      "id": "23083-2054",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0169491525423729"
+      },
+      "meta": {
+        "item_name": "Brimstone key",
+        "monster_name": "Chaos Elemental"
+      }
+    },
+    {
+      "id": "11941-2054",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Chaos Elemental"
+      }
+    },
+    {
+      "id": "5940-2054",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.078125"
+      },
+      "meta": {
+        "item_name": "Weapon poison(++)",
+        "monster_name": "Chaos Elemental"
+      }
+    },
+    {
+      "id": "464-2054",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.1015625"
+      },
+      "meta": {
+        "item_name": "Strange fruit",
+        "monster_name": "Chaos Elemental"
+      }
+    },
+    {
+      "id": "892-2054",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 150,
+        "quantity_max": null,
+        "rarity": "0.078125"
+      },
+      "meta": {
+        "item_name": "Rune arrow (Unpoisoned)",
+        "monster_name": "Chaos Elemental"
+      }
+    },
+    {
+      "id": "203-2054",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 4,
+        "rarity": "0.00439459991562368"
+      },
+      "meta": {
+        "item_name": "Grimy tarromin",
+        "monster_name": "Chaos Elemental"
+      }
+    },
+    {
+      "id": "205-2054",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 4,
+        "rarity": "0.00341791534507273"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Chaos Elemental"
+      }
+    },
+    {
+      "id": "207-2054",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 4,
+        "rarity": "0.00268470790378007"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Chaos Elemental"
+      }
+    },
+    {
+      "id": "209-2054",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 4,
+        "rarity": "0.001953125"
+      },
+      "meta": {
+        "item_name": "Grimy irit leaf",
+        "monster_name": "Chaos Elemental"
+      }
+    },
+    {
+      "id": "1215-2054",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0859375"
+      },
+      "meta": {
+        "item_name": "Dragon dagger (Unpoisoned)",
+        "monster_name": "Chaos Elemental"
+      }
+    },
+    {
+      "id": "211-2054",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 4,
+        "rarity": "0.00146507266760431"
+      },
+      "meta": {
+        "item_name": "Grimy avantoe",
+        "monster_name": "Chaos Elemental"
+      }
+    },
+    {
+      "id": "213-2054",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 4,
+        "rarity": "0.001220703125"
+      },
+      "meta": {
+        "item_name": "Grimy kwuarm",
+        "monster_name": "Chaos Elemental"
+      }
+    },
+    {
+      "id": "215-2054",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 4,
+        "rarity": "0.0009765625"
+      },
+      "meta": {
+        "item_name": "Grimy cadantine",
+        "monster_name": "Chaos Elemental"
+      }
+    },
+    {
+      "id": "2485-2054",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 4,
+        "rarity": "0.000732364659011015"
+      },
+      "meta": {
+        "item_name": "Grimy lantadyme",
+        "monster_name": "Chaos Elemental"
+      }
+    },
+    {
+      "id": "217-2054",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 4,
+        "rarity": "0.000732364659011015"
+      },
+      "meta": {
+        "item_name": "Grimy dwarf weed",
+        "monster_name": "Chaos Elemental"
+      }
+    },
+    {
+      "id": "23490-2054",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0172413793103448"
+      },
+      "meta": {
+        "item_name": "Larran's key",
+        "monster_name": "Chaos Elemental"
+      }
+    },
+    {
+      "id": "21257-2054",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00833333333333333"
+      },
+      "meta": {
+        "item_name": "Slayer's enchantment",
+        "monster_name": "Chaos Elemental"
+      }
+    },
+    {
+      "id": "565-2054",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 75,
+        "quantity_max": null,
+        "rarity": "0.078125"
+      },
+      "meta": {
+        "item_name": "Blood rune (Regular)",
+        "monster_name": "Chaos Elemental"
+      }
+    },
+    {
+      "id": "556-2054",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 500,
+        "quantity_max": null,
+        "rarity": "0.078125"
+      },
+      "meta": {
+        "item_name": "Air rune (Regular)",
+        "monster_name": "Chaos Elemental"
+      }
+    },
+    {
+      "id": "7158-2054",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Dragon 2h sword",
+        "monster_name": "Chaos Elemental"
+      }
+    },
+    {
+      "id": "2297-2054",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.1"
+      },
+      "meta": {
+        "item_name": "Anchovy pizza (Full)",
+        "monster_name": "Chaos Elemental"
+      }
+    },
+    {
+      "id": "534-2054",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.1"
+      },
+      "meta": {
+        "item_name": "Babydragon bones",
+        "monster_name": "Chaos Elemental"
+      }
+    },
+    {
+      "id": "530-2054",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.1"
+      },
+      "meta": {
+        "item_name": "Bat bones",
+        "monster_name": "Chaos Elemental"
+      }
+    },
+    {
+      "id": "532-2054",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.1"
+      },
+      "meta": {
+        "item_name": "Big bones",
+        "monster_name": "Chaos Elemental"
+      }
+    },
+    {
+      "id": "526-2054",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 4,
+        "quantity_max": null,
+        "rarity": "0.1"
+      },
+      "meta": {
+        "item_name": "Bones",
+        "monster_name": "Chaos Elemental"
+      }
+    },
+    {
+      "id": "536-2054",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.1"
+      },
+      "meta": {
+        "item_name": "Dragon bones",
+        "monster_name": "Chaos Elemental"
+      }
+    },
+    {
+      "id": "2436-2054",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.1"
+      },
+      "meta": {
+        "item_name": "Super attack (4 dose)",
+        "monster_name": "Chaos Elemental"
+      }
+    },
+    {
+      "id": "2442-2054",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.1"
+      },
+      "meta": {
+        "item_name": "Super defence (4 dose)",
+        "monster_name": "Chaos Elemental"
+      }
+    },
+    {
+      "id": "201-2054",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 4,
+        "rarity": "0.00585974123382711"
+      },
+      "meta": {
+        "item_name": "Grimy marrentill",
+        "monster_name": "Chaos Elemental"
+      }
+    },
+    {
+      "id": "361-2054",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.1"
+      },
+      "meta": {
+        "item_name": "Tuna",
+        "monster_name": "Chaos Elemental"
+      }
+    },
+    {
+      "id": "11920-2054",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00390625"
+      },
+      "meta": {
+        "item_name": "Dragon pickaxe",
+        "monster_name": "Chaos Elemental"
+      }
+    },
+    {
+      "id": "809-2054",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 300,
+        "quantity_max": null,
+        "rarity": "0.078125"
+      },
+      "meta": {
+        "item_name": "Mithril dart (Unpoisoned)",
+        "monster_name": "Chaos Elemental"
+      }
+    },
+    {
+      "id": "560-2054",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 125,
+        "quantity_max": null,
+        "rarity": "0.078125"
+      },
+      "meta": {
+        "item_name": "Death rune (Regular)",
+        "monster_name": "Chaos Elemental"
+      }
+    },
+    {
+      "id": "2440-2054",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.1"
+      },
+      "meta": {
+        "item_name": "Super strength (4 dose)",
+        "monster_name": "Chaos Elemental"
+      }
+    },
+    {
+      "id": "5952-2054",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.078125"
+      },
+      "meta": {
+        "item_name": "Antidote++ (4 dose)",
+        "monster_name": "Chaos Elemental"
+      }
+    },
+    {
+      "id": "199-2054",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 4,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Grimy guam leaf",
+        "monster_name": "Chaos Elemental"
+      }
+    },
+    {
+      "id": "6691-2054",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Saradomin brew (1 dose)",
+        "monster_name": "Chaos Elemental"
+      }
+    },
+    {
+      "id": "562-2054",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 250,
+        "quantity_max": null,
+        "rarity": "0.078125"
+      },
+      "meta": {
+        "item_name": "Chaos rune (Regular)",
+        "monster_name": "Chaos Elemental"
+      }
+    },
+    {
+      "id": "995-2054",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 7500,
+        "quantity_max": null,
+        "rarity": "0.0625"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Chaos Elemental"
+      }
+    }
+  ]
+}

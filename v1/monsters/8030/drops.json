@@ -1,0 +1,660 @@
+{
+  "data": [
+    {
+      "id": "215-8030",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00227272727272727"
+      },
+      "meta": {
+        "item_name": "Grimy cadantine",
+        "monster_name": "Adamant dragon"
+      }
+    },
+    {
+      "id": "536-8030",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Dragon bones",
+        "monster_name": "Adamant dragon"
+      }
+    },
+    {
+      "id": "2361-8030",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Adamantite bar",
+        "monster_name": "Adamant dragon"
+      }
+    },
+    {
+      "id": "1123-8030",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0818181818181818"
+      },
+      "meta": {
+        "item_name": "Adamant platebody",
+        "monster_name": "Adamant dragon"
+      }
+    },
+    {
+      "id": "1432-8030",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0636363636363636"
+      },
+      "meta": {
+        "item_name": "Rune mace",
+        "monster_name": "Adamant dragon"
+      }
+    },
+    {
+      "id": "1333-8030",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0636363636363636"
+      },
+      "meta": {
+        "item_name": "Rune scimitar",
+        "monster_name": "Adamant dragon"
+      }
+    },
+    {
+      "id": "1149-8030",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00909090909090909"
+      },
+      "meta": {
+        "item_name": "Dragon med helm",
+        "monster_name": "Adamant dragon"
+      }
+    },
+    {
+      "id": "4087-8030",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00909090909090909"
+      },
+      "meta": {
+        "item_name": "Dragon platelegs",
+        "monster_name": "Adamant dragon"
+      }
+    },
+    {
+      "id": "4585-8030",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00909090909090909"
+      },
+      "meta": {
+        "item_name": "Dragon plateskirt",
+        "monster_name": "Adamant dragon"
+      }
+    },
+    {
+      "id": "890-8030",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 30,
+        "quantity_max": 40,
+        "rarity": "0.0727272727272727"
+      },
+      "meta": {
+        "item_name": "Adamant arrow (Unpoisoned)",
+        "monster_name": "Adamant dragon"
+      }
+    },
+    {
+      "id": "21880-8030",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": 30,
+        "rarity": "0.0727272727272727"
+      },
+      "meta": {
+        "item_name": "Wrath rune",
+        "monster_name": "Adamant dragon"
+      }
+    },
+    {
+      "id": "562-8030",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 60,
+        "quantity_max": 120,
+        "rarity": "0.0636363636363636"
+      },
+      "meta": {
+        "item_name": "Chaos rune (Regular)",
+        "monster_name": "Adamant dragon"
+      }
+    },
+    {
+      "id": "560-8030",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 30,
+        "quantity_max": 60,
+        "rarity": "0.0636363636363636"
+      },
+      "meta": {
+        "item_name": "Death rune (Regular)",
+        "monster_name": "Adamant dragon"
+      }
+    },
+    {
+      "id": "19578-8030",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 40,
+        "quantity_max": 50,
+        "rarity": "0.0727272727272727"
+      },
+      "meta": {
+        "item_name": "Adamant javelin heads",
+        "monster_name": "Adamant dragon"
+      }
+    },
+    {
+      "id": "9380-8030",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 20,
+        "quantity_max": 40,
+        "rarity": "0.1"
+      },
+      "meta": {
+        "item_name": "Adamant bolts(unf)",
+        "monster_name": "Adamant dragon"
+      }
+    },
+    {
+      "id": "1601-8030",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.0636363636363636"
+      },
+      "meta": {
+        "item_name": "Diamond",
+        "monster_name": "Adamant dragon"
+      }
+    },
+    {
+      "id": "19582-8030",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 20,
+        "quantity_max": 30,
+        "rarity": "0.0636363636363636"
+      },
+      "meta": {
+        "item_name": "Dragon javelin heads",
+        "monster_name": "Adamant dragon"
+      }
+    },
+    {
+      "id": "449-8030",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 8,
+        "quantity_max": 20,
+        "rarity": "0.0545454545454545"
+      },
+      "meta": {
+        "item_name": "Adamantite ore",
+        "monster_name": "Adamant dragon"
+      }
+    },
+    {
+      "id": "2361-8030",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 5,
+        "quantity_max": 35,
+        "rarity": "0.0363636363636364"
+      },
+      "meta": {
+        "item_name": "Adamantite bar",
+        "monster_name": "Adamant dragon"
+      }
+    },
+    {
+      "id": "21930-8030",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 15,
+        "quantity_max": 20,
+        "rarity": "0.00909090909090909"
+      },
+      "meta": {
+        "item_name": "Dragon bolts (unf)",
+        "monster_name": "Adamant dragon"
+      }
+    },
+    {
+      "id": "22118-8030",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00909090909090909"
+      },
+      "meta": {
+        "item_name": "Wrath talisman",
+        "monster_name": "Adamant dragon"
+      }
+    },
+    {
+      "id": "23083-8030",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0190839694656489"
+      },
+      "meta": {
+        "item_name": "Brimstone key",
+        "monster_name": "Adamant dragon"
+      }
+    },
+    {
+      "id": "12073-8030",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.003125"
+      },
+      "meta": {
+        "item_name": "Clue scroll (elite)",
+        "monster_name": "Adamant dragon"
+      }
+    },
+    {
+      "id": "21918-8030",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.001"
+      },
+      "meta": {
+        "item_name": "Dragon limbs",
+        "monster_name": "Adamant dragon"
+      }
+    },
+    {
+      "id": "22100-8030",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0002"
+      },
+      "meta": {
+        "item_name": "Dragon metal slice",
+        "monster_name": "Adamant dragon"
+      }
+    },
+    {
+      "id": "11286-8030",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000111111111111111"
+      },
+      "meta": {
+        "item_name": "Draconic visage",
+        "monster_name": "Adamant dragon"
+      }
+    },
+    {
+      "id": "11286-8030",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000444444444444444"
+      },
+      "meta": {
+        "item_name": "Draconic visage",
+        "monster_name": "Adamant dragon"
+      }
+    },
+    {
+      "id": "199-8030",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0181818181818182"
+      },
+      "meta": {
+        "item_name": "Grimy guam leaf",
+        "monster_name": "Adamant dragon"
+      }
+    },
+    {
+      "id": "201-8030",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0136372159623613"
+      },
+      "meta": {
+        "item_name": "Grimy marrentill",
+        "monster_name": "Adamant dragon"
+      }
+    },
+    {
+      "id": "203-8030",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.010227432530906"
+      },
+      "meta": {
+        "item_name": "Grimy tarromin",
+        "monster_name": "Adamant dragon"
+      }
+    },
+    {
+      "id": "205-8030",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00795442116671472"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Adamant dragon"
+      }
+    },
+    {
+      "id": "207-8030",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00624804748516089"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Adamant dragon"
+      }
+    },
+    {
+      "id": "209-8030",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00454545454545455"
+      },
+      "meta": {
+        "item_name": "Grimy irit leaf",
+        "monster_name": "Adamant dragon"
+      }
+    },
+    {
+      "id": "211-8030",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00340962366278822"
+      },
+      "meta": {
+        "item_name": "Grimy avantoe",
+        "monster_name": "Adamant dragon"
+      }
+    },
+    {
+      "id": "213-8030",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00284090909090909"
+      },
+      "meta": {
+        "item_name": "Grimy kwuarm",
+        "monster_name": "Adamant dragon"
+      }
+    },
+    {
+      "id": "219-8030",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0136372159623613"
+      },
+      "meta": {
+        "item_name": "Grimy torstol",
+        "monster_name": "Adamant dragon"
+      }
+    },
+    {
+      "id": "207-8030",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0181818181818182"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Adamant dragon"
+      }
+    },
+    {
+      "id": "3051-8030",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0181818181818182"
+      },
+      "meta": {
+        "item_name": "Grimy snapdragon",
+        "monster_name": "Adamant dragon"
+      }
+    },
+    {
+      "id": "211-8030",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0227272727272727"
+      },
+      "meta": {
+        "item_name": "Grimy avantoe",
+        "monster_name": "Adamant dragon"
+      }
+    },
+    {
+      "id": "217-8030",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00170441229733472"
+      },
+      "meta": {
+        "item_name": "Grimy dwarf weed",
+        "monster_name": "Adamant dragon"
+      }
+    },
+    {
+      "id": "2485-8030",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00170441229733472"
+      },
+      "meta": {
+        "item_name": "Grimy lantadyme",
+        "monster_name": "Adamant dragon"
+      }
+    }
+  ]
+}

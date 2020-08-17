@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "id": "4119-406",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Bronze boots",
+        "monster_name": "Cave crawler"
+      }
+    },
+    {
+      "id": "4119-7389",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Bronze boots",
+        "monster_name": "Chasm Crawler"
+      }
+    }
+  ]
+}

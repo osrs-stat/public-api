@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "id": "6339-6409",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Tribal mask (blue)",
+        "monster_name": "Broodoo victim (Green)"
+      }
+    },
+    {
+      "id": "6335-6409",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Tribal mask (green)",
+        "monster_name": "Broodoo victim (Green)"
+      }
+    },
+    {
+      "id": "6337-6409",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Tribal mask (orange)",
+        "monster_name": "Broodoo victim (Green)"
+      }
+    }
+  ]
+}

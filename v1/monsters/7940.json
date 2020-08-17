@@ -1,0 +1,150 @@
+{
+  "data": {
+    "id": "7940",
+    "type": "monster",
+    "attributes": {
+      "uuid": "1a4abfab-5d1a-4b0b-8e14-9b0ef5fdad73",
+      "name": "Revenant dragon",
+      "members": true,
+      "release_date": "2017-11-23",
+      "examine": "The ghost of a dragon slain long ago.",
+      "combat_level_override": null,
+      "max_hit_override": 30,
+      "target_types": [
+        "undead"
+      ],
+      "classification_types": [
+        "revenant",
+        "ghost"
+      ],
+      "poison": false,
+      "immune_poison": false,
+      "immune_venom": false,
+      "slayer_xp": 186.0,
+      "slayer_level": 1,
+      "slayer_masters": [
+        "turael",
+        "krystilia",
+        "mazchna"
+      ],
+      "icon_base64": null
+    },
+    "relationships": {
+      "combat_stat": {
+        "data": {
+          "id": "b2e468ed-a9cf-489d-a489-a920971978a7",
+          "type": "combat_stat"
+        }
+      },
+      "equip_stat": {
+        "data": {
+          "id": "ba232262-d358-403c-961b-25afca669286",
+          "type": "equip_stat"
+        }
+      },
+      "attack_stat": {
+        "data": {
+          "id": "33ef5fea-3706-433c-9c32-956ba9fbff3c",
+          "type": "attack_stat"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Revenant_dragon"
+    },
+    "meta": {
+      "incomplete": true
+    }
+  },
+  "included": [
+    {
+      "id": "33ef5fea-3706-433c-9c32-956ba9fbff3c",
+      "type": "attack_stat",
+      "attributes": {
+        "attack_speed": 5,
+        "attack_type": "monster",
+        "special": null,
+        "stances": [
+          {
+            "name": "Monster slash",
+            "style": null,
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": null,
+            "combat_accuracy_stat": "attack_level",
+            "combat_damage_stat": "strength_level",
+            "equip_accuracy_stat": "slash_attack",
+            "equip_damage_stat": "slash_attack",
+            "target_equip_defense_stat": "slash_defense"
+          },
+          {
+            "name": "Monster ranged",
+            "style": null,
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": null,
+            "combat_accuracy_stat": "ranged_level",
+            "combat_damage_stat": "ranged_level",
+            "equip_accuracy_stat": "ranged_attack",
+            "equip_damage_stat": "ranged_attack",
+            "target_equip_defense_stat": "ranged_defense"
+          },
+          {
+            "name": "Monster magic",
+            "style": null,
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": null,
+            "combat_accuracy_stat": "magic_level",
+            "combat_damage_stat": "magic_level",
+            "equip_accuracy_stat": "magic_attack",
+            "equip_damage_stat": "magic_attack",
+            "target_equip_defense_stat": "magic_defense"
+          }
+        ]
+      }
+    },
+    {
+      "id": "b2e468ed-a9cf-489d-a489-a920971978a7",
+      "type": "monster_combat_stat",
+      "attributes": {
+        "hitpoints_level": 155,
+        "attack_level": 106,
+        "strength_level": 126,
+        "defense_level": 87,
+        "magic_level": 150,
+        "ranged_level": 151,
+        "prayer_level": 0
+      }
+    },
+    {
+      "id": "ba232262-d358-403c-961b-25afca669286",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 72,
+        "slash_attack": 72,
+        "crush_attack": 72,
+        "ranged_attack": 60,
+        "magic_attack": 61,
+        "stab_defense": 201,
+        "slash_defense": 206,
+        "crush_defense": 188,
+        "ranged_defense": 197,
+        "magic_defense": 101,
+        "melee_strength": 78,
+        "ranged_strength": 51,
+        "magic_bonus": 35,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

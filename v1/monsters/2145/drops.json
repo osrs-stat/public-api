@@ -1,0 +1,628 @@
+{
+  "data": [
+    {
+      "id": "23514-2145",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "forthos-dungeon-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.05"
+      },
+      "meta": {
+        "item_name": "Tattered temple page",
+        "monster_name": "Undead Druid"
+      }
+    },
+    {
+      "id": "6807-2145",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0002"
+      },
+      "meta": {
+        "item_name": "Zombie champion scroll",
+        "monster_name": "Undead Druid"
+      }
+    },
+    {
+      "id": "563-2145",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": 20,
+        "rarity": "0.02"
+      },
+      "meta": {
+        "item_name": "Law rune",
+        "monster_name": "Undead Druid"
+      }
+    },
+    {
+      "id": "4698-2145",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 30,
+        "quantity_max": 70,
+        "rarity": "0.03"
+      },
+      "meta": {
+        "item_name": "Mud rune",
+        "monster_name": "Undead Druid"
+      }
+    },
+    {
+      "id": "245-2145",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "forthos-dungeon-only",
+        "noted": true,
+        "quantity_min": 5,
+        "quantity_max": 8,
+        "rarity": "0.02"
+      },
+      "meta": {
+        "item_name": "Wine of zamorak",
+        "monster_name": "Undead Druid"
+      }
+    },
+    {
+      "id": "1729-2145",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.05"
+      },
+      "meta": {
+        "item_name": "Amulet of defence",
+        "monster_name": "Undead Druid"
+      }
+    },
+    {
+      "id": "1727-2145",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.05"
+      },
+      "meta": {
+        "item_name": "Amulet of magic",
+        "monster_name": "Undead Druid"
+      }
+    },
+    {
+      "id": "1725-2145",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.05"
+      },
+      "meta": {
+        "item_name": "Amulet of strength",
+        "monster_name": "Undead Druid"
+      }
+    },
+    {
+      "id": "23510-2145",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "forthos-dungeon-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.05"
+      },
+      "meta": {
+        "item_name": "Tattered moon page",
+        "monster_name": "Undead Druid"
+      }
+    },
+    {
+      "id": "23512-2145",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "forthos-dungeon-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.05"
+      },
+      "meta": {
+        "item_name": "Tattered sun page",
+        "monster_name": "Undead Druid"
+      }
+    },
+    {
+      "id": "561-2145",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 20,
+        "quantity_max": 30,
+        "rarity": "0.03"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Undead Druid"
+      }
+    },
+    {
+      "id": "560-2145",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 20,
+        "quantity_max": 30,
+        "rarity": "0.03"
+      },
+      "meta": {
+        "item_name": "Death rune (Regular)",
+        "monster_name": "Undead Druid"
+      }
+    },
+    {
+      "id": "23083-2145",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0101010101010101"
+      },
+      "meta": {
+        "item_name": "Brimstone key",
+        "monster_name": "Undead Druid"
+      }
+    },
+    {
+      "id": "564-2145",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 20,
+        "quantity_max": 30,
+        "rarity": "0.03"
+      },
+      "meta": {
+        "item_name": "Cosmic rune",
+        "monster_name": "Undead Druid"
+      }
+    },
+    {
+      "id": "2722-2145",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "forthos-dungeon-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.01"
+      },
+      "meta": {
+        "item_name": "Clue scroll (hard)",
+        "monster_name": "Undead Druid"
+      }
+    },
+    {
+      "id": "23499-2145",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "forthos-dungeon-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0133333333333333"
+      },
+      "meta": {
+        "item_name": "Grubby key",
+        "monster_name": "Undead Druid"
+      }
+    },
+    {
+      "id": "217-2145",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.00515584719943754"
+      },
+      "meta": {
+        "item_name": "Grimy dwarf weed",
+        "monster_name": "Undead Druid"
+      }
+    },
+    {
+      "id": "2485-2145",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.00515584719943754"
+      },
+      "meta": {
+        "item_name": "Grimy lantadyme",
+        "monster_name": "Undead Druid"
+      }
+    },
+    {
+      "id": "239-2145",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 10,
+        "quantity_max": 15,
+        "rarity": "0.02"
+      },
+      "meta": {
+        "item_name": "White berries",
+        "monster_name": "Undead Druid"
+      }
+    },
+    {
+      "id": "215-2145",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.006875"
+      },
+      "meta": {
+        "item_name": "Grimy cadantine",
+        "monster_name": "Undead Druid"
+      }
+    },
+    {
+      "id": "213-2145",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.00859375"
+      },
+      "meta": {
+        "item_name": "Grimy kwuarm",
+        "monster_name": "Undead Druid"
+      }
+    },
+    {
+      "id": "211-2145",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.0103141115799344"
+      },
+      "meta": {
+        "item_name": "Grimy avantoe",
+        "monster_name": "Undead Druid"
+      }
+    },
+    {
+      "id": "209-2145",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.01375"
+      },
+      "meta": {
+        "item_name": "Grimy irit leaf",
+        "monster_name": "Undead Druid"
+      }
+    },
+    {
+      "id": "207-2145",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.0189003436426117"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Undead Druid"
+      }
+    },
+    {
+      "id": "1397-2145",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.02"
+      },
+      "meta": {
+        "item_name": "Air battlestaff",
+        "monster_name": "Undead Druid"
+      }
+    },
+    {
+      "id": "205-2145",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.024062124029312"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Undead Druid"
+      }
+    },
+    {
+      "id": "203-2145",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.0309379834059907"
+      },
+      "meta": {
+        "item_name": "Grimy tarromin",
+        "monster_name": "Undead Druid"
+      }
+    },
+    {
+      "id": "201-2145",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.0412525782861429"
+      },
+      "meta": {
+        "item_name": "Grimy marrentill",
+        "monster_name": "Undead Druid"
+      }
+    },
+    {
+      "id": "199-2145",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.055"
+      },
+      "meta": {
+        "item_name": "Grimy guam leaf",
+        "monster_name": "Undead Druid"
+      }
+    },
+    {
+      "id": "1399-2145",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.02"
+      },
+      "meta": {
+        "item_name": "Earth battlestaff",
+        "monster_name": "Undead Druid"
+      }
+    },
+    {
+      "id": "23522-2145",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "forthos-dungeon-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.001"
+      },
+      "meta": {
+        "item_name": "Mask of ranul",
+        "monster_name": "Undead Druid"
+      }
+    },
+    {
+      "id": "556-2145",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 200,
+        "quantity_max": 300,
+        "rarity": "0.05"
+      },
+      "meta": {
+        "item_name": "Air rune (Regular)",
+        "monster_name": "Undead Druid"
+      }
+    },
+    {
+      "id": "557-2145",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 200,
+        "quantity_max": 300,
+        "rarity": "0.05"
+      },
+      "meta": {
+        "item_name": "Earth rune (Regular)",
+        "monster_name": "Undead Druid"
+      }
+    },
+    {
+      "id": "565-2145",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 20,
+        "quantity_max": 30,
+        "rarity": "0.03"
+      },
+      "meta": {
+        "item_name": "Blood rune (Regular)",
+        "monster_name": "Undead Druid"
+      }
+    },
+    {
+      "id": "562-2145",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 50,
+        "quantity_max": 80,
+        "rarity": "0.03"
+      },
+      "meta": {
+        "item_name": "Chaos rune (Regular)",
+        "monster_name": "Undead Druid"
+      }
+    },
+    {
+      "id": "526-2145",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Bones",
+        "monster_name": "Undead Druid"
+      }
+    },
+    {
+      "id": "221-2145",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 25,
+        "quantity_max": 30,
+        "rarity": "0.02"
+      },
+      "meta": {
+        "item_name": "Eye of newt",
+        "monster_name": "Undead Druid"
+      }
+    },
+    {
+      "id": "3138-2145",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 10,
+        "quantity_max": 15,
+        "rarity": "0.02"
+      },
+      "meta": {
+        "item_name": "Potato cactus",
+        "monster_name": "Undead Druid"
+      }
+    },
+    {
+      "id": "995-2145",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1000,
+        "quantity_max": 5000,
+        "rarity": "0.06"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Undead Druid"
+      }
+    }
+  ]
+}

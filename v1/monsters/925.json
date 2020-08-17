@@ -1,0 +1,120 @@
+{
+  "data": {
+    "id": "925",
+    "type": "monster",
+    "attributes": {
+      "uuid": "a64686c4-536b-40b0-93e6-835e5cf3d434",
+      "name": "Rock (Troll)",
+      "members": true,
+      "release_date": "2004-08-09",
+      "examine": "The biggest and baddest troll.",
+      "combat_level_override": null,
+      "max_hit_override": null,
+      "target_types": [
+
+      ],
+      "classification_types": [
+        "troll"
+      ],
+      "poison": false,
+      "immune_poison": false,
+      "immune_venom": false,
+      "slayer_xp": 150.5,
+      "slayer_level": 1,
+      "slayer_masters": [
+        "vannaka",
+        "chaeldar",
+        "nieve",
+        "duradel"
+      ],
+      "icon_base64": null
+    },
+    "relationships": {
+      "combat_stat": {
+        "data": {
+          "id": "ce65a6bc-2958-4d1d-9467-105023d295ee",
+          "type": "combat_stat"
+        }
+      },
+      "equip_stat": {
+        "data": {
+          "id": "16e623dc-7c94-4bb6-8662-fd89dc3ad688",
+          "type": "equip_stat"
+        }
+      },
+      "attack_stat": {
+        "data": {
+          "id": "74178bfe-75cb-4b34-a913-2abb354845d6",
+          "type": "attack_stat"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Rock_(Troll)"
+    },
+    "meta": {
+      "incomplete": true
+    }
+  },
+  "included": [
+    {
+      "id": "74178bfe-75cb-4b34-a913-2abb354845d6",
+      "type": "attack_stat",
+      "attributes": {
+        "attack_speed": 4,
+        "attack_type": "monster",
+        "special": null,
+        "stances": [
+          {
+            "name": "Monster slash",
+            "style": null,
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": null,
+            "combat_accuracy_stat": "attack_level",
+            "combat_damage_stat": "strength_level",
+            "equip_accuracy_stat": "slash_attack",
+            "equip_damage_stat": "slash_attack",
+            "target_equip_defense_stat": "slash_defense"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ce65a6bc-2958-4d1d-9467-105023d295ee",
+      "type": "monster_combat_stat",
+      "attributes": {
+        "hitpoints_level": 140,
+        "attack_level": 70,
+        "strength_level": 110,
+        "defense_level": 70,
+        "magic_level": 0,
+        "ranged_level": 0,
+        "prayer_level": 0
+      }
+    },
+    {
+      "id": "16e623dc-7c94-4bb6-8662-fd89dc3ad688",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 60,
+        "slash_attack": 60,
+        "crush_attack": 60,
+        "ranged_attack": 0,
+        "magic_attack": 0,
+        "stab_defense": 35,
+        "slash_defense": 60,
+        "crush_defense": 35,
+        "ranged_defense": 200,
+        "magic_defense": 200,
+        "melee_strength": 100,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

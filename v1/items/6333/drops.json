@@ -1,0 +1,228 @@
+{
+  "data": [
+    {
+      "id": "6333-6076",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Teak logs",
+        "monster_name": "Tortoise (With riders)"
+      }
+    },
+    {
+      "id": "6333-1042",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.0697674418604651"
+      },
+      "meta": {
+        "item_name": "Teak logs",
+        "monster_name": "Jungle horror"
+      }
+    },
+    {
+      "id": "6333-1047",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 4,
+        "quantity_max": null,
+        "rarity": "0.0546875"
+      },
+      "meta": {
+        "item_name": "Teak logs",
+        "monster_name": "Cave horror"
+      }
+    },
+    {
+      "id": "6333-6075",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Teak logs",
+        "monster_name": "Tortoise (No riders)"
+      }
+    },
+    {
+      "id": "6333-6075",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Teak logs",
+        "monster_name": "Tortoise (No riders)"
+      }
+    },
+    {
+      "id": "6333-6075",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Teak logs",
+        "monster_name": "Tortoise (No riders)"
+      }
+    },
+    {
+      "id": "6333-6075",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 4,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Teak logs",
+        "monster_name": "Tortoise (No riders)"
+      }
+    },
+    {
+      "id": "6333-6076",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Teak logs",
+        "monster_name": "Tortoise (With riders)"
+      }
+    },
+    {
+      "id": "6333-6076",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Teak logs",
+        "monster_name": "Tortoise (With riders)"
+      }
+    },
+    {
+      "id": "6333-6076",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 4,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Teak logs",
+        "monster_name": "Tortoise (With riders)"
+      }
+    },
+    {
+      "id": "6333-7401",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 4,
+        "quantity_max": null,
+        "rarity": "0.0546875"
+      },
+      "meta": {
+        "item_name": "Teak logs",
+        "monster_name": "Cave abomination"
+      }
+    },
+    {
+      "id": "6333-7792",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 35,
+        "quantity_max": null,
+        "rarity": "0.0487804878048781"
+      },
+      "meta": {
+        "item_name": "Teak logs",
+        "monster_name": "Long-tailed Wyvern"
+      }
+    },
+    {
+      "id": "6333-7793",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 35,
+        "quantity_max": null,
+        "rarity": "0.0487804878048781"
+      },
+      "meta": {
+        "item_name": "Teak logs",
+        "monster_name": "Taloned Wyvern"
+      }
+    },
+    {
+      "id": "6333-7794",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 35,
+        "quantity_max": null,
+        "rarity": "0.0487804878048781"
+      },
+      "meta": {
+        "item_name": "Teak logs",
+        "monster_name": "Spitting Wyvern"
+      }
+    }
+  ]
+}

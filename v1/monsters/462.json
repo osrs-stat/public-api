@@ -1,0 +1,120 @@
+{
+  "data": {
+    "id": "462",
+    "type": "monster",
+    "attributes": {
+      "uuid": "e9bfc1dc-0e22-40fa-96fb-7ad88d60120e",
+      "name": "Small Lizard",
+      "members": true,
+      "release_date": "2005-10-24",
+      "examine": "A small cold-blooded creature, partial to warmth.",
+      "combat_level_override": null,
+      "max_hit_override": null,
+      "target_types": [
+
+      ],
+      "classification_types": [
+        "lizards"
+      ],
+      "poison": false,
+      "immune_poison": false,
+      "immune_venom": false,
+      "slayer_xp": 15.0,
+      "slayer_level": 22,
+      "slayer_masters": [
+        "turael",
+        "mazchna",
+        "vannaka",
+        "chaeldar"
+      ],
+      "icon_base64": null
+    },
+    "relationships": {
+      "combat_stat": {
+        "data": {
+          "id": "af45460e-5da8-4e0e-92a2-7659619c1a1c",
+          "type": "combat_stat"
+        }
+      },
+      "equip_stat": {
+        "data": {
+          "id": "2a3e345b-fd55-4579-87c5-3055436cefc5",
+          "type": "equip_stat"
+        }
+      },
+      "attack_stat": {
+        "data": {
+          "id": "9d4d7303-1891-4546-9b70-d5f950e227b7",
+          "type": "attack_stat"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Small_Lizard"
+    },
+    "meta": {
+      "incomplete": true
+    }
+  },
+  "included": [
+    {
+      "id": "9d4d7303-1891-4546-9b70-d5f950e227b7",
+      "type": "attack_stat",
+      "attributes": {
+        "attack_speed": 4,
+        "attack_type": "monster",
+        "special": null,
+        "stances": [
+          {
+            "name": "Monster melee",
+            "style": null,
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": null,
+            "combat_accuracy_stat": "attack_level",
+            "combat_damage_stat": "strength_level",
+            "equip_accuracy_stat": "crush_attack",
+            "equip_damage_stat": "crush_attack",
+            "target_equip_defense_stat": "crush_defense"
+          }
+        ]
+      }
+    },
+    {
+      "id": "af45460e-5da8-4e0e-92a2-7659619c1a1c",
+      "type": "monster_combat_stat",
+      "attributes": {
+        "hitpoints_level": 15,
+        "attack_level": 10,
+        "strength_level": 10,
+        "defense_level": 10,
+        "magic_level": 1,
+        "ranged_level": 1,
+        "prayer_level": 0
+      }
+    },
+    {
+      "id": "2a3e345b-fd55-4579-87c5-3055436cefc5",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 0,
+        "slash_attack": 0,
+        "crush_attack": 0,
+        "ranged_attack": 0,
+        "magic_attack": 0,
+        "stab_defense": 0,
+        "slash_defense": 5,
+        "crush_defense": 5,
+        "ranged_defense": 0,
+        "magic_defense": 0,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

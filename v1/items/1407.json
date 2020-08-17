@@ -1,0 +1,170 @@
+{
+  "data": {
+    "id": "1407",
+    "type": "item",
+    "attributes": {
+      "uuid": "8e232076-fb37-4c61-b05b-18cc4be774db",
+      "name": "Mystic earth staff",
+      "members": true,
+      "release_date": "2002-03-25",
+      "examine": "It's a slightly magical stick.",
+      "tradeable": false,
+      "ge_tradeable": false,
+      "lowalch": 17000,
+      "highalch": 25500,
+      "is_equip": true,
+      "is_weapon": true,
+      "icon_base64": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABfElEQVR4Xu2Wv0vDUBDHe2OGDBm6dOpQxElEBFEoCoLUIKWKttAfErVaVKq1BG1R1MFSrKJ0qCgFlSKo+Ed+5b2QtMlu7g1+4Kbc8OHu3l0ikX9YIAyDHcJRJomrYgrdgzVuKUJqehwVcw4ty8RTdQPf5xanFGF+IoHy8iza2yt4Oc7io1HCZ3OTS4owlYhha2kGnXJaCg1Oi3i3C1KMQYowFouiYll4bLWk0Gs974X4PhmPhy/1XDfQ69xKof5JDvd7GU8mZCFCbV2XQv6nzyIjIDwcGp6QKxGyzLAKZVPDoOmXCWb/MQQ7p6NvG+hWDbR3dV6Z7IImRb4uozJ+rqOeUDA7BAgXJR1vZ/4BZqqOgNCrsQ7vKISbHd03wMGMkHGWH3OLRiE5xMpUh3nXjEJy5ygjE3xVwYwQcW6UMjJiASoyxIT9tKZKdQirSY37YLo4h1NsY3E8mVvlyIi5uauwt4pQWNTQyOvqVMdKOUIKVMdFiX8bP64Ih8wvbpIpcbBIwkwAAAAASUVORK5CYII="
+    },
+    "relationships": {
+      "equip": {
+        "data": {
+          "id": "6218740e-69ec-4265-a195-7a0cefedf8e4",
+          "type": "equip"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Mystic_earth_staff"
+    },
+    "meta": {
+      "incomplete": false
+    }
+  },
+  "included": [
+    {
+      "id": "6218740e-69ec-4265-a195-7a0cefedf8e4",
+      "type": "equip",
+      "attributes": {
+        "slot": "weapon",
+        "passive_effect": null,
+        "requirements": {
+          "magic_level": 40,
+          "attack_level": 40
+        }
+      },
+      "relationships": {
+        "equip_stat": {
+          "data": {
+            "id": "75b0eae4-e682-4eba-8999-1a828d49ee59",
+            "type": "equip_stat"
+          }
+        },
+        "attack_stat": {
+          "data": {
+            "id": "99058268-8a06-4a1c-9d94-dd4ca794b226",
+            "type": "attack_stat"
+          }
+        }
+      }
+    },
+    {
+      "id": "99058268-8a06-4a1c-9d94-dd4ca794b226",
+      "type": "attack_stat",
+      "attributes": {
+        "attack_speed": 5,
+        "attack_type": "staff",
+        "special": null,
+        "stances": [
+          {
+            "name": "bash",
+            "style": "accurate",
+            "boosts": {
+              "accuracy": 3
+            },
+            "experience": {
+              "hitpoints": 1.3333,
+              "attack": 4
+            },
+            "combat_accuracy_stat": "attack_level",
+            "combat_damage_stat": "strength_level",
+            "equip_accuracy_stat": "crush_attack",
+            "equip_damage_stat": "crush_attack",
+            "target_equip_defense_stat": "crush_defense"
+          },
+          {
+            "name": "pound",
+            "style": "aggressive",
+            "boosts": {
+              "damage": 3
+            },
+            "experience": {
+              "hitpoints": 1.3333,
+              "strength": 4
+            },
+            "combat_accuracy_stat": "attack_level",
+            "combat_damage_stat": "strength_level",
+            "equip_accuracy_stat": "crush_attack",
+            "equip_damage_stat": "crush_attack",
+            "target_equip_defense_stat": "crush_defense"
+          },
+          {
+            "name": "focus",
+            "style": "defensive",
+            "boosts": {
+              "defense": 3
+            },
+            "experience": {
+              "hitpoints": 1.3333,
+              "defense": 4
+            },
+            "combat_accuracy_stat": "attack_level",
+            "combat_damage_stat": "strength_level",
+            "equip_accuracy_stat": "crush_attack",
+            "equip_damage_stat": "crush_attack",
+            "target_equip_defense_stat": "crush_defense"
+          },
+          {
+            "name": "spell",
+            "style": "magic",
+            "boosts": null,
+            "experience": {
+              "hitpoints": 1.3333,
+              "magic": 2
+            },
+            "combat_accuracy_stat": "magic_level",
+            "combat_damage_stat": "magic_level",
+            "equip_accuracy_stat": "magic_attack",
+            "equip_damage_stat": "magic_attack",
+            "target_equip_defense_stat": "magic_defense"
+          },
+          {
+            "name": "spell (defensive)",
+            "style": "magic",
+            "boosts": null,
+            "experience": {
+              "hitpoints": 1.3333,
+              "magic": 1.3333,
+              "defense": 1
+            },
+            "combat_accuracy_stat": "magic_level",
+            "combat_damage_stat": "magic_level",
+            "equip_accuracy_stat": "magic_attack",
+            "equip_damage_stat": "magic_attack",
+            "target_equip_defense_stat": "magic_defense"
+          }
+        ]
+      }
+    },
+    {
+      "id": "75b0eae4-e682-4eba-8999-1a828d49ee59",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 10,
+        "slash_attack": -1,
+        "crush_attack": 40,
+        "ranged_attack": 0,
+        "magic_attack": 10,
+        "stab_defense": 2,
+        "slash_defense": 3,
+        "crush_defense": 1,
+        "ranged_defense": 0,
+        "magic_defense": 10,
+        "melee_strength": 50,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

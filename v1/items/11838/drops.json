@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "11838-2205",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078740157480315"
+      },
+      "meta": {
+        "item_name": "Saradomin sword",
+        "monster_name": "Commander Zilyana"
+      }
+    },
+    {
+      "id": "11838-2206",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000186000372000744"
+      },
+      "meta": {
+        "item_name": "Saradomin sword",
+        "monster_name": "Starlight"
+      }
+    },
+    {
+      "id": "11838-2207",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000186000372000744"
+      },
+      "meta": {
+        "item_name": "Saradomin sword",
+        "monster_name": "Growler"
+      }
+    },
+    {
+      "id": "11838-2208",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000186000372000744"
+      },
+      "meta": {
+        "item_name": "Saradomin sword",
+        "monster_name": "Bree"
+      }
+    }
+  ]
+}

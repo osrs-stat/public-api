@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "id": "7860-3544",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.25"
+      },
+      "meta": {
+        "item_name": "Snake spine (Unpolished)",
+        "monster_name": "Desert snake"
+      }
+    },
+    {
+      "id": "526-3544",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Bones",
+        "monster_name": "Desert snake"
+      }
+    }
+  ]
+}

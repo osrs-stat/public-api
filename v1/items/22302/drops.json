@@ -1,0 +1,180 @@
+{
+  "data": [
+    {
+      "id": "22302-7931",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000034106412005457"
+      },
+      "meta": {
+        "item_name": "Ancient effigy",
+        "monster_name": "Revenant goblin"
+      }
+    },
+    {
+      "id": "22302-7939",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000125"
+      },
+      "meta": {
+        "item_name": "Ancient effigy",
+        "monster_name": "Revenant knight"
+      }
+    },
+    {
+      "id": "22302-7932",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0000796178343949045"
+      },
+      "meta": {
+        "item_name": "Ancient effigy",
+        "monster_name": "Revenant pyrefiend"
+      }
+    },
+    {
+      "id": "22302-7881",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0000227272727272727"
+      },
+      "meta": {
+        "item_name": "Ancient effigy",
+        "monster_name": "Revenant imp"
+      }
+    },
+    {
+      "id": "22302-7935",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000102459016393443"
+      },
+      "meta": {
+        "item_name": "Ancient effigy",
+        "monster_name": "Revenant hellhound"
+      }
+    },
+    {
+      "id": "22302-7938",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000113636363636364"
+      },
+      "meta": {
+        "item_name": "Ancient effigy",
+        "monster_name": "Revenant dark beast"
+      }
+    },
+    {
+      "id": "22302-7933",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0000796178343949045"
+      },
+      "meta": {
+        "item_name": "Ancient effigy",
+        "monster_name": "Revenant hobgoblin"
+      }
+    },
+    {
+      "id": "22302-7934",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000102459016393443"
+      },
+      "meta": {
+        "item_name": "Ancient effigy",
+        "monster_name": "Revenant cyclops"
+      }
+    },
+    {
+      "id": "22302-7940",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000125"
+      },
+      "meta": {
+        "item_name": "Ancient effigy",
+        "monster_name": "Revenant dragon"
+      }
+    },
+    {
+      "id": "22302-7937",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000113636363636364"
+      },
+      "meta": {
+        "item_name": "Ancient effigy",
+        "monster_name": "Revenant ork"
+      }
+    },
+    {
+      "id": "22302-7936",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000102459016393443"
+      },
+      "meta": {
+        "item_name": "Ancient effigy",
+        "monster_name": "Revenant demon"
+      }
+    }
+  ]
+}

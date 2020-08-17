@@ -1,0 +1,100 @@
+{
+  "data": [
+    {
+      "id": "11232-8060",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": 50,
+        "rarity": "0.04"
+      },
+      "meta": {
+        "item_name": "Dragon dart tip",
+        "monster_name": "Vorkath (Dragon Slayer II)"
+      }
+    },
+    {
+      "id": "11232-239",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": 14,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Dragon dart tip",
+        "monster_name": "King Black Dragon"
+      }
+    },
+    {
+      "id": "11232-7275",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 40,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Dragon dart tip",
+        "monster_name": "Brutal black dragon"
+      }
+    },
+    {
+      "id": "11232-7273",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Dragon dart tip",
+        "monster_name": "Brutal blue dragon"
+      }
+    },
+    {
+      "id": "11232-8061",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": 50,
+        "rarity": "0.04"
+      },
+      "meta": {
+        "item_name": "Dragon dart tip",
+        "monster_name": "Vorkath (Post-quest)"
+      }
+    },
+    {
+      "id": "11232-7274",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 8,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Dragon dart tip",
+        "monster_name": "Brutal red dragon"
+      }
+    }
+  ]
+}

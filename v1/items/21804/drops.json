@@ -1,0 +1,180 @@
+{
+  "data": [
+    {
+      "id": "21804-7937",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000340909090909091"
+      },
+      "meta": {
+        "item_name": "Ancient crystal",
+        "monster_name": "Revenant ork"
+      }
+    },
+    {
+      "id": "21804-7939",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000375"
+      },
+      "meta": {
+        "item_name": "Ancient crystal",
+        "monster_name": "Revenant knight"
+      }
+    },
+    {
+      "id": "21804-7940",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000375"
+      },
+      "meta": {
+        "item_name": "Ancient crystal",
+        "monster_name": "Revenant dragon"
+      }
+    },
+    {
+      "id": "21804-7931",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000102319236016371"
+      },
+      "meta": {
+        "item_name": "Ancient crystal",
+        "monster_name": "Revenant goblin"
+      }
+    },
+    {
+      "id": "21804-7881",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0000681818181818182"
+      },
+      "meta": {
+        "item_name": "Ancient crystal",
+        "monster_name": "Revenant imp"
+      }
+    },
+    {
+      "id": "21804-7938",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000340909090909091"
+      },
+      "meta": {
+        "item_name": "Ancient crystal",
+        "monster_name": "Revenant dark beast"
+      }
+    },
+    {
+      "id": "21804-7936",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000307377049180328"
+      },
+      "meta": {
+        "item_name": "Ancient crystal",
+        "monster_name": "Revenant demon"
+      }
+    },
+    {
+      "id": "21804-7935",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000307377049180328"
+      },
+      "meta": {
+        "item_name": "Ancient crystal",
+        "monster_name": "Revenant hellhound"
+      }
+    },
+    {
+      "id": "21804-7934",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000307377049180328"
+      },
+      "meta": {
+        "item_name": "Ancient crystal",
+        "monster_name": "Revenant cyclops"
+      }
+    },
+    {
+      "id": "21804-7933",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000238853503184713"
+      },
+      "meta": {
+        "item_name": "Ancient crystal",
+        "monster_name": "Revenant hobgoblin"
+      }
+    },
+    {
+      "id": "21804-7932",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000238853503184713"
+      },
+      "meta": {
+        "item_name": "Ancient crystal",
+        "monster_name": "Revenant pyrefiend"
+      }
+    }
+  ]
+}

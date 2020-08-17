@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "23490-3016",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00298329355608592"
+      },
+      "meta": {
+        "item_name": "Larran's key",
+        "monster_name": "Shadow spider"
+      }
+    },
+    {
+      "id": "11941-3016",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Shadow spider"
+      }
+    },
+    {
+      "id": "23182-3016",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Clue scroll (beginner)",
+        "monster_name": "Shadow spider"
+      }
+    },
+    {
+      "id": "21257-3016",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0036231884057971"
+      },
+      "meta": {
+        "item_name": "Slayer's enchantment",
+        "monster_name": "Shadow spider"
+      }
+    }
+  ]
+}

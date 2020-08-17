@@ -1,0 +1,20 @@
+{
+  "data": [
+    {
+      "id": "464-2054",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.1015625"
+      },
+      "meta": {
+        "item_name": "Strange fruit",
+        "monster_name": "Chaos Elemental"
+      }
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "data": [
+    {
+      "id": "21555-7804",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": 14,
+        "rarity": "0.257142857142857"
+      },
+      "meta": {
+        "item_name": "Numulite",
+        "monster_name": "Tar Monster"
+      }
+    },
+    {
+      "id": "21562-7804",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0142857142857143"
+      },
+      "meta": {
+        "item_name": "Unidentified small fossil",
+        "monster_name": "Tar Monster"
+      }
+    },
+    {
+      "id": "21564-7804",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00714285714285714"
+      },
+      "meta": {
+        "item_name": "Unidentified medium fossil",
+        "monster_name": "Tar Monster"
+      }
+    },
+    {
+      "id": "21566-7804",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00571428571428571"
+      },
+      "meta": {
+        "item_name": "Unidentified large fossil",
+        "monster_name": "Tar Monster"
+      }
+    },
+    {
+      "id": "21568-7804",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00142857142857143"
+      },
+      "meta": {
+        "item_name": "Unidentified rare fossil",
+        "monster_name": "Tar Monster"
+      }
+    },
+    {
+      "id": "526-7804",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Bones",
+        "monster_name": "Tar Monster"
+      }
+    }
+  ]
+}

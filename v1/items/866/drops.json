@@ -1,0 +1,20 @@
+{
+  "data": [
+    {
+      "id": "866-2265",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 25,
+        "quantity_max": 50,
+        "rarity": "0.078125"
+      },
+      "meta": {
+        "item_name": "Mithril knife (Unpoisoned)",
+        "monster_name": "Dagannoth Supreme"
+      }
+    }
+  ]
+}

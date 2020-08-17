@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "id": "526-8997",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Bones",
+        "monster_name": "Disciple of Iban"
+      }
+    },
+    {
+      "id": "1035-8997",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Zamorak monk top",
+        "monster_name": "Disciple of Iban"
+      }
+    },
+    {
+      "id": "1033-8997",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Zamorak monk bottom",
+        "monster_name": "Disciple of Iban"
+      }
+    }
+  ]
+}

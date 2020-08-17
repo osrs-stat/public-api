@@ -1,0 +1,76 @@
+{
+  "data": {
+    "id": "12829",
+    "type": "item",
+    "attributes": {
+      "uuid": "70b6e2c5-c7f0-4be7-980d-4d265aa04cf0",
+      "name": "Spirit shield",
+      "members": true,
+      "release_date": "2014-10-16",
+      "examine": "An ethereal shield.",
+      "tradeable": false,
+      "ge_tradeable": false,
+      "lowalch": 28000,
+      "highalch": 42000,
+      "is_equip": true,
+      "is_weapon": false,
+      "icon_base64": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACuElEQVR4Xs2XW3PaMBCFo3+S98x0CPerzSVQBkJICSVQUkpJGWibTpvH/vqNzqprhKBpC7bTM6OxR5blz7tnJfvkJFYpGg8GhKN75R+Em+12qBRNh8MAKHF6eshcij5MxrSczejrp3v6sV4fCGbmAZDAHAw06F3yRPN3E1pMp/T549wB+3O7v7tjoCNhIEUXvk/r+ZzedLvcJjc3DLfSfd9XK3pYLjl6XxYLhnXbN329lMuFASPafttmrUqXrRZHDn6olsvU8DxqVn3KZ9JUzGYZoFLIk1csklcobAG5sx8keTMzoQHrNJvkl0r80Mz5+S6MBsGxnM+HBfSceY23AJRKJCibTG7B2CDSjgRS7JOfj497oBSnDOnCQ9MaKJdKBjDos1tI/lH0tt9nw8KUtofkGlJV0WmBd7o6fZImaRIpRO7I6ECKRtfXNLsdcbmi3LEWDa963I9KE/+0tMkRBZyjT/rF0CFEB1IMgbe/8D2qVypcTfIwREYA2o2GAdJ9NT2mqvvQcK2QyYQRHcikBW+/DwpNrgkQ/ALImh4HMADC8CEAKZ6s3+mwsZEypA4NUIDBugMgAApM4CENhXEhmRlS/CCsytgy4Bl4B2WOqME/iNjrep2PAmSXOIwckpkhxWFHhABgVxfSg5J/P0LEboN02RWFBRLLQEjREW0gZFIz8abs4Q+BQZpwDhNHAGO0DWJLf0qMxxwJSY8cI4N5XmYfEyBEhdOUTvGeFpJv/laKvYVIAMBOE/azF4kOqg8wgGAYfQ4Y7GmxR6fXbgfpkbavANw7I5LZTmwgGyJ2GHxu/A7GHR2xLN/8DzDy17EPyB0doYxJsYchVVzmvxa9mKNjHohqkr8K7PKvzs52DOzeGYE2myc8426sMYJASn9O1HhLwErsQsQMA5noIFUuiDsyRr1Ianb0BIICxCWJG4YtAAAAAElFTkSuQmCC"
+    },
+    "relationships": {
+      "equip": {
+        "data": {
+          "id": "3faea666-5525-4e83-aaa9-ad5cba7bf4aa",
+          "type": "equip"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Spirit_shield"
+    },
+    "meta": {
+      "incomplete": false
+    }
+  },
+  "included": [
+    {
+      "id": "3faea666-5525-4e83-aaa9-ad5cba7bf4aa",
+      "type": "equip",
+      "attributes": {
+        "slot": "shield",
+        "passive_effect": null,
+        "requirements": {
+          "prayer_level": 55,
+          "defense_level": 45
+        }
+      },
+      "relationships": {
+        "equip_stat": {
+          "data": {
+            "id": "dfe7d67f-19bf-45c1-8b31-db948f48720a",
+            "type": "equip_stat"
+          }
+        }
+      }
+    },
+    {
+      "id": "dfe7d67f-19bf-45c1-8b31-db948f48720a",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 0,
+        "slash_attack": 0,
+        "crush_attack": 0,
+        "ranged_attack": 0,
+        "magic_attack": 0,
+        "stab_defense": 39,
+        "slash_defense": 41,
+        "crush_defense": 50,
+        "ranged_defense": 45,
+        "magic_defense": 1,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 1
+      }
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "id": "11941-2827",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0666666666666667"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Bat"
+      }
+    },
+    {
+      "id": "530-2827",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Bat bones",
+        "monster_name": "Bat"
+      }
+    },
+    {
+      "id": "7833-2827",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.25"
+      },
+      "meta": {
+        "item_name": "Bat wing (Unpolished)",
+        "monster_name": "Bat"
+      }
+    }
+  ]
+}

@@ -1,0 +1,756 @@
+{
+  "data": [
+    {
+      "id": "207-3114",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00738294673539519"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Farmer"
+      }
+    },
+    {
+      "id": "205-3114",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00939926719895002"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Farmer"
+      }
+    },
+    {
+      "id": "203-3114",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0120851497679651"
+      },
+      "meta": {
+        "item_name": "Grimy tarromin",
+        "monster_name": "Farmer"
+      }
+    },
+    {
+      "id": "201-3114",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0161142883930246"
+      },
+      "meta": {
+        "item_name": "Grimy marrentill",
+        "monster_name": "Farmer"
+      }
+    },
+    {
+      "id": "199-3114",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.021484375"
+      },
+      "meta": {
+        "item_name": "Grimy guam leaf",
+        "monster_name": "Farmer"
+      }
+    },
+    {
+      "id": "5318-3114",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Potato seed",
+        "monster_name": "Farmer"
+      }
+    },
+    {
+      "id": "2677-3114",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Clue scroll (easy)",
+        "monster_name": "Farmer"
+      }
+    },
+    {
+      "id": "23182-3114",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0111111111111111"
+      },
+      "meta": {
+        "item_name": "Clue scroll (beginner)",
+        "monster_name": "Farmer"
+      }
+    },
+    {
+      "id": "5340-3114",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Watering can (8)",
+        "monster_name": "Farmer"
+      }
+    },
+    {
+      "id": "5329-3114",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Secateurs",
+        "monster_name": "Farmer"
+      }
+    },
+    {
+      "id": "5343-3114",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Seed dibber",
+        "monster_name": "Farmer"
+      }
+    },
+    {
+      "id": "5345-3114",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Gardening boots",
+        "monster_name": "Farmer"
+      }
+    },
+    {
+      "id": "1440-3114",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Earth talisman",
+        "monster_name": "Farmer"
+      }
+    },
+    {
+      "id": "5341-3114",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Rake",
+        "monster_name": "Farmer"
+      }
+    },
+    {
+      "id": "313-3114",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Farmer"
+      }
+    },
+    {
+      "id": "562-3114",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Chaos rune (Regular)",
+        "monster_name": "Farmer"
+      }
+    },
+    {
+      "id": "558-3114",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 9,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Mind rune",
+        "monster_name": "Farmer"
+      }
+    },
+    {
+      "id": "554-3114",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 6,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Fire rune (Regular)",
+        "monster_name": "Farmer"
+      }
+    },
+    {
+      "id": "557-3114",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 4,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Earth rune (Regular)",
+        "monster_name": "Farmer"
+      }
+    },
+    {
+      "id": "526-3114",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Bones",
+        "monster_name": "Farmer"
+      }
+    },
+    {
+      "id": "23182-3114",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0111111111111111"
+      },
+      "meta": {
+        "item_name": "Clue scroll (beginner)",
+        "monster_name": "Farmer"
+      }
+    },
+    {
+      "id": "1965-3114",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Cabbage",
+        "monster_name": "Farmer"
+      }
+    },
+    {
+      "id": "1440-3114",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Earth talisman",
+        "monster_name": "Farmer"
+      }
+    },
+    {
+      "id": "436-3114",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Copper ore",
+        "monster_name": "Farmer"
+      }
+    },
+    {
+      "id": "313-3114",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Farmer"
+      }
+    },
+    {
+      "id": "562-3114",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Chaos rune (Regular)",
+        "monster_name": "Farmer"
+      }
+    },
+    {
+      "id": "558-3114",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 9,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Mind rune",
+        "monster_name": "Farmer"
+      }
+    },
+    {
+      "id": "554-3114",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 6,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Fire rune (Regular)",
+        "monster_name": "Farmer"
+      }
+    },
+    {
+      "id": "557-3114",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 4,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Earth rune (Regular)",
+        "monster_name": "Farmer"
+      }
+    },
+    {
+      "id": "882-3114",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 7,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Bronze arrow (Unpoisoned)",
+        "monster_name": "Farmer"
+      }
+    },
+    {
+      "id": "1203-3114",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Iron dagger (Unpoisoned)",
+        "monster_name": "Farmer"
+      }
+    },
+    {
+      "id": "1139-3114",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Bronze med helm",
+        "monster_name": "Farmer"
+      }
+    },
+    {
+      "id": "526-3114",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Bones",
+        "monster_name": "Farmer"
+      }
+    },
+    {
+      "id": "209-3114",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00537109375"
+      },
+      "meta": {
+        "item_name": "Grimy irit leaf",
+        "monster_name": "Farmer"
+      }
+    },
+    {
+      "id": "211-3114",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00402894983591186"
+      },
+      "meta": {
+        "item_name": "Grimy avantoe",
+        "monster_name": "Farmer"
+      }
+    },
+    {
+      "id": "213-3114",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00335693359375"
+      },
+      "meta": {
+        "item_name": "Grimy kwuarm",
+        "monster_name": "Farmer"
+      }
+    },
+    {
+      "id": "215-3114",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.002685546875"
+      },
+      "meta": {
+        "item_name": "Grimy cadantine",
+        "monster_name": "Farmer"
+      }
+    },
+    {
+      "id": "2485-3114",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00201400281228029"
+      },
+      "meta": {
+        "item_name": "Grimy lantadyme",
+        "monster_name": "Farmer"
+      }
+    },
+    {
+      "id": "217-3114",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00201400281228029"
+      },
+      "meta": {
+        "item_name": "Grimy dwarf weed",
+        "monster_name": "Farmer"
+      }
+    },
+    {
+      "id": "995-3114",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 25,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Farmer"
+      }
+    },
+    {
+      "id": "995-3114",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.296875"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Farmer"
+      }
+    },
+    {
+      "id": "995-3114",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.1796875"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Farmer"
+      }
+    },
+    {
+      "id": "995-3114",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.0703125"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Farmer"
+      }
+    },
+    {
+      "id": "995-3114",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 15,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Farmer"
+      }
+    },
+    {
+      "id": "995-3114",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.296875"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Farmer"
+      }
+    },
+    {
+      "id": "995-3114",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 25,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Farmer"
+      }
+    },
+    {
+      "id": "995-3114",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 9,
+        "quantity_max": null,
+        "rarity": "0.125"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Farmer"
+      }
+    }
+  ]
+}

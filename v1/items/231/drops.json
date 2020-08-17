@@ -1,0 +1,708 @@
+{
+  "data": [
+    {
+      "id": "231-7792",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 10,
+        "quantity_max": 15,
+        "rarity": "0.024390243902439"
+      },
+      "meta": {
+        "item_name": "Snape grass",
+        "monster_name": "Long-tailed Wyvern"
+      }
+    },
+    {
+      "id": "231-2630",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00390625"
+      },
+      "meta": {
+        "item_name": "Snape grass",
+        "monster_name": "Vera"
+      }
+    },
+    {
+      "id": "231-2629",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00390625"
+      },
+      "meta": {
+        "item_name": "Snape grass",
+        "monster_name": "Nikita"
+      }
+    },
+    {
+      "id": "231-2628",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00390625"
+      },
+      "meta": {
+        "item_name": "Snape grass",
+        "monster_name": "Yadviga"
+      }
+    },
+    {
+      "id": "231-2627",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00390625"
+      },
+      "meta": {
+        "item_name": "Snape grass",
+        "monster_name": "Ksenia"
+      }
+    },
+    {
+      "id": "231-2626",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00390625"
+      },
+      "meta": {
+        "item_name": "Snape grass",
+        "monster_name": "Sofiya"
+      }
+    },
+    {
+      "id": "231-2625",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00390625"
+      },
+      "meta": {
+        "item_name": "Snape grass",
+        "monster_name": "Galina"
+      }
+    },
+    {
+      "id": "231-2624",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00390625"
+      },
+      "meta": {
+        "item_name": "Snape grass",
+        "monster_name": "Milla"
+      }
+    },
+    {
+      "id": "231-2623",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00390625"
+      },
+      "meta": {
+        "item_name": "Snape grass",
+        "monster_name": "Alexis"
+      }
+    },
+    {
+      "id": "231-2622",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00390625"
+      },
+      "meta": {
+        "item_name": "Snape grass",
+        "monster_name": "Irina"
+      }
+    },
+    {
+      "id": "231-2621",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00390625"
+      },
+      "meta": {
+        "item_name": "Snape grass",
+        "monster_name": "Svetlana"
+      }
+    },
+    {
+      "id": "231-2620",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00390625"
+      },
+      "meta": {
+        "item_name": "Snape grass",
+        "monster_name": "Georgy"
+      }
+    },
+    {
+      "id": "231-2619",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00390625"
+      },
+      "meta": {
+        "item_name": "Snape grass",
+        "monster_name": "Lev"
+      }
+    },
+    {
+      "id": "231-2618",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00390625"
+      },
+      "meta": {
+        "item_name": "Snape grass",
+        "monster_name": "Eduard"
+      }
+    },
+    {
+      "id": "231-2617",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00390625"
+      },
+      "meta": {
+        "item_name": "Snape grass",
+        "monster_name": "Nikolai"
+      }
+    },
+    {
+      "id": "231-2616",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00390625"
+      },
+      "meta": {
+        "item_name": "Snape grass",
+        "monster_name": "Joseph"
+      }
+    },
+    {
+      "id": "231-2615",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00390625"
+      },
+      "meta": {
+        "item_name": "Snape grass",
+        "monster_name": "Yuri"
+      }
+    },
+    {
+      "id": "231-2614",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00390625"
+      },
+      "meta": {
+        "item_name": "Snape grass",
+        "monster_name": "Imre"
+      }
+    },
+    {
+      "id": "231-2613",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00390625"
+      },
+      "meta": {
+        "item_name": "Snape grass",
+        "monster_name": "Boris"
+      }
+    },
+    {
+      "id": "231-2208",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.0551181102362205"
+      },
+      "meta": {
+        "item_name": "Snape grass",
+        "monster_name": "Bree"
+      }
+    },
+    {
+      "id": "231-2207",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.0551181102362205"
+      },
+      "meta": {
+        "item_name": "Snape grass",
+        "monster_name": "Growler"
+      }
+    },
+    {
+      "id": "231-483",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Snape grass",
+        "monster_name": "Cave bug (Level 96)"
+      }
+    },
+    {
+      "id": "231-304",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Snape grass",
+        "monster_name": "Salarin the twisted"
+      }
+    },
+    {
+      "id": "231-406",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Snape grass",
+        "monster_name": "Cave crawler"
+      }
+    },
+    {
+      "id": "231-481",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Snape grass",
+        "monster_name": "Cave bug (Level 6)"
+      }
+    },
+    {
+      "id": "231-481",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Snape grass",
+        "monster_name": "Cave bug (Level 6)"
+      }
+    },
+    {
+      "id": "231-483",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Snape grass",
+        "monster_name": "Cave bug (Level 96)"
+      }
+    },
+    {
+      "id": "231-520",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Snape grass",
+        "monster_name": "Chaos druid"
+      }
+    },
+    {
+      "id": "231-530",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.144927536231884"
+      },
+      "meta": {
+        "item_name": "Snape grass",
+        "monster_name": "Tribesman"
+      }
+    },
+    {
+      "id": "231-532",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Snape grass",
+        "monster_name": "Chaos druid warrior"
+      }
+    },
+    {
+      "id": "231-2206",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.0551181102362205"
+      },
+      "meta": {
+        "item_name": "Snape grass",
+        "monster_name": "Starlight"
+      }
+    },
+    {
+      "id": "231-7794",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 10,
+        "quantity_max": 15,
+        "rarity": "0.024390243902439"
+      },
+      "meta": {
+        "item_name": "Snape grass",
+        "monster_name": "Spitting Wyvern"
+      }
+    },
+    {
+      "id": "231-7793",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 10,
+        "quantity_max": 15,
+        "rarity": "0.024390243902439"
+      },
+      "meta": {
+        "item_name": "Snape grass",
+        "monster_name": "Taloned Wyvern"
+      }
+    },
+    {
+      "id": "231-7389",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Snape grass",
+        "monster_name": "Chasm Crawler"
+      }
+    },
+    {
+      "id": "231-6607",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 4,
+        "quantity_max": null,
+        "rarity": "0.00775193798449612"
+      },
+      "meta": {
+        "item_name": "Snape grass",
+        "monster_name": "Elder Chaos druid"
+      }
+    },
+    {
+      "id": "231-5944",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.078125"
+      },
+      "meta": {
+        "item_name": "Snape grass",
+        "monster_name": "Rock lobster"
+      }
+    },
+    {
+      "id": "231-3944",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00390625"
+      },
+      "meta": {
+        "item_name": "Snape grass",
+        "monster_name": "Jennella"
+      }
+    },
+    {
+      "id": "231-3943",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00390625"
+      },
+      "meta": {
+        "item_name": "Snape grass",
+        "monster_name": "Lensa"
+      }
+    },
+    {
+      "id": "231-3940",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00390625"
+      },
+      "meta": {
+        "item_name": "Snape grass",
+        "monster_name": "Lanzig"
+      }
+    },
+    {
+      "id": "231-3939",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00390625"
+      },
+      "meta": {
+        "item_name": "Snape grass",
+        "monster_name": "Borrokar"
+      }
+    },
+    {
+      "id": "231-3938",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00390625"
+      },
+      "meta": {
+        "item_name": "Snape grass",
+        "monster_name": "Freidir"
+      }
+    },
+    {
+      "id": "231-2916",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 20,
+        "quantity_max": 30,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Snape grass",
+        "monster_name": "Waterfiend"
+      }
+    },
+    {
+      "id": "231-2632",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00390625"
+      },
+      "meta": {
+        "item_name": "Snape grass",
+        "monster_name": "Liliya"
+      }
+    },
+    {
+      "id": "231-2631",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00390625"
+      },
+      "meta": {
+        "item_name": "Snape grass",
+        "monster_name": "Zoja"
+      }
+    }
+  ]
+}

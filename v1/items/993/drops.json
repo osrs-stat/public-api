@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "id": "993-304",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.078125"
+      },
+      "meta": {
+        "item_name": "Sinister key",
+        "monster_name": "Salarin the twisted"
+      }
+    },
+    {
+      "id": "993-6619",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Sinister key",
+        "monster_name": "Chaos Fanatic"
+      }
+    }
+  ]
+}

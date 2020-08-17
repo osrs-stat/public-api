@@ -1,0 +1,143 @@
+{
+  "data": {
+    "id": "20849",
+    "type": "item",
+    "attributes": {
+      "uuid": "c11343a7-758b-4c41-a24b-fc9f4144f25f",
+      "name": "Dragon thrownaxe",
+      "members": true,
+      "release_date": "2017-01-05",
+      "examine": "A razor sharp throwing axe.",
+      "tradeable": false,
+      "ge_tradeable": false,
+      "lowalch": 300,
+      "highalch": 450,
+      "is_equip": true,
+      "is_weapon": true,
+      "icon_base64": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACBklEQVR4Xt2WwUsCURDG9x33sIcOggSCSCeJiDAkURIlMdFQSQ3NMCqiQ9ChQ4eOQX/2tN97zr63u+9S7brWwMey7rjzY+Z7wzrO3w1BYWUaglY7Lk199T2Xur62AEzQfc6lxRqKlTGYkEAjizYAZSugR8cCIK54dlgsWv6TSKhOxMehgPAMV5YJpXMTDyGLtDzHAFOCl0wxVOpdes550h9116FjX7gC8DXv0ZMPwmKzp9Cl+IhQEFA46qz3XU8KwJDZpQShhCyGTtigeAdBKPzhA0EveQ2GvARHJ4JOYDSmZ1AUQheQg6IY26cPZOYBCjmJAfGOQRfgFQidAQwAoKhfUFgVV+B4nhgQewHFGAz3GAVg3vLaO91221JYjTf++49Cvcw0J8QwJtBiMqGL8y61Go31uMLv0V37degu8fLDPUDgF3QGOY+rFS1nMwl1WqvFoBKCQaguAYJ3jHm09Sg01KjXo5NKJQaVYKjTAvHpYrOGd0wY6ujgIF0oiGF4M/Onhw3qcjCg/XI5PSgejU1h0wp6uFlKowNqr1RKDwrBxaMKZ2kojI9XQjhn46Gh6tVq0Mlo1oZDUL/TkfspZZN/J4QcGbpULBRi/otmbyhU8avxWBodCxSdO2s2s4WCn6bDYQDFvsrIW4Ju5/MAKmMYhKC764VcmlsAw2FbpBnHVsH8i/gCJtDXT38NbHAAAAAASUVORK5CYII="
+    },
+    "relationships": {
+      "equip": {
+        "data": {
+          "id": "ff6eba75-64ae-4b95-8ff6-174031f303a8",
+          "type": "equip"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Dragon_thrownaxe"
+    },
+    "meta": {
+      "incomplete": false
+    }
+  },
+  "included": [
+    {
+      "id": "ff6eba75-64ae-4b95-8ff6-174031f303a8",
+      "type": "equip",
+      "attributes": {
+        "slot": "weapon",
+        "passive_effect": null,
+        "requirements": {
+          "ranged_level": 61
+        }
+      },
+      "relationships": {
+        "equip_stat": {
+          "data": {
+            "id": "232e39c6-260e-4048-b581-94d2f99dd998",
+            "type": "equip_stat"
+          }
+        },
+        "attack_stat": {
+          "data": {
+            "id": "c8f2d61b-900a-42fe-8ca7-f4892599dede",
+            "type": "attack_stat"
+          }
+        }
+      }
+    },
+    {
+      "id": "c8f2d61b-900a-42fe-8ca7-f4892599dede",
+      "type": "attack_stat",
+      "attributes": {
+        "attack_speed": 5,
+        "attack_type": "thrown_weapon",
+        "special": null,
+        "stances": [
+          {
+            "name": "accurate",
+            "style": null,
+            "boosts": {
+              "accuracy": 3,
+              "damage": 3
+            },
+            "experience": {
+              "hitpoints": 1.3333,
+              "ranged": 2
+            },
+            "combat_accuracy_stat": "ranged_level",
+            "combat_damage_stat": "ranged_level",
+            "equip_accuracy_stat": "ranged_attack",
+            "equip_damage_stat": "ranged_attack",
+            "target_equip_defense_stat": "ranged_defense"
+          },
+          {
+            "name": "rapid",
+            "style": null,
+            "boosts": {
+              "attack_speed": 1
+            },
+            "experience": {
+              "hitpoints": 1.3333,
+              "ranged": 2
+            },
+            "combat_accuracy_stat": "ranged_level",
+            "combat_damage_stat": "ranged_level",
+            "equip_accuracy_stat": "ranged_attack",
+            "equip_damage_stat": "ranged_attack",
+            "target_equip_defense_stat": "ranged_defense"
+          },
+          {
+            "name": "longrange",
+            "style": null,
+            "boosts": {
+              "defense": 3,
+              "attack_range": 2
+            },
+            "experience": {
+              "hitpoints": 1.3333,
+              "ranged": 1.3333,
+              "defense": 1.3333
+            },
+            "combat_accuracy_stat": "ranged_level",
+            "combat_damage_stat": "ranged_level",
+            "equip_accuracy_stat": "ranged_attack",
+            "equip_damage_stat": "ranged_attack",
+            "target_equip_defense_stat": "ranged_defense"
+          }
+        ]
+      }
+    },
+    {
+      "id": "232e39c6-260e-4048-b581-94d2f99dd998",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 0,
+        "slash_attack": 0,
+        "crush_attack": 0,
+        "ranged_attack": 36,
+        "magic_attack": 0,
+        "stab_defense": 0,
+        "slash_defense": 0,
+        "crush_defense": 0,
+        "ranged_defense": 0,
+        "magic_defense": 0,
+        "melee_strength": 0,
+        "ranged_strength": 47,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

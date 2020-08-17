@@ -1,0 +1,2132 @@
+{
+  "data": [
+    {
+      "id": "453-3851",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Coal",
+        "monster_name": "Moss giant (Level 48)"
+      }
+    },
+    {
+      "id": "453-9756",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 8,
+        "quantity_max": null,
+        "rarity": "0.043010752688172"
+      },
+      "meta": {
+        "item_name": "Coal",
+        "monster_name": "Vyrewatch Sentinel"
+      }
+    },
+    {
+      "id": "453-9049",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 169,
+        "quantity_max": 815,
+        "rarity": "0.0277777777777778"
+      },
+      "meta": {
+        "item_name": "Coal",
+        "monster_name": "Zalcano"
+      }
+    },
+    {
+      "id": "453-8736",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": 6,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Coal",
+        "monster_name": "Moss giant (Level 84)"
+      }
+    },
+    {
+      "id": "453-8736",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Coal",
+        "monster_name": "Moss giant (Level 84)"
+      }
+    },
+    {
+      "id": "453-8700",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Coal",
+        "monster_name": "Giant frog (Level 13)"
+      }
+    },
+    {
+      "id": "453-8614",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 5,
+        "quantity_max": 10,
+        "rarity": "0.1015625"
+      },
+      "meta": {
+        "item_name": "Coal",
+        "monster_name": "Sulphur Lizard"
+      }
+    },
+    {
+      "id": "453-8565",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 20,
+        "quantity_max": 25,
+        "rarity": "0.04"
+      },
+      "meta": {
+        "item_name": "Coal",
+        "monster_name": "Lizardman shaman (Lizardman Temple)"
+      }
+    },
+    {
+      "id": "453-8298",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Coal",
+        "monster_name": "Swamp Crab (Bloomed)"
+      }
+    },
+    {
+      "id": "453-8297",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Coal",
+        "monster_name": "Swamp Crab (Normal)"
+      }
+    },
+    {
+      "id": "453-8256",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 6,
+        "quantity_max": null,
+        "rarity": "0.036697247706422"
+      },
+      "meta": {
+        "item_name": "Coal",
+        "monster_name": "Vyrewatch (Level 87)"
+      }
+    },
+    {
+      "id": "453-7940",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 50,
+        "quantity_max": 100,
+        "rarity": "0.0563207547169811"
+      },
+      "meta": {
+        "item_name": "Coal",
+        "monster_name": "Revenant dragon"
+      }
+    },
+    {
+      "id": "453-7939",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 50,
+        "quantity_max": 100,
+        "rarity": "0.0526415094339623"
+      },
+      "meta": {
+        "item_name": "Coal",
+        "monster_name": "Revenant knight"
+      }
+    },
+    {
+      "id": "453-7938",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 50,
+        "quantity_max": 100,
+        "rarity": "0.0452830188679245"
+      },
+      "meta": {
+        "item_name": "Coal",
+        "monster_name": "Revenant dark beast"
+      }
+    },
+    {
+      "id": "453-7937",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 50,
+        "quantity_max": 100,
+        "rarity": "0.0385934819897084"
+      },
+      "meta": {
+        "item_name": "Coal",
+        "monster_name": "Revenant ork"
+      }
+    },
+    {
+      "id": "453-7936",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 50,
+        "quantity_max": 100,
+        "rarity": "0.0320136096504794"
+      },
+      "meta": {
+        "item_name": "Coal",
+        "monster_name": "Revenant demon"
+      }
+    },
+    {
+      "id": "453-7935",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 50,
+        "quantity_max": 100,
+        "rarity": "0.0292298175069595"
+      },
+      "meta": {
+        "item_name": "Coal",
+        "monster_name": "Revenant hellhound"
+      }
+    },
+    {
+      "id": "453-7934",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 50,
+        "quantity_max": 100,
+        "rarity": "0.0264460253634395"
+      },
+      "meta": {
+        "item_name": "Coal",
+        "monster_name": "Revenant cyclops"
+      }
+    },
+    {
+      "id": "453-7933",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 50,
+        "quantity_max": 100,
+        "rarity": "0.0155029443576493"
+      },
+      "meta": {
+        "item_name": "Coal",
+        "monster_name": "Revenant hobgoblin"
+      }
+    },
+    {
+      "id": "453-7932",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 50,
+        "quantity_max": 100,
+        "rarity": "0.0137002764090854"
+      },
+      "meta": {
+        "item_name": "Coal",
+        "monster_name": "Revenant pyrefiend"
+      }
+    },
+    {
+      "id": "453-7931",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 50,
+        "quantity_max": 100,
+        "rarity": "0.00324332672655667"
+      },
+      "meta": {
+        "item_name": "Coal",
+        "monster_name": "Revenant goblin"
+      }
+    },
+    {
+      "id": "453-7881",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 50,
+        "quantity_max": 100,
+        "rarity": "0.001852487135506"
+      },
+      "meta": {
+        "item_name": "Coal",
+        "monster_name": "Revenant imp"
+      }
+    },
+    {
+      "id": "453-7799",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Coal",
+        "monster_name": "Ammonite Crab"
+      }
+    },
+    {
+      "id": "453-7406",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 15,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Coal",
+        "monster_name": "Nuclear smoke devil"
+      }
+    },
+    {
+      "id": "453-7392",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.1015625"
+      },
+      "meta": {
+        "item_name": "Coal",
+        "monster_name": "Giant rockslug"
+      }
+    },
+    {
+      "id": "453-6766",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 20,
+        "quantity_max": 25,
+        "rarity": "0.04"
+      },
+      "meta": {
+        "item_name": "Coal",
+        "monster_name": "Lizardman shaman (Standard)"
+      }
+    },
+    {
+      "id": "453-6730",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Coal",
+        "monster_name": "Rock golem (monster) (Level 159)"
+      }
+    },
+    {
+      "id": "453-6729",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Coal",
+        "monster_name": "Rock golem (monster) (Level 120)"
+      }
+    },
+    {
+      "id": "453-6605",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.046875"
+      },
+      "meta": {
+        "item_name": "Coal",
+        "monster_name": "Bandit (Level 130)"
+      }
+    },
+    {
+      "id": "453-6605",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.046875"
+      },
+      "meta": {
+        "item_name": "Coal",
+        "monster_name": "Bandit (Level 130)"
+      }
+    },
+    {
+      "id": "453-6588",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0546875"
+      },
+      "meta": {
+        "item_name": "Coal",
+        "monster_name": "Bandosian guard"
+      }
+    },
+    {
+      "id": "453-6587",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0546875"
+      },
+      "meta": {
+        "item_name": "Coal",
+        "monster_name": "Armadylian guard"
+      }
+    },
+    {
+      "id": "453-6331",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Coal",
+        "monster_name": "Arrg (Hard)"
+      }
+    },
+    {
+      "id": "453-6046",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Coal",
+        "monster_name": "Black Guard (Level 48)"
+      }
+    },
+    {
+      "id": "453-5935",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Coal",
+        "monster_name": "Sand Crab (Active)"
+      }
+    },
+    {
+      "id": "453-5908",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 380,
+        "quantity_max": 420,
+        "rarity": "0.0431654676258993"
+      },
+      "meta": {
+        "item_name": "Coal",
+        "monster_name": "Abyssal Sire (Phase 3 (stage 2))"
+      }
+    },
+    {
+      "id": "453-5891",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 380,
+        "quantity_max": 420,
+        "rarity": "0.0431654676258993"
+      },
+      "meta": {
+        "item_name": "Coal",
+        "monster_name": "Abyssal Sire (Phase 3 (stage 1))"
+      }
+    },
+    {
+      "id": "453-5890",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 380,
+        "quantity_max": 420,
+        "rarity": "0.0431654676258993"
+      },
+      "meta": {
+        "item_name": "Coal",
+        "monster_name": "Abyssal Sire (Phase 2)"
+      }
+    },
+    {
+      "id": "453-5886",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 380,
+        "quantity_max": 420,
+        "rarity": "0.0431654676258993"
+      },
+      "meta": {
+        "item_name": "Coal",
+        "monster_name": "Abyssal Sire (Phase 1)"
+      }
+    },
+    {
+      "id": "453-5862",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 120,
+        "quantity_max": null,
+        "rarity": "0.046875"
+      },
+      "meta": {
+        "item_name": "Coal",
+        "monster_name": "Cerberus"
+      }
+    },
+    {
+      "id": "453-4800",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Coal",
+        "monster_name": "Giant lobster"
+      }
+    },
+    {
+      "id": "453-4522",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.012"
+      },
+      "meta": {
+        "item_name": "Coal",
+        "monster_name": "Guard (H.A.M. storeroom)"
+      }
+    },
+    {
+      "id": "453-4143",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Coal",
+        "monster_name": "Mountain troll (Level 71)"
+      }
+    },
+    {
+      "id": "453-4134",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Coal",
+        "monster_name": "Berry (Sleeping)"
+      }
+    },
+    {
+      "id": "453-4133",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Coal",
+        "monster_name": "Twig (Sleeping)"
+      }
+    },
+    {
+      "id": "453-4132",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Coal",
+        "monster_name": "Berry (Awake)"
+      }
+    },
+    {
+      "id": "453-4131",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Coal",
+        "monster_name": "Twig (Awake)"
+      }
+    },
+    {
+      "id": "453-4123",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Coal",
+        "monster_name": "Troll spectator"
+      }
+    },
+    {
+      "id": "453-4122",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 6,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Coal",
+        "monster_name": "Troll general (Hammer (brown))"
+      }
+    },
+    {
+      "id": "453-4121",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 6,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Coal",
+        "monster_name": "Troll general (Hammer (grey))"
+      }
+    },
+    {
+      "id": "453-4120",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 6,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Coal",
+        "monster_name": "Troll general (Sword)"
+      }
+    },
+    {
+      "id": "453-3944",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.01953125"
+      },
+      "meta": {
+        "item_name": "Coal",
+        "monster_name": "Jennella"
+      }
+    },
+    {
+      "id": "453-3943",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.01953125"
+      },
+      "meta": {
+        "item_name": "Coal",
+        "monster_name": "Lensa"
+      }
+    },
+    {
+      "id": "453-3940",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.01953125"
+      },
+      "meta": {
+        "item_name": "Coal",
+        "monster_name": "Lanzig"
+      }
+    },
+    {
+      "id": "453-3939",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.01953125"
+      },
+      "meta": {
+        "item_name": "Coal",
+        "monster_name": "Borrokar"
+      }
+    },
+    {
+      "id": "453-3938",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.01953125"
+      },
+      "meta": {
+        "item_name": "Coal",
+        "monster_name": "Freidir"
+      }
+    },
+    {
+      "id": "453-3851",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": 6,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Coal",
+        "monster_name": "Moss giant (Level 48)"
+      }
+    },
+    {
+      "id": "453-292",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Coal",
+        "monster_name": "Dwarf (Level 20)"
+      }
+    },
+    {
+      "id": "453-3720",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 6,
+        "quantity_max": null,
+        "rarity": "0.036697247706422"
+      },
+      "meta": {
+        "item_name": "Coal",
+        "monster_name": "Vyrewatch (Level 125)"
+      }
+    },
+    {
+      "id": "453-3719",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 6,
+        "quantity_max": null,
+        "rarity": "0.036697247706422"
+      },
+      "meta": {
+        "item_name": "Coal",
+        "monster_name": "Vyrewatch (Level 120)"
+      }
+    },
+    {
+      "id": "453-3718",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 6,
+        "quantity_max": null,
+        "rarity": "0.036697247706422"
+      },
+      "meta": {
+        "item_name": "Coal",
+        "monster_name": "Vyrewatch (Level 110)"
+      }
+    },
+    {
+      "id": "453-3717",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 6,
+        "quantity_max": null,
+        "rarity": "0.036697247706422"
+      },
+      "meta": {
+        "item_name": "Coal",
+        "monster_name": "Vyrewatch (Level 105)"
+      }
+    },
+    {
+      "id": "453-2632",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.01953125"
+      },
+      "meta": {
+        "item_name": "Coal",
+        "monster_name": "Liliya"
+      }
+    },
+    {
+      "id": "453-2631",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.01953125"
+      },
+      "meta": {
+        "item_name": "Coal",
+        "monster_name": "Zoja"
+      }
+    },
+    {
+      "id": "453-2630",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.01953125"
+      },
+      "meta": {
+        "item_name": "Coal",
+        "monster_name": "Vera"
+      }
+    },
+    {
+      "id": "453-2629",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.01953125"
+      },
+      "meta": {
+        "item_name": "Coal",
+        "monster_name": "Nikita"
+      }
+    },
+    {
+      "id": "453-2628",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.01953125"
+      },
+      "meta": {
+        "item_name": "Coal",
+        "monster_name": "Yadviga"
+      }
+    },
+    {
+      "id": "453-2627",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.01953125"
+      },
+      "meta": {
+        "item_name": "Coal",
+        "monster_name": "Ksenia"
+      }
+    },
+    {
+      "id": "453-2626",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.01953125"
+      },
+      "meta": {
+        "item_name": "Coal",
+        "monster_name": "Sofiya"
+      }
+    },
+    {
+      "id": "453-2625",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.01953125"
+      },
+      "meta": {
+        "item_name": "Coal",
+        "monster_name": "Galina"
+      }
+    },
+    {
+      "id": "453-2624",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.01953125"
+      },
+      "meta": {
+        "item_name": "Coal",
+        "monster_name": "Milla"
+      }
+    },
+    {
+      "id": "453-2623",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.01953125"
+      },
+      "meta": {
+        "item_name": "Coal",
+        "monster_name": "Alexis"
+      }
+    },
+    {
+      "id": "453-2622",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.01953125"
+      },
+      "meta": {
+        "item_name": "Coal",
+        "monster_name": "Irina"
+      }
+    },
+    {
+      "id": "453-2621",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.01953125"
+      },
+      "meta": {
+        "item_name": "Coal",
+        "monster_name": "Svetlana"
+      }
+    },
+    {
+      "id": "453-2620",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.01953125"
+      },
+      "meta": {
+        "item_name": "Coal",
+        "monster_name": "Georgy"
+      }
+    },
+    {
+      "id": "453-2619",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.01953125"
+      },
+      "meta": {
+        "item_name": "Coal",
+        "monster_name": "Lev"
+      }
+    },
+    {
+      "id": "453-2618",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.01953125"
+      },
+      "meta": {
+        "item_name": "Coal",
+        "monster_name": "Eduard"
+      }
+    },
+    {
+      "id": "453-2617",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.01953125"
+      },
+      "meta": {
+        "item_name": "Coal",
+        "monster_name": "Nikolai"
+      }
+    },
+    {
+      "id": "453-2616",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.01953125"
+      },
+      "meta": {
+        "item_name": "Coal",
+        "monster_name": "Joseph"
+      }
+    },
+    {
+      "id": "453-2615",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.01953125"
+      },
+      "meta": {
+        "item_name": "Coal",
+        "monster_name": "Yuri"
+      }
+    },
+    {
+      "id": "453-2614",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.01953125"
+      },
+      "meta": {
+        "item_name": "Coal",
+        "monster_name": "Imre"
+      }
+    },
+    {
+      "id": "453-2613",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.01953125"
+      },
+      "meta": {
+        "item_name": "Coal",
+        "monster_name": "Boris"
+      }
+    },
+    {
+      "id": "453-2538",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0181818181818182"
+      },
+      "meta": {
+        "item_name": "Coal",
+        "monster_name": "H.A.M. Guard (Level 22)"
+      }
+    },
+    {
+      "id": "453-2537",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0181818181818182"
+      },
+      "meta": {
+        "item_name": "Coal",
+        "monster_name": "H.A.M. Guard (Level 18)"
+      }
+    },
+    {
+      "id": "453-2536",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0181818181818182"
+      },
+      "meta": {
+        "item_name": "Coal",
+        "monster_name": "H.A.M. Guard (Level 12)"
+      }
+    },
+    {
+      "id": "453-2476",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 3,
+        "quantity_max": 7,
+        "rarity": "0.0198019801980198"
+      },
+      "meta": {
+        "item_name": "Coal",
+        "monster_name": "Catablepon (Level 68)"
+      }
+    },
+    {
+      "id": "453-2475",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 3,
+        "quantity_max": 7,
+        "rarity": "0.0198019801980198"
+      },
+      "meta": {
+        "item_name": "Coal",
+        "monster_name": "Catablepon (Level 64)"
+      }
+    },
+    {
+      "id": "453-2474",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 3,
+        "quantity_max": 7,
+        "rarity": "0.0198019801980198"
+      },
+      "meta": {
+        "item_name": "Coal",
+        "monster_name": "Catablepon (Level 49)"
+      }
+    },
+    {
+      "id": "453-2267",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 100,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Coal",
+        "monster_name": "Dagannoth Rex"
+      }
+    },
+    {
+      "id": "453-2215",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 115,
+        "quantity_max": 120,
+        "rarity": "0.062992125984252"
+      },
+      "meta": {
+        "item_name": "Coal",
+        "monster_name": "General Graardor"
+      }
+    },
+    {
+      "id": "453-2090",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": 6,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Coal",
+        "monster_name": "Moss giant (Level 42)"
+      }
+    },
+    {
+      "id": "453-2090",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Coal",
+        "monster_name": "Moss giant (Level 42)"
+      }
+    },
+    {
+      "id": "453-2044",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 200,
+        "quantity_max": null,
+        "rarity": "0.032258064516129"
+      },
+      "meta": {
+        "item_name": "Coal",
+        "monster_name": "Zulrah (Tanzanite)"
+      }
+    },
+    {
+      "id": "453-2043",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 200,
+        "quantity_max": null,
+        "rarity": "0.032258064516129"
+      },
+      "meta": {
+        "item_name": "Coal",
+        "monster_name": "Zulrah (Magma)"
+      }
+    },
+    {
+      "id": "453-2042",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 200,
+        "quantity_max": null,
+        "rarity": "0.032258064516129"
+      },
+      "meta": {
+        "item_name": "Coal",
+        "monster_name": "Zulrah (Serpentine)"
+      }
+    },
+    {
+      "id": "453-1876",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Coal",
+        "monster_name": "Ice troll female"
+      }
+    },
+    {
+      "id": "453-1875",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Coal",
+        "monster_name": "Ice troll male"
+      }
+    },
+    {
+      "id": "453-1874",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Coal",
+        "monster_name": "Ice troll runt"
+      }
+    },
+    {
+      "id": "453-1409",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Coal",
+        "monster_name": "Black Guard (Level 25)"
+      }
+    },
+    {
+      "id": "453-1408",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Coal",
+        "monster_name": "Dwarf (Level 7)"
+      }
+    },
+    {
+      "id": "453-1408",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Coal",
+        "monster_name": "Dwarf (Level 7)"
+      }
+    },
+    {
+      "id": "453-1026",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.046875"
+      },
+      "meta": {
+        "item_name": "Coal",
+        "monster_name": "Bandit (Level 22)"
+      }
+    },
+    {
+      "id": "453-1026",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.046875"
+      },
+      "meta": {
+        "item_name": "Coal",
+        "monster_name": "Bandit (Level 22)"
+      }
+    },
+    {
+      "id": "453-936",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Coal",
+        "monster_name": "Mountain troll (Level 69)"
+      }
+    },
+    {
+      "id": "453-931",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Coal",
+        "monster_name": "Thrower Troll"
+      }
+    },
+    {
+      "id": "453-928",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 6,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Coal",
+        "monster_name": "Kraka"
+      }
+    },
+    {
+      "id": "453-927",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 6,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Coal",
+        "monster_name": "Pee Hat"
+      }
+    },
+    {
+      "id": "453-926",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 6,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Coal",
+        "monster_name": "Stick"
+      }
+    },
+    {
+      "id": "453-925",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 6,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Coal",
+        "monster_name": "Rock (Troll)"
+      }
+    },
+    {
+      "id": "453-801",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 32,
+        "quantity_max": null,
+        "rarity": "0.046875"
+      },
+      "meta": {
+        "item_name": "Coal",
+        "monster_name": "Locust rider (Ranger (Quest))"
+      }
+    },
+    {
+      "id": "453-800",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 32,
+        "quantity_max": null,
+        "rarity": "0.046875"
+      },
+      "meta": {
+        "item_name": "Coal",
+        "monster_name": "Locust rider (Lancer (Quest))"
+      }
+    },
+    {
+      "id": "453-799",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 32,
+        "quantity_max": null,
+        "rarity": "0.046875"
+      },
+      "meta": {
+        "item_name": "Coal",
+        "monster_name": "Scarab mage (Level 66 (Quest))"
+      }
+    },
+    {
+      "id": "453-796",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 32,
+        "quantity_max": null,
+        "rarity": "0.046875"
+      },
+      "meta": {
+        "item_name": "Coal",
+        "monster_name": "Locust rider (Ranger)"
+      }
+    },
+    {
+      "id": "453-795",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 32,
+        "quantity_max": null,
+        "rarity": "0.046875"
+      },
+      "meta": {
+        "item_name": "Coal",
+        "monster_name": "Locust rider (Lancer)"
+      }
+    },
+    {
+      "id": "453-794",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 32,
+        "quantity_max": null,
+        "rarity": "0.046875"
+      },
+      "meta": {
+        "item_name": "Coal",
+        "monster_name": "Scarab mage (Level 93)"
+      }
+    },
+    {
+      "id": "453-695",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Coal",
+        "monster_name": "Bandit (Bandit Camp) (Level 57)"
+      }
+    },
+    {
+      "id": "453-690",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Coal",
+        "monster_name": "Bandit (Bandit Camp) (Level 74)"
+      }
+    },
+    {
+      "id": "453-643",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Coal",
+        "monster_name": "Arrg (Normal)"
+      }
+    },
+    {
+      "id": "453-525",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Coal",
+        "monster_name": "Thug"
+      }
+    },
+    {
+      "id": "453-499",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 150,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Coal",
+        "monster_name": "Thermonuclear smoke devil"
+      }
+    },
+    {
+      "id": "453-498",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 15,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Coal",
+        "monster_name": "Smoke devil"
+      }
+    },
+    {
+      "id": "453-477",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Coal",
+        "monster_name": "Giant frog (Level 99)"
+      }
+    },
+    {
+      "id": "453-462",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.1015625"
+      },
+      "meta": {
+        "item_name": "Coal",
+        "monster_name": "Small Lizard"
+      }
+    },
+    {
+      "id": "453-459",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.1015625"
+      },
+      "meta": {
+        "item_name": "Coal",
+        "monster_name": "Desert Lizard"
+      }
+    },
+    {
+      "id": "453-458",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.1015625"
+      },
+      "meta": {
+        "item_name": "Coal",
+        "monster_name": "Lizard"
+      }
+    },
+    {
+      "id": "453-421",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.1015625"
+      },
+      "meta": {
+        "item_name": "Coal",
+        "monster_name": "Rockslug"
+      }
+    },
+    {
+      "id": "453-294",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Coal",
+        "monster_name": "Dwarf (Level 11)"
+      }
+    },
+    {
+      "id": "453-294",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Coal",
+        "monster_name": "Dwarf (Level 11)"
+      }
+    },
+    {
+      "id": "453-100",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Coal",
+        "monster_name": "Rock Crab (Active)"
+      }
+    },
+    {
+      "id": "453-290",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Coal",
+        "monster_name": "Dwarf (Level 10)"
+      }
+    },
+    {
+      "id": "453-290",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Coal",
+        "monster_name": "Dwarf (Level 10)"
+      }
+    },
+    {
+      "id": "453-291",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Coal",
+        "monster_name": "Chaos dwarf"
+      }
+    },
+    {
+      "id": "453-292",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Coal",
+        "monster_name": "Dwarf (Level 20)"
+      }
+    }
+  ]
+}

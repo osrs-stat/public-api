@@ -1,0 +1,117 @@
+{
+  "data": {
+    "id": "3527",
+    "type": "monster",
+    "attributes": {
+      "uuid": "30d705f0-de4f-4284-9690-579b42b56ae9",
+      "name": "Sir Mordred",
+      "members": true,
+      "release_date": "2002-02-27",
+      "examine": "Leader of the Renegade Knights.",
+      "combat_level_override": null,
+      "max_hit_override": null,
+      "target_types": [
+
+      ],
+      "classification_types": [
+
+      ],
+      "poison": false,
+      "immune_poison": false,
+      "immune_venom": false,
+      "slayer_xp": null,
+      "slayer_level": null,
+      "slayer_masters": [
+
+      ],
+      "icon_base64": null
+    },
+    "relationships": {
+      "combat_stat": {
+        "data": {
+          "id": "da978dbc-ff11-4eb4-a0ef-5f9fa489e6a4",
+          "type": "combat_stat"
+        }
+      },
+      "equip_stat": {
+        "data": {
+          "id": "457a82b4-d5d6-4c11-ba38-dd427fa935b5",
+          "type": "equip_stat"
+        }
+      },
+      "attack_stat": {
+        "data": {
+          "id": "a521faf8-4bea-43b9-8599-b55ed68798c0",
+          "type": "attack_stat"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Sir_Mordred"
+    },
+    "meta": {
+      "incomplete": true
+    }
+  },
+  "included": [
+    {
+      "id": "a521faf8-4bea-43b9-8599-b55ed68798c0",
+      "type": "attack_stat",
+      "attributes": {
+        "attack_speed": 4,
+        "attack_type": "monster",
+        "special": null,
+        "stances": [
+          {
+            "name": "Monster slash",
+            "style": null,
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": null,
+            "combat_accuracy_stat": "attack_level",
+            "combat_damage_stat": "strength_level",
+            "equip_accuracy_stat": "slash_attack",
+            "equip_damage_stat": "slash_attack",
+            "target_equip_defense_stat": "slash_defense"
+          }
+        ]
+      }
+    },
+    {
+      "id": "da978dbc-ff11-4eb4-a0ef-5f9fa489e6a4",
+      "type": "monster_combat_stat",
+      "attributes": {
+        "hitpoints_level": 38,
+        "attack_level": 33,
+        "strength_level": 33,
+        "defense_level": 33,
+        "magic_level": 1,
+        "ranged_level": 1,
+        "prayer_level": 0
+      }
+    },
+    {
+      "id": "457a82b4-d5d6-4c11-ba38-dd427fa935b5",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 20,
+        "slash_attack": 20,
+        "crush_attack": 20,
+        "ranged_attack": 0,
+        "magic_attack": 0,
+        "stab_defense": 99,
+        "slash_defense": 82,
+        "crush_defense": 45,
+        "ranged_defense": 0,
+        "magic_defense": 0,
+        "melee_strength": 16,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

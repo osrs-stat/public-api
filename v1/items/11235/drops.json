@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "id": "11235-4005",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.001953125"
+      },
+      "meta": {
+        "item_name": "Dark bow (Regular)",
+        "monster_name": "Dark beast"
+      }
+    },
+    {
+      "id": "11235-7409",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.001953125"
+      },
+      "meta": {
+        "item_name": "Dark bow (Regular)",
+        "monster_name": "Night beast"
+      }
+    }
+  ]
+}

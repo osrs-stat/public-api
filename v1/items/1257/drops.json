@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "1257-2210",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0708661417322835"
+      },
+      "meta": {
+        "item_name": "Mithril spear (Poison)",
+        "monster_name": "Spiritual warrior (Saradomin)"
+      }
+    },
+    {
+      "id": "1257-3166",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0708661417322835"
+      },
+      "meta": {
+        "item_name": "Mithril spear (Poison)",
+        "monster_name": "Spiritual warrior (Armadyl)"
+      }
+    },
+    {
+      "id": "1257-3159",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0708661417322835"
+      },
+      "meta": {
+        "item_name": "Mithril spear (Poison)",
+        "monster_name": "Spiritual warrior (Zamorak)"
+      }
+    },
+    {
+      "id": "1257-2243",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0708661417322835"
+      },
+      "meta": {
+        "item_name": "Mithril spear (Poison)",
+        "monster_name": "Spiritual warrior (Bandos)"
+      }
+    }
+  ]
+}

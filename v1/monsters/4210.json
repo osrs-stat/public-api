@@ -1,0 +1,132 @@
+{
+  "data": {
+    "id": "4210",
+    "type": "monster",
+    "attributes": {
+      "uuid": "27cd0e3b-34a7-4815-a083-2f6a29a3c9e7",
+      "name": "Possessed Priest",
+      "members": true,
+      "release_date": "2005-04-26",
+      "examine": "He has a dangerous glint in his eye.",
+      "combat_level_override": null,
+      "max_hit_override": 6,
+      "target_types": [
+
+      ],
+      "classification_types": [
+
+      ],
+      "poison": false,
+      "immune_poison": true,
+      "immune_venom": true,
+      "slayer_xp": null,
+      "slayer_level": null,
+      "slayer_masters": [
+
+      ],
+      "icon_base64": null
+    },
+    "relationships": {
+      "combat_stat": {
+        "data": {
+          "id": "72c5599e-43ef-4a4d-b659-901cbb540fb8",
+          "type": "combat_stat"
+        }
+      },
+      "equip_stat": {
+        "data": {
+          "id": "64582ea5-d5fe-4a5d-b050-45b364bda8b3",
+          "type": "equip_stat"
+        }
+      },
+      "attack_stat": {
+        "data": {
+          "id": "15e77653-d6ab-4c8e-b0b3-d118eeaf892a",
+          "type": "attack_stat"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Possessed_Priest"
+    },
+    "meta": {
+      "incomplete": true
+    }
+  },
+  "included": [
+    {
+      "id": "15e77653-d6ab-4c8e-b0b3-d118eeaf892a",
+      "type": "attack_stat",
+      "attributes": {
+        "attack_speed": 4,
+        "attack_type": "monster",
+        "special": null,
+        "stances": [
+          {
+            "name": "Monster crush",
+            "style": null,
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": null,
+            "combat_accuracy_stat": "attack_level",
+            "combat_damage_stat": "strength_level",
+            "equip_accuracy_stat": "crush_attack",
+            "equip_damage_stat": "crush_attack",
+            "target_equip_defense_stat": "crush_defense"
+          },
+          {
+            "name": "Monster magic",
+            "style": null,
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": null,
+            "combat_accuracy_stat": "magic_level",
+            "combat_damage_stat": "magic_level",
+            "equip_accuracy_stat": "magic_attack",
+            "equip_damage_stat": "magic_attack",
+            "target_equip_defense_stat": "magic_defense"
+          }
+        ]
+      }
+    },
+    {
+      "id": "72c5599e-43ef-4a4d-b659-901cbb540fb8",
+      "type": "monster_combat_stat",
+      "attributes": {
+        "hitpoints_level": 90,
+        "attack_level": 90,
+        "strength_level": 90,
+        "defense_level": 40,
+        "magic_level": 60,
+        "ranged_level": 1,
+        "prayer_level": 0
+      }
+    },
+    {
+      "id": "64582ea5-d5fe-4a5d-b050-45b364bda8b3",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 0,
+        "slash_attack": 0,
+        "crush_attack": 0,
+        "ranged_attack": 0,
+        "magic_attack": 0,
+        "stab_defense": 90,
+        "slash_defense": 0,
+        "crush_defense": 90,
+        "ranged_defense": 0,
+        "magic_defense": 0,
+        "melee_strength": 90,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

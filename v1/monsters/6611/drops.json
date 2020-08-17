@@ -1,0 +1,676 @@
+{
+  "data": [
+    {
+      "id": "23083-6611",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0342465753424658"
+      },
+      "meta": {
+        "item_name": "Brimstone key",
+        "monster_name": "Vet'ion (Normal)"
+      }
+    },
+    {
+      "id": "12073-6611",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.01"
+      },
+      "meta": {
+        "item_name": "Clue scroll (elite)",
+        "monster_name": "Vet'ion (Normal)"
+      }
+    },
+    {
+      "id": "10976-6611",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0025"
+      },
+      "meta": {
+        "item_name": "Long bone",
+        "monster_name": "Vet'ion (Normal)"
+      }
+    },
+    {
+      "id": "13179-6611",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0005"
+      },
+      "meta": {
+        "item_name": "Vet'ion jr. (Normal)",
+        "monster_name": "Vet'ion (Normal)"
+      }
+    },
+    {
+      "id": "6806-6611",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0002"
+      },
+      "meta": {
+        "item_name": "Skeleton champion scroll",
+        "monster_name": "Vet'ion (Normal)"
+      }
+    },
+    {
+      "id": "10977-6611",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000199501246882793"
+      },
+      "meta": {
+        "item_name": "Curved bone",
+        "monster_name": "Vet'ion (Normal)"
+      }
+    },
+    {
+      "id": "6685-6611",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Saradomin brew (4 dose)",
+        "monster_name": "Vet'ion (Normal)"
+      }
+    },
+    {
+      "id": "6691-6611",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Saradomin brew (1 dose)",
+        "monster_name": "Vet'ion (Normal)"
+      }
+    },
+    {
+      "id": "23490-6611",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.02"
+      },
+      "meta": {
+        "item_name": "Larran's key",
+        "monster_name": "Vet'ion (Normal)"
+      }
+    },
+    {
+      "id": "565-6611",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 200,
+        "quantity_max": null,
+        "rarity": "0.0546875"
+      },
+      "meta": {
+        "item_name": "Blood rune (Regular)",
+        "monster_name": "Vet'ion (Normal)"
+      }
+    },
+    {
+      "id": "532-6611",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Big bones",
+        "monster_name": "Vet'ion (Normal)"
+      }
+    },
+    {
+      "id": "12601-6611",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.001953125"
+      },
+      "meta": {
+        "item_name": "Ring of the gods",
+        "monster_name": "Vet'ion (Normal)"
+      }
+    },
+    {
+      "id": "1275-6611",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.09375"
+      },
+      "meta": {
+        "item_name": "Rune pickaxe (Regular)",
+        "monster_name": "Vet'ion (Normal)"
+      }
+    },
+    {
+      "id": "21257-6611",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0333333333333333"
+      },
+      "meta": {
+        "item_name": "Slayer's enchantment",
+        "monster_name": "Vet'ion (Normal)"
+      }
+    },
+    {
+      "id": "560-6611",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 300,
+        "quantity_max": null,
+        "rarity": "0.0546875"
+      },
+      "meta": {
+        "item_name": "Death rune (Regular)",
+        "monster_name": "Vet'ion (Normal)"
+      }
+    },
+    {
+      "id": "562-6611",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 400,
+        "quantity_max": null,
+        "rarity": "0.0546875"
+      },
+      "meta": {
+        "item_name": "Chaos rune (Regular)",
+        "monster_name": "Vet'ion (Normal)"
+      }
+    },
+    {
+      "id": "7158-6611",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00390625"
+      },
+      "meta": {
+        "item_name": "Dragon 2h sword",
+        "monster_name": "Vet'ion (Normal)"
+      }
+    },
+    {
+      "id": "11920-6611",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.005859375"
+      },
+      "meta": {
+        "item_name": "Dragon pickaxe",
+        "monster_name": "Vet'ion (Normal)"
+      }
+    },
+    {
+      "id": "4675-6611",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Ancient staff",
+        "monster_name": "Vet'ion (Normal)"
+      }
+    },
+    {
+      "id": "1319-6611",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Rune 2h sword",
+        "monster_name": "Vet'ion (Normal)"
+      }
+    },
+    {
+      "id": "2-6611",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 250,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Cannonball",
+        "monster_name": "Vet'ion (Normal)"
+      }
+    },
+    {
+      "id": "1619-6611",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 20,
+        "quantity_max": null,
+        "rarity": "0.0546875"
+      },
+      "meta": {
+        "item_name": "Uncut ruby",
+        "monster_name": "Vet'ion (Normal)"
+      }
+    },
+    {
+      "id": "1617-6611",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.0546875"
+      },
+      "meta": {
+        "item_name": "Uncut diamond",
+        "monster_name": "Vet'ion (Normal)"
+      }
+    },
+    {
+      "id": "444-6611",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 300,
+        "quantity_max": null,
+        "rarity": "0.046875"
+      },
+      "meta": {
+        "item_name": "Gold ore",
+        "monster_name": "Vet'ion (Normal)"
+      }
+    },
+    {
+      "id": "225-6611",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 25,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Limpwurt root",
+        "monster_name": "Vet'ion (Normal)"
+      }
+    },
+    {
+      "id": "1513-6611",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 100,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Magic logs",
+        "monster_name": "Vet'ion (Normal)"
+      }
+    },
+    {
+      "id": "8778-6611",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 300,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Oak plank",
+        "monster_name": "Vet'ion (Normal)"
+      }
+    },
+    {
+      "id": "536-6611",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 100,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Dragon bones",
+        "monster_name": "Vet'ion (Normal)"
+      }
+    },
+    {
+      "id": "1631-6611",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Uncut dragonstone",
+        "monster_name": "Vet'ion (Normal)"
+      }
+    },
+    {
+      "id": "2970-6611",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 200,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Mort myre fungus",
+        "monster_name": "Vet'ion (Normal)"
+      }
+    },
+    {
+      "id": "207-6611",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 100,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Vet'ion (Normal)"
+      }
+    },
+    {
+      "id": "11936-6611",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 8,
+        "quantity_max": null,
+        "rarity": "0.078125"
+      },
+      "meta": {
+        "item_name": "Dark crab",
+        "monster_name": "Vet'ion (Normal)"
+      }
+    },
+    {
+      "id": "3024-6611",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.078125"
+      },
+      "meta": {
+        "item_name": "Super restore (4 dose)",
+        "monster_name": "Vet'ion (Normal)"
+      }
+    },
+    {
+      "id": "10925-6611",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Sanfew serum (4 dose)",
+        "monster_name": "Vet'ion (Normal)"
+      }
+    },
+    {
+      "id": "4850-6611",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Ogre coffin key",
+        "monster_name": "Vet'ion (Normal)"
+      }
+    },
+    {
+      "id": "6034-6611",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 100,
+        "quantity_max": null,
+        "rarity": "0.037109375"
+      },
+      "meta": {
+        "item_name": "Supercompost",
+        "monster_name": "Vet'ion (Normal)"
+      }
+    },
+    {
+      "id": "11940-6611",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 375,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Dark fishing bait",
+        "monster_name": "Vet'ion (Normal)"
+      }
+    },
+    {
+      "id": "5289-6611",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Palm tree seed",
+        "monster_name": "Vet'ion (Normal)"
+      }
+    },
+    {
+      "id": "5315-6611",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Yew seed",
+        "monster_name": "Vet'ion (Normal)"
+      }
+    },
+    {
+      "id": "5316-6611",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Magic seed",
+        "monster_name": "Vet'ion (Normal)"
+      }
+    },
+    {
+      "id": "11941-6611",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Vet'ion (Normal)"
+      }
+    },
+    {
+      "id": "995-6611",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 15000,
+        "quantity_max": 19999,
+        "rarity": "0.1484375"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Vet'ion (Normal)"
+      }
+    }
+  ]
+}

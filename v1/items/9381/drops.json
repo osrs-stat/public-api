@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "id": "9381-8031",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 20,
+        "quantity_max": 30,
+        "rarity": "0.0866141732283465"
+      },
+      "meta": {
+        "item_name": "Runite bolts (unf)",
+        "monster_name": "Rune dragon"
+      }
+    },
+    {
+      "id": "9381-5862",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 40,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Runite bolts (unf)",
+        "monster_name": "Cerberus"
+      }
+    }
+  ]
+}

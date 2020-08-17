@@ -1,0 +1,84 @@
+{
+  "data": [
+    {
+      "id": "21257-6613",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00431034482758621"
+      },
+      "meta": {
+        "item_name": "Slayer's enchantment",
+        "monster_name": "Skeleton Hellhound (Vet'ion)"
+      }
+    },
+    {
+      "id": "23490-6613",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0135135135135135"
+      },
+      "meta": {
+        "item_name": "Larran's key",
+        "monster_name": "Skeleton Hellhound (Vet'ion)"
+      }
+    },
+    {
+      "id": "6806-6613",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0002"
+      },
+      "meta": {
+        "item_name": "Skeleton champion scroll",
+        "monster_name": "Skeleton Hellhound (Vet'ion)"
+      }
+    },
+    {
+      "id": "11941-6613",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Skeleton Hellhound (Vet'ion)"
+      }
+    },
+    {
+      "id": "526-6613",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Bones",
+        "monster_name": "Skeleton Hellhound (Vet'ion)"
+      }
+    }
+  ]
+}

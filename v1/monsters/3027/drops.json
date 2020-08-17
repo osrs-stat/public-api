@@ -1,0 +1,84 @@
+{
+  "data": [
+    {
+      "id": "21257-3027",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00337837837837838"
+      },
+      "meta": {
+        "item_name": "Slayer's enchantment",
+        "monster_name": "King Scorpion"
+      }
+    },
+    {
+      "id": "23490-3027",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0012639029322548"
+      },
+      "meta": {
+        "item_name": "Larran's key",
+        "monster_name": "King Scorpion"
+      }
+    },
+    {
+      "id": "23182-3027",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.01"
+      },
+      "meta": {
+        "item_name": "Clue scroll (beginner)",
+        "monster_name": "King Scorpion"
+      }
+    },
+    {
+      "id": "13459-3027",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.04"
+      },
+      "meta": {
+        "item_name": "Ensouled scorpion head (Item)",
+        "monster_name": "King Scorpion"
+      }
+    },
+    {
+      "id": "11941-3027",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.25"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "King Scorpion"
+      }
+    }
+  ]
+}

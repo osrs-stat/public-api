@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "id": "4587-499",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Dragon scimitar",
+        "monster_name": "Thermonuclear smoke devil"
+      }
+    },
+    {
+      "id": "4587-7144",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.02"
+      },
+      "meta": {
+        "item_name": "Dragon scimitar",
+        "monster_name": "Demonic gorilla"
+      }
+    },
+    {
+      "id": "4587-6615",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Dragon scimitar",
+        "monster_name": "Scorpia"
+      }
+    }
+  ]
+}

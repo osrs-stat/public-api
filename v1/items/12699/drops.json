@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "id": "12699-963",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.111111111111111"
+      },
+      "meta": {
+        "item_name": "Super combat potion (2 dose)",
+        "monster_name": "Kalphite Queen (Crawling)"
+      }
+    },
+    {
+      "id": "12699-965",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.111111111111111"
+      },
+      "meta": {
+        "item_name": "Super combat potion (2 dose)",
+        "monster_name": "Kalphite Queen (Airborne)"
+      }
+    },
+    {
+      "id": "12699-7795",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0373134328358209"
+      },
+      "meta": {
+        "item_name": "Super combat potion (2 dose)",
+        "monster_name": "Ancient Wyvern"
+      }
+    }
+  ]
+}

@@ -1,0 +1,356 @@
+{
+  "data": [
+    {
+      "id": "557-1",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 20,
+        "rarity": "0.078125"
+      },
+      "meta": {
+        "item_name": "Earth rune (Regular)",
+        "monster_name": "Molanisk"
+      }
+    },
+    {
+      "id": "564-1",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 7,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Cosmic rune",
+        "monster_name": "Molanisk"
+      }
+    },
+    {
+      "id": "4698-1",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 15,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Mud rune",
+        "monster_name": "Molanisk"
+      }
+    },
+    {
+      "id": "526-1",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Bones",
+        "monster_name": "Molanisk"
+      }
+    },
+    {
+      "id": "7416-1",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Mole claw",
+        "monster_name": "Molanisk"
+      }
+    },
+    {
+      "id": "2677-1",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Clue scroll (easy)",
+        "monster_name": "Molanisk"
+      }
+    },
+    {
+      "id": "199-1",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0625"
+      },
+      "meta": {
+        "item_name": "Grimy guam leaf",
+        "monster_name": "Molanisk"
+      }
+    },
+    {
+      "id": "201-1",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0468779298706169"
+      },
+      "meta": {
+        "item_name": "Grimy marrentill",
+        "monster_name": "Molanisk"
+      }
+    },
+    {
+      "id": "203-1",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0351567993249895"
+      },
+      "meta": {
+        "item_name": "Grimy tarromin",
+        "monster_name": "Molanisk"
+      }
+    },
+    {
+      "id": "205-1",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0273433227605819"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Molanisk"
+      }
+    },
+    {
+      "id": "207-1",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0214776632302405"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Molanisk"
+      }
+    },
+    {
+      "id": "209-1",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Grimy irit leaf",
+        "monster_name": "Molanisk"
+      }
+    },
+    {
+      "id": "211-1",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0117205813408345"
+      },
+      "meta": {
+        "item_name": "Grimy avantoe",
+        "monster_name": "Molanisk"
+      }
+    },
+    {
+      "id": "213-1",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.009765625"
+      },
+      "meta": {
+        "item_name": "Grimy kwuarm",
+        "monster_name": "Molanisk"
+      }
+    },
+    {
+      "id": "215-1",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Grimy cadantine",
+        "monster_name": "Molanisk"
+      }
+    },
+    {
+      "id": "2485-1",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00585891727208812"
+      },
+      "meta": {
+        "item_name": "Grimy lantadyme",
+        "monster_name": "Molanisk"
+      }
+    },
+    {
+      "id": "217-1",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00585891727208812"
+      },
+      "meta": {
+        "item_name": "Grimy dwarf weed",
+        "monster_name": "Molanisk"
+      }
+    },
+    {
+      "id": "555-1",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 14,
+        "rarity": "0.078125"
+      },
+      "meta": {
+        "item_name": "Water rune (Regular)",
+        "monster_name": "Molanisk"
+      }
+    },
+    {
+      "id": "561-1",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 5,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Molanisk"
+      }
+    },
+    {
+      "id": "10978-1",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 4,
+        "rarity": "0.2890625"
+      },
+      "meta": {
+        "item_name": "Swamp weed",
+        "monster_name": "Molanisk"
+      }
+    },
+    {
+      "id": "10978-1",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": 8,
+        "rarity": "0.078125"
+      },
+      "meta": {
+        "item_name": "Swamp weed",
+        "monster_name": "Molanisk"
+      }
+    },
+    {
+      "id": "995-1",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 75,
+        "rarity": "0.078125"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Molanisk"
+      }
+    }
+  ]
+}

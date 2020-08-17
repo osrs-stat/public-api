@@ -1,0 +1,76 @@
+{
+  "data": {
+    "id": "11826",
+    "type": "item",
+    "attributes": {
+      "uuid": "dfc09c16-94d6-4e40-acc1-58e62da79e2e",
+      "name": "Armadyl helmet",
+      "members": true,
+      "release_date": "2013-10-17",
+      "examine": "A helmet of great craftsmanship.",
+      "tradeable": false,
+      "ge_tradeable": false,
+      "lowalch": 115600,
+      "highalch": 173400,
+      "is_equip": true,
+      "is_weapon": false,
+      "icon_base64": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC/klEQVR4Xu2W3UsUYRSHff8EL7oUREJCQiQMSZIkSTZRUfEj3Aw1U/xIxK9MXRbF1dRkSzTKKKWLCpTqIoKI6E878ZzljLMj4ri27kUeOOzMzsx7nvmd33l38/Iu4v8NJ4eZk/ADOHm13iYvl1vk+WJTLqCc7G1F5W2yIw1kLd7oAZUVFp4XVArmzUa7bD1rleRSs4KsxOpzAeTk084DhTGQxGydZg6AnHzZ61V1aBEQ8amILM7c1ePR0ScyPDwh3d0D5wHk5PvHfk8dlJifqJX+/lEZeTylMH19IxKNPpSmpnapra3PprGd/DoY8tTBNwYxPj6nqvT2DilMS8s9qatrlqqq29lUycmPzwNy8L5HPmzfl+npuMzMLMjY2FNVCBja1NnZo+rU1ESkouJmtoCc/Pk2Ij/3B1WheHxVYrEVr0UGUVx8RdPUKS295qkUXPGMkQKiZatr2zI3n0iDobBlSclVaWholcrKW1JUdFnKyq5nQyUnv78Oy8bGa4XBO7SIYuXlN7zk3MBoGXAoZlDBVc8QTjY330lHR5cWoSAAeISWoAbHfGc+YsIAQSWe4do/gkr9RtEq8w1FKWYQJO1Dta6uRwoOENeBKSgo1E8zebBCyEiBJJM7CpNIJNXMs7NLMjkZ8zxkCSQjD0xbW1QikUZVD3CASJRFzQygnOzu7svCwrp6hhFnvNlr/BCMOyAkytAqYJg4Jq26+o6qh4/y8y+pShnsTSm/sNlhXv8eY4VJO7fN0A9DUZJps/0IKBQC8hRATpaXX+jbU5RCVoykHaSd23XzDTu0wdAa0n5CzG8AAhqybU59Ym9tfqAQyeJ2zPekH5Ln/TCW3A8Ux3iLdUKq5NS0ZtKgJ8zox2WqgDsCZFDAsA5rhgZigsw31gp/wZPS1rE0IFoGCO1iTft7kl7/SDgd58HBMU+lIEjwiePi8P50FYHBDrxwCJWcjjfTFVQleOdpIv2FnCpv/6FOUMnpuGeqSvhI990JNULddOY41QuHuukiLiI9/gLxXB0XUvipegAAAABJRU5ErkJggg=="
+    },
+    "relationships": {
+      "equip": {
+        "data": {
+          "id": "5e3d0ecb-7e77-4636-aab9-55b79b057ad4",
+          "type": "equip"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Armadyl_helmet"
+    },
+    "meta": {
+      "incomplete": false
+    }
+  },
+  "included": [
+    {
+      "id": "5e3d0ecb-7e77-4636-aab9-55b79b057ad4",
+      "type": "equip",
+      "attributes": {
+        "slot": "head",
+        "passive_effect": null,
+        "requirements": {
+          "ranged_level": 70,
+          "defense_level": 70
+        }
+      },
+      "relationships": {
+        "equip_stat": {
+          "data": {
+            "id": "aa565d25-0198-4edd-815b-713e0ccf169a",
+            "type": "equip_stat"
+          }
+        }
+      }
+    },
+    {
+      "id": "aa565d25-0198-4edd-815b-713e0ccf169a",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": -5,
+        "slash_attack": -5,
+        "crush_attack": -5,
+        "ranged_attack": 10,
+        "magic_attack": -5,
+        "stab_defense": 6,
+        "slash_defense": 8,
+        "crush_defense": 10,
+        "ranged_defense": 8,
+        "magic_defense": 10,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 1
+      }
+    }
+  ]
+}

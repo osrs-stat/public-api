@@ -1,0 +1,31 @@
+{
+  "data": {
+    "id": "5311",
+    "type": "item",
+    "attributes": {
+      "uuid": "cb5d20a3-ac1d-420e-b50c-b7ce039ede29",
+      "name": "Wildblood seed",
+      "members": true,
+      "release_date": "2005-06-06",
+      "examine": "A Wildblood hop seed - plant in a hops patch.",
+      "tradeable": false,
+      "ge_tradeable": false,
+      "lowalch": 5,
+      "highalch": 8,
+      "is_equip": false,
+      "is_weapon": false,
+      "icon_base64": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAA2UlEQVR4XmNgGAWjYBSMglEwLAHjf0w8YIDxf32Yx//+pMD/s7PC/zvrqf33MNAYSIcx/u+K8wM7pibU7X+Aqc7/EEu9/zYaSv8VRAUHwlGM/ycmB4FDqCnC83+Jn9P/WAfT/z4mWmDHGCgogDG6LhoCxv8zM8PAjmqP8flfGeT6P9vT5n+4jQHcQeg6aAwQDgJFHSg9gUIp0cl84B0ECiGQg8oCnf/nedkOnIOmpYWC0xDMQaAQAkXbADkIBNDLIAgegASNADDL0TG6ulEwCkbBKBgFo2CkAQDg/oQCffFIWgAAAABJRU5ErkJggg=="
+    },
+    "relationships": {
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Wildblood_seed"
+    },
+    "meta": {
+      "incomplete": false
+    }
+  },
+  "included": [
+
+  ]
+}

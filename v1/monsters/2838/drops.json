@@ -1,0 +1,148 @@
+{
+  "data": [
+    {
+      "id": "23182-2838",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0111111111111111"
+      },
+      "meta": {
+        "item_name": "Clue scroll (beginner)",
+        "monster_name": "Grizzly bear (Level 21)"
+      }
+    },
+    {
+      "id": "2136-2838",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Raw bear meat",
+        "monster_name": "Grizzly bear (Level 21)"
+      }
+    },
+    {
+      "id": "23490-2838",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000873896705409421"
+      },
+      "meta": {
+        "item_name": "Larran's key",
+        "monster_name": "Grizzly bear (Level 21)"
+      }
+    },
+    {
+      "id": "21257-2838",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00334448160535117"
+      },
+      "meta": {
+        "item_name": "Slayer's enchantment",
+        "monster_name": "Grizzly bear (Level 21)"
+      }
+    },
+    {
+      "id": "7815-2838",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Bear ribs (Unpolished)",
+        "monster_name": "Grizzly bear (Level 21)"
+      }
+    },
+    {
+      "id": "526-2838",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Bones",
+        "monster_name": "Grizzly bear (Level 21)"
+      }
+    },
+    {
+      "id": "948-2838",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Bear fur",
+        "monster_name": "Grizzly bear (Level 21)"
+      }
+    },
+    {
+      "id": "11941-2838",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.142857142857143"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Grizzly bear (Level 21)"
+      }
+    },
+    {
+      "id": "13462-2838",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.04"
+      },
+      "meta": {
+        "item_name": "Ensouled bear head (Drop)",
+        "monster_name": "Grizzly bear (Level 21)"
+      }
+    }
+  ]
+}

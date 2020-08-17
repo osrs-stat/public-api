@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "1383-1370",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0149788049909378"
+      },
+      "meta": {
+        "item_name": "Staff of water",
+        "monster_name": "Water elemental"
+      }
+    },
+    {
+      "id": "1383-492",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.02"
+      },
+      "meta": {
+        "item_name": "Staff of water",
+        "monster_name": "Cave kraken"
+      }
+    },
+    {
+      "id": "1383-2916",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.046875"
+      },
+      "meta": {
+        "item_name": "Staff of water",
+        "monster_name": "Waterfiend"
+      }
+    },
+    {
+      "id": "1383-2592",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Staff of water",
+        "monster_name": "Mogre"
+      }
+    }
+  ]
+}

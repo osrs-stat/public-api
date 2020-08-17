@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "13395-6896",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.125"
+      },
+      "meta": {
+        "item_name": "Intelligence",
+        "monster_name": "Gangster (Level 45)"
+      }
+    },
+    {
+      "id": "13395-6902",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.125"
+      },
+      "meta": {
+        "item_name": "Intelligence",
+        "monster_name": "Gang boss (Male)"
+      }
+    },
+    {
+      "id": "13395-6900",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.125"
+      },
+      "meta": {
+        "item_name": "Intelligence",
+        "monster_name": "Gang boss (Female)"
+      }
+    },
+    {
+      "id": "13395-6898",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.125"
+      },
+      "meta": {
+        "item_name": "Intelligence",
+        "monster_name": "Gangster (Level 50)"
+      }
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "data": {
+    "id": "522",
+    "type": "monster",
+    "attributes": {
+      "uuid": "b6c784e4-6742-4c90-a341-c3b398293d25",
+      "name": "Pirate (Brimhaven)",
+      "members": true,
+      "release_date": "2002-02-27",
+      "examine": "Avast ye scurvy land lubbers!",
+      "combat_level_override": null,
+      "max_hit_override": null,
+      "target_types": [
+
+      ],
+      "classification_types": [
+        "pirate"
+      ],
+      "poison": false,
+      "immune_poison": false,
+      "immune_venom": false,
+      "slayer_xp": 20.0,
+      "slayer_level": 1,
+      "slayer_masters": [
+        "krystilia"
+      ],
+      "icon_base64": null
+    },
+    "relationships": {
+      "combat_stat": {
+        "data": {
+          "id": "d9ab287f-7844-400c-8fe0-a936a13cc075",
+          "type": "combat_stat"
+        }
+      },
+      "equip_stat": {
+        "data": {
+          "id": "207d0bea-3596-463f-a3c9-c296d41f1d6d",
+          "type": "equip_stat"
+        }
+      },
+      "attack_stat": {
+        "data": {
+          "id": "1dace5ae-c6b2-4b0e-889a-b6df68781431",
+          "type": "attack_stat"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Pirate#Brimhaven"
+    },
+    "meta": {
+      "incomplete": true
+    }
+  },
+  "included": [
+    {
+      "id": "1dace5ae-c6b2-4b0e-889a-b6df68781431",
+      "type": "attack_stat",
+      "attributes": {
+        "attack_speed": 5,
+        "attack_type": "monster",
+        "special": null,
+        "stances": [
+          {
+            "name": "Monster slash",
+            "style": null,
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": null,
+            "combat_accuracy_stat": "attack_level",
+            "combat_damage_stat": "strength_level",
+            "equip_accuracy_stat": "slash_attack",
+            "equip_damage_stat": "slash_attack",
+            "target_equip_defense_stat": "slash_defense"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d9ab287f-7844-400c-8fe0-a936a13cc075",
+      "type": "monster_combat_stat",
+      "attributes": {
+        "hitpoints_level": 20,
+        "attack_level": 21,
+        "strength_level": 21,
+        "defense_level": 21,
+        "magic_level": 1,
+        "ranged_level": 1,
+        "prayer_level": 0
+      }
+    },
+    {
+      "id": "207d0bea-3596-463f-a3c9-c296d41f1d6d",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 8,
+        "slash_attack": 8,
+        "crush_attack": 8,
+        "ranged_attack": 0,
+        "magic_attack": 0,
+        "stab_defense": 3,
+        "slash_defense": 2,
+        "crush_defense": 0,
+        "ranged_defense": 0,
+        "magic_defense": 0,
+        "melee_strength": 10,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

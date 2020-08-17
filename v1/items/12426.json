@@ -1,0 +1,156 @@
+{
+  "data": {
+    "id": "12426",
+    "type": "item",
+    "attributes": {
+      "uuid": "165c8c90-5700-41b2-9bd3-14f1e0d52d00",
+      "name": "3rd age longsword",
+      "members": true,
+      "release_date": "2014-06-12",
+      "examine": "A beautifully crafted sword forged by ancient blacksmiths.",
+      "tradeable": false,
+      "ge_tradeable": false,
+      "lowalch": 60000,
+      "highalch": 90000,
+      "is_equip": true,
+      "is_weapon": true,
+      "icon_base64": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABK0lEQVR4Xu2WvQrCQBCEcw+QUrARUgcRESy08XnsVETU+Ism/puAKJL0au0Lruydl4QgYrdbODAQkhQfc8vsGQZfCci+IZSAwPPgD/VdAgbtFpzWa15Q424XztsNL6hpr8cPajkcwmW/4wW1mozhejzwgjosFvygsA5C3+cFhfMUBQEvqFwhB5vZlAuUkDAIhc9ly+IBhcWpobJfCaSAsDhZQTmdjixOVlCYkjtyUlDaJFIpzfv9eNC1CeHUPJl5UzrZe6oeiI5TxEC4XnSjp6uBoB5UKpgQgqTnigBGSyXluy4UizW5YogbXUClVIpt21Vp8pS0MS08NvIbQjLECuz5uFOnlEiD3aIwBsz+QyABrWbzfeMs8IFCY4k26nUeUOm5IirLz2IF86te6mv1Uts2W6kAAAAASUVORK5CYII="
+    },
+    "relationships": {
+      "equip": {
+        "data": {
+          "id": "1a1cd932-53df-44e8-9e2c-cdb08a1667a8",
+          "type": "equip"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/3rd_age_longsword"
+    },
+    "meta": {
+      "incomplete": false
+    }
+  },
+  "included": [
+    {
+      "id": "1a1cd932-53df-44e8-9e2c-cdb08a1667a8",
+      "type": "equip",
+      "attributes": {
+        "slot": "weapon",
+        "passive_effect": null,
+        "requirements": {
+          "attack_level": 65
+        }
+      },
+      "relationships": {
+        "equip_stat": {
+          "data": {
+            "id": "98c726c7-609c-464d-b8ad-b6bd6d47938b",
+            "type": "equip_stat"
+          }
+        },
+        "attack_stat": {
+          "data": {
+            "id": "7e3ae9a1-4127-4e83-b576-06b056a8ee73",
+            "type": "attack_stat"
+          }
+        }
+      }
+    },
+    {
+      "id": "7e3ae9a1-4127-4e83-b576-06b056a8ee73",
+      "type": "attack_stat",
+      "attributes": {
+        "attack_speed": 5,
+        "attack_type": "two_handed_sword",
+        "special": null,
+        "stances": [
+          {
+            "name": "chop",
+            "style": "accurate",
+            "boosts": {
+              "accuracy": 3
+            },
+            "experience": {
+              "hitpoints": 1.3333,
+              "attack": 4
+            },
+            "combat_accuracy_stat": "attack_level",
+            "combat_damage_stat": "strength_level",
+            "equip_accuracy_stat": "slash_attack",
+            "equip_damage_stat": "slash_attack",
+            "target_equip_defense_stat": "slash_defense"
+          },
+          {
+            "name": "slash",
+            "style": "aggressive",
+            "boosts": {
+              "damage": 3
+            },
+            "experience": {
+              "hitpoints": 1.3333,
+              "strength": 4
+            },
+            "combat_accuracy_stat": "attack_level",
+            "combat_damage_stat": "strength_level",
+            "equip_accuracy_stat": "slash_attack",
+            "equip_damage_stat": "slash_attack",
+            "target_equip_defense_stat": "slash_defense"
+          },
+          {
+            "name": "smash",
+            "style": "aggressive",
+            "boosts": {
+              "damage": 3
+            },
+            "experience": {
+              "hitpoints": 1.3333,
+              "strength": 4
+            },
+            "combat_accuracy_stat": "attack_level",
+            "combat_damage_stat": "strength_level",
+            "equip_accuracy_stat": "crush_attack",
+            "equip_damage_stat": "crush_attack",
+            "target_equip_defense_stat": "crush_defense"
+          },
+          {
+            "name": "block",
+            "style": "defensive",
+            "boosts": {
+              "defense": 3
+            },
+            "experience": {
+              "hitpoints": 1.3333,
+              "defense": 4
+            },
+            "combat_accuracy_stat": "attack_level",
+            "combat_damage_stat": "strength_level",
+            "equip_accuracy_stat": "slash_attack",
+            "equip_damage_stat": "slash_attack",
+            "target_equip_defense_stat": "slash_defense"
+          }
+        ]
+      }
+    },
+    {
+      "id": "98c726c7-609c-464d-b8ad-b6bd6d47938b",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 0,
+        "slash_attack": 72,
+        "crush_attack": 60,
+        "ranged_attack": 0,
+        "magic_attack": 0,
+        "stab_defense": 0,
+        "slash_defense": 3,
+        "crush_defense": 2,
+        "ranged_defense": 0,
+        "magic_defense": 0,
+        "melee_strength": 75,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

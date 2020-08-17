@@ -1,0 +1,117 @@
+{
+  "data": {
+    "id": "6473",
+    "type": "monster",
+    "attributes": {
+      "uuid": "c5184db5-e451-4faa-b974-a77bd7c2d12e",
+      "name": "Terror dog (Level 110)",
+      "members": true,
+      "release_date": "2007-01-22",
+      "examine": "A terrifying dog beast.",
+      "combat_level_override": null,
+      "max_hit_override": null,
+      "target_types": [
+
+      ],
+      "classification_types": [
+        "terror dog"
+      ],
+      "poison": false,
+      "immune_poison": false,
+      "immune_venom": false,
+      "slayer_xp": 87.0,
+      "slayer_level": 40,
+      "slayer_masters": [
+        "vannaka"
+      ],
+      "icon_base64": null
+    },
+    "relationships": {
+      "combat_stat": {
+        "data": {
+          "id": "b2eb5de1-4d7f-49a9-9701-bffb71f75e2d",
+          "type": "combat_stat"
+        }
+      },
+      "equip_stat": {
+        "data": {
+          "id": "6edc9329-45ff-4f98-bb16-79ff5711f5f0",
+          "type": "equip_stat"
+        }
+      },
+      "attack_stat": {
+        "data": {
+          "id": "b7fce40a-2f90-4790-a4e9-ea9e2f370c2d",
+          "type": "attack_stat"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Terror_dog#Level_110"
+    },
+    "meta": {
+      "incomplete": true
+    }
+  },
+  "included": [
+    {
+      "id": "b7fce40a-2f90-4790-a4e9-ea9e2f370c2d",
+      "type": "attack_stat",
+      "attributes": {
+        "attack_speed": 4,
+        "attack_type": "monster",
+        "special": null,
+        "stances": [
+          {
+            "name": "Monster crush",
+            "style": null,
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": null,
+            "combat_accuracy_stat": "attack_level",
+            "combat_damage_stat": "strength_level",
+            "equip_accuracy_stat": "crush_attack",
+            "equip_damage_stat": "crush_attack",
+            "target_equip_defense_stat": "crush_defense"
+          }
+        ]
+      }
+    },
+    {
+      "id": "b2eb5de1-4d7f-49a9-9701-bffb71f75e2d",
+      "type": "monster_combat_stat",
+      "attributes": {
+        "hitpoints_level": 87,
+        "attack_level": 110,
+        "strength_level": 104,
+        "defense_level": 78,
+        "magic_level": 1,
+        "ranged_level": 1,
+        "prayer_level": 0
+      }
+    },
+    {
+      "id": "6edc9329-45ff-4f98-bb16-79ff5711f5f0",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 0,
+        "slash_attack": 0,
+        "crush_attack": 0,
+        "ranged_attack": 0,
+        "magic_attack": 0,
+        "stab_defense": 0,
+        "slash_defense": 0,
+        "crush_defense": 0,
+        "ranged_defense": 0,
+        "magic_defense": 0,
+        "melee_strength": 20,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

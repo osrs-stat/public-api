@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "id": "161-7254",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0625"
+      },
+      "meta": {
+        "item_name": "Super strength (1 dose)",
+        "monster_name": "Iron dragon (Catacombs of Kourend)"
+      }
+    },
+    {
+      "id": "161-272",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0625"
+      },
+      "meta": {
+        "item_name": "Super strength (1 dose)",
+        "monster_name": "Iron dragon (Normal)"
+      }
+    }
+  ]
+}

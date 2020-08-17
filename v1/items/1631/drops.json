@@ -1,0 +1,292 @@
+{
+  "data": [
+    {
+      "id": "1631-6503",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Uncut dragonstone",
+        "monster_name": "Callisto"
+      }
+    },
+    {
+      "id": "1631-9049",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 1,
+        "quantity_max": 11,
+        "rarity": "0.0555555555555556"
+      },
+      "meta": {
+        "item_name": "Uncut dragonstone",
+        "monster_name": "Zalcano"
+      }
+    },
+    {
+      "id": "1631-7940",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 5,
+        "quantity_max": 7,
+        "rarity": "0.0187735849056604"
+      },
+      "meta": {
+        "item_name": "Uncut dragonstone",
+        "monster_name": "Revenant dragon"
+      }
+    },
+    {
+      "id": "1631-7939",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 5,
+        "quantity_max": 7,
+        "rarity": "0.0175471698113208"
+      },
+      "meta": {
+        "item_name": "Uncut dragonstone",
+        "monster_name": "Revenant knight"
+      }
+    },
+    {
+      "id": "1631-7938",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 5,
+        "quantity_max": 7,
+        "rarity": "0.0150943396226415"
+      },
+      "meta": {
+        "item_name": "Uncut dragonstone",
+        "monster_name": "Revenant dark beast"
+      }
+    },
+    {
+      "id": "1631-7937",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 5,
+        "quantity_max": 7,
+        "rarity": "0.0128644939965695"
+      },
+      "meta": {
+        "item_name": "Uncut dragonstone",
+        "monster_name": "Revenant ork"
+      }
+    },
+    {
+      "id": "1631-7936",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 5,
+        "quantity_max": 7,
+        "rarity": "0.0106712032168265"
+      },
+      "meta": {
+        "item_name": "Uncut dragonstone",
+        "monster_name": "Revenant demon"
+      }
+    },
+    {
+      "id": "1631-7935",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 5,
+        "quantity_max": 7,
+        "rarity": "0.00974327250231983"
+      },
+      "meta": {
+        "item_name": "Uncut dragonstone",
+        "monster_name": "Revenant hellhound"
+      }
+    },
+    {
+      "id": "1631-7934",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 5,
+        "quantity_max": 7,
+        "rarity": "0.00881534178781318"
+      },
+      "meta": {
+        "item_name": "Uncut dragonstone",
+        "monster_name": "Revenant cyclops"
+      }
+    },
+    {
+      "id": "1631-7933",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 5,
+        "quantity_max": 7,
+        "rarity": "0.00516764811921644"
+      },
+      "meta": {
+        "item_name": "Uncut dragonstone",
+        "monster_name": "Revenant hobgoblin"
+      }
+    },
+    {
+      "id": "1631-7932",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 5,
+        "quantity_max": 7,
+        "rarity": "0.00456675880302848"
+      },
+      "meta": {
+        "item_name": "Uncut dragonstone",
+        "monster_name": "Revenant pyrefiend"
+      }
+    },
+    {
+      "id": "1631-7931",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 5,
+        "quantity_max": 7,
+        "rarity": "0.00108110890885222"
+      },
+      "meta": {
+        "item_name": "Uncut dragonstone",
+        "monster_name": "Revenant goblin"
+      }
+    },
+    {
+      "id": "1631-7881",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 5,
+        "quantity_max": 7,
+        "rarity": "0.000617495711835335"
+      },
+      "meta": {
+        "item_name": "Uncut dragonstone",
+        "monster_name": "Revenant imp"
+      }
+    },
+    {
+      "id": "1631-7286",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.01"
+      },
+      "meta": {
+        "item_name": "Uncut dragonstone",
+        "monster_name": "Skotizo"
+      }
+    },
+    {
+      "id": "1631-7275",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.001953125"
+      },
+      "meta": {
+        "item_name": "Uncut dragonstone",
+        "monster_name": "Brutal black dragon"
+      }
+    },
+    {
+      "id": "1631-6612",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Uncut dragonstone",
+        "monster_name": "Vet'ion (Reborn)"
+      }
+    },
+    {
+      "id": "1631-6611",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Uncut dragonstone",
+        "monster_name": "Vet'ion (Normal)"
+      }
+    },
+    {
+      "id": "1631-6504",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Uncut dragonstone",
+        "monster_name": "Venenatis"
+      }
+    }
+  ]
+}

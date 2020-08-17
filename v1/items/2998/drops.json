@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "id": "2998-2044",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 25,
+        "quantity_max": null,
+        "rarity": "0.00806451612903226"
+      },
+      "meta": {
+        "item_name": "Toadflax",
+        "monster_name": "Zulrah (Tanzanite)"
+      }
+    },
+    {
+      "id": "2998-2042",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 25,
+        "quantity_max": null,
+        "rarity": "0.00806451612903226"
+      },
+      "meta": {
+        "item_name": "Toadflax",
+        "monster_name": "Zulrah (Serpentine)"
+      }
+    },
+    {
+      "id": "2998-2043",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 25,
+        "quantity_max": null,
+        "rarity": "0.00806451612903226"
+      },
+      "meta": {
+        "item_name": "Toadflax",
+        "monster_name": "Zulrah (Magma)"
+      }
+    }
+  ]
+}

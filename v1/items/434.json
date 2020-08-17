@@ -1,0 +1,31 @@
+{
+  "data": {
+    "id": "434",
+    "type": "item",
+    "attributes": {
+      "uuid": "6e9e386a-aa73-4330-b38b-b1d93a96b0bc",
+      "name": "Clay",
+      "members": false,
+      "release_date": "2001-02-28",
+      "examine": "Some hard dry clay.",
+      "tradeable": false,
+      "ge_tradeable": false,
+      "lowalch": 0,
+      "highalch": 0,
+      "is_equip": false,
+      "is_weapon": false,
+      "icon_base64": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABcElEQVR4Xu2T7ytDURjH7/lP9kryygtv9mJRUqMRMspMo5lICyUtiZa1WstahtaEpKQkSUr+uK++z+1wdy/y4243Op96Oqdz657PeX5YlsFgMBj+LQreCAyF8uYoGntTqG1PyL4/3BGkmMJ5MYGr/VmcFqZRz0+iujUuYsX1WBBSCvfHC3ioZ3B7MI+L0oyIeUvY1nK6L1ToDoVkZZYquTHkMgNIx8OI9XX5KeW9+L2gjBZiKZk1lpJiuoz291+hsLMSRT47iMLqkPy4tDEivcLzbDKCxHAPopFOVwY+E/4x9iTxhWxYTtPRblxezT3P+I2CFF5L9ToELEsLOMN9wzdRMtZsVk4Ug2XgynOKUZByFNMTxkw2Z8s37F64rqQkbqpzsur+oBhlKafFfCzPR7yNN+PuMN0kdllOvso5RVoko7Ff/Xy2jMfGoghqMR0tzooXPc6Mp5MlyRbFGG2XceIUa0O/fB1nrwQuYzAY/jovYSpQtgXKWbIAAAAASUVORK5CYII="
+    },
+    "relationships": {
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Clay"
+    },
+    "meta": {
+      "incomplete": false
+    }
+  },
+  "included": [
+
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "data": [
+    {
+      "id": "817-272",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 9,
+        "quantity_max": null,
+        "rarity": "0.0546875"
+      },
+      "meta": {
+        "item_name": "Rune dart (Poison)",
+        "monster_name": "Iron dragon (Normal)"
+      }
+    },
+    {
+      "id": "817-7254",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 9,
+        "quantity_max": null,
+        "rarity": "0.0546875"
+      },
+      "meta": {
+        "item_name": "Rune dart (Poison)",
+        "monster_name": "Iron dragon (Catacombs of Kourend)"
+      }
+    },
+    {
+      "id": "817-2919",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 14,
+        "quantity_max": null,
+        "rarity": "0.0546875"
+      },
+      "meta": {
+        "item_name": "Rune dart (Poison)",
+        "monster_name": "Mithril dragon"
+      }
+    },
+    {
+      "id": "817-274",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 12,
+        "quantity_max": null,
+        "rarity": "0.0546875"
+      },
+      "meta": {
+        "item_name": "Rune dart (Poison)",
+        "monster_name": "Steel dragon (Normal)"
+      }
+    },
+    {
+      "id": "817-7255",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 12,
+        "quantity_max": null,
+        "rarity": "0.0546875"
+      },
+      "meta": {
+        "item_name": "Rune dart (Poison)",
+        "monster_name": "Steel dragon (Catacombs of Kourend)"
+      }
+    }
+  ]
+}

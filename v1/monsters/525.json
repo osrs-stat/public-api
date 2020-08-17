@@ -1,0 +1,117 @@
+{
+  "data": {
+    "id": "525",
+    "type": "monster",
+    "attributes": {
+      "uuid": "12b8b231-04bd-41eb-a8d0-421e0aeaef10",
+      "name": "Thug",
+      "members": true,
+      "release_date": "2002-02-27",
+      "examine": "Low on brains, high on aggression.",
+      "combat_level_override": null,
+      "max_hit_override": null,
+      "target_types": [
+
+      ],
+      "classification_types": [
+
+      ],
+      "poison": false,
+      "immune_poison": false,
+      "immune_venom": false,
+      "slayer_xp": null,
+      "slayer_level": null,
+      "slayer_masters": [
+
+      ],
+      "icon_base64": null
+    },
+    "relationships": {
+      "combat_stat": {
+        "data": {
+          "id": "427a3662-c9e9-4c14-a02f-d455ea5af884",
+          "type": "combat_stat"
+        }
+      },
+      "equip_stat": {
+        "data": {
+          "id": "6089d6c3-7129-48dd-add9-08199e703a56",
+          "type": "equip_stat"
+        }
+      },
+      "attack_stat": {
+        "data": {
+          "id": "c7c6e3da-474f-4c88-ad62-d1eb9ca1cc3a",
+          "type": "attack_stat"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Thug"
+    },
+    "meta": {
+      "incomplete": true
+    }
+  },
+  "included": [
+    {
+      "id": "c7c6e3da-474f-4c88-ad62-d1eb9ca1cc3a",
+      "type": "attack_stat",
+      "attributes": {
+        "attack_speed": 4,
+        "attack_type": "monster",
+        "special": null,
+        "stances": [
+          {
+            "name": "Monster stab",
+            "style": null,
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": null,
+            "combat_accuracy_stat": "attack_level",
+            "combat_damage_stat": "strength_level",
+            "equip_accuracy_stat": "stab_attack",
+            "equip_damage_stat": "stab_attack",
+            "target_equip_defense_stat": "stab_defense"
+          }
+        ]
+      }
+    },
+    {
+      "id": "427a3662-c9e9-4c14-a02f-d455ea5af884",
+      "type": "monster_combat_stat",
+      "attributes": {
+        "hitpoints_level": 18,
+        "attack_level": 7,
+        "strength_level": 5,
+        "defense_level": 9,
+        "magic_level": 1,
+        "ranged_level": 1,
+        "prayer_level": 0
+      }
+    },
+    {
+      "id": "6089d6c3-7129-48dd-add9-08199e703a56",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 5,
+        "slash_attack": 5,
+        "crush_attack": 5,
+        "ranged_attack": 0,
+        "magic_attack": 0,
+        "stab_defense": 2,
+        "slash_defense": 3,
+        "crush_defense": 3,
+        "ranged_defense": 0,
+        "magic_defense": 0,
+        "melee_strength": 5,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

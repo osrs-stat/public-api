@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "id": "991-291",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0546875"
+      },
+      "meta": {
+        "item_name": "Muddy key",
+        "monster_name": "Chaos dwarf"
+      }
+    },
+    {
+      "id": "991-6618",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Muddy key",
+        "monster_name": "Crazy archaeologist"
+      }
+    }
+  ]
+}

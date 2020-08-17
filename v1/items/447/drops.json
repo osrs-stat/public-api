@@ -1,0 +1,532 @@
+{
+  "data": [
+    {
+      "id": "447-2267",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 25,
+        "quantity_max": null,
+        "rarity": "0.078125"
+      },
+      "meta": {
+        "item_name": "Mithril ore",
+        "monster_name": "Dagannoth Rex"
+      }
+    },
+    {
+      "id": "447-2514",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 3,
+        "quantity_max": 7,
+        "rarity": "0.02"
+      },
+      "meta": {
+        "item_name": "Mithril ore",
+        "monster_name": "Ankou (Level 75)"
+      }
+    },
+    {
+      "id": "447-2514",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 3,
+        "quantity_max": 7,
+        "rarity": "0.0210526315789474"
+      },
+      "meta": {
+        "item_name": "Mithril ore",
+        "monster_name": "Ankou (Level 75)"
+      }
+    },
+    {
+      "id": "447-2515",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 3,
+        "quantity_max": 7,
+        "rarity": "0.02"
+      },
+      "meta": {
+        "item_name": "Mithril ore",
+        "monster_name": "Ankou (Level 82)"
+      }
+    },
+    {
+      "id": "447-2515",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 3,
+        "quantity_max": 7,
+        "rarity": "0.0210526315789474"
+      },
+      "meta": {
+        "item_name": "Mithril ore",
+        "monster_name": "Ankou (Level 82)"
+      }
+    },
+    {
+      "id": "447-2516",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 3,
+        "quantity_max": 7,
+        "rarity": "0.02"
+      },
+      "meta": {
+        "item_name": "Mithril ore",
+        "monster_name": "Ankou (Level 86)"
+      }
+    },
+    {
+      "id": "447-2516",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 3,
+        "quantity_max": 7,
+        "rarity": "0.0210526315789474"
+      },
+      "meta": {
+        "item_name": "Mithril ore",
+        "monster_name": "Ankou (Level 86)"
+      }
+    },
+    {
+      "id": "447-260",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Mithril ore",
+        "monster_name": "Green dragon (Level 79)"
+      }
+    },
+    {
+      "id": "447-2918",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Mithril ore",
+        "monster_name": "Brutal green dragon"
+      }
+    },
+    {
+      "id": "447-4099",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Mithril ore",
+        "monster_name": "Guard (Burthorpe) (Black beard)"
+      }
+    },
+    {
+      "id": "447-4100",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Mithril ore",
+        "monster_name": "Guard (Burthorpe) (Grey beard)"
+      }
+    },
+    {
+      "id": "447-6729",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Mithril ore",
+        "monster_name": "Rock golem (monster) (Level 120)"
+      }
+    },
+    {
+      "id": "447-6730",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Mithril ore",
+        "monster_name": "Rock golem (monster) (Level 159)"
+      }
+    },
+    {
+      "id": "447-7257",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 3,
+        "quantity_max": 7,
+        "rarity": "0.02"
+      },
+      "meta": {
+        "item_name": "Mithril ore",
+        "monster_name": "Ankou (Level 95)"
+      }
+    },
+    {
+      "id": "447-7257",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 3,
+        "quantity_max": 7,
+        "rarity": "0.0210526315789474"
+      },
+      "meta": {
+        "item_name": "Mithril ore",
+        "monster_name": "Ankou (Level 95)"
+      }
+    },
+    {
+      "id": "447-7272",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Mithril ore",
+        "monster_name": "Twisted Banshee"
+      }
+    },
+    {
+      "id": "447-7391",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Mithril ore",
+        "monster_name": "Screaming twisted banshee"
+      }
+    },
+    {
+      "id": "447-7392",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Mithril ore",
+        "monster_name": "Giant rockslug"
+      }
+    },
+    {
+      "id": "447-7864",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 3,
+        "quantity_max": 7,
+        "rarity": "0.02"
+      },
+      "meta": {
+        "item_name": "Mithril ore",
+        "monster_name": "Ankou (Level 98)"
+      }
+    },
+    {
+      "id": "447-7864",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 3,
+        "quantity_max": 7,
+        "rarity": "0.0210526315789474"
+      },
+      "meta": {
+        "item_name": "Mithril ore",
+        "monster_name": "Ankou (Level 98)"
+      }
+    },
+    {
+      "id": "447-7868",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Mithril ore",
+        "monster_name": "Green dragon (Level 88)"
+      }
+    },
+    {
+      "id": "447-7878",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Mithril ore",
+        "monster_name": "Ice giant (Level 67)"
+      }
+    },
+    {
+      "id": "447-7878",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Mithril ore",
+        "monster_name": "Ice giant (Level 67)"
+      }
+    },
+    {
+      "id": "447-8614",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 3,
+        "quantity_max": 5,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Mithril ore",
+        "monster_name": "Sulphur Lizard"
+      }
+    },
+    {
+      "id": "447-8713",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 60,
+        "quantity_max": 90,
+        "rarity": "0.06"
+      },
+      "meta": {
+        "item_name": "Mithril ore",
+        "monster_name": "Sarachnis"
+      }
+    },
+    {
+      "id": "447-9049",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 56,
+        "quantity_max": 387,
+        "rarity": "0.0555555555555556"
+      },
+      "meta": {
+        "item_name": "Mithril ore",
+        "monster_name": "Zalcano"
+      }
+    },
+    {
+      "id": "447-2916",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 10,
+        "quantity_max": 20,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Mithril ore",
+        "monster_name": "Waterfiend"
+      }
+    },
+    {
+      "id": "447-421",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Mithril ore",
+        "monster_name": "Rockslug"
+      }
+    },
+    {
+      "id": "447-458",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Mithril ore",
+        "monster_name": "Lizard"
+      }
+    },
+    {
+      "id": "447-459",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Mithril ore",
+        "monster_name": "Desert Lizard"
+      }
+    },
+    {
+      "id": "447-462",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Mithril ore",
+        "monster_name": "Small Lizard"
+      }
+    },
+    {
+      "id": "447-2085",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Mithril ore",
+        "monster_name": "Ice giant (Level 53)"
+      }
+    },
+    {
+      "id": "447-2085",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Mithril ore",
+        "monster_name": "Ice giant (Level 53)"
+      }
+    }
+  ]
+}

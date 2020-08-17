@@ -1,0 +1,75 @@
+{
+  "data": {
+    "id": "2491",
+    "type": "item",
+    "attributes": {
+      "uuid": "bf59b38e-aefd-4cba-9670-af2634c1031e",
+      "name": "Black d'hide vambraces",
+      "members": true,
+      "release_date": "2004-03-22",
+      "examine": "Vambraces made from 100% real dragonhide.",
+      "tradeable": false,
+      "ge_tradeable": false,
+      "lowalch": 1728,
+      "highalch": 2592,
+      "is_equip": true,
+      "is_weapon": false,
+      "icon_base64": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABAElEQVR4Xu2U0QqDMAxF20/wYSB78lmGyHDIZLD//6qO6qoxVZNWbTfogYtCQ3Joq0IkEkGRakp0pLpk2ZjIYnMZWyw460KRdmtb6EQxeGlhY57QwWL2UCyI16nsEKOHcWrW4iFGD+PUUHEQ2z+MyjXP1att1bNpOFLnC2kR87xXFSXlJuRa/6hrcFxD6qLog02+uA3Qgc3xGg4UgMEWALrpUsygNTF9PLeyBHVs7GbcDDJCQDEcxo4s4S717ro+RkqDj8VTxsCX0p+wEdLvUOpgaKnpXyJHIeb/xZdtqfm92H1XuNhS8Hjg4APuCpdJKuBOUMwlIssM/IREIvGvfABQs+ZqBR9FPwAAAABJRU5ErkJggg=="
+    },
+    "relationships": {
+      "equip": {
+        "data": {
+          "id": "d7e26797-b33f-4526-9392-24f823746b18",
+          "type": "equip"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Black_d'hide_vambraces"
+    },
+    "meta": {
+      "incomplete": false
+    }
+  },
+  "included": [
+    {
+      "id": "d7e26797-b33f-4526-9392-24f823746b18",
+      "type": "equip",
+      "attributes": {
+        "slot": "gloves",
+        "passive_effect": null,
+        "requirements": {
+          "ranged_level": 70
+        }
+      },
+      "relationships": {
+        "equip_stat": {
+          "data": {
+            "id": "baf82552-e96f-4d51-affe-a74527733cc6",
+            "type": "equip_stat"
+          }
+        }
+      }
+    },
+    {
+      "id": "baf82552-e96f-4d51-affe-a74527733cc6",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 0,
+        "slash_attack": 0,
+        "crush_attack": 0,
+        "ranged_attack": 11,
+        "magic_attack": -10,
+        "stab_defense": 6,
+        "slash_defense": 5,
+        "crush_defense": 7,
+        "ranged_defense": 0,
+        "magic_defense": 8,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

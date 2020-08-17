@@ -1,0 +1,31 @@
+{
+  "data": {
+    "id": "231",
+    "type": "item",
+    "attributes": {
+      "uuid": "a831d23f-f2d3-4f6a-ab66-b322bd6edcae",
+      "name": "Snape grass",
+      "members": true,
+      "release_date": "2002-02-27",
+      "examine": "Strange spiky grass.",
+      "tradeable": false,
+      "ge_tradeable": false,
+      "lowalch": 4,
+      "highalch": 6,
+      "is_equip": false,
+      "is_weapon": false,
+      "icon_base64": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABTElEQVR4Xu2V0Q3CMAxE2wHYgREYgy82YQ7GBtHg5Hyx00Z1ioQ4yRJJW9/ruS3T9NdQzc9Uh8oznZ+nx20p+/gQWaYJEPcv5/NS+tpw1abL3v2aSoF6KYaK0wEYAMIaDKaB2Jz3EXgAlA1gQsgxTC8eyjHltYyuAgl/0A1ThsH1WJi3nJExHCUzYFz6G1PVB6gFEwiVmiKQN7psjL8VyO6xOTAAkY+ReQuIXTpVxsUwmBCetw62S3o8vFZwRmXQOKiSTpWWAZALElLXKqhusGKe/0ThziuIlfLBuoRvhgEoowBDHA+mIX3kWjm3G6q8Gbqx7FnmHlTpKn2532ZxOrBP5jwqb2x4g6Vfl7y7oVQMkFZxcl2qYZL4ueBRcYqckNd3h9pvnQWGUKXC1AbaWuFQXnmJ8H74+KQhF5rzfn3uYbIT4PWh+qr5T+sFXTbQ2Hm+QjAAAAAASUVORK5CYII="
+    },
+    "relationships": {
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Snape_grass"
+    },
+    "meta": {
+      "incomplete": false
+    }
+  },
+  "included": [
+
+  ]
+}

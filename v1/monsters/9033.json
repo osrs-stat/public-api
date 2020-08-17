@@ -1,0 +1,117 @@
+{
+  "data": {
+    "id": "9033",
+    "type": "monster",
+    "attributes": {
+      "uuid": "614f55f8-5086-4204-834c-6604d6aabf39",
+      "name": "Crystalline Dragon",
+      "members": true,
+      "release_date": "2019-07-25",
+      "examine": "Whatever it breathes, I don't want to get in the way of it.",
+      "combat_level_override": 172,
+      "max_hit_override": null,
+      "target_types": [
+
+      ],
+      "classification_types": [
+
+      ],
+      "poison": false,
+      "immune_poison": false,
+      "immune_venom": false,
+      "slayer_xp": null,
+      "slayer_level": null,
+      "slayer_masters": [
+
+      ],
+      "icon_base64": null
+    },
+    "relationships": {
+      "combat_stat": {
+        "data": {
+          "id": "55968139-25f4-4315-bc2a-a74adc2e00ab",
+          "type": "combat_stat"
+        }
+      },
+      "equip_stat": {
+        "data": {
+          "id": "8f7c8ecf-9833-48af-b49e-869bfb487da8",
+          "type": "equip_stat"
+        }
+      },
+      "attack_stat": {
+        "data": {
+          "id": "3a8649ce-54ec-44c2-a0f5-1b7d604ab603",
+          "type": "attack_stat"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Crystalline_Dragon"
+    },
+    "meta": {
+      "incomplete": true
+    }
+  },
+  "included": [
+    {
+      "id": "3a8649ce-54ec-44c2-a0f5-1b7d604ab603",
+      "type": "attack_stat",
+      "attributes": {
+        "attack_speed": 4,
+        "attack_type": "monster",
+        "special": null,
+        "stances": [
+          {
+            "name": "Monster magic",
+            "style": null,
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": null,
+            "combat_accuracy_stat": "magic_level",
+            "combat_damage_stat": "magic_level",
+            "equip_accuracy_stat": "magic_attack",
+            "equip_damage_stat": "magic_attack",
+            "target_equip_defense_stat": "magic_defense"
+          }
+        ]
+      }
+    },
+    {
+      "id": "55968139-25f4-4315-bc2a-a74adc2e00ab",
+      "type": "monster_combat_stat",
+      "attributes": {
+        "hitpoints_level": 100,
+        "attack_level": 98,
+        "strength_level": 98,
+        "defense_level": 98,
+        "magic_level": 98,
+        "ranged_level": 98,
+        "prayer_level": 0
+      }
+    },
+    {
+      "id": "8f7c8ecf-9833-48af-b49e-869bfb487da8",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 0,
+        "slash_attack": 0,
+        "crush_attack": 0,
+        "ranged_attack": 0,
+        "magic_attack": 54,
+        "stab_defense": 0,
+        "slash_defense": 0,
+        "crush_defense": 0,
+        "ranged_defense": 0,
+        "magic_defense": 0,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_bonus": 106,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

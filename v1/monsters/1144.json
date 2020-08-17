@@ -1,0 +1,117 @@
+{
+  "data": {
+    "id": "1144",
+    "type": "monster",
+    "attributes": {
+      "uuid": "4f21eb0c-6653-4008-9c1c-3993e944d506",
+      "name": "https://oldschool.runescape.wiki/w/Paladin#Level_59",
+      "members": true,
+      "release_date": "2002-04-30",
+      "examine": "A holy warrior.",
+      "combat_level_override": 59,
+      "max_hit_override": null,
+      "target_types": [
+
+      ],
+      "classification_types": [
+
+      ],
+      "poison": false,
+      "immune_poison": false,
+      "immune_venom": false,
+      "slayer_xp": null,
+      "slayer_level": null,
+      "slayer_masters": [
+
+      ],
+      "icon_base64": null
+    },
+    "relationships": {
+      "combat_stat": {
+        "data": {
+          "id": "2e0ef574-af18-4175-bdee-87fbbbb341d6",
+          "type": "combat_stat"
+        }
+      },
+      "equip_stat": {
+        "data": {
+          "id": "09365e7f-e4e5-4bb6-9c52-cc6de9a35d9c",
+          "type": "equip_stat"
+        }
+      },
+      "attack_stat": {
+        "data": {
+          "id": "606de42e-f262-440c-86f7-4903e3e2f043",
+          "type": "attack_stat"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Paladin#Level_59"
+    },
+    "meta": {
+      "incomplete": true
+    }
+  },
+  "included": [
+    {
+      "id": "606de42e-f262-440c-86f7-4903e3e2f043",
+      "type": "attack_stat",
+      "attributes": {
+        "attack_speed": 5,
+        "attack_type": "monster",
+        "special": null,
+        "stances": [
+          {
+            "name": "Monster slash",
+            "style": null,
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": null,
+            "combat_accuracy_stat": "attack_level",
+            "combat_damage_stat": "strength_level",
+            "equip_accuracy_stat": "slash_attack",
+            "equip_damage_stat": "slash_attack",
+            "target_equip_defense_stat": "slash_defense"
+          }
+        ]
+      }
+    },
+    {
+      "id": "2e0ef574-af18-4175-bdee-87fbbbb341d6",
+      "type": "monster_combat_stat",
+      "attributes": {
+        "hitpoints_level": 66,
+        "attack_level": 54,
+        "strength_level": 54,
+        "defense_level": 54,
+        "magic_level": 1,
+        "ranged_level": 1,
+        "prayer_level": 0
+      }
+    },
+    {
+      "id": "09365e7f-e4e5-4bb6-9c52-cc6de9a35d9c",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 20,
+        "slash_attack": 20,
+        "crush_attack": 20,
+        "ranged_attack": 0,
+        "magic_attack": 0,
+        "stab_defense": 87,
+        "slash_defense": 84,
+        "crush_defense": 76,
+        "ranged_defense": 79,
+        "magic_defense": -10,
+        "melee_strength": 22,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

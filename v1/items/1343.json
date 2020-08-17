@@ -1,0 +1,140 @@
+{
+  "data": {
+    "id": "1343",
+    "type": "item",
+    "attributes": {
+      "uuid": "4239e931-1d3f-4e57-a443-5f3b6cf5573a",
+      "name": "Mithril warhammer",
+      "members": false,
+      "release_date": "2004-03-29",
+      "examine": "I don't think it's intended for joinery.",
+      "tradeable": false,
+      "ge_tradeable": false,
+      "lowalch": 664,
+      "highalch": 996,
+      "is_equip": true,
+      "is_weapon": true,
+      "icon_base64": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABdElEQVR4Xt2VTUvDQBCGM8c95D/0VEoPJYihtKQY0kuQUlCkirZS/Dh48+DBgwcPgj97ZGaZzSaE6GU/8IWhbBuYh2emmyT5XwFsKngAq+qBqyzvYwBrA63O9lwBwTQQwdhARXHD5RmsbacLtFzuuObzSwvMKVz/uMSODUSV51suh1DD4+oDElvZaOQCChjgr0Anpxs+OwUiQ9J4CIhg6FMW3RmQANA4sqw2TW0g+k3syF3lCIgC3PBlq/BurXCzUDibrfk7ghI7chYYp0CvVykea4UXK4VVluBkUhhbBNPdHYcwFGA7u1JhnStuPh4vjCUCk7+6Fxjbjr5fdE2npbHjCYYC+HTe2Gk3buC8wXwcUrPIfY3l7AGG0uwOLbIAdZ/yGBi04zmA77epWeTAMBS9zPYid5/wGMCvx8js0N0TiR2KXuZo7Hweo7ED+P2c8rgisKNh5GYObEfD0KjeriOxIzD0qghsR+L9zf17BCQKmBD5AX9TnlPYUU21AAAAAElFTkSuQmCC"
+    },
+    "relationships": {
+      "equip": {
+        "data": {
+          "id": "ba7328e8-24c8-45ef-abfa-742443958a21",
+          "type": "equip"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Mithril_warhammer"
+    },
+    "meta": {
+      "incomplete": false
+    }
+  },
+  "included": [
+    {
+      "id": "ba7328e8-24c8-45ef-abfa-742443958a21",
+      "type": "equip",
+      "attributes": {
+        "slot": "weapon",
+        "passive_effect": null,
+        "requirements": {
+          "attack_level": 20
+        }
+      },
+      "relationships": {
+        "equip_stat": {
+          "data": {
+            "id": "7162182b-c493-4bf0-bf6d-3152f15511bc",
+            "type": "equip_stat"
+          }
+        },
+        "attack_stat": {
+          "data": {
+            "id": "930d1852-87eb-48d1-9895-83b469a1c3c8",
+            "type": "attack_stat"
+          }
+        }
+      }
+    },
+    {
+      "id": "930d1852-87eb-48d1-9895-83b469a1c3c8",
+      "type": "attack_stat",
+      "attributes": {
+        "attack_speed": 6,
+        "attack_type": "blunt_weapon",
+        "special": null,
+        "stances": [
+          {
+            "name": "pound",
+            "style": "accurate",
+            "boosts": {
+              "accuracy": 3
+            },
+            "experience": {
+              "hitpoints": 1.3333,
+              "attack": 4
+            },
+            "combat_accuracy_stat": "attack_level",
+            "combat_damage_stat": "strength_level",
+            "equip_accuracy_stat": "crush_attack",
+            "equip_damage_stat": "crush_attack",
+            "target_equip_defense_stat": "crush_defense"
+          },
+          {
+            "name": "pummel",
+            "style": "aggressive",
+            "boosts": {
+              "damage": 3
+            },
+            "experience": {
+              "hitpoints": 1.3333,
+              "strength": 4
+            },
+            "combat_accuracy_stat": "attack_level",
+            "combat_damage_stat": "strength_level",
+            "equip_accuracy_stat": "crush_attack",
+            "equip_damage_stat": "crush_attack",
+            "target_equip_defense_stat": "crush_defense"
+          },
+          {
+            "name": "block",
+            "style": "defensive",
+            "boosts": {
+              "defense": 3
+            },
+            "experience": {
+              "hitpoints": 1.3333,
+              "defense": 4
+            },
+            "combat_accuracy_stat": "attack_level",
+            "combat_damage_stat": "strength_level",
+            "equip_accuracy_stat": "crush_attack",
+            "equip_damage_stat": "crush_attack",
+            "target_equip_defense_stat": "crush_defense"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7162182b-c493-4bf0-bf6d-3152f15511bc",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": -4,
+        "slash_attack": -4,
+        "crush_attack": 25,
+        "ranged_attack": 0,
+        "magic_attack": -4,
+        "stab_defense": 0,
+        "slash_defense": 0,
+        "crush_defense": 0,
+        "ranged_defense": 0,
+        "magic_defense": 0,
+        "melee_strength": 20,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

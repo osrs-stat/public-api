@@ -1,0 +1,116 @@
+{
+  "data": [
+    {
+      "id": "11941-3140",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.125"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Icefiend (Level 18)"
+      }
+    },
+    {
+      "id": "11942-3140",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0166666666666667"
+      },
+      "meta": {
+        "item_name": "Ecumenical key",
+        "monster_name": "Icefiend (Level 18)"
+      }
+    },
+    {
+      "id": "556-3140",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 5,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Air rune (Regular)",
+        "monster_name": "Icefiend (Level 18)"
+      }
+    },
+    {
+      "id": "2677-3140",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Clue scroll (easy)",
+        "monster_name": "Icefiend (Level 18)"
+      }
+    },
+    {
+      "id": "555-3140",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 5,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Water rune (Regular)",
+        "monster_name": "Icefiend (Level 18)"
+      }
+    },
+    {
+      "id": "995-3140",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 20,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Icefiend (Level 18)"
+      }
+    },
+    {
+      "id": "995-3140",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 30,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Icefiend (Level 18)"
+      }
+    }
+  ]
+}

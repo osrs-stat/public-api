@@ -1,0 +1,100 @@
+{
+  "data": [
+    {
+      "id": "7815-3424",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Bear ribs (Unpolished)",
+        "monster_name": "Grizzly bear cub (Level 33)"
+      }
+    },
+    {
+      "id": "526-3424",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Bones",
+        "monster_name": "Grizzly bear cub (Level 33)"
+      }
+    },
+    {
+      "id": "23182-3424",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0111111111111111"
+      },
+      "meta": {
+        "item_name": "Clue scroll (beginner)",
+        "monster_name": "Grizzly bear cub (Level 33)"
+      }
+    },
+    {
+      "id": "13462-3424",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.04"
+      },
+      "meta": {
+        "item_name": "Ensouled bear head (Drop)",
+        "monster_name": "Grizzly bear cub (Level 33)"
+      }
+    },
+    {
+      "id": "948-3424",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Bear fur",
+        "monster_name": "Grizzly bear cub (Level 33)"
+      }
+    },
+    {
+      "id": "2136-3424",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Raw bear meat",
+        "monster_name": "Grizzly bear cub (Level 33)"
+      }
+    }
+  ]
+}

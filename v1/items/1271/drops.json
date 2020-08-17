@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "id": "1271-3612",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.008"
+      },
+      "meta": {
+        "item_name": "Adamant pickaxe",
+        "monster_name": "Possessed pickaxe"
+      }
+    },
+    {
+      "id": "1271-6729",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Adamant pickaxe",
+        "monster_name": "Rock golem (monster) (Level 120)"
+      }
+    },
+    {
+      "id": "1271-6730",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Adamant pickaxe",
+        "monster_name": "Rock golem (monster) (Level 159)"
+      }
+    }
+  ]
+}

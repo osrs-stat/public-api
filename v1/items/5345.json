@@ -1,0 +1,73 @@
+{
+  "data": {
+    "id": "5345",
+    "type": "item",
+    "attributes": {
+      "uuid": "f9ffb11b-b0b9-48ba-b197-de49af861f59",
+      "name": "Gardening boots",
+      "members": true,
+      "release_date": "2005-06-06",
+      "examine": "A pair of gardening boots.",
+      "tradeable": false,
+      "ge_tradeable": false,
+      "lowalch": 10,
+      "highalch": 15,
+      "is_equip": true,
+      "is_weapon": false,
+      "icon_base64": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB0UlEQVR4Xu2VQWvCQBCFs8cePHgISEAIQUSkBBGLKC2UlkIpxUMP/f//ZMokHZ19zpK4WeyhPngQkknmy5uJZtlN/0OO8MwfiCFa14v8eOz7KmqbVcWo8aIc+67GVE1HVOR3BqDlaPkgAlPP8iYhNsMwyLQ4JcbnGVDD8z1SGwnVPjhkSWU5L2hWTY5AIRg5L3WrsrwEytFuXTTe3E8aI0y9LBtrIK6TFDyY33S4JhKI5ejzbU3vLyt6farpeb+kx+2Cdps5berKBMIUtQVmABDrBNUFJEnqRPWyJwJiuWNKGkigBCiUok4wAZCjw/tDk5I0HArEx0mAQmOThnrXrOsCkxRIxmY1Y3ellATo62PrJWQ1YphJPupMMSmQlY4FhMuP4HwcCdQ/HQGylh9rIxM6h9HpYBOGESAcG9ZGfPY+jB6BhkGg0NeIQFx7AVALYz3c2h3dJPQ3MwDI0fdh7wFhOhYMLnRSIIHp+pHDfdD1oc9ew/cGsmIPjYrrxbpew4SABAoJDJ2aYORsfZ3fsH1L56Wik9H3Wgn1SCnLdCO0XPMf1g2EI+4Ng0IA+yH+yHB3NNAgmP7ylxr3Tu/cFWBE5+NFXxGmFY7WMt5zU6x+AKDKRGIRG2C7AAAAAElFTkSuQmCC"
+    },
+    "relationships": {
+      "equip": {
+        "data": {
+          "id": "d163d64d-6ea7-4f31-b7f9-a18e9e050804",
+          "type": "equip"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Gardening_boots"
+    },
+    "meta": {
+      "incomplete": false
+    }
+  },
+  "included": [
+    {
+      "id": "d163d64d-6ea7-4f31-b7f9-a18e9e050804",
+      "type": "equip",
+      "attributes": {
+        "slot": "boots",
+        "passive_effect": null,
+        "requirements": null
+      },
+      "relationships": {
+        "equip_stat": {
+          "data": {
+            "id": "cdd64890-d5ff-4f29-be43-1412d31733f8",
+            "type": "equip_stat"
+          }
+        }
+      }
+    },
+    {
+      "id": "cdd64890-d5ff-4f29-be43-1412d31733f8",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 0,
+        "slash_attack": 0,
+        "crush_attack": 0,
+        "ranged_attack": 0,
+        "magic_attack": 0,
+        "stab_defense": 0,
+        "slash_defense": 0,
+        "crush_defense": 0,
+        "ranged_defense": 0,
+        "magic_defense": 0,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

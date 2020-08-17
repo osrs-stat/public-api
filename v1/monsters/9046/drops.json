@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "23872-9046",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.125"
+      },
+      "meta": {
+        "item_name": "Raw paddlefish",
+        "monster_name": "Corrupted Bear"
+      }
+    },
+    {
+      "id": "23824-9046",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Corrupted shards",
+        "monster_name": "Corrupted Bear"
+      }
+    },
+    {
+      "id": "23871-9046",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Weapon frame (corrupted)",
+        "monster_name": "Corrupted Bear"
+      }
+    },
+    {
+      "id": "23858-9046",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Corrupted teleport crystal",
+        "monster_name": "Corrupted Bear"
+      }
+    }
+  ]
+}

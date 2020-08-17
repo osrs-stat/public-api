@@ -1,0 +1,100 @@
+{
+  "data": [
+    {
+      "id": "19677-7258",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "catacombs-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0038961038961039"
+      },
+      "meta": {
+        "item_name": "Ancient shard",
+        "monster_name": "Shade (Catacombs of Kourend)"
+      }
+    },
+    {
+      "id": "546-7258",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.25"
+      },
+      "meta": {
+        "item_name": "Shade robe top",
+        "monster_name": "Shade (Catacombs of Kourend)"
+      }
+    },
+    {
+      "id": "19679-7258",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "catacombs-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0025974025974026"
+      },
+      "meta": {
+        "item_name": "Dark totem base",
+        "monster_name": "Shade (Catacombs of Kourend)"
+      }
+    },
+    {
+      "id": "19683-7258",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "catacombs-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0025974025974026"
+      },
+      "meta": {
+        "item_name": "Dark totem top",
+        "monster_name": "Shade (Catacombs of Kourend)"
+      }
+    },
+    {
+      "id": "19681-7258",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "catacombs-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0025974025974026"
+      },
+      "meta": {
+        "item_name": "Dark totem middle",
+        "monster_name": "Shade (Catacombs of Kourend)"
+      }
+    },
+    {
+      "id": "548-7258",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.25"
+      },
+      "meta": {
+        "item_name": "Shade robe",
+        "monster_name": "Shade (Catacombs of Kourend)"
+      }
+    }
+  ]
+}

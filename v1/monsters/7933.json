@@ -1,0 +1,147 @@
+{
+  "data": {
+    "id": "7933",
+    "type": "monster",
+    "attributes": {
+      "uuid": "5e048e16-b67e-435d-9f2f-4356d00cdba9",
+      "name": "Revenant hobgoblin",
+      "members": true,
+      "release_date": "2017-11-23",
+      "examine": "The ghost of a hobgoblin slain long ago.",
+      "combat_level_override": null,
+      "max_hit_override": 8,
+      "target_types": [
+        "undead"
+      ],
+      "classification_types": [
+        "revenant"
+      ],
+      "poison": false,
+      "immune_poison": false,
+      "immune_venom": false,
+      "slayer_xp": 73.0,
+      "slayer_level": 1,
+      "slayer_masters": [
+        "krystilia"
+      ],
+      "icon_base64": null
+    },
+    "relationships": {
+      "combat_stat": {
+        "data": {
+          "id": "9a00aad0-b8c9-4f3b-a1b8-e8d389c801fd",
+          "type": "combat_stat"
+        }
+      },
+      "equip_stat": {
+        "data": {
+          "id": "ffb89457-3753-49bb-ae73-16a10df79535",
+          "type": "equip_stat"
+        }
+      },
+      "attack_stat": {
+        "data": {
+          "id": "9cb3ca12-faf5-497e-b33d-86fbfb60ef64",
+          "type": "attack_stat"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Revenant_hobgoblin"
+    },
+    "meta": {
+      "incomplete": true
+    }
+  },
+  "included": [
+    {
+      "id": "9cb3ca12-faf5-497e-b33d-86fbfb60ef64",
+      "type": "attack_stat",
+      "attributes": {
+        "attack_speed": 4,
+        "attack_type": "monster",
+        "special": null,
+        "stances": [
+          {
+            "name": "Monster slash",
+            "style": null,
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": null,
+            "combat_accuracy_stat": "attack_level",
+            "combat_damage_stat": "strength_level",
+            "equip_accuracy_stat": "slash_attack",
+            "equip_damage_stat": "slash_attack",
+            "target_equip_defense_stat": "slash_defense"
+          },
+          {
+            "name": "Monster ranged",
+            "style": null,
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": null,
+            "combat_accuracy_stat": "ranged_level",
+            "combat_damage_stat": "ranged_level",
+            "equip_accuracy_stat": "ranged_attack",
+            "equip_damage_stat": "ranged_attack",
+            "target_equip_defense_stat": "ranged_defense"
+          },
+          {
+            "name": "Monster magic",
+            "style": null,
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": null,
+            "combat_accuracy_stat": "magic_level",
+            "combat_damage_stat": "magic_level",
+            "equip_accuracy_stat": "magic_attack",
+            "equip_damage_stat": "magic_attack",
+            "target_equip_defense_stat": "magic_defense"
+          }
+        ]
+      }
+    },
+    {
+      "id": "9a00aad0-b8c9-4f3b-a1b8-e8d389c801fd",
+      "type": "monster_combat_stat",
+      "attributes": {
+        "hitpoints_level": 72,
+        "attack_level": 50,
+        "strength_level": 50,
+        "defense_level": 41,
+        "magic_level": 55,
+        "ranged_level": 60,
+        "prayer_level": 0
+      }
+    },
+    {
+      "id": "ffb89457-3753-49bb-ae73-16a10df79535",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 20,
+        "slash_attack": 20,
+        "crush_attack": 20,
+        "ranged_attack": 25,
+        "magic_attack": 5,
+        "stab_defense": 65,
+        "slash_defense": 60,
+        "crush_defense": 68,
+        "ranged_defense": 50,
+        "magic_defense": 30,
+        "melee_strength": 24,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

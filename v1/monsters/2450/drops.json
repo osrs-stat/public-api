@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "8851-2450",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Warrior guild token",
+        "monster_name": "Animated Bronze Armour"
+      }
+    },
+    {
+      "id": "1075-2450",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.9"
+      },
+      "meta": {
+        "item_name": "Bronze platelegs",
+        "monster_name": "Animated Bronze Armour"
+      }
+    },
+    {
+      "id": "1117-2450",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.9"
+      },
+      "meta": {
+        "item_name": "Bronze platebody",
+        "monster_name": "Animated Bronze Armour"
+      }
+    },
+    {
+      "id": "1155-2450",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.9"
+      },
+      "meta": {
+        "item_name": "Bronze full helm",
+        "monster_name": "Animated Bronze Armour"
+      }
+    }
+  ]
+}

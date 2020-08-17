@@ -1,0 +1,356 @@
+{
+  "data": [
+    {
+      "id": "219-8618",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 10,
+        "quantity_max": 15,
+        "rarity": "0.00928505106778087"
+      },
+      "meta": {
+        "item_name": "Grimy torstol",
+        "monster_name": "Alchemical Hydra (Three heads)"
+      }
+    },
+    {
+      "id": "219-10400",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.00661813368630046"
+      },
+      "meta": {
+        "item_name": "Grimy torstol",
+        "monster_name": "Guardian Drake"
+      }
+    },
+    {
+      "id": "219-8621",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 10,
+        "quantity_max": 15,
+        "rarity": "0.00928505106778087"
+      },
+      "meta": {
+        "item_name": "Grimy torstol",
+        "monster_name": "Alchemical Hydra (Two heads)"
+      }
+    },
+    {
+      "id": "219-7793",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.016260162601626"
+      },
+      "meta": {
+        "item_name": "Grimy torstol",
+        "monster_name": "Taloned Wyvern"
+      }
+    },
+    {
+      "id": "219-7792",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.016260162601626"
+      },
+      "meta": {
+        "item_name": "Grimy torstol",
+        "monster_name": "Long-tailed Wyvern"
+      }
+    },
+    {
+      "id": "219-7286",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 20,
+        "quantity_max": null,
+        "rarity": "0.07"
+      },
+      "meta": {
+        "item_name": "Grimy torstol",
+        "monster_name": "Skotizo"
+      }
+    },
+    {
+      "id": "219-5862",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 6,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Grimy torstol",
+        "monster_name": "Cerberus"
+      }
+    },
+    {
+      "id": "219-965",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 25,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Grimy torstol",
+        "monster_name": "Kalphite Queen (Airborne)"
+      }
+    },
+    {
+      "id": "219-963",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 25,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Grimy torstol",
+        "monster_name": "Kalphite Queen (Crawling)"
+      }
+    },
+    {
+      "id": "219-8713",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 5,
+        "quantity_max": 10,
+        "rarity": "0.00727272727272727"
+      },
+      "meta": {
+        "item_name": "Grimy torstol",
+        "monster_name": "Sarachnis"
+      }
+    },
+    {
+      "id": "219-9258",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0108179838162962"
+      },
+      "meta": {
+        "item_name": "Grimy torstol",
+        "monster_name": "Basilisk Sentinel"
+      }
+    },
+    {
+      "id": "219-9293",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0108179838162962"
+      },
+      "meta": {
+        "item_name": "Grimy torstol",
+        "monster_name": "Basilisk Knight"
+      }
+    },
+    {
+      "id": "219-10402",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.0168634064080944"
+      },
+      "meta": {
+        "item_name": "Grimy torstol",
+        "monster_name": "Colossal Hydra"
+      }
+    },
+    {
+      "id": "219-7794",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.016260162601626"
+      },
+      "meta": {
+        "item_name": "Grimy torstol",
+        "monster_name": "Spitting Wyvern"
+      }
+    },
+    {
+      "id": "219-7795",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0298507462686567"
+      },
+      "meta": {
+        "item_name": "Grimy torstol",
+        "monster_name": "Ancient Wyvern"
+      }
+    },
+    {
+      "id": "219-7797",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.05"
+      },
+      "meta": {
+        "item_name": "Grimy torstol",
+        "monster_name": "Ancient Zygomite"
+      }
+    },
+    {
+      "id": "219-8030",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0136372159623613"
+      },
+      "meta": {
+        "item_name": "Grimy torstol",
+        "monster_name": "Adamant dragon"
+      }
+    },
+    {
+      "id": "219-8031",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0118117618571633"
+      },
+      "meta": {
+        "item_name": "Grimy torstol",
+        "monster_name": "Rune dragon"
+      }
+    },
+    {
+      "id": "219-8609",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.0168634064080944"
+      },
+      "meta": {
+        "item_name": "Grimy torstol",
+        "monster_name": "Hydra"
+      }
+    },
+    {
+      "id": "219-8612",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.00661813368630046"
+      },
+      "meta": {
+        "item_name": "Grimy torstol",
+        "monster_name": "Drake"
+      }
+    },
+    {
+      "id": "219-8615",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 10,
+        "quantity_max": 15,
+        "rarity": "0.00928505106778087"
+      },
+      "meta": {
+        "item_name": "Grimy torstol",
+        "monster_name": "Alchemical Hydra (Five heads)"
+      }
+    },
+    {
+      "id": "219-8617",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 10,
+        "quantity_max": 15,
+        "rarity": "0.00928505106778087"
+      },
+      "meta": {
+        "item_name": "Grimy torstol",
+        "monster_name": "Alchemical Hydra (Four heads)"
+      }
+    }
+  ]
+}

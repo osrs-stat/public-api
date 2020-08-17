@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "id": "7881-289",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.25"
+      },
+      "meta": {
+        "item_name": "Ghoul bone (Unpolished)",
+        "monster_name": "Ghoul"
+      }
+    },
+    {
+      "id": "526-289",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Bones",
+        "monster_name": "Ghoul"
+      }
+    },
+    {
+      "id": "6799-289",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0002"
+      },
+      "meta": {
+        "item_name": "Ghoul champion scroll",
+        "monster_name": "Ghoul"
+      }
+    }
+  ]
+}

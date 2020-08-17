@@ -1,0 +1,73 @@
+{
+  "data": {
+    "id": "6069",
+    "type": "item",
+    "attributes": {
+      "uuid": "e8e6e6d8-1cbe-43c9-b6d0-324c32e423d9",
+      "name": "Mourner boots",
+      "members": true,
+      "release_date": "2005-07-19",
+      "examine": "Comfortable leather boots.",
+      "tradeable": false,
+      "ge_tradeable": false,
+      "lowalch": 12,
+      "highalch": 18,
+      "is_equip": true,
+      "is_weapon": false,
+      "icon_base64": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAByklEQVR4XtWWQUvDQBCFu0cPHjwIpSCEUkQ8lB566UEURFDowYP//69EZsPrvJ2dTWK6NXTgQZts9315M2yzWFxnhTbXbBXaw37Vvh4eTpLvMwF2MPvdMoK8vygUwKB/gFIYAH2+NRHKKk+renIKs32+j5/FWICOH+tEskbWIzGbXgXAFIaBrLidAOD7fB1JT4AKmbEnMWMY+QwgSU7SZAFm1zRR1rWnQraZFbfHa60V1gDIOg5UyOYEwlBzOiwLwjACPBFIKrTfX5tEAgQYmOB7n6oB/RwfT/LSEQO+5olhnjZ35wBJdVCldGCAmfJ0ESBOhw3WzW00wH0AsBgG66sB2XRWy5towAleHAhmAGIDAGEdp+jBYP3ZQF67rEkpSW/tRKAyjGeC4ffW27UTgNK58J7Ymni/qQSUbwwgTgcmGFQ+HrhtFkgfYFSlQ4yj324+BGNT9RIakZLCYGPvZGYgtMoDsi22QNbdqX6gv8B4M1cNSGTbpZvqH7AHVIIZCSSlfwM8P/ykY2FsOhNgUPruixPXwjCQ114LdAZMV2zKSjfVlzibaPkhKhQ2yzdNX3O9dKrDDJemxweoAM0A09W49s5U5fZeef0CxJKL4sI9waAAAAAASUVORK5CYII="
+    },
+    "relationships": {
+      "equip": {
+        "data": {
+          "id": "7c0a851f-d71a-44b9-9316-bffdb117eb4d",
+          "type": "equip"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Mourner_boots"
+    },
+    "meta": {
+      "incomplete": false
+    }
+  },
+  "included": [
+    {
+      "id": "7c0a851f-d71a-44b9-9316-bffdb117eb4d",
+      "type": "equip",
+      "attributes": {
+        "slot": "boots",
+        "passive_effect": null,
+        "requirements": null
+      },
+      "relationships": {
+        "equip_stat": {
+          "data": {
+            "id": "8c2e5fe8-7b2d-4688-b8da-8bd879e24edc",
+            "type": "equip_stat"
+          }
+        }
+      }
+    },
+    {
+      "id": "8c2e5fe8-7b2d-4688-b8da-8bd879e24edc",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 0,
+        "slash_attack": 0,
+        "crush_attack": 0,
+        "ranged_attack": 0,
+        "magic_attack": 0,
+        "stab_defense": 0,
+        "slash_defense": 1,
+        "crush_defense": 1,
+        "ranged_defense": 0,
+        "magic_defense": 0,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

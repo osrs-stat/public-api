@@ -1,0 +1,660 @@
+{
+  "data": [
+    {
+      "id": "1515-4442",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Yew logs",
+        "monster_name": "Vampyre Juvinate (Level 75)"
+      }
+    },
+    {
+      "id": "1515-4443",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Yew logs",
+        "monster_name": "Vampyre Juvinate (Level 50)"
+      }
+    },
+    {
+      "id": "1515-5563",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.09375"
+      },
+      "meta": {
+        "item_name": "Yew logs",
+        "monster_name": "Angry barbarian spirit"
+      }
+    },
+    {
+      "id": "1515-5564",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.09375"
+      },
+      "meta": {
+        "item_name": "Yew logs",
+        "monster_name": "Enraged barbarian spirit"
+      }
+    },
+    {
+      "id": "1515-5565",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.09375"
+      },
+      "meta": {
+        "item_name": "Yew logs",
+        "monster_name": "Berserk barbarian spirit"
+      }
+    },
+    {
+      "id": "1515-5566",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Yew logs",
+        "monster_name": "Ferocious barbarian spirit"
+      }
+    },
+    {
+      "id": "1515-5634",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Yew logs",
+        "monster_name": "Vampyre Juvinate (Level 59)"
+      }
+    },
+    {
+      "id": "1515-5635",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Yew logs",
+        "monster_name": "Vampyre Juvinate (Level 90)"
+      }
+    },
+    {
+      "id": "1515-5636",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Yew logs",
+        "monster_name": "Vampyre Juvinate (Level 119)"
+      }
+    },
+    {
+      "id": "1515-5779",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 100,
+        "quantity_max": null,
+        "rarity": "0.078125"
+      },
+      "meta": {
+        "item_name": "Yew logs",
+        "monster_name": "Giant Mole"
+      }
+    },
+    {
+      "id": "1515-7881",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 60,
+        "quantity_max": 100,
+        "rarity": "0.000926243567753002"
+      },
+      "meta": {
+        "item_name": "Yew logs",
+        "monster_name": "Revenant imp"
+      }
+    },
+    {
+      "id": "1515-7931",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 60,
+        "quantity_max": 100,
+        "rarity": "0.00162166336327833"
+      },
+      "meta": {
+        "item_name": "Yew logs",
+        "monster_name": "Revenant goblin"
+      }
+    },
+    {
+      "id": "1515-7932",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 60,
+        "quantity_max": 100,
+        "rarity": "0.00685013820454272"
+      },
+      "meta": {
+        "item_name": "Yew logs",
+        "monster_name": "Revenant pyrefiend"
+      }
+    },
+    {
+      "id": "1515-7933",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 60,
+        "quantity_max": 100,
+        "rarity": "0.00775147217882466"
+      },
+      "meta": {
+        "item_name": "Yew logs",
+        "monster_name": "Revenant hobgoblin"
+      }
+    },
+    {
+      "id": "1515-7934",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 60,
+        "quantity_max": 100,
+        "rarity": "0.0132230126817198"
+      },
+      "meta": {
+        "item_name": "Yew logs",
+        "monster_name": "Revenant cyclops"
+      }
+    },
+    {
+      "id": "1515-7935",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 60,
+        "quantity_max": 100,
+        "rarity": "0.0146149087534797"
+      },
+      "meta": {
+        "item_name": "Yew logs",
+        "monster_name": "Revenant hellhound"
+      }
+    },
+    {
+      "id": "1515-7936",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 60,
+        "quantity_max": 100,
+        "rarity": "0.0160068048252397"
+      },
+      "meta": {
+        "item_name": "Yew logs",
+        "monster_name": "Revenant demon"
+      }
+    },
+    {
+      "id": "1515-7937",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 60,
+        "quantity_max": 100,
+        "rarity": "0.0192967409948542"
+      },
+      "meta": {
+        "item_name": "Yew logs",
+        "monster_name": "Revenant ork"
+      }
+    },
+    {
+      "id": "1515-7938",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 60,
+        "quantity_max": 100,
+        "rarity": "0.0226415094339623"
+      },
+      "meta": {
+        "item_name": "Yew logs",
+        "monster_name": "Revenant dark beast"
+      }
+    },
+    {
+      "id": "1515-7939",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 60,
+        "quantity_max": 100,
+        "rarity": "0.0263207547169811"
+      },
+      "meta": {
+        "item_name": "Yew logs",
+        "monster_name": "Revenant knight"
+      }
+    },
+    {
+      "id": "1515-7940",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 60,
+        "quantity_max": 100,
+        "rarity": "0.0281603773584906"
+      },
+      "meta": {
+        "item_name": "Yew logs",
+        "monster_name": "Revenant dragon"
+      }
+    },
+    {
+      "id": "1515-8256",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 4,
+        "quantity_max": null,
+        "rarity": "0.018348623853211"
+      },
+      "meta": {
+        "item_name": "Yew logs",
+        "monster_name": "Vyrewatch (Level 87)"
+      }
+    },
+    {
+      "id": "1515-8297",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Yew logs",
+        "monster_name": "Swamp Crab (Normal)"
+      }
+    },
+    {
+      "id": "1515-8298",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Yew logs",
+        "monster_name": "Swamp Crab (Bloomed)"
+      }
+    },
+    {
+      "id": "1515-9756",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 6,
+        "quantity_max": null,
+        "rarity": "0.021505376344086"
+      },
+      "meta": {
+        "item_name": "Yew logs",
+        "monster_name": "Vyrewatch Sentinel"
+      }
+    },
+    {
+      "id": "1515-2042",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 35,
+        "quantity_max": null,
+        "rarity": "0.0403225806451613"
+      },
+      "meta": {
+        "item_name": "Yew logs",
+        "monster_name": "Zulrah (Serpentine)"
+      }
+    },
+    {
+      "id": "1515-1541",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.09375"
+      },
+      "meta": {
+        "item_name": "Yew logs",
+        "monster_name": "Skeleton thug"
+      }
+    },
+    {
+      "id": "1515-1540",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.09375"
+      },
+      "meta": {
+        "item_name": "Yew logs",
+        "monster_name": "Skeleton heavy"
+      }
+    },
+    {
+      "id": "1515-1539",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.09375"
+      },
+      "meta": {
+        "item_name": "Yew logs",
+        "monster_name": "Skeleton warlord"
+      }
+    },
+    {
+      "id": "1515-1538",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.09375"
+      },
+      "meta": {
+        "item_name": "Yew logs",
+        "monster_name": "Skeleton brute"
+      }
+    },
+    {
+      "id": "1515-1537",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.09375"
+      },
+      "meta": {
+        "item_name": "Yew logs",
+        "monster_name": "Skeleton hero"
+      }
+    },
+    {
+      "id": "1515-239",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 150,
+        "quantity_max": null,
+        "rarity": "0.078125"
+      },
+      "meta": {
+        "item_name": "Yew logs",
+        "monster_name": "King Black Dragon"
+      }
+    },
+    {
+      "id": "1515-2043",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 35,
+        "quantity_max": null,
+        "rarity": "0.0403225806451613"
+      },
+      "meta": {
+        "item_name": "Yew logs",
+        "monster_name": "Zulrah (Magma)"
+      }
+    },
+    {
+      "id": "1515-2044",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 35,
+        "quantity_max": null,
+        "rarity": "0.0403225806451613"
+      },
+      "meta": {
+        "item_name": "Yew logs",
+        "monster_name": "Zulrah (Tanzanite)"
+      }
+    },
+    {
+      "id": "1515-2265",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 50,
+        "quantity_max": 150,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Yew logs",
+        "monster_name": "Dagannoth Supreme"
+      }
+    },
+    {
+      "id": "1515-3694",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Yew logs",
+        "monster_name": "Vampyre Juvinate (Level 54 (Meiyerditch))"
+      }
+    },
+    {
+      "id": "1515-3717",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 4,
+        "quantity_max": null,
+        "rarity": "0.018348623853211"
+      },
+      "meta": {
+        "item_name": "Yew logs",
+        "monster_name": "Vyrewatch (Level 105)"
+      }
+    },
+    {
+      "id": "1515-3718",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 4,
+        "quantity_max": null,
+        "rarity": "0.018348623853211"
+      },
+      "meta": {
+        "item_name": "Yew logs",
+        "monster_name": "Vyrewatch (Level 110)"
+      }
+    },
+    {
+      "id": "1515-3719",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 4,
+        "quantity_max": null,
+        "rarity": "0.018348623853211"
+      },
+      "meta": {
+        "item_name": "Yew logs",
+        "monster_name": "Vyrewatch (Level 120)"
+      }
+    },
+    {
+      "id": "1515-3720",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 4,
+        "quantity_max": null,
+        "rarity": "0.018348623853211"
+      },
+      "meta": {
+        "item_name": "Yew logs",
+        "monster_name": "Vyrewatch (Level 125)"
+      }
+    },
+    {
+      "id": "1515-4427",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Yew logs",
+        "monster_name": "Vampyre Juvinate (Level 54)"
+      }
+    }
+  ]
+}

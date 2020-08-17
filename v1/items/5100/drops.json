@@ -1,0 +1,148 @@
+{
+  "data": [
+    {
+      "id": "5100-7403",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 3,
+        "quantity_max": 11,
+        "rarity": "0.078125"
+      },
+      "meta": {
+        "item_name": "Limpwurt seed",
+        "monster_name": "Repugnant spectre"
+      }
+    },
+    {
+      "id": "5100-6604",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Limpwurt seed",
+        "monster_name": "Mammoth"
+      }
+    },
+    {
+      "id": "5100-532",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Limpwurt seed",
+        "monster_name": "Chaos druid warrior"
+      }
+    },
+    {
+      "id": "5100-7279",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 3,
+        "quantity_max": 11,
+        "rarity": "0.078125"
+      },
+      "meta": {
+        "item_name": "Limpwurt seed",
+        "monster_name": "Deviant spectre"
+      }
+    },
+    {
+      "id": "5100-7411",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0517241379310345"
+      },
+      "meta": {
+        "item_name": "Limpwurt seed",
+        "monster_name": "Nechryarch"
+      }
+    },
+    {
+      "id": "5100-8583",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 6,
+        "quantity_max": 14,
+        "rarity": "0.025"
+      },
+      "meta": {
+        "item_name": "Limpwurt seed",
+        "monster_name": "Hespori"
+      }
+    },
+    {
+      "id": "5100-7405",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0483870967741935"
+      },
+      "meta": {
+        "item_name": "Limpwurt seed",
+        "monster_name": "King kurask"
+      }
+    },
+    {
+      "id": "5100-410",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0483870967741935"
+      },
+      "meta": {
+        "item_name": "Limpwurt seed",
+        "monster_name": "Kurask"
+      }
+    },
+    {
+      "id": "5100-8",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0517241379310345"
+      },
+      "meta": {
+        "item_name": "Limpwurt seed",
+        "monster_name": "Nechryael"
+      }
+    }
+  ]
+}

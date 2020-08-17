@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "13459-6617",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.04"
+      },
+      "meta": {
+        "item_name": "Ensouled scorpion head (Item)",
+        "monster_name": "Scorpia's guardian"
+      }
+    },
+    {
+      "id": "11941-6617",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Scorpia's guardian"
+      }
+    },
+    {
+      "id": "21257-6617",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00378787878787879"
+      },
+      "meta": {
+        "item_name": "Slayer's enchantment",
+        "monster_name": "Scorpia's guardian"
+      }
+    },
+    {
+      "id": "23490-6617",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00234356690883525"
+      },
+      "meta": {
+        "item_name": "Larran's key",
+        "monster_name": "Scorpia's guardian"
+      }
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "data": [
+    {
+      "id": "11826-3164",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000062000124000248"
+      },
+      "meta": {
+        "item_name": "Armadyl helmet",
+        "monster_name": "Flockleader Geerin"
+      }
+    },
+    {
+      "id": "11826-6587",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000001"
+      },
+      "meta": {
+        "item_name": "Armadyl helmet",
+        "monster_name": "Armadylian guard"
+      }
+    },
+    {
+      "id": "11826-6588",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000001"
+      },
+      "meta": {
+        "item_name": "Armadyl helmet",
+        "monster_name": "Bandosian guard"
+      }
+    },
+    {
+      "id": "11826-3162",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0026246719160105"
+      },
+      "meta": {
+        "item_name": "Armadyl helmet",
+        "monster_name": "Kree'arra"
+      }
+    },
+    {
+      "id": "11826-3163",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000062000124000248"
+      },
+      "meta": {
+        "item_name": "Armadyl helmet",
+        "monster_name": "Wingman Skree"
+      }
+    },
+    {
+      "id": "11826-3165",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000062000124000248"
+      },
+      "meta": {
+        "item_name": "Armadyl helmet",
+        "monster_name": "Flight Kilisa"
+      }
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "data": {
+    "id": "5918",
+    "type": "monster",
+    "attributes": {
+      "uuid": "ae9a09f6-315b-4013-940f-a11a0a5dae7b",
+      "name": "Scion",
+      "members": true,
+      "release_date": "2015-10-01",
+      "examine": "A mature spawn.",
+      "combat_level_override": null,
+      "max_hit_override": 16,
+      "target_types": [
+
+      ],
+      "classification_types": [
+
+      ],
+      "poison": false,
+      "immune_poison": false,
+      "immune_venom": false,
+      "slayer_xp": null,
+      "slayer_level": null,
+      "slayer_masters": [
+
+      ],
+      "icon_base64": null
+    },
+    "relationships": {
+      "combat_stat": {
+        "data": {
+          "id": "99ec58e1-65ea-45cf-b695-7264378adae6",
+          "type": "combat_stat"
+        }
+      },
+      "equip_stat": {
+        "data": {
+          "id": "de29d670-ef5d-4eb9-ac76-008e6fba4575",
+          "type": "equip_stat"
+        }
+      },
+      "attack_stat": {
+        "data": {
+          "id": "1496ed69-907a-4d2e-b87c-e2fa39730656",
+          "type": "attack_stat"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Scion"
+    },
+    "meta": {
+      "incomplete": true
+    }
+  },
+  "included": [
+    {
+      "id": "1496ed69-907a-4d2e-b87c-e2fa39730656",
+      "type": "attack_stat",
+      "attributes": {
+        "attack_speed": 4,
+        "attack_type": "monster",
+        "special": null,
+        "stances": [
+          {
+            "name": "Monster crush",
+            "style": null,
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": null,
+            "combat_accuracy_stat": "attack_level",
+            "combat_damage_stat": "strength_level",
+            "equip_accuracy_stat": "crush_attack",
+            "equip_damage_stat": "crush_attack",
+            "target_equip_defense_stat": "crush_defense"
+          },
+          {
+            "name": "Monster ranged",
+            "style": null,
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": null,
+            "combat_accuracy_stat": "ranged_level",
+            "combat_damage_stat": "ranged_level",
+            "equip_accuracy_stat": "ranged_attack",
+            "equip_damage_stat": "ranged_attack",
+            "target_equip_defense_stat": "ranged_defense"
+          }
+        ]
+      }
+    },
+    {
+      "id": "99ec58e1-65ea-45cf-b695-7264378adae6",
+      "type": "monster_combat_stat",
+      "attributes": {
+        "hitpoints_level": 50,
+        "attack_level": 120,
+        "strength_level": 90,
+        "defense_level": 80,
+        "magic_level": 1,
+        "ranged_level": 100,
+        "prayer_level": 0
+      }
+    },
+    {
+      "id": "de29d670-ef5d-4eb9-ac76-008e6fba4575",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 30,
+        "slash_attack": 30,
+        "crush_attack": 30,
+        "ranged_attack": 30,
+        "magic_attack": 0,
+        "stab_defense": 0,
+        "slash_defense": 0,
+        "crush_defense": 0,
+        "ranged_defense": 0,
+        "magic_defense": -10,
+        "melee_strength": 0,
+        "ranged_strength": 30,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

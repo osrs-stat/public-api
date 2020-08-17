@@ -1,0 +1,7620 @@
+{
+  "data": [
+    {
+      "id": "207-248",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00134235395189003"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Red dragon (2)"
+      }
+    },
+    {
+      "id": "207-266",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0100676546391753"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Blue dragon (3)"
+      }
+    },
+    {
+      "id": "207-265",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0100676546391753"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Blue dragon (2)"
+      }
+    },
+    {
+      "id": "207-260",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0100676546391753"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Green dragon (Level 79)"
+      }
+    },
+    {
+      "id": "207-251",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00134235395189003"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Red dragon (5)"
+      }
+    },
+    {
+      "id": "207-250",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00134235395189003"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Red dragon (4)"
+      }
+    },
+    {
+      "id": "207-1",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0214776632302405"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Molanisk"
+      }
+    },
+    {
+      "id": "207-2",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.0523518041237113"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Aberrant spectre"
+      }
+    },
+    {
+      "id": "207-26",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00347113749175605"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Zombie (Level 13)"
+      }
+    },
+    {
+      "id": "207-42",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00347113749175605"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Zombie (Level 18)"
+      }
+    },
+    {
+      "id": "207-49",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00347113749175605"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Zombie (Level 24)"
+      }
+    },
+    {
+      "id": "207-64",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00268470790378007"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Zombie (Entrana Dungeon) (1)"
+      }
+    },
+    {
+      "id": "207-65",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00268470790378007"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Zombie (Entrana Dungeon) (2)"
+      }
+    },
+    {
+      "id": "207-66",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00268470790378007"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Zombie (Entrana Dungeon) (3)"
+      }
+    },
+    {
+      "id": "207-67",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00268470790378007"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Zombie (Entrana Dungeon) (4)"
+      }
+    },
+    {
+      "id": "207-68",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00268470790378007"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Zombie (Entrana Dungeon) (5)"
+      }
+    },
+    {
+      "id": "207-70",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0134235395189003"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Skeleton (Level 22)"
+      }
+    },
+    {
+      "id": "207-74",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0134235395189003"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Skeleton (Level 21)"
+      }
+    },
+    {
+      "id": "207-77",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0134235395189003"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Skeleton (Level 25)"
+      }
+    },
+    {
+      "id": "207-82",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0134235395189003"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Skeleton (Level 45)"
+      }
+    },
+    {
+      "id": "207-84",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.001953125"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Skeleton Mage (Level 16)"
+      }
+    },
+    {
+      "id": "207-240",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0154370704467354"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Black demon (Level 172)"
+      }
+    },
+    {
+      "id": "207-247",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00134235395189003"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Red dragon (1)"
+      }
+    },
+    {
+      "id": "207-249",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00134235395189003"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Red dragon (3)"
+      }
+    },
+    {
+      "id": "207-10402",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.00268470790378007"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Colossal Hydra"
+      }
+    },
+    {
+      "id": "207-10402",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.0225225225225225"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Colossal Hydra"
+      }
+    },
+    {
+      "id": "207-10400",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.00505356781888013"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Guardian Drake"
+      }
+    },
+    {
+      "id": "207-10400",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.0088261253309797"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Guardian Drake"
+      }
+    },
+    {
+      "id": "207-10398",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 2,
+        "rarity": "0.00452161331162959"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Shadow Wyrm"
+      }
+    },
+    {
+      "id": "207-10397",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.0208064862542955"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Spiked Turoth"
+      }
+    },
+    {
+      "id": "207-9293",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0144230769230769"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Basilisk Knight"
+      }
+    },
+    {
+      "id": "207-9293",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0049563838223632"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Basilisk Knight"
+      }
+    },
+    {
+      "id": "207-9258",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0144230769230769"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Basilisk Sentinel"
+      }
+    },
+    {
+      "id": "207-9258",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0049563838223632"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Basilisk Sentinel"
+      }
+    },
+    {
+      "id": "207-9188",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0100676546391753"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Guard (Prifddinas) (7)"
+      }
+    },
+    {
+      "id": "207-9187",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0100676546391753"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Guard (Prifddinas) (6)"
+      }
+    },
+    {
+      "id": "207-9186",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0100676546391753"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Guard (Prifddinas) (5)"
+      }
+    },
+    {
+      "id": "207-9185",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0100676546391753"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Guard (Prifddinas) (4)"
+      }
+    },
+    {
+      "id": "207-9184",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0100676546391753"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Guard (Prifddinas) (3)"
+      }
+    },
+    {
+      "id": "207-9183",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0100676546391753"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Guard (Prifddinas) (2)"
+      }
+    },
+    {
+      "id": "207-9182",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0100676546391753"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Guard (Prifddinas) (1)"
+      }
+    },
+    {
+      "id": "207-8760",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0100676546391753"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Iorwerth Archer (Female)"
+      }
+    },
+    {
+      "id": "207-8759",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0100676546391753"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Iorwerth Warrior (Female)"
+      }
+    },
+    {
+      "id": "207-8736",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00335588487972509"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Moss giant (Level 84)"
+      }
+    },
+    {
+      "id": "207-8713",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 5,
+        "quantity_max": 10,
+        "rarity": "0.0096969696969697"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Sarachnis"
+      }
+    },
+    {
+      "id": "207-8703",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0128865979381443"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Temple Spider"
+      }
+    },
+    {
+      "id": "207-8633",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 25,
+        "quantity_max": null,
+        "rarity": "0.125"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "The Mimic"
+      }
+    },
+    {
+      "id": "207-8621",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 10,
+        "quantity_max": 15,
+        "rarity": "0.0123762376237624"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Alchemical Hydra (Two heads)"
+      }
+    },
+    {
+      "id": "207-8618",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 10,
+        "quantity_max": 15,
+        "rarity": "0.0123762376237624"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Alchemical Hydra (Three heads)"
+      }
+    },
+    {
+      "id": "207-8617",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 10,
+        "quantity_max": 15,
+        "rarity": "0.0123762376237624"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Alchemical Hydra (Four heads)"
+      }
+    },
+    {
+      "id": "207-8615",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 10,
+        "quantity_max": 15,
+        "rarity": "0.0123762376237624"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Alchemical Hydra (Five heads)"
+      }
+    },
+    {
+      "id": "207-8614",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00671176975945017"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Sulphur Lizard"
+      }
+    },
+    {
+      "id": "207-8612",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.00505356781888013"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Drake"
+      }
+    },
+    {
+      "id": "207-8612",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.0088261253309797"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Drake"
+      }
+    },
+    {
+      "id": "207-8611",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 2,
+        "rarity": "0.00452161331162959"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Wyrm (Attacking)"
+      }
+    },
+    {
+      "id": "207-8610",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 2,
+        "rarity": "0.00452161331162959"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Wyrm (Idle)"
+      }
+    },
+    {
+      "id": "207-8609",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.00268470790378007"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Hydra"
+      }
+    },
+    {
+      "id": "207-8609",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.0225225225225225"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Hydra"
+      }
+    },
+    {
+      "id": "207-8256",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00078817112771525"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Vyrewatch (Level 87)"
+      }
+    },
+    {
+      "id": "207-8195",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0036402819034306"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Bryophyta"
+      }
+    },
+    {
+      "id": "207-8072",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00143184421534937"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Skeleton (Shayzien Crypts) (Magic)"
+      }
+    },
+    {
+      "id": "207-8071",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00143184421534937"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Skeleton (Shayzien Crypts) (Range)"
+      }
+    },
+    {
+      "id": "207-8070",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00143184421534937"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Skeleton (Shayzien Crypts) (Melee)"
+      }
+    },
+    {
+      "id": "207-8069",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00143184421534937"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Zombie (Shayzien Crypts) (Magic)"
+      }
+    },
+    {
+      "id": "207-8068",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00143184421534937"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Zombie (Shayzien Crypts) (Range)"
+      }
+    },
+    {
+      "id": "207-8067",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00143184421534937"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Zombie (Shayzien Crypts) (Melee)"
+      }
+    },
+    {
+      "id": "207-8031",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015748031496063"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Rune dragon"
+      }
+    },
+    {
+      "id": "207-8031",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0054116946721866"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Rune dragon"
+      }
+    },
+    {
+      "id": "207-8030",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0181818181818182"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Adamant dragon"
+      }
+    },
+    {
+      "id": "207-8030",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00624804748516089"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Adamant dragon"
+      }
+    },
+    {
+      "id": "207-7916",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0154370704467354"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Thief (The Warrens)"
+      }
+    },
+    {
+      "id": "207-7874",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0154370704467354"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Black demon (Level 188)"
+      }
+    },
+    {
+      "id": "207-7868",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0100676546391753"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Green dragon (Level 88)"
+      }
+    },
+    {
+      "id": "207-7865",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000671176975945017"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Lesser demon (Level 94 (Revenant Caves))"
+      }
+    },
+    {
+      "id": "207-7864",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00271296798697775"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Ankou (Level 98)"
+      }
+    },
+    {
+      "id": "207-7796",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0101927893296057"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Lobstrosity"
+      }
+    },
+    {
+      "id": "207-7795",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0298507462686567"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Ancient Wyvern"
+      }
+    },
+    {
+      "id": "207-7794",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.016260162601626"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Spitting Wyvern"
+      }
+    },
+    {
+      "id": "207-7793",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.016260162601626"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Taloned Wyvern"
+      }
+    },
+    {
+      "id": "207-7792",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.016260162601626"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Long-tailed Wyvern"
+      }
+    },
+    {
+      "id": "207-7488",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00347113749175605"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Zombie (Level 72)"
+      }
+    },
+    {
+      "id": "207-7487",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00347113749175605"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Zombie (Level 76)"
+      }
+    },
+    {
+      "id": "207-7486",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00347113749175605"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Zombie (Level 56)"
+      }
+    },
+    {
+      "id": "207-7485",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00347113749175605"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Zombie (Level 70)"
+      }
+    },
+    {
+      "id": "207-7411",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00469823883161512"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Nechryarch"
+      }
+    },
+    {
+      "id": "207-7410",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0127523625429553"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Greater abyssal demon"
+      }
+    },
+    {
+      "id": "207-7409",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 2,
+        "rarity": "0.0161082474226804"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Night beast"
+      }
+    },
+    {
+      "id": "207-7406",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 2,
+        "rarity": "0.0120811855670103"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Nuclear smoke devil"
+      }
+    },
+    {
+      "id": "207-7405",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.0124709012304623"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "King kurask"
+      }
+    },
+    {
+      "id": "207-7404",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00536941580756014"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Choke devil"
+      }
+    },
+    {
+      "id": "207-7403",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.0308741408934708"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Repugnant spectre"
+      }
+    },
+    {
+      "id": "207-7402",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.0523518041237113"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Abhorrent spectre"
+      }
+    },
+    {
+      "id": "207-7401",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00872530068728522"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Cave abomination"
+      }
+    },
+    {
+      "id": "207-7397",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000671176975945017"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Insatiable Bloodveld"
+      }
+    },
+    {
+      "id": "207-7395",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234911941580756"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Monstrous basilisk"
+      }
+    },
+    {
+      "id": "207-7393",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00671176975945017"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Cockathrice"
+      }
+    },
+    {
+      "id": "207-7391",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.0228200171821306"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Screaming twisted banshee"
+      }
+    },
+    {
+      "id": "207-7390",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0228200171821306"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Screaming banshee"
+      }
+    },
+    {
+      "id": "207-7389",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0147658934707904"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Chasm Crawler"
+      }
+    },
+    {
+      "id": "207-7310",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00859106529209622"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Brassican Mage"
+      }
+    },
+    {
+      "id": "207-7309",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00859106529209622"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Ancient Wizard (Melee)"
+      }
+    },
+    {
+      "id": "207-7308",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00859106529209622"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Ancient Wizard (Ranger)"
+      }
+    },
+    {
+      "id": "207-7307",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00859106529209622"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Ancient Wizard (Mage)"
+      }
+    },
+    {
+      "id": "207-7279",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.0308741408934708"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Deviant spectre"
+      }
+    },
+    {
+      "id": "207-7278",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00469823883161512"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Greater Nechryael"
+      }
+    },
+    {
+      "id": "207-7272",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.0228200171821306"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Twisted Banshee"
+      }
+    },
+    {
+      "id": "207-7266",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00536941580756014"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "King Sand Crab (Active)"
+      }
+    },
+    {
+      "id": "207-7257",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00271296798697775"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Ankou (Level 95)"
+      }
+    },
+    {
+      "id": "207-7252",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0127523625429553"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Fire giant (Level 104)"
+      }
+    },
+    {
+      "id": "207-7251",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0127523625429553"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Fire giant (Level 109)"
+      }
+    },
+    {
+      "id": "207-7249",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00536941580756014"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Dust devil (Level 110)"
+      }
+    },
+    {
+      "id": "207-7248",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000671176975945017"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Lesser demon (Level 94)"
+      }
+    },
+    {
+      "id": "207-7247",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000671176975945017"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Lesser demon (Level 87)"
+      }
+    },
+    {
+      "id": "207-7243",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0154370704467354"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Black demon (Level 178)"
+      }
+    },
+    {
+      "id": "207-7242",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0154370704467354"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Black demon (Level 184)"
+      }
+    },
+    {
+      "id": "207-7241",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0127523625429553"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Abyssal demon (Catacombs of Kourend)"
+      }
+    },
+    {
+      "id": "207-6612",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 100,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Vet'ion (Reborn)"
+      }
+    },
+    {
+      "id": "207-6611",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 100,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Vet'ion (Normal)"
+      }
+    },
+    {
+      "id": "207-6607",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 4,
+        "rarity": "0.0366285729507978"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Elder Chaos druid"
+      }
+    },
+    {
+      "id": "207-6606",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00201353092783505"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Dark warrior (Level 145)"
+      }
+    },
+    {
+      "id": "207-6605",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0275182560137457"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Bandit (Level 130)"
+      }
+    },
+    {
+      "id": "207-6604",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00536941580756014"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Mammoth"
+      }
+    },
+    {
+      "id": "207-6603",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0154370704467354"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Rogue (Level 135)"
+      }
+    },
+    {
+      "id": "207-6593",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 2,
+        "rarity": "0.00335588487972509"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Lava dragon"
+      }
+    },
+    {
+      "id": "207-6588",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00671176975945017"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Bandosian guard"
+      }
+    },
+    {
+      "id": "207-6587",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00671176975945017"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Armadylian guard"
+      }
+    },
+    {
+      "id": "207-6474",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0100676546391753"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Terror dog (Level 100)"
+      }
+    },
+    {
+      "id": "207-6473",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0100676546391753"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Terror dog (Level 110)"
+      }
+    },
+    {
+      "id": "207-6468",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00335588487972509"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Skeleton (Tarn's Lair) (Level 87)"
+      }
+    },
+    {
+      "id": "207-6467",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00335588487972509"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Skeleton (Tarn's Lair) (Level 72)"
+      }
+    },
+    {
+      "id": "207-6466",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00134235395189003"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Zombie (Tarn's Lair) (Level 81)"
+      }
+    },
+    {
+      "id": "207-6465",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00134235395189003"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Zombie (Tarn's Lair) (Level 100)"
+      }
+    },
+    {
+      "id": "207-6464",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00134235395189003"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Zombie (Tarn's Lair) (Level 98)"
+      }
+    },
+    {
+      "id": "207-6463",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00134235395189003"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Zombie (Tarn's Lair) (Level 95)"
+      }
+    },
+    {
+      "id": "207-6462",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00134235395189003"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Zombie (Tarn's Lair) (Level 90)"
+      }
+    },
+    {
+      "id": "207-6461",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00134235395189003"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Zombie (Tarn's Lair) (Level 86)"
+      }
+    },
+    {
+      "id": "207-6460",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00134235395189003"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Zombie (Tarn's Lair) (Level 85)"
+      }
+    },
+    {
+      "id": "207-6459",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00134235395189003"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Zombie (Tarn's Lair) (Level 80)"
+      }
+    },
+    {
+      "id": "207-6458",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00134235395189003"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Zombie (Tarn's Lair) (Level 76)"
+      }
+    },
+    {
+      "id": "207-6457",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00134235395189003"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Zombie (Tarn's Lair) (Level 72)"
+      }
+    },
+    {
+      "id": "207-6456",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00134235395189003"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Zombie (Tarn's Lair) (Level 70)"
+      }
+    },
+    {
+      "id": "207-6455",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00134235395189003"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Zombie (Tarn's Lair) (Level 67)"
+      }
+    },
+    {
+      "id": "207-6454",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00134235395189003"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Zombie (Tarn's Lair) (Level 61)"
+      }
+    },
+    {
+      "id": "207-6453",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00134235395189003"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Zombie (Tarn's Lair) (Level 56)"
+      }
+    },
+    {
+      "id": "207-6452",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00134235395189003"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Zombie (Tarn's Lair) (Level 50)"
+      }
+    },
+    {
+      "id": "207-6451",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00134235395189003"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Zombie (Tarn's Lair) (Level 47)"
+      }
+    },
+    {
+      "id": "207-6450",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00134235395189003"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Zombie (Tarn's Lair) (Level 42)"
+      }
+    },
+    {
+      "id": "207-6449",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00134235395189003"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Zombie (Tarn's Lair) (Level 40)"
+      }
+    },
+    {
+      "id": "207-6448",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00335588487972509"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Skeleton (Tarn's Lair) (Level 40)"
+      }
+    },
+    {
+      "id": "207-6447",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00335588487972509"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Skeleton (Tarn's Lair) (Level 63)"
+      }
+    },
+    {
+      "id": "207-6446",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00335588487972509"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Skeleton (Tarn's Lair) (Level 42 (Hammer))"
+      }
+    },
+    {
+      "id": "207-6445",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00335588487972509"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Skeleton (Tarn's Lair) (Level 59)"
+      }
+    },
+    {
+      "id": "207-6444",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00335588487972509"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Skeleton (Tarn's Lair) (Level 42 (Sword))"
+      }
+    },
+    {
+      "id": "207-6443",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00335588487972509"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Skeleton (Tarn's Lair) (Level 81)"
+      }
+    },
+    {
+      "id": "207-6442",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00335588487972509"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Skeleton (Tarn's Lair) (Level 77)"
+      }
+    },
+    {
+      "id": "207-6441",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00335588487972509"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Skeleton (mage)"
+      }
+    },
+    {
+      "id": "207-6440",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Giant skeleton (Shadow Dungeon)"
+      }
+    },
+    {
+      "id": "207-6331",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0100676546391753"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Arrg (Hard)"
+      }
+    },
+    {
+      "id": "207-6299",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00469823883161512"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Black Knight Titan (Hard)"
+      }
+    },
+    {
+      "id": "207-6295",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0154370704467354"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Black demon (Hard)"
+      }
+    },
+    {
+      "id": "207-6076",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00671176975945017"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Tortoise (With riders)"
+      }
+    },
+    {
+      "id": "207-6075",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00671176975945017"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Tortoise (No riders)"
+      }
+    },
+    {
+      "id": "207-5944",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00201353092783505"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Rock lobster"
+      }
+    },
+    {
+      "id": "207-5938",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00671176975945017"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Wallasalki"
+      }
+    },
+    {
+      "id": "207-5642",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00671176975945017"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Feral Vampyre (Level 130)"
+      }
+    },
+    {
+      "id": "207-5641",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00671176975945017"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Feral Vampyre (Level 100)"
+      }
+    },
+    {
+      "id": "207-5640",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00671176975945017"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Feral Vampyre (Level 70)"
+      }
+    },
+    {
+      "id": "207-5566",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 2,
+        "rarity": "0.00671176975945017"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Ferocious barbarian spirit"
+      }
+    },
+    {
+      "id": "207-5565",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00335588487972509"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Berserk barbarian spirit"
+      }
+    },
+    {
+      "id": "207-5564",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00335588487972509"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Enraged barbarian spirit"
+      }
+    },
+    {
+      "id": "207-5563",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00335588487972509"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Angry barbarian spirit"
+      }
+    },
+    {
+      "id": "207-5296",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0100676546391753"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Elf Archer (2)"
+      }
+    },
+    {
+      "id": "207-5295",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0100676546391753"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Elf Archer (1)"
+      }
+    },
+    {
+      "id": "207-5294",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0100676546391753"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Elf Warrior (2)"
+      }
+    },
+    {
+      "id": "207-5293",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0100676546391753"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Elf Warrior (1)"
+      }
+    },
+    {
+      "id": "207-5217",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0154370704467354"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Thief (Varrock Gang)"
+      }
+    },
+    {
+      "id": "207-5126",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Experiment No.2"
+      }
+    },
+    {
+      "id": "207-4319",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.001953125"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Skeleton Mage (Level 83)"
+      }
+    },
+    {
+      "id": "207-4247",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0154370704467354"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Thief (Monk's Friend)"
+      }
+    },
+    {
+      "id": "207-4167",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0214776632302405"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Outlaw"
+      }
+    },
+    {
+      "id": "207-4143",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0100676546391753"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Mountain troll (Level 71)"
+      }
+    },
+    {
+      "id": "207-4134",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0100676546391753"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Berry (Sleeping)"
+      }
+    },
+    {
+      "id": "207-4133",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0100676546391753"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Twig (Sleeping)"
+      }
+    },
+    {
+      "id": "207-4132",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0100676546391753"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Berry (Awake)"
+      }
+    },
+    {
+      "id": "207-4131",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0100676546391753"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Twig (Awake)"
+      }
+    },
+    {
+      "id": "207-4123",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0100676546391753"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Troll spectator"
+      }
+    },
+    {
+      "id": "207-4122",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0100676546391753"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Troll general (Hammer (brown))"
+      }
+    },
+    {
+      "id": "207-4121",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0100676546391753"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Troll general (Hammer (grey))"
+      }
+    },
+    {
+      "id": "207-4120",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0100676546391753"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Troll general (Sword)"
+      }
+    },
+    {
+      "id": "207-4111",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0154370704467354"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Ceolburg"
+      }
+    },
+    {
+      "id": "207-4110",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0154370704467354"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Hygd"
+      }
+    },
+    {
+      "id": "207-4109",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0154370704467354"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Penda"
+      }
+    },
+    {
+      "id": "207-4108",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0154370704467354"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Ocga"
+      }
+    },
+    {
+      "id": "207-4107",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0154370704467354"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Breoca"
+      }
+    },
+    {
+      "id": "207-4088",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00604059278350515"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Soldier (Burthorpe)"
+      }
+    },
+    {
+      "id": "207-4067",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00469823883161512"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Black Knight Titan (Normal)"
+      }
+    },
+    {
+      "id": "207-4005",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 2,
+        "rarity": "0.0161082474226804"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Dark beast"
+      }
+    },
+    {
+      "id": "207-3950",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00134235395189003"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Warrior (Rellekka)"
+      }
+    },
+    {
+      "id": "207-3949",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00134235395189003"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Market Guard"
+      }
+    },
+    {
+      "id": "207-3944",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00167794243986254"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Jennella"
+      }
+    },
+    {
+      "id": "207-3943",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00167794243986254"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Lensa"
+      }
+    },
+    {
+      "id": "207-3940",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00167794243986254"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Lanzig"
+      }
+    },
+    {
+      "id": "207-3939",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00167794243986254"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Borrokar"
+      }
+    },
+    {
+      "id": "207-3938",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00167794243986254"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Freidir"
+      }
+    },
+    {
+      "id": "207-3851",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00335588487972509"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Moss giant (Level 48)"
+      }
+    },
+    {
+      "id": "207-3720",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00078817112771525"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Vyrewatch (Level 125)"
+      }
+    },
+    {
+      "id": "207-3719",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00078817112771525"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Vyrewatch (Level 120)"
+      }
+    },
+    {
+      "id": "207-3718",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00078817112771525"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Vyrewatch (Level 110)"
+      }
+    },
+    {
+      "id": "207-3717",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00078817112771525"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Vyrewatch (Level 105)"
+      }
+    },
+    {
+      "id": "207-3707",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00671176975945017"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Feral Vampyre (Level 64)"
+      }
+    },
+    {
+      "id": "207-3615",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0134235395189003"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Skeletal miner"
+      }
+    },
+    {
+      "id": "207-3429",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0100676546391753"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Iorwerth Warrior (Male)"
+      }
+    },
+    {
+      "id": "207-3428",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0100676546391753"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Iorwerth Archer (Male)"
+      }
+    },
+    {
+      "id": "207-3298",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0154370704467354"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Man (Cavalier)"
+      }
+    },
+    {
+      "id": "207-3293",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00536941580756014"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "https://oldschool.runescape.wiki/w/Paladin#Level_62"
+      }
+    },
+    {
+      "id": "207-3292",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0154370704467354"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Al-Kharid warrior"
+      }
+    },
+    {
+      "id": "207-3285",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0154370704467354"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Anja"
+      }
+    },
+    {
+      "id": "207-3284",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0154370704467354"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Hengel"
+      }
+    },
+    {
+      "id": "207-3282",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0154370704467354"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Jeff"
+      }
+    },
+    {
+      "id": "207-3281",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0154370704467354"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Rusty"
+      }
+    },
+    {
+      "id": "207-3280",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0154370704467354"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Narf"
+      }
+    },
+    {
+      "id": "207-3279",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0154370704467354"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Cuffs"
+      }
+    },
+    {
+      "id": "207-3266",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0154370704467354"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Man (Grey)"
+      }
+    },
+    {
+      "id": "207-3265",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0154370704467354"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Man (Pink)"
+      }
+    },
+    {
+      "id": "207-3264",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0154370704467354"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Man (Light blue)"
+      }
+    },
+    {
+      "id": "207-3263",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0154370704467354"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Drunken man"
+      }
+    },
+    {
+      "id": "207-3261",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0154370704467354"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Man (Black)"
+      }
+    },
+    {
+      "id": "207-3258",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0174506013745704"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Druid"
+      }
+    },
+    {
+      "id": "207-3237",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00671176975945017"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Feral Vampyre (Level 61)"
+      }
+    },
+    {
+      "id": "207-3234",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00671176975945017"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Feral Vampyre (Level 72)"
+      }
+    },
+    {
+      "id": "207-3185",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00268470790378007"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Dagannoth (Waterbirth Island) (Level 90)"
+      }
+    },
+    {
+      "id": "207-3183",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0100676546391753"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Aviansie (Level 131)"
+      }
+    },
+    {
+      "id": "207-3182",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0100676546391753"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Aviansie (Level 97 (2))"
+      }
+    },
+    {
+      "id": "207-3181",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0100676546391753"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Aviansie (Level 94)"
+      }
+    },
+    {
+      "id": "207-3180",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0100676546391753"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Aviansie (Level 89)"
+      }
+    },
+    {
+      "id": "207-3179",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0100676546391753"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Aviansie (Level 79 (2))"
+      }
+    },
+    {
+      "id": "207-3178",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0100676546391753"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Aviansie (Level 73)"
+      }
+    },
+    {
+      "id": "207-3177",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0100676546391753"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Aviansie (Level 71)"
+      }
+    },
+    {
+      "id": "207-3176",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0100676546391753"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Aviansie (Level 148)"
+      }
+    },
+    {
+      "id": "207-3175",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0100676546391753"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Aviansie (Level 137)"
+      }
+    },
+    {
+      "id": "207-3174",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0100676546391753"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Aviansie (Level 97 (1))"
+      }
+    },
+    {
+      "id": "207-3173",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0100676546391753"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Aviansie (Level 92)"
+      }
+    },
+    {
+      "id": "207-3172",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0100676546391753"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Aviansie (Level 83)"
+      }
+    },
+    {
+      "id": "207-3171",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0100676546391753"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Aviansie (Level 84)"
+      }
+    },
+    {
+      "id": "207-3170",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0100676546391753"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Aviansie (Level 79 (1))"
+      }
+    },
+    {
+      "id": "207-3169",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0100676546391753"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Aviansie (Level 69)"
+      }
+    },
+    {
+      "id": "207-3141",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0107388316151203"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Gorak (Level 149)"
+      }
+    },
+    {
+      "id": "207-3138",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000671176975945017"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Bloodveld (God Wars)"
+      }
+    },
+    {
+      "id": "207-3137",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00671176975945017"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Feral Vampyre (Level 77)"
+      }
+    },
+    {
+      "id": "207-3135",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000503382731958763"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Werewolf (Level 93)"
+      }
+    },
+    {
+      "id": "207-3114",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00738294673539519"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Farmer"
+      }
+    },
+    {
+      "id": "207-3109",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0154370704467354"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Man (Backpack)"
+      }
+    },
+    {
+      "id": "207-3108",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0154370704467354"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Man (Green)"
+      }
+    },
+    {
+      "id": "207-3107",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0154370704467354"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Man (Red)"
+      }
+    },
+    {
+      "id": "207-3050",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00469823883161512"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Hobgoblin (Level 42)"
+      }
+    },
+    {
+      "id": "207-3049",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00469823883161512"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Hobgoblin (Level 28)"
+      }
+    },
+    {
+      "id": "207-3028",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00134235395189003"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Goblin (Level 2)"
+      }
+    },
+    {
+      "id": "207-3015",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0154370704467354"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Woman"
+      }
+    },
+    {
+      "id": "207-2999",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Tortured soul"
+      }
+    },
+    {
+      "id": "207-2918",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0100676546391753"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Brutal green dragon"
+      }
+    },
+    {
+      "id": "207-2916",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00604059278350515"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Waterfiend"
+      }
+    },
+    {
+      "id": "207-2853",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0120811855670103"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Shadow warrior"
+      }
+    },
+    {
+      "id": "207-2843",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00671176975945017"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Otherworldly being"
+      }
+    },
+    {
+      "id": "207-2841",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00671176975945017"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Ice warrior"
+      }
+    },
+    {
+      "id": "207-2840",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00939647766323024"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Earth warrior"
+      }
+    },
+    {
+      "id": "207-2632",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000335588487972509"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Liliya"
+      }
+    },
+    {
+      "id": "207-2631",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000335588487972509"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Zoja"
+      }
+    },
+    {
+      "id": "207-2630",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000335588487972509"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Vera"
+      }
+    },
+    {
+      "id": "207-2629",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000335588487972509"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Nikita"
+      }
+    },
+    {
+      "id": "207-2628",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000335588487972509"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Yadviga"
+      }
+    },
+    {
+      "id": "207-2627",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000335588487972509"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Ksenia"
+      }
+    },
+    {
+      "id": "207-2626",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000335588487972509"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Sofiya"
+      }
+    },
+    {
+      "id": "207-2625",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000335588487972509"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Galina"
+      }
+    },
+    {
+      "id": "207-2624",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000335588487972509"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Milla"
+      }
+    },
+    {
+      "id": "207-2623",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000335588487972509"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Alexis"
+      }
+    },
+    {
+      "id": "207-2622",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000335588487972509"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Irina"
+      }
+    },
+    {
+      "id": "207-2621",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000335588487972509"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Svetlana"
+      }
+    },
+    {
+      "id": "207-2620",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000335588487972509"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Georgy"
+      }
+    },
+    {
+      "id": "207-2619",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000335588487972509"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Lev"
+      }
+    },
+    {
+      "id": "207-2618",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000335588487972509"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Eduard"
+      }
+    },
+    {
+      "id": "207-2617",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000335588487972509"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Nikolai"
+      }
+    },
+    {
+      "id": "207-2616",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000335588487972509"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Joseph"
+      }
+    },
+    {
+      "id": "207-2615",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000335588487972509"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Yuri"
+      }
+    },
+    {
+      "id": "207-2614",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000335588487972509"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Imre"
+      }
+    },
+    {
+      "id": "207-2613",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000335588487972509"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Boris"
+      }
+    },
+    {
+      "id": "207-2593",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000503382731958763"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Werewolf (Level 88)"
+      }
+    },
+    {
+      "id": "207-2524",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0134235395189003"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Skeleton (Level 85)"
+      }
+    },
+    {
+      "id": "207-2521",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0134235395189003"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Skeleton (Level 60)"
+      }
+    },
+    {
+      "id": "207-2520",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0134235395189003"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Skeleton (Level 68)"
+      }
+    },
+    {
+      "id": "207-2516",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00271296798697775"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Ankou (Level 86)"
+      }
+    },
+    {
+      "id": "207-2515",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00271296798697775"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Ankou (Level 82)"
+      }
+    },
+    {
+      "id": "207-2514",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00271296798697775"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Ankou (Level 75)"
+      }
+    },
+    {
+      "id": "207-2507",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00347113749175605"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Zombie (Level 53)"
+      }
+    },
+    {
+      "id": "207-2504",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00347113749175605"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Zombie (Level 44)"
+      }
+    },
+    {
+      "id": "207-2501",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00347113749175605"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Zombie (Level 30)"
+      }
+    },
+    {
+      "id": "207-2500",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0146048109965636"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Flesh Crawler (Level 41)"
+      }
+    },
+    {
+      "id": "207-2499",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0146048109965636"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Flesh Crawler (Level 35)"
+      }
+    },
+    {
+      "id": "207-2498",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0146048109965636"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Flesh Crawler (Level 28)"
+      }
+    },
+    {
+      "id": "207-2488",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00134235395189003"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Goblin (Level 25)"
+      }
+    },
+    {
+      "id": "207-2487",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00134235395189003"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Goblin (Level 16)"
+      }
+    },
+    {
+      "id": "207-2486",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00134235395189003"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Goblin (Level 11)"
+      }
+    },
+    {
+      "id": "207-2485",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00134235395189003"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Goblin (Level 13)"
+      }
+    },
+    {
+      "id": "207-2476",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00255180157190977"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Catablepon (Level 68)"
+      }
+    },
+    {
+      "id": "207-2475",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00255180157190977"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Catablepon (Level 64)"
+      }
+    },
+    {
+      "id": "207-2474",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00255180157190977"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Catablepon (Level 49)"
+      }
+    },
+    {
+      "id": "207-2464",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00469823883161512"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Cyclops (Level 76)"
+      }
+    },
+    {
+      "id": "207-2267",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0546875"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Dagannoth Rex"
+      }
+    },
+    {
+      "id": "207-2266",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Dagannoth Prime"
+      }
+    },
+    {
+      "id": "207-2265",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Dagannoth Supreme"
+      }
+    },
+    {
+      "id": "207-2261",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00536941580756014"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Giant Rock Crab"
+      }
+    },
+    {
+      "id": "207-2259",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00268470790378007"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Dagannoth (Waterbirth Island) (Level 88)"
+      }
+    },
+    {
+      "id": "207-2249",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00134235395189003"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Goblin (Level 13 (GWD))"
+      }
+    },
+    {
+      "id": "207-2248",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00134235395189003"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Goblin (Level 15)"
+      }
+    },
+    {
+      "id": "207-2247",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00134235395189003"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Goblin (Level 12 (2))"
+      }
+    },
+    {
+      "id": "207-2246",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00134235395189003"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Goblin (Level 12 (1))"
+      }
+    },
+    {
+      "id": "207-2245",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00134235395189003"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Goblin (Level 17)"
+      }
+    },
+    {
+      "id": "207-2241",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00469823883161512"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Hobgoblin (Level 47)"
+      }
+    },
+    {
+      "id": "207-2235",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00469823883161512"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Cyclops (Level 81)"
+      }
+    },
+    {
+      "id": "207-2234",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00399584432190522"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Jogre (GWD)"
+      }
+    },
+    {
+      "id": "207-2208",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.062992125984252"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Bree"
+      }
+    },
+    {
+      "id": "207-2207",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.062992125984252"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Growler"
+      }
+    },
+    {
+      "id": "207-2206",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.062992125984252"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Starlight"
+      }
+    },
+    {
+      "id": "207-2205",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.062992125984252"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Commander Zilyana"
+      }
+    },
+    {
+      "id": "207-2145",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.0189003436426117"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Undead Druid"
+      }
+    },
+    {
+      "id": "207-2137",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00469823883161512"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Cyclops (Level 106)"
+      }
+    },
+    {
+      "id": "207-2098",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00469823883161512"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Hill Giant"
+      }
+    },
+    {
+      "id": "207-2097",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00469823883161512"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Cyclops (Level 56)"
+      }
+    },
+    {
+      "id": "207-2094",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00399584432190522"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Jogre (Normal)"
+      }
+    },
+    {
+      "id": "207-2090",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00335588487972509"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Moss giant (Level 42)"
+      }
+    },
+    {
+      "id": "207-2075",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0127523625429553"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Fire giant (Level 86)"
+      }
+    },
+    {
+      "id": "207-2054",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 4,
+        "rarity": "0.00268470790378007"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Chaos Elemental"
+      }
+    },
+    {
+      "id": "207-2005",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000671176975945017"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Lesser demon (Level 82)"
+      }
+    },
+    {
+      "id": "207-1877",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00134235395189003"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Ice troll grunt"
+      }
+    },
+    {
+      "id": "207-1876",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0100676546391753"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Ice troll female"
+      }
+    },
+    {
+      "id": "207-1875",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0100676546391753"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Ice troll male"
+      }
+    },
+    {
+      "id": "207-1874",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0100676546391753"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Ice troll runt"
+      }
+    },
+    {
+      "id": "207-1866",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0100676546391753"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Tree spirit (Level 159)"
+      }
+    },
+    {
+      "id": "207-1865",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0100676546391753"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Tree spirit (Level 120)"
+      }
+    },
+    {
+      "id": "207-1864",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0100676546391753"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Tree spirit (Level 79)"
+      }
+    },
+    {
+      "id": "207-1863",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0100676546391753"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Tree spirit (Level 49)"
+      }
+    },
+    {
+      "id": "207-1861",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0100676546391753"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Tree spirit (Level 14)"
+      }
+    },
+    {
+      "id": "207-1834",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0107388316151203"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Gorak (Level 145)"
+      }
+    },
+    {
+      "id": "207-1829",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00469823883161512"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "White Knight (Partisan)"
+      }
+    },
+    {
+      "id": "207-1800",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00469823883161512"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "White Knight (Acolyte)"
+      }
+    },
+    {
+      "id": "207-1799",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00469823883161512"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "White Knight (Proselyte)"
+      }
+    },
+    {
+      "id": "207-1798",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00469823883161512"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "White Knight (Initiate)"
+      }
+    },
+    {
+      "id": "207-1541",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00335588487972509"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Skeleton thug"
+      }
+    },
+    {
+      "id": "207-1540",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00335588487972509"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Skeleton heavy"
+      }
+    },
+    {
+      "id": "207-1539",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00335588487972509"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Skeleton warlord"
+      }
+    },
+    {
+      "id": "207-1538",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00335588487972509"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Skeleton brute"
+      }
+    },
+    {
+      "id": "207-1537",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00335588487972509"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Skeleton hero"
+      }
+    },
+    {
+      "id": "207-1448",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0154370704467354"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Thief (Standard)"
+      }
+    },
+    {
+      "id": "207-1370",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00924366827210697"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Water elemental"
+      }
+    },
+    {
+      "id": "207-1369",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00924366827210697"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Air elemental"
+      }
+    },
+    {
+      "id": "207-1367",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00939647766323024"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Earth elemental (Ore)"
+      }
+    },
+    {
+      "id": "207-1366",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00939647766323024"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Earth elemental (Normal)"
+      }
+    },
+    {
+      "id": "207-1365",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00924366827210697"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Fire elemental"
+      }
+    },
+    {
+      "id": "207-1298",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0154370704467354"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Afflicted (Level 30)"
+      }
+    },
+    {
+      "id": "207-1297",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0154370704467354"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Afflicted (Level 32)"
+      }
+    },
+    {
+      "id": "207-1294",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0154370704467354"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Afflicted (Level 34)"
+      }
+    },
+    {
+      "id": "207-1293",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0154370704467354"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Afflicted (Level 37)"
+      }
+    },
+    {
+      "id": "207-1144",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00536941580756014"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "https://oldschool.runescape.wiki/w/Paladin#Level_59"
+      }
+    },
+    {
+      "id": "207-1118",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0154370704467354"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Man (West Ardougne)"
+      }
+    },
+    {
+      "id": "207-1101",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00335588487972509"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Giant Sea Snake"
+      }
+    },
+    {
+      "id": "207-1047",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00872530068728522"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Cave horror"
+      }
+    },
+    {
+      "id": "207-1042",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00399584432190522"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Jungle horror"
+      }
+    },
+    {
+      "id": "207-965",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 25,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Kalphite Queen (Airborne)"
+      }
+    },
+    {
+      "id": "207-963",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 25,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Kalphite Queen (Crawling)"
+      }
+    },
+    {
+      "id": "207-959",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0154370704467354"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Kalphite Guardian"
+      }
+    },
+    {
+      "id": "207-957",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000671176975945017"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Kalphite Soldier"
+      }
+    },
+    {
+      "id": "207-955",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00469823883161512"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Kalphite Worker"
+      }
+    },
+    {
+      "id": "207-949",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000502401479069954"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Mummy (Level 84)"
+      }
+    },
+    {
+      "id": "207-946",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0221488402061856"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "https://oldschool.runescape.wiki/w/Ghast#Level_30"
+      }
+    },
+    {
+      "id": "207-936",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0100676546391753"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Mountain troll (Level 69)"
+      }
+    },
+    {
+      "id": "207-931",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0100676546391753"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Thrower Troll"
+      }
+    },
+    {
+      "id": "207-928",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0100676546391753"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Kraka"
+      }
+    },
+    {
+      "id": "207-927",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0100676546391753"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Pee Hat"
+      }
+    },
+    {
+      "id": "207-926",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0100676546391753"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Stick"
+      }
+    },
+    {
+      "id": "207-925",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0100676546391753"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Rock (Troll)"
+      }
+    },
+    {
+      "id": "207-801",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0134235395189003"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Locust rider (Ranger (Quest))"
+      }
+    },
+    {
+      "id": "207-800",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0134235395189003"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Locust rider (Lancer (Quest))"
+      }
+    },
+    {
+      "id": "207-799",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0134235395189003"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Scarab mage (Level 66 (Quest))"
+      }
+    },
+    {
+      "id": "207-796",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0134235395189003"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Locust rider (Ranger)"
+      }
+    },
+    {
+      "id": "207-795",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0134235395189003"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Locust rider (Lancer)"
+      }
+    },
+    {
+      "id": "207-794",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0134235395189003"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Scarab mage (Level 93)"
+      }
+    },
+    {
+      "id": "207-724",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000502401479069954"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Mummy (Level 98)"
+      }
+    },
+    {
+      "id": "207-720",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000502401479069954"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Mummy (Level 103)"
+      }
+    },
+    {
+      "id": "207-717",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000502401479069954"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Mummy (Level 96)"
+      }
+    },
+    {
+      "id": "207-695",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00939647766323024"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Bandit (Bandit Camp) (Level 57)"
+      }
+    },
+    {
+      "id": "207-690",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00939647766323024"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Bandit (Bandit Camp) (Level 74)"
+      }
+    },
+    {
+      "id": "207-680",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00335588487972509"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Giant skeleton (Tarn's Lair)"
+      }
+    },
+    {
+      "id": "207-655",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00134235395189003"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Goblin (Level 5)"
+      }
+    },
+    {
+      "id": "207-651",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0120811855670103"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Ice troll (Level 121)"
+      }
+    },
+    {
+      "id": "207-650",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0120811855670103"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Ice troll (Level 120)"
+      }
+    },
+    {
+      "id": "207-649",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0120811855670103"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Ice troll (Level 123)"
+      }
+    },
+    {
+      "id": "207-648",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0120811855670103"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Ice troll (Level 124)"
+      }
+    },
+    {
+      "id": "207-643",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0100676546391753"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Arrg (Normal)"
+      }
+    },
+    {
+      "id": "207-624",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0201353092783505"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Zombie swab (6)"
+      }
+    },
+    {
+      "id": "207-623",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0201353092783505"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Zombie swab (5)"
+      }
+    },
+    {
+      "id": "207-622",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0201353092783505"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Zombie swab (4)"
+      }
+    },
+    {
+      "id": "207-621",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0201353092783505"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Zombie swab (3)"
+      }
+    },
+    {
+      "id": "207-620",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0201353092783505"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Zombie swab (2)"
+      }
+    },
+    {
+      "id": "207-619",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0201353092783505"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Zombie swab (1)"
+      }
+    },
+    {
+      "id": "207-618",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0201353092783505"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Zombie pirate (6)"
+      }
+    },
+    {
+      "id": "207-617",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0201353092783505"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Zombie pirate (5)"
+      }
+    },
+    {
+      "id": "207-616",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0201353092783505"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Zombie pirate (4)"
+      }
+    },
+    {
+      "id": "207-615",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0201353092783505"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Zombie pirate (3)"
+      }
+    },
+    {
+      "id": "207-614",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0201353092783505"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Zombie pirate (2)"
+      }
+    },
+    {
+      "id": "207-599",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0201353092783505"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Zombie pirate (32)"
+      }
+    },
+    {
+      "id": "207-597",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0201353092783505"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Zombie pirate (31)"
+      }
+    },
+    {
+      "id": "207-595",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0201353092783505"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Zombie pirate (30)"
+      }
+    },
+    {
+      "id": "207-593",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0201353092783505"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Zombie pirate (29)"
+      }
+    },
+    {
+      "id": "207-592",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0201353092783505"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Zombie pirate (28)"
+      }
+    },
+    {
+      "id": "207-590",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0201353092783505"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Zombie pirate (27)"
+      }
+    },
+    {
+      "id": "207-588",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0201353092783505"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Zombie pirate (26)"
+      }
+    },
+    {
+      "id": "207-586",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0201353092783505"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Zombie pirate (25)"
+      }
+    },
+    {
+      "id": "207-584",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0201353092783505"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Zombie pirate (24)"
+      }
+    },
+    {
+      "id": "207-582",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0201353092783505"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Zombie pirate (23)"
+      }
+    },
+    {
+      "id": "207-581",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0201353092783505"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Zombie pirate (22)"
+      }
+    },
+    {
+      "id": "207-580",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0201353092783505"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Zombie pirate (21)"
+      }
+    },
+    {
+      "id": "207-579",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0201353092783505"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Zombie pirate (20)"
+      }
+    },
+    {
+      "id": "207-578",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0201353092783505"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Zombie pirate (19)"
+      }
+    },
+    {
+      "id": "207-577",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0201353092783505"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Zombie pirate (18)"
+      }
+    },
+    {
+      "id": "207-575",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0201353092783505"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Zombie pirate (17)"
+      }
+    },
+    {
+      "id": "207-574",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0201353092783505"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Zombie pirate (15)"
+      }
+    },
+    {
+      "id": "207-573",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0201353092783505"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Zombie pirate (14)"
+      }
+    },
+    {
+      "id": "207-572",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0201353092783505"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Zombie pirate (13)"
+      }
+    },
+    {
+      "id": "207-571",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0201353092783505"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Zombie pirate (12)"
+      }
+    },
+    {
+      "id": "207-569",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0201353092783505"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Zombie pirate (11)"
+      }
+    },
+    {
+      "id": "207-568",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0201353092783505"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Zombie pirate (10)"
+      }
+    },
+    {
+      "id": "207-567",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0201353092783505"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Zombie pirate (9)"
+      }
+    },
+    {
+      "id": "207-565",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0201353092783505"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Zombie pirate (8)"
+      }
+    },
+    {
+      "id": "207-563",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0201353092783505"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Zombie pirate (7)"
+      }
+    },
+    {
+      "id": "207-561",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0201353092783505"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Sorebones"
+      }
+    },
+    {
+      "id": "207-532",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 2,
+        "rarity": "0.0295317869415808"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Chaos druid warrior"
+      }
+    },
+    {
+      "id": "207-531",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00201353092783505"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Dark warrior (Level 8)"
+      }
+    },
+    {
+      "id": "207-530",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00684795059514916"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Tribesman"
+      }
+    },
+    {
+      "id": "207-526",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0154370704467354"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Rogue (Level 15)"
+      }
+    },
+    {
+      "id": "207-525",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0161082474226804"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Thug"
+      }
+    },
+    {
+      "id": "207-520",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 2,
+        "rarity": "0.0308741408934708"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Chaos druid"
+      }
+    },
+    {
+      "id": "207-516",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00201353092783505"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Black Knight"
+      }
+    },
+    {
+      "id": "207-513",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00872530068728522"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Mugger"
+      }
+    },
+    {
+      "id": "207-498",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 2,
+        "rarity": "0.0120811855670103"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Smoke devil"
+      }
+    },
+    {
+      "id": "207-492",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00257731958762887"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Cave kraken"
+      }
+    },
+    {
+      "id": "207-484",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000671176975945017"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Bloodveld (Standard)"
+      }
+    },
+    {
+      "id": "207-483",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0161082474226804"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Cave bug (Level 96)"
+      }
+    },
+    {
+      "id": "207-483",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Cave bug (Level 96)"
+      }
+    },
+    {
+      "id": "207-481",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0161082474226804"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Cave bug (Level 6)"
+      }
+    },
+    {
+      "id": "207-481",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Cave bug (Level 6)"
+      }
+    },
+    {
+      "id": "207-470",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0214776632302405"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Killerwatt (Idle)"
+      }
+    },
+    {
+      "id": "207-469",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0214776632302405"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Killerwatt (Attacking)"
+      }
+    },
+    {
+      "id": "207-468",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.00469823883161512"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Skeletal Wyvern (1)"
+      }
+    },
+    {
+      "id": "207-467",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.00469823883161512"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Skeletal Wyvern (4)"
+      }
+    },
+    {
+      "id": "207-466",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.00469823883161512"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Skeletal Wyvern (3)"
+      }
+    },
+    {
+      "id": "207-465",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.00469823883161512"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Skeletal Wyvern (2)"
+      }
+    },
+    {
+      "id": "207-462",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00671176975945017"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Small Lizard"
+      }
+    },
+    {
+      "id": "207-459",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00671176975945017"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Desert Lizard"
+      }
+    },
+    {
+      "id": "207-458",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00671176975945017"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Lizard"
+      }
+    },
+    {
+      "id": "207-430",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.0208064862542955"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Turoth (Level 83)"
+      }
+    },
+    {
+      "id": "207-429",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.0208064862542955"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Turoth (Level 85)"
+      }
+    },
+    {
+      "id": "207-428",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.0208064862542955"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Turoth (Level 87)"
+      }
+    },
+    {
+      "id": "207-427",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.0208064862542955"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Turoth (Level 89)"
+      }
+    },
+    {
+      "id": "207-423",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00536941580756014"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Dust devil (Level 93)"
+      }
+    },
+    {
+      "id": "207-419",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00671176975945017"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Cockatrice"
+      }
+    },
+    {
+      "id": "207-417",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234911941580756"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Basilisk"
+      }
+    },
+    {
+      "id": "207-415",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0127523625429553"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Abyssal demon (Standard)"
+      }
+    },
+    {
+      "id": "207-414",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0228200171821306"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Banshee"
+      }
+    },
+    {
+      "id": "207-410",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.0124709012304623"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Kurask"
+      }
+    },
+    {
+      "id": "207-406",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0147658934707904"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Cave crawler"
+      }
+    },
+    {
+      "id": "207-304",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0261759020618557"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Salarin the twisted"
+      }
+    },
+    {
+      "id": "207-303",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0100676546391753"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Speedy Keith"
+      }
+    },
+    {
+      "id": "207-302",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0100676546391753"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Donny the lad"
+      }
+    },
+    {
+      "id": "207-301",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0100676546391753"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Black Heather"
+      }
+    },
+    {
+      "id": "207-269",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0100676546391753"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Blue dragon (1)"
+      }
+    },
+    {
+      "id": "207-268",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0100676546391753"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Blue dragon (5)"
+      }
+    },
+    {
+      "id": "207-267",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0100676546391753"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Blue dragon (4)"
+      }
+    }
+  ]
+}

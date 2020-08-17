@@ -1,0 +1,75 @@
+{
+  "data": {
+    "id": "1177",
+    "type": "item",
+    "attributes": {
+      "uuid": "01dcaaa1-2458-4761-98a8-2fb57e7817c8",
+      "name": "Steel sq shield",
+      "members": false,
+      "release_date": "2001-01-04",
+      "examine": "A medium square shield.",
+      "tradeable": false,
+      "ge_tradeable": false,
+      "lowalch": 240,
+      "highalch": 360,
+      "is_equip": true,
+      "is_weapon": false,
+      "icon_base64": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACOklEQVR4Xu2Xz0sbURSFZ5bzB3QpiIvSRSluRASFUClYaIpKNSVRsdZaYtRaf1WNNqYxUWs1wZpSWkrxLz3lTLj65jlDR3KNgl64i+y+fOe8NzOOcz93Z1xEb8vHxd7nbRTX15FfWsLTTge9jx10PXLwpMNpNZiLwy9FlLfyKKytYePjIlbn57CYzWJuehrvJyfxbmIcD9taAubiqFTCwU4Bu5ub2F5ZCQV6O5bBm3TaN3bNYA0gM65PHxYigcZTKWRGRvwY2x6og7molsuBuARoOZfDwswMZqem/LhsoNfDwxgdHPRtXYA1PZfjigNkw/R2d/tAne3tzUA17Jhx2f0hkBTatsPICGTCNAHkYqjPC8QVBhTVHwKZUTUJw3FRq1QCcUl/4gCJnWeJhE5UYkfiMoH+1x8CEUaOvpodO664QGLn5fMBHTvf9/fPgRiX3R8BMm9oAl2DHRejCc8HsuOKW2ix8yqZ1LFT/3oQiMvsTxhQWFzyoFWzY8Z1lUILDI+8mh0BkuMet9DyCkJLanYESOKyCy1A9isHgQhDKBWYTL+HH98OA3FJf+wTFlZognAJpxIV7fAiNNcsdBiQHZeqHQJFLeFe9HgY6PJC+yMw/K1i56xex9/TU/w5OcHvWg2/qlX8PD7yI+SyVyaUAEl/CMP3agU7MvaXw+Vlp7gCJf0RGAIq2LkY+WdRK2A8dQJFEC6/PBTtxB8Bk5ITijCMUNXO1adhi3cS90bs2GPGeOMw5twqGO35B4CSq+T/belmAAAAAElFTkSuQmCC"
+    },
+    "relationships": {
+      "equip": {
+        "data": {
+          "id": "3c8dcfd9-e76c-4789-beaa-cf27e8c7e466",
+          "type": "equip"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Steel_sq_shield"
+    },
+    "meta": {
+      "incomplete": false
+    }
+  },
+  "included": [
+    {
+      "id": "3c8dcfd9-e76c-4789-beaa-cf27e8c7e466",
+      "type": "equip",
+      "attributes": {
+        "slot": "shield",
+        "passive_effect": null,
+        "requirements": {
+          "defense_level": 5
+        }
+      },
+      "relationships": {
+        "equip_stat": {
+          "data": {
+            "id": "0402cef3-2abb-4fca-866e-850482809dad",
+            "type": "equip_stat"
+          }
+        }
+      }
+    },
+    {
+      "id": "0402cef3-2abb-4fca-866e-850482809dad",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 0,
+        "slash_attack": 0,
+        "crush_attack": 0,
+        "ranged_attack": -2,
+        "magic_attack": -6,
+        "stab_defense": 12,
+        "slash_defense": 13,
+        "crush_defense": 11,
+        "ranged_defense": 12,
+        "magic_defense": 0,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

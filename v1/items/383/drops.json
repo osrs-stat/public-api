@@ -1,0 +1,228 @@
+{
+  "data": [
+    {
+      "id": "383-319",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 70,
+        "quantity_max": null,
+        "rarity": "0.041015625"
+      },
+      "meta": {
+        "item_name": "Raw shark",
+        "monster_name": "Corporeal Beast"
+      }
+    },
+    {
+      "id": "383-494",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 50,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Raw shark",
+        "monster_name": "Kraken (Kraken)"
+      }
+    },
+    {
+      "id": "383-1874",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 2,
+        "quantity_max": 8,
+        "rarity": "0.078125"
+      },
+      "meta": {
+        "item_name": "Raw shark",
+        "monster_name": "Ice troll runt"
+      }
+    },
+    {
+      "id": "383-1875",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 2,
+        "quantity_max": 8,
+        "rarity": "0.078125"
+      },
+      "meta": {
+        "item_name": "Raw shark",
+        "monster_name": "Ice troll male"
+      }
+    },
+    {
+      "id": "383-1876",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 2,
+        "quantity_max": 8,
+        "rarity": "0.078125"
+      },
+      "meta": {
+        "item_name": "Raw shark",
+        "monster_name": "Ice troll female"
+      }
+    },
+    {
+      "id": "383-1877",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 2,
+        "quantity_max": 8,
+        "rarity": "0.078125"
+      },
+      "meta": {
+        "item_name": "Raw shark",
+        "monster_name": "Ice troll grunt"
+      }
+    },
+    {
+      "id": "383-2592",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Raw shark",
+        "monster_name": "Mogre"
+      }
+    },
+    {
+      "id": "383-2916",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 8,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Raw shark",
+        "monster_name": "Waterfiend"
+      }
+    },
+    {
+      "id": "383-4501",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.046875"
+      },
+      "meta": {
+        "item_name": "Raw shark",
+        "monster_name": "Brine rat"
+      }
+    },
+    {
+      "id": "383-4501",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 8,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Raw shark",
+        "monster_name": "Brine rat"
+      }
+    },
+    {
+      "id": "383-4501",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Raw shark",
+        "monster_name": "Brine rat"
+      }
+    },
+    {
+      "id": "383-6735",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Raw shark",
+        "monster_name": "River troll (Level 79)"
+      }
+    },
+    {
+      "id": "383-6736",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Raw shark",
+        "monster_name": "River troll (Level 120)"
+      }
+    },
+    {
+      "id": "383-6737",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Raw shark",
+        "monster_name": "River troll (Level 159)"
+      }
+    }
+  ]
+}

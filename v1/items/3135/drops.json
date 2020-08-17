@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "id": "3135-4122",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Prison key (Troll Stronghold)",
+        "monster_name": "Troll general (Hammer (brown))"
+      }
+    },
+    {
+      "id": "3135-4121",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Prison key (Troll Stronghold)",
+        "monster_name": "Troll general (Hammer (grey))"
+      }
+    },
+    {
+      "id": "3135-4120",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Prison key (Troll Stronghold)",
+        "monster_name": "Troll general (Sword)"
+      }
+    }
+  ]
+}

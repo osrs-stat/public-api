@@ -1,0 +1,75 @@
+{
+  "data": {
+    "id": "23242",
+    "type": "item",
+    "attributes": {
+      "uuid": "4196a254-b7a6-41ca-bdf4-0a4d07b9feee",
+      "name": "3rd age plateskirt",
+      "members": true,
+      "release_date": "2019-04-11",
+      "examine": "Fabulously ancient armour beaten from magical silver.",
+      "tradeable": false,
+      "ge_tradeable": false,
+      "lowalch": 80000,
+      "highalch": 120000,
+      "is_equip": true,
+      "is_weapon": false,
+      "icon_base64": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACuElEQVR4Xu2W70tTYRTH7/MH9KIXAwmEsRcjxpAhE0kmjiQpiTDBDCwQE8M0MzMzzcxsppltmDNz2cxmzVyNjTGbjo0p/aB/6uT3jHvdbq96cZ/7og48cM92x/PZ+X7PeR5F+esQNPdoko5VVJStk3Y74Tv92waHoMTmJq28WKD5x1O8fA/GaXJkhK62tzOQy2qVCSUovLRE0TchCj6bo4XpaQrMzDDYk7ExutjcLLNKh//e46H3r5bJUln5x4Js1VVVdNxikQFVhElGP9KH0CqFAgHy+3xcFVRqanSU7t8eZNlUIIOlE1Td4GWJtsNhlu3l7CxZD4286vfz55Dt6cMJOuP1ygGqaWykyOsV3hwmvndrgIEmhof5ebC3l250dcmSTdBuPE7xjQ16FwxydSAXgGxOJ1dmfGiI7vT10fmmJhmyCcomk5Te/sQegm8Geno0IABiNmEEXLvSIQcIhka7l3aWClQ6IFGhU2638UCprSgDLT+fZ7lKgfAML6Fql1paZBhbsFwAUqc0IOwulwYEHwEKxlYHpKFASsmmMC8gHO4aDejuzX6u0PXOTn7XYCAE2lgwAKQ6YbMxEBaeAXXU7kUYg4EQRaD+7m66cO6sBoiKdbS1lXWXBBiE0AYj5AEEDlfkkryjD0G5VIoPWHQauul7LsdDE2YHpHSgfDrNRwgMfrq+nr5lsxrQ5dZW+UCFrzs8rdH6DXV1dLC3qwFhKJoChHmE64entpb2MxnaSyT41EcuHQgAW2/X+PxScxXI6XDIB4JEuBPhCFErhoMXlzbJLY8QbOLY+roGAJPrgfS/MjAEt3k8EuFbI3KMAUi2trhoDtCPfJ6vIphFKhC6zDSgn4UC7cRi3PrIIVfmy2etYtKBfh3sc0XQacghl4lAiOJpfrR5eW4CkKKoG6ub6/P/8U/Fb3zelQbUvpF1AAAAAElFTkSuQmCC"
+    },
+    "relationships": {
+      "equip": {
+        "data": {
+          "id": "bb101162-b948-4254-91b5-8b791f73cc25",
+          "type": "equip"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/3rd_age_plateskirt"
+    },
+    "meta": {
+      "incomplete": false
+    }
+  },
+  "included": [
+    {
+      "id": "bb101162-b948-4254-91b5-8b791f73cc25",
+      "type": "equip",
+      "attributes": {
+        "slot": "legs",
+        "passive_effect": null,
+        "requirements": {
+          "defense_level": 65
+        }
+      },
+      "relationships": {
+        "equip_stat": {
+          "data": {
+            "id": "16b232ec-5b6d-4036-8c62-3f3827d7f35f",
+            "type": "equip_stat"
+          }
+        }
+      }
+    },
+    {
+      "id": "16b232ec-5b6d-4036-8c62-3f3827d7f35f",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 0,
+        "slash_attack": 0,
+        "crush_attack": 0,
+        "ranged_attack": -2,
+        "magic_attack": -25,
+        "stab_defense": 78,
+        "slash_defense": 76,
+        "crush_defense": 83,
+        "ranged_defense": 75,
+        "magic_defense": -5,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "data": {
+    "id": "5891",
+    "type": "monster",
+    "attributes": {
+      "uuid": "da2d6aba-2a1d-4176-a7a8-993b4c94d3e4",
+      "name": "Abyssal Sire (Phase 3 (stage 1))",
+      "members": true,
+      "release_date": "2015-10-01",
+      "examine": "It's manipulating the Nexus for its own protection.",
+      "combat_level_override": 350,
+      "max_hit_override": 66,
+      "target_types": [
+        "demon"
+      ],
+      "classification_types": [
+        "boss",
+        "abyssal demon"
+      ],
+      "poison": true,
+      "immune_poison": false,
+      "immune_venom": false,
+      "slayer_xp": 450.0,
+      "slayer_level": 85,
+      "slayer_masters": [
+        "vannaka",
+        "chaeldar",
+        "konar",
+        "nieve",
+        "duradel"
+      ],
+      "icon_base64": null
+    },
+    "relationships": {
+      "combat_stat": {
+        "data": {
+          "id": "e08b5997-bab6-4539-8dba-8c4940f578ac",
+          "type": "combat_stat"
+        }
+      },
+      "equip_stat": {
+        "data": {
+          "id": "3cfb435d-c691-4f06-bc86-c3c8a6e7e864",
+          "type": "equip_stat"
+        }
+      },
+      "attack_stat": {
+        "data": {
+          "id": "ac0ea1dd-8857-4b24-8faa-e2cbff4194b3",
+          "type": "attack_stat"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Abyssal_Sire#Phase_3_(stage_1)"
+    },
+    "meta": {
+      "incomplete": true
+    }
+  },
+  "included": [
+    {
+      "id": "ac0ea1dd-8857-4b24-8faa-e2cbff4194b3",
+      "type": "attack_stat",
+      "attributes": {
+        "attack_speed": 7,
+        "attack_type": "monster",
+        "special": null,
+        "stances": [
+          {
+            "name": "Monster melee",
+            "style": null,
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": null,
+            "combat_accuracy_stat": "attack_level",
+            "combat_damage_stat": "strength_level",
+            "equip_accuracy_stat": "crush_attack",
+            "equip_damage_stat": "crush_attack",
+            "target_equip_defense_stat": "crush_defense"
+          }
+        ]
+      }
+    },
+    {
+      "id": "e08b5997-bab6-4539-8dba-8c4940f578ac",
+      "type": "monster_combat_stat",
+      "attributes": {
+        "hitpoints_level": 400,
+        "attack_level": 180,
+        "strength_level": 136,
+        "defense_level": 250,
+        "magic_level": 200,
+        "ranged_level": 1,
+        "prayer_level": 0
+      }
+    },
+    {
+      "id": "3cfb435d-c691-4f06-bc86-c3c8a6e7e864",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 65,
+        "slash_attack": 65,
+        "crush_attack": 65,
+        "ranged_attack": 0,
+        "magic_attack": 0,
+        "stab_defense": 40,
+        "slash_defense": 60,
+        "crush_defense": 50,
+        "ranged_defense": 60,
+        "magic_defense": 20,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

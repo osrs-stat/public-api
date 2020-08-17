@@ -1,0 +1,1076 @@
+{
+  "data": [
+    {
+      "id": "1391-1540",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Battlestaff",
+        "monster_name": "Skeleton heavy"
+      }
+    },
+    {
+      "id": "1391-8621",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 8,
+        "quantity_max": 12,
+        "rarity": "0.0495049504950495"
+      },
+      "meta": {
+        "item_name": "Battlestaff",
+        "monster_name": "Alchemical Hydra (Two heads)"
+      }
+    },
+    {
+      "id": "1391-8618",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 8,
+        "quantity_max": 12,
+        "rarity": "0.0495049504950495"
+      },
+      "meta": {
+        "item_name": "Battlestaff",
+        "monster_name": "Alchemical Hydra (Three heads)"
+      }
+    },
+    {
+      "id": "1391-8617",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 8,
+        "quantity_max": 12,
+        "rarity": "0.0495049504950495"
+      },
+      "meta": {
+        "item_name": "Battlestaff",
+        "monster_name": "Alchemical Hydra (Four heads)"
+      }
+    },
+    {
+      "id": "1391-8615",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 8,
+        "quantity_max": 12,
+        "rarity": "0.0495049504950495"
+      },
+      "meta": {
+        "item_name": "Battlestaff",
+        "monster_name": "Alchemical Hydra (Five heads)"
+      }
+    },
+    {
+      "id": "1391-8609",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 2,
+        "quantity_max": 3,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Battlestaff",
+        "monster_name": "Hydra"
+      }
+    },
+    {
+      "id": "1391-8195",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.0254237288135593"
+      },
+      "meta": {
+        "item_name": "Battlestaff",
+        "monster_name": "Bryophyta"
+      }
+    },
+    {
+      "id": "1391-8061",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 5,
+        "quantity_max": 15,
+        "rarity": "0.0266666666666667"
+      },
+      "meta": {
+        "item_name": "Battlestaff",
+        "monster_name": "Vorkath (Post-quest)"
+      }
+    },
+    {
+      "id": "1391-8060",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 5,
+        "quantity_max": 15,
+        "rarity": "0.0266666666666667"
+      },
+      "meta": {
+        "item_name": "Battlestaff",
+        "monster_name": "Vorkath (Dragon Slayer II)"
+      }
+    },
+    {
+      "id": "1391-7940",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.0469339622641509"
+      },
+      "meta": {
+        "item_name": "Battlestaff",
+        "monster_name": "Revenant dragon"
+      }
+    },
+    {
+      "id": "1391-7939",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.0438679245283019"
+      },
+      "meta": {
+        "item_name": "Battlestaff",
+        "monster_name": "Revenant knight"
+      }
+    },
+    {
+      "id": "1391-7938",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.0377358490566038"
+      },
+      "meta": {
+        "item_name": "Battlestaff",
+        "monster_name": "Revenant dark beast"
+      }
+    },
+    {
+      "id": "1391-7937",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.0321612349914237"
+      },
+      "meta": {
+        "item_name": "Battlestaff",
+        "monster_name": "Revenant ork"
+      }
+    },
+    {
+      "id": "1391-7936",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.0266780080420662"
+      },
+      "meta": {
+        "item_name": "Battlestaff",
+        "monster_name": "Revenant demon"
+      }
+    },
+    {
+      "id": "1391-7935",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.0243581812557996"
+      },
+      "meta": {
+        "item_name": "Battlestaff",
+        "monster_name": "Revenant hellhound"
+      }
+    },
+    {
+      "id": "1391-7934",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.0220383544695329"
+      },
+      "meta": {
+        "item_name": "Battlestaff",
+        "monster_name": "Revenant cyclops"
+      }
+    },
+    {
+      "id": "1391-7933",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.0129191202980411"
+      },
+      "meta": {
+        "item_name": "Battlestaff",
+        "monster_name": "Revenant hobgoblin"
+      }
+    },
+    {
+      "id": "1391-7932",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.0114168970075712"
+      },
+      "meta": {
+        "item_name": "Battlestaff",
+        "monster_name": "Revenant pyrefiend"
+      }
+    },
+    {
+      "id": "1391-7931",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.00270277227213056"
+      },
+      "meta": {
+        "item_name": "Battlestaff",
+        "monster_name": "Revenant goblin"
+      }
+    },
+    {
+      "id": "1391-7881",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.00154373927958834"
+      },
+      "meta": {
+        "item_name": "Battlestaff",
+        "monster_name": "Revenant imp"
+      }
+    },
+    {
+      "id": "1391-7795",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 6,
+        "quantity_max": null,
+        "rarity": "0.0298507462686567"
+      },
+      "meta": {
+        "item_name": "Battlestaff",
+        "monster_name": "Ancient Wyvern"
+      }
+    },
+    {
+      "id": "1391-7794",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 3,
+        "quantity_max": 5,
+        "rarity": "0.024390243902439"
+      },
+      "meta": {
+        "item_name": "Battlestaff",
+        "monster_name": "Spitting Wyvern"
+      }
+    },
+    {
+      "id": "1391-7793",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 3,
+        "quantity_max": 5,
+        "rarity": "0.024390243902439"
+      },
+      "meta": {
+        "item_name": "Battlestaff",
+        "monster_name": "Taloned Wyvern"
+      }
+    },
+    {
+      "id": "1391-7792",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 3,
+        "quantity_max": 5,
+        "rarity": "0.024390243902439"
+      },
+      "meta": {
+        "item_name": "Battlestaff",
+        "monster_name": "Long-tailed Wyvern"
+      }
+    },
+    {
+      "id": "1391-7403",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Battlestaff",
+        "monster_name": "Repugnant spectre"
+      }
+    },
+    {
+      "id": "1391-7391",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Battlestaff",
+        "monster_name": "Screaming twisted banshee"
+      }
+    },
+    {
+      "id": "1391-7286",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 25,
+        "quantity_max": null,
+        "rarity": "0.07"
+      },
+      "meta": {
+        "item_name": "Battlestaff",
+        "monster_name": "Skotizo"
+      }
+    },
+    {
+      "id": "1391-7279",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Battlestaff",
+        "monster_name": "Deviant spectre"
+      }
+    },
+    {
+      "id": "1391-7272",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Battlestaff",
+        "monster_name": "Twisted Banshee"
+      }
+    },
+    {
+      "id": "1391-6619",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Battlestaff",
+        "monster_name": "Chaos Fanatic"
+      }
+    },
+    {
+      "id": "1391-5908",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.0431654676258993"
+      },
+      "meta": {
+        "item_name": "Battlestaff",
+        "monster_name": "Abyssal Sire (Phase 3 (stage 2))"
+      }
+    },
+    {
+      "id": "1391-5891",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.0431654676258993"
+      },
+      "meta": {
+        "item_name": "Battlestaff",
+        "monster_name": "Abyssal Sire (Phase 3 (stage 1))"
+      }
+    },
+    {
+      "id": "1391-5890",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.0431654676258993"
+      },
+      "meta": {
+        "item_name": "Battlestaff",
+        "monster_name": "Abyssal Sire (Phase 2)"
+      }
+    },
+    {
+      "id": "1391-5886",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.0431654676258993"
+      },
+      "meta": {
+        "item_name": "Battlestaff",
+        "monster_name": "Abyssal Sire (Phase 1)"
+      }
+    },
+    {
+      "id": "1391-5862",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 6,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Battlestaff",
+        "monster_name": "Cerberus"
+      }
+    },
+    {
+      "id": "1391-5565",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Battlestaff",
+        "monster_name": "Berserk barbarian spirit"
+      }
+    },
+    {
+      "id": "1391-5564",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Battlestaff",
+        "monster_name": "Enraged barbarian spirit"
+      }
+    },
+    {
+      "id": "1391-5563",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Battlestaff",
+        "monster_name": "Angry barbarian spirit"
+      }
+    },
+    {
+      "id": "1391-4319",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Battlestaff",
+        "monster_name": "Skeleton Mage (Level 83)"
+      }
+    },
+    {
+      "id": "1391-3851",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Battlestaff",
+        "monster_name": "Moss giant (Level 48)"
+      }
+    },
+    {
+      "id": "1391-2266",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 1,
+        "quantity_max": 10,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Battlestaff",
+        "monster_name": "Dagannoth Prime"
+      }
+    },
+    {
+      "id": "1391-2090",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Battlestaff",
+        "monster_name": "Moss giant (Level 42)"
+      }
+    },
+    {
+      "id": "1391-2044",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.0403225806451613"
+      },
+      "meta": {
+        "item_name": "Battlestaff",
+        "monster_name": "Zulrah (Tanzanite)"
+      }
+    },
+    {
+      "id": "1391-2043",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.0403225806451613"
+      },
+      "meta": {
+        "item_name": "Battlestaff",
+        "monster_name": "Zulrah (Magma)"
+      }
+    },
+    {
+      "id": "1391-2042",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.0403225806451613"
+      },
+      "meta": {
+        "item_name": "Battlestaff",
+        "monster_name": "Zulrah (Serpentine)"
+      }
+    },
+    {
+      "id": "1391-1541",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Battlestaff",
+        "monster_name": "Skeleton thug"
+      }
+    },
+    {
+      "id": "1391-8713",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 8,
+        "quantity_max": 10,
+        "rarity": "0.02"
+      },
+      "meta": {
+        "item_name": "Battlestaff",
+        "monster_name": "Sarachnis"
+      }
+    },
+    {
+      "id": "1391-1539",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Battlestaff",
+        "monster_name": "Skeleton warlord"
+      }
+    },
+    {
+      "id": "1391-1538",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Battlestaff",
+        "monster_name": "Skeleton brute"
+      }
+    },
+    {
+      "id": "1391-1537",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Battlestaff",
+        "monster_name": "Skeleton hero"
+      }
+    },
+    {
+      "id": "1391-965",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Battlestaff",
+        "monster_name": "Kalphite Queen (Airborne)"
+      }
+    },
+    {
+      "id": "1391-963",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Battlestaff",
+        "monster_name": "Kalphite Queen (Crawling)"
+      }
+    },
+    {
+      "id": "1391-801",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Battlestaff",
+        "monster_name": "Locust rider (Ranger (Quest))"
+      }
+    },
+    {
+      "id": "1391-800",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Battlestaff",
+        "monster_name": "Locust rider (Lancer (Quest))"
+      }
+    },
+    {
+      "id": "1391-799",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Battlestaff",
+        "monster_name": "Scarab mage (Level 66 (Quest))"
+      }
+    },
+    {
+      "id": "1391-796",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Battlestaff",
+        "monster_name": "Locust rider (Ranger)"
+      }
+    },
+    {
+      "id": "1391-795",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Battlestaff",
+        "monster_name": "Locust rider (Lancer)"
+      }
+    },
+    {
+      "id": "1391-794",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Battlestaff",
+        "monster_name": "Scarab mage (Level 93)"
+      }
+    },
+    {
+      "id": "1391-494",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Battlestaff",
+        "monster_name": "Kraken (Kraken)"
+      }
+    },
+    {
+      "id": "1391-492",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.02"
+      },
+      "meta": {
+        "item_name": "Battlestaff",
+        "monster_name": "Cave kraken"
+      }
+    },
+    {
+      "id": "1391-468",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Battlestaff",
+        "monster_name": "Skeletal Wyvern (1)"
+      }
+    },
+    {
+      "id": "1391-467",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Battlestaff",
+        "monster_name": "Skeletal Wyvern (4)"
+      }
+    },
+    {
+      "id": "1391-466",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Battlestaff",
+        "monster_name": "Skeletal Wyvern (3)"
+      }
+    },
+    {
+      "id": "1391-465",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Battlestaff",
+        "monster_name": "Skeletal Wyvern (2)"
+      }
+    },
+    {
+      "id": "1391-84",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Battlestaff",
+        "monster_name": "Skeleton Mage (Level 16)"
+      }
+    },
+    {
+      "id": "1391-10402",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 2,
+        "quantity_max": 3,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Battlestaff",
+        "monster_name": "Colossal Hydra"
+      }
+    },
+    {
+      "id": "1391-8736",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Battlestaff",
+        "monster_name": "Moss giant (Level 84)"
+      }
+    }
+  ]
+}

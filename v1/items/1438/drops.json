@@ -1,0 +1,548 @@
+{
+  "data": [
+    {
+      "id": "1438-5908",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00308324768756423"
+      },
+      "meta": {
+        "item_name": "Air talisman",
+        "monster_name": "Abyssal Sire (Phase 3 (stage 2))"
+      }
+    },
+    {
+      "id": "1438-5938",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00892857142857143"
+      },
+      "meta": {
+        "item_name": "Air talisman",
+        "monster_name": "Wallasalki"
+      }
+    },
+    {
+      "id": "1438-5944",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00446428571428571"
+      },
+      "meta": {
+        "item_name": "Air talisman",
+        "monster_name": "Rock lobster"
+      }
+    },
+    {
+      "id": "1438-6434",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Air talisman",
+        "monster_name": "Cave goblin (monster) (Blue)"
+      }
+    },
+    {
+      "id": "1438-2266",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00111607142857143"
+      },
+      "meta": {
+        "item_name": "Air talisman",
+        "monster_name": "Dagannoth Prime"
+      }
+    },
+    {
+      "id": "1438-2267",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00111607142857143"
+      },
+      "meta": {
+        "item_name": "Air talisman",
+        "monster_name": "Dagannoth Rex"
+      }
+    },
+    {
+      "id": "1438-2485",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Air talisman",
+        "monster_name": "Goblin (Level 13)"
+      }
+    },
+    {
+      "id": "1438-2585",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.01953125"
+      },
+      "meta": {
+        "item_name": "Air talisman",
+        "monster_name": "Abyssal guardian"
+      }
+    },
+    {
+      "id": "1438-2586",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.01953125"
+      },
+      "meta": {
+        "item_name": "Air talisman",
+        "monster_name": "Abyssal walker"
+      }
+    },
+    {
+      "id": "1438-655",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Air talisman",
+        "monster_name": "Goblin (Level 5)"
+      }
+    },
+    {
+      "id": "1438-1559",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.05"
+      },
+      "meta": {
+        "item_name": "Air talisman",
+        "monster_name": "Air wizard"
+      }
+    },
+    {
+      "id": "1438-2245",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Air talisman",
+        "monster_name": "Goblin (Level 17)"
+      }
+    },
+    {
+      "id": "1438-2246",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Air talisman",
+        "monster_name": "Goblin (Level 12 (1))"
+      }
+    },
+    {
+      "id": "1438-2247",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Air talisman",
+        "monster_name": "Goblin (Level 12 (2))"
+      }
+    },
+    {
+      "id": "1438-2248",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Air talisman",
+        "monster_name": "Goblin (Level 15)"
+      }
+    },
+    {
+      "id": "1438-2249",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Air talisman",
+        "monster_name": "Goblin (Level 13 (GWD))"
+      }
+    },
+    {
+      "id": "1438-2259",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00446428571428571"
+      },
+      "meta": {
+        "item_name": "Air talisman",
+        "monster_name": "Dagannoth (Waterbirth Island) (Level 88)"
+      }
+    },
+    {
+      "id": "1438-2261",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0111607142857143"
+      },
+      "meta": {
+        "item_name": "Air talisman",
+        "monster_name": "Giant Rock Crab"
+      }
+    },
+    {
+      "id": "1438-2265",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00111607142857143"
+      },
+      "meta": {
+        "item_name": "Air talisman",
+        "monster_name": "Dagannoth Supreme"
+      }
+    },
+    {
+      "id": "1438-2486",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Air talisman",
+        "monster_name": "Goblin (Level 11)"
+      }
+    },
+    {
+      "id": "1438-2487",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Air talisman",
+        "monster_name": "Goblin (Level 16)"
+      }
+    },
+    {
+      "id": "1438-3028",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Air talisman",
+        "monster_name": "Goblin (Level 2)"
+      }
+    },
+    {
+      "id": "1438-3185",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00446428571428571"
+      },
+      "meta": {
+        "item_name": "Air talisman",
+        "monster_name": "Dagannoth (Waterbirth Island) (Level 90)"
+      }
+    },
+    {
+      "id": "1438-2488",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Air talisman",
+        "monster_name": "Goblin (Level 25)"
+      }
+    },
+    {
+      "id": "1438-2584",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.01953125"
+      },
+      "meta": {
+        "item_name": "Air talisman",
+        "monster_name": "Abyssal leech"
+      }
+    },
+    {
+      "id": "1438-2266",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 25,
+        "quantity_max": 75,
+        "rarity": "0.0546875"
+      },
+      "meta": {
+        "item_name": "Air talisman",
+        "monster_name": "Dagannoth Prime"
+      }
+    },
+    {
+      "id": "1438-7266",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0111607142857143"
+      },
+      "meta": {
+        "item_name": "Air talisman",
+        "monster_name": "King Sand Crab (Active)"
+      }
+    },
+    {
+      "id": "1438-6437",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Air talisman",
+        "monster_name": "Cave goblin (monster) (Backpack)"
+      }
+    },
+    {
+      "id": "1438-6436",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Air talisman",
+        "monster_name": "Cave goblin (monster) (Brown)"
+      }
+    },
+    {
+      "id": "1438-5369",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Air talisman",
+        "monster_name": "Goblin guard"
+      }
+    },
+    {
+      "id": "1438-5886",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00308324768756423"
+      },
+      "meta": {
+        "item_name": "Air talisman",
+        "monster_name": "Abyssal Sire (Phase 1)"
+      }
+    },
+    {
+      "id": "1438-6435",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Air talisman",
+        "monster_name": "Cave goblin (monster) (Beige)"
+      }
+    },
+    {
+      "id": "1438-5890",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00308324768756423"
+      },
+      "meta": {
+        "item_name": "Air talisman",
+        "monster_name": "Abyssal Sire (Phase 2)"
+      }
+    },
+    {
+      "id": "1438-5891",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00308324768756423"
+      },
+      "meta": {
+        "item_name": "Air talisman",
+        "monster_name": "Abyssal Sire (Phase 3 (stage 1))"
+      }
+    }
+  ]
+}

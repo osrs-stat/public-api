@@ -1,0 +1,143 @@
+{
+  "data": {
+    "id": "813",
+    "type": "item",
+    "attributes": {
+      "uuid": "edcf9faa-6de4-4865-8608-1cc7b72ca2a7",
+      "name": "Iron dart (Poison)",
+      "members": true,
+      "release_date": "2003-04-14",
+      "examine": "A deadly poisoned dart with an iron tip.",
+      "tradeable": false,
+      "ge_tradeable": false,
+      "lowalch": 0,
+      "highalch": 1,
+      "is_equip": true,
+      "is_weapon": true,
+      "icon_base64": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABb0lEQVR4Xu2Wv0vDQBTH740ZbsgQCIVABnFwEBEhUFIsKUIoHZqhKTQWFF06CA4OCg4OQgf/6Gdervl1Ojikd2/wC98ldxwfvu/duwjxL2sC1L9YFOB25yATKMC3vaxgLsKwsr7DsADDIGiA9FXDAkxnMy7pAD7cFjjyfT7p3EynfNLZrtdc0lGlSiYTPunkyyV6rssjnWK1wuvxmEM6gPebDWbzOZ90qFRxFNlMh94mZSoVDUGL6QB+BS7uRxI/S2eXDsYnwlY60IB8lM6vHExOBWauetGNw9Qg76WLyMH0rAVKpdHfDGhAyK++xMW5AiLnHSADKUEDQX7xVakIhKDuXAW0KIFiR/WSfsKAgh4I+fmQTu1HrwU6cmMrmC4ImW5V1wRUaED6SQOqnTe1qVy1CdAwkBB1CdpSQHXDyFaAfpdKi4B2B6BEtsNR321IfaAjN/RfBT+A9B2GBfjkSU5AJKiGIyMgEov+6WtomG+yIyUxQRJW2AAAAABJRU5ErkJggg=="
+    },
+    "relationships": {
+      "equip": {
+        "data": {
+          "id": "0493b368-2d19-4355-bf3f-9aad02adef0b",
+          "type": "equip"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Iron_dart#Poison"
+    },
+    "meta": {
+      "incomplete": false
+    }
+  },
+  "included": [
+    {
+      "id": "0493b368-2d19-4355-bf3f-9aad02adef0b",
+      "type": "equip",
+      "attributes": {
+        "slot": "weapon",
+        "passive_effect": null,
+        "requirements": {
+          "ranged_level": 1
+        }
+      },
+      "relationships": {
+        "equip_stat": {
+          "data": {
+            "id": "bfd02461-b8f2-4a67-ad44-334ac82f8ea5",
+            "type": "equip_stat"
+          }
+        },
+        "attack_stat": {
+          "data": {
+            "id": "ed4c295f-cfc6-4e14-89a1-0a741750872b",
+            "type": "attack_stat"
+          }
+        }
+      }
+    },
+    {
+      "id": "ed4c295f-cfc6-4e14-89a1-0a741750872b",
+      "type": "attack_stat",
+      "attributes": {
+        "attack_speed": 3,
+        "attack_type": "thrown_weapon",
+        "special": null,
+        "stances": [
+          {
+            "name": "accurate",
+            "style": null,
+            "boosts": {
+              "accuracy": 3,
+              "damage": 3
+            },
+            "experience": {
+              "hitpoints": 1.3333,
+              "ranged": 2
+            },
+            "combat_accuracy_stat": "ranged_level",
+            "combat_damage_stat": "ranged_level",
+            "equip_accuracy_stat": "ranged_attack",
+            "equip_damage_stat": "ranged_attack",
+            "target_equip_defense_stat": "ranged_defense"
+          },
+          {
+            "name": "rapid",
+            "style": null,
+            "boosts": {
+              "attack_speed": 1
+            },
+            "experience": {
+              "hitpoints": 1.3333,
+              "ranged": 2
+            },
+            "combat_accuracy_stat": "ranged_level",
+            "combat_damage_stat": "ranged_level",
+            "equip_accuracy_stat": "ranged_attack",
+            "equip_damage_stat": "ranged_attack",
+            "target_equip_defense_stat": "ranged_defense"
+          },
+          {
+            "name": "longrange",
+            "style": null,
+            "boosts": {
+              "defense": 3,
+              "attack_range": 2
+            },
+            "experience": {
+              "hitpoints": 1.3333,
+              "ranged": 1.3333,
+              "defense": 1.3333
+            },
+            "combat_accuracy_stat": "ranged_level",
+            "combat_damage_stat": "ranged_level",
+            "equip_accuracy_stat": "ranged_attack",
+            "equip_damage_stat": "ranged_attack",
+            "target_equip_defense_stat": "ranged_defense"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bfd02461-b8f2-4a67-ad44-334ac82f8ea5",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 0,
+        "slash_attack": 0,
+        "crush_attack": 0,
+        "ranged_attack": 4,
+        "magic_attack": 0,
+        "stab_defense": 0,
+        "slash_defense": 0,
+        "crush_defense": 0,
+        "ranged_defense": 0,
+        "magic_defense": 0,
+        "melee_strength": 0,
+        "ranged_strength": 3,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

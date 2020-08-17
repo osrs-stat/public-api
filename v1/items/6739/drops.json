@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "id": "6739-2265",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Dragon axe",
+        "monster_name": "Dagannoth Supreme"
+      }
+    },
+    {
+      "id": "6739-2266",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Dragon axe",
+        "monster_name": "Dagannoth Prime"
+      }
+    },
+    {
+      "id": "6739-2267",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Dragon axe",
+        "monster_name": "Dagannoth Rex"
+      }
+    }
+  ]
+}

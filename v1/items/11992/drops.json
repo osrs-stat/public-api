@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "id": "11992-6593",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Lava scale",
+        "monster_name": "Lava dragon"
+      }
+    },
+    {
+      "id": "11992-7275",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Lava scale",
+        "monster_name": "Brutal black dragon"
+      }
+    }
+  ]
+}

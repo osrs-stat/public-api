@@ -1,0 +1,156 @@
+{
+  "data": {
+    "id": "1205",
+    "type": "item",
+    "attributes": {
+      "uuid": "d422cd7f-d36c-4643-be11-e19383aa2e1c",
+      "name": "Bronze dagger (Unpoisoned)",
+      "members": false,
+      "release_date": "2001-01-04",
+      "examine": "Short but pointy.",
+      "tradeable": false,
+      "ge_tradeable": false,
+      "lowalch": 4,
+      "highalch": 6,
+      "is_equip": true,
+      "is_weapon": true,
+      "icon_base64": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABVElEQVR4Xu3VsUrEQBAG4J0yRYoUgSAIwSewsfDeQLC2FEHfQkEbEbHxGhFFFFFRLEQRFUXt5OCwEN9AEPEpft0d9nYvSetMCn9YArkiHzNzs8b8eQjVN0qxEMJ0Z8w9q78KhiELU5MO40HjZamBYkiMUQQ1YyZKowuKMYqgZkzrQDFGENQqjE0zqFUYpbmxqYP+WxVSBwlj4guyjhGeG8LxUe4+6E8VJF6d7mbmUJcXDFPE2BCWFlNsb2U4PWHU40OhhbEhzM0mWFlOsbvDqOurHM9PBXovRdRK0fzOzXyCtdUU+3sZzs8Cqt8r8P42Io0izHQSdzbWswHq9oZRnx8MEmpdwNjjh/zwgFG+ZYKzFEChCmEFeIg4ZhhkjDDEp14dYUCcVmFsCPd3Ob6/RodapRRyf+nXPi8+5eqQuybsFeE3sSLGhwY7Rrk6cVqF4UhjfgAX0Yoi0H9IeQAAAABJRU5ErkJggg=="
+    },
+    "relationships": {
+      "equip": {
+        "data": {
+          "id": "7bdea5df-0a4e-463b-9bdd-752587c804e6",
+          "type": "equip"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Bronze_dagger#Unpoisoned"
+    },
+    "meta": {
+      "incomplete": false
+    }
+  },
+  "included": [
+    {
+      "id": "7bdea5df-0a4e-463b-9bdd-752587c804e6",
+      "type": "equip",
+      "attributes": {
+        "slot": "weapon",
+        "passive_effect": null,
+        "requirements": {
+          "attack_level": 1
+        }
+      },
+      "relationships": {
+        "equip_stat": {
+          "data": {
+            "id": "5fee5667-9729-4454-8415-791828b578dc",
+            "type": "equip_stat"
+          }
+        },
+        "attack_stat": {
+          "data": {
+            "id": "d94e2745-2eea-49a6-80b6-df10658b4116",
+            "type": "attack_stat"
+          }
+        }
+      }
+    },
+    {
+      "id": "d94e2745-2eea-49a6-80b6-df10658b4116",
+      "type": "attack_stat",
+      "attributes": {
+        "attack_speed": 4,
+        "attack_type": "stab_sword",
+        "special": null,
+        "stances": [
+          {
+            "name": "stab",
+            "style": "accurate",
+            "boosts": {
+              "accuracy": 3
+            },
+            "experience": {
+              "hitpoints": 1.3333,
+              "attack": 4
+            },
+            "combat_accuracy_stat": "attack_level",
+            "combat_damage_stat": "strength_level",
+            "equip_accuracy_stat": "stab_attack",
+            "equip_damage_stat": "stab_attack",
+            "target_equip_defense_stat": "stab_defense"
+          },
+          {
+            "name": "lunge",
+            "style": "aggressive",
+            "boosts": {
+              "damage": 3
+            },
+            "experience": {
+              "hitpoints": 1.3333,
+              "strength": 4
+            },
+            "combat_accuracy_stat": "attack_level",
+            "combat_damage_stat": "strength_level",
+            "equip_accuracy_stat": "stab_attack",
+            "equip_damage_stat": "stab_attack",
+            "target_equip_defense_stat": "stab_defense"
+          },
+          {
+            "name": "slash",
+            "style": "aggressive",
+            "boosts": {
+              "damage": 3
+            },
+            "experience": {
+              "hitpoints": 1.3333,
+              "strength": 4
+            },
+            "combat_accuracy_stat": "attack_level",
+            "combat_damage_stat": "strength_level",
+            "equip_accuracy_stat": "slash_attack",
+            "equip_damage_stat": "slash_attack",
+            "target_equip_defense_stat": "slash_defense"
+          },
+          {
+            "name": "block",
+            "style": "defensive",
+            "boosts": {
+              "defense": 3
+            },
+            "experience": {
+              "hitpoints": 1.3333,
+              "defense": 4
+            },
+            "combat_accuracy_stat": "attack_level",
+            "combat_damage_stat": "strength_level",
+            "equip_accuracy_stat": "stab_attack",
+            "equip_damage_stat": "stab_attack",
+            "target_equip_defense_stat": "stab_defense"
+          }
+        ]
+      }
+    },
+    {
+      "id": "5fee5667-9729-4454-8415-791828b578dc",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 4,
+        "slash_attack": 2,
+        "crush_attack": -4,
+        "ranged_attack": 0,
+        "magic_attack": 1,
+        "stab_defense": 0,
+        "slash_defense": 0,
+        "crush_defense": 0,
+        "ranged_defense": 0,
+        "magic_defense": 1,
+        "melee_strength": 3,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

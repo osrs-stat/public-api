@@ -1,0 +1,84 @@
+{
+  "data": [
+    {
+      "id": "3689-3938",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.05859375"
+      },
+      "meta": {
+        "item_name": "Lyre",
+        "monster_name": "Freidir"
+      }
+    },
+    {
+      "id": "3689-3944",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.05859375"
+      },
+      "meta": {
+        "item_name": "Lyre",
+        "monster_name": "Jennella"
+      }
+    },
+    {
+      "id": "3689-3943",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.05859375"
+      },
+      "meta": {
+        "item_name": "Lyre",
+        "monster_name": "Lensa"
+      }
+    },
+    {
+      "id": "3689-3940",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.05859375"
+      },
+      "meta": {
+        "item_name": "Lyre",
+        "monster_name": "Lanzig"
+      }
+    },
+    {
+      "id": "3689-3939",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.05859375"
+      },
+      "meta": {
+        "item_name": "Lyre",
+        "monster_name": "Borrokar"
+      }
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "2570-2267",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Ring of life",
+        "monster_name": "Dagannoth Rex"
+      }
+    },
+    {
+      "id": "2570-6619",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0546875"
+      },
+      "meta": {
+        "item_name": "Ring of life",
+        "monster_name": "Chaos Fanatic"
+      }
+    },
+    {
+      "id": "2570-3141",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Ring of life",
+        "monster_name": "Gorak (Level 149)"
+      }
+    },
+    {
+      "id": "2570-1834",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Ring of life",
+        "monster_name": "Gorak (Level 145)"
+      }
+    }
+  ]
+}

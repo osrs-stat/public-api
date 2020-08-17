@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "11941-2477",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0666666666666667"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Giant spider (Level 50)"
+      }
+    },
+    {
+      "id": "23182-2477",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Clue scroll (beginner)",
+        "monster_name": "Giant spider (Level 50)"
+      }
+    },
+    {
+      "id": "23490-2477",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0027027027027027"
+      },
+      "meta": {
+        "item_name": "Larran's key",
+        "monster_name": "Giant spider (Level 50)"
+      }
+    },
+    {
+      "id": "21257-2477",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00357142857142857"
+      },
+      "meta": {
+        "item_name": "Slayer's enchantment",
+        "monster_name": "Giant spider (Level 50)"
+      }
+    }
+  ]
+}

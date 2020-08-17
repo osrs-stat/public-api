@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "id": "329-7989",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.05"
+      },
+      "meta": {
+        "item_name": "Salmon",
+        "monster_name": "Ogress Warrior"
+      }
+    },
+    {
+      "id": "329-7991",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.05"
+      },
+      "meta": {
+        "item_name": "Salmon",
+        "monster_name": "Ogress Shaman"
+      }
+    }
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "data": {
+    "id": "8565",
+    "type": "monster",
+    "attributes": {
+      "uuid": "07a1e62d-9dec-46ee-a667-2e4b3df675c3",
+      "name": "Lizardman shaman (Lizardman Temple)",
+      "members": true,
+      "release_date": "2019-01-10",
+      "examine": "A Lizardman shaman wearing a pernicious olmic headdress.",
+      "combat_level_override": null,
+      "max_hit_override": 31,
+      "target_types": [
+
+      ],
+      "classification_types": [
+        "lizardmen"
+      ],
+      "poison": true,
+      "immune_poison": true,
+      "immune_venom": true,
+      "slayer_xp": 157.5,
+      "slayer_level": 1,
+      "slayer_masters": [
+        "chaeldar",
+        "konar",
+        "nieve",
+        "duradel"
+      ],
+      "icon_base64": null
+    },
+    "relationships": {
+      "combat_stat": {
+        "data": {
+          "id": "db615add-1f05-42fa-8dea-5399b56a5800",
+          "type": "combat_stat"
+        }
+      },
+      "equip_stat": {
+        "data": {
+          "id": "8504b886-007b-4dee-bbb0-c17870ff2c7d",
+          "type": "equip_stat"
+        }
+      },
+      "attack_stat": {
+        "data": {
+          "id": "b84fb392-da39-421f-a82a-77c168d27cbf",
+          "type": "attack_stat"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Lizardman_shaman#Lizardman_Temple"
+    },
+    "meta": {
+      "incomplete": true
+    }
+  },
+  "included": [
+    {
+      "id": "b84fb392-da39-421f-a82a-77c168d27cbf",
+      "type": "attack_stat",
+      "attributes": {
+        "attack_speed": 4,
+        "attack_type": "monster",
+        "special": null,
+        "stances": [
+          {
+            "name": "Monster crush",
+            "style": null,
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": null,
+            "combat_accuracy_stat": "attack_level",
+            "combat_damage_stat": "strength_level",
+            "equip_accuracy_stat": "crush_attack",
+            "equip_damage_stat": "crush_attack",
+            "target_equip_defense_stat": "crush_defense"
+          },
+          {
+            "name": "Monster ranged",
+            "style": null,
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": null,
+            "combat_accuracy_stat": "ranged_level",
+            "combat_damage_stat": "ranged_level",
+            "equip_accuracy_stat": "ranged_attack",
+            "equip_damage_stat": "ranged_attack",
+            "target_equip_defense_stat": "ranged_defense"
+          }
+        ]
+      }
+    },
+    {
+      "id": "db615add-1f05-42fa-8dea-5399b56a5800",
+      "type": "monster_combat_stat",
+      "attributes": {
+        "hitpoints_level": 150,
+        "attack_level": 120,
+        "strength_level": 120,
+        "defense_level": 140,
+        "magic_level": 130,
+        "ranged_level": 120,
+        "prayer_level": 0
+      }
+    },
+    {
+      "id": "8504b886-007b-4dee-bbb0-c17870ff2c7d",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 45,
+        "slash_attack": 45,
+        "crush_attack": 45,
+        "ranged_attack": 45,
+        "magic_attack": 0,
+        "stab_defense": -10,
+        "slash_defense": 40,
+        "crush_defense": 30,
+        "ranged_defense": 0,
+        "magic_defense": 50,
+        "melee_strength": 38,
+        "ranged_strength": 38,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

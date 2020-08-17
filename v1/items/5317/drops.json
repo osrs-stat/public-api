@@ -1,0 +1,404 @@
+{
+  "data": [
+    {
+      "id": "5317-8615",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": 3,
+        "rarity": "0.000633663366336634"
+      },
+      "meta": {
+        "item_name": "Spirit seed",
+        "monster_name": "Alchemical Hydra (Five heads)"
+      }
+    },
+    {
+      "id": "5317-8617",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": 3,
+        "rarity": "0.000633663366336634"
+      },
+      "meta": {
+        "item_name": "Spirit seed",
+        "monster_name": "Alchemical Hydra (Four heads)"
+      }
+    },
+    {
+      "id": "5317-8618",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": 3,
+        "rarity": "0.000633663366336634"
+      },
+      "meta": {
+        "item_name": "Spirit seed",
+        "monster_name": "Alchemical Hydra (Three heads)"
+      }
+    },
+    {
+      "id": "5317-8583",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0125"
+      },
+      "meta": {
+        "item_name": "Spirit seed",
+        "monster_name": "Hespori"
+      }
+    },
+    {
+      "id": "5317-8621",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": 3,
+        "rarity": "0.000633663366336634"
+      },
+      "meta": {
+        "item_name": "Spirit seed",
+        "monster_name": "Alchemical Hydra (Two heads)"
+      }
+    },
+    {
+      "id": "5317-8565",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00064"
+      },
+      "meta": {
+        "item_name": "Spirit seed",
+        "monster_name": "Lizardman shaman (Lizardman Temple)"
+      }
+    },
+    {
+      "id": "5317-8061",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00064"
+      },
+      "meta": {
+        "item_name": "Spirit seed",
+        "monster_name": "Vorkath (Post-quest)"
+      }
+    },
+    {
+      "id": "5317-8060",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00064"
+      },
+      "meta": {
+        "item_name": "Spirit seed",
+        "monster_name": "Vorkath (Dragon Slayer II)"
+      }
+    },
+    {
+      "id": "5317-7806",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00025"
+      },
+      "meta": {
+        "item_name": "Spirit seed",
+        "monster_name": "Deranged archaeologist"
+      }
+    },
+    {
+      "id": "5317-7797",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.001953125"
+      },
+      "meta": {
+        "item_name": "Spirit seed",
+        "monster_name": "Ancient Zygomite"
+      }
+    },
+    {
+      "id": "5317-7795",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000477611940298507"
+      },
+      "meta": {
+        "item_name": "Spirit seed",
+        "monster_name": "Ancient Wyvern"
+      }
+    },
+    {
+      "id": "5317-7794",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000260165985899004"
+      },
+      "meta": {
+        "item_name": "Spirit seed",
+        "monster_name": "Spitting Wyvern"
+      }
+    },
+    {
+      "id": "5317-7793",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000260165985899004"
+      },
+      "meta": {
+        "item_name": "Spirit seed",
+        "monster_name": "Taloned Wyvern"
+      }
+    },
+    {
+      "id": "5317-7792",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000260165985899004"
+      },
+      "meta": {
+        "item_name": "Spirit seed",
+        "monster_name": "Long-tailed Wyvern"
+      }
+    },
+    {
+      "id": "5317-7150",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.001953125"
+      },
+      "meta": {
+        "item_name": "Spirit seed",
+        "monster_name": "Tortured gorilla (Level 141)"
+      }
+    },
+    {
+      "id": "5317-7144",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.0016"
+      },
+      "meta": {
+        "item_name": "Spirit seed",
+        "monster_name": "Demonic gorilla"
+      }
+    },
+    {
+      "id": "5317-7095",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.001953125"
+      },
+      "meta": {
+        "item_name": "Spirit seed",
+        "monster_name": "Tortured gorilla (Level 142)"
+      }
+    },
+    {
+      "id": "5317-6766",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00064"
+      },
+      "meta": {
+        "item_name": "Spirit seed",
+        "monster_name": "Lizardman shaman (Standard)"
+      }
+    },
+    {
+      "id": "5317-5908",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.00115107913669065"
+      },
+      "meta": {
+        "item_name": "Spirit seed",
+        "monster_name": "Abyssal Sire (Phase 3 (stage 2))"
+      }
+    },
+    {
+      "id": "5317-5891",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.00115107913669065"
+      },
+      "meta": {
+        "item_name": "Spirit seed",
+        "monster_name": "Abyssal Sire (Phase 3 (stage 1))"
+      }
+    },
+    {
+      "id": "5317-5890",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.00115107913669065"
+      },
+      "meta": {
+        "item_name": "Spirit seed",
+        "monster_name": "Abyssal Sire (Phase 2)"
+      }
+    },
+    {
+      "id": "5317-5886",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.00115107913669065"
+      },
+      "meta": {
+        "item_name": "Spirit seed",
+        "monster_name": "Abyssal Sire (Phase 1)"
+      }
+    },
+    {
+      "id": "5317-2044",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00403225806451613"
+      },
+      "meta": {
+        "item_name": "Spirit seed",
+        "monster_name": "Zulrah (Tanzanite)"
+      }
+    },
+    {
+      "id": "5317-2043",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00403225806451613"
+      },
+      "meta": {
+        "item_name": "Spirit seed",
+        "monster_name": "Zulrah (Magma)"
+      }
+    },
+    {
+      "id": "5317-2042",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00403225806451613"
+      },
+      "meta": {
+        "item_name": "Spirit seed",
+        "monster_name": "Zulrah (Serpentine)"
+      }
+    }
+  ]
+}

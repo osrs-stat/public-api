@@ -1,0 +1,804 @@
+{
+  "data": [
+    {
+      "id": "995-2267",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 100,
+        "quantity_max": 1209,
+        "rarity": "0.078125"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Dagannoth Rex"
+      }
+    },
+    {
+      "id": "6729-2267",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Dagannoth bones",
+        "monster_name": "Dagannoth Rex"
+      }
+    },
+    {
+      "id": "6155-2267",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Dagannoth hide",
+        "monster_name": "Dagannoth Rex"
+      }
+    },
+    {
+      "id": "1193-2267",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.1328125"
+      },
+      "meta": {
+        "item_name": "Steel kiteshield",
+        "monster_name": "Dagannoth Rex"
+      }
+    },
+    {
+      "id": "1343-2267",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0859375"
+      },
+      "meta": {
+        "item_name": "Mithril warhammer",
+        "monster_name": "Dagannoth Rex"
+      }
+    },
+    {
+      "id": "1357-2267",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0546875"
+      },
+      "meta": {
+        "item_name": "Adamant axe",
+        "monster_name": "Dagannoth Rex"
+      }
+    },
+    {
+      "id": "1119-2267",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Steel platebody",
+        "monster_name": "Dagannoth Rex"
+      }
+    },
+    {
+      "id": "1273-2267",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Mithril pickaxe (Regular)",
+        "monster_name": "Dagannoth Rex"
+      }
+    },
+    {
+      "id": "1123-2267",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Adamant platebody",
+        "monster_name": "Dagannoth Rex"
+      }
+    },
+    {
+      "id": "3757-2267",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Fremennik blade",
+        "monster_name": "Dagannoth Rex"
+      }
+    },
+    {
+      "id": "1359-2267",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Rune axe",
+        "monster_name": "Dagannoth Rex"
+      }
+    },
+    {
+      "id": "3758-2267",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Fremennik shield",
+        "monster_name": "Dagannoth Rex"
+      }
+    },
+    {
+      "id": "3748-2267",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Fremennik helm",
+        "monster_name": "Dagannoth Rex"
+      }
+    },
+    {
+      "id": "1315-2267",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Mithril 2h sword",
+        "monster_name": "Dagannoth Rex"
+      }
+    },
+    {
+      "id": "6739-2267",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Dragon axe",
+        "monster_name": "Dagannoth Rex"
+      }
+    },
+    {
+      "id": "2570-2267",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Ring of life",
+        "monster_name": "Dagannoth Rex"
+      }
+    },
+    {
+      "id": "6129-2267",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Rock-shell plate",
+        "monster_name": "Dagannoth Rex"
+      }
+    },
+    {
+      "id": "6130-2267",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Rock-shell legs",
+        "monster_name": "Dagannoth Rex"
+      }
+    },
+    {
+      "id": "6737-2267",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Berserker ring",
+        "monster_name": "Dagannoth Rex"
+      }
+    },
+    {
+      "id": "6735-2267",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Warrior ring",
+        "monster_name": "Dagannoth Rex"
+      }
+    },
+    {
+      "id": "2456-2267",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Antifire potion (2 dose)",
+        "monster_name": "Dagannoth Rex"
+      }
+    },
+    {
+      "id": "141-2267",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Prayer potion (2 dose)",
+        "monster_name": "Dagannoth Rex"
+      }
+    },
+    {
+      "id": "129-2267",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Restore potion (2 dose)",
+        "monster_name": "Dagannoth Rex"
+      }
+    },
+    {
+      "id": "147-2267",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Super attack (2 dose)",
+        "monster_name": "Dagannoth Rex"
+      }
+    },
+    {
+      "id": "159-2267",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Super strength (2 dose)",
+        "monster_name": "Dagannoth Rex"
+      }
+    },
+    {
+      "id": "165-2267",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Super defence (2 dose)",
+        "monster_name": "Dagannoth Rex"
+      }
+    },
+    {
+      "id": "191-2267",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Zamorak brew (2 dose)",
+        "monster_name": "Dagannoth Rex"
+      }
+    },
+    {
+      "id": "447-2267",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 25,
+        "quantity_max": null,
+        "rarity": "0.078125"
+      },
+      "meta": {
+        "item_name": "Mithril ore",
+        "monster_name": "Dagannoth Rex"
+      }
+    },
+    {
+      "id": "2361-2267",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Adamantite bar",
+        "monster_name": "Dagannoth Rex"
+      }
+    },
+    {
+      "id": "1462-2267",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000334821428571429"
+      },
+      "meta": {
+        "item_name": "Nature talisman",
+        "monster_name": "Dagannoth Rex"
+      }
+    },
+    {
+      "id": "1452-2267",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000334821428571429"
+      },
+      "meta": {
+        "item_name": "Chaos talisman",
+        "monster_name": "Dagannoth Rex"
+      }
+    },
+    {
+      "id": "1454-2267",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000446428571428571"
+      },
+      "meta": {
+        "item_name": "Cosmic talisman",
+        "monster_name": "Dagannoth Rex"
+      }
+    },
+    {
+      "id": "1444-2267",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00111607142857143"
+      },
+      "meta": {
+        "item_name": "Water talisman",
+        "monster_name": "Dagannoth Rex"
+      }
+    },
+    {
+      "id": "1448-2267",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00111607142857143"
+      },
+      "meta": {
+        "item_name": "Mind talisman",
+        "monster_name": "Dagannoth Rex"
+      }
+    },
+    {
+      "id": "1442-2267",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00111607142857143"
+      },
+      "meta": {
+        "item_name": "Fire talisman",
+        "monster_name": "Dagannoth Rex"
+      }
+    },
+    {
+      "id": "1440-2267",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00111607142857143"
+      },
+      "meta": {
+        "item_name": "Earth talisman",
+        "monster_name": "Dagannoth Rex"
+      }
+    },
+    {
+      "id": "1446-2267",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00111607142857143"
+      },
+      "meta": {
+        "item_name": "Body talisman",
+        "monster_name": "Dagannoth Rex"
+      }
+    },
+    {
+      "id": "1438-2267",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00111607142857143"
+      },
+      "meta": {
+        "item_name": "Air talisman",
+        "monster_name": "Dagannoth Rex"
+      }
+    },
+    {
+      "id": "12645-2267",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0002"
+      },
+      "meta": {
+        "item_name": "Pet dagannoth rex",
+        "monster_name": "Dagannoth Rex"
+      }
+    },
+    {
+      "id": "12073-2267",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00133333333333333"
+      },
+      "meta": {
+        "item_name": "Clue scroll (elite)",
+        "monster_name": "Dagannoth Rex"
+      }
+    },
+    {
+      "id": "23083-2267",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0168350168350168"
+      },
+      "meta": {
+        "item_name": "Brimstone key",
+        "monster_name": "Dagannoth Rex"
+      }
+    },
+    {
+      "id": "2722-2267",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0238095238095238"
+      },
+      "meta": {
+        "item_name": "Clue scroll (hard)",
+        "monster_name": "Dagannoth Rex"
+      }
+    },
+    {
+      "id": "13492-2267",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.05"
+      },
+      "meta": {
+        "item_name": "Ensouled dagannoth head (Drop)",
+        "monster_name": "Dagannoth Rex"
+      }
+    },
+    {
+      "id": "385-2267",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Shark",
+        "monster_name": "Dagannoth Rex"
+      }
+    },
+    {
+      "id": "373-2267",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Swordfish",
+        "monster_name": "Dagannoth Rex"
+      }
+    },
+    {
+      "id": "365-2267",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.0546875"
+      },
+      "meta": {
+        "item_name": "Bass",
+        "monster_name": "Dagannoth Rex"
+      }
+    },
+    {
+      "id": "207-2267",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0546875"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Dagannoth Rex"
+      }
+    },
+    {
+      "id": "2353-2267",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 15,
+        "quantity_max": 30,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Steel bar",
+        "monster_name": "Dagannoth Rex"
+      }
+    },
+    {
+      "id": "440-2267",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 150,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Iron ore",
+        "monster_name": "Dagannoth Rex"
+      }
+    },
+    {
+      "id": "453-2267",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 100,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Coal",
+        "monster_name": "Dagannoth Rex"
+      }
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "data": {
+    "id": "397",
+    "type": "monster",
+    "attributes": {
+      "uuid": "a42235ff-ffa5-4ce5-89d0-767adbfaff6d",
+      "name": "Town Guard (Hosidius) (Bow)",
+      "members": true,
+      "release_date": "2019-05-23",
+      "examine": "He tries to keep order around here.",
+      "combat_level_override": null,
+      "max_hit_override": 3,
+      "target_types": [
+
+      ],
+      "classification_types": [
+
+      ],
+      "poison": false,
+      "immune_poison": false,
+      "immune_venom": false,
+      "slayer_xp": null,
+      "slayer_level": null,
+      "slayer_masters": [
+
+      ],
+      "icon_base64": null
+    },
+    "relationships": {
+      "combat_stat": {
+        "data": {
+          "id": "eaae533e-25df-4cfb-9515-b016bde1ec76",
+          "type": "combat_stat"
+        }
+      },
+      "equip_stat": {
+        "data": {
+          "id": "62088a1c-aef9-4bec-a85b-7a47983abae0",
+          "type": "equip_stat"
+        }
+      },
+      "attack_stat": {
+        "data": {
+          "id": "1fbd83bf-3f6f-410d-bb30-a556c0ac909b",
+          "type": "attack_stat"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Town_Guard_(Hosidius)#Bow"
+    },
+    "meta": {
+      "incomplete": true
+    }
+  },
+  "included": [
+    {
+      "id": "1fbd83bf-3f6f-410d-bb30-a556c0ac909b",
+      "type": "attack_stat",
+      "attributes": {
+        "attack_speed": 6,
+        "attack_type": "monster",
+        "special": null,
+        "stances": [
+          {
+            "name": "Monster ranged",
+            "style": null,
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": null,
+            "combat_accuracy_stat": "ranged_level",
+            "combat_damage_stat": "ranged_level",
+            "equip_accuracy_stat": "ranged_attack",
+            "equip_damage_stat": "ranged_attack",
+            "target_equip_defense_stat": "ranged_defense"
+          }
+        ]
+      }
+    },
+    {
+      "id": "eaae533e-25df-4cfb-9515-b016bde1ec76",
+      "type": "monster_combat_stat",
+      "attributes": {
+        "hitpoints_level": 22,
+        "attack_level": 15,
+        "strength_level": 15,
+        "defense_level": 16,
+        "magic_level": 1,
+        "ranged_level": 26,
+        "prayer_level": 0
+      }
+    },
+    {
+      "id": "62088a1c-aef9-4bec-a85b-7a47983abae0",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 6,
+        "slash_attack": 6,
+        "crush_attack": 6,
+        "ranged_attack": 0,
+        "magic_attack": 0,
+        "stab_defense": 5,
+        "slash_defense": 5,
+        "crush_defense": 5,
+        "ranged_defense": 5,
+        "magic_defense": -4,
+        "melee_strength": 10,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

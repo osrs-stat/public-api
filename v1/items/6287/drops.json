@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "id": "6287-1037",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Snake hide",
+        "monster_name": "Snake (Mos Le'Harmless)"
+      }
+    },
+    {
+      "id": "6287-6102",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Snake hide",
+        "monster_name": "Bush snake"
+      }
+    },
+    {
+      "id": "6287-7802",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.3003003003003"
+      },
+      "meta": {
+        "item_name": "Snake hide",
+        "monster_name": "Hoop Snake"
+      }
+    }
+  ]
+}

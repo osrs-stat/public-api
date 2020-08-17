@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "id": "12936-2044",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000333333333333333"
+      },
+      "meta": {
+        "item_name": "Jar of swamp",
+        "monster_name": "Zulrah (Tanzanite)"
+      }
+    },
+    {
+      "id": "12936-2042",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000333333333333333"
+      },
+      "meta": {
+        "item_name": "Jar of swamp",
+        "monster_name": "Zulrah (Serpentine)"
+      }
+    },
+    {
+      "id": "12936-2043",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000333333333333333"
+      },
+      "meta": {
+        "item_name": "Jar of swamp",
+        "monster_name": "Zulrah (Magma)"
+      }
+    }
+  ]
+}

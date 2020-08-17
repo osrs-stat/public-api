@@ -1,0 +1,117 @@
+{
+  "data": {
+    "id": "682",
+    "type": "monster",
+    "attributes": {
+      "uuid": "783900f4-8c0a-4202-9059-41e885d55a60",
+      "name": "Damis (First form)",
+      "members": true,
+      "release_date": "2005-04-18",
+      "examine": "The warrior of darkness.",
+      "combat_level_override": null,
+      "max_hit_override": null,
+      "target_types": [
+
+      ],
+      "classification_types": [
+
+      ],
+      "poison": false,
+      "immune_poison": false,
+      "immune_venom": false,
+      "slayer_xp": null,
+      "slayer_level": null,
+      "slayer_masters": [
+
+      ],
+      "icon_base64": null
+    },
+    "relationships": {
+      "combat_stat": {
+        "data": {
+          "id": "5c29bdd7-8ce9-4d2d-8e1e-bf1ace14e957",
+          "type": "combat_stat"
+        }
+      },
+      "equip_stat": {
+        "data": {
+          "id": "e34b367d-0654-48aa-803b-c033dd1dd274",
+          "type": "equip_stat"
+        }
+      },
+      "attack_stat": {
+        "data": {
+          "id": "4fe7720e-3a21-4805-9d6a-36a7b95f1599",
+          "type": "attack_stat"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Damis#First_form"
+    },
+    "meta": {
+      "incomplete": true
+    }
+  },
+  "included": [
+    {
+      "id": "4fe7720e-3a21-4805-9d6a-36a7b95f1599",
+      "type": "attack_stat",
+      "attributes": {
+        "attack_speed": 4,
+        "attack_type": "monster",
+        "special": null,
+        "stances": [
+          {
+            "name": "Monster crush",
+            "style": null,
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": null,
+            "combat_accuracy_stat": "attack_level",
+            "combat_damage_stat": "strength_level",
+            "equip_accuracy_stat": "crush_attack",
+            "equip_damage_stat": "crush_attack",
+            "target_equip_defense_stat": "crush_defense"
+          }
+        ]
+      }
+    },
+    {
+      "id": "5c29bdd7-8ce9-4d2d-8e1e-bf1ace14e957",
+      "type": "monster_combat_stat",
+      "attributes": {
+        "hitpoints_level": 90,
+        "attack_level": 90,
+        "strength_level": 90,
+        "defense_level": 90,
+        "magic_level": 1,
+        "ranged_level": 1,
+        "prayer_level": 0
+      }
+    },
+    {
+      "id": "e34b367d-0654-48aa-803b-c033dd1dd274",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 0,
+        "slash_attack": 0,
+        "crush_attack": 0,
+        "ranged_attack": 0,
+        "magic_attack": 0,
+        "stab_defense": 60,
+        "slash_defense": 60,
+        "crush_defense": 60,
+        "ranged_defense": 60,
+        "magic_defense": 60,
+        "melee_strength": 80,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "6306-530",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 15,
+        "quantity_max": null,
+        "rarity": "0.181159420289855"
+      },
+      "meta": {
+        "item_name": "Trading sticks",
+        "monster_name": "Tribesman"
+      }
+    },
+    {
+      "id": "6306-2094",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 22,
+        "quantity_max": null,
+        "rarity": "0.209302325581395"
+      },
+      "meta": {
+        "item_name": "Trading sticks",
+        "monster_name": "Jogre (Normal)"
+      }
+    },
+    {
+      "id": "6306-2234",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 22,
+        "quantity_max": null,
+        "rarity": "0.209302325581395"
+      },
+      "meta": {
+        "item_name": "Trading sticks",
+        "monster_name": "Jogre (GWD)"
+      }
+    },
+    {
+      "id": "6306-530",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 62,
+        "quantity_max": null,
+        "rarity": "0.036231884057971"
+      },
+      "meta": {
+        "item_name": "Trading sticks",
+        "monster_name": "Tribesman"
+      }
+    }
+  ]
+}

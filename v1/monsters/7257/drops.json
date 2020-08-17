@@ -1,0 +1,996 @@
+{
+  "data": [
+    {
+      "id": "19683-7257",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "catacombs-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00227272727272727"
+      },
+      "meta": {
+        "item_name": "Dark totem top",
+        "monster_name": "Ankou (Level 95)"
+      }
+    },
+    {
+      "id": "7936-7257",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 15,
+        "quantity_max": null,
+        "rarity": "0.05"
+      },
+      "meta": {
+        "item_name": "Pure essence",
+        "monster_name": "Ankou (Level 95)"
+      }
+    },
+    {
+      "id": "1436-7257",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 15,
+        "quantity_max": null,
+        "rarity": "0.05"
+      },
+      "meta": {
+        "item_name": "Rune essence",
+        "monster_name": "Ankou (Level 95)"
+      }
+    },
+    {
+      "id": "447-7257",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 3,
+        "quantity_max": 7,
+        "rarity": "0.02"
+      },
+      "meta": {
+        "item_name": "Mithril ore",
+        "monster_name": "Ankou (Level 95)"
+      }
+    },
+    {
+      "id": "11940-7257",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 60,
+        "quantity_max": null,
+        "rarity": "0.33"
+      },
+      "meta": {
+        "item_name": "Dark fishing bait",
+        "monster_name": "Ankou (Level 95)"
+      }
+    },
+    {
+      "id": "313-7257",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 60,
+        "quantity_max": null,
+        "rarity": "0.33"
+      },
+      "meta": {
+        "item_name": "Fishing bait",
+        "monster_name": "Ankou (Level 95)"
+      }
+    },
+    {
+      "id": "9008-7257",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03"
+      },
+      "meta": {
+        "item_name": "Left skull half",
+        "monster_name": "Ankou (Level 95)"
+      }
+    },
+    {
+      "id": "365-7257",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.02"
+      },
+      "meta": {
+        "item_name": "Bass",
+        "monster_name": "Ankou (Level 95)"
+      }
+    },
+    {
+      "id": "187-7257",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.02"
+      },
+      "meta": {
+        "item_name": "Weapon poison",
+        "monster_name": "Ankou (Level 95)"
+      }
+    },
+    {
+      "id": "7082-7257",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.01"
+      },
+      "meta": {
+        "item_name": "Fried mushrooms",
+        "monster_name": "Ankou (Level 95)"
+      }
+    },
+    {
+      "id": "12073-7257",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Clue scroll (elite)",
+        "monster_name": "Ankou (Level 95)"
+      }
+    },
+    {
+      "id": "20543-7257",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Reward casket (elite)",
+        "monster_name": "Ankou (Level 95)"
+      }
+    },
+    {
+      "id": "11941-7257",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Ankou (Level 95)"
+      }
+    },
+    {
+      "id": "23083-7257",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00444444444444444"
+      },
+      "meta": {
+        "item_name": "Brimstone key",
+        "monster_name": "Ankou (Level 95)"
+      }
+    },
+    {
+      "id": "2722-7257",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.001953125"
+      },
+      "meta": {
+        "item_name": "Clue scroll (hard)",
+        "monster_name": "Ankou (Level 95)"
+      }
+    },
+    {
+      "id": "526-7257",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Bones",
+        "monster_name": "Ankou (Level 95)"
+      }
+    },
+    {
+      "id": "1211-7257",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0210526315789474"
+      },
+      "meta": {
+        "item_name": "Adamant dagger (Unpoisoned)",
+        "monster_name": "Ankou (Level 95)"
+      }
+    },
+    {
+      "id": "1073-7257",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0105263157894737"
+      },
+      "meta": {
+        "item_name": "Adamant platelegs",
+        "monster_name": "Ankou (Level 95)"
+      }
+    },
+    {
+      "id": "892-7257",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": 14,
+        "rarity": "0.0421052631578947"
+      },
+      "meta": {
+        "item_name": "Rune arrow (Unpoisoned)",
+        "monster_name": "Ankou (Level 95)"
+      }
+    },
+    {
+      "id": "560-7257",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 15,
+        "quantity_max": null,
+        "rarity": "0.0315789473684211"
+      },
+      "meta": {
+        "item_name": "Death rune (Regular)",
+        "monster_name": "Ankou (Level 95)"
+      }
+    },
+    {
+      "id": "560-7257",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 17,
+        "quantity_max": null,
+        "rarity": "0.0315789473684211"
+      },
+      "meta": {
+        "item_name": "Death rune (Regular)",
+        "monster_name": "Ankou (Level 95)"
+      }
+    },
+    {
+      "id": "565-7257",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 11,
+        "quantity_max": null,
+        "rarity": "0.0315789473684211"
+      },
+      "meta": {
+        "item_name": "Blood rune (Regular)",
+        "monster_name": "Ankou (Level 95)"
+      }
+    },
+    {
+      "id": "565-7257",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 8,
+        "quantity_max": null,
+        "rarity": "0.0210526315789474"
+      },
+      "meta": {
+        "item_name": "Blood rune (Regular)",
+        "monster_name": "Ankou (Level 95)"
+      }
+    },
+    {
+      "id": "565-7257",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 18,
+        "quantity_max": null,
+        "rarity": "0.0105263157894737"
+      },
+      "meta": {
+        "item_name": "Blood rune (Regular)",
+        "monster_name": "Ankou (Level 95)"
+      }
+    },
+    {
+      "id": "11940-7257",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 60,
+        "quantity_max": null,
+        "rarity": "0.557894736842105"
+      },
+      "meta": {
+        "item_name": "Dark fishing bait",
+        "monster_name": "Ankou (Level 95)"
+      }
+    },
+    {
+      "id": "7946-7257",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0210526315789474"
+      },
+      "meta": {
+        "item_name": "Monkfish",
+        "monster_name": "Ankou (Level 95)"
+      }
+    },
+    {
+      "id": "7946-7257",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.0105263157894737"
+      },
+      "meta": {
+        "item_name": "Monkfish",
+        "monster_name": "Ankou (Level 95)"
+      }
+    },
+    {
+      "id": "447-7257",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 3,
+        "quantity_max": 7,
+        "rarity": "0.0210526315789474"
+      },
+      "meta": {
+        "item_name": "Mithril ore",
+        "monster_name": "Ankou (Level 95)"
+      }
+    },
+    {
+      "id": "187-7257",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0210526315789474"
+      },
+      "meta": {
+        "item_name": "Weapon poison",
+        "monster_name": "Ankou (Level 95)"
+      }
+    },
+    {
+      "id": "12073-7257",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Clue scroll (elite)",
+        "monster_name": "Ankou (Level 95)"
+      }
+    },
+    {
+      "id": "20543-7257",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Reward casket (elite)",
+        "monster_name": "Ankou (Level 95)"
+      }
+    },
+    {
+      "id": "11941-7257",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Ankou (Level 95)"
+      }
+    },
+    {
+      "id": "2722-7257",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00390625"
+      },
+      "meta": {
+        "item_name": "Clue scroll (hard)",
+        "monster_name": "Ankou (Level 95)"
+      }
+    },
+    {
+      "id": "19677-7257",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "catacombs-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00340909090909091"
+      },
+      "meta": {
+        "item_name": "Ancient shard",
+        "monster_name": "Ankou (Level 95)"
+      }
+    },
+    {
+      "id": "19679-7257",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "catacombs-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00227272727272727"
+      },
+      "meta": {
+        "item_name": "Dark totem base",
+        "monster_name": "Ankou (Level 95)"
+      }
+    },
+    {
+      "id": "19681-7257",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "catacombs-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00227272727272727"
+      },
+      "meta": {
+        "item_name": "Dark totem middle",
+        "monster_name": "Ankou (Level 95)"
+      }
+    },
+    {
+      "id": "199-7257",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00789473684210526"
+      },
+      "meta": {
+        "item_name": "Grimy guam leaf",
+        "monster_name": "Ankou (Level 95)"
+      }
+    },
+    {
+      "id": "995-7257",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 500,
+        "quantity_max": 999,
+        "rarity": "0.105263157894737"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Ankou (Level 95)"
+      }
+    },
+    {
+      "id": "21257-7257",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00367647058823529"
+      },
+      "meta": {
+        "item_name": "Slayer's enchantment",
+        "monster_name": "Ankou (Level 95)"
+      }
+    },
+    {
+      "id": "995-7257",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.01"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Ankou (Level 95)"
+      }
+    },
+    {
+      "id": "995-7257",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.03"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Ankou (Level 95)"
+      }
+    },
+    {
+      "id": "995-7257",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": 204,
+        "rarity": "0.1"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Ankou (Level 95)"
+      }
+    },
+    {
+      "id": "995-7257",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 8,
+        "quantity_max": null,
+        "rarity": "0.33"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Ankou (Level 95)"
+      }
+    },
+    {
+      "id": "23490-7257",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0104166666666667"
+      },
+      "meta": {
+        "item_name": "Larran's key",
+        "monster_name": "Ankou (Level 95)"
+      }
+    },
+    {
+      "id": "217-7257",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000740073760684815"
+      },
+      "meta": {
+        "item_name": "Grimy dwarf weed",
+        "monster_name": "Ankou (Level 95)"
+      }
+    },
+    {
+      "id": "2485-7257",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000740073760684815"
+      },
+      "meta": {
+        "item_name": "Grimy lantadyme",
+        "monster_name": "Ankou (Level 95)"
+      }
+    },
+    {
+      "id": "215-7257",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000986842105263158"
+      },
+      "meta": {
+        "item_name": "Grimy cadantine",
+        "monster_name": "Ankou (Level 95)"
+      }
+    },
+    {
+      "id": "213-7257",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00123355263157895"
+      },
+      "meta": {
+        "item_name": "Grimy kwuarm",
+        "monster_name": "Ankou (Level 95)"
+      }
+    },
+    {
+      "id": "211-7257",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00148049448515804"
+      },
+      "meta": {
+        "item_name": "Grimy avantoe",
+        "monster_name": "Ankou (Level 95)"
+      }
+    },
+    {
+      "id": "209-7257",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00197368421052632"
+      },
+      "meta": {
+        "item_name": "Grimy irit leaf",
+        "monster_name": "Ankou (Level 95)"
+      }
+    },
+    {
+      "id": "207-7257",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00271296798697775"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Ankou (Level 95)"
+      }
+    },
+    {
+      "id": "205-7257",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00345389340133666"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Ankou (Level 95)"
+      }
+    },
+    {
+      "id": "203-7257",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00444085886210393"
+      },
+      "meta": {
+        "item_name": "Grimy tarromin",
+        "monster_name": "Ankou (Level 95)"
+      }
+    },
+    {
+      "id": "201-7257",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00592142272049898"
+      },
+      "meta": {
+        "item_name": "Grimy marrentill",
+        "monster_name": "Ankou (Level 95)"
+      }
+    },
+    {
+      "id": "526-7257",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Bones",
+        "monster_name": "Ankou (Level 95)"
+      }
+    },
+    {
+      "id": "869-7257",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.01"
+      },
+      "meta": {
+        "item_name": "Black knife (Unpoisoned)",
+        "monster_name": "Ankou (Level 95)"
+      }
+    },
+    {
+      "id": "581-7257",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.01"
+      },
+      "meta": {
+        "item_name": "Black robe",
+        "monster_name": "Ankou (Level 95)"
+      }
+    },
+    {
+      "id": "890-7257",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": 14,
+        "rarity": "0.04"
+      },
+      "meta": {
+        "item_name": "Adamant arrow (Unpoisoned)",
+        "monster_name": "Ankou (Level 95)"
+      }
+    },
+    {
+      "id": "560-7257",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.1"
+      },
+      "meta": {
+        "item_name": "Death rune (Regular)",
+        "monster_name": "Ankou (Level 95)"
+      }
+    },
+    {
+      "id": "565-7257",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 11,
+        "quantity_max": null,
+        "rarity": "0.06"
+      },
+      "meta": {
+        "item_name": "Blood rune (Regular)",
+        "monster_name": "Ankou (Level 95)"
+      }
+    },
+    {
+      "id": "563-7257",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.06"
+      },
+      "meta": {
+        "item_name": "Law rune",
+        "monster_name": "Ankou (Level 95)"
+      }
+    },
+    {
+      "id": "565-7257",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.03"
+      },
+      "meta": {
+        "item_name": "Blood rune (Regular)",
+        "monster_name": "Ankou (Level 95)"
+      }
+    }
+  ]
+}

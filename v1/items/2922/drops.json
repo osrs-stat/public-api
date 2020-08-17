@@ -1,0 +1,84 @@
+{
+  "data": [
+    {
+      "id": "2922-453",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Yellow gloves",
+        "monster_name": "Crawling Hand (Level 12 (1))"
+      }
+    },
+    {
+      "id": "2922-448",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Yellow gloves",
+        "monster_name": "Crawling Hand (Level 8)"
+      }
+    },
+    {
+      "id": "2922-450",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Yellow gloves",
+        "monster_name": "Crawling Hand (Level 7)"
+      }
+    },
+    {
+      "id": "2922-7388",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Yellow gloves",
+        "monster_name": "Crushing hand"
+      }
+    },
+    {
+      "id": "2922-454",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Yellow gloves",
+        "monster_name": "Crawling Hand (Level 12 (2))"
+      }
+    }
+  ]
+}

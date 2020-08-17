@@ -1,0 +1,119 @@
+{
+  "data": {
+    "id": "244",
+    "type": "monster",
+    "attributes": {
+      "uuid": "8801ac98-79e2-43de-a020-097e02050243",
+      "name": "Baby red dragon (1)",
+      "members": true,
+      "release_date": "2005-01-17",
+      "examine": "Young but still dangerous.",
+      "combat_level_override": null,
+      "max_hit_override": null,
+      "target_types": [
+        "dragon"
+      ],
+      "classification_types": [
+        "red dragon"
+      ],
+      "poison": false,
+      "immune_poison": false,
+      "immune_venom": false,
+      "slayer_xp": 50.0,
+      "slayer_level": 1,
+      "slayer_masters": [
+        "konar",
+        "nieve",
+        "duradel"
+      ],
+      "icon_base64": null
+    },
+    "relationships": {
+      "combat_stat": {
+        "data": {
+          "id": "528260f6-45ed-4e89-8d24-5d29713a017c",
+          "type": "combat_stat"
+        }
+      },
+      "equip_stat": {
+        "data": {
+          "id": "c4909194-76b0-421b-82c8-47cffc4a1e46",
+          "type": "equip_stat"
+        }
+      },
+      "attack_stat": {
+        "data": {
+          "id": "259ad88e-f106-4da5-97cd-552736f9f459",
+          "type": "attack_stat"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Baby_red_dragon#1"
+    },
+    "meta": {
+      "incomplete": true
+    }
+  },
+  "included": [
+    {
+      "id": "259ad88e-f106-4da5-97cd-552736f9f459",
+      "type": "attack_stat",
+      "attributes": {
+        "attack_speed": 4,
+        "attack_type": "monster",
+        "special": null,
+        "stances": [
+          {
+            "name": "Monster slash",
+            "style": null,
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": null,
+            "combat_accuracy_stat": "attack_level",
+            "combat_damage_stat": "strength_level",
+            "equip_accuracy_stat": "slash_attack",
+            "equip_damage_stat": "slash_attack",
+            "target_equip_defense_stat": "slash_defense"
+          }
+        ]
+      }
+    },
+    {
+      "id": "528260f6-45ed-4e89-8d24-5d29713a017c",
+      "type": "monster_combat_stat",
+      "attributes": {
+        "hitpoints_level": 50,
+        "attack_level": 40,
+        "strength_level": 40,
+        "defense_level": 40,
+        "magic_level": 1,
+        "ranged_level": 1,
+        "prayer_level": 0
+      }
+    },
+    {
+      "id": "c4909194-76b0-421b-82c8-47cffc4a1e46",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 0,
+        "slash_attack": 0,
+        "crush_attack": 0,
+        "ranged_attack": 0,
+        "magic_attack": 0,
+        "stab_defense": 30,
+        "slash_defense": 50,
+        "crush_defense": 50,
+        "ranged_defense": 30,
+        "magic_defense": 40,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "id": "13471-6607",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.05"
+      },
+      "meta": {
+        "item_name": "Ensouled chaos druid head (Drop)",
+        "monster_name": "Elder Chaos druid"
+      }
+    },
+    {
+      "id": "13471-532",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.04"
+      },
+      "meta": {
+        "item_name": "Ensouled chaos druid head (Drop)",
+        "monster_name": "Chaos druid warrior"
+      }
+    },
+    {
+      "id": "13471-520",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0285714285714286"
+      },
+      "meta": {
+        "item_name": "Ensouled chaos druid head (Drop)",
+        "monster_name": "Chaos druid"
+      }
+    }
+  ]
+}

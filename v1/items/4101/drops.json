@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "id": "4101-412",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.001953125"
+      },
+      "meta": {
+        "item_name": "Mystic robe top (dark)",
+        "monster_name": "Gargoyle"
+      }
+    },
+    {
+      "id": "4101-7407",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.001953125"
+      },
+      "meta": {
+        "item_name": "Mystic robe top (dark)",
+        "monster_name": "Marble gargoyle"
+      }
+    }
+  ]
+}

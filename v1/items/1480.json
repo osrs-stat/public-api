@@ -1,0 +1,31 @@
+{
+  "data": {
+    "id": "1480",
+    "type": "item",
+    "attributes": {
+      "uuid": "f686b6ff-4b5e-461d-a0b0-53537362cf04",
+      "name": "Rock (elemental)",
+      "members": true,
+      "release_date": "2004-06-02",
+      "examine": "A chunk of rock.",
+      "tradeable": false,
+      "ge_tradeable": false,
+      "lowalch": 0,
+      "highalch": 0,
+      "is_equip": false,
+      "is_weapon": false,
+      "icon_base64": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABBUlEQVR4Xu2U0QfCUBSHt8ceeoyMuJLJTPYQkSLFKEkxFSWl6KGHiB6ih0h/98lZjq67jZptkfNxHnd8fvd3pmkMwzDMX6LDe36ODrt+Bbx2Cdx6URL7iaAO900NrgsbzlMLjhMTDiPTF1z2BMw6Imupl5A8stx+WIFBw8hKKihzW9XgMrfg5FX9pFBo7ZahZRfSlgrKqOnIQuOmAZbIpyUVLkPpqF1CIexS1ymCUcglLRUuQ+nQc1F/5HLjFeL3jhD+qJtjEC2D6dBzyUKYDgqhDPUoIRkkXOixdSKfi2To0hJMhwhKUTrydaky2J+E05FR/8SfTQrpvKHl3466h2EYhonBExsfKl0RTCtdAAAAAElFTkSuQmCC"
+    },
+    "relationships": {
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Rock_(elemental)"
+    },
+    "meta": {
+      "incomplete": false
+    }
+  },
+  "included": [
+
+  ]
+}

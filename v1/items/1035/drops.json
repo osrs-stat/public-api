@@ -1,0 +1,164 @@
+{
+  "data": [
+    {
+      "id": "1035-8997",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Zamorak monk top",
+        "monster_name": "Disciple of Iban"
+      }
+    },
+    {
+      "id": "1035-528",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.05"
+      },
+      "meta": {
+        "item_name": "Zamorak monk top",
+        "monster_name": "Monk of Zamorak (Level 17)"
+      }
+    },
+    {
+      "id": "1035-1025",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Zamorak monk top",
+        "monster_name": "Necromancer"
+      }
+    },
+    {
+      "id": "1035-529",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.05"
+      },
+      "meta": {
+        "item_name": "Zamorak monk top",
+        "monster_name": "Monk of Zamorak (Level 45)"
+      }
+    },
+    {
+      "id": "1035-527",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.05"
+      },
+      "meta": {
+        "item_name": "Zamorak monk top",
+        "monster_name": "Monk of Zamorak (Level 22)"
+      }
+    },
+    {
+      "id": "1035-8698",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.05"
+      },
+      "meta": {
+        "item_name": "Zamorak monk top",
+        "monster_name": "Monk of Zamorak (Level 23)"
+      }
+    },
+    {
+      "id": "1035-6619",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Zamorak monk top",
+        "monster_name": "Chaos Fanatic"
+      }
+    },
+    {
+      "id": "1035-6607",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00281888653981677"
+      },
+      "meta": {
+        "item_name": "Zamorak monk top",
+        "monster_name": "Elder Chaos druid"
+      }
+    },
+    {
+      "id": "1035-3486",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.05"
+      },
+      "meta": {
+        "item_name": "Zamorak monk top",
+        "monster_name": "Monk of Zamorak (Level 30)"
+      }
+    },
+    {
+      "id": "1035-2954",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Zamorak monk top",
+        "monster_name": "Zamorak wizard"
+      }
+    }
+  ]
+}

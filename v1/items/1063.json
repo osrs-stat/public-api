@@ -1,0 +1,75 @@
+{
+  "data": {
+    "id": "1063",
+    "type": "item",
+    "attributes": {
+      "uuid": "c5f74a4b-e9ef-4b7d-bf2a-3e6a33a7ef85",
+      "name": "Leather vambraces",
+      "members": false,
+      "release_date": "2004-03-29",
+      "examine": "Better than no armour!",
+      "tradeable": false,
+      "ge_tradeable": false,
+      "lowalch": 7,
+      "highalch": 10,
+      "is_equip": true,
+      "is_weapon": false,
+      "icon_base64": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB00lEQVR4Xu2U4UoCQRSFdx6gn4IEgohISISEERtKS1JYWEiERIg/gt7/ESbOTGf27mXIbTW3YA8cdnbFnW/vvWeSpFGjg8rY3LXL2LPTru332rbdOqobzNhZdmazydB5POrZ4eBYgB1cxi7uzu18NgpguKbjgataDdUy9unhwlmC4Qqzar8AJodWvtgDPT9eOkswGGsYkJP0JPL/SjLuKzkfnU5LwZkApMFgVhBm1XYAM+4F+DrMBWcDiQIYh5cgq+VVsISTVYRZxQpgxRQBjHAAQ8Vk2wjz+jIJlnAxaMD9AMyEeZBghGMr2RpuKIHWq2kAiwHj98Vtz84zpvJbeSDOA8Fo2c4YFDajN29ZAYS/AwRrXK/TzjYof87I4dQpktWT7YsBwe/rm/BsNiVA7lG366xJvuQrpAdTp0hCypcTijAEoiWAtKYQyoHkYEowfQ9zI4LpCqE96dgHYguAlk8ZKqATItOjn8MeJkkkmHaJisSUV0knhOnRz5b3fWdCQbotFWEoP6yx9DDWXCPCBMJaQu1Z/kSODSqdnyUmAJU8X6rKuCoRSCYG98W52HlWyipPDUA+NrNCe+TGe5iVsjIB6ICV2KYiRM0wXn8ColGj/6pPs1GApEFshxkAAAAASUVORK5CYII="
+    },
+    "relationships": {
+      "equip": {
+        "data": {
+          "id": "3c3d6192-0b75-45a7-9c2b-4ef7ddf7a215",
+          "type": "equip"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Leather_vambraces"
+    },
+    "meta": {
+      "incomplete": false
+    }
+  },
+  "included": [
+    {
+      "id": "3c3d6192-0b75-45a7-9c2b-4ef7ddf7a215",
+      "type": "equip",
+      "attributes": {
+        "slot": "gloves",
+        "passive_effect": null,
+        "requirements": {
+          "defense_level": 1
+        }
+      },
+      "relationships": {
+        "equip_stat": {
+          "data": {
+            "id": "2c91fb27-dcdc-48c0-a9ca-52e81e686328",
+            "type": "equip_stat"
+          }
+        }
+      }
+    },
+    {
+      "id": "2c91fb27-dcdc-48c0-a9ca-52e81e686328",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 0,
+        "slash_attack": 0,
+        "crush_attack": 0,
+        "ranged_attack": 4,
+        "magic_attack": 0,
+        "stab_defense": 2,
+        "slash_defense": 2,
+        "crush_defense": 1,
+        "ranged_defense": 0,
+        "magic_defense": 0,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

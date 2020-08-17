@@ -1,0 +1,116 @@
+{
+  "data": [
+    {
+      "id": "2162-6087",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.4296875"
+      },
+      "meta": {
+        "item_name": "King worm",
+        "monster_name": "Gnome woman (2)"
+      }
+    },
+    {
+      "id": "2162-6086",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.4296875"
+      },
+      "meta": {
+        "item_name": "King worm",
+        "monster_name": "Gnome woman (1)"
+      }
+    },
+    {
+      "id": "2162-6079",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.4296875"
+      },
+      "meta": {
+        "item_name": "King worm",
+        "monster_name": "Gnome child (Green)"
+      }
+    },
+    {
+      "id": "2162-6078",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.4296875"
+      },
+      "meta": {
+        "item_name": "King worm",
+        "monster_name": "Gnome child (Blue)"
+      }
+    },
+    {
+      "id": "2162-6077",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.4296875"
+      },
+      "meta": {
+        "item_name": "King worm",
+        "monster_name": "Gnome child (Normal)"
+      }
+    },
+    {
+      "id": "2162-5969",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.4296875"
+      },
+      "meta": {
+        "item_name": "King worm",
+        "monster_name": "Gnome (Level 1)"
+      }
+    },
+    {
+      "id": "2162-5968",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.4296875"
+      },
+      "meta": {
+        "item_name": "King worm",
+        "monster_name": "Gnome (Level 3)"
+      }
+    }
+  ]
+}

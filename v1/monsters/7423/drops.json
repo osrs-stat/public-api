@@ -1,0 +1,132 @@
+{
+  "data": [
+    {
+      "id": "995-7423",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 100,
+        "quantity_max": null,
+        "rarity": "0.8"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Zamorak mage (Level 82)"
+      }
+    },
+    {
+      "id": "526-7423",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Bones",
+        "monster_name": "Zamorak mage (Level 82)"
+      }
+    },
+    {
+      "id": "554-7423",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 7,
+        "quantity_max": null,
+        "rarity": "0.04"
+      },
+      "meta": {
+        "item_name": "Fire rune (Regular)",
+        "monster_name": "Zamorak mage (Level 82)"
+      }
+    },
+    {
+      "id": "555-7423",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 6,
+        "quantity_max": null,
+        "rarity": "0.04"
+      },
+      "meta": {
+        "item_name": "Water rune (Regular)",
+        "monster_name": "Zamorak mage (Level 82)"
+      }
+    },
+    {
+      "id": "556-7423",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.04"
+      },
+      "meta": {
+        "item_name": "Air rune (Regular)",
+        "monster_name": "Zamorak mage (Level 82)"
+      }
+    },
+    {
+      "id": "561-7423",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.04"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Zamorak mage (Level 82)"
+      }
+    },
+    {
+      "id": "563-7423",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.02"
+      },
+      "meta": {
+        "item_name": "Law rune",
+        "monster_name": "Zamorak mage (Level 82)"
+      }
+    },
+    {
+      "id": "565-7423",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.02"
+      },
+      "meta": {
+        "item_name": "Blood rune (Regular)",
+        "monster_name": "Zamorak mage (Level 82)"
+      }
+    }
+  ]
+}

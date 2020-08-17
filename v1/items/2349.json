@@ -1,0 +1,31 @@
+{
+  "data": {
+    "id": "2349",
+    "type": "item",
+    "attributes": {
+      "uuid": "7dbd950e-c8fb-4778-b713-abecd16c5082",
+      "name": "Bronze bar",
+      "members": false,
+      "release_date": "2001-01-04",
+      "examine": "It's a bar of bronze.",
+      "tradeable": false,
+      "ge_tradeable": false,
+      "lowalch": 3,
+      "highalch": 4,
+      "is_equip": false,
+      "is_weapon": false,
+      "icon_base64": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAA1ElEQVR4Xu3VMQrCMBTG8eYAji5OpTiJiLMHEARv4OL9LxFJS41+6etLXvOaDvnDt3RIfmRp09Rqtc1mbLhiGfu8dcEK4aYxuJVQcZjX/dRP+cXSML9z3zPj5BiEeZy4vJj349yDrm0rQQ2Yy3EfAKSYBSCPwS3BCEE0BocADiMAxWPmQBwmEpSGoUBZMTgE4JQwLmO7w+47hFE4JYzrHxSLU8K4aBCHU8C44kAULjNmzP8A8XJuCpghf1AaTgWDpeDUMRiHWxWDTeGKYbARsglMrUQfyRmIJ+4cubYAAAAASUVORK5CYII="
+    },
+    "relationships": {
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Bronze_bar"
+    },
+    "meta": {
+      "incomplete": false
+    }
+  },
+  "included": [
+
+  ]
+}

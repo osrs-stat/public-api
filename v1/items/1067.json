@@ -1,0 +1,75 @@
+{
+  "data": {
+    "id": "1067",
+    "type": "item",
+    "attributes": {
+      "uuid": "f9e6e83b-8689-4d40-be93-3f45ea1e927d",
+      "name": "Iron platelegs",
+      "members": false,
+      "release_date": "2001-01-04",
+      "examine": "These look pretty heavy.",
+      "tradeable": false,
+      "ge_tradeable": false,
+      "lowalch": 112,
+      "highalch": 168,
+      "is_equip": true,
+      "is_weapon": false,
+      "icon_base64": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABp0lEQVR4Xt2XX0sCQRTFZz6CD4EEC4vEEhKyhCJJkiSJSoZKZmD2kr31/V9vnFmOjpM97p3FCwM7A8P8OOfMnzXmPMrK6RalrGTGuJYELRKUlcV0Ks+jkTz2+3Lf7cptqyXXWeaA8jTVhLLyvlzK23wuL5OxjIdDeej15K7dlptmUy5qNW2VDkCvs5lT6WkwcCp18txBKapkZbteHwHROkBRqShAAIFlgAEYvpEnWqdkm93nhmEGANUJLVNQyTpFfCBA+BlS3ml/gbDdI279AgiKAIIWoQ/rAHTVaMQBQmYAA0UIhH40IAAABgA+UJok+kCwC/ZgcTSGOgIQqoCCIlj8sl53QBgDlHqovz+3slmt3MEIEASb9xqVIlQ4u4Sy8rPbOSie2LhMMfb1sXF9hJ0KqakEdfwcAc4fU7WMdvlAGINlUEcdiBdrJYEQaJxDGPOBeDiGs0sou38HcYcR8pRCCipZB0MgPsa47UOgcHYJVTkgVAGFJwgOQfajAkGR/4AU88MqgHB3EYAPfR8onFViVQ4IdfiXLxY/7kcAMoYLc/Gwf1b1C4y++HiTYjaXAAAAAElFTkSuQmCC"
+    },
+    "relationships": {
+      "equip": {
+        "data": {
+          "id": "b46a77ce-622f-490f-8bba-2a46f0b1d293",
+          "type": "equip"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Iron_platelegs"
+    },
+    "meta": {
+      "incomplete": false
+    }
+  },
+  "included": [
+    {
+      "id": "b46a77ce-622f-490f-8bba-2a46f0b1d293",
+      "type": "equip",
+      "attributes": {
+        "slot": "legs",
+        "passive_effect": null,
+        "requirements": {
+          "defense_level": 1
+        }
+      },
+      "relationships": {
+        "equip_stat": {
+          "data": {
+            "id": "ee0e0af5-c1e0-4c2b-b6ac-7c3014bc6fdd",
+            "type": "equip_stat"
+          }
+        }
+      }
+    },
+    {
+      "id": "ee0e0af5-c1e0-4c2b-b6ac-7c3014bc6fdd",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 0,
+        "slash_attack": 0,
+        "crush_attack": 0,
+        "ranged_attack": -7,
+        "magic_attack": -21,
+        "stab_defense": 11,
+        "slash_defense": 10,
+        "crush_defense": 10,
+        "ranged_defense": 10,
+        "magic_defense": -4,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

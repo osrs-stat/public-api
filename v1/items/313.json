@@ -1,0 +1,31 @@
+{
+  "data": {
+    "id": "313",
+    "type": "item",
+    "attributes": {
+      "uuid": "ac56ce5f-74dc-46cb-970d-9f2a9dc2fa15",
+      "name": "Fishing bait",
+      "members": false,
+      "release_date": "2001-06-11",
+      "examine": "For use with a fishing rod.",
+      "tradeable": false,
+      "ge_tradeable": false,
+      "lowalch": 1,
+      "highalch": 1,
+      "is_equip": false,
+      "is_weapon": false,
+      "icon_base64": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAAwElEQVR4Xu2VwQ2AIAxFdQuPjOCsjuRiGCREgUK/AtVDX8IFG/tsoU6ToiiO2ebrM2a7b0u2fifl9lZjpKSotsQtczJCQlc1UqkgISgT8FLCbeG4pNInNGhcE+hZeSrfACrTscU9Bl63m0fPlzQKgZZ59a5R8+V+rh6K0fOFewmXKK5+PZaldmu8CJYonmcNlS8lTPeRREjMSa3ktasciwCJgNGRfSlFuQLUXgf4/9WgxCWQKolTbstn/EpGUZQBHEd66mJ+aaKLAAAAAElFTkSuQmCC"
+    },
+    "relationships": {
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Fishing_bait"
+    },
+    "meta": {
+      "incomplete": false
+    }
+  },
+  "included": [
+
+  ]
+}

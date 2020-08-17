@@ -1,0 +1,100 @@
+{
+  "data": [
+    {
+      "id": "1377-8061",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0133333333333333"
+      },
+      "meta": {
+        "item_name": "Dragon battleaxe",
+        "monster_name": "Vorkath (Post-quest)"
+      }
+    },
+    {
+      "id": "1377-8060",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0133333333333333"
+      },
+      "meta": {
+        "item_name": "Dragon battleaxe",
+        "monster_name": "Vorkath (Dragon Slayer II)"
+      }
+    },
+    {
+      "id": "1377-8621",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0198019801980198"
+      },
+      "meta": {
+        "item_name": "Dragon battleaxe",
+        "monster_name": "Alchemical Hydra (Two heads)"
+      }
+    },
+    {
+      "id": "1377-8618",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0198019801980198"
+      },
+      "meta": {
+        "item_name": "Dragon battleaxe",
+        "monster_name": "Alchemical Hydra (Three heads)"
+      }
+    },
+    {
+      "id": "1377-8617",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0198019801980198"
+      },
+      "meta": {
+        "item_name": "Dragon battleaxe",
+        "monster_name": "Alchemical Hydra (Four heads)"
+      }
+    },
+    {
+      "id": "1377-8615",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0198019801980198"
+      },
+      "meta": {
+        "item_name": "Dragon battleaxe",
+        "monster_name": "Alchemical Hydra (Five heads)"
+      }
+    }
+  ]
+}

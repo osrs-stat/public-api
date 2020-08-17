@@ -1,0 +1,148 @@
+{
+  "data": [
+    {
+      "id": "223-481",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Red spiders' eggs",
+        "monster_name": "Cave bug (Level 6)"
+      }
+    },
+    {
+      "id": "223-7389",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Red spiders' eggs",
+        "monster_name": "Chasm Crawler"
+      }
+    },
+    {
+      "id": "223-481",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Red spiders' eggs",
+        "monster_name": "Cave bug (Level 6)"
+      }
+    },
+    {
+      "id": "223-483",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Red spiders' eggs",
+        "monster_name": "Cave bug (Level 96)"
+      }
+    },
+    {
+      "id": "223-483",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Red spiders' eggs",
+        "monster_name": "Cave bug (Level 96)"
+      }
+    },
+    {
+      "id": "223-3602",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 3,
+        "quantity_max": 6,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Red spiders' eggs",
+        "monster_name": "Spidine"
+      }
+    },
+    {
+      "id": "223-406",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Red spiders' eggs",
+        "monster_name": "Cave crawler"
+      }
+    },
+    {
+      "id": "223-6504",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 500,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Red spiders' eggs",
+        "monster_name": "Venenatis"
+      }
+    },
+    {
+      "id": "223-8703",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 3,
+        "quantity_max": 5,
+        "rarity": "0.08"
+      },
+      "meta": {
+        "item_name": "Red spiders' eggs",
+        "monster_name": "Temple Spider"
+      }
+    }
+  ]
+}

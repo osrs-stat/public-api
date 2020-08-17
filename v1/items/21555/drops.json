@@ -1,0 +1,212 @@
+{
+  "data": [
+    {
+      "id": "21555-7806",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": 32,
+        "rarity": "0.617142857142857"
+      },
+      "meta": {
+        "item_name": "Numulite",
+        "monster_name": "Deranged archaeologist"
+      }
+    },
+    {
+      "id": "21555-7799",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.0625"
+      },
+      "meta": {
+        "item_name": "Numulite",
+        "monster_name": "Ammonite Crab"
+      }
+    },
+    {
+      "id": "21555-7797",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 7,
+        "quantity_max": 19,
+        "rarity": "0.36"
+      },
+      "meta": {
+        "item_name": "Numulite",
+        "monster_name": "Ancient Zygomite"
+      }
+    },
+    {
+      "id": "21555-7799",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": 14,
+        "rarity": "0.154285714285714"
+      },
+      "meta": {
+        "item_name": "Numulite",
+        "monster_name": "Ammonite Crab"
+      }
+    },
+    {
+      "id": "21555-7799",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 4,
+        "quantity_max": null,
+        "rarity": "0.2265625"
+      },
+      "meta": {
+        "item_name": "Numulite",
+        "monster_name": "Ammonite Crab"
+      }
+    },
+    {
+      "id": "21555-7792",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 4,
+        "quantity_max": 25,
+        "rarity": "0.526315789473684"
+      },
+      "meta": {
+        "item_name": "Numulite",
+        "monster_name": "Long-tailed Wyvern"
+      }
+    },
+    {
+      "id": "21555-7793",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 4,
+        "quantity_max": 25,
+        "rarity": "0.526315789473684"
+      },
+      "meta": {
+        "item_name": "Numulite",
+        "monster_name": "Taloned Wyvern"
+      }
+    },
+    {
+      "id": "21555-7794",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 4,
+        "quantity_max": 25,
+        "rarity": "0.526315789473684"
+      },
+      "meta": {
+        "item_name": "Numulite",
+        "monster_name": "Spitting Wyvern"
+      }
+    },
+    {
+      "id": "21555-7795",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": 24,
+        "rarity": "0.617142857142857"
+      },
+      "meta": {
+        "item_name": "Numulite",
+        "monster_name": "Ancient Wyvern"
+      }
+    },
+    {
+      "id": "21555-7796",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": 14,
+        "rarity": "0.257142857142857"
+      },
+      "meta": {
+        "item_name": "Numulite",
+        "monster_name": "Lobstrosity"
+      }
+    },
+    {
+      "id": "21555-7804",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": 14,
+        "rarity": "0.257142857142857"
+      },
+      "meta": {
+        "item_name": "Numulite",
+        "monster_name": "Tar Monster"
+      }
+    },
+    {
+      "id": "21555-7802",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 14,
+        "rarity": "0.154285714285714"
+      },
+      "meta": {
+        "item_name": "Numulite",
+        "monster_name": "Hoop Snake"
+      }
+    },
+    {
+      "id": "21555-7799",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 8,
+        "quantity_max": null,
+        "rarity": "0.046875"
+      },
+      "meta": {
+        "item_name": "Numulite",
+        "monster_name": "Ammonite Crab"
+      }
+    }
+  ]
+}

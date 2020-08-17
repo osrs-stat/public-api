@@ -1,0 +1,73 @@
+{
+  "data": {
+    "id": "4302",
+    "type": "item",
+    "attributes": {
+      "uuid": "26c1ce5d-0117-496f-9bde-0722d14db828",
+      "name": "Ham hood",
+      "members": true,
+      "release_date": "2005-02-22",
+      "examine": "Light-weight head protection and eye shield.",
+      "tradeable": false,
+      "ge_tradeable": false,
+      "lowalch": 30,
+      "highalch": 45,
+      "is_equip": true,
+      "is_weapon": false,
+      "icon_base64": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACG0lEQVR4Xu3XsUvDQBQG8Nx4ww0ZCo4dxMFBRARBCoKgKFRQEREqolKEDoKDg4ODg+AgCA6C4CAIguAfefIlfPT15RJqc+nUg4e1XPN+ffeSuybJbEQfxlfHVIfxD27P37uuv3O7/tZt+xu35a/dph/YDd+3nWmiTClEBuYtt9tNo4x/cocjkLI4tqvTqJLxj24/w1QFwD271nSVjH9Jj7Pl0gCNwV/0UdcuNVkl45/To2w5NIIQYhgHdqWpKhn/lvYKCSUkBAK+k8w3UaW8d3R1Qhg2NeeglxaSuZiovHd0oiqMnrdjF2MuXf7cGbc6eAZpFB+U0UA6QRUmBEJEApksoU4gMWj2j/TMf6WX/rvVL0XhdYQ+ClcHS4gmR29J0E/rKkMRpj8boUpmBIEk+B+vsYVUgRB4D0EcrlOzSkMQNlNcmLhxQcREqlIO4s7Ob4mjB0Cv6UkBJFF4jxg2f22QvpOAAwjbCEDv6WkpCCFvgpogkyUKgdDQEvSZXpSC9OejgHgxLl8IhOQESZQ+yNUCIREvJBu6DPTbGoygEI2CsAWwoUMgIgjDeSgSKD9uoC+wbBKF6vCWLwMxJARnoxrno7w6BAEnUfIZJEEMicHxQ8bEIF6cIAAAAQrLJR+KxMtbHfPO7XohJgRh5CgkQxUIQg+xF0IBDDfYUNT8zVZMyMC3DIWeF4rh3AmGTjiaPDz0vFDoz8zGf8cfCoCmGvMIj2sAAAAASUVORK5CYII="
+    },
+    "relationships": {
+      "equip": {
+        "data": {
+          "id": "e7793c04-54f9-4d9a-bb86-d4c366b37f4d",
+          "type": "equip"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Ham_hood"
+    },
+    "meta": {
+      "incomplete": false
+    }
+  },
+  "included": [
+    {
+      "id": "e7793c04-54f9-4d9a-bb86-d4c366b37f4d",
+      "type": "equip",
+      "attributes": {
+        "slot": "head",
+        "passive_effect": null,
+        "requirements": null
+      },
+      "relationships": {
+        "equip_stat": {
+          "data": {
+            "id": "1c17320a-d725-4f9a-8971-8539f52178a5",
+            "type": "equip_stat"
+          }
+        }
+      }
+    },
+    {
+      "id": "1c17320a-d725-4f9a-8971-8539f52178a5",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 0,
+        "slash_attack": 0,
+        "crush_attack": 0,
+        "ranged_attack": 0,
+        "magic_attack": 0,
+        "stab_defense": 0,
+        "slash_defense": 1,
+        "crush_defense": 2,
+        "ranged_defense": 1,
+        "magic_defense": 0,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

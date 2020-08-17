@@ -1,0 +1,118 @@
+{
+  "data": {
+    "id": "8070",
+    "type": "monster",
+    "attributes": {
+      "uuid": "e5ed5b97-2367-465a-b3e6-78ea8a68f5aa",
+      "name": "Skeleton (Shayzien Crypts) (Melee)",
+      "members": true,
+      "release_date": "2018-01-04",
+      "examine": "It's got a bone to pick with you.",
+      "combat_level_override": 132,
+      "max_hit_override": null,
+      "target_types": [
+        "undead"
+      ],
+      "classification_types": [
+        "skeleton"
+      ],
+      "poison": false,
+      "immune_poison": false,
+      "immune_venom": false,
+      "slayer_xp": 54.0,
+      "slayer_level": 1,
+      "slayer_masters": [
+        "turael",
+        "mazchna"
+      ],
+      "icon_base64": null
+    },
+    "relationships": {
+      "combat_stat": {
+        "data": {
+          "id": "9ef47fb4-feba-4d35-93ae-455562849600",
+          "type": "combat_stat"
+        }
+      },
+      "equip_stat": {
+        "data": {
+          "id": "8bcaeefd-3ce4-4ef3-9833-736659d0c181",
+          "type": "equip_stat"
+        }
+      },
+      "attack_stat": {
+        "data": {
+          "id": "0ebb0295-dc7c-4e76-abd1-b91a32339eaa",
+          "type": "attack_stat"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Skeleton_(Shayzien_Crypts)#Melee"
+    },
+    "meta": {
+      "incomplete": true
+    }
+  },
+  "included": [
+    {
+      "id": "0ebb0295-dc7c-4e76-abd1-b91a32339eaa",
+      "type": "attack_stat",
+      "attributes": {
+        "attack_speed": 5,
+        "attack_type": "monster",
+        "special": null,
+        "stances": [
+          {
+            "name": "Monster slash",
+            "style": null,
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": null,
+            "combat_accuracy_stat": "attack_level",
+            "combat_damage_stat": "strength_level",
+            "equip_accuracy_stat": "slash_attack",
+            "equip_damage_stat": "slash_attack",
+            "target_equip_defense_stat": "slash_defense"
+          }
+        ]
+      }
+    },
+    {
+      "id": "9ef47fb4-feba-4d35-93ae-455562849600",
+      "type": "monster_combat_stat",
+      "attributes": {
+        "hitpoints_level": 54,
+        "attack_level": 160,
+        "strength_level": 180,
+        "defense_level": 62,
+        "magic_level": 1,
+        "ranged_level": 1,
+        "prayer_level": 0
+      }
+    },
+    {
+      "id": "8bcaeefd-3ce4-4ef3-9833-736659d0c181",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 30,
+        "slash_attack": 30,
+        "crush_attack": 30,
+        "ranged_attack": 0,
+        "magic_attack": 0,
+        "stab_defense": 25,
+        "slash_defense": 20,
+        "crush_defense": 25,
+        "ranged_defense": 30,
+        "magic_defense": 10,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

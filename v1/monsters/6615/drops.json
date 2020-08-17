@@ -1,0 +1,564 @@
+{
+  "data": [
+    {
+      "id": "4587-6615",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Dragon scimitar",
+        "monster_name": "Scorpia"
+      }
+    },
+    {
+      "id": "11933-6615",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00390625"
+      },
+      "meta": {
+        "item_name": "Malediction shard 3",
+        "monster_name": "Scorpia"
+      }
+    },
+    {
+      "id": "385-6615",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0625"
+      },
+      "meta": {
+        "item_name": "Shark",
+        "monster_name": "Scorpia"
+      }
+    },
+    {
+      "id": "2434-6615",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0625"
+      },
+      "meta": {
+        "item_name": "Prayer potion (4 dose)",
+        "monster_name": "Scorpia"
+      }
+    },
+    {
+      "id": "7198-6615",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.0625"
+      },
+      "meta": {
+        "item_name": "Admiral pie (Full)",
+        "monster_name": "Scorpia"
+      }
+    },
+    {
+      "id": "1623-6615",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 4,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Uncut sapphire",
+        "monster_name": "Scorpia"
+      }
+    },
+    {
+      "id": "1621-6615",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 6,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Uncut emerald",
+        "monster_name": "Scorpia"
+      }
+    },
+    {
+      "id": "6016-6615",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.046875"
+      },
+      "meta": {
+        "item_name": "Cactus spine",
+        "monster_name": "Scorpia"
+      }
+    },
+    {
+      "id": "1783-6615",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 25,
+        "quantity_max": null,
+        "rarity": "0.046875"
+      },
+      "meta": {
+        "item_name": "Bucket of sand",
+        "monster_name": "Scorpia"
+      }
+    },
+    {
+      "id": "213-6615",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 4,
+        "quantity_max": null,
+        "rarity": "0.0625"
+      },
+      "meta": {
+        "item_name": "Grimy kwuarm",
+        "monster_name": "Scorpia"
+      }
+    },
+    {
+      "id": "1347-6615",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Rune warhammer",
+        "monster_name": "Scorpia"
+      }
+    },
+    {
+      "id": "11930-6615",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00390625"
+      },
+      "meta": {
+        "item_name": "Odium shard 3",
+        "monster_name": "Scorpia"
+      }
+    },
+    {
+      "id": "1247-6615",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Rune spear (Unpoisoned)",
+        "monster_name": "Scorpia"
+      }
+    },
+    {
+      "id": "1319-6615",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Rune 2h sword",
+        "monster_name": "Scorpia"
+      }
+    },
+    {
+      "id": "1275-6615",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Rune pickaxe (Regular)",
+        "monster_name": "Scorpia"
+      }
+    },
+    {
+      "id": "2297-6615",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 8,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Anchovy pizza (Full)",
+        "monster_name": "Scorpia"
+      }
+    },
+    {
+      "id": "2448-6615",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Superantipoison (4 dose)",
+        "monster_name": "Scorpia"
+      }
+    },
+    {
+      "id": "11090-6615",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0546875"
+      },
+      "meta": {
+        "item_name": "Phoenix necklace",
+        "monster_name": "Scorpia"
+      }
+    },
+    {
+      "id": "4696-6615",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 30,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Dust rune",
+        "monster_name": "Scorpia"
+      }
+    },
+    {
+      "id": "5940-6615",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Weapon poison(++)",
+        "monster_name": "Scorpia"
+      }
+    },
+    {
+      "id": "11941-6615",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Scorpia"
+      }
+    },
+    {
+      "id": "13459-6615",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0555555555555556"
+      },
+      "meta": {
+        "item_name": "Ensouled scorpion head (Item)",
+        "monster_name": "Scorpia"
+      }
+    },
+    {
+      "id": "1289-6615",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Rune sword",
+        "monster_name": "Scorpia"
+      }
+    },
+    {
+      "id": "23083-6615",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0133333333333333"
+      },
+      "meta": {
+        "item_name": "Brimstone key",
+        "monster_name": "Scorpia"
+      }
+    },
+    {
+      "id": "2722-6615",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.01"
+      },
+      "meta": {
+        "item_name": "Clue scroll (hard)",
+        "monster_name": "Scorpia"
+      }
+    },
+    {
+      "id": "13181-6615",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00049609326553392"
+      },
+      "meta": {
+        "item_name": "Scorpia's offspring",
+        "monster_name": "Scorpia"
+      }
+    },
+    {
+      "id": "6685-6615",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.2"
+      },
+      "meta": {
+        "item_name": "Saradomin brew (4 dose)",
+        "monster_name": "Scorpia"
+      }
+    },
+    {
+      "id": "6691-6615",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.2"
+      },
+      "meta": {
+        "item_name": "Saradomin brew (1 dose)",
+        "monster_name": "Scorpia"
+      }
+    },
+    {
+      "id": "11930-6615",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Odium shard 3",
+        "monster_name": "Scorpia"
+      }
+    },
+    {
+      "id": "11933-6615",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Malediction shard 3",
+        "monster_name": "Scorpia"
+      }
+    },
+    {
+      "id": "23490-6615",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0138888888888889"
+      },
+      "meta": {
+        "item_name": "Larran's key",
+        "monster_name": "Scorpia"
+      }
+    },
+    {
+      "id": "1113-6615",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Rune chainbody",
+        "monster_name": "Scorpia"
+      }
+    },
+    {
+      "id": "21257-6615",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00625"
+      },
+      "meta": {
+        "item_name": "Slayer's enchantment",
+        "monster_name": "Scorpia"
+      }
+    },
+    {
+      "id": "1333-6615",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Rune scimitar",
+        "monster_name": "Scorpia"
+      }
+    },
+    {
+      "id": "995-6615",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 499,
+        "quantity_max": 3998,
+        "rarity": "0.140625"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Scorpia"
+      }
+    }
+  ]
+}

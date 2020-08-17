@@ -1,0 +1,420 @@
+{
+  "data": [
+    {
+      "id": "451-9049",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 3,
+        "quantity_max": 26,
+        "rarity": "0.0555555555555556"
+      },
+      "meta": {
+        "item_name": "Runite ore",
+        "monster_name": "Zalcano"
+      }
+    },
+    {
+      "id": "449-9049",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 63,
+        "quantity_max": 289,
+        "rarity": "0.0555555555555556"
+      },
+      "meta": {
+        "item_name": "Adamantite ore",
+        "monster_name": "Zalcano"
+      }
+    },
+    {
+      "id": "447-9049",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 56,
+        "quantity_max": 387,
+        "rarity": "0.0555555555555556"
+      },
+      "meta": {
+        "item_name": "Mithril ore",
+        "monster_name": "Zalcano"
+      }
+    },
+    {
+      "id": "453-9049",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 169,
+        "quantity_max": 815,
+        "rarity": "0.0277777777777778"
+      },
+      "meta": {
+        "item_name": "Coal",
+        "monster_name": "Zalcano"
+      }
+    },
+    {
+      "id": "442-9049",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 102,
+        "quantity_max": 800,
+        "rarity": "0.0833333333333333"
+      },
+      "meta": {
+        "item_name": "Silver ore",
+        "monster_name": "Zalcano"
+      }
+    },
+    {
+      "id": "561-9049",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 842,
+        "rarity": "0.0277777777777778"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Zalcano"
+      }
+    },
+    {
+      "id": "7936-9049",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1174,
+        "quantity_max": 4422,
+        "rarity": "0.0277777777777778"
+      },
+      "meta": {
+        "item_name": "Pure essence",
+        "monster_name": "Zalcano"
+      }
+    },
+    {
+      "id": "563-9049",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 177,
+        "quantity_max": 770,
+        "rarity": "0.0277777777777778"
+      },
+      "meta": {
+        "item_name": "Law rune",
+        "monster_name": "Zalcano"
+      }
+    },
+    {
+      "id": "560-9049",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 201,
+        "quantity_max": 830,
+        "rarity": "0.0277777777777778"
+      },
+      "meta": {
+        "item_name": "Death rune (Regular)",
+        "monster_name": "Zalcano"
+      }
+    },
+    {
+      "id": "564-9049",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 304,
+        "quantity_max": 926,
+        "rarity": "0.0277777777777778"
+      },
+      "meta": {
+        "item_name": "Cosmic rune",
+        "monster_name": "Zalcano"
+      }
+    },
+    {
+      "id": "565-9049",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 95,
+        "quantity_max": 480,
+        "rarity": "0.0277777777777778"
+      },
+      "meta": {
+        "item_name": "Blood rune (Regular)",
+        "monster_name": "Zalcano"
+      }
+    },
+    {
+      "id": "6571-9049",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000125"
+      },
+      "meta": {
+        "item_name": "Uncut onyx",
+        "monster_name": "Zalcano"
+      }
+    },
+    {
+      "id": "592-9049",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Ashes",
+        "monster_name": "Zalcano"
+      }
+    },
+    {
+      "id": "23962-9049",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Crystal shard",
+        "monster_name": "Zalcano"
+      }
+    },
+    {
+      "id": "566-9049",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 57,
+        "quantity_max": 388,
+        "rarity": "0.0277777777777778"
+      },
+      "meta": {
+        "item_name": "Soul rune",
+        "monster_name": "Zalcano"
+      }
+    },
+    {
+      "id": "23953-9049",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.005"
+      },
+      "meta": {
+        "item_name": "Crystal tool seed",
+        "monster_name": "Zalcano"
+      }
+    },
+    {
+      "id": "9194-9049",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 4,
+        "quantity_max": 38,
+        "rarity": "0.0555555555555556"
+      },
+      "meta": {
+        "item_name": "Onyx bolt tips",
+        "monster_name": "Zalcano"
+      }
+    },
+    {
+      "id": "1631-9049",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 1,
+        "quantity_max": 11,
+        "rarity": "0.0555555555555556"
+      },
+      "meta": {
+        "item_name": "Uncut dragonstone",
+        "monster_name": "Zalcano"
+      }
+    },
+    {
+      "id": "1617-9049",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 2,
+        "quantity_max": 19,
+        "rarity": "0.0555555555555556"
+      },
+      "meta": {
+        "item_name": "Uncut diamond",
+        "monster_name": "Zalcano"
+      }
+    },
+    {
+      "id": "2363-9049",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 3,
+        "quantity_max": 23,
+        "rarity": "0.0555555555555556"
+      },
+      "meta": {
+        "item_name": "Runite bar",
+        "monster_name": "Zalcano"
+      }
+    },
+    {
+      "id": "23908-9049",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00133333333333333"
+      },
+      "meta": {
+        "item_name": "Zalcano shard",
+        "monster_name": "Zalcano"
+      }
+    },
+    {
+      "id": "23760-9049",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000444444444444444"
+      },
+      "meta": {
+        "item_name": "Smolcano",
+        "monster_name": "Zalcano"
+      }
+    },
+    {
+      "id": "2361-9049",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 17,
+        "quantity_max": 103,
+        "rarity": "0.0555555555555556"
+      },
+      "meta": {
+        "item_name": "Adamantite bar",
+        "monster_name": "Zalcano"
+      }
+    },
+    {
+      "id": "2359-9049",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 75,
+        "quantity_max": 459,
+        "rarity": "0.0833333333333333"
+      },
+      "meta": {
+        "item_name": "Mithril bar",
+        "monster_name": "Zalcano"
+      }
+    },
+    {
+      "id": "2353-9049",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 78,
+        "quantity_max": 534,
+        "rarity": "0.0833333333333333"
+      },
+      "meta": {
+        "item_name": "Steel bar",
+        "monster_name": "Zalcano"
+      }
+    },
+    {
+      "id": "444-9049",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 129,
+        "quantity_max": 721,
+        "rarity": "0.0833333333333333"
+      },
+      "meta": {
+        "item_name": "Gold ore",
+        "monster_name": "Zalcano"
+      }
+    }
+  ]
+}

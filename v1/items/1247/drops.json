@@ -1,0 +1,132 @@
+{
+  "data": [
+    {
+      "id": "1247-9293",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0192307692307692"
+      },
+      "meta": {
+        "item_name": "Rune spear (Unpoisoned)",
+        "monster_name": "Basilisk Knight"
+      }
+    },
+    {
+      "id": "1247-9258",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0192307692307692"
+      },
+      "meta": {
+        "item_name": "Rune spear (Unpoisoned)",
+        "monster_name": "Basilisk Sentinel"
+      }
+    },
+    {
+      "id": "1247-6587",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Rune spear (Unpoisoned)",
+        "monster_name": "Armadylian guard"
+      }
+    },
+    {
+      "id": "1247-2919",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Rune spear (Unpoisoned)",
+        "monster_name": "Mithril dragon"
+      }
+    },
+    {
+      "id": "1247-6588",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Rune spear (Unpoisoned)",
+        "monster_name": "Bandosian guard"
+      }
+    },
+    {
+      "id": "1247-6615",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Rune spear (Unpoisoned)",
+        "monster_name": "Scorpia"
+      }
+    },
+    {
+      "id": "1247-7274",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.078125"
+      },
+      "meta": {
+        "item_name": "Rune spear (Unpoisoned)",
+        "monster_name": "Brutal red dragon"
+      }
+    },
+    {
+      "id": "1247-7275",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.078125"
+      },
+      "meta": {
+        "item_name": "Rune spear (Unpoisoned)",
+        "monster_name": "Brutal black dragon"
+      }
+    }
+  ]
+}

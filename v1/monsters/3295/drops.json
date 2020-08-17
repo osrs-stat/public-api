@@ -1,0 +1,132 @@
+{
+  "data": [
+    {
+      "id": "561-3295",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Hero"
+      }
+    },
+    {
+      "id": "1601-3295",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Diamond",
+        "monster_name": "Hero"
+      }
+    },
+    {
+      "id": "569-3295",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Fire orb",
+        "monster_name": "Hero"
+      }
+    },
+    {
+      "id": "444-3295",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Gold ore",
+        "monster_name": "Hero"
+      }
+    },
+    {
+      "id": "560-3295",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.0625"
+      },
+      "meta": {
+        "item_name": "Death rune (Regular)",
+        "monster_name": "Hero"
+      }
+    },
+    {
+      "id": "526-3295",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Bones",
+        "monster_name": "Hero"
+      }
+    },
+    {
+      "id": "1993-3295",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.046875"
+      },
+      "meta": {
+        "item_name": "Jug of wine",
+        "monster_name": "Hero"
+      }
+    },
+    {
+      "id": "995-3295",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 200,
+        "quantity_max": 300,
+        "rarity": "0.8203125"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Hero"
+      }
+    }
+  ]
+}

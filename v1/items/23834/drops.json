@@ -1,0 +1,132 @@
+{
+  "data": [
+    {
+      "id": "23834-9031",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.125"
+      },
+      "meta": {
+        "item_name": "Weapon frame",
+        "monster_name": "Crystalline Wolf"
+      }
+    },
+    {
+      "id": "23834-9030",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.125"
+      },
+      "meta": {
+        "item_name": "Weapon frame",
+        "monster_name": "Crystalline Scorpion"
+      }
+    },
+    {
+      "id": "23834-9029",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.125"
+      },
+      "meta": {
+        "item_name": "Weapon frame",
+        "monster_name": "Crystalline Unicorn"
+      }
+    },
+    {
+      "id": "23834-9027",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.125"
+      },
+      "meta": {
+        "item_name": "Weapon frame",
+        "monster_name": "Crystalline Spider"
+      }
+    },
+    {
+      "id": "23834-9026",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.125"
+      },
+      "meta": {
+        "item_name": "Weapon frame",
+        "monster_name": "Crystalline Rat"
+      }
+    },
+    {
+      "id": "23834-9034",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Weapon frame",
+        "monster_name": "Crystalline Dark Beast"
+      }
+    },
+    {
+      "id": "23834-9033",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Weapon frame",
+        "monster_name": "Crystalline Dragon"
+      }
+    },
+    {
+      "id": "23834-9032",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Weapon frame",
+        "monster_name": "Crystalline Bear"
+      }
+    }
+  ]
+}

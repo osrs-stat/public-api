@@ -1,0 +1,116 @@
+{
+  "data": [
+    {
+      "id": "22374-8736",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00666666666666667"
+      },
+      "meta": {
+        "item_name": "Mossy key",
+        "monster_name": "Moss giant (Level 84)"
+      }
+    },
+    {
+      "id": "22374-8195",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0625"
+      },
+      "meta": {
+        "item_name": "Mossy key",
+        "monster_name": "Bryophyta"
+      }
+    },
+    {
+      "id": "22374-3851",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00833333333333333"
+      },
+      "meta": {
+        "item_name": "Mossy key",
+        "monster_name": "Moss giant (Level 48)"
+      }
+    },
+    {
+      "id": "22374-8736",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00833333333333333"
+      },
+      "meta": {
+        "item_name": "Mossy key",
+        "monster_name": "Moss giant (Level 84)"
+      }
+    },
+    {
+      "id": "22374-2090",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00833333333333333"
+      },
+      "meta": {
+        "item_name": "Mossy key",
+        "monster_name": "Moss giant (Level 42)"
+      }
+    },
+    {
+      "id": "22374-2090",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00666666666666667"
+      },
+      "meta": {
+        "item_name": "Mossy key",
+        "monster_name": "Moss giant (Level 42)"
+      }
+    },
+    {
+      "id": "22374-3851",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00666666666666667"
+      },
+      "meta": {
+        "item_name": "Mossy key",
+        "monster_name": "Moss giant (Level 48)"
+      }
+    }
+  ]
+}

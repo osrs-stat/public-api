@@ -1,0 +1,132 @@
+{
+  "data": [
+    {
+      "id": "20754-2235",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Giant key",
+        "monster_name": "Cyclops (Level 81)"
+      }
+    },
+    {
+      "id": "20754-4067",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Giant key",
+        "monster_name": "Black Knight Titan (Normal)"
+      }
+    },
+    {
+      "id": "20754-6299",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Giant key",
+        "monster_name": "Black Knight Titan (Hard)"
+      }
+    },
+    {
+      "id": "20754-7416",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0625"
+      },
+      "meta": {
+        "item_name": "Giant key",
+        "monster_name": "Obor"
+      }
+    },
+    {
+      "id": "20754-2137",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Giant key",
+        "monster_name": "Cyclops (Level 106)"
+      }
+    },
+    {
+      "id": "20754-2098",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Giant key",
+        "monster_name": "Hill Giant"
+      }
+    },
+    {
+      "id": "20754-2097",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Giant key",
+        "monster_name": "Cyclops (Level 56)"
+      }
+    },
+    {
+      "id": "20754-2464",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Giant key",
+        "monster_name": "Cyclops (Level 76)"
+      }
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "data": [
+    {
+      "id": "157-3129",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.062992125984252"
+      },
+      "meta": {
+        "item_name": "Super strength (3 dose)",
+        "monster_name": "K'ril Tsutsaroth"
+      }
+    },
+    {
+      "id": "157-2218",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015748031496063"
+      },
+      "meta": {
+        "item_name": "Super strength (3 dose)",
+        "monster_name": "Sergeant Grimspike"
+      }
+    },
+    {
+      "id": "157-2217",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015748031496063"
+      },
+      "meta": {
+        "item_name": "Super strength (3 dose)",
+        "monster_name": "Sergeant Steelwill"
+      }
+    },
+    {
+      "id": "157-2216",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015748031496063"
+      },
+      "meta": {
+        "item_name": "Super strength (3 dose)",
+        "monster_name": "Sergeant Strongstack"
+      }
+    },
+    {
+      "id": "157-3132",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015748031496063"
+      },
+      "meta": {
+        "item_name": "Super strength (3 dose)",
+        "monster_name": "Balfrug Kreeyath"
+      }
+    },
+    {
+      "id": "157-3130",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015748031496063"
+      },
+      "meta": {
+        "item_name": "Super strength (3 dose)",
+        "monster_name": "Tstanon Karlak"
+      }
+    },
+    {
+      "id": "157-3131",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015748031496063"
+      },
+      "meta": {
+        "item_name": "Super strength (3 dose)",
+        "monster_name": "Zakl'n Gritch"
+      }
+    }
+  ]
+}

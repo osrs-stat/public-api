@@ -1,0 +1,932 @@
+{
+  "data": [
+    {
+      "id": "554-10400",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 100,
+        "quantity_max": 200,
+        "rarity": "0.117647058823529"
+      },
+      "meta": {
+        "item_name": "Fire rune (Regular)",
+        "monster_name": "Guardian Drake"
+      }
+    },
+    {
+      "id": "207-10400",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.00505356781888013"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Guardian Drake"
+      }
+    },
+    {
+      "id": "205-10400",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.00643372300248985"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Guardian Drake"
+      }
+    },
+    {
+      "id": "203-10400",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.00827218807646811"
+      },
+      "meta": {
+        "item_name": "Grimy tarromin",
+        "monster_name": "Guardian Drake"
+      }
+    },
+    {
+      "id": "201-10400",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.0110301011460275"
+      },
+      "meta": {
+        "item_name": "Grimy marrentill",
+        "monster_name": "Guardian Drake"
+      }
+    },
+    {
+      "id": "199-10400",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.0147058823529412"
+      },
+      "meta": {
+        "item_name": "Grimy guam leaf",
+        "monster_name": "Guardian Drake"
+      }
+    },
+    {
+      "id": "2722-10400",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Clue scroll (hard)",
+        "monster_name": "Guardian Drake"
+      }
+    },
+    {
+      "id": "23083-10400",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0292056074766355"
+      },
+      "meta": {
+        "item_name": "Brimstone key",
+        "monster_name": "Guardian Drake"
+      }
+    },
+    {
+      "id": "373-10400",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 2,
+        "rarity": "0.0470588235294118"
+      },
+      "meta": {
+        "item_name": "Swordfish",
+        "monster_name": "Guardian Drake"
+      }
+    },
+    {
+      "id": "1601-10400",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 3,
+        "quantity_max": 6,
+        "rarity": "0.0470588235294118"
+      },
+      "meta": {
+        "item_name": "Diamond",
+        "monster_name": "Guardian Drake"
+      }
+    },
+    {
+      "id": "219-10400",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.00661813368630046"
+      },
+      "meta": {
+        "item_name": "Grimy torstol",
+        "monster_name": "Guardian Drake"
+      }
+    },
+    {
+      "id": "2485-10400",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.00661813368630046"
+      },
+      "meta": {
+        "item_name": "Grimy lantadyme",
+        "monster_name": "Guardian Drake"
+      }
+    },
+    {
+      "id": "20849-10400",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 100,
+        "quantity_max": 200,
+        "rarity": "0.0001"
+      },
+      "meta": {
+        "item_name": "Dragon thrownaxe",
+        "monster_name": "Guardian Drake"
+      }
+    },
+    {
+      "id": "22804-10400",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 100,
+        "quantity_max": 200,
+        "rarity": "0.0001"
+      },
+      "meta": {
+        "item_name": "Dragon knife (Unpoisoned)",
+        "monster_name": "Guardian Drake"
+      }
+    },
+    {
+      "id": "1163-10400",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0352941176470588"
+      },
+      "meta": {
+        "item_name": "Rune full helm",
+        "monster_name": "Guardian Drake"
+      }
+    },
+    {
+      "id": "2501-10400",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0235294117647059"
+      },
+      "meta": {
+        "item_name": "Red d'hide body",
+        "monster_name": "Guardian Drake"
+      }
+    },
+    {
+      "id": "2491-10400",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0117647058823529"
+      },
+      "meta": {
+        "item_name": "Black d'hide vambraces",
+        "monster_name": "Guardian Drake"
+      }
+    },
+    {
+      "id": "1407-10400",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0117647058823529"
+      },
+      "meta": {
+        "item_name": "Mystic earth staff",
+        "monster_name": "Guardian Drake"
+      }
+    },
+    {
+      "id": "217-10400",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.0088261253309797"
+      },
+      "meta": {
+        "item_name": "Grimy dwarf weed",
+        "monster_name": "Guardian Drake"
+      }
+    },
+    {
+      "id": "215-10400",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.0088261253309797"
+      },
+      "meta": {
+        "item_name": "Grimy cadantine",
+        "monster_name": "Guardian Drake"
+      }
+    },
+    {
+      "id": "3051-10400",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.0088261253309797"
+      },
+      "meta": {
+        "item_name": "Grimy snapdragon",
+        "monster_name": "Guardian Drake"
+      }
+    },
+    {
+      "id": "207-10400",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.0088261253309797"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Guardian Drake"
+      }
+    },
+    {
+      "id": "213-10400",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.0110253583241455"
+      },
+      "meta": {
+        "item_name": "Grimy kwuarm",
+        "monster_name": "Guardian Drake"
+      }
+    },
+    {
+      "id": "211-10400",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.0110253583241455"
+      },
+      "meta": {
+        "item_name": "Grimy avantoe",
+        "monster_name": "Guardian Drake"
+      }
+    },
+    {
+      "id": "892-10400",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 35,
+        "quantity_max": 65,
+        "rarity": "0.117647058823529"
+      },
+      "meta": {
+        "item_name": "Rune arrow (Unpoisoned)",
+        "monster_name": "Guardian Drake"
+      }
+    },
+    {
+      "id": "560-10400",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 20,
+        "quantity_max": 40,
+        "rarity": "0.117647058823529"
+      },
+      "meta": {
+        "item_name": "Death rune (Regular)",
+        "monster_name": "Guardian Drake"
+      }
+    },
+    {
+      "id": "563-10400",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 25,
+        "quantity_max": 50,
+        "rarity": "0.117647058823529"
+      },
+      "meta": {
+        "item_name": "Law rune",
+        "monster_name": "Guardian Drake"
+      }
+    },
+    {
+      "id": "561-10400",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 30,
+        "quantity_max": 60,
+        "rarity": "0.117647058823529"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Guardian Drake"
+      }
+    },
+    {
+      "id": "1434-10400",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0117647058823529"
+      },
+      "meta": {
+        "item_name": "Dragon mace",
+        "monster_name": "Guardian Drake"
+      }
+    },
+    {
+      "id": "995-10400",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5000,
+        "quantity_max": 7000,
+        "rarity": "0.0117647058823529"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Guardian Drake"
+      }
+    },
+    {
+      "id": "995-10400",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1000,
+        "quantity_max": 2000,
+        "rarity": "0.0470588235294118"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Guardian Drake"
+      }
+    },
+    {
+      "id": "20724-10400",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "superior-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00275136467687973"
+      },
+      "meta": {
+        "item_name": "Imbued heart",
+        "monster_name": "Guardian Drake"
+      }
+    },
+    {
+      "id": "22783-10400",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Drake bones",
+        "monster_name": "Guardian Drake"
+      }
+    },
+    {
+      "id": "22960-10400",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000390625"
+      },
+      "meta": {
+        "item_name": "Drake's tooth",
+        "monster_name": "Guardian Drake"
+      }
+    },
+    {
+      "id": "22957-10400",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000390625"
+      },
+      "meta": {
+        "item_name": "Drake's claw",
+        "monster_name": "Guardian Drake"
+      }
+    },
+    {
+      "id": "21270-10400",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "superior-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00275136467687973"
+      },
+      "meta": {
+        "item_name": "Eternal gem",
+        "monster_name": "Guardian Drake"
+      }
+    },
+    {
+      "id": "20736-10400",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "superior-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0082540940306392"
+      },
+      "meta": {
+        "item_name": "Dust battlestaff",
+        "monster_name": "Guardian Drake"
+      }
+    },
+    {
+      "id": "20730-10400",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "superior-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0082540940306392"
+      },
+      "meta": {
+        "item_name": "Mist battlestaff",
+        "monster_name": "Guardian Drake"
+      }
+    },
+    {
+      "id": "5304-10400",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0000988630746416214"
+      },
+      "meta": {
+        "item_name": "Torstol seed",
+        "monster_name": "Guardian Drake"
+      }
+    },
+    {
+      "id": "5303-10400",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000148300843090293"
+      },
+      "meta": {
+        "item_name": "Dwarf weed seed",
+        "monster_name": "Guardian Drake"
+      }
+    },
+    {
+      "id": "22879-10400",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.000197726149283243"
+      },
+      "meta": {
+        "item_name": "Snape grass seed",
+        "monster_name": "Guardian Drake"
+      }
+    },
+    {
+      "id": "5302-10400",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000247157686604053"
+      },
+      "meta": {
+        "item_name": "Lantadyme seed",
+        "monster_name": "Guardian Drake"
+      }
+    },
+    {
+      "id": "5301-10400",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000346020761245675"
+      },
+      "meta": {
+        "item_name": "Cadantine seed",
+        "monster_name": "Guardian Drake"
+      }
+    },
+    {
+      "id": "5300-10400",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000494315373208107"
+      },
+      "meta": {
+        "item_name": "Snapdragon seed",
+        "monster_name": "Guardian Drake"
+      }
+    },
+    {
+      "id": "22873-10400",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000741317320879202"
+      },
+      "meta": {
+        "item_name": "Potato cactus seed",
+        "monster_name": "Guardian Drake"
+      }
+    },
+    {
+      "id": "5299-10400",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000741317320879202"
+      },
+      "meta": {
+        "item_name": "Kwuarm seed",
+        "monster_name": "Guardian Drake"
+      }
+    },
+    {
+      "id": "5280-10400",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00103836768599761"
+      },
+      "meta": {
+        "item_name": "Cactus seed",
+        "monster_name": "Guardian Drake"
+      }
+    },
+    {
+      "id": "5106-10400",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0010873110796999"
+      },
+      "meta": {
+        "item_name": "Poison ivy seed",
+        "monster_name": "Guardian Drake"
+      }
+    },
+    {
+      "id": "5298-10400",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0010873110796999"
+      },
+      "meta": {
+        "item_name": "Avantoe seed",
+        "monster_name": "Guardian Drake"
+      }
+    },
+    {
+      "id": "5281-10400",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00153246136281789"
+      },
+      "meta": {
+        "item_name": "Belladonna seed",
+        "monster_name": "Guardian Drake"
+      }
+    },
+    {
+      "id": "5297-10400",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00158170286130048"
+      },
+      "meta": {
+        "item_name": "Irit seed",
+        "monster_name": "Guardian Drake"
+      }
+    },
+    {
+      "id": "5296-10400",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00232320416318186"
+      },
+      "meta": {
+        "item_name": "Toadflax seed",
+        "monster_name": "Guardian Drake"
+      }
+    },
+    {
+      "id": "217-10400",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.00137856876990309"
+      },
+      "meta": {
+        "item_name": "Grimy dwarf weed",
+        "monster_name": "Guardian Drake"
+      }
+    },
+    {
+      "id": "2485-10400",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.00137856876990309"
+      },
+      "meta": {
+        "item_name": "Grimy lantadyme",
+        "monster_name": "Guardian Drake"
+      }
+    },
+    {
+      "id": "215-10400",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.00183823529411765"
+      },
+      "meta": {
+        "item_name": "Grimy cadantine",
+        "monster_name": "Guardian Drake"
+      }
+    },
+    {
+      "id": "213-10400",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.00229779411764706"
+      },
+      "meta": {
+        "item_name": "Grimy kwuarm",
+        "monster_name": "Guardian Drake"
+      }
+    },
+    {
+      "id": "211-10400",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.00275778384490224"
+      },
+      "meta": {
+        "item_name": "Grimy avantoe",
+        "monster_name": "Guardian Drake"
+      }
+    },
+    {
+      "id": "209-10400",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.00367647058823529"
+      },
+      "meta": {
+        "item_name": "Grimy irit leaf",
+        "monster_name": "Guardian Drake"
+      }
+    }
+  ]
+}

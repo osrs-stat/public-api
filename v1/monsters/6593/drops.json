@@ -1,0 +1,756 @@
+{
+  "data": [
+    {
+      "id": "11941-6593",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Lava dragon"
+      }
+    },
+    {
+      "id": "19582-6593",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 15,
+        "quantity_max": null,
+        "rarity": "0.0546875"
+      },
+      "meta": {
+        "item_name": "Dragon javelin heads",
+        "monster_name": "Lava dragon"
+      }
+    },
+    {
+      "id": "9194-6593",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 12,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Onyx bolt tips",
+        "monster_name": "Lava dragon"
+      }
+    },
+    {
+      "id": "2361-6593",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Adamantite bar",
+        "monster_name": "Lava dragon"
+      }
+    },
+    {
+      "id": "1897-6593",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Chocolate cake (Full)",
+        "monster_name": "Lava dragon"
+      }
+    },
+    {
+      "id": "569-6593",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 15,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Fire orb",
+        "monster_name": "Lava dragon"
+      }
+    },
+    {
+      "id": "1442-6593",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Fire talisman",
+        "monster_name": "Lava dragon"
+      }
+    },
+    {
+      "id": "4699-6593",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 30,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Lava rune",
+        "monster_name": "Lava dragon"
+      }
+    },
+    {
+      "id": "4699-6593",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 15,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Lava rune",
+        "monster_name": "Lava dragon"
+      }
+    },
+    {
+      "id": "563-6593",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 20,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Law rune",
+        "monster_name": "Lava dragon"
+      }
+    },
+    {
+      "id": "560-6593",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 20,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Death rune (Regular)",
+        "monster_name": "Lava dragon"
+      }
+    },
+    {
+      "id": "9144-6593",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 30,
+        "quantity_max": null,
+        "rarity": "0.046875"
+      },
+      "meta": {
+        "item_name": "Runite bolts (Unpoisoned)",
+        "monster_name": "Lava dragon"
+      }
+    },
+    {
+      "id": "565-6593",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 20,
+        "quantity_max": null,
+        "rarity": "0.0546875"
+      },
+      "meta": {
+        "item_name": "Blood rune (Regular)",
+        "monster_name": "Lava dragon"
+      }
+    },
+    {
+      "id": "554-6593",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 75,
+        "quantity_max": null,
+        "rarity": "0.0546875"
+      },
+      "meta": {
+        "item_name": "Fire rune (Regular)",
+        "monster_name": "Lava dragon"
+      }
+    },
+    {
+      "id": "830-6593",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 20,
+        "quantity_max": null,
+        "rarity": "0.078125"
+      },
+      "meta": {
+        "item_name": "Rune javelin (Unpoisoned)",
+        "monster_name": "Lava dragon"
+      }
+    },
+    {
+      "id": "1163-6593",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Rune full helm",
+        "monster_name": "Lava dragon"
+      }
+    },
+    {
+      "id": "1147-6593",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Rune med helm",
+        "monster_name": "Lava dragon"
+      }
+    },
+    {
+      "id": "1303-6593",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Rune longsword",
+        "monster_name": "Lava dragon"
+      }
+    },
+    {
+      "id": "1201-6593",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Rune kiteshield",
+        "monster_name": "Lava dragon"
+      }
+    },
+    {
+      "id": "11286-6593",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0004"
+      },
+      "meta": {
+        "item_name": "Draconic visage",
+        "monster_name": "Lava dragon"
+      }
+    },
+    {
+      "id": "1123-6593",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Adamant platebody",
+        "monster_name": "Lava dragon"
+      }
+    },
+    {
+      "id": "1317-6593",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Adamant 2h sword",
+        "monster_name": "Lava dragon"
+      }
+    },
+    {
+      "id": "3053-6593",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Lava battlestaff",
+        "monster_name": "Lava dragon"
+      }
+    },
+    {
+      "id": "868-6593",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 8,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Rune knife (Unpoisoned)",
+        "monster_name": "Lava dragon"
+      }
+    },
+    {
+      "id": "811-6593",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 12,
+        "quantity_max": null,
+        "rarity": "0.046875"
+      },
+      "meta": {
+        "item_name": "Rune dart (Unpoisoned)",
+        "monster_name": "Lava dragon"
+      }
+    },
+    {
+      "id": "11992-6593",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Lava scale",
+        "monster_name": "Lava dragon"
+      }
+    },
+    {
+      "id": "1747-6593",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Black dragonhide",
+        "monster_name": "Lava dragon"
+      }
+    },
+    {
+      "id": "11943-6593",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Lava dragon bones",
+        "monster_name": "Lava dragon"
+      }
+    },
+    {
+      "id": "1359-6593",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Rune axe",
+        "monster_name": "Lava dragon"
+      }
+    },
+    {
+      "id": "11286-6593",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0001"
+      },
+      "meta": {
+        "item_name": "Draconic visage",
+        "monster_name": "Lava dragon"
+      }
+    },
+    {
+      "id": "12073-6593",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.004"
+      },
+      "meta": {
+        "item_name": "Clue scroll (elite)",
+        "monster_name": "Lava dragon"
+      }
+    },
+    {
+      "id": "21257-6593",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00735294117647059"
+      },
+      "meta": {
+        "item_name": "Slayer's enchantment",
+        "monster_name": "Lava dragon"
+      }
+    },
+    {
+      "id": "23490-6593",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "krystilia-task-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0149253731343284"
+      },
+      "meta": {
+        "item_name": "Larran's key",
+        "monster_name": "Lava dragon"
+      }
+    },
+    {
+      "id": "217-6593",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 2,
+        "rarity": "0.000915455823763768"
+      },
+      "meta": {
+        "item_name": "Grimy dwarf weed",
+        "monster_name": "Lava dragon"
+      }
+    },
+    {
+      "id": "2485-6593",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 2,
+        "rarity": "0.000915455823763768"
+      },
+      "meta": {
+        "item_name": "Grimy lantadyme",
+        "monster_name": "Lava dragon"
+      }
+    },
+    {
+      "id": "215-6593",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 2,
+        "rarity": "0.001220703125"
+      },
+      "meta": {
+        "item_name": "Grimy cadantine",
+        "monster_name": "Lava dragon"
+      }
+    },
+    {
+      "id": "213-6593",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 2,
+        "rarity": "0.00152587890625"
+      },
+      "meta": {
+        "item_name": "Grimy kwuarm",
+        "monster_name": "Lava dragon"
+      }
+    },
+    {
+      "id": "211-6593",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 2,
+        "rarity": "0.00183134083450539"
+      },
+      "meta": {
+        "item_name": "Grimy avantoe",
+        "monster_name": "Lava dragon"
+      }
+    },
+    {
+      "id": "209-6593",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 2,
+        "rarity": "0.00244140625"
+      },
+      "meta": {
+        "item_name": "Grimy irit leaf",
+        "monster_name": "Lava dragon"
+      }
+    },
+    {
+      "id": "207-6593",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 2,
+        "rarity": "0.00335588487972509"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Lava dragon"
+      }
+    },
+    {
+      "id": "205-6593",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 2,
+        "rarity": "0.00427239418134092"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Lava dragon"
+      }
+    },
+    {
+      "id": "203-6593",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 2,
+        "rarity": "0.0054932498945296"
+      },
+      "meta": {
+        "item_name": "Grimy tarromin",
+        "monster_name": "Lava dragon"
+      }
+    },
+    {
+      "id": "201-6593",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 2,
+        "rarity": "0.00732467654228389"
+      },
+      "meta": {
+        "item_name": "Grimy marrentill",
+        "monster_name": "Lava dragon"
+      }
+    },
+    {
+      "id": "199-6593",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 2,
+        "rarity": "0.009765625"
+      },
+      "meta": {
+        "item_name": "Grimy guam leaf",
+        "monster_name": "Lava dragon"
+      }
+    },
+    {
+      "id": "995-6593",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 66,
+        "quantity_max": null,
+        "rarity": "0.1171875"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Lava dragon"
+      }
+    },
+    {
+      "id": "995-6593",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 690,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Lava dragon"
+      }
+    },
+    {
+      "id": "995-6593",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2960,
+        "quantity_max": null,
+        "rarity": "0.0546875"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Lava dragon"
+      }
+    }
+  ]
+}

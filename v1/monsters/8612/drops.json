@@ -1,0 +1,868 @@
+{
+  "data": [
+    {
+      "id": "219-8612",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.00661813368630046"
+      },
+      "meta": {
+        "item_name": "Grimy torstol",
+        "monster_name": "Drake"
+      }
+    },
+    {
+      "id": "1601-8612",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 3,
+        "quantity_max": 6,
+        "rarity": "0.0470588235294118"
+      },
+      "meta": {
+        "item_name": "Diamond",
+        "monster_name": "Drake"
+      }
+    },
+    {
+      "id": "373-8612",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 2,
+        "rarity": "0.0470588235294118"
+      },
+      "meta": {
+        "item_name": "Swordfish",
+        "monster_name": "Drake"
+      }
+    },
+    {
+      "id": "23083-8612",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0153186274509804"
+      },
+      "meta": {
+        "item_name": "Brimstone key",
+        "monster_name": "Drake"
+      }
+    },
+    {
+      "id": "2722-8612",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Clue scroll (hard)",
+        "monster_name": "Drake"
+      }
+    },
+    {
+      "id": "199-8612",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.0147058823529412"
+      },
+      "meta": {
+        "item_name": "Grimy guam leaf",
+        "monster_name": "Drake"
+      }
+    },
+    {
+      "id": "201-8612",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.0110301011460275"
+      },
+      "meta": {
+        "item_name": "Grimy marrentill",
+        "monster_name": "Drake"
+      }
+    },
+    {
+      "id": "203-8612",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.00827218807646811"
+      },
+      "meta": {
+        "item_name": "Grimy tarromin",
+        "monster_name": "Drake"
+      }
+    },
+    {
+      "id": "205-8612",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.00643372300248985"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Drake"
+      }
+    },
+    {
+      "id": "207-8612",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.00505356781888013"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Drake"
+      }
+    },
+    {
+      "id": "209-8612",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.00367647058823529"
+      },
+      "meta": {
+        "item_name": "Grimy irit leaf",
+        "monster_name": "Drake"
+      }
+    },
+    {
+      "id": "211-8612",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.00275778384490224"
+      },
+      "meta": {
+        "item_name": "Grimy avantoe",
+        "monster_name": "Drake"
+      }
+    },
+    {
+      "id": "213-8612",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.00229779411764706"
+      },
+      "meta": {
+        "item_name": "Grimy kwuarm",
+        "monster_name": "Drake"
+      }
+    },
+    {
+      "id": "215-8612",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.00183823529411765"
+      },
+      "meta": {
+        "item_name": "Grimy cadantine",
+        "monster_name": "Drake"
+      }
+    },
+    {
+      "id": "207-8612",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.0088261253309797"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Drake"
+      }
+    },
+    {
+      "id": "5299-8612",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000741317320879202"
+      },
+      "meta": {
+        "item_name": "Kwuarm seed",
+        "monster_name": "Drake"
+      }
+    },
+    {
+      "id": "995-8612",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1000,
+        "quantity_max": 2000,
+        "rarity": "0.0470588235294118"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Drake"
+      }
+    },
+    {
+      "id": "995-8612",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5000,
+        "quantity_max": 7000,
+        "rarity": "0.0117647058823529"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Drake"
+      }
+    },
+    {
+      "id": "2485-8612",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.00137856876990309"
+      },
+      "meta": {
+        "item_name": "Grimy lantadyme",
+        "monster_name": "Drake"
+      }
+    },
+    {
+      "id": "3051-8612",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.0088261253309797"
+      },
+      "meta": {
+        "item_name": "Grimy snapdragon",
+        "monster_name": "Drake"
+      }
+    },
+    {
+      "id": "215-8612",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.0088261253309797"
+      },
+      "meta": {
+        "item_name": "Grimy cadantine",
+        "monster_name": "Drake"
+      }
+    },
+    {
+      "id": "217-8612",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.0088261253309797"
+      },
+      "meta": {
+        "item_name": "Grimy dwarf weed",
+        "monster_name": "Drake"
+      }
+    },
+    {
+      "id": "2485-8612",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.00661813368630046"
+      },
+      "meta": {
+        "item_name": "Grimy lantadyme",
+        "monster_name": "Drake"
+      }
+    },
+    {
+      "id": "5298-8612",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0010873110796999"
+      },
+      "meta": {
+        "item_name": "Avantoe seed",
+        "monster_name": "Drake"
+      }
+    },
+    {
+      "id": "5281-8612",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00153246136281789"
+      },
+      "meta": {
+        "item_name": "Belladonna seed",
+        "monster_name": "Drake"
+      }
+    },
+    {
+      "id": "5297-8612",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00158170286130048"
+      },
+      "meta": {
+        "item_name": "Irit seed",
+        "monster_name": "Drake"
+      }
+    },
+    {
+      "id": "5296-8612",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00232320416318186"
+      },
+      "meta": {
+        "item_name": "Toadflax seed",
+        "monster_name": "Drake"
+      }
+    },
+    {
+      "id": "5304-8612",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0000988630746416214"
+      },
+      "meta": {
+        "item_name": "Torstol seed",
+        "monster_name": "Drake"
+      }
+    },
+    {
+      "id": "5303-8612",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000148300843090293"
+      },
+      "meta": {
+        "item_name": "Dwarf weed seed",
+        "monster_name": "Drake"
+      }
+    },
+    {
+      "id": "22879-8612",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.000197726149283243"
+      },
+      "meta": {
+        "item_name": "Snape grass seed",
+        "monster_name": "Drake"
+      }
+    },
+    {
+      "id": "5302-8612",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000247157686604053"
+      },
+      "meta": {
+        "item_name": "Lantadyme seed",
+        "monster_name": "Drake"
+      }
+    },
+    {
+      "id": "5301-8612",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000346020761245675"
+      },
+      "meta": {
+        "item_name": "Cadantine seed",
+        "monster_name": "Drake"
+      }
+    },
+    {
+      "id": "5300-8612",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000494315373208107"
+      },
+      "meta": {
+        "item_name": "Snapdragon seed",
+        "monster_name": "Drake"
+      }
+    },
+    {
+      "id": "22873-8612",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000741317320879202"
+      },
+      "meta": {
+        "item_name": "Potato cactus seed",
+        "monster_name": "Drake"
+      }
+    },
+    {
+      "id": "22783-8612",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Drake bones",
+        "monster_name": "Drake"
+      }
+    },
+    {
+      "id": "22960-8612",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000390625"
+      },
+      "meta": {
+        "item_name": "Drake's tooth",
+        "monster_name": "Drake"
+      }
+    },
+    {
+      "id": "22957-8612",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000390625"
+      },
+      "meta": {
+        "item_name": "Drake's claw",
+        "monster_name": "Drake"
+      }
+    },
+    {
+      "id": "20849-8612",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 100,
+        "quantity_max": 200,
+        "rarity": "0.0001"
+      },
+      "meta": {
+        "item_name": "Dragon thrownaxe",
+        "monster_name": "Drake"
+      }
+    },
+    {
+      "id": "22804-8612",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 100,
+        "quantity_max": 200,
+        "rarity": "0.0001"
+      },
+      "meta": {
+        "item_name": "Dragon knife (Unpoisoned)",
+        "monster_name": "Drake"
+      }
+    },
+    {
+      "id": "1163-8612",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0352941176470588"
+      },
+      "meta": {
+        "item_name": "Rune full helm",
+        "monster_name": "Drake"
+      }
+    },
+    {
+      "id": "2501-8612",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0235294117647059"
+      },
+      "meta": {
+        "item_name": "Red d'hide body",
+        "monster_name": "Drake"
+      }
+    },
+    {
+      "id": "2491-8612",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0117647058823529"
+      },
+      "meta": {
+        "item_name": "Black d'hide vambraces",
+        "monster_name": "Drake"
+      }
+    },
+    {
+      "id": "1407-8612",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0117647058823529"
+      },
+      "meta": {
+        "item_name": "Mystic earth staff",
+        "monster_name": "Drake"
+      }
+    },
+    {
+      "id": "1434-8612",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0117647058823529"
+      },
+      "meta": {
+        "item_name": "Dragon mace",
+        "monster_name": "Drake"
+      }
+    },
+    {
+      "id": "554-8612",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 100,
+        "quantity_max": 200,
+        "rarity": "0.117647058823529"
+      },
+      "meta": {
+        "item_name": "Fire rune (Regular)",
+        "monster_name": "Drake"
+      }
+    },
+    {
+      "id": "561-8612",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 30,
+        "quantity_max": 60,
+        "rarity": "0.117647058823529"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Drake"
+      }
+    },
+    {
+      "id": "563-8612",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 25,
+        "quantity_max": 50,
+        "rarity": "0.117647058823529"
+      },
+      "meta": {
+        "item_name": "Law rune",
+        "monster_name": "Drake"
+      }
+    },
+    {
+      "id": "560-8612",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 20,
+        "quantity_max": 40,
+        "rarity": "0.117647058823529"
+      },
+      "meta": {
+        "item_name": "Death rune (Regular)",
+        "monster_name": "Drake"
+      }
+    },
+    {
+      "id": "892-8612",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 35,
+        "quantity_max": 65,
+        "rarity": "0.117647058823529"
+      },
+      "meta": {
+        "item_name": "Rune arrow (Unpoisoned)",
+        "monster_name": "Drake"
+      }
+    },
+    {
+      "id": "211-8612",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.0110253583241455"
+      },
+      "meta": {
+        "item_name": "Grimy avantoe",
+        "monster_name": "Drake"
+      }
+    },
+    {
+      "id": "213-8612",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.0110253583241455"
+      },
+      "meta": {
+        "item_name": "Grimy kwuarm",
+        "monster_name": "Drake"
+      }
+    },
+    {
+      "id": "217-8612",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.00137856876990309"
+      },
+      "meta": {
+        "item_name": "Grimy dwarf weed",
+        "monster_name": "Drake"
+      }
+    },
+    {
+      "id": "5280-8612",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00103836768599761"
+      },
+      "meta": {
+        "item_name": "Cactus seed",
+        "monster_name": "Drake"
+      }
+    },
+    {
+      "id": "5106-8612",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0010873110796999"
+      },
+      "meta": {
+        "item_name": "Poison ivy seed",
+        "monster_name": "Drake"
+      }
+    }
+  ]
+}

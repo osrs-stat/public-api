@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "183-530",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0217391304347826"
+      },
+      "meta": {
+        "item_name": "Superantipoison (2 dose)",
+        "monster_name": "Tribesman"
+      }
+    },
+    {
+      "id": "183-965",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.111111111111111"
+      },
+      "meta": {
+        "item_name": "Superantipoison (2 dose)",
+        "monster_name": "Kalphite Queen (Airborne)"
+      }
+    },
+    {
+      "id": "183-8703",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.08"
+      },
+      "meta": {
+        "item_name": "Superantipoison (2 dose)",
+        "monster_name": "Temple Spider"
+      }
+    },
+    {
+      "id": "183-963",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.111111111111111"
+      },
+      "meta": {
+        "item_name": "Superantipoison (2 dose)",
+        "monster_name": "Kalphite Queen (Crawling)"
+      }
+    }
+  ]
+}

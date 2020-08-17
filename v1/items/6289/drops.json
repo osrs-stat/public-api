@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "id": "6289-2044",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 35,
+        "quantity_max": null,
+        "rarity": "0.0443548387096774"
+      },
+      "meta": {
+        "item_name": "Snakeskin",
+        "monster_name": "Zulrah (Tanzanite)"
+      }
+    },
+    {
+      "id": "6289-2043",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 35,
+        "quantity_max": null,
+        "rarity": "0.0443548387096774"
+      },
+      "meta": {
+        "item_name": "Snakeskin",
+        "monster_name": "Zulrah (Magma)"
+      }
+    },
+    {
+      "id": "6289-2042",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 35,
+        "quantity_max": null,
+        "rarity": "0.0443548387096774"
+      },
+      "meta": {
+        "item_name": "Snakeskin",
+        "monster_name": "Zulrah (Serpentine)"
+      }
+    }
+  ]
+}

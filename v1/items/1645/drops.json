@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "id": "1645-494",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Dragonstone ring",
+        "monster_name": "Kraken (Kraken)"
+      }
+    },
+    {
+      "id": "1645-499",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Dragonstone ring",
+        "monster_name": "Thermonuclear smoke devil"
+      }
+    }
+  ]
+}

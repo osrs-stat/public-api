@@ -1,0 +1,75 @@
+{
+  "data": {
+    "id": "3749",
+    "type": "item",
+    "attributes": {
+      "uuid": "21a8a544-cafc-4432-bfef-0d7421a9da35",
+      "name": "Archer helm",
+      "members": true,
+      "release_date": "2004-11-02",
+      "examine": "This helmet is worn by archers.",
+      "tradeable": false,
+      "ge_tradeable": false,
+      "lowalch": 24000,
+      "highalch": 36000,
+      "is_equip": true,
+      "is_weapon": false,
+      "icon_base64": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC+UlEQVR4Xu2V70tTURjHfV72ohe+GIQQiMQQGTIkCYfSUBopFipryn6EzTWZm84xNU1MZc2fiYoohWZSplKiaEQUvfbf+uZzbvdu3s3241xfFH3hYbt3u9/zOd/znHNLSv7r3xFBf6dwGeEhRNjfikHOkLC9Hpb00EQ42XsmzKzl5UUaEpaT3ZIemgg/T6YkzQhToy5JD02Esx8zkmaEgWCLpMcFEd6sjUn0AMHZ1mgUEOHL4bJmVpwhYTRuYA992p2VNFMSbrlvk0hZiPDteBXvXr+QBvp6tILAkzZJn99GkV4jdghhfMSPJnttsSkRTj8v4fjglWT/qCKsLQ3hsae12MkpQHs7yWINdCIxuZGYD/U2a6EpEY72F4RBPOrNEyjXAArQXCICt8uRp6cmwuHHeQFlqarI8TCDEFxOpWH/DEbYXB9HrN+N2pqqHP+9IMLB+6So3p6OS4CUwXt9HQh42jAQDsLZ2giHve6SgRRPboH03Zbpm1WE3e2ESIkb0dGkH4TQ1+1ENNCJiN8lvg/2h+B6eA8PHA2w22qypKUAJafD2nmUJwyLsLM5JYB43Xm7pgwIsaAb8ZBXfDIUVzwahrvdgfZmO1qabKi/Y4WlUlluLj5ceZJ8hFirzYUCsUjEyzuN113driqMWnwt7p0DeZ3NWkp6IPbSN3TBQGpK30/XxOw2VkcFxEjYh6W5BBZnpjGfnMRsYgLDsQgioQCe+n3weTpFk1stZrFMH7am8XZjQrzP1IOxQBhVKSg25qQYYnkhmQE0Njwo+qgv6EdPtweerkdotDfAYqkSz3E6nLLZrCx7kUAsJW6GUt9p2WpibCjjHhe/VHlj8HmWno4EEEs5lzj6dMOUMeHl5POM3/h6ZTF+/lsI3q5mo2BUKUnpE1BLBdIXL1U03Gk0jCoSPVNmuoaKsuuoLC9F9S0TblfeEEB3rTcvVJ2lDCZT6VXBsEjAqEDpUHqYbEB6NwNUOBDXFQKxMvskV13RcqWUvpPyLb3HX6lf1ZqvnO8xz5IAAAAASUVORK5CYII="
+    },
+    "relationships": {
+      "equip": {
+        "data": {
+          "id": "2a69812e-434a-4dbe-9dc0-a92589dde482",
+          "type": "equip"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Archer_helm"
+    },
+    "meta": {
+      "incomplete": false
+    }
+  },
+  "included": [
+    {
+      "id": "2a69812e-434a-4dbe-9dc0-a92589dde482",
+      "type": "equip",
+      "attributes": {
+        "slot": "head",
+        "passive_effect": null,
+        "requirements": {
+          "defense_level": 45
+        }
+      },
+      "relationships": {
+        "equip_stat": {
+          "data": {
+            "id": "31bafed1-c37c-4f4e-9991-8d97e73ca75f",
+            "type": "equip_stat"
+          }
+        }
+      }
+    },
+    {
+      "id": "31bafed1-c37c-4f4e-9991-8d97e73ca75f",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": -5,
+        "slash_attack": -5,
+        "crush_attack": -5,
+        "ranged_attack": 6,
+        "magic_attack": -5,
+        "stab_defense": 6,
+        "slash_defense": 8,
+        "crush_defense": 10,
+        "ranged_defense": 6,
+        "magic_defense": 6,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

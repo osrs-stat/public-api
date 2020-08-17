@@ -1,0 +1,180 @@
+{
+  "data": [
+    {
+      "id": "23512-2145",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "forthos-dungeon-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.05"
+      },
+      "meta": {
+        "item_name": "Tattered sun page",
+        "monster_name": "Undead Druid"
+      }
+    },
+    {
+      "id": "23512-8703",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "forthos-dungeon-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0333333333333333"
+      },
+      "meta": {
+        "item_name": "Tattered sun page",
+        "monster_name": "Temple Spider"
+      }
+    },
+    {
+      "id": "23512-248",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.1"
+      },
+      "meta": {
+        "item_name": "Tattered sun page",
+        "monster_name": "Red dragon (2)"
+      }
+    },
+    {
+      "id": "23512-247",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.1"
+      },
+      "meta": {
+        "item_name": "Tattered sun page",
+        "monster_name": "Red dragon (1)"
+      }
+    },
+    {
+      "id": "23512-246",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "forthos-dungeon-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.04"
+      },
+      "meta": {
+        "item_name": "Tattered sun page",
+        "monster_name": "Baby red dragon (3)"
+      }
+    },
+    {
+      "id": "23512-245",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "forthos-dungeon-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.04"
+      },
+      "meta": {
+        "item_name": "Tattered sun page",
+        "monster_name": "Baby red dragon (2)"
+      }
+    },
+    {
+      "id": "23512-244",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "forthos-dungeon-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.04"
+      },
+      "meta": {
+        "item_name": "Tattered sun page",
+        "monster_name": "Baby red dragon (1)"
+      }
+    },
+    {
+      "id": "23512-8713",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "forthos-dungeon-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.2"
+      },
+      "meta": {
+        "item_name": "Tattered sun page",
+        "monster_name": "Sarachnis"
+      }
+    },
+    {
+      "id": "23512-251",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.1"
+      },
+      "meta": {
+        "item_name": "Tattered sun page",
+        "monster_name": "Red dragon (5)"
+      }
+    },
+    {
+      "id": "23512-250",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.1"
+      },
+      "meta": {
+        "item_name": "Tattered sun page",
+        "monster_name": "Red dragon (4)"
+      }
+    },
+    {
+      "id": "23512-249",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.1"
+      },
+      "meta": {
+        "item_name": "Tattered sun page",
+        "monster_name": "Red dragon (3)"
+      }
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "id": "7416-5779",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Mole claw",
+        "monster_name": "Giant Mole"
+      }
+    },
+    {
+      "id": "7416-5126",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Mole claw",
+        "monster_name": "Experiment No.2"
+      }
+    },
+    {
+      "id": "7416-1",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Mole claw",
+        "monster_name": "Molanisk"
+      }
+    }
+  ]
+}

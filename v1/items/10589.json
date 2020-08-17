@@ -1,0 +1,76 @@
+{
+  "data": {
+    "id": "10589",
+    "type": "item",
+    "attributes": {
+      "uuid": "46f8eb77-4b5f-4e6a-8ccd-03ac07710d3f",
+      "name": "Granite helm",
+      "members": true,
+      "release_date": "2007-01-22",
+      "examine": "A stone helmet.",
+      "tradeable": false,
+      "ge_tradeable": false,
+      "lowalch": 18400,
+      "highalch": 27600,
+      "is_equip": true,
+      "is_weapon": false,
+      "icon_base64": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACcUlEQVR4Xu2X/UobQRTFnbeQ/OUTlFAqokRSLJYgrWjxIzQE0loragjBj9oYQggaJPjQU84MJ7l7Mzt0NKKCFw47u9nd+e29585u5ubeYiZhbFjPEsbW6/tBTQM+OaixPxrf7cFBLSMci+mJoHxmDg/r9uio4bYxEbZW27V7e1uzhvIwADk5+RkVzqEAhuuq1W92e3tjViWcZKbZ/OXUav3OiMelAIcM4VpmaXOzYsvllcdCGQfDydvtY3t+duqEcUiEpL8AhCzt7Hy1lconu7z84aHZ8jAS4vKiGRVBAYVrAcSyIUso3fr6R7u4WLSFwnwqlHFPysmurlpOnU57SvyNUCgZzS3LhiwBqlRacjDFhQUnPXNOmCmIbvfM9noXThhTEgxQNHiobACil5Jg8KQaot//MyXCSShklp0WKtva2mo6EEE48WDw1+n25nos7EsoCB5ip4XKBiCYOxlIQwyHXae7u54TxhoKoqlDZSPQl43PKUBmXKq8LOnMSGOj1Gx9DcRFEmtSMpD2jSxXDIqtn+cjAMHcSUChzEjvyFJJKHZZno9obChh1Z4AaSPTRyH/aCD6SANBKF9Cp3kgnRkaWm4lFMvGxTHP2BDgEjrNjMuFyXR3yS4jFLOkgbSxAcLvJHTa++K7/y8bJpGZgUajfmYrs0SgmLHlhx18JF8hmiAQ/o2MSQEQEqFiQPSR/ngDYELZfPgTjZv8/n4wBsGY+wAifEwaiF+SiS9Yhr8pQSge503zRCDCwEuJq3UoJkAhEH12NkymVGj9R2RHRioIwwOx9RNfHfFIA5FhMv9CHn6fmUY2w/rXZ4kXBfPq4x+uArtHqpo3kgAAAABJRU5ErkJggg=="
+    },
+    "relationships": {
+      "equip": {
+        "data": {
+          "id": "bd438e6a-cd02-4fdb-adb5-8fe2e3c4a092",
+          "type": "equip"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Granite_helm"
+    },
+    "meta": {
+      "incomplete": false
+    }
+  },
+  "included": [
+    {
+      "id": "bd438e6a-cd02-4fdb-adb5-8fe2e3c4a092",
+      "type": "equip",
+      "attributes": {
+        "slot": "head",
+        "passive_effect": null,
+        "requirements": {
+          "defense_level": 50,
+          "strength_level": 50
+        }
+      },
+      "relationships": {
+        "equip_stat": {
+          "data": {
+            "id": "2a900137-7985-4ad7-b3b4-2f47d41f8e44",
+            "type": "equip_stat"
+          }
+        }
+      }
+    },
+    {
+      "id": "2a900137-7985-4ad7-b3b4-2f47d41f8e44",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 0,
+        "slash_attack": 0,
+        "crush_attack": 0,
+        "ranged_attack": -7,
+        "magic_attack": -9,
+        "stab_defense": 31,
+        "slash_defense": 33,
+        "crush_defense": 29,
+        "ranged_defense": 39,
+        "magic_defense": -1,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

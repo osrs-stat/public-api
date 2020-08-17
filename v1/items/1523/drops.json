@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "id": "1523-526",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Lockpick",
+        "monster_name": "Rogue (Level 15)"
+      }
+    },
+    {
+      "id": "1523-6603",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Lockpick",
+        "monster_name": "Rogue (Level 135)"
+      }
+    }
+  ]
+}

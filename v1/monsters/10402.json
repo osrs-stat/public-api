@@ -1,0 +1,132 @@
+{
+  "data": {
+    "id": "10402",
+    "type": "monster",
+    "attributes": {
+      "uuid": "5d3e9e4e-7360-4a28-a61c-0ad8fdbeddf4",
+      "name": "Colossal Hydra",
+      "members": true,
+      "release_date": "2020-07-23",
+      "examine": "Don't forget to hydra-te.",
+      "combat_level_override": null,
+      "max_hit_override": 34,
+      "target_types": [
+        "dragon"
+      ],
+      "classification_types": [
+        "hydras"
+      ],
+      "poison": false,
+      "immune_poison": false,
+      "immune_venom": false,
+      "slayer_xp": 8625.0,
+      "slayer_level": 95,
+      "slayer_masters": [
+        "konar"
+      ],
+      "icon_base64": null
+    },
+    "relationships": {
+      "combat_stat": {
+        "data": {
+          "id": "21d755c3-885b-40c7-a7da-74a20cdb2f0b",
+          "type": "combat_stat"
+        }
+      },
+      "equip_stat": {
+        "data": {
+          "id": "d3455b80-465d-4345-9481-98b3fe55d2fa",
+          "type": "equip_stat"
+        }
+      },
+      "attack_stat": {
+        "data": {
+          "id": "2509e11d-7e3c-4ab5-9f60-7f9687a8a237",
+          "type": "attack_stat"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Colossal_Hydra"
+    },
+    "meta": {
+      "incomplete": true
+    }
+  },
+  "included": [
+    {
+      "id": "2509e11d-7e3c-4ab5-9f60-7f9687a8a237",
+      "type": "attack_stat",
+      "attributes": {
+        "attack_speed": 0,
+        "attack_type": "monster",
+        "special": null,
+        "stances": [
+          {
+            "name": "Monster ranged",
+            "style": null,
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": null,
+            "combat_accuracy_stat": "ranged_level",
+            "combat_damage_stat": "ranged_level",
+            "equip_accuracy_stat": "ranged_attack",
+            "equip_damage_stat": "ranged_attack",
+            "target_equip_defense_stat": "ranged_defense"
+          },
+          {
+            "name": "Monster magic",
+            "style": null,
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": null,
+            "combat_accuracy_stat": "magic_level",
+            "combat_damage_stat": "magic_level",
+            "equip_accuracy_stat": "magic_attack",
+            "equip_damage_stat": "magic_attack",
+            "target_equip_defense_stat": "magic_defense"
+          }
+        ]
+      }
+    },
+    {
+      "id": "21d755c3-885b-40c7-a7da-74a20cdb2f0b",
+      "type": "monster_combat_stat",
+      "attributes": {
+        "hitpoints_level": 750,
+        "attack_level": 1,
+        "strength_level": 1,
+        "defense_level": 100,
+        "magic_level": 250,
+        "ranged_level": 250,
+        "prayer_level": 0
+      }
+    },
+    {
+      "id": "d3455b80-465d-4345-9481-98b3fe55d2fa",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 0,
+        "slash_attack": 0,
+        "crush_attack": 0,
+        "ranged_attack": 0,
+        "magic_attack": 0,
+        "stab_defense": 100,
+        "slash_defense": 200,
+        "crush_defense": 200,
+        "ranged_defense": 20,
+        "magic_defense": 200,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

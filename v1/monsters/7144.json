@@ -1,0 +1,151 @@
+{
+  "data": {
+    "id": "7144",
+    "type": "monster",
+    "attributes": {
+      "uuid": "b1b444a6-bcbf-4320-bb27-746c5522006a",
+      "name": "Demonic gorilla",
+      "members": true,
+      "release_date": "2016-05-06",
+      "examine": "One of Glough's demonic creations.",
+      "combat_level_override": null,
+      "max_hit_override": 0,
+      "target_types": [
+        "demon"
+      ],
+      "classification_types": [
+        "monkey",
+        "black demon"
+      ],
+      "poison": false,
+      "immune_poison": false,
+      "immune_venom": false,
+      "slayer_xp": 408.5,
+      "slayer_level": 1,
+      "slayer_masters": [
+        "turael",
+        "chaeldar",
+        "duradel",
+        "nieve"
+      ],
+      "icon_base64": null
+    },
+    "relationships": {
+      "combat_stat": {
+        "data": {
+          "id": "a323b68e-c6d6-402b-a8ec-cfe35234a5ac",
+          "type": "combat_stat"
+        }
+      },
+      "equip_stat": {
+        "data": {
+          "id": "5230d9d4-248c-49d0-ac29-0e39050fd596",
+          "type": "equip_stat"
+        }
+      },
+      "attack_stat": {
+        "data": {
+          "id": "9e43dcc8-ae0d-499f-aa3d-7250ba5ee8f6",
+          "type": "attack_stat"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Demonic_gorilla"
+    },
+    "meta": {
+      "incomplete": true
+    }
+  },
+  "included": [
+    {
+      "id": "9e43dcc8-ae0d-499f-aa3d-7250ba5ee8f6",
+      "type": "attack_stat",
+      "attributes": {
+        "attack_speed": 5,
+        "attack_type": "monster",
+        "special": null,
+        "stances": [
+          {
+            "name": "Monster crush",
+            "style": null,
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": null,
+            "combat_accuracy_stat": "attack_level",
+            "combat_damage_stat": "strength_level",
+            "equip_accuracy_stat": "crush_attack",
+            "equip_damage_stat": "crush_attack",
+            "target_equip_defense_stat": "crush_defense"
+          },
+          {
+            "name": "Monster ranged",
+            "style": null,
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": null,
+            "combat_accuracy_stat": "ranged_level",
+            "combat_damage_stat": "ranged_level",
+            "equip_accuracy_stat": "ranged_attack",
+            "equip_damage_stat": "ranged_attack",
+            "target_equip_defense_stat": "ranged_defense"
+          },
+          {
+            "name": "Monster magic",
+            "style": null,
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": null,
+            "combat_accuracy_stat": "magic_level",
+            "combat_damage_stat": "magic_level",
+            "equip_accuracy_stat": "magic_attack",
+            "equip_damage_stat": "magic_attack",
+            "target_equip_defense_stat": "magic_defense"
+          }
+        ]
+      }
+    },
+    {
+      "id": "a323b68e-c6d6-402b-a8ec-cfe35234a5ac",
+      "type": "monster_combat_stat",
+      "attributes": {
+        "hitpoints_level": 380,
+        "attack_level": 205,
+        "strength_level": 195,
+        "defense_level": 200,
+        "magic_level": 195,
+        "ranged_level": 195,
+        "prayer_level": 0
+      }
+    },
+    {
+      "id": "5230d9d4-248c-49d0-ac29-0e39050fd596",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 43,
+        "slash_attack": 43,
+        "crush_attack": 43,
+        "ranged_attack": 43,
+        "magic_attack": 40,
+        "stab_defense": 0,
+        "slash_defense": 0,
+        "crush_defense": 0,
+        "ranged_defense": 0,
+        "magic_defense": 50,
+        "melee_strength": 29,
+        "ranged_strength": 29,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

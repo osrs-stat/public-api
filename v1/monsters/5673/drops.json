@@ -1,0 +1,132 @@
+{
+  "data": [
+    {
+      "id": "526-5673",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Bones",
+        "monster_name": "Undead Lumberjack (Level 45)"
+      }
+    },
+    {
+      "id": "960-5673",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Plank",
+        "monster_name": "Undead Lumberjack (Level 45)"
+      }
+    },
+    {
+      "id": "10939-5673",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.25"
+      },
+      "meta": {
+        "item_name": "Lumberjack top",
+        "monster_name": "Undead Lumberjack (Level 45)"
+      }
+    },
+    {
+      "id": "10940-5673",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.25"
+      },
+      "meta": {
+        "item_name": "Lumberjack legs",
+        "monster_name": "Undead Lumberjack (Level 45)"
+      }
+    },
+    {
+      "id": "10941-5673",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.25"
+      },
+      "meta": {
+        "item_name": "Lumberjack hat",
+        "monster_name": "Undead Lumberjack (Level 45)"
+      }
+    },
+    {
+      "id": "10933-5673",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.25"
+      },
+      "meta": {
+        "item_name": "Lumberjack boots",
+        "monster_name": "Undead Lumberjack (Level 45)"
+      }
+    },
+    {
+      "id": "7863-5673",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.25"
+      },
+      "meta": {
+        "item_name": "Zombie bone (Unpolished)",
+        "monster_name": "Undead Lumberjack (Level 45)"
+      }
+    },
+    {
+      "id": "6807-5673",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0002"
+      },
+      "meta": {
+        "item_name": "Zombie champion scroll",
+        "monster_name": "Undead Lumberjack (Level 45)"
+      }
+    }
+  ]
+}

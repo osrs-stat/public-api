@@ -1,0 +1,75 @@
+{
+  "data": {
+    "id": "10350",
+    "type": "item",
+    "attributes": {
+      "uuid": "01e26c98-205f-4f8e-abb8-9fcb7485388a",
+      "name": "3rd age full helmet",
+      "members": true,
+      "release_date": "2006-12-05",
+      "examine": "Fabulously ancient armour beaten from magical silver.",
+      "tradeable": false,
+      "ge_tradeable": false,
+      "lowalch": 36000,
+      "highalch": 54000,
+      "is_equip": true,
+      "is_weapon": false,
+      "icon_base64": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACaElEQVR4Xu3WT0sbYRAG8MwH8FgIBSEHD9KD9AvpzYPYgqA96s3/hRRK1GotVmNrNRoSJBoNCTE1hoREQ0MK3oWC9DNMeWaZzW6QnvZ99+LAsMQE9pdnZt8YiTyX0SL2d6hF/GJw0Ncho4ijQ0NuK+h1LBYGirjxs8K3tRr/aja5e3frQ/V/2kI5oLt6nTutlnStXBZUCCkRl3I5AbUbDUkH12qxyBfpdBgpkdxcQb/bbRld5fKCz1Ip/vFl2zaKZFTN6rULyp8cc3p3l78mEpxYWebFuVlboyO+yuf5plTi1k1Vdgcg4NLJJO+tr/Ha+1UXYxhEXDw9lXFhgZES9gcNEKBI6t3bNzbSIVlYTadeuZJk0ABhn/DedaHAqZ0d0yDi3NGhpAMM0gEAI7vvdGRs+hqpAY5dMrTUJE/NZSYjT5FiMCI8WffdrrtHeA+fKWSz/G1rkz8uLZlAER983pLdwA0xKmA0DZzSgOFvSK98fiYJZQ++82Y8zrMzM0GjSL4tzhcchkgAADzuwOCqIKSI0eLxx5fQsQX8tBEnP23IjRSEJPTnAiAnAaex0PH5efd1wBgUydmS2d/3gbBH3pvi+ufhQRZfQeNjo0GPC0USvXdkAGFEaC/o7+OjjO/DwoIPFHhCWM6Xw69cEJZbQVjuXgokxwCeLhyOxkD4oQQIjYOvH4RUdHza05OT5kD6P87/QDgCvAs+NTFhCoTq7QlQCgJGW1GWQJGIgmIjI4IKHdQrB4X2Yp4CDUSjNkCoHqq/FQSMRRDqaZQXpBhLIJRz836Q7ptljFN6c20vwjrGWwoJFWGq/gHHY0+rp8bu4wAAAABJRU5ErkJggg=="
+    },
+    "relationships": {
+      "equip": {
+        "data": {
+          "id": "199f63dd-1570-4669-9854-9b6213422982",
+          "type": "equip"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/3rd_age_full_helmet"
+    },
+    "meta": {
+      "incomplete": false
+    }
+  },
+  "included": [
+    {
+      "id": "199f63dd-1570-4669-9854-9b6213422982",
+      "type": "equip",
+      "attributes": {
+        "slot": "head",
+        "passive_effect": null,
+        "requirements": {
+          "defense_level": 65
+        }
+      },
+      "relationships": {
+        "equip_stat": {
+          "data": {
+            "id": "f864d32b-59b8-46b0-a8cc-89ef111ce39f",
+            "type": "equip_stat"
+          }
+        }
+      }
+    },
+    {
+      "id": "f864d32b-59b8-46b0-a8cc-89ef111ce39f",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 0,
+        "slash_attack": 0,
+        "crush_attack": 0,
+        "ranged_attack": -2,
+        "magic_attack": -5,
+        "stab_defense": 47,
+        "slash_defense": 49,
+        "crush_defense": 43,
+        "ranged_defense": 48,
+        "magic_defense": -3,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

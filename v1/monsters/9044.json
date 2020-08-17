@@ -1,0 +1,117 @@
+{
+  "data": {
+    "id": "9044",
+    "type": "monster",
+    "attributes": {
+      "uuid": "35c9956c-7624-4637-a0e9-572dbf51b7b3",
+      "name": "Corrupted Scorpion",
+      "members": true,
+      "release_date": "2019-07-25",
+      "examine": "Every miner’s nightmare.",
+      "combat_level_override": null,
+      "max_hit_override": 0,
+      "target_types": [
+
+      ],
+      "classification_types": [
+
+      ],
+      "poison": false,
+      "immune_poison": false,
+      "immune_venom": false,
+      "slayer_xp": null,
+      "slayer_level": null,
+      "slayer_masters": [
+
+      ],
+      "icon_base64": null
+    },
+    "relationships": {
+      "combat_stat": {
+        "data": {
+          "id": "88a91371-5bbf-4d95-ad63-99d692390260",
+          "type": "combat_stat"
+        }
+      },
+      "equip_stat": {
+        "data": {
+          "id": "34cb9afb-a5be-4cdc-82e2-aa717b9be799",
+          "type": "equip_stat"
+        }
+      },
+      "attack_stat": {
+        "data": {
+          "id": "898f3d2c-4eb1-4ab8-a54e-74d50b58e494",
+          "type": "attack_stat"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Corrupted_Scorpion"
+    },
+    "meta": {
+      "incomplete": true
+    }
+  },
+  "included": [
+    {
+      "id": "898f3d2c-4eb1-4ab8-a54e-74d50b58e494",
+      "type": "attack_stat",
+      "attributes": {
+        "attack_speed": 4,
+        "attack_type": "monster",
+        "special": null,
+        "stances": [
+          {
+            "name": "Monster melee",
+            "style": null,
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": null,
+            "combat_accuracy_stat": "attack_level",
+            "combat_damage_stat": "strength_level",
+            "equip_accuracy_stat": "crush_attack",
+            "equip_damage_stat": "crush_attack",
+            "target_equip_defense_stat": "crush_defense"
+          }
+        ]
+      }
+    },
+    {
+      "id": "88a91371-5bbf-4d95-ad63-99d692390260",
+      "type": "monster_combat_stat",
+      "attributes": {
+        "hitpoints_level": 38,
+        "attack_level": 72,
+        "strength_level": 159,
+        "defense_level": 18,
+        "magic_level": 18,
+        "ranged_level": 0,
+        "prayer_level": 0
+      }
+    },
+    {
+      "id": "34cb9afb-a5be-4cdc-82e2-aa717b9be799",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 0,
+        "slash_attack": 0,
+        "crush_attack": 0,
+        "ranged_attack": 0,
+        "magic_attack": 0,
+        "stab_defense": 0,
+        "slash_defense": 0,
+        "crush_defense": 0,
+        "ranged_defense": 0,
+        "magic_defense": 0,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "data": [
+    {
+      "id": "13450-2848",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0285714285714286"
+      },
+      "meta": {
+        "item_name": "Ensouled monkey head (Drop)",
+        "monster_name": "Monkey (monster) (Common)"
+      }
+    },
+    {
+      "id": "13450-1038",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0285714285714286"
+      },
+      "meta": {
+        "item_name": "Ensouled monkey head (Drop)",
+        "monster_name": "Monkey (monster) (Mos Le'Harmless)"
+      }
+    },
+    {
+      "id": "13450-5276",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0285714285714286"
+      },
+      "meta": {
+        "item_name": "Ensouled monkey head (Drop)",
+        "monster_name": "Monkey Guard (Bearded)"
+      }
+    },
+    {
+      "id": "13450-5275",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0285714285714286"
+      },
+      "meta": {
+        "item_name": "Ensouled monkey head (Drop)",
+        "monster_name": "Monkey Guard (Unbearded)"
+      }
+    },
+    {
+      "id": "13450-5272",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0285714285714286"
+      },
+      "meta": {
+        "item_name": "Ensouled monkey head (Drop)",
+        "monster_name": "Monkey Archer"
+      }
+    }
+  ]
+}

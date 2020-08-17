@@ -1,0 +1,31 @@
+{
+  "data": {
+    "id": "52",
+    "type": "item",
+    "attributes": {
+      "uuid": "c2d3de9b-8c36-4574-8021-7b997f702901",
+      "name": "Arrow shaft",
+      "members": true,
+      "release_date": "2002-03-25",
+      "examine": "A wooden arrow shaft.",
+      "tradeable": false,
+      "ge_tradeable": false,
+      "lowalch": 0,
+      "highalch": 0,
+      "is_equip": false,
+      "is_weapon": false,
+      "icon_base64": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAAaElEQVR4Xu3QsQmAMBhE4aS0cIeMYOEEDuEW7l/+gkHECFcmJ7wP0iQpHpcSYClHezNQjn2dwiTqiVlKuU77o7N3UPvaGesorKOwjsI6CusorKPUGJOgb8zwoGObXWJuVjGVVQyAvzsBZy9vJSl1EJoAAAAASUVORK5CYII="
+    },
+    "relationships": {
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Arrow_shaft"
+    },
+    "meta": {
+      "incomplete": false
+    }
+  },
+  "included": [
+
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "id": "1525-530",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.036231884057971"
+      },
+      "meta": {
+        "item_name": "Grimy snake weed",
+        "monster_name": "Tribesman"
+      }
+    },
+    {
+      "id": "1525-2094",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0387596899224806"
+      },
+      "meta": {
+        "item_name": "Grimy snake weed",
+        "monster_name": "Jogre (Normal)"
+      }
+    },
+    {
+      "id": "1525-2234",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0387596899224806"
+      },
+      "meta": {
+        "item_name": "Grimy snake weed",
+        "monster_name": "Jogre (GWD)"
+      }
+    }
+  ]
+}

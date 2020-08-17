@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "1673-724",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0487329434697856"
+      },
+      "meta": {
+        "item_name": "Gold amulet (u)",
+        "monster_name": "Mummy (Level 98)"
+      }
+    },
+    {
+      "id": "1673-949",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0487329434697856"
+      },
+      "meta": {
+        "item_name": "Gold amulet (u)",
+        "monster_name": "Mummy (Level 84)"
+      }
+    },
+    {
+      "id": "1673-717",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0487329434697856"
+      },
+      "meta": {
+        "item_name": "Gold amulet (u)",
+        "monster_name": "Mummy (Level 96)"
+      }
+    },
+    {
+      "id": "1673-720",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0487329434697856"
+      },
+      "meta": {
+        "item_name": "Gold amulet (u)",
+        "monster_name": "Mummy (Level 103)"
+      }
+    }
+  ]
+}

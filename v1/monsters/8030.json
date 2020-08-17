@@ -1,0 +1,135 @@
+{
+  "data": {
+    "id": "8030",
+    "type": "monster",
+    "attributes": {
+      "uuid": "7472050d-6f55-4db6-8b33-2451ba17fdab",
+      "name": "Adamant dragon",
+      "members": true,
+      "release_date": "2018-01-04",
+      "examine": "Its scales seem to be made of adamantite.",
+      "combat_level_override": 338,
+      "max_hit_override": 29,
+      "target_types": [
+        "dragon",
+        "fiery"
+      ],
+      "classification_types": [
+        "adamant dragon"
+      ],
+      "poison": false,
+      "immune_poison": true,
+      "immune_venom": true,
+      "slayer_xp": 324.5,
+      "slayer_level": 1,
+      "slayer_masters": [
+        "konar",
+        "nieve",
+        "duradel"
+      ],
+      "icon_base64": null
+    },
+    "relationships": {
+      "combat_stat": {
+        "data": {
+          "id": "4ca03dd7-8045-47ce-8dba-94e2b4812b59",
+          "type": "combat_stat"
+        }
+      },
+      "equip_stat": {
+        "data": {
+          "id": "0a03924e-2aae-42c8-ad99-7a4fa3e69948",
+          "type": "equip_stat"
+        }
+      },
+      "attack_stat": {
+        "data": {
+          "id": "e870ea4d-9048-4c4f-acd0-11f9ca912007",
+          "type": "attack_stat"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Adamant_dragon"
+    },
+    "meta": {
+      "incomplete": true
+    }
+  },
+  "included": [
+    {
+      "id": "e870ea4d-9048-4c4f-acd0-11f9ca912007",
+      "type": "attack_stat",
+      "attributes": {
+        "attack_speed": 4,
+        "attack_type": "monster",
+        "special": null,
+        "stances": [
+          {
+            "name": "Monster melee",
+            "style": null,
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": null,
+            "combat_accuracy_stat": "attack_level",
+            "combat_damage_stat": "strength_level",
+            "equip_accuracy_stat": "crush_attack",
+            "equip_damage_stat": "crush_attack",
+            "target_equip_defense_stat": "crush_defense"
+          },
+          {
+            "name": "Monster ranged",
+            "style": null,
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": null,
+            "combat_accuracy_stat": "ranged_level",
+            "combat_damage_stat": "ranged_level",
+            "equip_accuracy_stat": "ranged_attack",
+            "equip_damage_stat": "ranged_attack",
+            "target_equip_defense_stat": "ranged_defense"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4ca03dd7-8045-47ce-8dba-94e2b4812b59",
+      "type": "monster_combat_stat",
+      "attributes": {
+        "hitpoints_level": 295,
+        "attack_level": 280,
+        "strength_level": 280,
+        "defense_level": 272,
+        "magic_level": 186,
+        "ranged_level": 186,
+        "prayer_level": 0
+      }
+    },
+    {
+      "id": "0a03924e-2aae-42c8-ad99-7a4fa3e69948",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 0,
+        "slash_attack": 0,
+        "crush_attack": 0,
+        "ranged_attack": 0,
+        "magic_attack": 0,
+        "stab_defense": 30,
+        "slash_defense": 110,
+        "crush_defense": 85,
+        "ranged_defense": 95,
+        "magic_defense": 30,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "id": "9010-2474",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0297029702970297"
+      },
+      "meta": {
+        "item_name": "Top of sceptre",
+        "monster_name": "Catablepon (Level 49)"
+      }
+    },
+    {
+      "id": "9010-2475",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0297029702970297"
+      },
+      "meta": {
+        "item_name": "Top of sceptre",
+        "monster_name": "Catablepon (Level 64)"
+      }
+    },
+    {
+      "id": "9010-2476",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0297029702970297"
+      },
+      "meta": {
+        "item_name": "Top of sceptre",
+        "monster_name": "Catablepon (Level 68)"
+      }
+    }
+  ]
+}

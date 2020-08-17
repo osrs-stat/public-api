@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "id": "1761-7411",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 25,
+        "quantity_max": null,
+        "rarity": "0.0344827586206897"
+      },
+      "meta": {
+        "item_name": "Soft clay",
+        "monster_name": "Nechryarch"
+      }
+    },
+    {
+      "id": "1761-8",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 25,
+        "quantity_max": null,
+        "rarity": "0.0344827586206897"
+      },
+      "meta": {
+        "item_name": "Soft clay",
+        "monster_name": "Nechryael"
+      }
+    }
+  ]
+}

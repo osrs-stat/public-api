@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "331-2592",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Raw salmon",
+        "monster_name": "Mogre"
+      }
+    },
+    {
+      "id": "331-6735",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Raw salmon",
+        "monster_name": "River troll (Level 79)"
+      }
+    },
+    {
+      "id": "331-6736",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Raw salmon",
+        "monster_name": "River troll (Level 120)"
+      }
+    },
+    {
+      "id": "331-6737",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Raw salmon",
+        "monster_name": "River troll (Level 159)"
+      }
+    }
+  ]
+}

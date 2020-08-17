@@ -1,0 +1,548 @@
+{
+  "data": [
+    {
+      "id": "2801-530",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0072463768115942"
+      },
+      "meta": {
+        "item_name": "Clue scroll (medium)",
+        "monster_name": "Tribesman"
+      }
+    },
+    {
+      "id": "1933-530",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0072463768115942"
+      },
+      "meta": {
+        "item_name": "Pot of flour",
+        "monster_name": "Tribesman"
+      }
+    },
+    {
+      "id": "1239-530",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0144927536231884"
+      },
+      "meta": {
+        "item_name": "Iron spear (Unpoisoned)",
+        "monster_name": "Tribesman"
+      }
+    },
+    {
+      "id": "6306-530",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 15,
+        "quantity_max": null,
+        "rarity": "0.181159420289855"
+      },
+      "meta": {
+        "item_name": "Trading sticks",
+        "monster_name": "Tribesman"
+      }
+    },
+    {
+      "id": "1237-530",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0507246376811594"
+      },
+      "meta": {
+        "item_name": "Bronze spear (Unpoisoned)",
+        "monster_name": "Tribesman"
+      }
+    },
+    {
+      "id": "827-530",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.0217391304347826"
+      },
+      "meta": {
+        "item_name": "Steel javelin (Unpoisoned)",
+        "monster_name": "Tribesman"
+      }
+    },
+    {
+      "id": "878-530",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 4,
+        "quantity_max": null,
+        "rarity": "0.0144927536231884"
+      },
+      "meta": {
+        "item_name": "Bronze bolts (Poison)",
+        "monster_name": "Tribesman"
+      }
+    },
+    {
+      "id": "887-530",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.0144927536231884"
+      },
+      "meta": {
+        "item_name": "Steel arrow (Poison)",
+        "monster_name": "Tribesman"
+      }
+    },
+    {
+      "id": "828-530",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.0144927536231884"
+      },
+      "meta": {
+        "item_name": "Mithril javelin (Unpoisoned)",
+        "monster_name": "Tribesman"
+      }
+    },
+    {
+      "id": "1243-530",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0072463768115942"
+      },
+      "meta": {
+        "item_name": "Mithril spear (Unpoisoned)",
+        "monster_name": "Tribesman"
+      }
+    },
+    {
+      "id": "1533-530",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.036231884057971"
+      },
+      "meta": {
+        "item_name": "Grimy rogue's purse",
+        "monster_name": "Tribesman"
+      }
+    },
+    {
+      "id": "231-530",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.144927536231884"
+      },
+      "meta": {
+        "item_name": "Snape grass",
+        "monster_name": "Tribesman"
+      }
+    },
+    {
+      "id": "225-530",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0869565217391304"
+      },
+      "meta": {
+        "item_name": "Limpwurt root",
+        "monster_name": "Tribesman"
+      }
+    },
+    {
+      "id": "3188-530",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0869565217391304"
+      },
+      "meta": {
+        "item_name": "Cleaning cloth",
+        "monster_name": "Tribesman"
+      }
+    },
+    {
+      "id": "1525-530",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.036231884057971"
+      },
+      "meta": {
+        "item_name": "Grimy snake weed",
+        "monster_name": "Tribesman"
+      }
+    },
+    {
+      "id": "561-530",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.0579710144927536"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Tribesman"
+      }
+    },
+    {
+      "id": "6306-530",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 62,
+        "quantity_max": null,
+        "rarity": "0.036231884057971"
+      },
+      "meta": {
+        "item_name": "Trading sticks",
+        "monster_name": "Tribesman"
+      }
+    },
+    {
+      "id": "526-530",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Bones",
+        "monster_name": "Tribesman"
+      }
+    },
+    {
+      "id": "211-530",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00373699694925158"
+      },
+      "meta": {
+        "item_name": "Grimy avantoe",
+        "monster_name": "Tribesman"
+      }
+    },
+    {
+      "id": "209-530",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00498188405797101"
+      },
+      "meta": {
+        "item_name": "Grimy irit leaf",
+        "monster_name": "Tribesman"
+      }
+    },
+    {
+      "id": "207-530",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00684795059514916"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Tribesman"
+      }
+    },
+    {
+      "id": "205-530",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00871816088018552"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Tribesman"
+      }
+    },
+    {
+      "id": "203-530",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0112094142775329"
+      },
+      "meta": {
+        "item_name": "Grimy tarromin",
+        "monster_name": "Tribesman"
+      }
+    },
+    {
+      "id": "201-530",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.014946586335559"
+      },
+      "meta": {
+        "item_name": "Grimy marrentill",
+        "monster_name": "Tribesman"
+      }
+    },
+    {
+      "id": "199-530",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0199275362318841"
+      },
+      "meta": {
+        "item_name": "Grimy guam leaf",
+        "monster_name": "Tribesman"
+      }
+    },
+    {
+      "id": "217-530",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00186806057950636"
+      },
+      "meta": {
+        "item_name": "Grimy dwarf weed",
+        "monster_name": "Tribesman"
+      }
+    },
+    {
+      "id": "2485-530",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00186806057950636"
+      },
+      "meta": {
+        "item_name": "Grimy lantadyme",
+        "monster_name": "Tribesman"
+      }
+    },
+    {
+      "id": "215-530",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00249094202898551"
+      },
+      "meta": {
+        "item_name": "Grimy cadantine",
+        "monster_name": "Tribesman"
+      }
+    },
+    {
+      "id": "213-530",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00311367753623188"
+      },
+      "meta": {
+        "item_name": "Grimy kwuarm",
+        "monster_name": "Tribesman"
+      }
+    },
+    {
+      "id": "444-530",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.036231884057971"
+      },
+      "meta": {
+        "item_name": "Gold ore",
+        "monster_name": "Tribesman"
+      }
+    },
+    {
+      "id": "183-530",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0217391304347826"
+      },
+      "meta": {
+        "item_name": "Superantipoison (2 dose)",
+        "monster_name": "Tribesman"
+      }
+    },
+    {
+      "id": "181-530",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0072463768115942"
+      },
+      "meta": {
+        "item_name": "Superantipoison (3 dose)",
+        "monster_name": "Tribesman"
+      }
+    },
+    {
+      "id": "2309-530",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0072463768115942"
+      },
+      "meta": {
+        "item_name": "Bread",
+        "monster_name": "Tribesman"
+      }
+    },
+    {
+      "id": "438-530",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0072463768115942"
+      },
+      "meta": {
+        "item_name": "Tin ore",
+        "monster_name": "Tribesman"
+      }
+    }
+  ]
+}

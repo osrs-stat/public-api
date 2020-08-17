@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "21930-8060",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 50,
+        "quantity_max": 100,
+        "rarity": "0.0533333333333333"
+      },
+      "meta": {
+        "item_name": "Dragon bolts (unf)",
+        "monster_name": "Vorkath (Dragon Slayer II)"
+      }
+    },
+    {
+      "id": "21930-8061",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 50,
+        "quantity_max": 100,
+        "rarity": "0.0533333333333333"
+      },
+      "meta": {
+        "item_name": "Dragon bolts (unf)",
+        "monster_name": "Vorkath (Post-quest)"
+      }
+    },
+    {
+      "id": "21930-8031",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 20,
+        "quantity_max": 40,
+        "rarity": "0.0078740157480315"
+      },
+      "meta": {
+        "item_name": "Dragon bolts (unf)",
+        "monster_name": "Rune dragon"
+      }
+    },
+    {
+      "id": "21930-8030",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 15,
+        "quantity_max": 20,
+        "rarity": "0.00909090909090909"
+      },
+      "meta": {
+        "item_name": "Dragon bolts (unf)",
+        "monster_name": "Adamant dragon"
+      }
+    }
+  ]
+}

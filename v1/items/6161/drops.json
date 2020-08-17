@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "id": "6161-7266",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Rock-shell splinter",
+        "monster_name": "King Sand Crab (Active)"
+      }
+    },
+    {
+      "id": "6161-2261",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Rock-shell splinter",
+        "monster_name": "Giant Rock Crab"
+      }
+    }
+  ]
+}

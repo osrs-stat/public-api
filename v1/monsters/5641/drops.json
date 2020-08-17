@@ -1,0 +1,372 @@
+{
+  "data": [
+    {
+      "id": "995-5641",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 15,
+        "quantity_max": null,
+        "rarity": "0.3125"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Feral Vampyre (Level 100)"
+      }
+    },
+    {
+      "id": "201-5641",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0146493530845678"
+      },
+      "meta": {
+        "item_name": "Grimy marrentill",
+        "monster_name": "Feral Vampyre (Level 100)"
+      }
+    },
+    {
+      "id": "3325-5641",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Vampyre dust",
+        "monster_name": "Feral Vampyre (Level 100)"
+      }
+    },
+    {
+      "id": "557-5641",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 4,
+        "quantity_max": null,
+        "rarity": "0.078125"
+      },
+      "meta": {
+        "item_name": "Earth rune (Regular)",
+        "monster_name": "Feral Vampyre (Level 100)"
+      }
+    },
+    {
+      "id": "560-5641",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.078125"
+      },
+      "meta": {
+        "item_name": "Death rune (Regular)",
+        "monster_name": "Feral Vampyre (Level 100)"
+      }
+    },
+    {
+      "id": "562-5641",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.0625"
+      },
+      "meta": {
+        "item_name": "Chaos rune (Regular)",
+        "monster_name": "Feral Vampyre (Level 100)"
+      }
+    },
+    {
+      "id": "565-5641",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Blood rune (Regular)",
+        "monster_name": "Feral Vampyre (Level 100)"
+      }
+    },
+    {
+      "id": "565-5641",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Blood rune (Regular)",
+        "monster_name": "Feral Vampyre (Level 100)"
+      }
+    },
+    {
+      "id": "1361-5641",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Black axe",
+        "monster_name": "Feral Vampyre (Level 100)"
+      }
+    },
+    {
+      "id": "1440-5641",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Earth talisman",
+        "monster_name": "Feral Vampyre (Level 100)"
+      }
+    },
+    {
+      "id": "11941-5641",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.333333333333333"
+      },
+      "meta": {
+        "item_name": "Looting bag (Closed)",
+        "monster_name": "Feral Vampyre (Level 100)"
+      }
+    },
+    {
+      "id": "11942-5641",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0166666666666667"
+      },
+      "meta": {
+        "item_name": "Ecumenical key",
+        "monster_name": "Feral Vampyre (Level 100)"
+      }
+    },
+    {
+      "id": "2801-5641",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Clue scroll (medium)",
+        "monster_name": "Feral Vampyre (Level 100)"
+      }
+    },
+    {
+      "id": "199-5641",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.01953125"
+      },
+      "meta": {
+        "item_name": "Grimy guam leaf",
+        "monster_name": "Feral Vampyre (Level 100)"
+      }
+    },
+    {
+      "id": "203-5641",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0109864997890592"
+      },
+      "meta": {
+        "item_name": "Grimy tarromin",
+        "monster_name": "Feral Vampyre (Level 100)"
+      }
+    },
+    {
+      "id": "205-5641",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00854478836268183"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Feral Vampyre (Level 100)"
+      }
+    },
+    {
+      "id": "207-5641",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00671176975945017"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Feral Vampyre (Level 100)"
+      }
+    },
+    {
+      "id": "209-5641",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0048828125"
+      },
+      "meta": {
+        "item_name": "Grimy irit leaf",
+        "monster_name": "Feral Vampyre (Level 100)"
+      }
+    },
+    {
+      "id": "211-5641",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00366268166901078"
+      },
+      "meta": {
+        "item_name": "Grimy avantoe",
+        "monster_name": "Feral Vampyre (Level 100)"
+      }
+    },
+    {
+      "id": "213-5641",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0030517578125"
+      },
+      "meta": {
+        "item_name": "Grimy kwuarm",
+        "monster_name": "Feral Vampyre (Level 100)"
+      }
+    },
+    {
+      "id": "215-5641",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00244140625"
+      },
+      "meta": {
+        "item_name": "Grimy cadantine",
+        "monster_name": "Feral Vampyre (Level 100)"
+      }
+    },
+    {
+      "id": "2485-5641",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00183091164752754"
+      },
+      "meta": {
+        "item_name": "Grimy lantadyme",
+        "monster_name": "Feral Vampyre (Level 100)"
+      }
+    },
+    {
+      "id": "217-5641",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00183091164752754"
+      },
+      "meta": {
+        "item_name": "Grimy dwarf weed",
+        "monster_name": "Feral Vampyre (Level 100)"
+      }
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "223-3602",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 3,
+        "quantity_max": 6,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Red spiders' eggs",
+        "monster_name": "Spidine"
+      }
+    },
+    {
+      "id": "10879-3602",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.15"
+      },
+      "meta": {
+        "item_name": "Red satchel",
+        "monster_name": "Spidine"
+      }
+    },
+    {
+      "id": "10859-3602",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.1"
+      },
+      "meta": {
+        "item_name": "Tea flask",
+        "monster_name": "Spidine"
+      }
+    },
+    {
+      "id": "526-3602",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Bones",
+        "monster_name": "Spidine"
+      }
+    }
+  ]
+}

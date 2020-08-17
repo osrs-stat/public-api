@@ -1,0 +1,116 @@
+{
+  "data": [
+    {
+      "id": "4123-7394",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Steel boots",
+        "monster_name": "Flaming pyrelord"
+      }
+    },
+    {
+      "id": "4123-6795",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Steel boots",
+        "monster_name": "Pyrelord (2)"
+      }
+    },
+    {
+      "id": "4123-6762",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Steel boots",
+        "monster_name": "Pyrelord (1)"
+      }
+    },
+    {
+      "id": "4123-3139",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Steel boots",
+        "monster_name": "Pyrefiend (GWD)"
+      }
+    },
+    {
+      "id": "4123-433",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Steel boots",
+        "monster_name": "Pyrefiend (Regular)"
+      }
+    },
+    {
+      "id": "4123-9465",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Steel boots",
+        "monster_name": "Infernal pyrelord"
+      }
+    },
+    {
+      "id": "4123-464",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Steel boots",
+        "monster_name": "Harpie Bug Swarm"
+      }
+    }
+  ]
+}

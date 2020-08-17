@@ -1,0 +1,20 @@
+{
+  "data": [
+    {
+      "id": "7418-5779",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Mole skin",
+        "monster_name": "Giant Mole"
+      }
+    }
+  ]
+}

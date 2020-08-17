@@ -1,0 +1,740 @@
+{
+  "data": [
+    {
+      "id": "995-7144",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5000,
+        "quantity_max": 10000,
+        "rarity": "0.05"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Demonic gorilla"
+      }
+    },
+    {
+      "id": "5295-7144",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.00600024000960038"
+      },
+      "meta": {
+        "item_name": "Ranarr seed",
+        "monster_name": "Demonic gorilla"
+      }
+    },
+    {
+      "id": "22871-7144",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.0008"
+      },
+      "meta": {
+        "item_name": "Redwood tree seed",
+        "monster_name": "Demonic gorilla"
+      }
+    },
+    {
+      "id": "22869-7144",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.0008"
+      },
+      "meta": {
+        "item_name": "Celastrus seed",
+        "monster_name": "Demonic gorilla"
+      }
+    },
+    {
+      "id": "22877-7144",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.00119990400767939"
+      },
+      "meta": {
+        "item_name": "Dragonfruit tree seed",
+        "monster_name": "Demonic gorilla"
+      }
+    },
+    {
+      "id": "5317-7144",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.0016"
+      },
+      "meta": {
+        "item_name": "Spirit seed",
+        "monster_name": "Demonic gorilla"
+      }
+    },
+    {
+      "id": "5289-7144",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.002"
+      },
+      "meta": {
+        "item_name": "Palm tree seed",
+        "monster_name": "Demonic gorilla"
+      }
+    },
+    {
+      "id": "5316-7144",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.00240038406144983"
+      },
+      "meta": {
+        "item_name": "Magic seed",
+        "monster_name": "Demonic gorilla"
+      }
+    },
+    {
+      "id": "5288-7144",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.00279955207166853"
+      },
+      "meta": {
+        "item_name": "Papaya tree seed",
+        "monster_name": "Demonic gorilla"
+      }
+    },
+    {
+      "id": "5315-7144",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.00359971202303816"
+      },
+      "meta": {
+        "item_name": "Yew seed",
+        "monster_name": "Demonic gorilla"
+      }
+    },
+    {
+      "id": "21486-7144",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.00359971202303816"
+      },
+      "meta": {
+        "item_name": "Teak seed",
+        "monster_name": "Demonic gorilla"
+      }
+    },
+    {
+      "id": "5314-7144",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.00359971202303816"
+      },
+      "meta": {
+        "item_name": "Maple seed",
+        "monster_name": "Demonic gorilla"
+      }
+    },
+    {
+      "id": "21488-7144",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.00359971202303816"
+      },
+      "meta": {
+        "item_name": "Mahogany seed",
+        "monster_name": "Demonic gorilla"
+      }
+    },
+    {
+      "id": "5313-7144",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.004"
+      },
+      "meta": {
+        "item_name": "Willow seed",
+        "monster_name": "Demonic gorilla"
+      }
+    },
+    {
+      "id": "5321-7144",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 30,
+        "quantity_max": null,
+        "rarity": "0.004"
+      },
+      "meta": {
+        "item_name": "Watermelon seed",
+        "monster_name": "Demonic gorilla"
+      }
+    },
+    {
+      "id": "5304-7144",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.00440140845070423"
+      },
+      "meta": {
+        "item_name": "Torstol seed",
+        "monster_name": "Demonic gorilla"
+      }
+    },
+    {
+      "id": "5300-7144",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.00559973121290178"
+      },
+      "meta": {
+        "item_name": "Snapdragon seed",
+        "monster_name": "Demonic gorilla"
+      }
+    },
+    {
+      "id": "12073-7144",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.002"
+      },
+      "meta": {
+        "item_name": "Clue scroll (elite)",
+        "monster_name": "Demonic gorilla"
+      }
+    },
+    {
+      "id": "2722-7144",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.01"
+      },
+      "meta": {
+        "item_name": "Clue scroll (hard)",
+        "monster_name": "Demonic gorilla"
+      }
+    },
+    {
+      "id": "2363-7144",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.03"
+      },
+      "meta": {
+        "item_name": "Runite bar",
+        "monster_name": "Demonic gorilla"
+      }
+    },
+    {
+      "id": "1601-7144",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 4,
+        "quantity_max": 6,
+        "rarity": "0.034"
+      },
+      "meta": {
+        "item_name": "Diamond",
+        "monster_name": "Demonic gorilla"
+      }
+    },
+    {
+      "id": "19582-7144",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 27,
+        "quantity_max": 33,
+        "rarity": "0.05"
+      },
+      "meta": {
+        "item_name": "Dragon javelin heads",
+        "monster_name": "Demonic gorilla"
+      }
+    },
+    {
+      "id": "19580-7144",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 45,
+        "quantity_max": 55,
+        "rarity": "0.05"
+      },
+      "meta": {
+        "item_name": "Rune javelin heads",
+        "monster_name": "Demonic gorilla"
+      }
+    },
+    {
+      "id": "19584-7144",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 750,
+        "quantity_max": 1250,
+        "rarity": "0.05"
+      },
+      "meta": {
+        "item_name": "Javelin shaft",
+        "monster_name": "Demonic gorilla"
+      }
+    },
+    {
+      "id": "2361-7144",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 6,
+        "quantity_max": null,
+        "rarity": "0.04"
+      },
+      "meta": {
+        "item_name": "Adamantite bar",
+        "monster_name": "Demonic gorilla"
+      }
+    },
+    {
+      "id": "6689-7144",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.05"
+      },
+      "meta": {
+        "item_name": "Saradomin brew (2 dose)",
+        "monster_name": "Demonic gorilla"
+      }
+    },
+    {
+      "id": "385-7144",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": 3,
+        "rarity": "0.07"
+      },
+      "meta": {
+        "item_name": "Shark",
+        "monster_name": "Demonic gorilla"
+      }
+    },
+    {
+      "id": "139-7144",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.08"
+      },
+      "meta": {
+        "item_name": "Prayer potion (3 dose)",
+        "monster_name": "Demonic gorilla"
+      }
+    },
+    {
+      "id": "217-7144",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 7,
+        "quantity_max": 13,
+        "rarity": "0.009000900090009"
+      },
+      "meta": {
+        "item_name": "Grimy dwarf weed",
+        "monster_name": "Demonic gorilla"
+      }
+    },
+    {
+      "id": "2485-7144",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 7,
+        "quantity_max": 13,
+        "rarity": "0.00675219446320054"
+      },
+      "meta": {
+        "item_name": "Grimy lantadyme",
+        "monster_name": "Demonic gorilla"
+      }
+    },
+    {
+      "id": "215-7144",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 7,
+        "quantity_max": 13,
+        "rarity": "0.009000900090009"
+      },
+      "meta": {
+        "item_name": "Grimy cadantine",
+        "monster_name": "Demonic gorilla"
+      }
+    },
+    {
+      "id": "213-7144",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 7,
+        "quantity_max": 13,
+        "rarity": "0.0112485939257593"
+      },
+      "meta": {
+        "item_name": "Grimy kwuarm",
+        "monster_name": "Demonic gorilla"
+      }
+    },
+    {
+      "id": "9144-7144",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 100,
+        "quantity_max": 150,
+        "rarity": "0.05"
+      },
+      "meta": {
+        "item_name": "Runite bolts (Unpoisoned)",
+        "monster_name": "Demonic gorilla"
+      }
+    },
+    {
+      "id": "560-7144",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 50,
+        "quantity_max": 75,
+        "rarity": "0.07"
+      },
+      "meta": {
+        "item_name": "Death rune (Regular)",
+        "monster_name": "Demonic gorilla"
+      }
+    },
+    {
+      "id": "563-7144",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 50,
+        "quantity_max": 75,
+        "rarity": "0.07"
+      },
+      "meta": {
+        "item_name": "Law rune",
+        "monster_name": "Demonic gorilla"
+      }
+    },
+    {
+      "id": "4587-7144",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.02"
+      },
+      "meta": {
+        "item_name": "Dragon scimitar",
+        "monster_name": "Demonic gorilla"
+      }
+    },
+    {
+      "id": "1113-7144",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.04"
+      },
+      "meta": {
+        "item_name": "Rune chainbody",
+        "monster_name": "Demonic gorilla"
+      }
+    },
+    {
+      "id": "1093-7144",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.07"
+      },
+      "meta": {
+        "item_name": "Rune plateskirt",
+        "monster_name": "Demonic gorilla"
+      }
+    },
+    {
+      "id": "1079-7144",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.07"
+      },
+      "meta": {
+        "item_name": "Rune platelegs",
+        "monster_name": "Demonic gorilla"
+      }
+    },
+    {
+      "id": "19610-7144",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000666666666666667"
+      },
+      "meta": {
+        "item_name": "Monkey tail",
+        "monster_name": "Demonic gorilla"
+      }
+    },
+    {
+      "id": "19589-7144",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000666666666666667"
+      },
+      "meta": {
+        "item_name": "Heavy frame",
+        "monster_name": "Demonic gorilla"
+      }
+    },
+    {
+      "id": "19586-7144",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00133333333333333"
+      },
+      "meta": {
+        "item_name": "Light frame",
+        "monster_name": "Demonic gorilla"
+      }
+    },
+    {
+      "id": "19601-7144",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.002"
+      },
+      "meta": {
+        "item_name": "Ballista spring",
+        "monster_name": "Demonic gorilla"
+      }
+    },
+    {
+      "id": "19592-7144",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.002"
+      },
+      "meta": {
+        "item_name": "Ballista limbs",
+        "monster_name": "Demonic gorilla"
+      }
+    },
+    {
+      "id": "19529-7144",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00333333333333333"
+      },
+      "meta": {
+        "item_name": "Zenyte shard",
+        "monster_name": "Demonic gorilla"
+      }
+    },
+    {
+      "id": "592-7144",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Ashes",
+        "monster_name": "Demonic gorilla"
+      }
+    }
+  ]
+}

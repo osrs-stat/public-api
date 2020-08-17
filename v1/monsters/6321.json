@@ -1,0 +1,132 @@
+{
+  "data": {
+    "id": "6321",
+    "type": "monster",
+    "attributes": {
+      "uuid": "e9e659c9-ba9e-45aa-8b75-d44938484609",
+      "name": "Jungle Demon (Hard)",
+      "members": true,
+      "release_date": "2013-09-05",
+      "examine": "A Greater Jungle demon. A magical aura emanates from its hide.",
+      "combat_level_override": null,
+      "max_hit_override": 62,
+      "target_types": [
+        "demon"
+      ],
+      "classification_types": [
+
+      ],
+      "poison": false,
+      "immune_poison": false,
+      "immune_venom": false,
+      "slayer_xp": null,
+      "slayer_level": null,
+      "slayer_masters": [
+
+      ],
+      "icon_base64": null
+    },
+    "relationships": {
+      "combat_stat": {
+        "data": {
+          "id": "04bbf186-8464-4d9d-9cd3-e26836e687f5",
+          "type": "combat_stat"
+        }
+      },
+      "equip_stat": {
+        "data": {
+          "id": "ce46f95f-1199-485f-851a-c169ea929a3c",
+          "type": "equip_stat"
+        }
+      },
+      "attack_stat": {
+        "data": {
+          "id": "fca7e928-54c3-40d9-91c1-0b3d81707190",
+          "type": "attack_stat"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Jungle_Demon#Hard"
+    },
+    "meta": {
+      "incomplete": true
+    }
+  },
+  "included": [
+    {
+      "id": "fca7e928-54c3-40d9-91c1-0b3d81707190",
+      "type": "attack_stat",
+      "attributes": {
+        "attack_speed": 6,
+        "attack_type": "monster",
+        "special": null,
+        "stances": [
+          {
+            "name": "Monster slash",
+            "style": null,
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": null,
+            "combat_accuracy_stat": "attack_level",
+            "combat_damage_stat": "strength_level",
+            "equip_accuracy_stat": "slash_attack",
+            "equip_damage_stat": "slash_attack",
+            "target_equip_defense_stat": "slash_defense"
+          },
+          {
+            "name": "Monster magic",
+            "style": null,
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": null,
+            "combat_accuracy_stat": "magic_level",
+            "combat_damage_stat": "magic_level",
+            "equip_accuracy_stat": "magic_attack",
+            "equip_damage_stat": "magic_attack",
+            "target_equip_defense_stat": "magic_defense"
+          }
+        ]
+      }
+    },
+    {
+      "id": "04bbf186-8464-4d9d-9cd3-e26836e687f5",
+      "type": "monster_combat_stat",
+      "attributes": {
+        "hitpoints_level": 255,
+        "attack_level": 340,
+        "strength_level": 340,
+        "defense_level": 170,
+        "magic_level": 340,
+        "ranged_level": 1,
+        "prayer_level": 0
+      }
+    },
+    {
+      "id": "ce46f95f-1199-485f-851a-c169ea929a3c",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 50,
+        "slash_attack": 50,
+        "crush_attack": 50,
+        "ranged_attack": 0,
+        "magic_attack": 0,
+        "stab_defense": 0,
+        "slash_defense": 50,
+        "crush_defense": 0,
+        "ranged_defense": 0,
+        "magic_defense": 50,
+        "melee_strength": 50,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "data": [
+    {
+      "id": "407-4819",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.1"
+      },
+      "meta": {
+        "item_name": "Oyster",
+        "monster_name": "Crab (Level 23)"
+      }
+    },
+    {
+      "id": "7536-4819",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.125"
+      },
+      "meta": {
+        "item_name": "Fresh crab claw",
+        "monster_name": "Crab (Level 23)"
+      }
+    },
+    {
+      "id": "7518-4819",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Crab meat",
+        "monster_name": "Crab (Level 23)"
+      }
+    },
+    {
+      "id": "7518-4819",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Crab meat",
+        "monster_name": "Crab (Level 23)"
+      }
+    },
+    {
+      "id": "7536-4819",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0625"
+      },
+      "meta": {
+        "item_name": "Fresh crab claw",
+        "monster_name": "Crab (Level 23)"
+      }
+    },
+    {
+      "id": "7538-4819",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0625"
+      },
+      "meta": {
+        "item_name": "Fresh crab shell",
+        "monster_name": "Crab (Level 23)"
+      }
+    },
+    {
+      "id": "407-4819",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.1"
+      },
+      "meta": {
+        "item_name": "Oyster",
+        "monster_name": "Crab (Level 23)"
+      }
+    },
+    {
+      "id": "7538-4819",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.125"
+      },
+      "meta": {
+        "item_name": "Fresh crab shell",
+        "monster_name": "Crab (Level 23)"
+      }
+    }
+  ]
+}

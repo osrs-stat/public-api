@@ -1,0 +1,212 @@
+{
+  "data": [
+    {
+      "id": "1337-2237",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Bronze warhammer",
+        "monster_name": "Ork"
+      }
+    },
+    {
+      "id": "1337-1409",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Bronze warhammer",
+        "monster_name": "Black Guard (Level 25)"
+      }
+    },
+    {
+      "id": "1337-6052",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Bronze warhammer",
+        "monster_name": "Black Guard Berserker (Green)"
+      }
+    },
+    {
+      "id": "1337-6051",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Bronze warhammer",
+        "monster_name": "Black Guard Berserker (Blue)"
+      }
+    },
+    {
+      "id": "1337-3940",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.1953125"
+      },
+      "meta": {
+        "item_name": "Bronze warhammer",
+        "monster_name": "Lanzig"
+      }
+    },
+    {
+      "id": "1337-3943",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.1953125"
+      },
+      "meta": {
+        "item_name": "Bronze warhammer",
+        "monster_name": "Lensa"
+      }
+    },
+    {
+      "id": "1337-3939",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.1953125"
+      },
+      "meta": {
+        "item_name": "Bronze warhammer",
+        "monster_name": "Borrokar"
+      }
+    },
+    {
+      "id": "1337-3944",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.1953125"
+      },
+      "meta": {
+        "item_name": "Bronze warhammer",
+        "monster_name": "Jennella"
+      }
+    },
+    {
+      "id": "1337-3949",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Bronze warhammer",
+        "monster_name": "Market Guard"
+      }
+    },
+    {
+      "id": "1337-3950",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Bronze warhammer",
+        "monster_name": "Warrior (Rellekka)"
+      }
+    },
+    {
+      "id": "1337-6046",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Bronze warhammer",
+        "monster_name": "Black Guard (Level 48)"
+      }
+    },
+    {
+      "id": "1337-6050",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Bronze warhammer",
+        "monster_name": "Black Guard Berserker (Red)"
+      }
+    },
+    {
+      "id": "1337-3938",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.1953125"
+      },
+      "meta": {
+        "item_name": "Bronze warhammer",
+        "monster_name": "Freidir"
+      }
+    }
+  ]
+}

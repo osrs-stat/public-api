@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "13507-7410",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Ensouled abyssal head (Drop)",
+        "monster_name": "Greater abyssal demon"
+      }
+    },
+    {
+      "id": "13507-415",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.04"
+      },
+      "meta": {
+        "item_name": "Ensouled abyssal head (Drop)",
+        "monster_name": "Abyssal demon (Standard)"
+      }
+    },
+    {
+      "id": "13507-2586",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.025"
+      },
+      "meta": {
+        "item_name": "Ensouled abyssal head (Drop)",
+        "monster_name": "Abyssal walker"
+      }
+    },
+    {
+      "id": "13507-7241",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.04"
+      },
+      "meta": {
+        "item_name": "Ensouled abyssal head (Drop)",
+        "monster_name": "Abyssal demon (Catacombs of Kourend)"
+      }
+    }
+  ]
+}

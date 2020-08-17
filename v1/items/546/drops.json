@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "id": "546-6740",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.25"
+      },
+      "meta": {
+        "item_name": "Shade robe top",
+        "monster_name": "Shade (Stronghold of Security)"
+      }
+    },
+    {
+      "id": "546-7258",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.25"
+      },
+      "meta": {
+        "item_name": "Shade robe top",
+        "monster_name": "Shade (Catacombs of Kourend)"
+      }
+    }
+  ]
+}

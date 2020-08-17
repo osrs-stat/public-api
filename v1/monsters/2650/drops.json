@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "3357-2650",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Blamish red shell (pointed)",
+        "monster_name": "Blood Blamish Snail (Pointed)"
+      }
+    },
+    {
+      "id": "3367-2650",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Fat snail",
+        "monster_name": "Blood Blamish Snail (Pointed)"
+      }
+    },
+    {
+      "id": "3367-2650",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Fat snail",
+        "monster_name": "Blood Blamish Snail (Pointed)"
+      }
+    },
+    {
+      "id": "3347-2650",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Blamish red shell (round)",
+        "monster_name": "Blood Blamish Snail (Pointed)"
+      }
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "data": [
+    {
+      "id": "995-6087",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 300,
+        "quantity_max": null,
+        "rarity": "0.234375"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Gnome woman (2)"
+      }
+    },
+    {
+      "id": "569-6087",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Fire orb",
+        "monster_name": "Gnome woman (2)"
+      }
+    },
+    {
+      "id": "2162-6087",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.4296875"
+      },
+      "meta": {
+        "item_name": "King worm",
+        "monster_name": "Gnome woman (2)"
+      }
+    },
+    {
+      "id": "2150-6087",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.21875"
+      },
+      "meta": {
+        "item_name": "Swamp toad (item)",
+        "monster_name": "Gnome woman (2)"
+      }
+    },
+    {
+      "id": "444-6087",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0625"
+      },
+      "meta": {
+        "item_name": "Gold ore",
+        "monster_name": "Gnome woman (2)"
+      }
+    },
+    {
+      "id": "557-6087",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Earth rune (Regular)",
+        "monster_name": "Gnome woman (2)"
+      }
+    },
+    {
+      "id": "526-6087",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Bones",
+        "monster_name": "Gnome woman (2)"
+      }
+    }
+  ]
+}

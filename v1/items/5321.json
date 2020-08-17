@@ -1,0 +1,31 @@
+{
+  "data": {
+    "id": "5321",
+    "type": "item",
+    "attributes": {
+      "uuid": "ee3722d2-231f-437d-8130-3bc9410c547b",
+      "name": "Watermelon seed",
+      "members": true,
+      "release_date": "2005-06-06",
+      "examine": "A watermelon seed - plant in an allotment.",
+      "tradeable": false,
+      "ge_tradeable": false,
+      "lowalch": 22,
+      "highalch": 33,
+      "is_equip": false,
+      "is_weapon": false,
+      "icon_base64": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAAaklEQVR4Xu3QoQrAMAxF0UZWVFQUylSZmhoT+/9fS0nKJmrmtsd4B0IhMZeGQERERPRAdN58xEJElxj9na8vE91y1jUlDwKIEt1LuaNsbHe0hhMFEXTW6lEgQWb80hUDEGSgYgaoGCKiv+n7eC67XZtiqAAAAABJRU5ErkJggg=="
+    },
+    "relationships": {
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Watermelon_seed"
+    },
+    "meta": {
+      "incomplete": false
+    }
+  },
+  "included": [
+
+  ]
+}

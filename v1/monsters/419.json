@@ -1,0 +1,119 @@
+{
+  "data": {
+    "id": "419",
+    "type": "monster",
+    "attributes": {
+      "uuid": "cb7c3495-b41d-4ded-85ba-a2448f1e9f90",
+      "name": "Cockatrice",
+      "members": true,
+      "release_date": "2005-01-26",
+      "examine": "The winged reptile.",
+      "combat_level_override": null,
+      "max_hit_override": null,
+      "target_types": [
+
+      ],
+      "classification_types": [
+        "cockatrice"
+      ],
+      "poison": false,
+      "immune_poison": false,
+      "immune_venom": false,
+      "slayer_xp": 37.0,
+      "slayer_level": 25,
+      "slayer_masters": [
+        "mazchna",
+        "vannaka",
+        "chaeldar"
+      ],
+      "icon_base64": null
+    },
+    "relationships": {
+      "combat_stat": {
+        "data": {
+          "id": "8923952d-e31b-4a2a-82b9-e485d0f64ad4",
+          "type": "combat_stat"
+        }
+      },
+      "equip_stat": {
+        "data": {
+          "id": "cb120b80-284f-40cd-849d-26ecdb71afcb",
+          "type": "equip_stat"
+        }
+      },
+      "attack_stat": {
+        "data": {
+          "id": "6c1b835d-a860-4e99-92e2-47f11dc2d32b",
+          "type": "attack_stat"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Cockatrice"
+    },
+    "meta": {
+      "incomplete": true
+    }
+  },
+  "included": [
+    {
+      "id": "6c1b835d-a860-4e99-92e2-47f11dc2d32b",
+      "type": "attack_stat",
+      "attributes": {
+        "attack_speed": 4,
+        "attack_type": "monster",
+        "special": null,
+        "stances": [
+          {
+            "name": "Monster melee",
+            "style": null,
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": null,
+            "combat_accuracy_stat": "attack_level",
+            "combat_damage_stat": "strength_level",
+            "equip_accuracy_stat": "crush_attack",
+            "equip_damage_stat": "crush_attack",
+            "target_equip_defense_stat": "crush_defense"
+          }
+        ]
+      }
+    },
+    {
+      "id": "8923952d-e31b-4a2a-82b9-e485d0f64ad4",
+      "type": "monster_combat_stat",
+      "attributes": {
+        "hitpoints_level": 37,
+        "attack_level": 22,
+        "strength_level": 37,
+        "defense_level": 37,
+        "magic_level": 1,
+        "ranged_level": 1,
+        "prayer_level": 0
+      }
+    },
+    {
+      "id": "cb120b80-284f-40cd-849d-26ecdb71afcb",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 0,
+        "slash_attack": 0,
+        "crush_attack": 0,
+        "ranged_attack": 0,
+        "magic_attack": 0,
+        "stab_defense": 10,
+        "slash_defense": 10,
+        "crush_defense": 0,
+        "ranged_defense": 0,
+        "magic_defense": 10,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

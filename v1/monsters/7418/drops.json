@@ -1,0 +1,132 @@
+{
+  "data": [
+    {
+      "id": "1301-7418",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.02"
+      },
+      "meta": {
+        "item_name": "Adamant longsword",
+        "monster_name": "Zamorak warrior (Level 84)"
+      }
+    },
+    {
+      "id": "1325-7418",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.04"
+      },
+      "meta": {
+        "item_name": "Steel scimitar",
+        "monster_name": "Zamorak warrior (Level 84)"
+      }
+    },
+    {
+      "id": "1207-7418",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.04"
+      },
+      "meta": {
+        "item_name": "Steel dagger (Unpoisoned)",
+        "monster_name": "Zamorak warrior (Level 84)"
+      }
+    },
+    {
+      "id": "1333-7418",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.02"
+      },
+      "meta": {
+        "item_name": "Rune scimitar",
+        "monster_name": "Zamorak warrior (Level 84)"
+      }
+    },
+    {
+      "id": "379-7418",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.04"
+      },
+      "meta": {
+        "item_name": "Lobster",
+        "monster_name": "Zamorak warrior (Level 84)"
+      }
+    },
+    {
+      "id": "1213-7418",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.04"
+      },
+      "meta": {
+        "item_name": "Rune dagger (Unpoisoned)",
+        "monster_name": "Zamorak warrior (Level 84)"
+      }
+    },
+    {
+      "id": "526-7418",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Bones",
+        "monster_name": "Zamorak warrior (Level 84)"
+      }
+    },
+    {
+      "id": "995-7418",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 100,
+        "quantity_max": null,
+        "rarity": "0.8"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Zamorak warrior (Level 84)"
+      }
+    }
+  ]
+}

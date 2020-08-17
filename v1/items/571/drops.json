@@ -1,0 +1,84 @@
+{
+  "data": [
+    {
+      "id": "571-1097",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Water orb",
+        "monster_name": "Sea Snake Young"
+      }
+    },
+    {
+      "id": "571-492",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.02"
+      },
+      "meta": {
+        "item_name": "Water orb",
+        "monster_name": "Cave kraken"
+      }
+    },
+    {
+      "id": "571-2916",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 6,
+        "quantity_max": 10,
+        "rarity": "0.0625"
+      },
+      "meta": {
+        "item_name": "Water orb",
+        "monster_name": "Waterfiend"
+      }
+    },
+    {
+      "id": "571-1101",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Water orb",
+        "monster_name": "Giant Sea Snake"
+      }
+    },
+    {
+      "id": "571-1098",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Water orb",
+        "monster_name": "Sea Snake Hatchling"
+      }
+    }
+  ]
+}

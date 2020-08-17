@@ -1,0 +1,20 @@
+{
+  "data": [
+    {
+      "id": "7056-8713",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": 8,
+        "rarity": "0.05"
+      },
+      "meta": {
+        "item_name": "Egg potato",
+        "monster_name": "Sarachnis"
+      }
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "data": [
+    {
+      "id": "23872-9027",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.125"
+      },
+      "meta": {
+        "item_name": "Raw paddlefish",
+        "monster_name": "Crystalline Spider"
+      }
+    },
+    {
+      "id": "23904-9027",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Teleport crystal (The Gauntlet)",
+        "monster_name": "Crystalline Spider"
+      }
+    },
+    {
+      "id": "23834-9027",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.125"
+      },
+      "meta": {
+        "item_name": "Weapon frame",
+        "monster_name": "Crystalline Spider"
+      }
+    },
+    {
+      "id": "23835-9027",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.125"
+      },
+      "meta": {
+        "item_name": "Grym leaf (corrupted)",
+        "monster_name": "Crystalline Spider"
+      }
+    },
+    {
+      "id": "23866-9027",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": 30,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Crystal shards",
+        "monster_name": "Crystalline Spider"
+      }
+    }
+  ]
+}

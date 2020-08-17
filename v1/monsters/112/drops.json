@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "id": "526-112",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Bones",
+        "monster_name": "Wild dog"
+      }
+    },
+    {
+      "id": "13468-112",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.04"
+      },
+      "meta": {
+        "item_name": "Ensouled dog head (Drop)",
+        "monster_name": "Wild dog"
+      }
+    }
+  ]
+}

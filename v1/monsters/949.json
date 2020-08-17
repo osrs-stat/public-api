@@ -1,0 +1,117 @@
+{
+  "data": {
+    "id": "949",
+    "type": "monster",
+    "attributes": {
+      "uuid": "ace5dd36-7f43-4e9e-b86f-b96ad4b4b0f6",
+      "name": "Mummy (Level 84)",
+      "members": true,
+      "release_date": "2005-04-26",
+      "examine": "A wizened old warrior.",
+      "combat_level_override": null,
+      "max_hit_override": null,
+      "target_types": [
+        "undead"
+      ],
+      "classification_types": [
+
+      ],
+      "poison": false,
+      "immune_poison": false,
+      "immune_venom": false,
+      "slayer_xp": null,
+      "slayer_level": null,
+      "slayer_masters": [
+
+      ],
+      "icon_base64": null
+    },
+    "relationships": {
+      "combat_stat": {
+        "data": {
+          "id": "7d64644c-ff8f-4f29-8f82-163a99d6d9e2",
+          "type": "combat_stat"
+        }
+      },
+      "equip_stat": {
+        "data": {
+          "id": "14315df4-3331-4fe4-bc0e-9ed6c1d7bf4e",
+          "type": "equip_stat"
+        }
+      },
+      "attack_stat": {
+        "data": {
+          "id": "ce7bcf0b-5aaf-47f5-b1dd-a8cce390bfee",
+          "type": "attack_stat"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Mummy#Level_84"
+    },
+    "meta": {
+      "incomplete": true
+    }
+  },
+  "included": [
+    {
+      "id": "ce7bcf0b-5aaf-47f5-b1dd-a8cce390bfee",
+      "type": "attack_stat",
+      "attributes": {
+        "attack_speed": 4,
+        "attack_type": "monster",
+        "special": null,
+        "stances": [
+          {
+            "name": "Monster crush",
+            "style": null,
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": null,
+            "combat_accuracy_stat": "attack_level",
+            "combat_damage_stat": "strength_level",
+            "equip_accuracy_stat": "crush_attack",
+            "equip_damage_stat": "crush_attack",
+            "target_equip_defense_stat": "crush_defense"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7d64644c-ff8f-4f29-8f82-163a99d6d9e2",
+      "type": "monster_combat_stat",
+      "attributes": {
+        "hitpoints_level": 90,
+        "attack_level": 90,
+        "strength_level": 30,
+        "defense_level": 90,
+        "magic_level": 1,
+        "ranged_level": 1,
+        "prayer_level": 0
+      }
+    },
+    {
+      "id": "14315df4-3331-4fe4-bc0e-9ed6c1d7bf4e",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 0,
+        "slash_attack": 0,
+        "crush_attack": 0,
+        "ranged_attack": 0,
+        "magic_attack": 0,
+        "stab_defense": 90,
+        "slash_defense": 90,
+        "crush_defense": 30,
+        "ranged_defense": 0,
+        "magic_defense": 90,
+        "melee_strength": 30,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

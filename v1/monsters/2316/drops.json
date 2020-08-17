@@ -1,0 +1,148 @@
+{
+  "data": [
+    {
+      "id": "995-2316",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 12,
+        "quantity_max": null,
+        "rarity": "0.15625"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "Guard (Cave goblin) (Bone club)"
+      }
+    },
+    {
+      "id": "526-2316",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Bones",
+        "monster_name": "Guard (Cave goblin) (Bone club)"
+      }
+    },
+    {
+      "id": "5018-2316",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.15625"
+      },
+      "meta": {
+        "item_name": "Bone club",
+        "monster_name": "Guard (Cave goblin) (Bone club)"
+      }
+    },
+    {
+      "id": "4537-2316",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.15625"
+      },
+      "meta": {
+        "item_name": "Oil lantern (Unlit)",
+        "monster_name": "Guard (Cave goblin) (Bone club)"
+      }
+    },
+    {
+      "id": "590-2316",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.15625"
+      },
+      "meta": {
+        "item_name": "Tinderbox",
+        "monster_name": "Guard (Cave goblin) (Bone club)"
+      }
+    },
+    {
+      "id": "7905-2316",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.25"
+      },
+      "meta": {
+        "item_name": "Cave goblin skull (Unpolished)",
+        "monster_name": "Guard (Cave goblin) (Bone club)"
+      }
+    },
+    {
+      "id": "5016-2316",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.15625"
+      },
+      "meta": {
+        "item_name": "Bone spear",
+        "monster_name": "Guard (Cave goblin) (Bone club)"
+      }
+    },
+    {
+      "id": "6801-2316",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0002"
+      },
+      "meta": {
+        "item_name": "Goblin champion scroll",
+        "monster_name": "Guard (Cave goblin) (Bone club)"
+      }
+    },
+    {
+      "id": "1101-2316",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.15625"
+      },
+      "meta": {
+        "item_name": "Iron chainbody",
+        "monster_name": "Guard (Cave goblin) (Bone club)"
+      }
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "id": "10533-5746",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Blue egg",
+        "monster_name": "Penance Fighter (Wave 8)"
+      }
+    },
+    {
+      "id": "10532-5746",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Red egg",
+        "monster_name": "Penance Fighter (Wave 8)"
+      }
+    },
+    {
+      "id": "10531-5746",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Green egg",
+        "monster_name": "Penance Fighter (Wave 8)"
+      }
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "data": {
+    "id": "2531",
+    "type": "monster",
+    "attributes": {
+      "uuid": "8561a87f-7a18-40f2-9bed-23a9224755ec",
+      "name": "Ghost (Level 29)",
+      "members": false,
+      "release_date": "2004-12-21",
+      "examine": "Eeek! A ghost!",
+      "combat_level_override": 76,
+      "max_hit_override": null,
+      "target_types": [
+        "undead"
+      ],
+      "classification_types": [
+        "ghost"
+      ],
+      "poison": false,
+      "immune_poison": false,
+      "immune_venom": false,
+      "slayer_xp": null,
+      "slayer_level": null,
+      "slayer_masters": [
+
+      ],
+      "icon_base64": null
+    },
+    "relationships": {
+      "combat_stat": {
+        "data": {
+          "id": "87ee21c4-c1b6-414a-ab1f-3f7739e7251b",
+          "type": "combat_stat"
+        }
+      },
+      "equip_stat": {
+        "data": {
+          "id": "eff42f0b-041e-493e-8cd2-6f3e5640c354",
+          "type": "equip_stat"
+        }
+      },
+      "attack_stat": {
+        "data": {
+          "id": "c31920b5-7e10-4143-9110-cc487f414062",
+          "type": "attack_stat"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Ghost#Level_29"
+    },
+    "meta": {
+      "incomplete": true
+    }
+  },
+  "included": [
+    {
+      "id": "c31920b5-7e10-4143-9110-cc487f414062",
+      "type": "attack_stat",
+      "attributes": {
+        "attack_speed": 4,
+        "attack_type": "monster",
+        "special": null,
+        "stances": [
+          {
+            "name": "Monster crush",
+            "style": null,
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": null,
+            "combat_accuracy_stat": "attack_level",
+            "combat_damage_stat": "strength_level",
+            "equip_accuracy_stat": "crush_attack",
+            "equip_damage_stat": "crush_attack",
+            "target_equip_defense_stat": "crush_defense"
+          }
+        ]
+      }
+    },
+    {
+      "id": "87ee21c4-c1b6-414a-ab1f-3f7739e7251b",
+      "type": "monster_combat_stat",
+      "attributes": {
+        "hitpoints_level": 27,
+        "attack_level": 23,
+        "strength_level": 23,
+        "defense_level": 28,
+        "magic_level": 1,
+        "ranged_level": 1,
+        "prayer_level": 0
+      }
+    },
+    {
+      "id": "eff42f0b-041e-493e-8cd2-6f3e5640c354",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 0,
+        "slash_attack": 0,
+        "crush_attack": 0,
+        "ranged_attack": 0,
+        "magic_attack": 0,
+        "stab_defense": 5,
+        "slash_defense": 5,
+        "crush_defense": 5,
+        "ranged_defense": 5,
+        "magic_defense": -5,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

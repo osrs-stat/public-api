@@ -1,0 +1,340 @@
+{
+  "data": [
+    {
+      "id": "1397-5891",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 6,
+        "quantity_max": null,
+        "rarity": "0.0143884892086331"
+      },
+      "meta": {
+        "item_name": "Air battlestaff",
+        "monster_name": "Abyssal Sire (Phase 3 (stage 1))"
+      }
+    },
+    {
+      "id": "1397-5890",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 6,
+        "quantity_max": null,
+        "rarity": "0.0143884892086331"
+      },
+      "meta": {
+        "item_name": "Air battlestaff",
+        "monster_name": "Abyssal Sire (Phase 2)"
+      }
+    },
+    {
+      "id": "1397-5886",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 6,
+        "quantity_max": null,
+        "rarity": "0.0143884892086331"
+      },
+      "meta": {
+        "item_name": "Air battlestaff",
+        "monster_name": "Abyssal Sire (Phase 1)"
+      }
+    },
+    {
+      "id": "1397-2955",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Air battlestaff",
+        "monster_name": "Saradomin wizard"
+      }
+    },
+    {
+      "id": "1397-2954",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Air battlestaff",
+        "monster_name": "Zamorak wizard"
+      }
+    },
+    {
+      "id": "1397-2266",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Air battlestaff",
+        "monster_name": "Dagannoth Prime"
+      }
+    },
+    {
+      "id": "1397-2145",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.02"
+      },
+      "meta": {
+        "item_name": "Air battlestaff",
+        "monster_name": "Undead Druid"
+      }
+    },
+    {
+      "id": "1397-498",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Air battlestaff",
+        "monster_name": "Smoke devil"
+      }
+    },
+    {
+      "id": "1397-423",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Air battlestaff",
+        "monster_name": "Dust devil (Level 93)"
+      }
+    },
+    {
+      "id": "1397-469",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00714285714285714"
+      },
+      "meta": {
+        "item_name": "Air battlestaff",
+        "monster_name": "Killerwatt (Attacking)"
+      }
+    },
+    {
+      "id": "1397-470",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00714285714285714"
+      },
+      "meta": {
+        "item_name": "Air battlestaff",
+        "monster_name": "Killerwatt (Idle)"
+      }
+    },
+    {
+      "id": "1397-7795",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.0597014925373134"
+      },
+      "meta": {
+        "item_name": "Air battlestaff",
+        "monster_name": "Ancient Wyvern"
+      }
+    },
+    {
+      "id": "1397-7794",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.032520325203252"
+      },
+      "meta": {
+        "item_name": "Air battlestaff",
+        "monster_name": "Spitting Wyvern"
+      }
+    },
+    {
+      "id": "1397-7793",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.032520325203252"
+      },
+      "meta": {
+        "item_name": "Air battlestaff",
+        "monster_name": "Taloned Wyvern"
+      }
+    },
+    {
+      "id": "1397-7792",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.032520325203252"
+      },
+      "meta": {
+        "item_name": "Air battlestaff",
+        "monster_name": "Long-tailed Wyvern"
+      }
+    },
+    {
+      "id": "1397-7406",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0234375"
+      },
+      "meta": {
+        "item_name": "Air battlestaff",
+        "monster_name": "Nuclear smoke devil"
+      }
+    },
+    {
+      "id": "1397-7404",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Air battlestaff",
+        "monster_name": "Choke devil"
+      }
+    },
+    {
+      "id": "1397-7391",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Air battlestaff",
+        "monster_name": "Screaming twisted banshee"
+      }
+    },
+    {
+      "id": "1397-7272",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Air battlestaff",
+        "monster_name": "Twisted Banshee"
+      }
+    },
+    {
+      "id": "1397-7249",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Air battlestaff",
+        "monster_name": "Dust devil (Level 110)"
+      }
+    },
+    {
+      "id": "1397-5908",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 6,
+        "quantity_max": null,
+        "rarity": "0.0143884892086331"
+      },
+      "meta": {
+        "item_name": "Air battlestaff",
+        "monster_name": "Abyssal Sire (Phase 3 (stage 2))"
+      }
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "530-2834",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Bat bones",
+        "monster_name": "Giant bat"
+      }
+    },
+    {
+      "id": "530-2827",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Bat bones",
+        "monster_name": "Bat"
+      }
+    },
+    {
+      "id": "530-2054",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 5,
+        "quantity_max": null,
+        "rarity": "0.1"
+      },
+      "meta": {
+        "item_name": "Bat bones",
+        "monster_name": "Chaos Elemental"
+      }
+    },
+    {
+      "id": "530-1039",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Bat bones",
+        "monster_name": "Albino bat"
+      }
+    }
+  ]
+}

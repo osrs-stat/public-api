@@ -1,0 +1,75 @@
+{
+  "data": {
+    "id": "1127",
+    "type": "item",
+    "attributes": {
+      "uuid": "9c997521-cfea-4d08-a7b7-1cb02d8fe990",
+      "name": "Rune platebody",
+      "members": false,
+      "release_date": "2001-09-23",
+      "examine": "Provides excellent protection.",
+      "tradeable": false,
+      "ge_tradeable": false,
+      "lowalch": 26000,
+      "highalch": 39000,
+      "is_equip": true,
+      "is_weapon": false,
+      "icon_base64": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACm0lEQVR4Xu2Wb2sTQRDGex/AF74IhIBwlBBCKKEEg7SkNDQosaQSQxsDVRGlFBT/UQoFEQQ/+Oizy3M3u7eb3IW0rzIwlNzuzvz22dnZ7uxsbWsPYonk7v+Ofb8Xs8HrzT1ptHvG8fvZ6Uz2h2Np9weSdrpSazwx3x/V6plvGMwG2+0NCj6cv5fBdCH98SvpHo1kt/tUGq1OAagItjZcIu3BWFoHI2n2jx0YjAHoaPbWUQlQSP64kRr3oVy4SpZI53higDQU/WTxMQPSKnUOh9LqHWRAMTDE30/TslCJ7J1MDRChAETHuA90eDY3UFAKUEhaS1sFMA1XQSULFIMaXV4VgHwoqAUg7SGgEiol0n1+bjwEhXENRCitFGqqN5rYW+dBEaykSv+JX74xroE01It31waIUD6YhoJaaBP0GNASlVygENTpp28y/vAlCgYoDYR68qH8Il+pEvzs+sYkRhIkwBHw++TqRxDMV4lAOLqLn79l+vnWrMNcjDMXFFqiEswmRjIkwW65+PXXOxPYB6NS/rEBCOvmN38yIMwDbEkYWGIWA4iNj0DY6ez7LwNGKCoVOjYNhDUAwjhuIoH87AHLgdj0CLS4/ZtBUallKqF7ayDMw3eClgbiYgRm/VChskBaWR4Z5mCD6OaVgLRCGgig9FVAuk7wF3NZP5WBsJi3oZ42MyB8J8iqwuZGNgKEROHb4F59wtw7EHsQ3iQdNASCo2U/4k1jDenjhrJrAyEBAqKpMSAKU4OEYPyrj+R5N7bv4FpACIxe4b43ViHWkYbR6rDPIDE7MtdzoxWA7GuPf8Lw9hQfQLtTBodKPEIAAQBAep6uv1BsN3/Q8mBuQGs6Qcw5x18bm5ePRywe0DV/3jpr/PGtbW1T9g8wc+9TwenlAwAAAABJRU5ErkJggg=="
+    },
+    "relationships": {
+      "equip": {
+        "data": {
+          "id": "a2575e5e-c17b-48df-9351-cf0afe1bc5b2",
+          "type": "equip"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Rune_platebody"
+    },
+    "meta": {
+      "incomplete": false
+    }
+  },
+  "included": [
+    {
+      "id": "a2575e5e-c17b-48df-9351-cf0afe1bc5b2",
+      "type": "equip",
+      "attributes": {
+        "slot": "body",
+        "passive_effect": null,
+        "requirements": {
+          "defense_level": 40
+        }
+      },
+      "relationships": {
+        "equip_stat": {
+          "data": {
+            "id": "3d240c6d-edf0-4ba7-a7e5-5c8b24ef2e53",
+            "type": "equip_stat"
+          }
+        }
+      }
+    },
+    {
+      "id": "3d240c6d-edf0-4ba7-a7e5-5c8b24ef2e53",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 0,
+        "slash_attack": 0,
+        "crush_attack": 0,
+        "ranged_attack": -10,
+        "magic_attack": -30,
+        "stab_defense": 82,
+        "slash_defense": 80,
+        "crush_defense": 72,
+        "ranged_defense": 80,
+        "magic_defense": -6,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

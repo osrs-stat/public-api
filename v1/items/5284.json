@@ -1,0 +1,31 @@
+{
+  "data": {
+    "id": "5284",
+    "type": "item",
+    "attributes": {
+      "uuid": "6507bd4e-4c17-401c-ab05-b75bec0d2a58",
+      "name": "Banana tree seed",
+      "members": true,
+      "release_date": "2005-06-06",
+      "examine": "Plant in a plantpot of soil to grow a sapling.",
+      "tradeable": false,
+      "ge_tradeable": false,
+      "lowalch": 8,
+      "highalch": 12,
+      "is_equip": false,
+      "is_weapon": false,
+      "icon_base64": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAA20lEQVR4Xu2TXwfCUBiH936QSBdJkl0sE8tomi2VXUxFipFImdIflYhI9KV/OWemdJ2dXbzP5W72eN7f0TSGYRjmHxB+vyiEMAkM5EiKEPp1mHohL1KEadiAZ1ekkF4sqpYizMdNBG4NllHKQyVCHLUQDU15Oscqq5Qi3DYejksH27mN1cySA+85VVVShPvOxzV2sV+0ZSlxPrGpUV9XIUV4HLpS6LuSkEoHnvHICc9TT1YSpzuvO7KUKKTwxYmzEF6XgawlpBTV+ZD8OBFTLvNNKpILGYZhGCYj3tnPeiIr+LyaAAAAAElFTkSuQmCC"
+    },
+    "relationships": {
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Banana_tree_seed"
+    },
+    "meta": {
+      "incomplete": false
+    }
+  },
+  "included": [
+
+  ]
+}

@@ -1,0 +1,724 @@
+{
+  "data": [
+    {
+      "id": "626-6075",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Pink boots",
+        "monster_name": "Tortoise (No riders)"
+      }
+    },
+    {
+      "id": "526-6075",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Bones",
+        "monster_name": "Tortoise (No riders)"
+      }
+    },
+    {
+      "id": "561-6075",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.078125"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Tortoise (No riders)"
+      }
+    },
+    {
+      "id": "886-6075",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 12,
+        "quantity_max": 23,
+        "rarity": "0.15625"
+      },
+      "meta": {
+        "item_name": "Steel arrow (Unpoisoned)",
+        "monster_name": "Tortoise (No riders)"
+      }
+    },
+    {
+      "id": "557-6075",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": 14,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Earth rune (Regular)",
+        "monster_name": "Tortoise (No riders)"
+      }
+    },
+    {
+      "id": "5324-6075",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": 19,
+        "rarity": "0.078125"
+      },
+      "meta": {
+        "item_name": "Cabbage seed",
+        "monster_name": "Tortoise (No riders)"
+      }
+    },
+    {
+      "id": "1965-6075",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 20,
+        "quantity_max": 59,
+        "rarity": "0.15625"
+      },
+      "meta": {
+        "item_name": "Cabbage",
+        "monster_name": "Tortoise (No riders)"
+      }
+    },
+    {
+      "id": "2114-6075",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.078125"
+      },
+      "meta": {
+        "item_name": "Pineapple",
+        "monster_name": "Tortoise (No riders)"
+      }
+    },
+    {
+      "id": "2253-6075",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0625"
+      },
+      "meta": {
+        "item_name": "Worm batta",
+        "monster_name": "Tortoise (No riders)"
+      }
+    },
+    {
+      "id": "2150-6075",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.15625"
+      },
+      "meta": {
+        "item_name": "Swamp toad (item)",
+        "monster_name": "Tortoise (No riders)"
+      }
+    },
+    {
+      "id": "7939-6075",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.078125"
+      },
+      "meta": {
+        "item_name": "Tortoise shell",
+        "monster_name": "Tortoise (No riders)"
+      }
+    },
+    {
+      "id": "6332-6075",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Mahogany logs",
+        "monster_name": "Tortoise (No riders)"
+      }
+    },
+    {
+      "id": "6333-6075",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Teak logs",
+        "monster_name": "Tortoise (No riders)"
+      }
+    },
+    {
+      "id": "6333-6075",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Teak logs",
+        "monster_name": "Tortoise (No riders)"
+      }
+    },
+    {
+      "id": "526-6075",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Bones",
+        "monster_name": "Tortoise (No riders)"
+      }
+    },
+    {
+      "id": "526-6075",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Bones",
+        "monster_name": "Tortoise (No riders)"
+      }
+    },
+    {
+      "id": "646-6075",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Pink robe bottoms",
+        "monster_name": "Tortoise (No riders)"
+      }
+    },
+    {
+      "id": "636-6075",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Pink robe top",
+        "monster_name": "Tortoise (No riders)"
+      }
+    },
+    {
+      "id": "557-6075",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": 14,
+        "rarity": "0.078125"
+      },
+      "meta": {
+        "item_name": "Earth rune (Regular)",
+        "monster_name": "Tortoise (No riders)"
+      }
+    },
+    {
+      "id": "888-6075",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 6,
+        "quantity_max": 11,
+        "rarity": "0.15625"
+      },
+      "meta": {
+        "item_name": "Mithril arrow (Unpoisoned)",
+        "monster_name": "Tortoise (No riders)"
+      }
+    },
+    {
+      "id": "561-6075",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.078125"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "Tortoise (No riders)"
+      }
+    },
+    {
+      "id": "886-6075",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 12,
+        "quantity_max": 23,
+        "rarity": "0.078125"
+      },
+      "meta": {
+        "item_name": "Steel arrow (Unpoisoned)",
+        "monster_name": "Tortoise (No riders)"
+      }
+    },
+    {
+      "id": "5324-6075",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": 19,
+        "rarity": "0.078125"
+      },
+      "meta": {
+        "item_name": "Cabbage seed",
+        "monster_name": "Tortoise (No riders)"
+      }
+    },
+    {
+      "id": "1965-6075",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 20,
+        "quantity_max": 59,
+        "rarity": "0.15625"
+      },
+      "meta": {
+        "item_name": "Cabbage",
+        "monster_name": "Tortoise (No riders)"
+      }
+    },
+    {
+      "id": "2114-6075",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.078125"
+      },
+      "meta": {
+        "item_name": "Pineapple",
+        "monster_name": "Tortoise (No riders)"
+      }
+    },
+    {
+      "id": "2217-6075",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.078125"
+      },
+      "meta": {
+        "item_name": "Toad crunchies",
+        "monster_name": "Tortoise (No riders)"
+      }
+    },
+    {
+      "id": "2253-6075",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Worm batta",
+        "monster_name": "Tortoise (No riders)"
+      }
+    },
+    {
+      "id": "2064-6075",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Blurberry special",
+        "monster_name": "Tortoise (No riders)"
+      }
+    },
+    {
+      "id": "7939-6075",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.0625"
+      },
+      "meta": {
+        "item_name": "Tortoise shell",
+        "monster_name": "Tortoise (No riders)"
+      }
+    },
+    {
+      "id": "2150-6075",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0390625"
+      },
+      "meta": {
+        "item_name": "Swamp toad (item)",
+        "monster_name": "Tortoise (No riders)"
+      }
+    },
+    {
+      "id": "6332-6075",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Mahogany logs",
+        "monster_name": "Tortoise (No riders)"
+      }
+    },
+    {
+      "id": "10995-6075",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Perfect shell",
+        "monster_name": "Tortoise (No riders)"
+      }
+    },
+    {
+      "id": "6333-6075",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2,
+        "quantity_max": null,
+        "rarity": "0.015625"
+      },
+      "meta": {
+        "item_name": "Teak logs",
+        "monster_name": "Tortoise (No riders)"
+      }
+    },
+    {
+      "id": "6333-6075",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 4,
+        "quantity_max": null,
+        "rarity": "0.0078125"
+      },
+      "meta": {
+        "item_name": "Teak logs",
+        "monster_name": "Tortoise (No riders)"
+      }
+    },
+    {
+      "id": "199-6075",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.01953125"
+      },
+      "meta": {
+        "item_name": "Grimy guam leaf",
+        "monster_name": "Tortoise (No riders)"
+      }
+    },
+    {
+      "id": "201-6075",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0146493530845678"
+      },
+      "meta": {
+        "item_name": "Grimy marrentill",
+        "monster_name": "Tortoise (No riders)"
+      }
+    },
+    {
+      "id": "203-6075",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0109864997890592"
+      },
+      "meta": {
+        "item_name": "Grimy tarromin",
+        "monster_name": "Tortoise (No riders)"
+      }
+    },
+    {
+      "id": "205-6075",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00854478836268183"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "Tortoise (No riders)"
+      }
+    },
+    {
+      "id": "207-6075",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00671176975945017"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "Tortoise (No riders)"
+      }
+    },
+    {
+      "id": "209-6075",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0048828125"
+      },
+      "meta": {
+        "item_name": "Grimy irit leaf",
+        "monster_name": "Tortoise (No riders)"
+      }
+    },
+    {
+      "id": "211-6075",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00366268166901078"
+      },
+      "meta": {
+        "item_name": "Grimy avantoe",
+        "monster_name": "Tortoise (No riders)"
+      }
+    },
+    {
+      "id": "213-6075",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0030517578125"
+      },
+      "meta": {
+        "item_name": "Grimy kwuarm",
+        "monster_name": "Tortoise (No riders)"
+      }
+    },
+    {
+      "id": "215-6075",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00244140625"
+      },
+      "meta": {
+        "item_name": "Grimy cadantine",
+        "monster_name": "Tortoise (No riders)"
+      }
+    },
+    {
+      "id": "2485-6075",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00183091164752754"
+      },
+      "meta": {
+        "item_name": "Grimy lantadyme",
+        "monster_name": "Tortoise (No riders)"
+      }
+    },
+    {
+      "id": "217-6075",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00183091164752754"
+      },
+      "meta": {
+        "item_name": "Grimy dwarf weed",
+        "monster_name": "Tortoise (No riders)"
+      }
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "data": {
+    "id": "1654",
+    "type": "item",
+    "attributes": {
+      "uuid": "8f0e9c92-ffae-4cfb-a025-b03f65f8476c",
+      "name": "Gold necklace",
+      "members": false,
+      "release_date": "2001-05-08",
+      "examine": "I wonder if this is valuable.",
+      "tradeable": false,
+      "ge_tradeable": false,
+      "lowalch": 180,
+      "highalch": 270,
+      "is_equip": true,
+      "is_weapon": false,
+      "icon_base64": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACOElEQVR4Xu2XzysEYRjHPUeHOcxhatpS/gT/gLujm4NykBSlFIlSFKK2NpJSCpHaENFG0SZCSspFSSkpB3/Fo+/z9nrffbF2dmdmD3zr7Z3ZmXffzz4/321o+NffFPHPI3UR5xcD3sj5vDLn89KUz7lxn2dHPJ4e8tKGIt5bDriwGvDJZsBn+VBm3OvPJwdTgyKxBKzy1U1mAHB8IHEokk2yYwqmpbn524Fnz+cZgRrtTwyKeLjX+9zAbP6TiN9uMny8nggU8WC3J6MyGC3i97sm+SF6nftGFVIwfZ2NEWG01PpYgXo6qoWBiAe6YgMivtoNubPdALlv/C4qsa77NKJUvaneOlCphd2nEUW8PGNS3H36uxRMrEC64kb/MuOq2ixcoqjmNpXazcrK1pcVSZO0C6H7hpGCgHthUTuryq+rWMRrWdXB0SZMo/x+oOujv5neFTMMyj2ya2s+EDDMcEFba6NcY7hHDrelxAZzVwil9lxsh3KMwOYLE75siHoEi9lnINzbrSEmEC3ih9OMDIABCtYCADZGC9BAiBeA2lkYMwxE/FhUQJhvDxXQzpJyEYIc7oEbNVCCMBDx05mCeblUQDjTIJ4AgXiBRXTAV5aBNUkdrAClgYpboQABANZBJsFauE7YOhAJCKBsd9kxAzC7nSQIAxG/XqsYutlX7jpYCaTOINswA0rXm4RhtIjvj0LJMvybgJUwbDelZB1bJLGDegSXwU0uSIowWqXtoY4gRjZEXUHqoQ8OPD0wnapB0AAAAABJRU5ErkJggg=="
+    },
+    "relationships": {
+      "equip": {
+        "data": {
+          "id": "599dcbc9-ba44-403d-abe6-33d1eff247de",
+          "type": "equip"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Gold_necklace"
+    },
+    "meta": {
+      "incomplete": false
+    }
+  },
+  "included": [
+    {
+      "id": "599dcbc9-ba44-403d-abe6-33d1eff247de",
+      "type": "equip",
+      "attributes": {
+        "slot": "amulet",
+        "passive_effect": null,
+        "requirements": null
+      },
+      "relationships": {
+        "equip_stat": {
+          "data": {
+            "id": "68f1b7d6-e2e9-4a60-b391-08b8b74c96b4",
+            "type": "equip_stat"
+          }
+        }
+      }
+    },
+    {
+      "id": "68f1b7d6-e2e9-4a60-b391-08b8b74c96b4",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 0,
+        "slash_attack": 0,
+        "crush_attack": 0,
+        "ranged_attack": 0,
+        "magic_attack": 0,
+        "stab_defense": 0,
+        "slash_defense": 0,
+        "crush_defense": 0,
+        "ranged_defense": 0,
+        "magic_defense": 0,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

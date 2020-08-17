@@ -1,0 +1,20 @@
+{
+  "data": [
+    {
+      "id": "12007-494",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.001"
+      },
+      "meta": {
+        "item_name": "Jar of dirt",
+        "monster_name": "Kraken (Kraken)"
+      }
+    }
+  ]
+}

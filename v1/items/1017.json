@@ -1,0 +1,73 @@
+{
+  "data": {
+    "id": "1017",
+    "type": "item",
+    "attributes": {
+      "uuid": "adac80f6-5092-4d1d-bfc6-a1d336051507",
+      "name": "Wizard hat",
+      "members": false,
+      "release_date": "2001-01-04",
+      "examine": "A silly pointed hat.",
+      "tradeable": false,
+      "ge_tradeable": false,
+      "lowalch": 0,
+      "highalch": 1,
+      "is_equip": true,
+      "is_weapon": false,
+      "icon_base64": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAAzklEQVR4Xu3VMQ6DMAwF0HAEhu4cofe/HCiKrCZOYrsQfw/tl/7AgHiyA6T0j2u2s21otvO1700DUT2GQO/jiECNQUFTmmOCpiSDAqakg4AoGwaE+g5DIOfzxD+EMhIASik/oDxExsBAJToGCLJhHEH85xkG6g8tv9a6CNRD7vYhaB2E2q67XruatRCpRhQWZFgjDpRrmBIWlKugsCBam7I6fxS9aQYMhb+iaz4FHGLElNQ3fW6+h3sE0TLCSUA3yCiz6dWFQGapgbCp/Gwuycc7ZQlCtdEAAAAASUVORK5CYII="
+    },
+    "relationships": {
+      "equip": {
+        "data": {
+          "id": "862c5cf2-66d4-4724-bdf9-f450d45b9120",
+          "type": "equip"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Wizard_hat"
+    },
+    "meta": {
+      "incomplete": false
+    }
+  },
+  "included": [
+    {
+      "id": "862c5cf2-66d4-4724-bdf9-f450d45b9120",
+      "type": "equip",
+      "attributes": {
+        "slot": "head",
+        "passive_effect": null,
+        "requirements": null
+      },
+      "relationships": {
+        "equip_stat": {
+          "data": {
+            "id": "f7aeba89-25c4-4dd6-af0a-0c1d0cb5ee8f",
+            "type": "equip_stat"
+          }
+        }
+      }
+    },
+    {
+      "id": "f7aeba89-25c4-4dd6-af0a-0c1d0cb5ee8f",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 0,
+        "slash_attack": 0,
+        "crush_attack": 0,
+        "ranged_attack": 0,
+        "magic_attack": 2,
+        "stab_defense": 0,
+        "slash_defense": 0,
+        "crush_defense": 0,
+        "ranged_defense": 0,
+        "magic_defense": 2,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

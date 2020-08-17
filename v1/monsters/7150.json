@@ -1,0 +1,147 @@
+{
+  "data": {
+    "id": "7150",
+    "type": "monster",
+    "attributes": {
+      "uuid": "480d10ac-908c-427b-8bb5-75fbe95d8c2e",
+      "name": "Tortured gorilla (Level 141)",
+      "members": true,
+      "release_date": "2016-05-06",
+      "examine": "One of Glough's tortured experiments.",
+      "combat_level_override": null,
+      "max_hit_override": 13,
+      "target_types": [
+
+      ],
+      "classification_types": [
+        "monkey"
+      ],
+      "poison": false,
+      "immune_poison": false,
+      "immune_venom": false,
+      "slayer_xp": 210.0,
+      "slayer_level": 1,
+      "slayer_masters": [
+        "turael"
+      ],
+      "icon_base64": null
+    },
+    "relationships": {
+      "combat_stat": {
+        "data": {
+          "id": "ca7a6532-ca2e-4ad7-9494-6bfa8e06a439",
+          "type": "combat_stat"
+        }
+      },
+      "equip_stat": {
+        "data": {
+          "id": "4e758b10-afd0-4bc0-8958-6342aff7663b",
+          "type": "equip_stat"
+        }
+      },
+      "attack_stat": {
+        "data": {
+          "id": "041292f0-b7b2-40f2-b3c0-d2e88964ec2d",
+          "type": "attack_stat"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Tortured_gorilla#Level_141"
+    },
+    "meta": {
+      "incomplete": true
+    }
+  },
+  "included": [
+    {
+      "id": "041292f0-b7b2-40f2-b3c0-d2e88964ec2d",
+      "type": "attack_stat",
+      "attributes": {
+        "attack_speed": 5,
+        "attack_type": "monster",
+        "special": null,
+        "stances": [
+          {
+            "name": "Monster crush",
+            "style": null,
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": null,
+            "combat_accuracy_stat": "attack_level",
+            "combat_damage_stat": "strength_level",
+            "equip_accuracy_stat": "crush_attack",
+            "equip_damage_stat": "crush_attack",
+            "target_equip_defense_stat": "crush_defense"
+          },
+          {
+            "name": "Monster ranged",
+            "style": null,
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": null,
+            "combat_accuracy_stat": "ranged_level",
+            "combat_damage_stat": "ranged_level",
+            "equip_accuracy_stat": "ranged_attack",
+            "equip_damage_stat": "ranged_attack",
+            "target_equip_defense_stat": "ranged_defense"
+          },
+          {
+            "name": "Monster magic",
+            "style": null,
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": null,
+            "combat_accuracy_stat": "magic_level",
+            "combat_damage_stat": "magic_level",
+            "equip_accuracy_stat": "magic_attack",
+            "equip_damage_stat": "magic_attack",
+            "target_equip_defense_stat": "magic_defense"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ca7a6532-ca2e-4ad7-9494-6bfa8e06a439",
+      "type": "monster_combat_stat",
+      "attributes": {
+        "hitpoints_level": 210,
+        "attack_level": 105,
+        "strength_level": 95,
+        "defense_level": 95,
+        "magic_level": 95,
+        "ranged_level": 95,
+        "prayer_level": 0
+      }
+    },
+    {
+      "id": "4e758b10-afd0-4bc0-8958-6342aff7663b",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 22,
+        "slash_attack": 22,
+        "crush_attack": 22,
+        "ranged_attack": 22,
+        "magic_attack": 20,
+        "stab_defense": 0,
+        "slash_defense": 0,
+        "crush_defense": 0,
+        "ranged_defense": 0,
+        "magic_defense": 25,
+        "melee_strength": 16,
+        "ranged_strength": 16,
+        "magic_bonus": 16,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

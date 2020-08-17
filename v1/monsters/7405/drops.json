@@ -1,0 +1,836 @@
+{
+  "data": [
+    {
+      "id": "5281-7405",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0157571632063936"
+      },
+      "meta": {
+        "item_name": "Belladonna seed",
+        "monster_name": "King kurask"
+      }
+    },
+    {
+      "id": "5296-7405",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0238877847423941"
+      },
+      "meta": {
+        "item_name": "Toadflax seed",
+        "monster_name": "King kurask"
+      }
+    },
+    {
+      "id": "217-7405",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.00340195196443826"
+      },
+      "meta": {
+        "item_name": "Grimy dwarf weed",
+        "monster_name": "King kurask"
+      }
+    },
+    {
+      "id": "2485-7405",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.00340195196443826"
+      },
+      "meta": {
+        "item_name": "Grimy lantadyme",
+        "monster_name": "King kurask"
+      }
+    },
+    {
+      "id": "215-7405",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.00453629032258065"
+      },
+      "meta": {
+        "item_name": "Grimy cadantine",
+        "monster_name": "King kurask"
+      }
+    },
+    {
+      "id": "213-7405",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.00567036290322581"
+      },
+      "meta": {
+        "item_name": "Grimy kwuarm",
+        "monster_name": "King kurask"
+      }
+    },
+    {
+      "id": "211-7405",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.0068054988430652"
+      },
+      "meta": {
+        "item_name": "Grimy avantoe",
+        "monster_name": "King kurask"
+      }
+    },
+    {
+      "id": "209-7405",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.00907258064516129"
+      },
+      "meta": {
+        "item_name": "Grimy irit leaf",
+        "monster_name": "King kurask"
+      }
+    },
+    {
+      "id": "207-7405",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.0124709012304623"
+      },
+      "meta": {
+        "item_name": "Grimy ranarr weed",
+        "monster_name": "King kurask"
+      }
+    },
+    {
+      "id": "205-7405",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.0158767680545314"
+      },
+      "meta": {
+        "item_name": "Grimy harralander",
+        "monster_name": "King kurask"
+      }
+    },
+    {
+      "id": "203-7405",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.02041362541451"
+      },
+      "meta": {
+        "item_name": "Grimy tarromin",
+        "monster_name": "King kurask"
+      }
+    },
+    {
+      "id": "201-7405",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.0272194431506808"
+      },
+      "meta": {
+        "item_name": "Grimy marrentill",
+        "monster_name": "King kurask"
+      }
+    },
+    {
+      "id": "199-7405",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": 3,
+        "rarity": "0.0362903225806452"
+      },
+      "meta": {
+        "item_name": "Grimy guam leaf",
+        "monster_name": "King kurask"
+      }
+    },
+    {
+      "id": "7978-7405",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000333333333333333"
+      },
+      "meta": {
+        "item_name": "Kurask head",
+        "monster_name": "King kurask"
+      }
+    },
+    {
+      "id": "2722-7405",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.078125"
+      },
+      "meta": {
+        "item_name": "Clue scroll (hard)",
+        "monster_name": "King kurask"
+      }
+    },
+    {
+      "id": "23083-7405",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0204918032786885"
+      },
+      "meta": {
+        "item_name": "Brimstone key",
+        "monster_name": "King kurask"
+      }
+    },
+    {
+      "id": "5974-7405",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.032258064516129"
+      },
+      "meta": {
+        "item_name": "Coconut",
+        "monster_name": "King kurask"
+      }
+    },
+    {
+      "id": "5972-7405",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.032258064516129"
+      },
+      "meta": {
+        "item_name": "Papaya fruit",
+        "monster_name": "King kurask"
+      }
+    },
+    {
+      "id": "532-7405",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 20,
+        "quantity_max": null,
+        "rarity": "0.0403225806451613"
+      },
+      "meta": {
+        "item_name": "Big bones",
+        "monster_name": "King kurask"
+      }
+    },
+    {
+      "id": "239-7405",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 12,
+        "quantity_max": null,
+        "rarity": "0.0483870967741935"
+      },
+      "meta": {
+        "item_name": "White berries",
+        "monster_name": "King kurask"
+      }
+    },
+    {
+      "id": "1779-7405",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": true,
+        "quantity_min": 100,
+        "quantity_max": null,
+        "rarity": "0.0483870967741935"
+      },
+      "meta": {
+        "item_name": "Flax",
+        "monster_name": "King kurask"
+      }
+    },
+    {
+      "id": "5100-7405",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0483870967741935"
+      },
+      "meta": {
+        "item_name": "Limpwurt seed",
+        "monster_name": "King kurask"
+      }
+    },
+    {
+      "id": "561-7405",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 30,
+        "quantity_max": null,
+        "rarity": "0.032258064516129"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "King kurask"
+      }
+    },
+    {
+      "id": "561-7405",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 15,
+        "quantity_max": null,
+        "rarity": "0.0564516129032258"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "King kurask"
+      }
+    },
+    {
+      "id": "561-7405",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10,
+        "quantity_max": null,
+        "rarity": "0.0806451612903226"
+      },
+      "meta": {
+        "item_name": "Nature rune",
+        "monster_name": "King kurask"
+      }
+    },
+    {
+      "id": "20727-7405",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.000974658869395711"
+      },
+      "meta": {
+        "item_name": "Leaf-bladed battleaxe",
+        "monster_name": "King kurask"
+      }
+    },
+    {
+      "id": "4111-7405",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.001953125"
+      },
+      "meta": {
+        "item_name": "Mystic robe top (light)",
+        "monster_name": "King kurask"
+      }
+    },
+    {
+      "id": "11902-7405",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00260416666666667"
+      },
+      "meta": {
+        "item_name": "Leaf-bladed sword",
+        "monster_name": "King kurask"
+      }
+    },
+    {
+      "id": "1359-7405",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0241935483870968"
+      },
+      "meta": {
+        "item_name": "Rune axe",
+        "monster_name": "King kurask"
+      }
+    },
+    {
+      "id": "1123-7405",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0241935483870968"
+      },
+      "meta": {
+        "item_name": "Adamant platebody",
+        "monster_name": "King kurask"
+      }
+    },
+    {
+      "id": "1303-7405",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0241935483870968"
+      },
+      "meta": {
+        "item_name": "Rune longsword",
+        "monster_name": "King kurask"
+      }
+    },
+    {
+      "id": "1197-7405",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0241935483870968"
+      },
+      "meta": {
+        "item_name": "Mithril kiteshield",
+        "monster_name": "King kurask"
+      }
+    },
+    {
+      "id": "23962-7405",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Crystal shard",
+        "monster_name": "King kurask"
+      }
+    },
+    {
+      "id": "526-7405",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Bones",
+        "monster_name": "King kurask"
+      }
+    },
+    {
+      "id": "21270-7405",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "superior-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00166666666666667"
+      },
+      "meta": {
+        "item_name": "Eternal gem",
+        "monster_name": "King kurask"
+      }
+    },
+    {
+      "id": "20736-7405",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "superior-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.005"
+      },
+      "meta": {
+        "item_name": "Dust battlestaff",
+        "monster_name": "King kurask"
+      }
+    },
+    {
+      "id": "20730-7405",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "superior-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.005"
+      },
+      "meta": {
+        "item_name": "Mist battlestaff",
+        "monster_name": "King kurask"
+      }
+    },
+    {
+      "id": "5304-7405",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00101653564651667"
+      },
+      "meta": {
+        "item_name": "Torstol seed",
+        "monster_name": "King kurask"
+      }
+    },
+    {
+      "id": "5303-7405",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00152486753983971"
+      },
+      "meta": {
+        "item_name": "Dwarf weed seed",
+        "monster_name": "King kurask"
+      }
+    },
+    {
+      "id": "22879-7405",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 3,
+        "quantity_max": null,
+        "rarity": "0.00203307129303334"
+      },
+      "meta": {
+        "item_name": "Snape grass seed",
+        "monster_name": "King kurask"
+      }
+    },
+    {
+      "id": "5302-7405",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00254133911629168"
+      },
+      "meta": {
+        "item_name": "Lantadyme seed",
+        "monster_name": "King kurask"
+      }
+    },
+    {
+      "id": "5301-7405",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00355787476280835"
+      },
+      "meta": {
+        "item_name": "Cadantine seed",
+        "monster_name": "King kurask"
+      }
+    },
+    {
+      "id": "5300-7405",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00508267823258336"
+      },
+      "meta": {
+        "item_name": "Snapdragon seed",
+        "monster_name": "King kurask"
+      }
+    },
+    {
+      "id": "22873-7405",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00762241600097567"
+      },
+      "meta": {
+        "item_name": "Potato cactus seed",
+        "monster_name": "King kurask"
+      }
+    },
+    {
+      "id": "5299-7405",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00762241600097567"
+      },
+      "meta": {
+        "item_name": "Kwuarm seed",
+        "monster_name": "King kurask"
+      }
+    },
+    {
+      "id": "5280-7405",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0106767645132819"
+      },
+      "meta": {
+        "item_name": "Cactus seed",
+        "monster_name": "King kurask"
+      }
+    },
+    {
+      "id": "5106-7405",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0111800131178821"
+      },
+      "meta": {
+        "item_name": "Poison ivy seed",
+        "monster_name": "King kurask"
+      }
+    },
+    {
+      "id": "5298-7405",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0111800131178821"
+      },
+      "meta": {
+        "item_name": "Avantoe seed",
+        "monster_name": "King kurask"
+      }
+    },
+    {
+      "id": "5297-7405",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.0162634770012751"
+      },
+      "meta": {
+        "item_name": "Irit seed",
+        "monster_name": "King kurask"
+      }
+    },
+    {
+      "id": "995-7405",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 10000,
+        "quantity_max": null,
+        "rarity": "0.0403225806451613"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "King kurask"
+      }
+    },
+    {
+      "id": "995-7405",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 2000,
+        "quantity_max": 3000,
+        "rarity": "0.129032258064516"
+      },
+      "meta": {
+        "item_name": "Coins",
+        "monster_name": "King kurask"
+      }
+    },
+    {
+      "id": "20724-7405",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": "superior-only",
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00166666666666667"
+      },
+      "meta": {
+        "item_name": "Imbued heart",
+        "monster_name": "King kurask"
+      }
+    }
+  ]
+}

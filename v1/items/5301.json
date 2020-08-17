@@ -1,0 +1,31 @@
+{
+  "data": {
+    "id": "5301",
+    "type": "item",
+    "attributes": {
+      "uuid": "ba89424c-8790-4f3b-968c-9019750245d0",
+      "name": "Cadantine seed",
+      "members": true,
+      "release_date": "2005-06-06",
+      "examine": "A cadantine seed - plant in a herb patch.",
+      "tradeable": false,
+      "ge_tradeable": false,
+      "lowalch": 2,
+      "highalch": 4,
+      "is_equip": false,
+      "is_weapon": false,
+      "icon_base64": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAAlUlEQVR4Xu3TsQrCMBSF4dwxY4ZAEYQMHR2K6FAQBEGhi4OLSweHvv8rHMkNqeCuN8P54IyBn4Q4R0RERC0RfGZOkHYem94jbp11lGC8B93+GtYwoyjB+RkxLR1ur7Ic1R+8hhlEicbUoMsccXpEHKegMUNKuu9TP1aiclC+rfx0hjGVrEENxFTlyzcSUzQVQ0REf/AGJAFJ5MIVhocAAAAASUVORK5CYII="
+    },
+    "relationships": {
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Cadantine_seed"
+    },
+    "meta": {
+      "incomplete": false
+    }
+  },
+  "included": [
+
+  ]
+}

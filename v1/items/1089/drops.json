@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "1089-6898",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Black plateskirt",
+        "monster_name": "Gangster (Level 50)"
+      }
+    },
+    {
+      "id": "1089-6900",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Black plateskirt",
+        "monster_name": "Gang boss (Female)"
+      }
+    },
+    {
+      "id": "1089-6896",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Black plateskirt",
+        "monster_name": "Gangster (Level 45)"
+      }
+    },
+    {
+      "id": "1089-6902",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03125"
+      },
+      "meta": {
+        "item_name": "Black plateskirt",
+        "monster_name": "Gang boss (Male)"
+      }
+    }
+  ]
+}

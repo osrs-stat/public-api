@@ -1,0 +1,100 @@
+{
+  "data": [
+    {
+      "id": "12934-2042",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 100,
+        "quantity_max": 299,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Zulrah's scales",
+        "monster_name": "Zulrah (Serpentine)"
+      }
+    },
+    {
+      "id": "12934-2043",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 100,
+        "quantity_max": 299,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Zulrah's scales",
+        "monster_name": "Zulrah (Magma)"
+      }
+    },
+    {
+      "id": "12934-2044",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 500,
+        "quantity_max": null,
+        "rarity": "0.0201612903225806"
+      },
+      "meta": {
+        "item_name": "Zulrah's scales",
+        "monster_name": "Zulrah (Tanzanite)"
+      }
+    },
+    {
+      "id": "12934-2044",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 100,
+        "quantity_max": 299,
+        "rarity": "1.0"
+      },
+      "meta": {
+        "item_name": "Zulrah's scales",
+        "monster_name": "Zulrah (Tanzanite)"
+      }
+    },
+    {
+      "id": "12934-2043",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 500,
+        "quantity_max": null,
+        "rarity": "0.0201612903225806"
+      },
+      "meta": {
+        "item_name": "Zulrah's scales",
+        "monster_name": "Zulrah (Magma)"
+      }
+    },
+    {
+      "id": "12934-2042",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 500,
+        "quantity_max": null,
+        "rarity": "0.0201612903225806"
+      },
+      "meta": {
+        "item_name": "Zulrah's scales",
+        "monster_name": "Zulrah (Serpentine)"
+      }
+    }
+  ]
+}

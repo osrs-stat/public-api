@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "7899-9258",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.25"
+      },
+      "meta": {
+        "item_name": "Basilisk bone (Unpolished)",
+        "monster_name": "Basilisk Sentinel"
+      }
+    },
+    {
+      "id": "7899-9293",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.25"
+      },
+      "meta": {
+        "item_name": "Basilisk bone (Unpolished)",
+        "monster_name": "Basilisk Knight"
+      }
+    },
+    {
+      "id": "7899-417",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.25"
+      },
+      "meta": {
+        "item_name": "Basilisk bone (Unpolished)",
+        "monster_name": "Basilisk"
+      }
+    },
+    {
+      "id": "7899-7395",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.25"
+      },
+      "meta": {
+        "item_name": "Basilisk bone (Unpolished)",
+        "monster_name": "Monstrous basilisk"
+      }
+    }
+  ]
+}

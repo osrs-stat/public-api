@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "21646-7794",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.001953125"
+      },
+      "meta": {
+        "item_name": "Granite longsword",
+        "monster_name": "Spitting Wyvern"
+      }
+    },
+    {
+      "id": "21646-7793",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.001953125"
+      },
+      "meta": {
+        "item_name": "Granite longsword",
+        "monster_name": "Taloned Wyvern"
+      }
+    },
+    {
+      "id": "21646-7792",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.001953125"
+      },
+      "meta": {
+        "item_name": "Granite longsword",
+        "monster_name": "Long-tailed Wyvern"
+      }
+    },
+    {
+      "id": "21646-7795",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00166666666666667"
+      },
+      "meta": {
+        "item_name": "Granite longsword",
+        "monster_name": "Ancient Wyvern"
+      }
+    }
+  ]
+}

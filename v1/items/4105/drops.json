@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "4105-7391",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00390625"
+      },
+      "meta": {
+        "item_name": "Mystic gloves (dark)",
+        "monster_name": "Screaming twisted banshee"
+      }
+    },
+    {
+      "id": "4105-414",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.001953125"
+      },
+      "meta": {
+        "item_name": "Mystic gloves (dark)",
+        "monster_name": "Banshee"
+      }
+    },
+    {
+      "id": "4105-7272",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.00390625"
+      },
+      "meta": {
+        "item_name": "Mystic gloves (dark)",
+        "monster_name": "Twisted Banshee"
+      }
+    },
+    {
+      "id": "4105-7390",
+      "type": "drop",
+      "attributes": {
+        "members": true,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.001953125"
+      },
+      "meta": {
+        "item_name": "Mystic gloves (dark)",
+        "monster_name": "Screaming banshee"
+      }
+    }
+  ]
+}

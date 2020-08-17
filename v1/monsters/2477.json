@@ -1,0 +1,118 @@
+{
+  "data": {
+    "id": "2477",
+    "type": "monster",
+    "attributes": {
+      "uuid": "8e54fcbd-4338-4f6a-a733-df7383f623c5",
+      "name": "Giant spider (Level 50)",
+      "members": false,
+      "release_date": "2006-07-04",
+      "examine": "I think this spider has been genetically modified.",
+      "combat_level_override": null,
+      "max_hit_override": null,
+      "target_types": [
+
+      ],
+      "classification_types": [
+        "spider"
+      ],
+      "poison": false,
+      "immune_poison": false,
+      "immune_venom": false,
+      "slayer_xp": 50.0,
+      "slayer_level": 1,
+      "slayer_masters": [
+        "turael",
+        "krystilia"
+      ],
+      "icon_base64": null
+    },
+    "relationships": {
+      "combat_stat": {
+        "data": {
+          "id": "ddb6814e-5d99-4775-b2ea-f8bbc307c715",
+          "type": "combat_stat"
+        }
+      },
+      "equip_stat": {
+        "data": {
+          "id": "27ac1f95-7fdc-491c-bd58-9110547bc480",
+          "type": "equip_stat"
+        }
+      },
+      "attack_stat": {
+        "data": {
+          "id": "d6e05148-50fc-4a8d-9c8d-581d18efb7ab",
+          "type": "attack_stat"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Giant_spider#Level_50"
+    },
+    "meta": {
+      "incomplete": true
+    }
+  },
+  "included": [
+    {
+      "id": "d6e05148-50fc-4a8d-9c8d-581d18efb7ab",
+      "type": "attack_stat",
+      "attributes": {
+        "attack_speed": 4,
+        "attack_type": "monster",
+        "special": null,
+        "stances": [
+          {
+            "name": "Monster stab",
+            "style": null,
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": null,
+            "combat_accuracy_stat": "attack_level",
+            "combat_damage_stat": "strength_level",
+            "equip_accuracy_stat": "stab_attack",
+            "equip_damage_stat": "stab_attack",
+            "target_equip_defense_stat": "stab_defense"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ddb6814e-5d99-4775-b2ea-f8bbc307c715",
+      "type": "monster_combat_stat",
+      "attributes": {
+        "hitpoints_level": 50,
+        "attack_level": 41,
+        "strength_level": 51,
+        "defense_level": 31,
+        "magic_level": 1,
+        "ranged_level": 1,
+        "prayer_level": 0
+      }
+    },
+    {
+      "id": "27ac1f95-7fdc-491c-bd58-9110547bc480",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 10,
+        "slash_attack": 10,
+        "crush_attack": 10,
+        "ranged_attack": 0,
+        "magic_attack": 0,
+        "stab_defense": 10,
+        "slash_defense": 10,
+        "crush_defense": 10,
+        "ranged_defense": 10,
+        "magic_defense": 10,
+        "melee_strength": 10,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

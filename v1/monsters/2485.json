@@ -1,0 +1,117 @@
+{
+  "data": {
+    "id": "2485",
+    "type": "monster",
+    "attributes": {
+      "uuid": "e3057889-e812-46ca-b639-d4da792a9204",
+      "name": "Goblin (Level 13)",
+      "members": false,
+      "release_date": "2006-07-04",
+      "examine": "These goblins have grown strong.",
+      "combat_level_override": null,
+      "max_hit_override": null,
+      "target_types": [
+
+      ],
+      "classification_types": [
+        "goblin"
+      ],
+      "poison": false,
+      "immune_poison": false,
+      "immune_venom": false,
+      "slayer_xp": 16.0,
+      "slayer_level": 1,
+      "slayer_masters": [
+        "turael"
+      ],
+      "icon_base64": null
+    },
+    "relationships": {
+      "combat_stat": {
+        "data": {
+          "id": "32bc20ba-a864-484a-821e-226e4c47d4ec",
+          "type": "combat_stat"
+        }
+      },
+      "equip_stat": {
+        "data": {
+          "id": "b9df4975-26ef-4d69-8ee3-97c2149818c9",
+          "type": "equip_stat"
+        }
+      },
+      "attack_stat": {
+        "data": {
+          "id": "8bf5b8d0-6268-4067-aef0-8a42d12a8937",
+          "type": "attack_stat"
+        }
+      }
+    },
+    "links": {
+      "wiki_url": "https://oldschool.runescape.wiki/w/Goblin#Level_13"
+    },
+    "meta": {
+      "incomplete": true
+    }
+  },
+  "included": [
+    {
+      "id": "8bf5b8d0-6268-4067-aef0-8a42d12a8937",
+      "type": "attack_stat",
+      "attributes": {
+        "attack_speed": 4,
+        "attack_type": "monster",
+        "special": null,
+        "stances": [
+          {
+            "name": "Monster crush",
+            "style": null,
+            "boosts": {
+              "accuracy": 1,
+              "damage": 1,
+              "defense": 1
+            },
+            "experience": null,
+            "combat_accuracy_stat": "attack_level",
+            "combat_damage_stat": "strength_level",
+            "equip_accuracy_stat": "crush_attack",
+            "equip_damage_stat": "crush_attack",
+            "target_equip_defense_stat": "crush_defense"
+          }
+        ]
+      }
+    },
+    {
+      "id": "32bc20ba-a864-484a-821e-226e4c47d4ec",
+      "type": "monster_combat_stat",
+      "attributes": {
+        "hitpoints_level": 16,
+        "attack_level": 12,
+        "strength_level": 13,
+        "defense_level": 7,
+        "magic_level": 1,
+        "ranged_level": 1,
+        "prayer_level": 0
+      }
+    },
+    {
+      "id": "b9df4975-26ef-4d69-8ee3-97c2149818c9",
+      "type": "equip_stat",
+      "attributes": {
+        "stab_attack": 0,
+        "slash_attack": 0,
+        "crush_attack": 0,
+        "ranged_attack": 0,
+        "magic_attack": 0,
+        "stab_defense": 4,
+        "slash_defense": 6,
+        "crush_defense": 8,
+        "ranged_defense": 4,
+        "magic_defense": 4,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_bonus": 0,
+        "prayer_bonus": 0
+      }
+    }
+  ]
+}

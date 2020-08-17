@@ -1,0 +1,84 @@
+{
+  "data": [
+    {
+      "id": "9008-2516",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03"
+      },
+      "meta": {
+        "item_name": "Left skull half",
+        "monster_name": "Ankou (Level 86)"
+      }
+    },
+    {
+      "id": "9008-2515",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03"
+      },
+      "meta": {
+        "item_name": "Left skull half",
+        "monster_name": "Ankou (Level 82)"
+      }
+    },
+    {
+      "id": "9008-2514",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03"
+      },
+      "meta": {
+        "item_name": "Left skull half",
+        "monster_name": "Ankou (Level 75)"
+      }
+    },
+    {
+      "id": "9008-7864",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03"
+      },
+      "meta": {
+        "item_name": "Left skull half",
+        "monster_name": "Ankou (Level 98)"
+      }
+    },
+    {
+      "id": "9008-7257",
+      "type": "drop",
+      "attributes": {
+        "members": false,
+        "drop_requirements": null,
+        "noted": false,
+        "quantity_min": 1,
+        "quantity_max": null,
+        "rarity": "0.03"
+      },
+      "meta": {
+        "item_name": "Left skull half",
+        "monster_name": "Ankou (Level 95)"
+      }
+    }
+  ]
+}
